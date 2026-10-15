@@ -11,8 +11,8 @@ Track B has only 3 projects, 2 collaborative. Knowledge Graph project is the wea
 
 ## Hard fact rules (never break)
 
-- Kaggle profile bio is outdated ("junior at FAST-NUCES"): do NOT link Kaggle until the user confirms it is updated. Notebook contents unverified: never claim predictive-modelling results from them.
-- TMC client: write "a textile manufacturer". Do NOT name the client (Gatronova) until the user confirms it is allowed.
+- Kaggle (kaggle.com/rayyan123z) MAY be linked (user is updating the bio). Notebooks show EDA and visualization only: never claim models, metrics or predictive-modelling results from them.
+- TMC client: ALWAYS write "a textile manufacturer". NEVER name the client (user confirmed it cannot be named).
 - Grade: write "German grade equivalent: 1.7 (converted)". It is not an official university grade.
 - English: IELTS 8.0 = C1. Never claim C2. German: A1, currently learning.
 - Python automation is weak: never claim automation, RPA or workflow automation.
@@ -31,3 +31,7 @@ Any city in Germany is fine (relocation possible). Remote and hybrid are welcome
 ## Language policy
 
 English-speaking roles preferred. Roles requiring fluent German (B2+/C1/"verhandlungssicher"/"fließend") are LOW priority, not discarded: score them lower and flag "German required" in the digest. German "a plus" is fine.
+
+## Availability (confirmed)
+
+Available immediately; up to 20 hours/week during the semester (more during semester breaks only if the posting asks).

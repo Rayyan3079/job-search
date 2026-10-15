@@ -1,6 +1,48 @@
 {
-  "allow_metrics": ["30 SAC dashboards", "42 SAC dashboards", "around 30", "42", "94.11%", "968-image", "3.49/4.00", "1.7", "IELTS 8.0", "4 SAP", "Four SAP"],
-  "allow_facts": ["Tapal Tea", "TallyMarks Consulting", "TU Ilmenau", "Technische Universität Ilmenau", "FAST-NUCES", "SAP Young Professionals Program"],
-  "forbidden_phrases": ["DAX", "TensorFlow", "Tableau", "Qlik", "Power Automate", "Power Apps", "Celonis", "SharePoint", "Jira", "Power BI developer", "RPA", "Gatronova", "C2", "AWS", "Azure", "Google Cloud", "prompt engineering", "Copilot"],
-  "warn_phrases": ["automation", "Kaggle", "GitHub", "Git"]
+  "allow_metrics": [
+    "30 SAC dashboards",
+    "42 SAC dashboards",
+    "around 30",
+    "42",
+    "94.11%",
+    "968-image",
+    "3.49/4.00",
+    "1.7",
+    "IELTS 8.0",
+    "4 SAP",
+    "Four SAP"
+  ],
+  "allow_facts": [
+    "Tapal Tea",
+    "TallyMarks Consulting",
+    "TU Ilmenau",
+    "Technische Universit\u00e4t Ilmenau",
+    "FAST-NUCES",
+    "SAP Young Professionals Program"
+  ],
+  "forbidden_phrases": [
+    "DAX",
+    "TensorFlow",
+    "Tableau",
+    "Qlik",
+    "Power Automate",
+    "Power Apps",
+    "Celonis",
+    "SharePoint",
+    "Jira",
+    "Power BI developer",
+    "RPA",
+    "Gatronova",
+    "C2",
+    "AWS",
+    "Azure",
+    "Google Cloud",
+    "prompt engineering",
+    "Copilot"
+  ],
+  "warn_phrases": [
+    "automation",
+    "GitHub",
+    "Git"
+  ]
 }

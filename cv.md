@@ -4,6 +4,7 @@
 **Email:** muhammad-rayyan.ahmed@tu-ilmenau.de
 **Phone:** +49 179 6991596
 **LinkedIn:** linkedin.com/in/rayyan--ahmed
+**Kaggle:** kaggle.com/rayyan123z
 
 ## Professional Summary
 
@@ -39,6 +40,7 @@ Jun 2025 - Apr 2026
 
 - **Retinal OCT Scan Classification** (PyTorch, EfficientNet-B0, OpenCV) -- 4-class classifier on a pretrained EfficientNet-B0; 94.11% accuracy on a 968-image test set. Preprocessing and augmentation: denoising, resizing, rotation, cropping, flipping
 - **Automated Cricket Highlights Generation** (PyTorch, OpenCV, EfficientNet-B0, EasyOCR, FFmpeg) -- B.S. final-year thesis, team project. My part: created training data, evaluated and tuned the EfficientNet-B0 model, tested EasyOCR configurations for scoreboard extraction, and built the video extraction and highlight assembly pipeline aligning detected events with timestamps
+- **Kaggle notebooks** (Python) -- Exploratory data analysis and visualization notebooks: Spotify Top Songs, Obesity EDA & Predictions, Heart Attack EDA & Prediction (kaggle.com/rayyan123z)
 - **Knowledge Graph Construction & Clustering from Reddit Text** (Python, spaCy, NetworkX, Node2Vec, BERT, GPT-2) -- Team project on a professor-provided dataset. Extracted subject-relation-object triples; compared graph-based and language-model embeddings with K-Means and HDBSCAN
 
 ## Education

@@ -6,11 +6,27 @@
     "title": "M.Sc. Data Science Student | SAP Data & Analytics",
     "phone": "+49 179 6991596",
     "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
-    "linkedin": { "url": "https://www.linkedin.com/in/rayyan--ahmed/", "display": "linkedin.com/in/rayyan--ahmed" },
-    "location": "Ilmenau, Germany"
+    "linkedin": {
+      "url": "https://www.linkedin.com/in/rayyan--ahmed/",
+      "display": "linkedin.com/in/rayyan--ahmed"
+    },
+    "location": "Ilmenau, Germany",
+    "portfolio": {
+      "url": "https://www.kaggle.com/rayyan123z",
+      "display": "kaggle.com/rayyan123z"
+    }
   },
   "summary": "M.Sc. Data Science student at TU Ilmenau with professional experience in **SAP data modelling, SAP Datasphere, SAP Analytics Cloud and ABAP CDS views**, and a background in Python and machine learning. Four SAP Certified Associate certifications.",
-  "competencies": ["SAP Analytics Cloud", "SAP Datasphere", "ABAP CDS Views", "Data Modelling", "KPI Reporting", "SQL", "Data Reconciliation", "Python"],
+  "competencies": [
+    "SAP Analytics Cloud",
+    "SAP Datasphere",
+    "ABAP CDS Views",
+    "Data Modelling",
+    "KPI Reporting",
+    "SQL",
+    "Data Reconciliation",
+    "Python"
+  ],
   "experience": [
     {
       "company": "Tapal Tea (Pvt.) Ltd.",
@@ -39,23 +55,72 @@
     }
   ],
   "projects": [
-    { "name": "Retinal OCT Scan Classification", "tech": "PyTorch, EfficientNet-B0, OpenCV", "description": "4-class classifier on a pretrained EfficientNet-B0; 94.11% accuracy on a 968-image test set." },
-    { "name": "Automated Cricket Highlights Generation", "badge": "B.S. Thesis", "tech": "PyTorch, OpenCV, EasyOCR, FFmpeg", "description": "Team project. Created training data, tuned the EfficientNet-B0 model, tested EasyOCR for scoreboard extraction and built the highlight assembly pipeline." }
+    {
+      "name": "Retinal OCT Scan Classification",
+      "tech": "PyTorch, EfficientNet-B0, OpenCV",
+      "description": "4-class classifier on a pretrained EfficientNet-B0; 94.11% accuracy on a 968-image test set."
+    },
+    {
+      "name": "Automated Cricket Highlights Generation",
+      "badge": "B.S. Thesis",
+      "tech": "PyTorch, OpenCV, EasyOCR, FFmpeg",
+      "description": "Team project. Created training data, tuned the EfficientNet-B0 model, tested EasyOCR for scoreboard extraction and built the highlight assembly pipeline."
+    }
   ],
   "education": [
-    { "title": "M.Sc. Data Science", "org": "Technische Universität Ilmenau", "location": "Ilmenau, Germany", "year": "Oct 2026 - present", "description": "Courses: Bayesian Data Assimilation, Sequential Decision Making, Theoretical Foundations of Data Management" },
-    { "title": "B.S. Artificial Intelligence", "org": "FAST-NUCES", "location": "Karachi, Pakistan", "year": "2021 - 2025", "description": "CGPA 3.49/4.00 (German grade equivalent: 1.7, converted)" }
+    {
+      "title": "M.Sc. Data Science",
+      "org": "Technische Universität Ilmenau",
+      "location": "Ilmenau, Germany",
+      "year": "Oct 2026 - present",
+      "description": "Courses: Bayesian Data Assimilation, Sequential Decision Making, Theoretical Foundations of Data Management"
+    },
+    {
+      "title": "B.S. Artificial Intelligence",
+      "org": "FAST-NUCES",
+      "location": "Karachi, Pakistan",
+      "year": "2021 - 2025",
+      "description": "CGPA 3.49/4.00 (German grade equivalent: 1.7, converted)"
+    }
   ],
   "certifications": [
-    { "title": "SAP Certified Associate: SAP Analytics Cloud (Data Analyst)", "org": "SAP", "year": "2025" },
-    { "title": "SAP Certified Associate: SAP Business Data Cloud", "org": "SAP", "year": "2025" },
-    { "title": "SAP Certified Associate: SAP S/4HANA Cloud Public Edition, Implementation Consultant", "org": "SAP", "year": "2025" },
-    { "title": "SAP Certified Associate: SAP Integration Developer", "org": "SAP", "year": "2025" }
+    {
+      "title": "SAP Certified Associate: SAP Analytics Cloud (Data Analyst)",
+      "org": "SAP",
+      "year": "2025"
+    },
+    {
+      "title": "SAP Certified Associate: SAP Business Data Cloud",
+      "org": "SAP",
+      "year": "2025"
+    },
+    {
+      "title": "SAP Certified Associate: SAP S/4HANA Cloud Public Edition, Implementation Consultant",
+      "org": "SAP",
+      "year": "2025"
+    },
+    {
+      "title": "SAP Certified Associate: SAP Integration Developer",
+      "org": "SAP",
+      "year": "2025"
+    }
   ],
   "skills": [
-    { "category": "SAP & Analytics", "items": "SAP Analytics Cloud, SAP Datasphere, ABAP CDS views, SAP Business Data Cloud, data modelling, ETL, data pipelines, SQL" },
-    { "category": "Programming & ML", "items": "Python, Pandas, NumPy, scikit-learn, PyTorch, OpenCV" },
-    { "category": "Tools", "items": "Power BI (basic), Excel (pivot tables, formulas), PowerPoint, Matplotlib" },
-    { "category": "Languages", "items": "English (fluent, IELTS 8.0 / C1), German (A1, learning)" }
+    {
+      "category": "SAP & Analytics",
+      "items": "SAP Analytics Cloud, SAP Datasphere, ABAP CDS views, SAP Business Data Cloud, data modelling, ETL, data pipelines, SQL"
+    },
+    {
+      "category": "Programming & ML",
+      "items": "Python, Pandas, NumPy, scikit-learn, PyTorch, OpenCV"
+    },
+    {
+      "category": "Tools",
+      "items": "Power BI (basic), Excel (pivot tables, formulas), PowerPoint, Matplotlib"
+    },
+    {
+      "category": "Languages",
+      "items": "English (fluent, IELTS 8.0 / C1), German (A1, learning)"
+    }
   ]
 }

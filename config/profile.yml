@@ -4,7 +4,7 @@ candidate:
   phone: "+49 179 6991596"
   location: "Ilmenau, Germany"
   linkedin: "linkedin.com/in/rayyan--ahmed"
-  portfolio_url: ""
+  portfolio_url: "https://www.kaggle.com/rayyan123z"
   github: ""
   photo: ""
 
@@ -71,7 +71,7 @@ cv:
   output_format: "html"
 
 cover_letter:
-  notice_period_days: 0
+  notice_period_days: 0   # available immediately; up to 20 h/week during the semester (confirmed)
   primary_domain: "SAP data & analytics"
   language_learning:
     - language: German
