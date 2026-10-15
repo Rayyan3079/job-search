@@ -32,6 +32,12 @@ Run all sources; a source that fails is noted in the digest, not fatal.
 
 Drop any URL already in `data/seen.tsv`. Merge duplicates (same company + same title).
 
+Helpers (used in the 2026-10-15 run):
+- `python3 scripts/triage.py $CAREER_OPS_DATA_DIR/data/pipeline.md runs/$TODAY-linkedin.tsv > runs/$TODAY-shortlist.tsv` ranks titles by relevance.
+- `python3 scripts/fetch-jd.py <url>` prints the full description (LinkedIn guest API or arbeitsagentur.de).
+- Most German Werkstudent postings are written in German: an English-language posting or "German is a plus" is what makes a job Tier 1.
+- German-language postings without an explicit fluent-German line are Tier 2: list them, and package only the strongest Track A fits if there are fewer than 12 Tier 1 jobs.
+
 ## 2. Qualify each new job
 
 For each candidate, fetch the posting (curl, or WebFetch) and record:
