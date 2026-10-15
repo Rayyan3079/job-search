@@ -1,2 +1,4 @@
 # report	pdf	html	format	date	kind - written by generate-pdf.mjs, do not edit
 	output/base/cv-track-a.pdf	output/base/cv-track-a.html	a4	2026-10-15	cv
+	output/2026-10-15/sana-werkstudent-healthcare-it/CV-Muhammad-Rayyan-Ahmed.pdf	output/2026-10-15/sana-werkstudent-healthcare-it/cv.html	a4	2026-10-15	cv
+	output/2026-10-15/sana-werkstudent-healthcare-it/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf	output/2026-10-15/sana-werkstudent-healthcare-it/cover.json	letter	2026-10-15	cover

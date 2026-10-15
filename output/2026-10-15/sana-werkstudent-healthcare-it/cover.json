@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Werkstudent (m/w/d) Healthcare IT",
+    "company": "Sana IT Services GmbH",
+    "city": "Germany",
+    "date": "2026-10-15",
+    "greeting": "Dear Mr Puric,",
+    "opening": "I am applying for the Werkstudent position in Healthcare IT at Sana IT Services. I am an M.Sc. Data Science student at TU Ilmenau, and supporting the teams behind the digitalisation of one of Germany's largest hospital groups is exactly the kind of practical IT work I want alongside my studies.",
+    "profile_intro": "Before moving to Germany I worked as a Business Analyst at Tapal Tea and in SAP data & analytics consulting at TallyMarks Consulting. Much of that work was day-to-day support: helping users, resolving tickets and keeping systems running reliably for business teams.",
+    "achievements": [
+      {
+        "lead": "Daily user support",
+        "impact": "handled support tickets and user queries for around 30 SAP Analytics Cloud dashboards used by HR, finance, supply chain and procurement"
+      },
+      {
+        "lead": "Careful documentation",
+        "impact": "documented data sources, calculations and results for every dashboard I built, so colleagues could support them too"
+      },
+      {
+        "lead": "Structured SAP training",
+        "impact": "selected as one of 10 participants from Pakistan for the SAP Young Professionals Program, covering S/4HANA Cloud implementation and SAP Cloud Integration concepts"
+      }
+    ],
+    "problems_section": "In your team I would take on user creation and account maintenance carefully and reliably, support the specialist teams in daily operations and projects, and take over administrative tasks so they can focus on their work. My B.S. in Artificial Intelligence included a medical imaging project (a retinal OCT scan classifier), so healthcare IT is a field I am genuinely interested in.",
+    "closing": "I am available immediately for up to 20 hours per week and can work both remotely and on site. I would be glad to discuss how I can support your team.",
+    "language_closing": "My working language is English (IELTS 8.0); I am currently taking German classes (A1) and am improving steadily."
+  },
+  "output_path": "output/2026-10-15/sana-werkstudent-healthcare-it/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}
