@@ -18,12 +18,23 @@ M.Sc. Data Science student at TU Ilmenau with professional experience in SAP dat
 Apr 2026 - Sep 2026
 
 - Built a quality inspection dashboard in SAP Analytics Cloud on a data model built from ABAP CDS view data sources and joins, replacing a manual process in which users opened an SAP report per material for thousands of materials and compiled defect status in Excel
-- Built a tea purchasing dashboard in SAP Analytics Cloud
+- Built an employee expense reimbursement dashboard
 - Handled daily support tickets and user queries for around 30 SAP Analytics Cloud dashboards across HR, finance, supply chain and procurement, including dashboards built by others
 - Performed SQL analysis, ABAP CDS view validation and data reconciliation to support reporting accuracy
 - Translated business requirements into KPI-based reporting
 - Wrote complete documentation for the dashboards I built, covering data sources, calculations, the dashboard and the resulting numbers
 - Built a simple Power BI dashboard for the CEO comparing current-month sales with the fiscal-year sales plan, used to track performance and adjust strategy
+
+### SAP Authorized Training Program -- Karachi, Pakistan
+
+**SAP Young Professionals Program (YPP)**
+Aug 2025 - Sep 2025
+
+- Selected as one of 10 participants from Pakistan for the SAP Young Professionals Program
+- Completed intensive training on SAP S/4HANA Cloud Public Edition implementation, covering end-to-end business processes and system configuration
+- Gained hands-on exposure to SAP Activate methodology, Fit-to-Standard workshops and cloud-based best practices
+- Studied SAP Cloud Integration (CPI) concepts including message mappings, iFlows and integration scenarios
+- Earned SAP Certified Associate: SAP S/4HANA Cloud Public Edition, Implementation Consultant, and SAP Certified Associate: Integration Developer
 
 ### TallyMarks Consulting (TMC) -- Karachi, Pakistan
 
@@ -35,6 +46,16 @@ Jun 2025 - Apr 2026
 - Dashboard KPIs: Overall Equipment Effectiveness (OEE), machine efficiency and utilization, downtime and yield
 - Designed and implemented SAP Datasphere data pipelines connecting the required sources
 - Prepared and presented a client presentation on SAP Analytics Cloud; the client subsequently purchased it
+
+### Tapal Tea (Pvt.) Ltd. -- Karachi, Pakistan
+
+**SAP Data Analyst Intern**
+Jun 2024 - Aug 2024
+
+- Analyzed company purchase data from SAP reports to uncover key trends and insights, improving procurement decision-making
+- Developed interactive dashboards in SAP Analytics Cloud (SAC) and Power BI, enabling real-time visualization of purchasing data and faster report generation
+- Collected and refined user stories from employees to design customized dashboards that streamlined operational workflows and reduced manual data processing
+- Wrote complex SQL queries to integrate company-wide data with SAC, enabling seamless data updates and minimizing reliance on manual extraction
 
 ## Projects
 

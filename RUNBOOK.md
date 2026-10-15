@@ -50,8 +50,9 @@ For each job, slug = `company-role` (lowercase, hyphens). Folder: `output/$TODAY
 
 1. Save the job description verbatim to `jds/$TODAY-<slug>.md` (header: URL, company, title, date found, posting date).
 2. **Tailored CV:** start from `runs/base-track-a.json` (Track A) and adapt to the role:
-   - Track B roles: use the Track B summary from `modes/_profile.md`, put Projects before Experience emphasis
-     (bullets referencing Python/ML first), include the Knowledge Graph project only if space allows.
+   - **Projects: omit them** (the base payload has none) EXCEPT for AI/ML-heavy roles (ML, data science with modelling,
+     computer vision, NLP, AI): then add a `projects` array (Retinal OCT, Cricket Highlights; Knowledge Graph only if space
+     allows; take facts from `cv.md`) and use the Track B summary from `modes/_profile.md`.
    - Reorder bullets and competencies to mirror the posting's wording. Rephrase, never invent.
      Every claim must trace to `cv.md`. Obey every rule in `modes/_profile.md`.
    - `candidate.title` = a truthful headline matching the role (e.g. "M.Sc. Data Science Student | Working Student Applicant, BI & Analytics").

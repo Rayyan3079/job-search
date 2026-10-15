@@ -23,8 +23,8 @@ version: 1.0.0
     --rule: #8c8c8c;
     --link: #1a6fc4;
     --font-family: "InterCV", "Liberation Sans", Arial, sans-serif;
-    --font-size: 10.2px;
-    --page-margin: 0.5in;
+    --font-size: 9.8px;
+    --page-margin: 0.45in;
     --job-break-inside: auto;
     --project-break-inside: avoid;
   }
@@ -33,7 +33,7 @@ version: 1.0.0
       font-variant-ligatures: none; font-feature-settings: "liga" 0, "clig" 0, "dlig" 0; }
   html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
   body { font-family: var(--font-family); font-size: var(--font-size); color: var(--ink);
-         line-height: 1.45; background: #fff; }
+         line-height: 1.38; background: #fff; }
   .page { width: {{PAGE_WIDTH}}; max-width: 100%; margin: 0 auto; }
   a { color: inherit; text-decoration: none; }
 
@@ -48,7 +48,7 @@ version: 1.0.0
   .relocate { text-align: right; font-size: 8.5px; font-weight: 700; margin-top: 1px; }
 
   /* Sections */
-  .section { padding-bottom: 7px; margin-bottom: 7px; border-bottom: 1px solid var(--rule); }
+  .section { padding-bottom: 5px; margin-bottom: 6px; border-bottom: 1px solid var(--rule); }
   .section:last-of-type { border-bottom: none; }
   .section-title { font-size: 13px; font-weight: 700; text-transform: uppercase; color: #333; margin-bottom: 4px; }
   .summary-text { text-align: justify; }
@@ -60,7 +60,7 @@ version: 1.0.0
   .skill-category { font-weight: 600; }
 
   /* Experience */
-  .job { break-inside: var(--job-break-inside); margin-bottom: 7px; }
+  .job { break-inside: var(--job-break-inside); margin-bottom: 5px; }
   .job-header { display: flex; justify-content: space-between; align-items: baseline; }
   .job-role { font-weight: 600; font-size: 10.6px; }
   .job-role::before { content: "\25B7"; display: inline-block; width: 15px; font-weight: 400; }
@@ -112,20 +112,23 @@ version: 1.0.0
       <a href="{{LINKEDIN_URL}}">{{LINKEDIN_DISPLAY}}</a>
       <a href="{{PORTFOLIO_URL}}">{{PORTFOLIO_DISPLAY}}</a>
     </div>
-    <div class="badge">SAP Certified<br>Associate ×4</div>
+    <div class="badge">SAP Certified<br>Associate</div>
     <div class="relocate">(Willing to relocate)</div>
   </div>
 
+  <!-- PROFESSIONAL SUMMARY -->
   <div class="section">
     <div class="section-title">{{SECTION_SUMMARY}}</div>
     <div class="summary-text">{{SUMMARY_TEXT}}</div>
   </div>
 
+  <!-- SKILLS -->
   <div class="section">
     <div class="section-title">{{SECTION_SKILLS}}</div>
     <div class="skills-body">{{SKILLS}}</div>
   </div>
 
+  <!-- WORK EXPERIENCE -->
   <div class="section">
     <div class="section-title">{{SECTION_EXPERIENCE}}</div>
     <div class="experience-body">
@@ -133,6 +136,7 @@ version: 1.0.0
     </div>
   </div>
 
+  <!-- PROJECTS -->
   <div class="section">
     <div class="section-title">{{SECTION_PROJECTS}}</div>
     <div class="projects-body">
@@ -140,6 +144,7 @@ version: 1.0.0
     </div>
   </div>
 
+  <!-- EDUCATION -->
   <div class="section">
     <div class="section-title">{{SECTION_EDUCATION}}</div>
     <div class="education-body">
@@ -147,11 +152,13 @@ version: 1.0.0
     </div>
   </div>
 
+  <!-- CERTIFICATIONS -->
   <div class="section">
     <div class="section-title">{{SECTION_CERTIFICATIONS}}</div>
     <div class="cert-table">{{CERTIFICATIONS}}</div>
   </div>
 
+  <!-- END -->
   <div class="cv-consent">{{CONSENT}}</div>
 </div>
 </body>

@@ -25,10 +25,22 @@
       "dates": "Apr 2026 - Sep 2026",
       "bullets": [
         "Built a quality inspection dashboard in **SAP Analytics Cloud** on a data model built from **ABAP CDS view** data sources and joins, replacing a manual process of opening an SAP report per material for thousands of materials and compiling defect status in Excel",
-        "Built a tea purchasing dashboard in SAP Analytics Cloud",
+        "Built an employee expense reimbursement dashboard",
         "Handled daily support tickets and user queries for around 30 SAC dashboards across HR, finance, supply chain and procurement, including dashboards built by others",
         "Performed SQL analysis, ABAP CDS view validation and data reconciliation to support reporting accuracy",
         "Translated business requirements into KPI-based reporting and documented data sources, calculations and results for every dashboard I built"
+      ]
+    },
+    {
+      "company": "SAP Authorized Training Program",
+      "role": "SAP Young Professionals Program (YPP)",
+      "location": "Karachi, Pakistan",
+      "dates": "Aug 2025 - Sep 2025",
+      "bullets": [
+        "Selected as **one of 10 participants from Pakistan** for the SAP Young Professionals Program",
+        "Completed intensive training on **SAP S/4HANA Cloud Public Edition** implementation, covering end-to-end business processes and system configuration",
+        "Gained hands-on exposure to SAP Activate methodology, Fit-to-Standard workshops and cloud-based best practices",
+        "Studied SAP Cloud Integration (CPI) concepts including message mappings, iFlows and integration scenarios"
       ]
     },
     {
@@ -42,19 +54,18 @@
         "Designed and implemented SAP Datasphere data pipelines connecting the required sources",
         "Prepared and presented a client presentation on SAP Analytics Cloud; the client subsequently purchased it"
       ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "Retinal OCT Scan Classification",
-      "tech": "PyTorch, EfficientNet-B0, OpenCV",
-      "description": "4-class classifier on a pretrained EfficientNet-B0; 94.11% accuracy on a 968-image test set."
     },
     {
-      "name": "Automated Cricket Highlights Generation",
-      "badge": "B.S. Thesis",
-      "tech": "PyTorch, OpenCV, EasyOCR, FFmpeg",
-      "description": "Team project. Created training data, tuned the EfficientNet-B0 model, tested EasyOCR for scoreboard extraction and built the highlight assembly pipeline."
+      "company": "Tapal Tea (Pvt.) Ltd.",
+      "role": "SAP Data Analyst Intern",
+      "location": "Karachi, Pakistan",
+      "dates": "Jun 2024 - Aug 2024",
+      "bullets": [
+        "Analyzed company purchase data from SAP reports to uncover key trends and insights, improving procurement decision-making",
+        "Developed interactive dashboards in **SAP Analytics Cloud** and Power BI, enabling real-time visualization of purchasing data and faster report generation",
+        "Collected and refined user stories from employees to design customized dashboards that streamlined operational workflows and reduced manual data processing",
+        "Wrote complex SQL queries to integrate company-wide data with SAC, enabling seamless data updates and minimizing reliance on manual extraction"
+      ]
     }
   ],
   "education": [
@@ -117,5 +128,6 @@
     "skills": "Technical Skills",
     "experience": "Professional Experience",
     "certifications": "Certifications"
-  }
+  },
+  "projects": []
 }

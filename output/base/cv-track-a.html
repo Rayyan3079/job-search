@@ -23,8 +23,8 @@ version: 1.0.0
     --rule: #8c8c8c;
     --link: #1a6fc4;
     --font-family: "InterCV", "Liberation Sans", Arial, sans-serif;
-    --font-size: 10.2px;
-    --page-margin: 0.5in;
+    --font-size: 9.8px;
+    --page-margin: 0.45in;
     --job-break-inside: auto;
     --project-break-inside: avoid;
   }
@@ -33,7 +33,7 @@ version: 1.0.0
       font-variant-ligatures: none; font-feature-settings: "liga" 0, "clig" 0, "dlig" 0; }
   html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
   body { font-family: var(--font-family); font-size: var(--font-size); color: var(--ink);
-         line-height: 1.45; background: #fff; }
+         line-height: 1.38; background: #fff; }
   .page { width: 210mm; max-width: 100%; margin: 0 auto; }
   a { color: inherit; text-decoration: none; }
 
@@ -48,7 +48,7 @@ version: 1.0.0
   .relocate { text-align: right; font-size: 8.5px; font-weight: 700; margin-top: 1px; }
 
   /* Sections */
-  .section { padding-bottom: 7px; margin-bottom: 7px; border-bottom: 1px solid var(--rule); }
+  .section { padding-bottom: 5px; margin-bottom: 6px; border-bottom: 1px solid var(--rule); }
   .section:last-of-type { border-bottom: none; }
   .section-title { font-size: 13px; font-weight: 700; text-transform: uppercase; color: #333; margin-bottom: 4px; }
   .summary-text { text-align: justify; }
@@ -60,7 +60,7 @@ version: 1.0.0
   .skill-category { font-weight: 600; }
 
   /* Experience */
-  .job { break-inside: var(--job-break-inside); margin-bottom: 7px; }
+  .job { break-inside: var(--job-break-inside); margin-bottom: 5px; }
   .job-header { display: flex; justify-content: space-between; align-items: baseline; }
   .job-role { font-weight: 600; font-size: 10.6px; }
   .job-role::before { content: "\25B7"; display: inline-block; width: 15px; font-weight: 400; }
@@ -112,15 +112,17 @@ version: 1.0.0
       <a href="https://www.kaggle.com/rayyan123z">kaggle.com/rayyan123z</a>
       <span>Ilmenau, Germany</span>
     </div>
-    <div class="badge">SAP Certified<br>Associate ×4</div>
+    <div class="badge">SAP Certified<br>Associate</div>
     <div class="relocate">(Willing to relocate)</div>
   </div>
 
+  <!-- PROFESSIONAL SUMMARY -->
   <div class="section">
     <div class="section-title">Professional Summary</div>
     <div class="summary-text">M.Sc. Data Science student at TU Ilmenau with professional experience in **SAP data modelling, SAP Datasphere, SAP Analytics Cloud and ABAP CDS views**, and a background in Python and machine learning. Four SAP Certified Associate certifications.</div>
   </div>
 
+  <!-- SKILLS -->
   <div class="section">
     <div class="section-title">Technical Skills</div>
     <div class="skills-body"><div class="skills-grid">
@@ -131,6 +133,7 @@ version: 1.0.0
   </div></div>
   </div>
 
+  <!-- WORK EXPERIENCE -->
   <div class="section">
     <div class="section-title">Professional Experience</div>
     <div class="experience-body">
@@ -143,10 +146,24 @@ version: 1.0.0
   
   <ul>
     <li>Built a quality inspection dashboard in **SAP Analytics Cloud** on a data model built from **ABAP CDS view** data sources and joins, replacing a manual process of opening an SAP report per material for thousands of materials and compiling defect status in Excel</li>
-    <li>Built a tea purchasing dashboard in SAP Analytics Cloud</li>
+    <li>Built an employee expense reimbursement dashboard</li>
     <li>Handled daily support tickets and user queries for around 30 SAC dashboards across HR, finance, supply chain and procurement, including dashboards built by others</li>
     <li>Performed SQL analysis, ABAP CDS view validation and data reconciliation to support reporting accuracy</li>
     <li>Translated business requirements into KPI-based reporting and documented data sources, calculations and results for every dashboard I built</li>
+  </ul>
+</div>
+  <div class="job">
+  <div class="job-header">
+    <span class="job-role">SAP Young Professionals Program (YPP)</span>
+    <span class="job-period">Aug 2025 - Sep 2025</span>
+  </div>
+  <div class="job-company"><span class="co">SAP Authorized Training Program</span> – (Karachi, Pakistan)</div>
+  
+  <ul>
+    <li>Selected as **one of 10 participants from Pakistan** for the SAP Young Professionals Program</li>
+    <li>Completed intensive training on **SAP S/4HANA Cloud Public Edition** implementation, covering end-to-end business processes and system configuration</li>
+    <li>Gained hands-on exposure to SAP Activate methodology, Fit-to-Standard workshops and cloud-based best practices</li>
+    <li>Studied SAP Cloud Integration (CPI) concepts including message mappings, iFlows and integration scenarios</li>
   </ul>
 </div>
   <div class="job">
@@ -163,25 +180,24 @@ version: 1.0.0
     <li>Prepared and presented a client presentation on SAP Analytics Cloud; the client subsequently purchased it</li>
   </ul>
 </div>
-    </div>
+  <div class="job">
+  <div class="job-header">
+    <span class="job-role">SAP Data Analyst Intern</span>
+    <span class="job-period">Jun 2024 - Aug 2024</span>
   </div>
-
-  <div class="section">
-    <div class="section-title">Projects</div>
-    <div class="projects-body">
-      <div class="project">
-  <div class="project-title">Retinal OCT Scan Classification</div>
-  <div class="project-desc">4-class classifier on a pretrained EfficientNet-B0; 94.11% accuracy on a 968-image test set.</div>
-  <div class="project-tech">PyTorch, EfficientNet-B0, OpenCV</div>
-</div>
-  <div class="project">
-  <div class="project-title">Automated Cricket Highlights Generation<span class="project-badge">B.S. Thesis</span></div>
-  <div class="project-desc">Team project. Created training data, tuned the EfficientNet-B0 model, tested EasyOCR for scoreboard extraction and built the highlight assembly pipeline.</div>
-  <div class="project-tech">PyTorch, OpenCV, EasyOCR, FFmpeg</div>
+  <div class="job-company"><span class="co">Tapal Tea (Pvt.) Ltd.</span> – (Karachi, Pakistan)</div>
+  
+  <ul>
+    <li>Analyzed company purchase data from SAP reports to uncover key trends and insights, improving procurement decision-making</li>
+    <li>Developed interactive dashboards in **SAP Analytics Cloud** and Power BI, enabling real-time visualization of purchasing data and faster report generation</li>
+    <li>Collected and refined user stories from employees to design customized dashboards that streamlined operational workflows and reduced manual data processing</li>
+    <li>Wrote complex SQL queries to integrate company-wide data with SAC, enabling seamless data updates and minimizing reliance on manual extraction</li>
+  </ul>
 </div>
     </div>
   </div>
 
+  <!-- EDUCATION -->
   <div class="section">
     <div class="section-title">Education</div>
     <div class="education-body">
@@ -202,6 +218,7 @@ version: 1.0.0
     </div>
   </div>
 
+  <!-- CERTIFICATIONS -->
   <div class="section">
     <div class="section-title">Certifications</div>
     <div class="cert-table"><div class="cert-item">
@@ -226,6 +243,7 @@ version: 1.0.0
 </div></div>
   </div>
 
+  <!-- END -->
   <div class="cv-consent"></div>
 </div>
 </body>

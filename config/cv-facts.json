@@ -10,7 +10,9 @@
     "1.7",
     "IELTS 8.0",
     "4 SAP",
-    "Four SAP"
+    "Four SAP",
+    "one of 10",
+    "10 participants"
   ],
   "allow_facts": [
     "Tapal Tea",
@@ -18,7 +20,9 @@
     "TU Ilmenau",
     "Technische Universit\u00e4t Ilmenau",
     "FAST-NUCES",
-    "SAP Young Professionals Program"
+    "SAP Young Professionals Program",
+    "SAP Young Professionals Program",
+    "SAP Authorized Training Program"
   ],
   "forbidden_phrases": [
     "DAX",
