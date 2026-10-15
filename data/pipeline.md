@@ -1,0 +1,119 @@
+# Pipeline — Pending URLs
+
+Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
+
+## Pending
+
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/15086-44492353-108-S | Bechtle AG | Werkstudent SAP (w/m/d) | Bonn
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/17041-0066216713-S | OctaVIA Organisationsentwicklu ng, Software- & Technologieber atungs Aktiengesellschaft | Werkstudent (m/w/d) für die SAP Beratung | Kassel, Hessen
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/15986-REF283419S-bb59ec7-S | Robert Bosch GmbH | Werkstudent SAP S/4HANA und Supply-Chain (w/m/div.) | Wernau (Neckar)
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/18121-0067197470-S | RENK GmbH | Werkstudent Accounting (m/w/d) | Augsburg, Bayern
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/18121-0066580618-S | RENK GmbH | Werkstudent (m/w/d) Prüfstandsplanung | Augsburg, Bayern
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/19663-0066508373-S | Kelvion PHE GmbH | Werkstudent im Finanzbereich (m/w/d) | Sarstedt
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/15861-44438635-911-S | Fraunhofer-Gesellschaft e.V. Zentrale München | Werkstudent*in (m/w/d): Rechnungswesen | Münster, Westfalen
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/18930-BB-634570-7878-5925-S | CCS Duisburg GmbH & Co. KG | Werkstudent Controlling (w/m/d) | Duisburg
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/14763-44480824-102-S | Vonovia SE | Werkstudent Sachbearbeitung & Stammdatenpflege (m/w/d) | Bochum
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/13006-77159_65087-1-S | Fielmann AG | Werkstudent R2R / Accounting (w/m/d) | Hamburg
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207853173-S | MEDICE Arzneimittel Pütter GmbH & Co. KG | Werkstudent (m/w/i) Controlling | Iserlohn
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003349513-S | H & B Lackierwerk BSB GmbH & Co.KG | Werkstudent im Bereich Controlling (m/w/d) | Bersenbrück
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1200691018-S | Schneider Electric GmbH | Werkstudent kaufmännische Auftragsabwicklung (w/m/d) | Markkleeberg
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12444-563465373209119-DT-S | Deutsche Telekom AG | Werkstudent*in Controlling (m/w/d/x) | Bonn
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/19663-0066294158-S | Kelvion Machine Cooling Systems GmbH | Werkstudent Arbeitsvorbereitung & Produktionsplanung (m/w/d) | Herne, Westfalen
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/20290-2357198-S | DEG-Deutsche Investitions- und Entwicklungsgesellschaft mbH | Werkstudent (d/w/m) / IT-Infrastruktur & Steuerung | Köln
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/18121-0067822597-S | RENK GmbH | Werkstudent (m/w/d) im Bereich Corporate Controlling | Augsburg, Bayern
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/13755-44455782-921-S | Hamburger Energienetze GmbH | Werkstudentin Projektcontrolling & Förderprojekte (a*) | Hamburg
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/17819-0067583727-S | Landeskreditbank Baden-Württemberg | Werkstudent (m/w/d) Testautomatisierung Java-Anwendungen | Karlsruhe, Baden
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/15986-REF286800T-e0b7b3c-S | Robert Bosch GmbH | Werkstudent im Bereich Werkscontrolling (w/m/div.) | Ravensburg, Württemberg
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/13225-44079051-42-S | Schindler Deutschland AG & Co. KG | Werkstudent*in (m/w/d) Servicekoordination am Standort Würzburg | Würzburg
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/15986--3fd5f3b-S | Robert Bosch GmbH | Werkstudent Kaufmännische Tätigkeiten im Sales Order Management (w/m/div.) | Fellbach, Württemberg
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/15086-44413195-91-S | Bechtle AG | Werkstudent IT Sales Support (Inside Sales, EBC, Telesales) (w/m/d) | Bonn
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/15086-44397819-824-S | Bechtle AG | Werkstudent Business Intelligence & Low Code Entwicklung (w/m/d) | Würzburg
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-3069421792015201-S | accompio GmbH | accompio GmbH: Werkstudent (m/w/d) Data Analytics / Business Intelligence - Wuppertal | Wuppertal
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/15933-0067034735-S | Bundesdruckerei Gruppe GmbH | Werkstudent Data Analytics (m/w/d) | Berlin
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12444-563465373959933-DT-S | Deutsche Telekom AG | Werkstudent*in Online-Marketing & Social Media (m/w/d/x) | Leinfelden-Echterdingen
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/16567-44405904-827-S | Everllence SE | Werkstudent Data & Analytics (m/w/d) | Augsburg, Bayern
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2339347-S | Nanotec Deutschland | Werkstudent Data Analytics & Data Science (m/w/d), Nanotec Deutschland | Feldkirchen, Kreis München
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12444-563465374033794-DT-S | Deutsche Telekom AG | Werkstudent*in Data / Business Analytics bei fraenk (m/w/d/-) - congstar GmbH | Köln
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/13011-44502686-1012-S | Dr. August Oetker NM KG | Werkstudent Controlling International (m/w/d) | Bielefeld
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/15356-44470901-928-S | Ottobock SE & Co. KGaA | Werkstudent Financial Planning & Controlling (d/w/m) | Duderstadt, Niedersachsen
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003755004-S | CASAMODA Heinrich Katt GmbH & Co.KG | Werkstudent/in (m/w/d) Performance Marketing – bis zu 20 Std./Woche | Oldenburg (Oldb)
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003683553-S | GARDENA Manufacturing GmbH | Working Student Finance (m/w/d) | Ulm, Donau
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003502109-S | Universal-Investment-GmbH | Working Student - Corporate Investment Services | Frankfurt am Main
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/13348-1643799-1-S | Lufthansa Technik AG | Working Student Engine Services Sales Strategy (m/f/diverse) | Hamburg
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/19663-0065082058-S | Kelvion Machine Cooling Systems GmbH | Werkstudent // Working Student Human Resources (m/f/d) | Monzingen
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003762225-S | Universal-Investment-GmbH | Working Student Private Market Funds - Tax Compliance | Frankfurt am Main
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/17149-2026yqrbf6yo-000-S | Universitätsklinikum Köln AöR | Student Assistant (WHB) (f/m/x) | Köln
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/16315-65632d146ecb4eb5-S | Klinikum der Universität München | Student Assistant at the Center for International Health – DAM (m/w/d) | München
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208099598-S | Köster GmbH | Werkstudent (m/w/d) Data Engineering | Osnabrück
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/14373-k36443.4265-S | EMBEKA Technologies GmbH | Werkstudent (m/w/d) | Langenlonsheim
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/14543-25596-1799942-0-S | NKD Deutschland GmbH | Werkstudent (m/w/d) im Verkauf | Bergkamen
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/14373-k36443.4250-S | EMBEKA Technologies GmbH | Werkstudent Produktion (m/w/d) | Langenlonsheim
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003816197-S | Lovion GmbH | Werkstudent*in (m/w/d) Erforschung KI-Anwendungen | Dortmund
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2343472-S | PVA TePla Analytical Systems GmbH | Werkstudent - Machine Learning (m/w/d), Westhausen , DEU | Westhausen, Württemberg
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/20279-k62365.1096-S | ENQT GmbH | Werkstudent*in mobiles Sensorsystem (m/w/d) | Hamburg
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003722467-S | NG Engineering Consulting GmbH | Informatik / VC Werkstudent - 26028-IEBD01 | Rödental
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4963186725-S | simplecon GmbH | Werkstudent KI & Prozessoptimierung (m/w/d) | Hamburg
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2356493-S | Wilhelm Geiger GmbH & Co. KG | Werkstudent (m/w/d) KI & Automatisierung, Waltenhofen | Waltenhofen, Allgäu
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003546664-S | LASOS Lasertechnik GmbH | Werkstudent (m/w/d) Webentwicklung, SEO & KI | Jena
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4935054396-S | SIGNAL IDUNA | Werkstudent (m/w/d) Innovationsmanagement (Fokus KI & neue Technologien) | Berlin
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2347687-S | DAL | Werkstudent (m/w/d) Rechnungswesen & Systeme mit Schwerpunkt Prozessmanagement & KI, Mainz | Mainz am Rhein
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003490952-S |  | Werkstudent AI-Transformation & Prozessdigitalisierung (w/m/d) | Berlin
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2351582-S | Anstalt für kommunale Datenverarbeitung Bayern | Werkstudent E-Learning & KI-gestützte Content-Produktion (m/w/d), München | München
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-js_tue_4_JB5254126-S | iMPREG GmbH | Werkstudent (m/w/d) zur Einführung eines KI-gestützten Qualitätsmanagement-Tools (Q-Wiki) | Ammerbuch
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/13552-4OAR34UU8QUGELT9-S | N.O.C Engineering GmbH | Werkstudent Personalentwicklung (m/w/d) | Rottweil
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-js_bc_84_JB5174580-S | Max Wild GmbH | Werkstudent (m/w/d/k.A.) Themenbereich Künstliche Intelligenz | Berkheim, Kreis Biberach an der Riß
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207965798-S | Heckler & Koch GmbH | Werkstudent Personalentwicklung (m/w/d) | Oberndorf am Neckar
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1206706324-S | EIBS Entwurfs- und Ingenieurbüro Straßenwesen GmbH | Werkstudent:innen in der Ingenieurvermessung | Dresden
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003577626-S | Landratsamt Konstanz Amt für Personal und Innovation | Werkstudent/in Prozessmanagement (w/m/d) | Konstanz
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/15086-44449800-917-S | Bechtle AG | Werkstudent - Marketing (w/m/d) | Rostock
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001938878-S | actago GmbH | Werkstudent Rechtsabteilung (m/w/d) | Landau an der Isar
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003837820-S | Hunkemöller Deutschland B.V. & Co. KG | Werkstudentin im Verkauf - Konstanz | Konstanz
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1000976534-S | PPI AG | Werkstudent Softwareentwicklung (m/w/d) | Kiel
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/15086-44502679-1012-S | Bechtle AG | Werkstudent Content & Copy (w/m/d) | Neckarsulm
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003801418-S | Hunkemöller Deutschland B.V. & Co. KG | Werkstudentin im Verkauf Leipzig | Leipzig
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003815953-S | HEICO Holding GmbH | Werkstudent (m/w/d) Engineering & Arbeitsvorbereitung | Schkeuditz
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/20471-2352298-S | Hoffmann SE | Werkstudent (m/w/d) Embedded Software | München
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003770581-S | Hunkemöller Deutschland B.V. & Co. KG | Werkstudentin im Verkauf Dortmund | Dortmund
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003775385-S | MT 1 Vermögensverwaltung GmbH | Werkstudent in der Immobilienverwaltung (m/w/d) in Teilzeit | Burglengenfeld
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/20559-972009090-S | Badenova AG & Co. KG | Werkstudent (m/w/d) Business Transformation
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003607946-S | Hunkemöller Deutschland B.V. & Co. KG | Werkstudentin im Verkauf Bremen | Bremen
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/13465-00021a6905b001-S | WISAG Job & Karriere GmbH & Co. KG | Werkstudent (m/w/d) Digitale Projekte und Dokumentation | Frankfurt am Main
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-c15ae6d7ee6a4fdfbfc-S | CHECK24 Services Personal GmbH | Werkstudent (m/w/d) Operations & Sales Coaching | München
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/16045-k56465.3181-S | SIMunich GmbH | Werkstudent / Praktikant (m/w/d) Verkehrsunfallforschung | Wolfsburg
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/14244-BB-440135-7878-4159-S | ARAG SE | Werkstudent Videoproduktion & E-Learning Content (m/w/d) | Düsseldorf
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/17710-0067613492-S | Klüh Service Management GmbH | Werkstudent Online Marketing SEO/GEO (m/w/d) | Düsseldorf
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/17936-k59891.3213-S | Kraftverkehr Gesellschaft mit beschränkter Haftung -KVG GmbH | Werkstudent (m/w/d) HR & Digitalisierung – Personaladministration | Stade, Niederelbe
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003837818-S | Hunkemöller Deutschland B.V. & Co. KG | Werkstudentin im Verkauf - Karlsruhe Ettlinger Tor (m/w/d) | Karlsruhe, Baden
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003650217-S | Hunkemöller Deutschland B.V. & Co. KG | Werkstudentin im Verkauf - Bruchsal Rathausgalerie | Bruchsal
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/19380-us8w3le2wk-S | Forschungszentrum Jülich GmbH P-VA Personalabrechnung | Studentische Hilfskraft / Werkstudent:in (w/m/d) im Geschäftsb... | Jülich
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003556191-S | Hunkemöller Deutschland B.V. & Co. KG | Werkstudentin im Verkauf - Lüdenscheid Stern | Lüdenscheid
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003570693-S | Hunkemöller Deutschland B.V. & Co. KG | Werkstudentin im Verkauf München Schwanthalerhöhe | München
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/20471-2336317-S | Hoffmann SE | Werkstudent (m/w/d) Product Engineering & Testing | München
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003808331-S | Hunkemöller Deutschland B.V. & Co. KG | Werkstudentin im Verkauf Berlin Gropius-Passage | Berlin
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/17819-0067216030-S | Landeskreditbank Baden-Württemberg | Werkstudent (m/w/d) Corporate Security – Schwerpunkt Informationsrisikomanagement | Karlsruhe, Baden
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001938800-S | actago GmbH | Werkstudent für IT-Administration und Consulting (m/w/d) | Landau an der Isar
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001938604-S | actago GmbH | Werkstudent im Backoffice für Datenschutz und Informationssicherheit (m/w/d) | Landau an der Isar
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/20157-0064739795-S | Loy & Hutz Solutions GmbH | Werkstudent Marketing (m/w/d) - Standort Freiburg | Freiburg im Breisgau
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1203068958-S | R+V ALLGEMEINE VERS. AG | Werkstudent (m/w/d) im Bereich Kommunikation & Marketing | Wiesbaden
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003347719-S | Hunkemöller Deutschland B.V. & Co. KG | Werkstudentin im Verkauf Designer Outlet Neumünster | Neumünster, Holstein
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-b6da740f7ca14a9080f-S | CHECK24 Services Personal GmbH | Aushilfe / Werkstudent (m/w/d) Kundenservice Kredite (Inbound) | München
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/20119-0067629437-S | Deutsche Windtechnik KG | Werkstudent (m/w/d) Softwareentwicklung – React, PostgreSQL & AI | Bremen
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/17819-0067248710-S | Landeskreditbank Baden-Württemberg | Werkstudent (m/w/d) Corporate Security – Schwerpunkt Physische Sicherheit | Karlsruhe, Baden
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/16045-k56465.3120-S | SIMunich GmbH | Werkstudent im Bereich Account und Product Sales | Gaimersheim
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/15986-REF282932Y-a229264-S | Robert Bosch GmbH | Werkstudent im Community Content Creation & Eventplanung (w/m/div.) | Abstatt
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001274044-S | D&TS GmbH | Werkstudent (w/m/d) im Projektmanagement – Bereich: Stammdaten mit Option auf Abschlussarbeit! | Schwelm
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/17700-0064854261-S | DATAGROUP SE | Werkstudent (all genders) Knowledge Management für Conversational AI | Pliezhausen
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1000535870-S | Global Climate GmbH | Werkstudent:in | Straßlach-Dingharting
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/18121-0068096941-S | RENK GmbH | Werkstudent für eine Projektunterstützung in der Technologieentwicklung (m/w/d) | Augsburg, Bayern
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/14350-BB-5275-7878-871669-S | Rhenus SE & CO. KG | Werkstudent (w/m/d) QHSE | Nordenham
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003595936-S | HUMMEL AG | Werkstudent IT (m/w/d) | Denzlingen
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/15086-44470038-928-S | Bechtle AG | Werkstudent - Compliance Management (w/m/d) | Neckarsulm
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1197737589-S | Perrin GmbH | Werkstudent (m/w/d) Finanzen / Controlling | Nidderau, Hessen
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/14244-BB-439963-7878-2101-S | ARAG SE | Werkstudent Group Procurement (m/w/d) | Düsseldorf
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/19663-0068030267-S | Kelvion Holding GmbH | Werkstudent (m/w/d) im Bereich Controlling – EMEA Region | Herne, Westfalen
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/15986-REF284914P-28507bb-S | Robert Bosch GmbH | Werkstudent für den Bereich Kommunikation (w/m/div.) | Stuttgart
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/20293-2315210-S | Kappa optronics GmbH | Werkstudent (all genders) Testingenieur Verification & Validation | Göttingen
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003787683-S | CISPA - Helmholtz-Zentrum für Informationssicherheit gGmbH | Werkstudent:in in der Abteilung Project and Science Coordination (m/w/d) / Student/in | Saarbrücken
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/16543-950601-006-S | TK Elevator Europe Africa GmbH | Werkstudent Learning und Transformation SEED CAMPUS EA (m/w/d) | Düsseldorf
+
+## Processed

@@ -1,0 +1,46 @@
+URL: https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208099598-S
+TITLE: Werkstudent (m/w/d) Data Engineering
+COMPANY: Köster GmbH
+LOC: Osnabrück
+POSTED: ≤3d (AA)
+Stellenbeschreibung
+ Werkstudent (m/w/d) Data Engineering
+  Teilzeit
+  IT
+  Osnabrück
+  befristet
+ Das ist Köster
+ Wir sind eins der deutschlandweit führenden Bauunternehmen im Hoch- und Tiefbau. Was uns als Familienunternehmen ausmacht, ist unser hoher Leistungsanspruch. Bei uns geben über 2.000 Mitarbeitende täglich ihr Bestes, um uns, unsere Kunden und die Branche nach vorn zu bringen. Wenn du gemeinsam mit uns wachsen, zu den Besten deiner Branche gehören und die Zukunft des Bauens möglich machen willst, dann kannst du Köster – und im Gegenzug eine ganze Menge von uns erwarten. Komm zu uns ins Team!
+ Deine Aufgaben
+ Du unterstützt unser Data & AI Team bei der Entwicklung und Umsetzung von Daten und KI-Projekten
+ Du extrahierst, transformierst und analysierst Daten aus verschiedenen Datenquellen
+ Du erstellst Data Pipelines und bindest neue Quellsysteme an
+ Du überwachst Pipelines und stellst den Betrieb der Datenplattform sicher
+ Du konzipierst und erstellst Dashboards und Berichte in PowerBI zusammen mit unseren Fachabteilungen
+ Dein Profil
+ Du absolvierst ein Studium im Bereich Informatik, Wirtschaftsinformatik, Data Science oder einen ähnlichen Studiengang
+ Du hast erste Erfahrungen mit Datenverarbeitung und Analysen gesammelt
+ Du besitzt Grundkenntnisse in Power BI und SQL
+ Du besitzt eine analytische Denkweise und gute Kommunikationsfähigkeit
+ Du arbeitest strukturiert, bringst Eigeninitiative, Kreativität und Teamgeist mit und hast Spaß daran, Verantwortung zu übernehmen
+ Deine Vorteile
+ Ansprechende Rahmenbedingungen: attraktive Vergütung deiner Tätigkeit, abwechslungsreiche Aufgaben und ein moderner Arbeitsplatz
+ Vielfältige Zusatzangebote: Mitarbeiterangebote sowie Teamevents, Sommer- und Weihnachtsfeste
+ Exzellente Einstiegschancen: bei Stellenbesetzungen bauen wir gerne auf unsere Werkstudenten und Praktikanten
+ Flexible Arbeitszeiten: für eine optimale Vereinbarung von Studium und Job
+ Dein Recruiting-Team:
+ T (0541) 998-22 55
+ karriere@koester-bau.de 
+ Werde Teil unseres Teams und bewirb dich jetzt ganz einfach online.
+ Stellen-ID: 4553 
+ Arbeitsorte
+ Karte anzeigen 
+ Sutthauser Str. 280, 49080 Osnabrück 
+ Unternehmensdarstellung: Köster GmbH 
+ Die Köster GmbH ist einer der führenden Anbieter der Bauindustrie in Deutschland in den Bereichen Hoch- und Tiefbau. Das Leistungsspektrum reicht von der individuellen Planung bis zur schlüsselfertigen Erstellung. Nah am Kunden werden ganzheitliche, innovative Baulösungen über ein Netz von Niederlassungen und Kompetenz-Centren realisiert. Im Jahr 1938 gegründet, ist die Köster GmbH mit Sitz in Osnabrück Teil der deutschlandweit tätigen Köster-Gruppe, die ca. 1.750 Mitarbeiterinnen und Mitarbeiter beschäftigt.
+ In diesem Dokument befinden sich aus Sicherheitsgründen keine Kontaktdaten des Arbeitgebers. Wenn Sie diese sehen möchten, lösen Sie bitte die Sicherheitsfrage und laden Sie das PDF erneut. 
+ Informationen zur Bewerbung
+ Fußbereich
+ Stelle betreut durch die BA 
+ Referenz-Nr.: 10000-1208099598-S 
+ Verstoß melden

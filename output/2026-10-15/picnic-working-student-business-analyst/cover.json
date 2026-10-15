@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Working Student - Business Analyst (m/w/d)",
+    "company": "Picnic Technologies",
+    "city": "Düsseldorf",
+    "date": "2026-10-15",
+    "greeting": "Dear Picnic recruiting team,",
+    "opening": "I am applying for the Working Student Business Analyst position at Picnic. Using data to answer real business questions, and then convincing people to change how things are done, is what I did in consulting and want to keep doing alongside my M.Sc. studies.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau. Before that I worked at TallyMarks Consulting in SAP data & analytics and as a Business Analyst at Tapal Tea, one of Pakistan's large consumer goods companies.",
+    "achievements": [
+      {
+        "lead": "Challenging the status quo",
+        "impact": "at Tapal Tea I replaced a manual quality check, opening an SAP report for each of thousands of materials and compiling results in Excel, with a single SAP Analytics Cloud dashboard"
+      },
+      {
+        "lead": "Consulting delivery",
+        "impact": "at TallyMarks Consulting I independently rebuilt a client's spinning dashboard end to end (OEE, utilization, downtime, yield) as part of a 42-dashboard migration to SAP Datasphere"
+      },
+      {
+        "lead": "Explaining analytics",
+        "impact": "I prepared and presented an SAP Analytics Cloud presentation to a client, who subsequently purchased it, and translated business requirements into KPI reporting"
+      }
+    ],
+    "problems_section": "Whether I start in Consumer or Logistics, I would bring a structured, data-driven way of working: framing the question, getting the data with SQL and Python, and turning the answer into something a stakeholder can act on. Demand forecasting and pricing questions in particular connect directly to my Data Science studies.",
+    "closing": "I am available immediately for up to 20 hours per week during the semester (more than your 16-hour minimum) and am happy to relocate to Düsseldorf. I would be glad to discuss how I can contribute.",
+    "language_closing": "I work in English (IELTS 8.0) and am taking German classes (A1)."
+  },
+  "output_path": "output/2026-10-15/picnic-working-student-business-analyst/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

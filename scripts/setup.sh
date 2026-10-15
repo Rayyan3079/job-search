@@ -20,5 +20,6 @@ if [ -n "$WANT" ] && [ ! -e "/opt/pw-browsers/chromium_headless_shell-$WANT" ] &
 fi
 
 export CAREER_OPS_DATA_DIR="$JS_ROOT"
+export CAREER_OPS_TRUST_PROXY_EGRESS=1   # cloud egress proxy; scan.mjs providers need it
 export CO_ROOT JS_ROOT
 echo "career-ops: $CO_ROOT  data: $CAREER_OPS_DATA_DIR"

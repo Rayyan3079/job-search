@@ -1,0 +1,40 @@
+URL: https://www.linkedin.com/jobs/view/4467629040
+TITLE: Werkstudent Enterprise Architecture & Agentic AI (w/m/d)
+COMPANY: EnBW Energie Baden-Württemberg AG
+LOC: Karlsruhe, Baden-Württemberg, Germany
+POSTED: 2026-10-13
+title: Werkstudent Enterprise Architecture & Agentic AI (w/m/d)
+company: EnBW Energie Baden-Württemberg AG
+posted: 2 days ago
+applicants: 106 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-enterprise-architecture-agentic-ai-w-m-d-at-enbw-energie-baden-w%25C3%25BCrttemberg-ag-4467629040&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Über das Unternehmen
+ Wir suchen Menschen, die an die positive Kraft von Energie glauben und an ihre eigene Stärke, Dinge voranzubringen. Die wissen, wie wichtig Energie und Infrastruktur sind und wie groß die Möglichkeiten, mit ihnen Zukunft für alle zu gestalten. Denn wir sind genauso: Ein großes, tatkräftiges Unternehmen, das die Tür weit aufmacht für Menschen, die mit uns gemeinsam aus Ideen echte Veränderungen machen.
+ Unser Angebot
+ Spannende und anspruchsvolle Aufgaben eröffnen vielfältige Perspektiven zur persönlichen Entwicklung
+ Kollegiale Zusammenarbeit im Team und moderne Arbeitsplätze zeichnen uns aus
+ Vielfältige Events bieten Austausch- und Netzwerkoptionen für unsere Studierenden im Rahmen des Studi-Energy-Programms
+ Flexible Arbeitszeitmodelle ermöglichen die Vereinbarkeit von Job und Studium
+ Attraktive Vergütungen eröffnen Möglichkeiten: 2.289,00 € mtl. brutto bei allen Praktika und Abschlussarbeiten und ab 16,- € je Stunde brutto bei Werkstudierendentätigkeiten im Bachelorstudium bzw. ab 18,- € brutto im Masterstudium
+ Vielfältige Aufgaben
+ Du entwickelst und betreibst Prototypen und AI Agents auf Plattformen wie Copilot Studio oder Azure und unterstützt bei deren kontinuierlicher Weiterentwicklung
+ Neue Technologien, Plattformen und Frameworks im Bereich AI und Agentic Systems analysierst du und bewertest deren Eignung für den Enterprise-Einsatz
+ Bei der Erstellung von Architekturkonzepten, Referenzarchitekturen, Entscheidungsvorlagen und Präsentationen für unterschiedliche Stakeholder unterstützt du
+ Nutzungs-, Betriebs- und Qualitätsdaten von AI-Lösungen wertest du aus und leitest daraus Verbesserungspotenziale und Handlungsempfehlungen ab
+ In aktuelle Projekte bringst du dich aktiv ein und unterstützt das Team bei vielfältigen Aufgaben rund um AI, Agentic Systems und Enterprise Architecture
+ Überzeugendes Profil
+ Du bist immatrikulierte*r Student*in der Informatik, Wirtschaftsinformatik oder eines vergleichbaren Studiengangs
+ Praktische Erfahrungen in der Softwareentwicklung, beispielsweise mit Python, JavaScript, TypeScript oder einer vergleichbaren Programmiersprache, bringst du mit
+ Für Künstliche Intelligenz, Cloud-Technologien und moderne Softwarearchitekturen interessierst du dich
+ Sowohl technische als auch konzeptionelle Fragestellungen sprechen dich an und du möchtest Einblicke in die Verbindung von Softwareentwicklung, Enterprise Architecture und IT-Strategie gewinnen
+ Du bist kommunikativ und arbeitest gerne gemeinsam an Lösungen
+ Selbstständiges Arbeiten, Eigeninitiative und ein proaktives Vorgehen bei der Bearbeitung von Aufgaben zeichnen dich aus
+ Über den Bereich
+ Der Bereich der IT-Strategie und Architektur trägt als interdisziplinäre Einheit maßgeblich zur ganzheitlichen Entwicklung des Architektur-, Innovations- und Organisationsmanagements bei.
+Der Fokus liegt auf der technologischen und organisatorischen Weiterentwicklung der IT-Organisation, insbesondere durch die gezielte Gestaltung der Enterprise Architektur. Dabei werden IT-Portfolio, bereichsübergreifende Architekturarbeit und Architekturprinzipien kontinuierlich weiterentwickelt. Neue Technologien werden praxisnah mit Entwicklerteams getestet und eingeführt. So sorgt das Team durch die systematische Entwicklung von Konzepten und die laufende Optimierung der IT-Landschaft dafür, dass Innovation und technologische Exzellenz fest in der Organisation verankert sind.
+ Kontakt
+ Interessiert? Jetzt online bewerben! Ein Anschreiben ist dafür nicht erforderlich, gegebenenfalls stellen wir ein paar jobspezifische Fragen in unserem Bewerbungsformular.
+Unser Recruitingteam stellt neben der EnBW für weitere Konzerngesellschaften ein. Bei Fragen steht Deurer, Chantal | c.deurer@enbw.com gerne zur Verfügung.
+Alle Menschen sind bei uns willkommen, egal welchen Geschlechts, Alters, sexueller Identität, Herkunft, Religion, Weltanschauung, mit oder ohne Behinderung.
+Unsere Informationen zum Datenschutz für Bewerber (w/m/d).

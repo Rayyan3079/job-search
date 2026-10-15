@@ -1,0 +1,52 @@
+[
+  {
+    "slug": "trivago-working-student-content-data-engineer",
+    "company": "trivago",
+    "role": "Working Student - Content Data Engineer",
+    "city": "Düsseldorf",
+    "url": "https://www.linkedin.com/jobs/view/4478454364",
+    "posted": "2026-10-14",
+    "fit": "4/5",
+    "tier": 1
+  },
+  {
+    "slug": "picnic-working-student-business-analyst",
+    "company": "Picnic Technologies",
+    "role": "Working Student - Business Analyst (m/w/d)",
+    "city": "Düsseldorf",
+    "url": "https://www.linkedin.com/jobs/view/4053501308",
+    "posted": "2026-10-13",
+    "fit": "4/5",
+    "tier": 1
+  },
+  {
+    "slug": "sartorius-working-student-data-science",
+    "company": "Sartorius",
+    "role": "Working Student Data Science (x|f|m)",
+    "city": "Göttingen",
+    "url": "https://www.linkedin.com/jobs/view/4479812344",
+    "posted": "2026-10-15",
+    "fit": "4/5",
+    "tier": 1
+  },
+  {
+    "slug": "siemens-working-student-advanced-analytics-ai",
+    "company": "Siemens (Siemens Advanta)",
+    "role": "Working Student (f/m/d) Advanced Analytics and Artificial Intelligence",
+    "city": "Munich",
+    "url": "https://www.linkedin.com/jobs/view/4478477289",
+    "posted": "2026-10-14",
+    "fit": "3/5",
+    "tier": 1
+  },
+  {
+    "slug": "avelios-working-student-machine-learning",
+    "company": "Avelios Medical",
+    "role": "Working Student Machine Learning (all genders)",
+    "city": "Munich",
+    "url": "https://www.linkedin.com/jobs/view/4384875844",
+    "posted": "2026-10-15",
+    "fit": "2.5/5",
+    "tier": 1
+  }
+]

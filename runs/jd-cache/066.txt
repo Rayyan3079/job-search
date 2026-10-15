@@ -1,0 +1,47 @@
+URL: https://www.linkedin.com/jobs/view/4476449610
+TITLE: Working Student: AI Engineer, Agentic Systems (m/f/d)
+COMPANY: Retorio
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-10-13
+title: Working Student: AI Engineer, Agentic Systems (m/f/d)
+company: Retorio
+posted: 2 days ago
+applicants: 195 applicants
+apply_offsite: 
+---
+Duration: 5 months | Hours: ~20/week
+ About Retorio 
+ We are an AI start-up in the heart of Munich setting the global standard for AI coaching. Most AI companies aim to replace human work. Retorio does the opposite, empowering enterprise sales and service teams through science-driven AI coaching. The platform runs realistic client conversation simulations and behavioral analysis to build trusted advisors across global teams at companies like Vodafone, Merck, and Daimler Truck.
+ Tasks 
+ You build agents that run in production. Not demos, not notebooks. Our real-time conversation engine, content generation, and result generation are all agentic systems serving Fortune 500 customers every day, and you own pieces of that: design, deploy, scale, and prove they work. 
+Our product is grounded in behavioral science research, and we hold our engineering to the same standard. Every change to an agent starts as a hypothesis and ends with a measurement. That means the work is not only prompts and graphs. You will write backend services, run your own deployments, and build the tooling that tells you whether your change actually improved anything.
+ Your Tasks 
+ Design and build agentic systems: multi-step reasoning, tool calling, MCP, memory, retrieval, structured outputs
+ Run the research loop: read what is current, form a hypothesis, build the experiment, measure, then decide. Kill your own ideas when the numbers say so
+ Evaluate rigorously: eval datasets, offline and online scoring, LLM-as-judge, A/B tests, tracing and dashboards. We ship on evidence, not vibes
+ Build the backend around the agents: Python services and APIs, streaming interfaces, database and schema work
+ Own the DevOps: containerize, deploy on GCP (Cloud Run, CI/CD), instrument logs, metrics, traces, and alerts, then debug your own production incidents
+ Scale what you ship: latency, cost per conversation, model routing and fallbacks across providers, graceful failure when a model or a vendor misbehaves
+ Take features from prototype to production traffic end to end, with the AI engineering team
+ Requirements 
+ Enrolled student in Computer Science, Data Science, or a related field
+ Strong Python. TypeScript is a plus
+ Research-driven: you read papers, benchmarks, and model cards critically, and you can tell a real result from a cherry-picked one. You reach for an experiment before an opinion
+ You have built agents yourself (side project, hackathon, research, internship) and can explain the design decisions
+ Current on how agentic systems work today: tool calling, MCP, context engineering, orchestration patterns, eval practice, and where each one breaks
+ Solid backend fundamentals: HTTP APIs, async, databases, version control, testing
+ Comfortable in the cloud: containers, deployments, logs, metrics, traces. GCP experience is a plus
+ You do the unglamorous parts too. A flaky deployment pipeline and a slow query are part of making an agent work
+ You know that an agent working once on your machine is 20% of the job
+ Fluent in English
+ Bonus: LangGraph or LangChain experience (any orchestration framework counts, and none is fine if you can reason about agent design); observability and eval tooling such as Langfuse, LangSmith, or Braintrust; streaming and real-time systems (WebSockets, gRPC); infrastructure as code and CI/CD; LLM cost and rate-limit work; published research or a thesis in ML or NLP.
+ Benefits 
+ Competitive compensation above market rate
+ Public transportation benefits
+ Flexible scheduling around your studies
+ Real ownership from day one: you deploy to production, not to a sandbox
+ Direct impact: your work reaches Fortune 500 clients within weeks
+ Freedom to experiment with frontier models and tooling, with a budget behind it
+ An engineering environment built to a compliance standard: GDPR and DSGVO compliant, EU AI Act aligned, ISO 27001 certified, EU data residency on GCP
+ Potential extension beyond the initial engagement
+ Send your CV and a link to an agent you built. Tell us what broke in production, how you found out, and what you measured to confirm the fix.

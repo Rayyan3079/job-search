@@ -1,0 +1,36 @@
+URL: https://www.linkedin.com/jobs/view/4478476302
+TITLE: Werkstudent (w/m/d) Data Engineering
+COMPANY: Siemens
+LOC: Erlangen, Bavaria, Germany
+POSTED: 2026-10-14
+title: Werkstudent (w/m/d) Data Engineering
+company: Siemens
+posted: 1 day ago
+applicants: 43 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-w-m-d-data-engineering-at-siemens-4478476302&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Art der Anstellung: Befristet / Teilzeit; (15-20 Stunden / Woche)
+Starte deine Karriere als Werkstudent (w/m/d) im Bereich Data Engineering in Erlangen und gestalte gemeinsam mit uns die datengetriebenen Lösungen von morgen – hier kannst du mit deinen Ideen und deiner Neugier echten Impact schaffen! Werde Teil unseres Teams und sammle wertvolle Praxiserfahrung im internationalen Siemens-Umfeld.
+Werde Teil unseres Working Student Network – einer Community, die dir Austausch, Unterstützung und wertvolle Kontakte bei Siemens bietet.
+Verändere die Welt von morgen:
+ Du hilfst beim Design und der Implementierung skalierbarer, effizienter und fehlertoleranter Datenpipelines, hauptsächlich unter Verwendung von SQL und Python
+ Du wirkst bei der Entwicklung und Optimierung von Datenmodellen und -schemata in cloudbasierten Data Warehouses wie Snowflake mit
+ Du nutzt Datenumwandlungstools wie dbt, um die Datenumwandlungslogik zu verwalten und die Datenqualität sicherzustellen
+ Darüber hinaus unterstützt du die Überwachung von Datenpipelines in Tools wie Snaplogic und behebst auftretende Probleme
+ Die Dokumentation von Datenpipelines, Datenmodellen und anderen technischen Artefakten gehört ebenfalls zu deinem Aufgabengebiet
+ So überzeugst du uns: 
+ Ausbildung: Derzeit absolvierst du ein Bachelor- oder Masterstudium mit IT- und / oder ingenieurwissenschaftlicher Ausrichtung und hast Interesse an einer spannenden Werkstudierendententätigkeit mit 15-20 Stunden/Woche
+ Erfahrungen und Kenntnisse:
+ Du kannst fundierte Kenntnisse in SQL vorweisen und auch Programmieren, vorzugsweise in Python, ist kein Neuland für dich
+ Idealerweise bringst du bereits praktische Erfahrungen im Bereich Data Engineering, einschließlich Datenmodellierung, ETL/ELT-Prozesse und Datenqualitätsmanagement mit
+ Erste Erfahrungen mit Technologien wie Snowflake, dbt, Kafka und Node-Red sind wünschenswert
+ Arbeitsweise: Die Zusammenarbeit mit funktionsübergreifenden und internationalen Teams bereitet dir keine Schwierigkeiten, und eine lösungsorientierte sowie analytische Arbeitsweise zeichnet dich aus
+ Sprachkenntnisse: Du punktest mit sicheren Deutsch- sowie Englischkenntnissen
+ Du bist viel mehr als deine Qualifikationen und wir glauben an das Potential jeder einzelnen Person. Wir freuen uns darauf, dich kennenzulernen!
+Bei Siemens sind wir überzeugt: Wer sich wertgeschätzt und zugehörig fühlt, kann das eigene Potenzial voll entwickeln. Deshalb schaffen wir ein inklusives Arbeitsumfeld, in dem jede Person ein Gefühl der Zugehörigkeit erfährt und in dem individuelle Perspektiven und Erfahrungen geschätzt werden. Unser Engagement für Fairness und Respekt gilt für alle Bewerbenden.
+Wir legen Wert auf Chancengleichheit und freuen uns über Bewerbungen von Menschen mit unterschiedlichen Hintergründen, ausdrücklich auch von Menschen mit Behinderung.
+Über Uns
+Bereit, die Zukunft aktiv mitzugestalten?
+www.siemens.de/karriere – wenn du mehr Informationen zu Jobs & Karriere bei Siemens erhalten möchtest.
+FAQ – wenn du eine Frage zum Thema Bewerbung bei Siemens hast.
+Wenn du darüber hinaus noch Fragen hast, wende dich gerne an uns: www.siemens.de/fragenzurbewerbung

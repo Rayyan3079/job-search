@@ -1,0 +1,58 @@
+URL: https://www.linkedin.com/jobs/view/4471114937
+TITLE: Working Student — Knowledge Management & AI Content Operations (Nordic Languages)
+COMPANY: Audible
+LOC: Berlin, Germany
+POSTED: 2026-10-15
+title: Working Student — Knowledge Management & AI Content Operations (Nordic Languages)
+company: Audible
+posted: 3 hours ago
+applicants: 44 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-%25E2%2580%2594-knowledge-management-ai-content-operations-nordic-languages-at-audible-4471114937&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Description
+ At Audible, we believe stories have the power to transform lives. It’s why we work with some of the world’s leading creators to produce and share audio storytelling with our millions of global listeners. We are dreamers and inventors who come from a wide range of backgrounds and experiences to empower and inspire each other. Imagine your future with us.
+ About This Role
+ Based in Berlin, we are looking for a motivated Working Student (Werkstudent) in Knowledge Management for Customer Service (m/f/x). Put aside your experiences or perceptions of customer service — at Audible, we are building the future of AI-powered self-service at global scale.
+In this role you will support the Global Knowledge Management team in creating, localizing, and maintaining AI-optimized support content across multiple platforms and marketplaces. You will play a key role in enabling our expansion into the Nordics (Denmark, Norway, Finland, Sweden) while building practical AI and technical skills in content automation, prompt engineering, and workflow optimization. You will work alongside experienced content strategists, AI specialists, and localization experts in a fast-moving, international team.
+ About You
+ You are a curious, technically minded person who is excited about AI and how it is transforming content creation and knowledge management. You enjoy working with language and technology in equal measure and bring strong attention to detail. You are comfortable working in an international environment, proactive in seeking clarity, and eager to learn how AI tools and automation can make knowledge work faster, better, and more scalable.
+As a Working Student — Knowledge Management & AI Content Operations (Nordic Languages), you will...
+ Create, update, and localize support content for Help Center, internal knowledge bases, and AI-powered channels (chatbot, agent assist)
+ Use AI tools to draft, optimize, and format content across multiple surfaces — applying prompt engineering techniques to improve output quality
+ Build and test basic AI workflows and automation for repetitive content tasks (alerts, formatting, cross-marketplace publishing)
+ Support AI-assisted localization workflows: coordinate AI first-pass translations, validate quality, and flag marketplace-specific adaptation needs
+ Validate and refine AI-generated content for accuracy, brand voice, and regulatory compliance — applying AI governance standards
+ Support product launch content readiness by gathering requirements and creating/updating content within defined timelines
+ Maintain content across platforms ensuring consistency between Help Center, CS Assistant, and AI surfaces
+ Track content performance metrics (usage, helpfulness) and flag improvement opportunities based on data
+ Document AI workflows, automation processes, and best practices; contribute to team knowledge sharing and training
+ About Audible
+ Audible is the leading producer and provider of audio storytelling. We spark listeners’ imaginations, offering immersive, cinematic experiences full of inspiration and insight to enrich our customers’ daily lives. We are a global company with an entrepreneurial spirit. We are dreamers and inventors who are passionate about the positive impact Audible can make for our customers and our neighbors. This spirit courses throughout Audible, supporting a culture of creativity and inclusion built on our People Principles and our mission to build more equitable communities in the cities we call home.
+OUR OFFER
+ Student position for 20h per week
+ Compensation of €16.72 per hour
+ 12-month contract
+ Up to 5 free catered lunches per week
+ Commuting benefits
+ Exciting opportunity to participate in the growth of a global digital audiobook provider
+ International work environment
+ Flexible working hours
+ Basic Qualifications
+ Full time enrollment in a German state-accredited (staatlich anerkannt) Bachelor or Master program (Computer Science, Information Science, Communications, Linguistics, or related field) in the Berlin/Brandenburg area, and have at least 1 year of studies left - expected graduation no earlier than 2028
+ Business fluency in English and at least one of these languages: Swedish, Norwegian, Finnish, or Danish
+ Experience using AI tools (ChatGPT, Claude, Gemini, Quick Suite, or similar) and understanding of prompt engineering for content creation, automation, or workflow optimization
+ Basic scripting or automation skills (Python, JavaScript, Google Apps Script, or similar) OR strong willingness to learn with demonstrated technical curiosity
+ Preferred Qualifications
+ Basic experience with data tools (Excel formulas, pivot tables, SQL basics) for tracking metrics and efficiency gains
+ Experience building or customizing AI workflows, chatbots, or basic automation tools
+ Familiarity with API concepts and how content systems integrate (REST APIs, webhooks — conceptual - understanding)
+ Understanding of AI governance concepts: quality standards, confidence scoring, and validation frameworks for AI-generated content
+ Knowledge of content management systems (CMS) or experience maintaining structured web content
+ Familiarity with HTML, JSON, or structured content formats
+ Interest in or understanding of localization processes and cultural adaptation
+ Previous experience in customer service, knowledge management, or technical writing
+ Amazon is an equal opportunities employer. We believe passionately that employing a diverse workforce is central to our success. We make recruiting decisions based on your experience and skills. We value your passion to discover, invent, simplify and build. Protecting your privacy and the security of your data is a longstanding top priority for Amazon. Please consult our Privacy Notice (https://www.amazon.jobs/en/privacy_page) to know more about how we collect, use and transfer the personal data of our candidates.
+m/w/d
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+ Company - Audible GmbH
+Job ID: A10535933

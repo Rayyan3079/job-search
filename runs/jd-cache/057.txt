@@ -1,0 +1,33 @@
+URL: https://www.linkedin.com/jobs/view/4479829345
+TITLE: Werkstudent (m/w/d) Data Science / GenAI / Cloud (remote work)
+COMPANY: 5V Strategy
+LOC: Germany
+POSTED: 2026-10-15
+title: Werkstudent (m/w/d) Data Science / GenAI / Cloud (remote work)
+company: 5V Strategy
+posted: 7 hours ago
+applicants: 46 applicants
+apply_offsite: 
+---
+Was du machen wirst: 
+ 5V-Strategy ist eine auf Retail & Sales Analytics spezialisierte Beratung mit Kunden unterschiedlicher Branchen und Größen, darunter zwei renommierte DAX-Unternehmen. Wir arbeiten Seite an Seite mit unseren Kunden an Business Cases wie Datenvisualisierung (Business Intelligence), Dynamic Pricing, Churnanalysen oder der Vorhersage zukünftiger Sales-Entwicklungen.
+ In Bezug auf unsere Mitarbeiter ist es unser Ziel, außergewöhnliche Individuen nicht nur anzuziehen, sondern auch langfristig zu binden. Als kleines, spezialisiertes Unternehmen betrachten wir unsere Größe dabei als Vorteil. Diese ermöglicht uns maximale Flexibilität in einem herausfordernden und dynamischen Arbeitsumfeld.
+ Du wirst bei uns in einem Team mit anderen Consultants an Kundenprojekten arbeiten. In einer anfänglichen Shadowing-Phase unterstützt du das Projektteam und profitierst von Coaching sowie kontinuierlichem Feedback. Bei professionellem Auftreten und herausragender Arbeitsqualität stehst du schnell im direkten Kundenkontakt und gestaltest aktiv mit dem 5V-Team Sales-Analytics-Projekte.
+ Was wir bieten: 
+ Remote Work bis zu 100%
+ Weitgehend flexible Arbeitszeiteinteilung
+ Herausforderndes Umfeld
+ Weiterbildungen & Zertifikate
+ Professionelles Netzwerk
+ 1 Woche 5V-Workation jedes Jahr
+ Was wir erwarten 
+ Eingeschriebene:r Student:in an einer staatlich anerkannten Hochschule
+ Kommunikation in Deutsch und Englisch (B2 / C1)
+ Professionelles Auftreten
+ Starker Teamplayer mit hoher Eigenmotivation
+ Schnelle Auffassungsgabe & analytische Denkweise
+ Sehr gute Programmierkenntnisse in Python
+ Erfahrung mit Datenvisualisierung
+ Erste Erfahrung mit GenAI / LLMs (z. B. Prompting, Agenten) 
+ Plus: Kenntnisse in Cloud-Technologien (z. B. Azure, AWS oder GCP) 
+ Plus: Kenntnisse mit AWS Quick

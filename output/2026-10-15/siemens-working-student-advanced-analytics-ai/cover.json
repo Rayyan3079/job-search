@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Working Student (f/m/d) Advanced Analytics and Artificial Intelligence",
+    "company": "Siemens (Siemens Advanta)",
+    "city": "Munich",
+    "date": "2026-10-15",
+    "greeting": "Dear Siemens Advanta team,",
+    "opening": "I am applying for the Working Student position in Advanced Analytics and Artificial Intelligence in Munich. Turning data and AI concepts into solutions that business stakeholders actually use is the combination I have been building towards, from analytics consulting to my Master's in Data Science.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence. I worked in SAP data & analytics at TallyMarks Consulting and as a Business Analyst at Tapal Tea, building data pipelines, data models and dashboards for business teams.",
+    "achievements": [
+      {
+        "lead": "Data pipelines and quality",
+        "impact": "I designed SAP Datasphere data pipelines and used SQL, data validation and reconciliation to keep reporting accurate"
+      },
+      {
+        "lead": "Dashboards for stakeholders",
+        "impact": "I built SAP Analytics Cloud dashboards and translated business requirements into KPI reporting, including a client presentation after which the client purchased SAC"
+      },
+      {
+        "lead": "Machine learning in Python",
+        "impact": "I built a PyTorch retinal OCT classifier with 94.11% accuracy on a 968-image test set and worked on an EfficientNet-B0 and EasyOCR video pipeline for my thesis"
+      }
+    ],
+    "problems_section": "In your team I would support analytics and AI projects end to end: extracting and validating data, building pipelines, applying machine learning with Python, and turning results into dashboards and clear explanations. I have not yet worked with the cloud data platforms you use, but moving from SAP BW to SAP Datasphere taught me to learn a new data platform quickly.",
+    "closing": "I am available immediately for 15 to 20 hours per week and am happy to relocate to Munich. I would be glad to discuss how I can contribute.",
+    "language_closing": "My English is at C1 level (IELTS 8.0), and I am currently learning German (A1)."
+  },
+  "output_path": "output/2026-10-15/siemens-working-student-advanced-analytics-ai/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

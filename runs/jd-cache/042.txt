@@ -1,0 +1,38 @@
+URL: https://www.linkedin.com/jobs/view/4469892821
+TITLE: Werkstudent (m/w/d) – Business Intelligence & Automation
+COMPANY: Moog Inc.
+LOC: Böblingen, Baden-Württemberg, Germany
+POSTED: 2026-10-13
+title: Werkstudent (m/w/d) – Business Intelligence & Automation
+company: Moog Inc.
+posted: 2 days ago
+applicants: 99 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-m-w-d-%25E2%2580%2593-business-intelligence-automation-at-moog-inc-4469892821&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Moog is a performance culture that empowers people to achieve great things. Our people enjoy solving interesting technical challenges in a culture where everyone trusts each other to do the right thing. For you, working with us can mean deeper job satisfaction, better rewards, and a great quality of life inside and outside of work.
+ Job Title
+ Werkstudent (m/w/d) – Business Intelligence & Automation
+ Reporting To
+ Product Manager
+ Work Schedule
+ Hybrid – Böblingen, DE
+Für unseren Bereich Product Management suchen wir ab sofort einen
+ Werkstudent (m/w/d) – Business Intelligence & Automation
+ Zur Unterstützung unseres Teams suchen wir einen Werkstudenten (m/w/d) – mit echtem Gestaltungsspielraum und spannenden Use Cases.
+ Deine Aufgaben
+ Entwicklung und Pflege von Power-BI-Dashboards
+ Entwicklung von Konfiguratoren und Anwendungen mit Power Apps
+ Aufbau von Datenmodellen und Kennzahlen
+ Erstellung und Wartung von automatisierten Workflows mit Power Automate
+ Anbindung und Auswertung von SQL-Datenbanken
+ Unterstützung bei der Digitalisierung und Automatisierung interner Prozesse
+ Dein Profil
+ Studium in Wirtschaftsinformatik, Informatik, Data Science/Analytics oder eine vergleichbare Fachrichtung
+ Erfahrung mit Microsoft Power Platform (Power BI, Power Apps und Power Automate)
+ Erste Erfahrung mit Datenmodellierung, Kennzahlen sowie Grundverständnis von Datenbanken
+ Starkes logisches und analytisches Denkvermögen sowie hohe Affinität zu Prozessen und Daten
+ Selbständige, strukturierte und zuverlässige Arbeitsweise
+ Stundenanzahl flexibel nach Absprache. Während des Semesters maximal 19,5 Stunden und bis zu 40 Stunden in der vorlesungsfreien Zeit.
+ Wir freuen uns auf Deine Bewerbung!
+ Bitte bewirb Dich über das Stellenhub in Workday.
+Für Fragen stehen Dir Yvonne Hunsmann (Tel.: 07031 - 622 325) und Steffen Kopp (Tel.: 07031 - 622 262) gerne zur Verfügung.

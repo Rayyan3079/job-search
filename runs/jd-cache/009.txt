@@ -1,0 +1,48 @@
+URL: https://www.linkedin.com/jobs/view/4467364321
+TITLE: Werkstudent Data Analytics & Data Science (m/w/d)
+COMPANY: Nanotec Electronic
+LOC: Feldkirchen, Bavaria, Germany
+POSTED: 2026-10-15
+title: Werkstudent Data Analytics & Data Science (m/w/d)
+company: Nanotec Electronic
+posted: 8 hours ago
+applicants: 142 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-data-analytics-data-science-m-w-d-at-nanotec-electronic-4467364321&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+„DISCOVER THE WORLD OF NANOTEC“ 
+ Vor über 30 Jahren haben wir mit dem ersten Motor mit integrierter Steuerung einen Meilenstein gesetzt. Seitdem sind wir forschungs- und entwicklungsstarker Partner von Unternehmen, die bei der Konzeption und Herstellung von elektrischen Antriebslösungen höchste Ansprüche stellen – weltweit.
+ Mit einem großartigen internationalen Team von über 290 Mitarbeitern in Deutschland, China, Bulgarien und den USA arbeiten wir an der Technologie der Zukunft. Als wiederholter TOP 100 Innovator suchen wir die Talente von heute für die Innovationen von morgen.
+ Gestalte datengetriebene Entscheidungen mit uns 
+ Sie möchten nicht nur Reports erstellen, sondern mit modernen Analyse-Methoden echten Mehrwert schaffen? Dann werden Sie Teil unseres Teams und unterstützen uns dabei, Daten in fundierte Entscheidungen zu verwandeln.
+ Bei Nanotec arbeiten Sie an spannenden Projekten rund um Business Intelligence, Data Analytics, Predictive Analytics und künstliche Intelligenz. Dabei erhalten Sie Einblicke in die Bereiche Finanzen, Controlling, Vertrieb, Einkauf, Logistik, Produktion und Entwicklung.
+ Ihre Aufgaben 
+ Unterstützung bei der Umstellung von Dashboards, Berichten und Datenmodellen im Rahmen einer ERP-Systemumstellung
+ Weiterentwicklung und Aufbau von Analyse großer Datenmengen aus ERP-, CRM- und anderen Unternehmenssystemen
+ Aufbau und Pflege von Datenmodellen für Reporting- und Analyse-Anwendungen
+ Bereitstellung, Transformation und Optimierung von Daten aus unterschiedlichen Quellen
+ Ihre Erfahrungen und Qualifikationen 
+ Laufendes Studium der Informatik, Wirtschaftsinformatik, Data Science, Mathematik, Statistik, Wirtschaftsingenieurwesen oder eines vergleichbaren Studiengangs
+ Erste Erfahrungen mit SQL und relationalen Datenbanken
+ Idealerweise erste praktische Erfahrung mit:
+ Power BI
+ Microsoft Fabric
+ Python (Pandas, NumPy, Scikit-Learn)
+ Power Query
+ Predictive Analytics und KI-Anwendung
+ ETL-Prozessen
+ Datenintegration oder Datenmodellierung
+ Analytisches Denkvermögen und strukturierte Arbeitsweise
+ Verständnis für Datenqualität, Datenvalidierung und strukturierte Datenaufbereitung
+ Gute Deutsch- und Englischkenntnisse
+ Als wiederholter TOP 100 Innovator bieten wir Ihnen 
+ Mitarbeit an realen Business-Projekten mit direktem Einfluss auf Unternehmensentscheidungen
+ Moderne Technologien und aktuelle Data-Analytics-Tools
+ Enge Zusammenarbeit mit Management, Controlling und IT
+ Flexible Arbeitszeiten passend zum Studium
+ Möglichkeit zum mobilen Arbeiten
+ Eigenverantwortliche Aufgaben mit viel Gestaltungsspielraum
+ Persönliche und fachliche Weiterentwicklung im Bereich Data Analytics, KI und Business Intelligence
+ Option auf Abschlussarbeit und späteren Berufseinstieg
+ Warum Nanotec? 
+ Wir sind ein international tätiges Technologieunternehmen mit Fokus auf innovative Antriebslösungen. Daten spielen für unsere strategischen und operativen Entscheidungen eine immer wichtigere Rolle. Deshalb suchen wir neugierige Talente, die gemeinsam mit uns den nächsten Schritt in Richtung datengetriebenes Unternehmen gehen möchten.
+ Starten Sie mit uns Veränderungen, die bewegen!

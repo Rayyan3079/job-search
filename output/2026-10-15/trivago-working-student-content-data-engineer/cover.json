@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Working Student - Content Data Engineer",
+    "company": "trivago",
+    "city": "Düsseldorf",
+    "date": "2026-10-15",
+    "greeting": "Dear trivago Content Data Quality & Governance team,",
+    "opening": "I am applying for the Working Student Content Data Engineer position in your Service Desk team. Keeping data correct, finding inconsistencies with SQL and getting them fixed together with the people who own the data is the part of analytics work I enjoy most, and it is exactly what this role is about.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau. Before moving to Germany I worked as a Business Analyst at Tapal Tea and in SAP data & analytics consulting at TallyMarks Consulting, where data quality was a daily concern rather than an afterthought.",
+    "achievements": [
+      {
+        "lead": "SQL validation and reconciliation",
+        "impact": "I used SQL analysis, ABAP CDS view validation and data reconciliation to keep reporting accurate across HR, finance, supply chain and procurement"
+      },
+      {
+        "lead": "Triage and resolution",
+        "impact": "I handled daily support tickets and user queries for around 30 dashboards, many built by others, investigating issues and resolving them with the responsible teams"
+      },
+      {
+        "lead": "Replacing manual checks",
+        "impact": "I built a quality inspection dashboard on an ABAP CDS view data model, replacing a process of checking thousands of materials one SAP report at a time and compiling results in Excel"
+      }
+    ],
+    "problems_section": "In your team I would bring the same habits to hotel content data: writing careful SQL checks, documenting what I find, escalating clearly to engineers, and helping turn repetitive manual checks into cleaner, structured processes. I also use Python and SAP Analytics Cloud for analysis and visualization.",
+    "closing": "I can commit 20 hours per week for at least a year and am happy to relocate to the Düsseldorf area. I would be glad to talk about how I can support your team.",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1), so your free German classes are a welcome bonus."
+  },
+  "output_path": "output/2026-10-15/trivago-working-student-content-data-engineer/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

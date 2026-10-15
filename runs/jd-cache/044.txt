@@ -1,0 +1,25 @@
+URL: https://www.linkedin.com/jobs/view/4479807804
+TITLE: Werkstudent Data Analytics (m/w/d)
+COMPANY: Bundesdruckerei-Gruppe
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-10-15
+title: Werkstudent Data Analytics (m/w/d)
+company: Bundesdruckerei-Gruppe
+posted: 8 hours ago
+applicants: 44 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-data-analytics-m-w-d-at-bundesdruckerei-gruppe-4479807804&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Ihr Aufgabenbereich
+ Unterstützung beim Aufbau des Bereichsreportings und -controllings
+ Durchführung von Datenanalysen zur Generierung von Erkenntnissen aus Daten
+ Erstellung von Auswertungen, Berichten und Dashboards für interne Kunden und das Management
+ Unterstützung bei der Ableitung von datenbasierten Empfehlungen für das Management
+ Unterstützung beim Datenmanagement im Fachbereich
+ Vermittlung von Wissen zu Daten und Datenanalysen im Fachbereich
+ Ihr Profil
+ Werkstudent der Ingenieurwissenschaften, Informatik, Naturwissenschaften, Mathematik oder vergleichbare Fachrichtung
+ Erste Praxiserfahrung im Bereich Business Intelligence, Data Analytics oder Data Management
+ Fundierte Excel und BI-Tool Kenntnisse
+ Wünschenswert sind Erfahrungen mit Scriptsprachen R, Java, Python
+ Ausgeprägtes Zahlenverständnis sowie analytisches Denkvermögen
+ Selbstständige und strukturierte Arbeitsweise

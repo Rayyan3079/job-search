@@ -1,0 +1,37 @@
+URL: https://www.linkedin.com/jobs/view/4478477289
+TITLE: Working Student (f/m/d) Advanced Analytics and Artificial Intelligence
+COMPANY: Siemens
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-10-14
+title: Working Student (f/m/d) Advanced Analytics and Artificial Intelligence
+company: Siemens
+posted: 1 day ago
+applicants: 138 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-f-m-d-advanced-analytics-and-artificial-intelligence-at-siemens-4478477289&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Mode of Employment: Fixed Term / 15-20 hours / week
+Join us in Munich as a Working Student (f/m/d) Advanced Analytics and Artificial Intelligence and help shape the future by turning cutting-edge data and AI concepts into real solutions. Your ideas and curiosity will drive innovation from day one! Ready to dive into cloud tech, machine learning, and impactful teamwork?
+Connect, learn, and grow with our Working Student Network – your space to exchange ideas, build meaningful relationships, and navigate your Siemens journey.
+ You'll make an impact by
+ You actively support the conceptualization and execution of advanced analytics and artificial intelligence projects, bringing your innovative perspectives into the team
+ By collaborating closely with colleagues, you extract, validate, and transform data using cloud-native platforms like Snowflake and Azure, ensuring data quality and accessibility
+ Leveraging your technical know-how, you assist in developing and maintaining data pipelines in cloud environments and contribute to applying machine learning algorithms with Python and relevant frameworks
+ Furthermore, you help create interactive dashboards and reports, translating complex analytics into actionable insights for stakeholders
+ Throughout your tasks, you participate in workshops and help prepare training materials on emerging AI/ML technologies, fostering knowledge sharing within the organization
+ This Is How You'll Win Us Over
+ Education: You are currently successfully studying business informatics, statistics, mathematics, physics, data science, engineering, or a similar field
+ Experience and Skills:
+ You have practical experience in analytics, data science, software development, or related areas through internships, academic projects, or research
+ You demonstrate proficiency in Python (pandas, numpy, scikit-learn), SQL, and have hands-on experience with cloud data platforms such as Snowflake, Azure, or AWS
+ You are familiar with machine learning algorithms, model evaluation and deployment, version control (Git), and collaborative development workflows
+ Ways of Working: You are eager to learn, think analytically, and communicate complex technical concepts to non-technical stakeholders
+ Languages: You have excellent English skills (minimum C1 level); German is an advantage
+ You are much more than your qualifications, and we believe in the potential of every single candidate. We look forward to getting to know you!
+At Siemens, we believe that feeling valued and included is the foundation for doing great work. That’s why we aim to create an inclusive workplace where everyone feels a sense of belonging, and where individual perspectives and experiences are celebrated. Our commitment to fairness and respect extends to every applicant. As an equal opportunity employer, we welcome applications from individuals of all backgrounds and particularly encourage applications from persons with disabilities.
+ About Us
+ Siemens Advanta  is a strategic advisor and trusted implementation partner for digital and sustainability transformations on an enterprise level. Drawing on the Siemens tech stack, Siemens Advanta delivers end-to-end solutions, from strategy and operations consulting to solution architecture and implementation.
+By leveraging the power of Siemens businesses and its partners, Siemens Advanta helps customers unlock the full value of Siemens technologies across their entire value chain.
+www.siemens.de/careers – if you would like to receive more information about jobs and careers at Siemens.
+FAQ – if you need further information on the application process.
+If you have any further questions, please feel free to contact us: www.siemens.de/fragenzurbewerbung 
+#sagworkingstudent

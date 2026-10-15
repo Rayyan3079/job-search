@@ -19,4 +19,12 @@ Internships, thesis roles, full-time roles and German-required roles are listed 
 
 ## Latest run
 
-_No runs yet._
+**2026-10-15**: 5 Tier 1 packages, 30 Tier 2 and 29 Tier 3 listed. Full report: [digests/2026-10-15.md](digests/2026-10-15.md)
+
+| Company | Role | Fit | Documents |
+|---|---|---|---|
+| trivago | Working Student - Content Data Engineer | 4/5 | [folder](output/2026-10-15/trivago-working-student-content-data-engineer/) |
+| Picnic Technologies | Working Student - Business Analyst (m/w/d) | 4/5 | [folder](output/2026-10-15/picnic-working-student-business-analyst/) |
+| Sartorius | Working Student Data Science (x|f|m) | 4/5 | [folder](output/2026-10-15/sartorius-working-student-data-science/) |
+| Siemens (Siemens Advanta) | Working Student (f/m/d) Advanced Analytics and Artificial Intelligence | 3/5 | [folder](output/2026-10-15/siemens-working-student-advanced-analytics-ai/) |
+| Avelios Medical | Working Student Machine Learning (all genders) | 2.5/5 | [folder](output/2026-10-15/avelios-working-student-machine-learning/) |

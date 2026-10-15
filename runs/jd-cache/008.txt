@@ -1,0 +1,45 @@
+URL: https://www.linkedin.com/jobs/view/4479146358
+TITLE: Werkstudent (w/m/d) Data Analytics & AI im Einkauf
+COMPANY: Siemens Energy
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-10-15
+title: Werkstudent (w/m/d) Data Analytics & AI im Einkauf
+company: Siemens Energy
+posted: 3 hours ago
+applicants: 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-w-m-d-data-analytics-ai-im-einkauf-at-siemens-energy-4479146358&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Standort: BLN H
+ Art der Anstellung: Fixed Term / Part-time
+ Momentaufnahme von deinem Tag 
+ Werde Teil von #TeamPurple und gestalte die digitale Zukunft unseres Einkaufs mit. Bei Siemens Energy am Standort Berlin arbeitest du mit modernen Tools, automatisierst Prozesse und treibst datengetriebene Entscheidungen voran – ganz nah am Tagesgeschäft unserer Einkaufsteams.
+Du bringst dich aktiv ein in die low-code basierte Entwicklung und Administration des Digital Hubs als zentrale Plattform unserer KI-Transformation im Direkten Einkauf ein (Mendix-Applikation). Dort verwaltest du KI Use Cases, Trainings und Tools und bringst Ideen für neue Features des Hubs ein. Du arbeitest an der Schnittstelle zwischen Business und Technology mit dem Ziel meßbaren Mehrwert durch KI für den strategischen Einkauf zu generieren.
+Dein Ziel: Digitalisierung im Einkauf erlebbar machen und echte Mehrwerte schaffen.
+ Wie du etwas bewirken kannst 
+ Vorantreiben der KI-Transformation inkl. eigenständiger Umsetzung von KI-Use-Cases
+ Low-code basierte Entwicklung/Administration des Digital Hubs (Mendix)
+ Konzeption & Implementierung neuer Features des Digital Hubs durch regelmäßigen Austausch mit dem Business
+ Smarte Analysen: Analytics Dashboards bis Forecasting – du bringst Ideen in die Praxis
+ KI im Einkauf: Evaluieren, prototypisieren und pilotieren von KI‑Agenten (MS Copilot, Azure Foundry)
+ Was du mitbringst
+ Derzeitiges Studium in einem technischen oder kaufmännischen Fachbereich
+ Erste Erfahrungen in Data Analytics, Business Intelligence oder maschinellem Lernen
+ Hohe Bereitschaft sich in Tools wie Mendix, Power-BI, MS Copilot Studio und Azure Foundry einzuarbeiten
+ Sehr gute Englisch- und Deutschkenntnisse
+ Proaktiver und vorrausschauender Teamplayer, sowie gute analytische Fähigkeiten, hohe Auffassungsgabe
+ Abgeschlossene Zertifizierungen im Mendix-Umfeld (z.B. Rapid Developer) vorteilhaft
+ Über das Team 
+ Unsere Zentralfunktionen stellen erstklassige Dienstleistungen und Lösungen unter anderem in den Bereichen IT, Personalwesen, Finanzen, Immobilien, Strategie & Technologie zur Verfügung und unterstützen damit aktiv das Geschäft.
+ Wer ist Siemens Energy?
+ Wir bei Siemens Energy sind mehr als nur ein Energietechnologieunternehmen. Mit ~100,000 engagierten Mitarbeitern in mehr als 90 Ländern entwickeln wir die Energiesysteme der Zukunft und stellen sicher, dass der wachsende Energiebedarf der Weltgemeinschaft zuverlässig und nachhaltig gedeckt wird. Die in unseren Forschungsabteilungen und Fabriken entstehenden Technologien treiben die Energiewende voran und bilden die Grundlage für ein Sechstel der weltweiten Stromerzeugung.
+Unser globales Team setzt sich dafür ein, nachhaltige, zuverlässige und bezahlbare Energie Wirklichkeit werden zu lassen, indem es die Grenzen des Möglichen immer weiter hinausschiebt. Wir blicken zurück auf eine 150-jährige Tradition der Innovation, die unsere Suche nach Mitarbeitern bestärkt, die unseren Fokus auf Dekarbonisierung, neue Technologien und Energiewandel unterstützen.
+Erfahre mehr darüber, wie du bei Siemens Energy etwas bewegen kannst: https://www.siemens-energy.com/employeevideo
+ Unser Engagement für Vielfalt 
+ Gut, dass wir nicht alle gleich sind. Vielfalt macht uns leistungsstark. Wir leben von Inklusion und unsere gemeinsame kreative Energie wird von über 130 Nationalitäten gespeist. Siemens Energy setzt auf den Charakter - unabhängig von ethnischem Hintergrund, Geschlecht, Alter, Religion, Identität oder Behinderung. Wir versorgen die Gesellschaft mit Energie - die ganze Gesellschaft - und wir diskriminieren nicht aufgrund von Unterschieden, die zwischen uns bestehen.
+ Benefits
+ Werde Teil eines globalen Commodity Management Teams
+ Spannende Einblicke in ein internationales Unternehmen 
+ Lege mit uns den Grundstein für deine Karriere 
+ Wir legen Wert auf Chancengleichheit und freuen uns über Bewerbungen von Menschen mit Behinderung.
+https://jobs.siemens-energy.com/jobs
+#RPO

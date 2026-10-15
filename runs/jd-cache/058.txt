@@ -1,0 +1,42 @@
+URL: https://www.linkedin.com/jobs/view/4479812344
+TITLE: Working Student Data Science (x|f|m)
+COMPANY: Sartorius
+LOC: Ulm, Baden-Württemberg, Germany
+POSTED: 2026-10-15
+title: Working Student Data Science (x|f|m)
+company: Sartorius
+posted: 9 hours ago
+applicants: 46 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-data-science-x-f-m-at-sartorius-4479812344&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Join our R&D Innovation Synergies team as a Working Student (x|f|m) and play a key role in advancing the data infrastructure that powers innovative research and development. Working closely with lab scientists and data experts, you will contribute to cutting-edge data engineering initiatives while gaining hands-on experience in data analysis, cloud technologies, and machine learning. Through your work, you will help create the foundation for smarter, data-driven innovation and enable our teams to focus on what matters most: better health for more people.
+The position is based in Goettingen, Germany, with a second location option in Bielefeld or Ulm.
+As a working student, you benefit in two ways: you gain important work experience and earn some extra money alongside your studies. With a working week of 20 hours, you can continue to concentrate on your studies.
+Please apply with your complete application documents in English.
+ Grow With Us – Your Responsibilities
+ Support permanent employees in day to day tasks on a short term basis
+ Help build and maintain robust data pipelines, collaborate with team members to design and maintain data models for analysis and reporting
+ Support the Data Science and Innovation team with data preprocessing and preparation, enhancing the quality and usability of data for various projects
+ Take over of tasks coming up on short notice, mostly administrative
+ Contribute to projects by taking over defined work packages
+ What Will Convince Us
+ Currently enrolled in a master's degree program in computational biology, Biotechnology, computer science, data science or a related field
+ Working knowledge of Python programming is required. Familiarity in libraries such as Pandas and scikit-learn is a plus 
+ Willingness to learn new data analytical technologies
+ Ability to integrate into teams easily
+ Reliability and accuracy
+ Willingness to learn and to act flexible when taking over tasks on short notice
+ Fluent in English, German an asset
+ What We Offer
+ As a growing global life science company, stock listed on the MDAX and TecDAX, Sartorius offers a wide range of Benefits:
+ Large, Modern Campus: Open office spaces, terraces, company restaurant with vegetarian and vegan options, cozy Italian bistro with ice cream sales, fitness studio and daycare center
+ Making An Impact Right From The Start: Comprehensive onboarding, including a virtual online platform even before joining, Welcome Workshops, "buddy" as point of contact
+ Travel Benefits: Large free parking garage, good bus connections
+ Welcoming Culture: Mutual support, teamspirit and international collaboration; communities on numerous topics, such as coaching, agile working and business women network
+ This position is filled within the Sartorius Stedim Biotech GmbH
+ We promote diversity and inclusion and welcome applications from people of all nationalities, genders, sexual orientations, religions, age groups, disabilities, and cultural backgrounds.
+ About Sartorius
+ Sartorius is part of the solution in the fight against cancer, dementia, and many other diseases. Our technologies help translate scientific discoveries into real-world medicine faster, so that new therapeutics can reach patients worldwide.
+We look for ambitious team players and creative minds, who want to contribute to this goal and advance their careers in a dynamic global environment.
+Join our global team and become part of the solution. We are looking forward to receiving your application.
+www.sartorius.com/careers

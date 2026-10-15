@@ -1,0 +1,55 @@
+URL: https://www.arbeitsagentur.de/jobsuche/jobdetail/20119-0067629437-S
+TITLE: Werkstudent (m/w/d) Softwareentwicklung – React, PostgreSQL & AI
+COMPANY: Deutsche Windtechnik KG
+LOC: Bremen
+POSTED: ≤3d (AA)
+Stellenbeschreibung
+ Wir sind 2.700 fantastisch geschulte Menschen voller Tatendrang und mit hohem Wirkungsgrad. Unsere Spezialgebiete sind die Wartung, Reparatur, Verbesserung und Inspektion von Windkraftanlagen. Wir haben für jede Anforderung die passende Lösung und arbeiten zielstrebig daran, die Potenziale von weltweit 7.900 Windparkprojekten voll auszuschöpfen und die Energiewende jeden Tag weiter voranzutreiben.
+ Weil wir weiter expandieren, suchen wir auch im Innendienst Verstärkung. Ob in der Kundenbetreuung, im Projektmanagement, im kaufmännischen Bereich oder in der IT – wir freuen uns über neue Teammitglieder, die lösungsorientiert denken und tatkräftig handeln. Gemeinsam arbeiten wir an unseren Standorten daran, uns durch zunehmende Digitalisierung, gesundes Wachstum, neue Services und Produkte zukunftsfähig aufzustellen. Und darin sind wir seit 20 Jahren sehr erfolgreich. 
+ Du studierst in Bremen oder Umgebung, baust auch außerhalb der Uni eigene Projekte und möchtest moderne Software nicht nur kennenlernen, sondern wirklich mitentwickeln? 
+Dann passt du hervorragend in unsere Software Factory. Wir entwickeln Webanwendungen und verbinden moderne Webtechnologien mit Datenbanken und künstlicher Intelligenz.
+ Für unser Team in Bremen suchen wir ab sofort Verstärkung als **Werkstudent(m/w/d) Softwareentwicklung mit Schwerpunkt React, PostgreSQL & AI **(20 Stunden/Woche).
+ Dein Profil 
+ Du bist immatrikulierter Student (m/w/d) der angewandten oder technischen Informatik oder eines vergleichbaren Studiengangs und kannst regelmäßig an unserem Standort in Bremen arbeiten
+ Du fühlst dich mit Next.js, React, Node.js, SQL und PostgreSQL wohl
+ Du hast ein gutes Gespür für UI und eine klare Vorstellung davon, was eine gute User Experience ausmacht
+ Du kannst uns eigene Projekte zeigen, auf die du stolz bist – ganz gleich, ob Side Project, Uni-Projekt, Open-Source-Beitrag oder erste eigene App
+ Du interessierst dich für AI und möchtest lernen, wie daraus nützliche Produktfunktionen entstehen
+ Du arbeitest selbstständig, pragmatisch und hast Lust, Neues auszuprobieren
+ Du verfügst über gute Deutsch- und Englischkenntnisse
+ Du musst noch nicht alles perfekt beherrschen. Viel wichtiger ist uns, dass du neugierig bist, Dinge selbst gebaut hast und Lust hast, gemeinsam mit uns gute Software zu entwickeln.
+ Deine Aufgaben 
+ Du entwickelst moderne Webanwendungen mit Next.js, React und Node.js
+ Du arbeitest mit PostgreSQL und entwickelst saubere Datenmodelle und Abfragen
+ Du integrierst KI-Funktionen in unsere Produkte und experimentierst mit neuen Ansätzen
+ Du setzt intuitive, ansprechende Benutzeroberflächen um
+ Du begleitest Features von der ersten Idee bis zum Deployment
+ Du unterstützt dein Team bei der Entwicklung, bringst dich mit eigenen Ideen und Lösungsansätzen ein und übernimmst Verantwortung für echte Produktfunktionen
+ **Das bieten wir ** 
+ Eine verantwortungsvolle und eigenständige Tätigkeit in einer modernen Entwicklungsumgebung rund um Next.js, React, Node.js, PostgreSQL, AI und Vercel
+ Praktische Erfahrung an echten Produkten statt theoretischer Übungsaufgaben
+ Die KI-Tools, die du brauchst, ob Claude, Codex oder andere, stellen wir dir zur Verfügung
+ Viel Raum für eigene Ideen, schnelle Lernfortschritte und direkten Austausch in einem Team, das gern entwickelt, ausprobiert und voneinander lernt
+ Flexible Arbeitszeiten, die sich gut mit deinem Studium vereinbaren lassen
+ Du möchtest auch mal von zu Hause aus arbeiten? Wir machen das möglich und statten dich technisch entsprechend aus
+ Schwimmen, Bouldern, Tanzen – mit unserem Firmenfitnessprogramm trainierst du deutschlandweit kostengünstig in 1.000 Studios und Sportstätten.
+ Deine Ansprechperson 
+ Das klingt nach dir? Dann schick uns ein paar kurze Sätze über dich sowie Links zu Projekten, GitHub-Repositories oder Produkten, auf die du stolz bist.Wir freuen uns darauf, zu sehen, was du bereits gebaut hast – und was wir gemeinsam als Nächstes entwickeln.
+ Bewirb dich hier schnell und unkompliziert: Klick einfach auf „Jetzt bewerben“, trage deine persönlichen Daten ein und lade deinen Lebenslauf als PDF-Datei hoch oder verlinke dein LinkedIn- oder XING-Profil! Wir freuen uns auf deine Bewerbung.
+ Du hast noch Fragen zur ausgeschriebenen Stelle? Schau gerne in unsere Bewerber FAQs oder wende dich an deine Ansprechpartnerin:
+ Johanna Fischer
+Junior Recruiting Specialist
+Tel.: +49 421 69105685 
+ #deutschewindtechnikatwork
+ Wir leben Diversity 
+ Wir sind stolz auf die Vielfalt unserer Teams und setzen uns für ein respektvolles, vorurteilsfreies Miteinander ein. Deswegen begrüßen wir alle Bewerbungen – unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion/Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität.
+ Arbeitsorte
+ Karte anzeigen 
+ 28217 Bremen 
+ Unternehmensdarstellung: Deutsche Windtechnik KG 
+ In diesem Dokument befinden sich aus Sicherheitsgründen keine Kontaktdaten des Arbeitgebers. Wenn Sie diese sehen möchten, lösen Sie bitte die Sicherheitsfrage und laden Sie das PDF erneut. 
+ Informationen zur Bewerbung
+ Fußbereich
+ Stelle betreut durch Arbeitgeber 
+ Referenz-Nr.: 20119-0067629437-S 
+ Verstoß melden

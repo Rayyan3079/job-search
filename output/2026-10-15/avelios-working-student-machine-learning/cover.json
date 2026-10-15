@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Working Student Machine Learning (all genders)",
+    "company": "Avelios Medical",
+    "city": "Munich",
+    "date": "2026-10-15",
+    "greeting": "Dear Avelios team,",
+    "opening": "I am applying for the Working Student Machine Learning position. Unlocking clinical data so that hospitals can care for patients better is a mission I connect with directly: my most rewarding machine learning project was a medical imaging classifier.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence, where I worked with PyTorch on computer vision and with BERT and GPT-2 in a text clustering project. I also bring industry experience with data pipelines from SAP data & analytics work.",
+    "achievements": [
+      {
+        "lead": "Medical imaging",
+        "impact": "I built a 4-class retinal OCT scan classifier on a pretrained EfficientNet-B0 in PyTorch, reaching 94.11% accuracy on a 968-image test set"
+      },
+      {
+        "lead": "Model evaluation and tuning",
+        "impact": "in my thesis team I created training data, evaluated and tuned an EfficientNet-B0 model and compared EasyOCR configurations for scoreboard extraction"
+      },
+      {
+        "lead": "Language models",
+        "impact": "in a team project on Reddit text, I compared graph-based and language-model representations (BERT, GPT-2) for clustering with K-Means and HDBSCAN"
+      }
+    ],
+    "problems_section": "I would support your team by preparing data, evaluating and benchmarking models, and helping integrate them into clinical workflows. I have not yet built LLM, ASR or RAG pipelines, and I would be motivated to learn them in a production setting like yours.",
+    "closing": "I am available immediately for up to 20 hours per week and am happy to relocate to Munich. I would be glad to discuss how I can contribute.",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-10-15/avelios-working-student-machine-learning/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

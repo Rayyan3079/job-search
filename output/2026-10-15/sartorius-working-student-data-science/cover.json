@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Working Student Data Science (x|f|m)",
+    "company": "Sartorius",
+    "city": "Göttingen",
+    "date": "2026-10-15",
+    "greeting": "Dear Sartorius R&D Innovation Synergies team,",
+    "opening": "I am applying for the Working Student Data Science position in your R&D Innovation Synergies team. Building the data foundations that let scientists trust and use their data is work I have done in industry, and doing it for life science R&D, where it helps bring therapies to patients faster, is a strong motivation for me.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence. Before my Master's I worked in SAP data & analytics at TallyMarks Consulting and as a Business Analyst at Tapal Tea.",
+    "achievements": [
+      {
+        "lead": "Data pipelines",
+        "impact": "I designed and implemented SAP Datasphere data pipelines and rebuilt a client's datasets end to end during a 42-dashboard migration from SAP BW"
+      },
+      {
+        "lead": "Data models for reporting",
+        "impact": "I built data models from ABAP CDS view sources and joins for reporting, and validated and reconciled data to keep it accurate"
+      },
+      {
+        "lead": "Python and machine learning",
+        "impact": "I built a PyTorch medical image classifier for retinal OCT scans that reached 94.11% accuracy on a 968-image test set, including all preprocessing and augmentation"
+      }
+    ],
+    "problems_section": "In your team I would help build and maintain pipelines and data models, prepare and clean data for the Data Science and Innovation team, and pick up short-notice and administrative tasks reliably. I work with Python, Pandas and scikit-learn and am keen to learn the cloud and analytical tools you use.",
+    "closing": "I am available immediately for 20 hours per week and am open to Göttingen, Bielefeld or Ulm. I would be glad to discuss how I can support your team.",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-10-15/sartorius-working-student-data-science/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

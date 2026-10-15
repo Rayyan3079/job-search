@@ -1,0 +1,48 @@
+URL: https://www.linkedin.com/jobs/view/4478454364
+TITLE: Working Student - Content Data Engineer
+COMPANY: trivago
+LOC: Düsseldorf, North Rhine-Westphalia, Germany
+POSTED: 2026-10-14
+title: Working Student - Content Data Engineer
+company: trivago
+posted: 1 day ago
+applicants: 94 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-content-data-engineer-at-trivago-4478454364&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+When travelers are searching for a hotel, we want the obvious choice to be trivago! By comparing prices from major booking sites, we're making it easy for people to find hotels they want at a price they'll love. In the lively city of Düsseldorf, we seize opportunities to learn everyday, innovate, and make an enduring mark on the travel industry. A career at trivago is a journey designed for people who crave continuous development and want to thrive in a high-performing team. Here you will find those who aren't afraid of change but rather embrace it, turning every challenge into a pathway for growth. Join trivago, work with a great team, and grow with us!
+ Join us in making a difference
+ Our Service Desk team within Content Data Quality & Governance is looking for a detail-oriented working student to join our dynamic environment as a Content Data Engineer. You'll be part of a team that ensures the quality and accuracy of our hotel content data, working with various stakeholders across trivago to maintain high data standards and resolve content-related issues.
+If this sounds like an environment you can see yourself enjoying, read on and apply today!
+ How you’ll make an impact:
+ Analyze & Monitor Data – Use SQL to query, analyze, and validate content data for inconsistencies
+ Triage Data Anomalies – Identify, investigate, and escalate content quality issues, collaborating with engineers for resolution
+ Support Data Engineering – Assist in improving data quality practices, ensuring clean, structured, and optimized data pipelines
+ Optimize Manual Processes – Help automate and refine existing workflows to enhance operational efficiency
+ Collaborate with Teams – Work closely with content teams, data engineers, and stakeholders to improve data governance
+ What you’ll learn:
+ How a data-driven company operates and makes decisions
+ Best practices in SQL, data analysis, and quality assurance
+ How to support data engineers in optimizing content data pipelines
+ Collaboration within a fast-paced, international tech team
+ What you'll need to thrive:
+ SQL-Savvy – Comfortable writing SQL queries for data analysis and quality checks
+ Analytical Thinker – Able to spot data inconsistencies and propose solutions
+ Team Player – Excited to work with engineers, analysts, and stakeholders
+ Process-Oriented – Passionate about optimizing workflows and reducing manual effort
+ Availability – Can commit 20 hours per week for at least one year
+ Currently enrolled at a university in Germany, living within a commutable distance to Düsseldorf
+ Stand out with:
+ Knowledge of Python for data analysis or automation
+ Experience with data visualization tools (Looker, Tableau, Power BI, or similar)
+ Familiarity with ETL pipelines or data processing frameworks
+ Experience in agentic automation (e.g., building AI agents or automated workflows)
+ Some preliminary understanding of working with AI tools such as Cursor and Claude
+ Worried about missing a few requirements? Still apply, and express your motivation as you may just be the right candidate for this or other roles!
+ What you can look forward to:
+ As you grow, so do we.
+ This is why at trivago, we prioritize your development, offer personalized coaching through Nilo, and free German language classes. You’ll have access to workshops, educational meetups, conferences, free online learning courses, and a fully-equipped campus library. We also organize regular team and many company-wide events so you can build experiences with us.
+ Life happens.
+ We offer paid vacation days during your employment, flexible working hours, at least 1 work from home day weekly. Additionally you can work remotely from a different location, within Germany or selected countries abroad for up to 20 days per year.
+ Enjoy your office days.
+ Use your daily canteen budget to share lunch with colleagues in our canteen, help yourself to complimentary snacks and drinks in our kitchens, stay healthy with our on-site gym and sports classes, and enjoy the comfort of ergonomic desks and focused work areas.
+ Thank you for considering a career at trivago! Our commitment to fostering an inclusive and enriching environment for all talents is at the heart of what we do. We understand that embarking on a new job opportunity is a blend of excitement and curiosity. Should any questions arise before you apply, feel free to reach out to us at joinus@trivago.com . Join us in our mission to make a positive impact on global travel, w e look forward to your application!

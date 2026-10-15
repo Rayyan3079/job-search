@@ -1,0 +1,39 @@
+URL: https://www.linkedin.com/jobs/view/4476097364
+TITLE: Robotics Software Engineer (Data & AI) – Working Student (m/f/d)
+COMPANY: driveblocks
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-10-13
+title: Robotics Software Engineer (Data & AI) – Working Student (m/f/d)
+company: driveblocks
+posted: 2 days ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Frobotics-software-engineer-data-ai-%25E2%2580%2593-working-student-m-f-d-at-driveblocks-4476097364&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Your Role
+ Work in close collaboration with the Data & AI team on the full development cycle of one or more software components within a cutting-edge autonomous driving stack.
+ Depending on your interests and the team’s priorities, your focus may include:
+ Improvement of the workflows in the entire data pipeline from the ingestion of the vehicle data into the cloud to the deploying new models.
+ Data curation and quality assurance for our machine learning algorithms.
+ Design and implement improvements for the deep learning network for perception tasks, e.g. object detection 2D/3D, panoptic-segmentation.
+ Organization and execution of in-field testing with our vehicle.
+ Support with automated testing and cloud workflows.
+ Your work directly contributes to safely operating heavy machinery in real-world environments.
+ Your Background
+ Bachelor’s degree in computer science, informatics, engineering or related fields.
+ Practical experience in software development, e.g. through past work experiences, intenships, Formula Student, etc..
+ Ideally experience with Linux, Python and a major computer vision / machine learning framework (e.g. OpenCV, PCL, PyTorch, TensorFlow, …)
+ Ideally experience with git, ROS2, containerized development processes, CI/CD frameworks 
+ Experience in C++ is a plus.
+ 15+ hours availability.
+ About Us
+ driveblocks develops off-road ground autonomy that works under harsh and challenging conditions. We build systems designed for operation in 3D terrain, vegetation, and heavy dust and dirt, where 100% reliability is core to success, even in GNSS-denied environments.
+Working with multiple OEM partners across agriculture, construction, and defense, our focus is to deliver value to vehicle operators and solve the toughest challenges when deploying Physical AI in real world applications. Every deployment helps us to gather the operational data required to build the next generation of reliable and safe autonomous driving systems.
+From our office in Munich, we operate as a focused, highly ambitious team with deep expertise in autonomy, Physical AI, and embedded software engineering. We move quickly and set high standards. If you want to build autonomy that is deployed, tested, and operated in the field - we’d love to hear from you!
+ Working at driveblocks
+ Ownership of your work – Take responsibility for the full value chain
+ Competitive Compensation & Benefits 
+ Flexible working hours 
+ How To Apply
+ Upload your CV, university grade sheets, employer references and additional documents directly through our platform
+ Receive feedback on your application within a few days
+ Show your motivation in a one-on-one conversation with us

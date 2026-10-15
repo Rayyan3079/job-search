@@ -1,0 +1,40 @@
+URL: https://www.linkedin.com/jobs/view/4479572620
+TITLE: Werkstudent KI & Data Science (m/w/d)
+COMPANY: Thalia Bücher GmbH
+LOC: Münster, North Rhine-Westphalia, Germany
+POSTED: 2026-10-14
+title: Werkstudent KI & Data Science (m/w/d)
+company: Thalia Bücher GmbH
+posted: 1 day ago
+applicants: 61 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-ki-data-science-m-w-d-at-thalia-b%25C3%25BCcher-gmbh-4479572620&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+An den Speichern 8, 48157 Münster
+ab sofort
+ Entwickeln. Vernetzen. Optimieren. Gestalte mit uns die IT von Thalia. 
+ Bücher erzählen Geschichten – und jeder erfolgreichen Unternehmensgeschichte liegt heutzutage eine starke digitale Infrastruktur zugrunde. Ob Onlineshop, App, Warenwirtschaftssysteme oder smarte Lösungen für unsere Buchhandlungen: Unsere IT sorgt dafür, dass Thalia als moderner Omnichannel-Buchhändler funktioniert.
+Thalia verbindet Tradition mit Innovation. Was 1919 mit einer Buchhandlung begann, ist heute ein Unternehmen mit 613 Buchhandlungen, 41 Spielwarenfachgeschäften, einem starken eCommerce-Bereich und einem digitalen Ökosystem, das stetig wächst. Unsere IT ist der Schlüssel, um den klassischen Buchhandel und die digitale Welt noch besser zu verzahnen – mit Systemen, die zuverlässig, effizient und zukunftsfähig sind.
+Wir arbeiten an Lösungen, die nicht nur unserer Kundschaft ein nahtloses Einkaufserlebnis bieten, sondern auch unsere internen Prozesse smarter und effizienter machen. Dafür brauchen wir Menschen, die Lust haben, IT-Prozesse neu zu denken, innovative Technologien einzusetzen und gemeinsam mit uns den digitalen Wandel im Buchhandel zu gestalten.
+Deine Mission bei uns
+Als Werkstudent (m/w/d) im Bereich Künstliche Intelligenz und Data Science wirst du ein wertvolles Mitglied unseres Teams. Im Rahmen deiner Tätigkeit begleitest du laufende Data-Science-Projekte von der Datenaufbereitung bis zur Präsentation der Ergebnisse und übernimmst eigenständig Ad-hoc-Analysen für unsere Fachbereiche. Dabei arbeitest du mit echten Handelsdaten und lernst, wie aus Daten Entscheidungen werden.
+ Deine Aufgaben bei uns 
+ Ad-hoc-Analysen: Du beantwortest konkrete Datenfragen aus den Fachbereichen mit SQL und Python, bereitest die Ergebnisse verständlich auf und dokumentierst dein Vorgehen nachvollziehbar.
+ Projektbegleitung: Du arbeitest in laufenden Data-Science-Projekten mit, von der Datenaufbereitung über die Analyse bis zur Aufbereitung der Ergebnisse für die Fachbereiche.
+ Datenaufbereitung und Pipelines: Du unterstützt beim Aufbau und der Pflege von Datenpipelines, bringst Datenqualitätschecks und Tests ein und hilfst dabei, einmalige Analysen in wiederholbare Prozesse zu überführen.
+ Dashboards und Reporting: Du erweiterst bestehende Dashboards um neue Auswertungen und sorgst dafür, dass Fachbereiche ihre Kennzahlen selbst nachvollziehen können.
+ Machine Learning und KI: Du unterstützt bei der Evaluation und Weiterentwicklung von ML- und KI-Ansätzen.
+ Das bringst du mit
+ Fortgeschrittenes Bachelor- oder Masterstudium der Wirtschaftsinformatik, Informatik, Data Science, Statistik oder eines ähnlichen Studiengangs.
+ Sehr gute Python- und SQL-Kenntnisse, sicherer Umgang mit Git sowie idealerweise erste Erfahrung mit der Google Cloud (BigQuery) und relationalen Quellsystemen wie SAP HANA.
+ Grundlegendes betriebswirtschaftliches Verständnis für den Austausch mit den Fachbereichen sowie analytisches Denken, Sorgfalt im Umgang mit Zahlen und die Fähigkeit, Ergebnisse verständlich aufzubereiten.
+ Erfahrung in der Nutzung von KI-Coding-Tools, wie Codex und Claude Code.
+ Motivation, deine Kenntnisse in Data Science und KI auszubauen, sowie gute Kommunikation und Teamgeist.
+ Das bieten wir dir
+Neben klassischen Vorteilen wie Coffee- & Wasser-Flat, vergünstigten Mittagsangeboten oder Mitarbeiterrabatt erwartet dich bei uns noch mehr:
+ Raum für Ideen: Bring deine Perspektiven ein und gestalte die Zukunft von Thalia aktiv mit. 
+ Lernen & Wachsen: Sammle wertvolle Praxiserfahrung für deinen Karriereweg. 
+ Flexibles Arbeiten: Arbeite eigenverantwortlich in einem modernen, agilen Umfeld mit viel Gestaltungsspielraum. 
+ Teamgeist: Bei uns zählt Zusammenarbeit – du bist von Anfang an Teil des Teams. 
+ Offenheit & Vielfalt: Wir freuen uns über neue Blickwinkel und leben Diversität. 
+ Gemeinsam verändern: Als Teil von #TeamThalia gestaltest du den digitalen Wandel im Unternehmen aktiv mit. 
+ In der Welt der Bücher ist Platz für jede Geschichte und jede Perspektive. Bei Thalia sind wir fest davon überzeugt, dass Vielfalt und eine Kultur der Wertschätzung entscheidende Antriebskräfte für Kreativität und Innovation sind. Daher begrüßen wir ausdrücklich Bewerbungen von Menschen jeglicher Herkunft, Religion, Geschlechtsidentität, sexuellen Orientierung, Alter und Fähigkeiten.
