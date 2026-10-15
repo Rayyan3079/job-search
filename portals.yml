@@ -1,0 +1,76 @@
+# Job sources for Muhammad Rayyan Ahmed. Recency window: 3 days.
+
+title_filter:
+  positive:
+    - "Werkstudent"
+    - "Werkstudentin"
+    - "Working Student"
+    - "Student Assistant"
+    - "Studentische"
+    - "SAP"
+    - "Datasphere"
+    - "Analytics Cloud"
+    - "SAC"
+    - "BW"
+    - "Business Intelligence"
+    - "BI"
+    - "Reporting"
+    - "Data"
+    - "Daten"
+    - "Analytics"
+    - "Analyst"
+    - "Machine Learning"
+    - "ML"
+    - "AI"
+    - "KI"
+    - "Computer Vision"
+    - "NLP"
+    - "Consulting"
+    - "Praktikum"
+    - "Intern"
+  negative:
+    - "Senior"
+    - "Lead"
+    - "Head of"
+    - "Principal"
+    - "Director"
+    - "Ausbildung"
+    - "Minijob"
+
+job_boards:
+  - name: Arbeitsagentur — Werkstudent SAP & BI
+    provider: arbeitsagentur
+    arbeitsagentur:
+      keywords: ["Werkstudent SAP", "Werkstudent Business Intelligence", "Werkstudent Data Analytics", "Working Student SAP", "Working Student Data"]
+      days: 3
+      size: 100
+    enabled: true
+  - name: Arbeitsagentur — Werkstudent Data Science & AI
+    provider: arbeitsagentur
+    arbeitsagentur:
+      keywords: ["Werkstudent Data Science", "Werkstudent Machine Learning", "Werkstudent KI", "Werkstudent Data Engineering", "Werkstudent Reporting"]
+      days: 3
+      size: 100
+    enabled: true
+
+search_queries:
+  - name: SAP careers — working student analytics
+    query: 'site:jobs.sap.com "Working Student" (Analytics OR Data OR Datasphere OR "Analytics Cloud")'
+    enabled: true
+  - name: LinkedIn — Werkstudent SAP / BI
+    query: 'site:linkedin.com/jobs "Werkstudent" OR "Working Student" (SAP OR "Business Intelligence" OR "Data Analyst") Germany'
+    enabled: true
+  - name: LinkedIn — Working student data science / ML
+    query: 'site:linkedin.com/jobs "Working Student" ("Data Science" OR "Machine Learning" OR AI) Germany English'
+    enabled: true
+  - name: StepStone — Werkstudent SAP / Data
+    query: 'site:stepstone.de "Werkstudent" (SAP OR Data OR BI)'
+    enabled: true
+  - name: Indeed DE — Working student English
+    query: 'site:de.indeed.com "working student" (SAP OR data OR analytics) English'
+    enabled: true
+  - name: workingstudentjobs.de
+    query: 'site:workingstudentjobs.de (SAP OR data OR analytics OR "machine learning")'
+    enabled: true
+
+tracked_companies: []

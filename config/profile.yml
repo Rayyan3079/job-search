@@ -1,0 +1,82 @@
+candidate:
+  full_name: "Muhammad Rayyan Ahmed"
+  email: "muhammad-rayyan.ahmed@tu-ilmenau.de"
+  phone: "+49 179 6991596"
+  location: "Ilmenau, Germany"
+  linkedin: "linkedin.com/in/rayyan--ahmed"
+  portfolio_url: ""
+  github: ""
+  photo: ""
+
+target_roles:
+  primary:
+    - "Werkstudent SAP Analytics / BI"
+    - "Werkstudent Data Analytics / Business Intelligence"
+    - "Werkstudent Data Science / Machine Learning"
+  archetypes:
+    - name: "SAP Data & Analytics / BI working student (Track A)"
+      level: "Werkstudent"
+      fit: "primary"
+    - name: "SAP / IT consulting working student (Track A)"
+      level: "Werkstudent"
+      fit: "primary"
+    - name: "Data analytics / reporting working student (Track A/B)"
+      level: "Werkstudent"
+      fit: "primary"
+    - name: "Data science / ML / AI / computer vision working student (Track B)"
+      level: "Werkstudent"
+      fit: "secondary"
+    - name: "Data engineering working student (Track A/B)"
+      level: "Werkstudent"
+      fit: "secondary"
+    - name: "Internship / Praktikum, thesis, junior full-time in the same areas"
+      level: "Intern / Entry"
+      fit: "adjacent"
+
+narrative:
+  headline: "M.Sc. Data Science student (TU Ilmenau) with hands-on SAP Datasphere / SAP Analytics Cloud experience"
+  exit_story: "Moved from SAP analytics work in Karachi (TallyMarks Consulting, Tapal Tea) to an M.Sc. in Data Science at TU Ilmenau; looking for a working-student role alongside studies."
+  superpowers:
+    - "End-to-end SAP analytics: sources -> ABAP CDS / Datasphere model -> SAC dashboard"
+    - "Four SAP Certified Associate certifications"
+    - "Translating business requirements into KPI reporting, with documentation"
+  proof_points:
+    - name: "Quality inspection dashboard (Tapal Tea)"
+      hero_metric: "Replaced per-material manual SAP report checks across thousands of materials"
+    - name: "BW -> Datasphere migration (TallyMarks Consulting)"
+      hero_metric: "Team migration of 42 SAC dashboards; built spinning dashboard end to end"
+    - name: "Retinal OCT classifier"
+      hero_metric: "94.11% accuracy on a 968-image test set"
+
+compensation:
+  target_range: "Standard Werkstudent hourly rate"
+  currency: "EUR"
+  minimum: ""
+  location_flexibility: "Any city in Germany; remote and hybrid welcome"
+
+location:
+  country: "Germany"
+  city: "Ilmenau"
+  timezone: "CET"
+  visa_status: "Enrolled student in Germany (student residence permit details: confirm with user)"
+  authorized_in: []
+  needs_sponsorship: false
+
+language:
+  output: en
+
+spend_tier: standard
+
+cv:
+  output_format: "html"
+
+cover_letter:
+  notice_period_days: 0
+  primary_domain: "SAP data & analytics"
+  language_learning:
+    - language: German
+      current_level: A1
+      target_level: B1
+      target_date: ""
+      sentence: "I am currently taking German classes (A1)."
+      countries: [Germany, Austria, Switzerland]

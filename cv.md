@@ -1,0 +1,62 @@
+# CV -- Muhammad Rayyan Ahmed
+
+**Location:** Ilmenau, Germany
+**Email:** muhammad-rayyan.ahmed@tu-ilmenau.de
+**Phone:** +49 179 6991596
+**LinkedIn:** linkedin.com/in/rayyan--ahmed
+
+## Professional Summary
+
+M.Sc. Data Science student at TU Ilmenau with professional experience in SAP data modelling, SAP Datasphere, SAP Analytics Cloud and ABAP CDS views, and a background in Python and machine learning.
+
+## Work Experience
+
+### Tapal Tea (Pvt.) Ltd. -- Karachi, Pakistan
+
+**Business Analyst**
+Apr 2026 - Sep 2026
+
+- Built a quality inspection dashboard in SAP Analytics Cloud on a data model built from ABAP CDS view data sources and joins, replacing a manual process in which users opened an SAP report per material for thousands of materials and compiled defect status in Excel
+- Built a tea purchasing dashboard in SAP Analytics Cloud
+- Handled daily support tickets and user queries for around 30 SAP Analytics Cloud dashboards across HR, finance, supply chain and procurement, including dashboards built by others
+- Performed SQL analysis, ABAP CDS view validation and data reconciliation to support reporting accuracy
+- Translated business requirements into KPI-based reporting
+- Wrote complete documentation for the dashboards I built, covering data sources, calculations, the dashboard and the resulting numbers
+- Built a simple Power BI dashboard for the CEO comparing current-month sales with the fiscal-year sales plan, used to track performance and adjust strategy
+
+### TallyMarks Consulting (TMC) -- Karachi, Pakistan
+
+**Management Trainee Officer, Data Planning & Analytics**
+Jun 2025 - Apr 2026
+
+- Part of a team migrating a textile manufacturer's 42 SAP Analytics Cloud dashboards from an SAP BW backend to SAP Datasphere
+- Independently built the spinning dashboard end to end: investigated sources and dependencies, rebuilt the datasets in SAP Datasphere and rebuilt the SAP Analytics Cloud dashboard
+- Dashboard KPIs: Overall Equipment Effectiveness (OEE), machine efficiency and utilization, downtime and yield
+- Designed and implemented SAP Datasphere data pipelines connecting the required sources
+- Prepared and presented a client presentation on SAP Analytics Cloud; the client subsequently purchased it
+
+## Projects
+
+- **Retinal OCT Scan Classification** (PyTorch, EfficientNet-B0, OpenCV) -- 4-class classifier on a pretrained EfficientNet-B0; 94.11% accuracy on a 968-image test set. Preprocessing and augmentation: denoising, resizing, rotation, cropping, flipping
+- **Automated Cricket Highlights Generation** (PyTorch, OpenCV, EfficientNet-B0, EasyOCR, FFmpeg) -- B.S. final-year thesis, team project. My part: created training data, evaluated and tuned the EfficientNet-B0 model, tested EasyOCR configurations for scoreboard extraction, and built the video extraction and highlight assembly pipeline aligning detected events with timestamps
+- **Knowledge Graph Construction & Clustering from Reddit Text** (Python, spaCy, NetworkX, Node2Vec, BERT, GPT-2) -- Team project on a professor-provided dataset. Extracted subject-relation-object triples; compared graph-based and language-model embeddings with K-Means and HDBSCAN
+
+## Education
+
+- **M.Sc. Data Science**, Technische Universität Ilmenau, Oct 2026 - present. Current courses: Bayesian Data Assimilation, Research Skills, Sequential Decision Making, Theoretical Foundations of Data Management
+- **B.S. Artificial Intelligence**, FAST-NUCES, Karachi, Sep 2021 - Jun 2025. CGPA 3.49/4.00 (German grade equivalent: 1.7, converted). Final-year thesis: Automated Cricket Highlights Generation
+
+## Certifications
+
+- SAP Certified Associate: SAP Analytics Cloud (Data Analyst)
+- SAP Certified Associate: SAP Business Data Cloud
+- SAP Certified Associate: SAP S/4HANA Cloud Public Edition, Implementation Consultant
+- SAP Certified Associate: SAP Integration Developer
+- Earned via the SAP Young Professionals Program (2025)
+
+## Skills
+
+- **SAP & Analytics:** SAP Analytics Cloud, SAP Datasphere, ABAP CDS views, SAP Business Data Cloud, data modelling, ETL / data transformation, data pipelines, SQL
+- **Programming & ML:** Python, Pandas, NumPy, scikit-learn, PyTorch, OpenCV, EasyOCR, FFmpeg, spaCy, NetworkX, Node2Vec, BERT, GPT-2
+- **Visualization & Office:** SAP Analytics Cloud, Matplotlib, Power BI (basic), Excel (pivot tables, formulas), PowerPoint
+- **Languages:** English (fluent, IELTS 8.0 / C1), German (A1, currently learning)
