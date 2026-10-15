@@ -57,10 +57,13 @@ For each job, slug = `company-role` (lowercase, hyphens). Folder: `output/$TODAY
    - `candidate.title` = a truthful headline matching the role (e.g. "M.Sc. Data Science Student | Working Student Applicant, BI & Analytics").
    - Save payload as `output/$TODAY/<slug>/cv.json`, then:
      ```bash
-     T=$(cd $CO_ROOT && node cv-templates.mjs resolve cv compact | tail -1)
+     T=$JS_ROOT/templates/classic-sap/cv.html     # the user's chosen layout; do not switch templates
      (cd $CO_ROOT && node build-cv-html.mjs $JS_ROOT/output/$TODAY/<slug>/cv.json $JS_ROOT/output/$TODAY/<slug>/cv.html "$T" \
-       && node generate-pdf.mjs $JS_ROOT/output/$TODAY/<slug>/cv.html $JS_ROOT/output/$TODAY/<slug>/CV-Muhammad-Rayyan-Ahmed.pdf --format=a4)
+       && node generate-pdf.mjs $JS_ROOT/output/$TODAY/<slug>/cv.html $JS_ROOT/output/$TODAY/<slug>/CV-Muhammad-Rayyan-Ahmed.pdf --format=a4 --allow-reorder)
      ```
+     Keep the payload shape of `runs/base-track-a.json`: `sections` titles, no `competencies`, skills as
+     4 categories joined with " · ", certifications with empty `org`. The template puts Technical Skills
+     before Experience on purpose (hence `--allow-reorder`).
      Target 1 page. Fix any fact-check `block`.
 3. **Cover letter:** follow `$CO_ROOT/modes/cover.md` Steps 1-9 non-interactively (no questions to the user;
    use sensible defaults: available immediately, up to 20 h/week during the semester, English letter).

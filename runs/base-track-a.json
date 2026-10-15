@@ -3,7 +3,7 @@
   "page_format": "a4",
   "candidate": {
     "name": "Muhammad Rayyan Ahmed",
-    "title": "M.Sc. Data Science Student | SAP Data & Analytics",
+    "title": "Data Science Student | SAP Data & Analytics",
     "phone": "+49 179 6991596",
     "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
     "linkedin": {
@@ -17,16 +17,6 @@
     }
   },
   "summary": "M.Sc. Data Science student at TU Ilmenau with professional experience in **SAP data modelling, SAP Datasphere, SAP Analytics Cloud and ABAP CDS views**, and a background in Python and machine learning. Four SAP Certified Associate certifications.",
-  "competencies": [
-    "SAP Analytics Cloud",
-    "SAP Datasphere",
-    "ABAP CDS Views",
-    "Data Modelling",
-    "KPI Reporting",
-    "SQL",
-    "Data Reconciliation",
-    "Python"
-  ],
   "experience": [
     {
       "company": "Tapal Tea (Pvt.) Ltd.",
@@ -86,41 +76,46 @@
   "certifications": [
     {
       "title": "SAP Certified Associate: SAP Analytics Cloud (Data Analyst)",
-      "org": "SAP",
+      "org": "",
       "year": "2025"
     },
     {
       "title": "SAP Certified Associate: SAP Business Data Cloud",
-      "org": "SAP",
+      "org": "",
       "year": "2025"
     },
     {
       "title": "SAP Certified Associate: SAP S/4HANA Cloud Public Edition, Implementation Consultant",
-      "org": "SAP",
+      "org": "",
       "year": "2025"
     },
     {
       "title": "SAP Certified Associate: SAP Integration Developer",
-      "org": "SAP",
+      "org": "",
       "year": "2025"
     }
   ],
   "skills": [
     {
       "category": "SAP & Analytics",
-      "items": "SAP Analytics Cloud, SAP Datasphere, ABAP CDS views, SAP Business Data Cloud, data modelling, ETL, data pipelines, SQL"
+      "items": "SAP Analytics Cloud · SAP Datasphere · ABAP CDS views · SAP Business Data Cloud · data modelling · ETL / data pipelines · SQL"
     },
     {
       "category": "Programming & ML",
-      "items": "Python, Pandas, NumPy, scikit-learn, PyTorch, OpenCV"
+      "items": "Python · Pandas · NumPy · scikit-learn · PyTorch · OpenCV"
     },
     {
-      "category": "Tools",
-      "items": "Power BI (basic), Excel (pivot tables, formulas), PowerPoint, Matplotlib"
+      "category": "Reporting & Tools",
+      "items": "KPI reporting · Power BI (basic) · Excel (pivot tables, formulas) · PowerPoint · Matplotlib"
     },
     {
       "category": "Languages",
-      "items": "English (fluent, IELTS 8.0 / C1), German (A1, learning)"
+      "items": "English C1 (IELTS 8.0) · German A1 (currently learning)"
     }
-  ]
+  ],
+  "sections": {
+    "skills": "Technical Skills",
+    "experience": "Professional Experience",
+    "certifications": "Certifications"
+  }
 }
