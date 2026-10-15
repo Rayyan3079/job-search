@@ -18,7 +18,7 @@ M.Sc. Data Science student at TU Ilmenau with professional experience in SAP dat
 Apr 2026 - Sep 2026
 
 - Built a quality inspection dashboard in SAP Analytics Cloud on a data model built from ABAP CDS view data sources and joins, replacing a manual process in which users opened an SAP report per material for thousands of materials and compiled defect status in Excel
-- Built an employee expense reimbursement dashboard
+- Built an employee expense reimbursement dashboard in SAP Analytics Cloud
 - Handled daily support tickets and user queries for around 30 SAP Analytics Cloud dashboards across HR, finance, supply chain and procurement, including dashboards built by others
 - Performed SQL analysis, ABAP CDS view validation and data reconciliation to support reporting accuracy
 - Translated business requirements into KPI-based reporting

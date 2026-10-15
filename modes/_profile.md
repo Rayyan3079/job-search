@@ -40,5 +40,5 @@ Available immediately; up to 20 hours/week during the semester (more during seme
 
 - Experience entries, newest first: Tapal Tea Business Analyst; SAP Young Professionals Program (started Aug 2025); TallyMarks Consulting (started Jun 2025); Tapal Tea SAP Data Analyst Intern. Ordered by start date (the PDF check enforces it).
 - SAP YPP: "selected as one of 10 participants from Pakistan" is user-confirmed and may be used.
-- Tapal BA second dashboard is the employee expense reimbursement dashboard (tool not stated: do not name one). There is NO tea purchasing dashboard in the BA role.
+- Tapal BA second dashboard is the employee expense reimbursement dashboard, built in SAP Analytics Cloud (user-confirmed). There is NO tea purchasing dashboard in the BA role.
 - **Projects section: OMIT by default.** Include Projects only for AI/ML-heavy roles (machine learning, data science with modelling, computer vision, NLP, AI). For those, Retinal OCT and Cricket Highlights first; Knowledge Graph only if space allows.
