@@ -1,0 +1,56 @@
+URL: https://www.linkedin.com/jobs/view/4461601361
+TITLE: Student Helper - Product Development & AI (m/f/d)
+COMPANY: Ericsson
+LOC: Herzogenrath, North Rhine-Westphalia, Germany
+POSTED: 2026-10-16
+title: Student Helper - Product Development & AI (m/f/d)
+company: Ericsson
+posted: 16 hours ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fstudent-helper-product-development-ai-m-f-d-at-ericsson-4461601361&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+The Product Development organization in Aachen is looking for motivated and curious students who want to enlarge hands-on experience in a collaborative, diverse and high-performing team working at the forefront of telecommunications and Artificial Intelligence.
+Besides working with the local team, you will also interact and collaborate with colleagues around the world.
+As a Student Helper, you will support the team in developing and validating modern product development solutions while exploring how Artificial Intelligence can transform software engineering processes and ease integration and verification workflows. You will contribute to projects involving AI, automation, developer productivity, knowledge management and AI-assisted software development.
+ The team develops cloud-native products for mobile core and/or RAN networks and explores how AI can transform software engineering, knowledge management and developer productivity in large-scale telecom systems.
+ Our team is a front-runner in Product Development and systemization of Systems, Cloud-Native Networking, Software Automation, AI-assisted Development, Knowledge Management and Developer Productivity. Be part of this exciting opportunity!
+ You will
+ Support the development and validation of software solutions for mobile core and/or RAN networks in cloud-native or proprietary environments.
+ Explore and develop AI solutions for software engineering, knowledge management and automation use cases.
+ Develop scripts, tools, dashboards and prototypes to automate engineering workflows and improve developer productivity.
+ Contribute to proof-of-concept implementations related to AI-assisted software development and engineering workflows.
+ Support knowledge management initiatives, including documentation, knowledge repositories and engineering knowledge structures.
+ Assist in analyzing engineering data and identifying opportunities for AI-based improvements.
+ Support internal AI pilots, workshops, hackathons, demonstrations and community activities.
+ Interact with other organizations and stakeholders within Ericsson.
+ To be successful in the role you should have
+ An ongoing academic degree (Bachelor or Master) in Computer Science, Data Science, Software Engineering, Communications Engineering or a related field.
+ Solid programming skills in Python.
+ Experience with Java and/or C++ is a plus.
+ Experience in Artificial Intelligence, Machine Learning and AI-assisted software development.
+ Experience developing MCP and knowledge graphs is a plus
+ Experience with data analysis, visualization, scripting or automation tools.
+ Familiarity with Linux environments, Git and modern software development practices.
+ Good communication skills and fluency in written and spoken English.
+ Motivation and ability to work independently as well as collaboratively in diverse and remote teams.
+ A creative and innovative mindset with a solution-oriented attitude. 
+ Nice to have
+ Experience with Generative AI tools such as GitHub Copilot, Kiro, Amazon Q, Claude, ChatGPT or similar platforms.
+ Experience with Machine Learning frameworks.
+ Experience with web development, dashboards or data visualization technologies.
+ Interest in developer productivity, software automation and modern engineering practices.
+ What We Offer
+ A flexible working schedule compatible with your university commitments (15-20 hours per week).
+ Hands-on experience with state-of-the-art telecommunications software and AI technologies.
+ The opportunity to work on practical AI adoption initiatives in a real engineering organization.
+ Exposure to AI-assisted software development, automation and knowledge management.
+ Mentoring from experienced software engineers and AI practitioners.
+ Potential pathways to thesis work, internships or full-time employment.
+ A collaborative and international work environment at a global technology leader.
+ If you are passionate about AI and want to apply your skills to help shape the future of software engineering and telecommunications, we are looking forward to hearing from you.
+ Why join Ericsson?
+ At Ericsson, you´ll have an outstanding opportunity. The chance to use your skills and imagination to push the boundaries of what´s possible. To build saolutions never seen before to some of the world’s toughest problems. You´ll be challenged, but you won’t be alone. You´ll be joining a team of diverse innovators, all driven to go beyond the status quo to craft what comes next.
+ What happens once you apply?
+ Click Here to find all you need to know about what our typical hiring process looks like.Encouraging a diverse and inclusive organization is core to our values at Ericsson, that's why we champion it in everything we do. We truly believe that by collaborating with people with different experiences we drive innovation, which is essential for our future growth. We encourage people from all backgrounds to apply and realize their full potential as part of our Ericsson team. Ericsson is proud to be an Equal Opportunity Employer. learn more.
+ Primary country and city: Germany (DE) || Herzogenrath
+ Req ID: 788029

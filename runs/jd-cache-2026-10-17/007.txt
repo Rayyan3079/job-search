@@ -1,0 +1,53 @@
+URL: https://www.linkedin.com/jobs/view/4476027527
+TITLE: Werkstudent*in (w/m/d) Process Automation, Power Platform & Data Analytics
+COMPANY: Siemens Healthineers
+LOC: Erlangen, Bavaria, Germany
+POSTED: 2026-10-16
+title: Werkstudent*in (w/m/d) Process Automation, Power Platform & Data Analytics
+company: Siemens Healthineers
+posted: 11 hours ago
+applicants: 63 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-in-w-m-d-process-automation-power-platform-data-analytics-at-siemens-healthineers-4476027527&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Requirements
+ Willst Du die Zukunft des Gesundheitswesens mitgestalten? Wir bei Siemens Healthineers setzen auf Menschen, die ihre Energie und Leidenschaft diesem Ziel widmen – das sagt schon unser Unternehmensname. Siemens Healthineers steht für Pioniergeist unserer Mitarbeitenden, gepaart mit unserer langen Tradition als weltweit führender Technologiekonzern in der stets dynamischen Gesundheitsbranche.
+Wir bieten ein flexibles und dynamisches Umfeld voller Gelegenheiten, über sich hinaus zu wachsen, um sich persönlich und beruflich weiterzuentwickeln. Klingt das interessant für Dich?
+ Dann werde Teil unseres globalen Teams als Werkstudent*in (w/m/d) für Process Automation, Power Platform & Data Analytics.
+ Diese Stelle ist in Teilzeit mit 15h/Woche zu besetzen.
+Arbeitsort: Karlheinz-Kaske Straße 5, 91052 Erlangen
+ Deine Aufgaben Und Verantwortlichkeiten
+ Gemeinsam mit uns entwickelst Du Business-Anwendungen mit Microsoft Power Apps
+ Du unterstützt uns bei der Konzeption und Implementierung von Workflow-Automatisierungen mit Microsoft Power Automate
+ Du unterstützt uns bei der Erstellung von Dashboards, Berichten und Datenanalysen mit Microsoft Power BI
+ Du integrierst Datenquellen und automatisierst Geschäftsprozesse
+ Du unterstützt die Umsetzung von Digitalisierungs- und Prozessoptimierungsprojekten
+ Du hilfst uns bei der Entwicklung von Copilot-Lösungen und einfachen KI-gestützten Business-Anwendungen
+ Gemeinsam mit dem Team unterstützt Du uns dabei, Business-Anforderungen zu analysieren und in technische Lösungen zu übersetzen
+ Du unterstützt die Einführung, das Testen und die Dokumentation neuer digitaler Lösungen
+ Du pflegst die Lösungsdokumentation und Entwicklungsarbeiten mit GitHub oder vergleichbaren Plattformen
+ Du arbeitest mit kaufmännischen und technischen Stakeholder*innen zusammen
+ Mehr über dieses Geschäftsfeld erfährst Du unter https://www.siemens-healthineers.com/products-services
+ Deine Qualifikationen Und Erfahrung
+ Du bist aktuell in einem Bachelor im Bereich der Wirtschaftsinformatik, Informatik, Data Science, Betriebswirtschaftslehre mit technischem Schwerpunkt oder in einem vergleichbaren Studiengang eingeschrieben
+ Du bist für mindestens 4 Semester verfügbar
+ Du verfügst über Erfahrung mit der Microsoft Power Platform, insbesondere mit Power Apps, Power Automate und Power BI
+ Idealerweise bist Du mit GitHub, Git oder vergleichbaren Versionskontrollplattformen vertraut
+ Erfahrung in der Entwicklung von Business-Anwendungen, Dashboards oder Automatisierungslösungen ist von Vorteil
+ Du verfügst über ein grundlegendes Verständnis von APIs, Datenbanken und der Integration unterschiedlicher Datenquellen
+ Dein Profil Und Deine Fähigkeiten
+ Du verfügst über sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
+ Du besitzt ausgeprägte Kommunikations- und Teamfähigkeiten
+ Du arbeitest selbstständig, strukturiert und lösungsorientiert
+ Du bist in der Lage, Geschäftsprozesse zu verstehen und Anforderungen in praxisnahe Lösungen zu übersetzen
+ Du interessierst Dich für KI-gestützte Prozessautomatisierung und Microsoft-Copilot-Lösungen
+ Du verfügst über Kenntnisse in Datenanalyse, Datenmodellierung und Datenvisualisierung? Dann freuen wir uns auf Deine Bewerbung!
+ Unser Globales Team
+ Siemens Healthineers ist ein weltweit führendes Medizintechnikunternehmen. Mit mehr als 74.000 engagierten Mitarbeitenden in über 70 Ländern gestalten wir die Zukunft des Gesundheitswesens. Jeden Tag profitieren etwa fünf Millionen Patient*innen weltweit von unseren innovativen Technologien und Dienstleistungen aus den Bereichen Diagnostik und therapeutische Bildgebung, Labordiagnostik und molekulare Medizin sowie von unseren digitalen Gesundheits- und Unternehmensdienstleistungen.
+ Unsere Kultur
+ Unsere Unternehmenskultur schätzt verschiedene Blickwinkel, offene Diskussionen und den Willen, Konventionen in Frage zu stellen. Ständiger Wandel gehört zu unserem Arbeitsalltag. Wir wollen in unserer Branche Veränderungen vorantreiben, statt nur darauf zu reagieren. Deswegen laden wir Dich ein, sich neuen Herausforderungen zu stellen, eigene Ideen auszutesten und Erfolge zu feiern.
+Besuche auch unsere Karriere-Seite unter https://careers.siemens-healthineers.com/de/de
+Wir legen Wert auf Diversität und Chancengleichheit und freuen uns über Bewerbungen mit vielfältigen Hintergründen und insbesondere von Menschen mit Behinderung.
+Du möchtest mehr erfahren und erste Fragen gern persönlich klären – Sprich uns an: students.func@siemens-healthineers.com.
+Wir nehmen den Schutz Deiner Daten und die Einhaltung der DSGVO und anderer Datenschutzgesetze ernst. Deshalb bitten wir Dich, uns Deinen Lebenslauf nicht per E-Mail zu schicken. Bitte lege ein Profil in unserer Talent Community an, um Deinen Lebenslauf hochzuladen. Daran erkennen wir, dass Du an Karrieremöglichkeiten bei uns interessiert bist und können Dich zu relevanten Stellen benachrichtigen. Klicke hier, um ein Profil anzulegen.
+ An Alle Personalvermittlungsagenturen
+ Die Personalbeschaffung bei Siemens Healthineers wird intern verwaltet. Externe Unterstützung ist nur dann gestattet, wenn eine qualifizierte Agentur einen formellen Vertrag mit uns abgeschlossen hat. Unaufgeforderte Bewerbungen und Empfehlungen von Kandidatenprofilen ohne aktuelle Lieferantenvereinbarung begründen keine Zustimmung und sind somit nicht gebührenpflichtig. Wir löschen und vernichten nicht angeforderte Informationen und empfehlen, von derartigen Praktiken abzusehen. Wir danken für die Einhaltung unserer Richtlinien.

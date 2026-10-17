@@ -1,0 +1,40 @@
+URL: https://www.linkedin.com/jobs/view/4480186165
+TITLE: Working Student Software Development & Cloud Solutions on SAP BTP (f/m/d)
+COMPANY: Endress+Hauser Group
+LOC: Freiburg, Baden-Württemberg, Germany
+POSTED: 2026-10-15
+title: Working Student Software Development & Cloud Solutions on SAP BTP (f/m/d)
+company: Endress+Hauser Group
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-software-development-cloud-solutions-on-sap-btp-f-m-d-at-endress%252Bhauser-group-4480186165&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Who are we?
+ Endress+Hauser is a global leader in measurement instrumentation, services, and solutions for industrial process engineering. Even with more than 18,000 employees worldwide, we have remained a family-owned company and take pride in our welcoming and supportive work environment. Working with us always combines two dimensions: the technical and the human. The result: greater satisfaction. Every day.
+ What is this position about?
+ Become part of our development team at our Freiburg office and help shape digital cloud solutions for the future of Product, Asset, and Sustainability Management. You will gain first-hand experience with SAP BTP, modern software architectures, and practical development processes.
+ What will you do?
+ Contribute on-site to the development of digital solutions for Product, Asset, and Sustainability Management topics
+ Gain first-hand experience with the SAP Business Technology Platform (SAP BTP) and modern cloud technologies in an on-site environment
+ Take ownership of your own tasks within the development process and support the implementation of new requirements
+ Explore new technologies and gain hands-on experience in real-world projects
+ Work closely with experienced colleagues and continuously develop your skills
+ What makes you a great fit?
+ You are studying Computer Science, Business Information Systems, Software Engineering, Data Science, or a comparable IT-related degree program
+ You are interested in software development, cloud technologies, and modern platforms
+ You work independently, in a structured manner, and have a strong willingness to learn
+ You are curious, enjoy trying out new technologies, and are passionate about developing solutions
+ Initial experience with a programming language such as Node.js, Python, or similar technologies is an advantage
+ Ideally, you are interested in topics such as Cloud Computing, SAP BTP, APIs, Data Integration, or Artificial Intelligence
+ You communicate openly, enjoy working as part of a team, and take responsibility for your tasks
+ You have good written and spoken German or English skills
+ You can dedicate approximately 10 hours of your free time per week to this role
+ You live in the Freiburg region
+ What can you expect from us?
+ Professional and personal mentoring from experienced supervisors
+ The opportunity to take ownership and contribute to challenging projects
+ A state-of-the-art working environment in an internationally operating family-owned company
+ State-of-the-art equipment to help you get started successfully
+ A great office environment and, by arrangement, the option to work partly from home
+ A variety of company and team events
+ A Germany-wide public transport ticket included!

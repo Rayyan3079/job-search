@@ -1,0 +1,68 @@
+URL: https://www.linkedin.com/jobs/view/4480361177
+TITLE: Werkstudent AI Engineer – LLMs & KI-Agenten (all genders) - 100 % Remote
+COMPANY: iits-consulting
+LOC: Germany
+POSTED: 2026-10-16
+title: Werkstudent AI Engineer – LLMs & KI-Agenten (all genders) - 100 % Remote
+company: iits-consulting
+posted: 18 hours ago
+applicants: 56 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-ai-engineer-%25E2%2580%2593-llms-ki-agenten-all-genders-100-%2525-remote-at-iits-consulting-4480361177&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Über uns 
+ Wir bei iits bieten unseren Kunden individuelle Softwarelösungen, da jedes Unternehmen einzigartig ist und eigene Ziele und Herausforderungen hat. Dies ermöglichen wir durch die technische Expertise unserer Teams, welche die Geschäftsprozesse der Kunden tagtäglich optimieren und eine maßgeschneiderte Digitalisierung ermöglichen. Wir haben es uns zur Mission gemacht, Visionen zum Leben zu erwecken, einzelne Anforderungen zu verstehen und innovative Software zu entwickeln.
+ Deine Aufgaben 
+ Du möchtest spezialisierte KI-Agenten entwickeln und intelligente Automatisierung in die Praxis bringen?
+ Als Werkstudent*in arbeitest du gemeinsam mit unserem Team an internen Lösungen und Kundenprojekten.
+ Je nach deinen Kenntnissen kannst du zusätzlich an Projekten aus den Bereichen Machine Learning , Computer Vision oder mathematische Optimierung mitarbeiten.
+ Wenn du LLMs und KI-Agenten nicht nur ausprobieren, sondern in funktionierende Software und reale Prozesse integrieren möchtest, freuen wir uns darauf, dich kennenzulernen.
+ Die Position ist ab sofort , remote aus ganz Deutschland verfügbar.
+ Dein Profil 
+ Deine Aufgaben umfassen 
+ Entwicklung spezialisierter LLM-Agenten für konkrete Anwendungsfälle, beispielsweise Dokumentenverarbeitung, Datenanalyse oder wissensbasierte Assistenz
+ Konzeption agentischer Workflows mit Tool Calling, RAG und strukturierten Datenquellen
+ Integration von KI-Funktionen in Softwareanwendungen, APIs und automatisierte Geschäftsprozesse
+ Entwicklung interner KI-Automationen sowie KI-gestützter Lösungen für unsere Kunden
+ Überführung von Prototypen in robuste, getestete und wartbare Software
+ Evaluation und Verbesserung der Qualität, Zuverlässigkeit und Nachvollziehbarkeit von KI-Lösungen
+ Recherche und Bewertung neuer Modelle, Agenten-Frameworks und KI-Technologien
+ Unterstützung bei der Identifikation geeigneter KI-Anwendungsfälle und erste Einblicke in die technologieorientierte Beratung
+ Dein Profil 
+ Du befindest dich in einer fortgeschrittenen Phase deines Studiums – idealerweise ab dem vierten Bachelorsemester oder in einem Masterstudiengang
+ Du studierst Informatik, künstliche Intelligenz, Data Science, Mathematik, Wirtschaftsinformatik oder ein vergleichbares Fach
+ Du verfügst über sehr gute Python-Kenntnisse und hast bereits mehrere eigene, universitäre oder berufliche Projekte umgesetzt
+ Du hast praktische Erfahrung mit LLMs, KI-Agenten, RAG, Tool Calling oder vergleichbaren Ansätzen
+ Du hast praktische Erfahrung mit mindestens einem Framework zur Entwicklung LLM-basierter oder agentischer Anwendungen, beispielsweise LangChain, LangGraph oder LlamaIndex
+ Du bist mit der Nutzung und Integration von Sprachmodellen über APIs oder Modellbibliotheken wie Hugging Face Transformers vertraut
+ Du hast ein gutes Verständnis für Softwareentwicklung und erste Erfahrungen mit APIs, Datenbanken, Git und automatisierten Tests
+ Kenntnisse in Automatisierungsplattformen wie n8n oder Make sind von Vorteil, aber keine Voraussetzung
+ Du arbeitest strukturiert und selbstständig, hinterfragst Ergebnisse kritisch und eignest dir neue Technologien schnell an
+ Du kannst technische Zusammenhänge verständlich erklären und möchtest erste Erfahrungen im Austausch mit Kunden sammeln
+ Du verfügst über gute Deutschkenntnisse auf mindestens B2-Niveau sowie gute Englischkenntnisse
+ Zusätzliche vertiefte Kenntnisse in mindestens einem der folgenden Bereiche sind willkommen: 
+ Machine Learning oder Deep Learning, beispielsweise mit PyTorch oder TensorFlow
+ Computer Vision, beispielsweise mit OpenCV oder Ultralytics
+ mathematische oder heuristische Optimierung, beispielsweise mit Pyomo, pymoo oder Optuna
+ Du musst nicht alle optionalen Vertiefungen abdecken. Entscheidend sind deine praktische Erfahrung mit LLMs und KI-Agenten, dein Interesse an guter Softwareentwicklung und deine Motivation, KI-Lösungen in die Praxis zu bringen.
+ Warum wir? 
+ Was wir bieten 
+ Flexible Tätigkeit – 100 % remote aus ganz Deutschland
+ Mentoring durch erfahrene Software- und AI-Engineers
+ Mitarbeit an echten Kundenprojekten und internen KI-Automationen
+ Moderne KI-Technologien, Agenten-Frameworks und Softwarearchitekturen
+ Möglichkeit, eigene Ideen einzubringen und fachliche Schwerpunkte zu vertiefen
+ Erste Erfahrungen an der Schnittstelle zwischen Entwicklung und technologieorientierter Beratung
+ Flache Hierarchien, agile Prozesse und eigenverantwortliches Arbeiten
+ Individuelle Fortbildungen, Tech-Talks und regelmäßiger Wissensaustausch
+ 30 Urlaubstage sowie Weihnachten, Silvester und Bildungstage frei
+ Wellbeing-Angebote und regelmäßige Team-Events
+ Unser Angebot 
+ Education Days / Weiterbildungsbudget
+ Corportate Benefits - Plattform
+ Virtual Lunch (Bi-Weekly 1x gemeinsames Lunch)
+ 1x pro Woche Yogakurs
+ Zuschuss zum Deutschsprachkurs
+ Noch Fragen? 
+ Dann komm sehr gern auf uns zu! Wende dich sehr gern direkt an unsere Kolleg:innen aus dem Recruiting unter recruiting@iits-consulting.de . Wir freuen uns auf dich!
+ Kununu 
+ Worth a look! Auf Kununu bewerten Mitarbeitende Arbeitgeber. Schau gern mal vorbei und überzeug dich selbst.

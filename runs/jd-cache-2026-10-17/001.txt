@@ -1,0 +1,50 @@
+URL: https://www.linkedin.com/jobs/view/4477703711
+TITLE: Working Student (f/m/d) – AI-Powered Integration on SAP Business AI Platform
+COMPANY: SAP
+LOC: Garching, Bavaria, Germany
+POSTED: 2026-10-16
+title: Working Student (f/m/d) – AI-Powered Integration on SAP Business AI Platform
+company: SAP
+posted: 11 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-f-m-d-%25E2%2580%2593-ai-powered-integration-on-sap-business-ai-platform-at-sap-4477703711&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Description
+ What you’ll build
+ You'll work on real deliverables, not shadow tasks. Your contributions connect directly to your team's goals. You'll leave with a portfolio of SAP work you can build on.
+ In Your Role You Will Work On Various Tasks
+ Support our team in building and evaluating AI-powered integration scenarios using SAP Integration Suite and SAP AI Core / SAP Gen AI Hub.
+ Develop and test integration flows that leverage generative AI - including intelligent document processing, AI-assisted iFlow generation (Joule), and AI-driven data mapping.
+ Research and prototype agentic AI use cases combining SAP Business AI Platform with Model Context Protocol (MCP) and AI agent frameworks.
+ Assist in API management tasks: configure API proxies, analyse governance patterns, and document best practices.
+ Contribute to internal enablement materials, customer demos, and best-practice documentation for AI integration topics.
+ Collaborate with senior consultants and directly support customer engagements across the full integration lifecycle.
+ What You Bring
+ You're a student ready to contribute alongside your studies. You're curious, adapt quickly, and stay resilient as priorities evolve. You think creatively, communicate clearly, and collaborate well across teams. You're building your foundations in business and AI — and you take initiative to apply them. You bring emotional intelligence and cultural awareness to every interaction.
+ Student (f/m/d) at a university or university of applied sciences in one of the preferred fields: Computer Science, Business Informatics, Data Science, Natural Sciences or related field.
+ Programming skills: Python (required) or TypeScript; Groovy or JavaScript a plus.
+ Interest in Artificial Intelligence, machine learning, and cloud technologies.
+ Basic understanding of APIs, REST, and integration concepts.
+ Language skills: Fluent German and very good English (written and verbal). Additional languages on a conversational level (at least B2) are a plus.
+ Self-driven, curious mindset and ability to work independently.
+ Where you belong 
+ As a working student you will be part of SAP Next Gen, a global network of students and early professionals growing together. You'll access mentors, development programmes, and peers building careers alongside you. It's a place to start something real.
+We are part of the GDH Global Delivery Hub, within the Practice BAIP Integration Modernization Services - a team of Cloud Integration Architects helping customers succeed on SAP Business AI Platform.
+Our team works at the intersection of AI and enterprise integration: from PI/PO migrations and SAP Integration Suite modernization to agentic AI architectures and governed API layers.
+We operate across Germany and Europe, combining deep technical expertise with a passion for innovation, clean architecture, and AI-driven automation.
+You will work alongside experienced architects, shape real customer outcomes, and build skills that matter in the AI era.
+Your set of application documents should contain a cover letter, a resume in table form, school leaving certificates, certificate of enrollment, current university transcript of records, copies of any academic degrees already earned, and if available, references from former employers (including internships). Please also describe your experience and skills in foreign languages and computer programs / programming languages.
+This is a SAP global, strategic, paid working student position that provides students with opportunities to find purpose in their careers.
+#Workingstudent #Werkstudent #Germany #Deutschland #Student #SAPGermanStudentsCareers #SAPNextGen
+Additional Information
+ About SAP
+ With a global network of customers, partners, employees, and thought leaders, SAP helps the world run better and improves people’s lives.
+As a leader in enterprise applications and business AI, SAP stands at the nexus of business and technology. For over 50 years, organizations have trusted SAP to bring out their best by uniting business-critical operations spanning finance, procurement, HR, supply chain, and customer experience.
+We win with inclusion
+SAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.
+SAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team: Careers@sap.com.
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+Qualified applicants will receive consideration for employment without regard to their age, race, religion, national origin, ethnicity, gender (including pregnancy, childbirth, et al), sexual orientation, gender identity or expression, protected veteran status, or disability, in compliance with applicable federal, state, and local legal requirements.
+AI Usage in the Recruitment Process
+For information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.
+Please note that any violation of these guidelines may result in disqualification from the hiring process.

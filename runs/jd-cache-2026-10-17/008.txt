@@ -1,0 +1,44 @@
+URL: https://www.linkedin.com/jobs/view/4469761276
+TITLE: Werkstudent Process Mining & Data Science im Entwicklungsbereich (w/m/x)
+COMPANY: BMW Group
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-10-16
+title: Werkstudent Process Mining & Data Science im Entwicklungsbereich (w/m/x)
+company: BMW Group
+posted: 16 hours ago
+applicants: 54 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-process-mining-data-science-im-entwicklungsbereich-w-m-x-at-bmw-group-4469761276&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+THEORETISCH DIE BESTE ENTSCHEIDUNG. PRAKTISCH AUCH.
+ TEILE DEINE LEIDENSCHAFT.
+ Nur hochprofessionelle Abläufe in dynamischen Teams produzieren innovative Spitzentechnologie. Aber Fahrfreude wird bei uns von der Entwicklung bis zur Fertigung vor allem auch mit Spaß an der Arbeit und Begeisterung für das gemeinsame Projekt realisiert. Deshalb geben wir Studierenden bei uns nicht nur die Gelegenheit zum Zuhören, sondern auch zum Mitreden und Weiterdenken.
+Wir bei der BMW Group bieten dir eine spannende Werkstudententätigkeit im Bereich Data Science. Du wirst Teil eines hoch motivierten Teams von Expert:innen, das Pionierarbeit in der Branche leistet und führende Technologien in der Digitalisierung vorantreibt. Du unterstützt in einer kollaborativen Umgebung, in der teamorientierte Zusammenarbeit, offene Kommunikation und Ideenentwicklung gefördert werden.
+Was erwartet dich?
+ Du unterstützt unser Center of Competence bei der Anwendung von Process Mining zur Digitalisierung, Analyse und Optimierung von Entwicklungsprozessen.
+ Dabei wirkst du bei der Identifikation von Verbesserungspotenzialen mit und arbeitest eng mit verschiedenen Fachbereichen an der Umsetzung datengetriebener Lösungen zusammen.
+ Darüber hinaus unterstützt du bei der Erstellung und Weiterentwicklung von Dashboards sowie bei Ad-hoc-Analysen mit modernen Analytics- und KI-Werkzeugen.
+ Du erhältst Einblicke in spannende KI- und Digitalisierungsprojekte und unterstützt bei der Aufbereitung und Visualisierung von Daten sowie bei der Erstellung von Präsentationen für das Management.
+ In einem interdisziplinären Team arbeitest du an zukunftsweisenden Themen rund um Daten, Prozesse und Künstliche Intelligenz. Dabei hast du die Möglichkeit, eigene Ideen einzubringen, wertvolle Praxiserfahrung zu sammeln und die Fahrzeugentwicklung bei BMW kennenzulernen.
+ Was bringst du mit?
+ Studium im Bereich Data Science, (Wirtschafts-)Informatik oder vergleichbar.
+ Hohes Interesse an Prozessen der Produktentstehung oder erste Erfahrungen im Process Mining von Vorteil.
+ Programmierkenntnisse und Erfahrung im Umgang mit Datenbanken (Python, SQL, etc.).
+ Praktische Erfahrung im Umgang mit BI-Tools (AWS QuickSight, Palantir Foundry, Power BI, Tableau, etc.).
+ Proaktive Arbeitsweise, Engagement und Motivation, dich ständig weiterzuentwickeln und in neue Themengebiete einzufinden.
+ Verhandlungssichere Deutsch- und gute Englischkenntnisse.
+ Du bringst Begeisterung für neue Technologien und ein innovatives Umfeld mit? Dann bewirb dich jetzt!
+ Was bieten wir dir?
+ Umfassendes Mentoring & Onboarding.
+ Persönliche & fachliche Weiterentwicklung.
+ Flexible Arbeitszeiten.
+ Mobilarbeit.
+ Attraktive & faire Vergütung.
+ Apartments für Studierende (nach Verfügbarkeit & nur am Standort München).
+ Und vieles mehr siehe jobs/waswirbieten
+ Startdatum: frühestens ab 01.11.2026
+ Dauer: 6 Monate
+ Arbeitszeit: Teilzeit
+Hilfreiche Tipps zu deiner Bewerbung und dem Bewerbungsprozess findest du hier.
+Wir bei der BMW Group legen großen Wert auf Gleichbehandlung und Chancengleichheit. Unsere Recruiting-Entscheidungen basieren auf der Persönlichkeit, den Erfahrungen und Fähigkeiten der Bewerber:innen.
+Mehr dazu hier.
+Werkstudent Process Mining & Data Science im Entwicklungsbereich (w/m/x)

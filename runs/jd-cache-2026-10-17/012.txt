@@ -1,0 +1,40 @@
+URL: https://www.linkedin.com/jobs/view/4480190113
+TITLE: Werkstudent Cloud & Software Development auf SAP BTP (w/m/d)
+COMPANY: Endress+Hauser Group
+LOC: Freiburg, Baden-Württemberg, Germany
+POSTED: 2026-10-15
+title: Werkstudent Cloud & Software Development auf SAP BTP (w/m/d)
+company: Endress+Hauser Group
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-cloud-software-development-auf-sap-btp-w-m-d-at-endress%252Bhauser-group-4480190113&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Wer wir sind?
+ Endress+Hauser ist ein international führender Anbieter von Messgeräten, Dienstleistungen und Lösungen für die industrielle Verfahrenstechnik. Auch mit weltweit über 18.000 Mitarbeitenden sind Wir ein Familienunternehmen geblieben und stolz auf Unser herzliches Arbeitsklima. So verbindet die Mitarbeit bei Uns immer zwei Seiten: die technische plus die menschliche. Das Ergebnis: ein Mehr an Zufriedenheit. Jeden Tag.
+ Worum geht es bei der Stelle?
+ Werde Teil unseres Entwicklungsteams in unserem Freiburg Office und gestalte digitale Cloud-Lösungen für die Zukunft von Product-, Asset- und Sustainability Management. Dabei lernst du SAP BTP, moderne Softwarearchitekturen und praxisnahe Entwicklungsprozesse aus erster Hand kennen.
+ Was sind deine Aufgaben?
+ Du arbeitest an digitalen Lösungen für Product-, Asset- und Sustainability-Themen vor Ort mit
+ Dabei lernst du die SAP Business Technology Platform (SAP BTP) und moderne Cloud-Technologien aus erster Hand on-site kennen
+ Du übernimmst eigene Aufgaben im Entwicklungsprozess und unterstützt bei der Umsetzung neuer Anforderungen.
+ Du kannst neue Technologien ausprobieren und praktische Erfahrungen in realen Projekten sammeln.
+ Du arbeitest eng mit erfahrenen Kolleginnen und Kollegen zusammen und entwickelst deine Fähigkeiten kontinuierlich weiter.
+ Das macht dich aus
+ Du studierst Informatik, Wirtschaftsinformatik, Software Engineering, Data Science oder einen vergleichbaren IT Studiengang
+ Du hast Interesse an Softwareentwicklung, Cloud-Technologien und modernen Plattformen
+ Du arbeitest eigenständig, strukturiert und bringst eine hohe Lernbereitschaft mit
+ Du bist neugierig, probierst gerne neue Technologien aus und hast Spaß daran, Lösungen zu entwickeln
+ Erste Erfahrungen in einer Programmiersprache wie Node.js, Python oder ähnlichen Technologien sind von Vorteil
+ Idealerweise interessieren dich Themen wie Cloud Computing, SAP BTP, APIs, Data Integration oder Künstliche Intelligenz
+ Du kommunizierst offen, arbeitest gerne im Team und übernimmst Verantwortung für deine Aufgaben
+ Du verfügst über gute Deutsch- oder Englischkenntnisse in Wort und Schrift
+ Du kannst 10h deiner wöchentlichen Freizeit in den Job investieren
+ Du wohnst in der Region Freiburg
+ Das erwartet dich bei uns
+ Fachliche und persönliche Unterstützung durch erfahrene Betreuerinnen und Betreuer
+ Die Möglichkeit, eigenverantwortlich in herausfordernden Projekten mitzuarbeiten
+ Ein top modernes Arbeitsumfeld in einem international tätigen Familienunternehmen
+ „State of the Art” Equipment, um voll durchstarten zu können
+ Tolle Büroumgebung und in Absprache teilweise Home Office
+ Diverse Firmen- und Teamevents
+ Ein Deutschlandticket inklusive!

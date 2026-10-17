@@ -116,4 +116,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003787683-S | CISPA - Helmholtz-Zentrum für Informationssicherheit gGmbH | Werkstudent:in in der Abteilung Project and Science Coordination (m/w/d) / Student/in | Saarbrücken
 - [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/16543-950601-006-S | TK Elevator Europe Africa GmbH | Werkstudent Learning und Transformation SEED CAMPUS EA (m/w/d) | Düsseldorf
 
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003674365-S | viaprinto GmbH & Co. KG | Mitarbeiter*in Buchhaltung - Teilzeit oder als Werkstudent*in (m/w/d) | Münster, Westfalen
+
 ## Processed

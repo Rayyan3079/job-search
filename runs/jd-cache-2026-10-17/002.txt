@@ -1,0 +1,51 @@
+URL: https://www.linkedin.com/jobs/view/4476032246
+TITLE: Werkstudent*in (w/m/d) AI, Data Science & AI Agents
+COMPANY: Siemens Healthineers
+LOC: Erlangen, Bavaria, Germany
+POSTED: 2026-10-16
+title: Werkstudent*in (w/m/d) AI, Data Science & AI Agents
+company: Siemens Healthineers
+posted: 11 hours ago
+applicants: 130 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-in-w-m-d-ai-data-science-ai-agents-at-siemens-healthineers-4476032246&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Requirements
+ Willst Du die Zukunft des Gesundheitswesens mitgestalten? Wir bei Siemens Healthineers setzen auf Menschen, die ihre Energie und Leidenschaft diesem Ziel widmen – das sagt schon unser Unternehmensname. Siemens Healthineers steht für Pioniergeist unserer Mitarbeitenden, gepaart mit unserer langen Tradition als weltweit führender Technologiekonzern in der stets dynamischen Gesundheitsbranche.
+Wir bieten ein flexibles und dynamisches Umfeld voller Gelegenheiten, über sich hinaus zu wachsen, um sich persönlich und beruflich weiterzuentwickeln. Klingt das interessant für Dich?
+ Dann werde Teil unseres globalen Teams als Werkstudent*in (w/m/d), um im Bereich AI, Data Science & AI Agents zu unterstützen.
+ Diese Stelle ist in Teilzeit mit 15h/Woche zu besetzen.
+Arbeitsort: Karlheinz-Kaske Straße 5, 91052 Erlangen
+ Deine Aufgaben Und Verantwortlichkeiten
+ Gemeinsam mit uns entwickelst Du KI-Agenten und KI-basierte Anwendungen
+ Du unterstützt die Umsetzung von KI- und Data-Science-Projekten
+ Du hilfst uns beim Aufbau von Prototypen unter Verwendung von Large Language Models und generativen KI-Technologien
+ Gemeinsam mit dem Team entwickelst Du Retrieval-Augmented-Generation-Lösungen auf Basis interner Wissensquellen
+ Du arbeitest mit Embeddings, Vektordatenbanken und semantischen Suchtechnologien
+ Du hilfst uns dabei, KI-Services und Datenquellen über APIs zu integrieren
+ Du unterstützt das Testen, die Evaluierung und die Dokumentation von KI-Lösungen
+ Du wirkst unterstützend bei der Einführung neuer KI-Technologien und Entwicklungsstandards mit
+ Zusätzlich unterstützt Du uns gemeinsam mit dem Team bei der Verwaltung von Quellcode und Projektdokumentation mit GitHub oder vergleichbaren Plattformen
+ Mehr über dieses Geschäftsfeld erfährst Du unter https://www.siemens-healthineers.com/products-services
+ Deine Qualifikationen Und Erfahrung
+ Du bist aktuell im Bachelor im Bereich Data Science, Informatik, Künstlichen Intelligenz, Wirtschaftsinformatik oder in einem vergleichbaren Studiengang eingeschrieben
+ Du stehst für mindestens 4 Semester zur Verfügung
+ Du verfügst über Erfahrung in der Entwicklung von KI-Agenten, KI-basierten Anwendungen oder Machine-Learning-Lösungen sowie über ein grundlegendes Verständnis von Large Language Models, Embeddings und Vektordatenbanken
+ Idealerweise bist Du mit Retrieval-Augmented Generation und semantischer Suche vertraut
+ Kenntnisse in Python, SQL oder vergleichbaren Programmiersprachen sind von Vorteil
+ Idealerweise hast Du Erfahrung mit Git, GitHub oder vergleichbaren Versionskontrollplattformen
+ Ein grundlegendes Verständnis von APIs, JSON und der Integration unterschiedlicher Systeme und Datenquellen ist von Vorteil
+ Dein Profil Und Deine Fähigkeiten
+ Du verfügst über sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
+ Du arbeitest selbstständig, strukturiert und lösungsorientiert
+ Du hast großes Interesse daran, mit neuen KI-Technologien zu experimentieren
+ Du verfügst über Kenntnisse in Datenanalyse und Datenmodellierung? Dann freuen wir uns auf Deine Bewerbung!
+ Unser Globales Team
+ Siemens Healthineers ist ein weltweit führendes Medizintechnikunternehmen. Mit mehr als 74.000 engagierten Mitarbeitenden in über 70 Ländern gestalten wir die Zukunft des Gesundheitswesens. Jeden Tag profitieren etwa fünf Millionen Patient*innen weltweit von unseren innovativen Technologien und Dienstleistungen aus den Bereichen Diagnostik und therapeutische Bildgebung, Labordiagnostik und molekulare Medizin sowie von unseren digitalen Gesundheits- und Unternehmensdienstleistungen.
+ Unsere Kultur
+ Unsere Unternehmenskultur schätzt verschiedene Blickwinkel, offene Diskussionen und den Willen, Konventionen in Frage zu stellen. Ständiger Wandel gehört zu unserem Arbeitsalltag. Wir wollen in unserer Branche Veränderungen vorantreiben, statt nur darauf zu reagieren. Deswegen laden wir Dich ein, sich neuen Herausforderungen zu stellen, eigene Ideen auszutesten und Erfolge zu feiern.
+Besuche auch unsere Karriere-Seite unter https://careers.siemens-healthineers.com/de/de
+Wir legen Wert auf Diversität und Chancengleichheit und freuen uns über Bewerbungen mit vielfältigen Hintergründen und insbesondere von Menschen mit Behinderung.
+Du möchtest mehr erfahren und erste Fragen gern persönlich klären – Sprich uns an: students.func@siemens-healthineers.com.
+Wir nehmen den Schutz Deiner Daten und die Einhaltung der DSGVO und anderer Datenschutzgesetze ernst. Deshalb bitten wir Dich, uns Deinen Lebenslauf nicht per E-Mail zu schicken. Bitte lege ein Profil in unserer Talent Community an, um Deinen Lebenslauf hochzuladen. Daran erkennen wir, dass Du an Karrieremöglichkeiten bei uns interessiert bist und können Dich zu relevanten Stellen benachrichtigen. Klicke hier, um ein Profil anzulegen.
+ An Alle Personalvermittlungsagenturen
+ Die Personalbeschaffung bei Siemens Healthineers wird intern verwaltet. Externe Unterstützung ist nur dann gestattet, wenn eine qualifizierte Agentur einen formellen Vertrag mit uns abgeschlossen hat. Unaufgeforderte Bewerbungen und Empfehlungen von Kandidatenprofilen ohne aktuelle Lieferantenvereinbarung begründen keine Zustimmung und sind somit nicht gebührenpflichtig. Wir löschen und vernichten nicht angeforderte Informationen und empfehlen, von derartigen Praktiken abzusehen. Wir danken für die Einhaltung unserer Richtlinien.

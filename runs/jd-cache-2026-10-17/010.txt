@@ -1,0 +1,55 @@
+URL: https://www.linkedin.com/jobs/view/4477385007
+TITLE: Werkstudent AI Consulting & Infrastructure (m/w/d)
+COMPANY: bitaggregat GmbH
+LOC: Leipzig, Saxony, Germany
+POSTED: 2026-10-16
+title: Werkstudent AI Consulting & Infrastructure (m/w/d)
+company: bitaggregat GmbH
+posted: 19 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+Wir bei bitaggregat entwickeln sichere Hardware für den Netzwerkbereich und unterstützen Kunden dabei, Informationssicherheit strukturiert aufzubauen. Gemeinsam mit Partnern aus Industrie und Wissenschaft erforschen wir neue Technologien und überführen sie in marktreife Produkte.
+ Dabei beschäftigen wir uns zunehmend mit der Frage, wie Unternehmen KI sicher, souverän und praxisnah einsetzen können . Wir entwickeln Lösungen, bei denen KI nicht zwingend in der Cloud laufen muss, sondern direkt beim Kunden – auf eigener Infrastruktur und mit der Kontrolle über Daten, Modelle und Prozesse.
+ Wir suchen einen engagierten Werkstudenten, der uns dabei unterstützt, lokale KI-Infrastrukturen aufzubauen, Kunden beim Einsatz von KI zu beraten und konkrete Anwendungen für Wissensmanagement und Automatisierung zu entwickeln .
+ Aufgaben 
+ Unterstützung bei der Planung, Einrichtung und Betreuung lokaler KI-Infrastrukturen bei unseren Kunden
+ Unterstützung bei der technischen Beratung unserer Kunden zu lokaler und souveräner KI 
+ Evaluation und Integration von Open-Source-KI-Modellen, Tools und Frameworks 
+ Aufbau und Weiterentwicklung von KI-Anwendungen für Wissensmanagement, z. B. interne Chatbots und RAG-Systeme
+ Aufbereitung und Anbindung von Wissensquellen wie Dokumentationen, Wikis und technischen Unterlagen
+ Unterstützung bei Proof-of-Concepts und Prototypen für Kunden und interne Anwendungen
+ Untersuchung neuer Entwicklungen im Bereich LLMs, AI Agents, RAG, Inference und AI Infrastructure 
+ Unterstützung bei der Optimierung unserer internen Prozesse durch KI und Automatisierung 
+ Dokumentation von Setups, Lösungen und Erfahrungen, damit daraus wiederverwendbare Konzepte und Standards entstehen
+ Qualifikation 
+ Du studierst im Bereich Informatik, Wirtschaftsinformatik, Data Science, KI oder einem vergleichbaren Studiengang
+ Du hast großes Interesse an künstlicher Intelligenz und modernen KI-Systemen und beschäftigst Dich idealerweise auch außerhalb des Studiums damit
+ Du hast erste praktische Erfahrung mit Python und/oder Linux 
+ Du möchtest verstehen, wie KI-Modelle tatsächlich betrieben und in bestehende Systeme integriert werden 
+ Du arbeitest Dich gerne selbstständig in neue Technologien und komplexe technische Fragestellungen ein
+ Du hast eine sorgfältige, strukturierte und eigenständige Arbeitsweise
+ Du kannst technische Sachverhalte verständlich erklären und hast Freude daran, mit Kunden und Kollegen gemeinsam Lösungen zu entwickeln 
+ Du bringst Neugier und Begeisterung für neue Technologien mit und probierst Dinge gerne selbst aus
+ Sehr gute Deutschkenntnisse (mindestens C1)
+ Nice to have 
+ Erfahrung mit LLMs, RAG, Embeddings oder Vektordatenbanken 
+ Erfahrung mit Frameworks und Tools wie Ollama, vLLM, Open WebUI, LangChain, LlamaIndex o der vergleichbaren Technologien
+ Kenntnisse in Docker, Kubernetes oder Linux-Systemadministration 
+ Kenntnisse in Git, Deployment oder Monitoring 
+ Interesse an AI Agents und Workflow-Automatisierung 
+ Erfahrung mit Wissensmanagement, Dokumentationssystemen oder Chatbots
+ Grundverständnis von IT-Sicherheit, Datenschutz und sicherem Betrieb von KI-Systemen 
+ Benefits 
+ Uns ist wichtig, Deine Karriere aktiv voranzubringen und Deine berufliche Entwicklung zu fördern – wir bieten Dir eine Perspektive, keinen bloßen Job: Mit wachsender Erfahrung übernimmst Du mehr Verantwortung und gestaltest Entscheidungen mit. In diesem Sinne erwarten Dich: 
+ ein technisch anspruchsvolles Arbeitsumfeld an der Schnittstelle von KI, Infrastruktur und Informationssicherheit
+ die Möglichkeit, KI-Systeme nicht nur zu nutzen, sondern tatsächlich aufzubauen und zu betreiben
+ spannende Kundenprojekte, bei denen Du den Einsatz von KI in der Praxis kennenlernst
+ Einblicke in lokale und souveräne KI-Infrastrukturen und deren Betrieb
+ hybrides Arbeiten mit Büro in Leipzig
+ bis zu 20h pro Woche , flexibel mit Deinem Studium vereinbar
+ 14–18 € pro Stunde , abhängig von Deiner Erfahrung
+ ein Umfeld, in dem Neugier, Pragmatismus und technische Qualität zählen
+ flache Hierarchien und viel Raum für eigene Ideen – zum Lernen, Diskutieren und Entwickeln
+ Wenn Du Lust hast, KI nicht nur auszuprobieren, sondern sie mit uns in reale Systeme und Prozesse zu bringen, dann melde Dich bei uns.
+ Deine Ansprechpartnerin ist Victoria.

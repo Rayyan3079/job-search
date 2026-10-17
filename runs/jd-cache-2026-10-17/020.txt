@@ -1,0 +1,48 @@
+URL: https://www.linkedin.com/jobs/view/4480560730
+TITLE: Werkstudent (m/w/d) Data Analysis
+COMPANY: Riverty
+LOC: Verl, North Rhine-Westphalia, Germany
+POSTED: 2026-10-16
+title: Werkstudent (m/w/d) Data Analysis
+company: Riverty
+posted: 6 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-m-w-d-data-analysis-at-riverty-4480560730&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Unternehmensbeschreibung
+Jede Geschichte zählt. Gestalte deine eigene – gemeinsam mit uns bei Riverty.
+Und wohin führt dich das?
+In eine unserer 30 hybriden Arbeitsumgebungen – gestaltet für den Austausch von Ideen, gemeinsames Lernen und die Mitgestaltung unserer Arbeitsweise. Werde Teil einer internationalen Community mit über 4.000 Menschen aus fast 80 Nationen in 12 Ländern. Vereint durch eine gemeinsame Mission: Mit Empathie, moderner Technologie und datengestützten Erkenntnissen dafür zu sorgen, dass Menschen und Unternehmen im Fluss bleiben. Mit Zahlungsprozessen, die für sie erledigt werden – damit sie sich darum keine Sorgen machen müssen.
+Und das ist noch nicht alles: Wir sind Teil der Bertelsmann-Gruppe, die in Familienbesitz ist. Etabliert. Unternehmerisch. In einer dynamischen Branche. Wir ermöglichen flexible Bezahloptionen in verschiedenen Branchen, vereinfachen das Finanzmanagement bekannter Marken und unterstützen Menschen dabei, Schulden abzubauen und finanzielle Sicherheit zu gewinnen. Kurz gesagt: Wir gestalten FinTech.
+Stellenbeschreibung
+ Für unser Data Analysis Team suchen wir Unterstützung als
+ Werkstudent (m/w/d) Data Analysis
+ (befristet, Teilzeit) Schließe dich unserem Team an unserem Standort in Verl oder Baden-Baden an – flexible Arbeitsbedingungen verfügbar.
+ Als Werkstudent (m/w/d) Unterstützt Uns Bei Folgenden Aufgaben
+ Unterstützung bei der Migration unserer bestehenden Dateninfrastruktur hin zu einer modernen Datalakehouse‑Architektur 
+ Mitarbeit in AI/ML‑Projekten wie z.B. Anomalie Erkennung oder agentischen AI-Tools 
+ Unterstützung bei der Perfomanceanalyse von ML-Modellen 
+ Unterstützung bei der Implementierung und Optimierung von Prozessanalysen (z.B. User Journeys in unseren Kernprozessen mit Hilfe von Process Intelligence) 
+ Unterstützung bei der Entwicklung und Pflege von (Celonis-) Dashboards zur datengetriebenen Entscheidungsfindung 
+ Beteiligung an der Entwicklung und Umsetzung von Process Intelligence Governance-Richtlinien sowie Onboarding neuer Celonis-Nutzer 
+ Mithilfe in ETL-Prozessen (Extraction, Transformation, Loading von Daten) 
+ Qualifikationen
+ Was Wir Uns Wünschen
+ Laufendes Studium der (Wirtschafts-)Mathematik, Physik, Data Science (Wirtschafts-)Informatik oder eines vergleichbaren Studiengangs 
+ Ausgeprägte analytische Fähigkeiten und Problemlösungskompetenzen 
+ Sehr gute Kenntnisse in Statistik sowie Datenanalyse und -visualisierung (z.B. Excel, SQL, Python) 
+ Erste Erfahrungen mit Celonis oder anderen Process Mining Tools von Vorteil 
+ Erste Erfahrungen mit AI-Agenten und Tools von Vorteil 
+ Grundlegende Kenntnisse von ETL-Prozessen und Datenmanagement 
+ Interesse an Prozessanalyse, Prozessoptimierung und Datenanalyse 
+ Strukturierte und selbstständige Arbeitsweise 
+ Gute Kommunikationsfähigkeiten in Deutsch und Englisch 
+ Teamplayer mit der Bereitschaft, sich in neue Themen einzuarbeiten
+ Zusätzliche Informationen
+ Informationspflichten Im Zusammenhang Mit Der Erhebung Deiner Personenbezogenen Daten
+ Verantwortlicher für den Datenschutz bei deiner Bewerbung ist die in der Stellenausschreibung angegebene Firma. Die Firma verarbeitet deine Daten zwecks Begründung eines Beschäftigungsverhältnisses auf Grundlage des Art. 6 (1) b DSGVO /
+ 26 (1) 1 BDSG.
+ Die Speicherdauer deiner Daten richtet sich an den Fristen des jeweiligen Landes aus beginnend mit Abschluss des Einstellungsprozesses. Diese findest du hier.
+Den Datenschutzbeauftragten der Firma kannst du unter der o.g. Postanschrift erreichen.
+Weitere Informationen zum Datenschutz und zu deinen Rechten erhältst du hier.
+ Recruiting-Plattform powered by SmartRecruiters .

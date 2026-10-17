@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Werkstudent (m/w/d) – Datenerfassung & Datenqualität",
+    "company": "Garanti BBVA International",
+    "city": "Düsseldorf",
+    "date": "2026-10-17",
+    "greeting": "Dear Garanti BBVA International team,",
+    "opening": "I am applying for the Werkstudent position in data entry and data quality. Careful, accurate work with data is something I have done every day in my previous roles, and I would like to apply it in an international banking environment alongside my M.Sc. studies.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau. Before moving to Germany I worked as a Business Analyst at Tapal Tea and in SAP data & analytics at TallyMarks Consulting, where the accuracy of business data was central to my work.",
+    "achievements": [
+      {
+        "lead": "Checking data for correctness",
+        "impact": "I performed data validation and data reconciliation to keep company reporting accurate across HR, finance, supply chain and procurement"
+      },
+      {
+        "lead": "Following defined processes",
+        "impact": "I handled daily support tickets and user queries for around 30 dashboards, resolving issues in a structured and reliable way"
+      },
+      {
+        "lead": "Careful documentation",
+        "impact": "I documented data sources, calculations and results for every dashboard I built"
+      }
+    ],
+    "problems_section": "In your team I would take care of entering, updating and correcting data exactly according to your guidelines, run quality and completeness checks conscientiously, and treat all information confidentially. I work confidently in Excel and enjoy structured, recurring tasks where accuracy matters.",
+    "closing": "I am available immediately for 15 to 20 hours per week and am happy to relocate to Düsseldorf to work on site. I would be glad to discuss how I can support your team.",
+    "language_closing": "My working language is English (IELTS 8.0); I am currently learning German (A1)."
+  },
+  "output_path": "output/2026-10-17/garanti-bbva-werkstudent-datenqualitaet/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

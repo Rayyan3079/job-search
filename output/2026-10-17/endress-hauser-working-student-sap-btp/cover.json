@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Working Student Software Development & Cloud Solutions on SAP BTP (f/m/d)",
+    "company": "Endress+Hauser",
+    "city": "Freiburg",
+    "date": "2026-10-17",
+    "greeting": "Dear Endress+Hauser team,",
+    "opening": "I am applying for the Working Student position in Software Development & Cloud Solutions on SAP BTP. Building cloud solutions on SAP's platform is the direction I have been working towards, from the SAP Young Professionals Program to my SAP Integration Developer certification.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau. I worked in SAP data & analytics at TallyMarks Consulting and as a Business Analyst at Tapal Tea, and I was selected as one of 10 participants from Pakistan for the SAP Young Professionals Program.",
+    "achievements": [
+      {
+        "lead": "SAP cloud and integration training",
+        "impact": "in the SAP Young Professionals Program I studied SAP Cloud Integration concepts including iFlows, message mappings and integration scenarios, and earned the SAP Certified Associate: Integration Developer certification"
+      },
+      {
+        "lead": "Data integration in practice",
+        "impact": "I designed and implemented SAP Datasphere data pipelines connecting the required sources during a 42-dashboard migration from SAP BW"
+      },
+      {
+        "lead": "Programming",
+        "impact": "I use Python (Pandas, NumPy, scikit-learn, PyTorch) from my B.S. in Artificial Intelligence and my current M.Sc."
+      }
+    ],
+    "problems_section": "In your team I would take ownership of my tasks in the development process, learn SAP BTP and your architecture quickly, and contribute where data integration, APIs and analytics meet. I am motivated to grow my software development skills in a real product environment.",
+    "closing": "I am available immediately and can commit the weekly hours you ask for. I would be glad to discuss how I can contribute.",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-10-17/endress-hauser-working-student-sap-btp/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}
