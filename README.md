@@ -19,10 +19,8 @@ Internships, thesis roles, full-time roles and German-required roles are listed 
 
 ## Latest run
 
-**2026-10-17**: 3 Tier 1 packages, 8 Tier 2 and 17 Tier 3 listed. Full report: [digests/2026-10-17.md](digests/2026-10-17.md). Previous: [2026-10-15](digests/2026-10-15.md)
+**2026-10-19**: 1 Tier 1 package, 23 Tier 3 listed. Full report: [digests/2026-10-19.md](digests/2026-10-19.md). Previous: [2026-10-17](digests/2026-10-17.md), [2026-10-15](digests/2026-10-15.md)
 
 | Company | Role | Fit | Documents |
 |---|---|---|---|
-| Garanti BBVA International | Werkstudent (m/w/d) – Datenerfassung & Datenqualität | 3/5 | [folder](output/2026-10-17/garanti-bbva-werkstudent-datenqualitaet/) |
-| Endress+Hauser | Working Student Software Development & Cloud Solutions on SAP BTP (f/m/d) | 3/5 | [folder](output/2026-10-17/endress-hauser-working-student-sap-btp/) |
-| Ericsson | Student Helper - Product Development & AI (m/f/d) | 2.5/5 | [folder](output/2026-10-17/ericsson-student-helper-product-development-ai/) |
+| Bausch + Lomb | Working Student – Business Analytics & Intelligent Automation | 2.5/5 | [folder](output/2026-10-19/bausch-lomb-working-student-business-analytics-automation/) |

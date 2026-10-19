@@ -1,0 +1,38 @@
+URL: https://www.linkedin.com/jobs/view/4480359709
+TITLE: Werkstudent (m/w/d) Business Analytics & Intelligent Automation
+COMPANY: Bausch + Lomb
+LOC: Heidelberg, Baden-Württemberg, Germany
+POSTED: 2026-10-16
+title: Werkstudent (m/w/d) Business Analytics & Intelligent Automation
+company: Bausch + Lomb
+posted: 2 days ago
+applicants: 70 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-m-w-d-business-analytics-intelligent-automation-at-bausch-%252B-lomb-4480359709&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Working Student – Business Analytics & Intelligent Automation 
+ Global Technical Service | Bausch + Lomb
+ On-site / work from office | 20 hours per week | Start Date: ASAP | Long-term working student opportunity (minimum 6 months) 
+ About The Role
+ Global Technical Service is building a more automated, proactive, and AI-supported analytics function — moving beyond static Power BI dashboards toward systems that detect problems on their own, notify the right people, use AI to investigate causes, and trigger the right action, with human oversight where it matters.
+As our Working Student, you'll work on-site, 20 hours per week. We're looking for someone who thinks beyond the dashboard and brings real AI expertise: open-minded enough to explore new tools and approaches, and skilled enough to actually build and implement automation that works.
+ What you'll do 
+ Build and improve Power BI reports, Power Query transformations, and DAX measures using Salesforce/ServiceMax data 
+ Design and build real Power Automate workflows that turn data conditions into automated notifications and actions 
+ Apply AI (Claude, Claude Code, and similar tools) to analyse data, detect anomalies, and prototype AI-based solutions to real business problems 
+ Spot manual, repetitive processes and help design and build the automation that replaces them 
+ What you bring 
+ A specialised, hands-on background in AI and analytics — we need someone who can genuinely aid our automation work, not someone learning AI from scratch 
+ Basic Power BI / data-analysis skills, or clear evidence you pick up new tools fast 
+ A builder's instinct: able to apply AI to real automation problems, not just talk about it, and more interested in testing something real than writing a long proposal 
+ Comfortable with real, messy operational data and basic data privacy awareness 
+ Clear communicator in business-fluent English 
+ Able to work on-site, 20 hours per week — this role is not offered remote or hybrid 
+ What you'll gain 
+ Hands-on ownership of automations and analytics used by Technical Service leadership 
+ Direct experience applying AI to real analytics and automation problems, with mentorship from a Business Analyst working across BI, automation, and applied AI 
+ A portfolio of real prototypes you helped design, build, and ship 
+ Competitive pay and attractive employee benefits, including a fitness allowance 
+ Convenient on-site massage services 
+ Subsidized, high-quality lunch options through FreshTaste 
+ Access to a wide range of employee discounts via our Corporate Benefits platform 
+ Interested? We're looking for someone with more curiosity than credentials, and more instinct to build than to just propose. If that's you, we'd like to hear from you.

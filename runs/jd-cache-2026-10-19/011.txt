@@ -1,0 +1,46 @@
+URL: https://www.linkedin.com/jobs/view/4480891098
+TITLE: Werkstudent:in Automation & AI (m/w/d)
+COMPANY: statworx
+LOC: Frankfurt am Main, Hesse, Germany
+POSTED: 2026-10-18
+title: Werkstudent:in Automation & AI (m/w/d)
+company: statworx
+posted: 19 hours ago
+applicants: 70 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-in-automation-ai-m-w-d-at-statworx-4480891098&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Über uns
+statworx ist ein führendes Beratungs- und Entwicklungsunternehmen für Daten & KI in der DACH-Region. Seit über einem Jahrzehnt unterstützen wir Unternehmen mit Beratung, Entwicklung und Weiterbildung – in mehr als 1.000 erfolgreichen Projekten für über 100 Kunden aus nahezu allen Branchen.
+Von der KI-Strategie bis zur Umsetzung entwickeln wir innovative Lösungen. Mit unserer Expertise in AI Strategy, Generative AI, Agentic AI, Data & AI Engineering sowie AI Infrastructure begleiten wir Unternehmen entlang ihrer gesamten KI-Transformation.
+Unser Ziel: Creating value from Data & AI.
+Unsere AI Innovation Abteilung fungiert als Brücke für daten- und KI-getriebenen Fortschritt innerhalb der Organisation, indem sie Front-Office- und Back-Office-Perspektiven miteinander verbindet. Wir konzentrieren uns auf die Konzeption und Umsetzung von Data- und AI-Lösungen, die durch Automatisierung, Optimierung und Skalierung interner Prozesse die operative Effizienz steigern und messbaren geschäftlichen Mehrwert schaffen. Parallel dazu beobachten wir kontinuierlich neue Tools und Technologien an der Spitze des Data- und AI-Ökosystems und machen sie über gezielte Trainings, Lightning Talks und praxisnahe Experimente zugänglich. Indem wir Innovation in konkrete interne Lösungen und Front-Office-Angebote übersetzen, stellen wir sicher, dass neue Ideen in praktikable Umsetzungen überführt werden, die nachhaltigen und messbaren Business Value liefern.
+Deine Aufgaben
+ Du unterstützt bei internen Automatisierungs- und Prozessoptimierungsinitiativen
+ Du wirkst bei der Konzeption, Umsetzung und Pflege von Automatisierungsworkflows mit, insbesondere mit n8n sowie weiteren Low-Code- und No-Code-Tools wie beispielsweise Lovable
+ Du unterstützt bei der Integration und Orchestrierung von Systemen, Services und Datenquellen über REST APIs
+ Du hilfst bei der Entwicklung von Automatisierungslogik und kleineren Anpassungen mit JavaScript oder Python
+ Du arbeitest eng mit internen Stakeholdern zusammen und unterstützt dabei, fachliche Anforderungen in technische Lösungen zu übersetzen
+ Du recherchierst und evaluierst neue Data- und AI-Tools und unterstützt bei der prototypischen Umsetzung innovativer Ideen
+ Du wirkst am Ausbau unserer internen Tooling-Landschaft mit und unterstützt bei der Dokumentation und Strukturierung von Automatisierungslösungen
+ Dein Profil
+ Du befindest dich in einem laufenden Studium im Bereich Informatik, IT, Data Science & AI, Wirtschaftsinformatik oder einer vergleichbaren quantitativen oder technischen Fachrichtung
+ Du hast erste praktische Erfahrung mit n8n oder vergleichbaren Automatisierungsplattformen gesammelt
+ Du verfügst über grundlegende Kenntnisse im Umgang mit REST APIs sowie gängigen Datenformaten
+ Du bringst erste Programmierkenntnisse in JavaScript und/oder Python mit
+ Du hast großes Interesse an Prozessautomatisierung, Data- und AI-Technologien und möchtest dein Wissen in diesem Bereich weiter vertiefen
+ Du arbeitest strukturiert, zuverlässig und eigenständig
+ Du kommunizierst klar und arbeitest gerne mit technischen und nicht-technischen Stakeholdern zusammen
+ Du verfügst über sehr gute Deutsch- und Englischkenntnisse mindestens auf C1-Niveau
+ Das bieten wir Dir
+ Data & AI im Kern: Dich erwarten vielfältige und anspruchsvolle Projekte mit namhaften Kund:innen aus unterschiedlichen Branchen – von datengetriebenen Lösungen bis hin zu innovativen KI-Anwendungen
+ Fachliche Vielfalt & Entwicklung: Du arbeitest an komplexen, abwechslungsreichen Fragestellungen und baust dabei kontinuierlich deine Expertise in deinem Fachgebiet sowie im Umfeld von Data & AI aus
+ Professionelle Weiterentwicklung: Wir fördern deine methodische, fachliche und persönliche Entwicklung – durch regelmäßiges Feedback, individuelle Förderung, Weiterbildungsangebote und unser Mentoring-Programm
+ Kultur & Zusammenarbeit: Dich erwartet ein offenes, diverses und wertschätzendes Arbeitsumfeld mit flachen Hierarchien, kurzen Entscheidungswegen und einem starken Teamgefühl
+ Moderne Arbeitsweise: Wir leben eine iterative, moderne Arbeitskultur mit klarer Kommunikation, Eigenverantwortung und Raum für neue Ideen und Gestaltungsmöglichkeiten
+ Transparente Vergütung: Wir bieten faire, strukturierte und nachvollziehbare Gehaltsstufen, die regelmäßig an Markt- und Leistungsentwicklungen angepasst werden
+ Flexibles Arbeiten: Unser modernes Office in Frankfurt ist dein zentraler Arbeitsort – gleichzeitig hast du die Möglichkeit, regelmäßig remote zu arbeiten und bis zu vier Wochen pro Jahr aus dem EU-Ausland zu arbeiten
+ Mobilität & Gesundheit: Profitiere von einem ermäßigten Deutschlandticket und vergünstigtem Zugang zu Sport- und Wellnessangeboten über Wellpass
+ Ausstattung & Extras: Hochwertiges IT-Equipment (z. B. MacBook Pro), regelmäßige Team-Events sowie zusätzliche Leistungen wie Kinderbetreuungszuschüsse und attraktive Mitarbeiterrabatte runden dein Gesamtpaket ab
+ Deine Bewerbung
+Bewirb Dich einfach über das Bewerbungsformular und hänge Deinen aktuellen Lebenslauf samt Darstellung deiner Methodenkenntnisse an. Wir werden uns anschließend umgehend bei Dir melden. Bei Fragen rund um Deine Bewerbung erreichst Du uns unter jobs@statworx.com.
+Was für uns besonders wichtig ist: Wir schätzen die Einzigartigkeit jedes Menschen und begegnen einander stets auf Augenhöhe. Unterschiedliche Hintergründe, Einstellungen und Ideen bereichern uns und bilden die Grundlage unseres Erfolgs. Daher freuen wir uns über jede Bewerbung – unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion, Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität.

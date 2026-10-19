@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Working Student – Business Analytics & Intelligent Automation",
+    "company": "Bausch + Lomb (Global Technical Service)",
+    "city": "Heidelberg",
+    "date": "2026-10-19",
+    "greeting": "Dear Global Technical Service team,",
+    "opening": "I am applying for the Working Student position in Business Analytics & Intelligent Automation. Moving from static dashboards to systems that flag problems and trigger action is exactly the step I want to take after several years of building dashboards for business teams.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence. I worked as a Business Analyst at Tapal Tea and in SAP data & analytics at TallyMarks Consulting, mostly on real operational data from supply chain, procurement, finance and production.",
+    "achievements": [
+      {
+        "lead": "Replacing manual work",
+        "impact": "I replaced a quality check where users opened an SAP report for each of thousands of materials and compiled results in Excel with a single SAP Analytics Cloud dashboard"
+      },
+      {
+        "lead": "Power BI for leadership",
+        "impact": "I built a Power BI dashboard for the CEO comparing monthly sales against the fiscal-year plan, used to track performance and adjust strategy"
+      },
+      {
+        "lead": "Learning new platforms fast",
+        "impact": "I joined a team migrating 42 dashboards from SAP BW to SAP Datasphere and independently rebuilt a full dashboard and its data pipelines on the new platform"
+      }
+    ],
+    "problems_section": "I use Claude and ChatGPT daily, and my AI degree gives me a solid understanding of how these models work and where they fail. I have not yet built automated notification workflows or advanced Power BI measures, but my track record of picking up new data tools quickly is real, and I would rather test a working prototype than write a long proposal.",
+    "closing": "I am available immediately for 20 hours per week, for well over six months, and am happy to relocate to Heidelberg to work on site. I would be glad to show you how I can contribute.",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-10-19/bausch-lomb-working-student-business-analytics-automation/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

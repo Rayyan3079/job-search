@@ -1,0 +1,51 @@
+URL: https://www.linkedin.com/jobs/view/4478223962
+TITLE: Systemarchitekt für Automatisierung & KI (m/w/d) / Werkstudent IT
+COMPANY: ProzessX
+LOC: Nagold, Baden-Württemberg, Germany
+POSTED: 2026-10-18
+title: Systemarchitekt für Automatisierung & KI (m/w/d) / Werkstudent IT
+company: ProzessX
+posted: 9 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fsystemarchitekt-f%25C3%25BCr-automatisierung-ki-m-w-d-werkstudent-it-at-prozessx-4478223962&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Über ProzessX – Technologie mit Sinn und System
+ Wir bei ProzessX entwickeln technische Lösungen, die Mittelstandsprozesse intelligenter, effizienter und
+ zukunftsfähig machen. Ob LLM-Integration, Self-hosted Workflows oder interne Automatisierung: Wir denken in
+ Systemen, handeln praxisnah und setzen auf Sicherheit, Souveränität und Nachhaltigkeit.
+ Als Startup suchen wir keine Bausteine – sondern Architekten. Menschen, die mit uns wachsen wollen. Wer von
+ Beginn an dabei ist, wird nicht nur belohnt – sondern prägt mit.
+ Aufgaben 
+ Ihre Aufgaben
+ Aufbau und Weiterentwicklung unserer Self-hosted Infrastruktur (z. B. n8n, Docker, Linux)
+ Automatisierung von Prozessen für Vertrieb, Marketing, interne Abläufe
+ Integration von KI-Diensten über APIs und Custom-Flows
+ Testing, Dokumentation und Monitoring von stabilen Architekturen
+ Qualifikation 
+ Ihr Profil – was zählt
+ Erste technische Erfahrung mit Workflows, APIs oder Automatisierungstools (z. B. n8n, Zapier, Python)
+ Verständnis für systemisches Arbeiten und technische Prozessoptimierung
+ Offenheit für neue Tools & agile Umsetzung
+ Sehr gute Deutschkenntnisse, gute Dokumentationsfähigkeit
+ > Sie haben keinen Abschluss, aber relevante Skills? Dann sind Sie bei uns richtig. Werkstudierende,
+ Selbstlerner:innen und motivierte Einsteiger:innen sind willkommen.
+ Benefits 
+ Was wir bieten (nach erfolgreicher Eignungsphase)
+ Technisches Premium-Setup (MacBook, Server-Zugänge etc.)
+ Flexibles Arbeiten im modernen Office oder Remote
+ Beteiligung an Projektumsätzen & langfristige Bonusmodelle
+ Zugang zu neuesten Technologien & schneller persönlicher Entwicklung
+ Die Chance, eine tragende Rolle in einem skalierenden Tech-Team zu übernehmen
+ Bei ProzessX fördern wir nicht nur Leistung, sondern auch Potenzial. 
+ Wir investieren gezielt in Weiterbildungen und Entwicklungsmöglichkeiten – denn das beste Investment ist das in sich selbst.
+ Ihre Eignungsphase – Ihre Bühne
+ Bei uns beginnt jede Festanstellung mit einer zweiwöchigen, bezahlten Eignungsphase. Das ist kein Testlauf,
+ sondern ein echter Einstieg.
+ Was Sie tun:
+ Übernehmen Sie ein technisches Mini-Projekt mit klarem Ziel
+ Arbeiten Sie im echten Setup, mit echtem Team und echtem Einfluss
+ Zeigen Sie uns, was Sie draufhaben – und wie Sie mitdenken
+ Was wir tun:
+ Wir geben Ihnen ehrliches Feedback, Klarheit & schnelle Entscheidung
+ Wenn Sie überzeugen, folgt ein konkretes Angebot zur Festanstellung
+ Mit Perspektive, Beteiligung und Gestaltungsspielraum
