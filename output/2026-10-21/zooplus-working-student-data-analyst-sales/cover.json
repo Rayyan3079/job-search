@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Working Student Data Analyst - Sales (All genders)",
+    "company": "zooplus",
+    "city": "Munich",
+    "date": "2026-10-21",
+    "greeting": "Dear zooplus team,",
+    "opening": "I am applying for the Working Student Data Analyst position in Sales. Helping a large e-commerce business understand its sales and customers through data is exactly the kind of analytics work I want to grow in alongside my M.Sc. in Data Science.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau. Before moving to Germany I worked as a Business Analyst at Tapal Tea and in SAP data & analytics consulting at TallyMarks Consulting, building dashboards, data models and SQL-based reporting for business teams.",
+    "achievements": [
+      {
+        "lead": "Power BI for leadership",
+        "impact": "I built a Power BI dashboard for the CEO comparing monthly sales against the fiscal-year plan"
+      },
+      {
+        "lead": "SQL and data quality",
+        "impact": "I used SQL analysis, data validation and reconciliation to keep reporting accurate across HR, finance, supply chain and procurement"
+      },
+      {
+        "lead": "Replacing manual checks",
+        "impact": "I replaced a quality check where users opened an SAP report for each of thousands of materials and compiled results in Excel with a single SAP Analytics Cloud dashboard"
+      }
+    ],
+    "problems_section": "In your team I would build and maintain analyses and reports with SQL and Excel, keep the data accurate, and present findings clearly to the sales team. Python is a plus for you and part of my toolkit from my studies.",
+    "closing": "I am available immediately for at least 20 hours per week for well over six months, and am happy to relocate to Munich. I would be glad to discuss how I can contribute.",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-10-21/zooplus-working-student-data-analyst-sales/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

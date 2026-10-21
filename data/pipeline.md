@@ -118,4 +118,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003674365-S | viaprinto GmbH & Co. KG | Mitarbeiter*in Buchhaltung - Teilzeit oder als Werkstudent*in (m/w/d) | Münster, Westfalen
 
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003877136-S | Hunkemöller Deutschland B.V. & Co. KG | Werkstudentin im Verkauf Schweinfurt | Schweinfurt
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003883299-S | Apimiel GmbH | Odoo / Python Developer (m/w/d) – Vollzeit oder Werkstudent | Berlin
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4972358651-S | Schleswig-Holstein Netz GmbH | Werkstudent Data Analytics & Business Intelligence (m/w/d) | Quickborn, Kreis Pinneberg
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003885178-S | Ruhr-Universität Bochum | Ph.D. student (m/f/x): Data analysis for exotic hadrons at hadronic thresholds | Bochum
+
 ## Processed

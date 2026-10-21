@@ -1,0 +1,37 @@
+URL: https://www.linkedin.com/jobs/view/4478937788
+TITLE: Working Student Digital & Analytics in Credit Risk (f/m/d)
+COMPANY: E.ON
+LOC: Essen, North Rhine-Westphalia, Germany
+POSTED: 2026-10-20
+title: Working Student Digital & Analytics in Credit Risk (f/m/d)
+company: E.ON
+posted: 6 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-digital-analytics-in-credit-risk-f-m-d-at-e-on-4478937788&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+E.ON Energy Markets GmbH (EEM) is a subsidiary of the E.ON Group based in Essen. We provide the E.ON Group’s regional business units with access to wholesale energy markets and manage the associated opportunities and risks. Our expertise spans portfolio strategies, risk management and data-driven services. Working across several European countries, we connect regional business needs with European energy markets.
+At E.ON diversity matters. We welcome all people and are convinced that differences make us stronger. Become part of our inclusive and diverse company culture! To create equal opportunities for everyone we offer our positions in full- or part-time.
+Ready to become a Playmaker? Join our team and apply online. Are you brave enough to forge new paths and create a real impact? We can't wait to meet you. It's on us to make new energy work.
+ Your Responsibilities
+ You help to further develop our central Counterparty Risk Management System
+ Support the digital transformation of our reporting and analytics landscape using technologies such as Power BI, Python, REST APIs, and AI solutions
+ You analyze, prepare, and visualize data to support risk management and business decision-making
+ Improve data quality, consistency and automation through modern analytics and AI driven approaches
+ You support data management, process improvements, and documentation activities
+ Your Profile
+ You are currently enrolled in Computer Science, Business Informatics, Data Science, Applied Mathematics, Engineering, Economics, Natural Sciences with a strong IT background and basic understanding of, or academic exposure to, risk management
+ Good IT skills and a genuine enthusiasm for data preparation, processing and visualization belong to your profile (MS Excel, Python, SQL, PostgreSQL, Power BI)
+ Experience with databases (Snowflake) and REST APIs is a plus
+ Familiarity with Microsoft Fabric or Power Automate, AI and cloud environments would be an advantage (Microsoft Azure, LLMs)
+ Strong analytical skills and a solution-oriented mindset belong to your highly cooperative profile
+ You have fluent and professional communication skills in written and spoken English, German is a plus
+ Your Benefits
+ E.ON is joining forces to address the most exciting issue facing our generation: climate change!
+With all our employees and customers, we are a global community of innovators and changemakers, all convinced that each of us can make a difference for our environment, our society and our children - We are shaping the future. To keep you motivated and healthy, we offer the following benefits:
+ Flexibility: a hybrid work model and flexible working hours that work well with your studies
+ Career entry: get first-hand information about our vacancies and make valuable contacts - we promote our young talents!
+ Modern working environment: workplace according to digital and ergonomic standards
+ Personal development: lifelong, independent learning using a wide range of opportunities and trainings
+ Nutrition & health: large selection of fresh food and drinks in the subsidized bistro and canteen as well as health offers
+ Corporate benefits: various employee discounts
+ Collaboration with a diverse and talented team of professionals

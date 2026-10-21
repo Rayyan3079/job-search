@@ -1,0 +1,53 @@
+URL: https://www.linkedin.com/jobs/view/4478944039
+TITLE: Werkstudent Software Development - SDV & AI (w/m/d)
+COMPANY: MAN Truck & Bus SE
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-10-20
+title: Werkstudent Software Development - SDV & AI (w/m/d)
+company: MAN Truck & Bus SE
+posted: 7 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-software-development-sdv-ai-w-m-d-at-man-truck-bus-se-4478944039&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Zu besetzen ab: sofort
+ Ihr Arbeitsumfeld 
+ TRATON R&D Germany GmbH befindet sich in einem tiefgreifenden Wandel, um eine starke, globale R&D-Organisation des Konzerns aufzubauen. Unser Ziel ist es, eine zeitkritische Roadmap zu erstellen, einen herausragenden Kundennutzen zu bieten und Innovationen bei unseren Marken Scania, MAN, INTERNATIONAL und Volkswagen Truck & Bus voranzutreiben. Diese Transformation wird unsere Wettbewerbsfähigkeit stärken und die Konzernforschung und -entwicklung als wichtigen Geschäftspartner innerhalb der TRATON Gruppe positionieren. Wir suchen Dich, um Teil dieser aufregenden Veränderung zu werden und die Zukunft der TRATON Group R&D mitzugestalten. Wir sehen Individualität unserer Mitarbeitenden als Stärke an und freuen uns über vielfältige Bewerbungen von Personen mit unterschiedlichen Hintergründen. Falls du während deiner Bewerbung Unterstützung benötigst, melde dich bitte bei uns.
+ Bei TRATON R&D arbeiten wir an den Technologien und Engineering-Lösungen für die nächste Generation von Nutzfahrzeugen.
+ Wir suchen Studierende, die mehr möchten, als nur etwas über KI und moderne Softwareentwicklung zu lernen. Wir suchen Menschen, die neugierig sind, gerne praktisch arbeiten und Lust darauf haben, zu entdecken, wie Software, KI, Cloud-Technologien und modernes Engineering die Entwicklung von Fahrzeugen und komplexen Automotive-Systemen verändern können.
+ Wenn du gerne Dinge entwickelst, mit neuen Technologien experimentierst und Ideen in funktionierende Lösungen umsetzt, möchten wir dich kennenlernen.
+ Aufgaben 
+ Deine Aufgaben
+ Als Werkstudent:in bei TRATON R&D arbeitest du gemeinsam mit unseren Ingenieur:innen an realen technischen Herausforderungen und entwickelst neue Ansätze für die Fahrzeugentwicklung.
+ Entwickle Prototypen, Softwarefunktionen und interne Engineering-Tools
+ Arbeite mit modernen Programmiersprachen und Technologien wie Python, Java/Kotlin, TypeScript/JavaScript oder C/C++
+ Erkunde, wie KI, Large Language Models (LLMs) und Agentic AI Engineering und Softwareentwicklung unterstützen und verändern können
+ Arbeite mit modernen KI-gestützten Entwicklungsumgebungen und Coding Agents wie Kiro, Claude Code, Codex oder vergleichbaren Tools
+ Experimentiere mit KI, um Entwicklungsprozesse, Engineering-Aufgaben und Automatisierungen zu verbessern
+ Lerne Cloud- und DevOps-Technologien kennen, darunter AWS, Container und CI/CD
+ Erhalte Einblicke in Automotive Software, Systems Engineering, Requirements Engineering und Architektur
+ Bring deine eigenen Ideen ein, hinterfrage bestehende Ansätze und entwickle aus Konzepten funktionierende Lösungen
+ Profil
+ Deine Qualifikationen
+ Du musst noch nicht alles können. Was für uns vor allem zählt, sind deine technische Neugier und deine Bereitschaft, dich weiterzuentwickeln und selbst Dinge umzusetzen.
+ Idealerweise:
+ studierst du Informatik, Software Engineering, Elektrotechnik oder einen vergleichbaren technischen Studiengang
+ hast du bereits praktische Software- oder Engineering-Projekte umgesetzt, sei es an der Universität, privat, während eines Praktikums oder im Rahmen eines Open-Source-Projekts
+ beherrschst du mindestens eine Programmiersprache wie Python, Java/Kotlin, JavaScript/TypeScript oder C/C++
+ verfügst du über Grundkenntnisse in Git und moderner Softwareentwicklung
+ interessierst du dich für KI, Large Language Models (LLMs) und Agentic AI
+ hast du idealerweise bereits mit KI in einem Software-, Engineering-, Automatisierungs- oder Simulationsprojekt experimentiert
+ hast du Freude daran, komplexe technische Systeme zu verstehen und praxisnahe Lösungen zu entwickeln
+ bringst du die Motivation mit, Dinge auszuprobieren, schnell zu lernen und Ideen in funktionierende Lösungen umzusetzen
+ hast du idealerweise bereits mit KI-Entwicklungstools wie Kiro, Claude Code, Codex oder vergleichbaren Tools gearbeitet
+ sind Kenntnisse im Bereich Automotive-Systeme und Fahrzeugsoftware von Vorteil
+ Wir bieten
+ Wir bieten
+ Einstieg in einen der größten Automobilkonzerne (Volkswagen Konzern)
+ 18,00 € brutto/Std. bei bis zu 20 Std./Woche
+ Flexible Arbeitszeitgestaltung mit Vertrauensarbeitszeit
+ 50 % remote
+ Vergünstigungen und Mitarbeiterrabatte
+ Internationale Zusammenarbeit mit TRATON-Marken in Schweden, USA und Brasilien
+ Important note
+ Please be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered. 
+ LNKD1_DE

@@ -1,0 +1,37 @@
+URL: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003885178-S
+TITLE: Ph.D. student (m/f/x): Data analysis for exotic hadrons at hadronic thresholds
+COMPANY: Ruhr-Universität Bochum
+LOC: Bochum
+POSTED: ≤3d (AA)
+Stellenbeschreibung
+ In order to fill a fixed-term position in part-time (26.2878 hours/week = 66%) at the earliest possible date, we are looking for 1
+ Ph.D. student (m/f/x): Data analysis for exotic hadrons at hadronic thresholds 
+ The work of the chair of experimental physics 1 focuses on basic research: Oneof the most essential elements of todays education and research is to gain abetter understanding of the structure of matter and the fundamental principles ofnature. In this process the basic research of physics plays an important role as itprovides a base for technical innovations and development. Hadron Physicsdeals with strong interacting particles consisting of quarks and gluons. Amongthose hadrons also rank the building blocks of the atomic nucleus, the protonand the neutron. There are many other hadrons that can only be created viacollisions of high energetic particles in big particle accelerators. The created hadrons are detected by modern and complex detectors to examine their composition and interactions.
+ The position is embedded in two research programs. DEMOS ("Democratizing Models") is an ErUM research initiative developing a federated, interoperable standard for describing, sharing and re-evaluating physics models across particle, hadron, nuclear, neutrino and astroparticle physics. Hadronic coupled-channel amplitudes are one of its flagship applications: they are analytically intricate and rarely reproducible from the publication alone, which makes them an ideal test case for the new standard. HADRON 2030 is an intercollaborative research network dedicated to studies of hadron physics. Within the ExHAT (Exploration of Heavy Hadrons at Thresholds) project, we will explore heavy hadrons at thresholds using spectroscopy methods with LHCb data and inclusive production studies with ALICE. The flagship case is the doubly charmed tetraquark Tcc(3875)+, which lies a fraction of an MeV below the D0D*+ threshold. Line shape, pole position, three-body DD-pi dynamics and isospin breaking have to be disentangled in a joint effort of theory and experiment.
+ Scope: part-time
+ Duration: fixed-term, 3 years
+ Start: at the earliest possible date
+ Apply by: 2026-11-15 
+ Your tasks:
+ Application of advanced methods of data selection, efficiency and resolutionstudies within LHCb data analysis.
+ Construction, fitting and analytic continuation of coupled-channel scatteringamplitudes.
+ Decipherment and serialization of the complex amplitudes in the DEMOS / amplitude-serialization format.
+ Collaboration within the DEMOS / HADRON 2030 networks.
+ Exchange with the experimental collaborations [LHCb, BESIII, Belle II, GlueX, ...] and with EFT/lattice QCD groups.
+ Your profile:
+ Master's degree (or equivalent) in physics, completed by the starting date.
+ Background in experimental particle physics or hadron physics, and familiarity with quantum field theory and scattering theory.
+ Good scientific programming skills (Julia, Python or C++) and experience with version control and reproducible workflows.
+ Very good command of written and spoken English.
+ Interest in working at the interface between theory and experiment and inopen, reusable research software.
+ https://jobs.ruhr-uni-bochum.de/jobposting/cfcd29d29c6781afa43ea9ee698bf39148ca1c4f0?ref=AfA 
+ Arbeitsorte
+ Karte anzeigen 
+ Universitätsstr. 150, 44801 Bochum 
+ Unternehmensdarstellung: Ruhr-Universität Bochum 
+ In diesem Dokument befinden sich aus Sicherheitsgründen keine Kontaktdaten des Arbeitgebers. Wenn Sie diese sehen möchten, lösen Sie bitte die Sicherheitsfrage und laden Sie das PDF erneut. 
+ Informationen zur Bewerbung
+ Fußbereich
+ Stelle betreut durch die BA 
+ Referenz-Nr.: 10001-1003885178-S 
+ Verstoß melden

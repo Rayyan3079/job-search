@@ -19,8 +19,17 @@ Internships, thesis roles, full-time roles and German-required roles are listed 
 
 ## Latest run
 
-**2026-10-19**: 1 Tier 1 package, 23 Tier 3 listed. Full report: [digests/2026-10-19.md](digests/2026-10-19.md). Previous: [2026-10-17](digests/2026-10-17.md), [2026-10-15](digests/2026-10-15.md)
+**2026-10-21**: 10 Tier 1 packages, 9 Tier 2 and 36 Tier 3 listed. Full report: [digests/2026-10-21.md](digests/2026-10-21.md). Earlier: [10-19](digests/2026-10-19.md), [10-17](digests/2026-10-17.md), [10-15](digests/2026-10-15.md)
 
 | Company | Role | Fit | Documents |
 |---|---|---|---|
-| Bausch + Lomb | Working Student – Business Analytics & Intelligent Automation | 2.5/5 | [folder](output/2026-10-19/bausch-lomb-working-student-business-analytics-automation/) |
+| movingimage | Working Student Product Documentation & BI Dashboard (All Genders) | 4/5 | [folder](output/2026-10-21/movingimage-working-student-documentation-bi/) |
+| zooplus | Working Student Data Analyst - Sales (All genders) | 4/5 | [folder](output/2026-10-21/zooplus-working-student-data-analyst-sales/) |
+| Snke | Working Student - AI / ML | 3.5/5 | [folder](output/2026-10-21/snke-working-student-ai-ml/) |
+| ABB | Working student (m/f/d) - LVS Data Analyst | 3.5/5 | [folder](output/2026-10-21/abb-working-student-lvs-data-analyst/) |
+| TRATON GROUP | Working Student | Market & Data Analytics (m/f/d) | 3.5/5 | [folder](output/2026-10-21/traton-working-student-market-data-analytics/) |
+| E.ON | Working Student Digital & Analytics in Credit Risk (f/m/d) | 3.5/5 | [folder](output/2026-10-21/eon-working-student-digital-analytics-credit-risk/) |
+| Allianz Kunde und Markt GmbH | Working Student - Generative AI & Data Analytics (m/f/d) | 3/5 | [folder](output/2026-10-21/allianz-working-student-genai-data-analytics/) |
+| SAP | Working Student (f/m/d) - AI & Product Automation | 3/5 | [folder](output/2026-10-21/sap-working-student-ai-product-automation/) |
+| SAP | Working Student (f/m/d) – Supply Chain Management Optimization and Data Science | 2.5/5 | [folder](output/2026-10-21/sap-working-student-scm-optimization-data-science/) |
+| We Are Era | Working Student Social Insights & Analytics (m/f/d) | 2.5/5 | [folder](output/2026-10-21/we-are-era-working-student-social-insights/) |

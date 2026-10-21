@@ -1,0 +1,27 @@
+URL: https://www.linkedin.com/jobs/view/4480488748
+TITLE: Werkstudent/Praktikant (m/w/d) SAP / S/4HANA
+COMPANY: Motorenfabrik Hatz
+LOC: Ruhstorf, Bavaria, Germany
+POSTED: 2026-10-20
+title: Werkstudent/Praktikant (m/w/d) SAP / S/4HANA
+company: Motorenfabrik Hatz
+posted: 12 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-praktikant-m-w-d-sap-s-4hana-at-motorenfabrik-hatz-4480488748&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Wir bei Hatz schaffen weltweit kundenorientierte Antriebslösungen. Als starker Partner versetzen wir Maschinenhersteller und Maschinenbetreiber in die Lage, ihre Kernaufgaben einfacher und effizienter zu meistern. Unser größter Ansporn sind dabei unsere motivierten und qualifizierten Mitarbeiterinnen und Mitarbeiter. Nur durch sie sind wir in der Lage, Außergewöhnliches zu leisten - von der Herstellung renommierter Industriemotoren und Aggregate bis hin zur Entwicklung vollelektrischer Systeme und digitaler Lösungen. Gemeinsam stehen wir für Innovation und Lösungsorientierung, Offenheit und Wertschätzung und suchen nach Menschen, mit denen wir gemeinsam die Zukunft von Hatz gestalten können.
+Ihre Aufgaben
+ Unterstützung unseres IT-Teams bei der Umsetzung unseres S/4HANA-Transformationsprojekts
+ Analyse, Test und Dokumentation bestehender SAP-Eigenentwicklungen
+ Mitarbeit bei der Entwicklung kleiner SAP-Fiori-/SAPUI5-Anwendungen und Auswertungen auf Basis von CDS Views
+ Unterstützung bei der Erprobung neuer SAP-Technologien, z. B. RAP, SAP Build und KI-Funktionen wie SAP Joule
+ Übernahme eigener Aufgabenpakete innerhalb unserer SAP-Projekte
+ Dokumentation von Ergebnissen sowie Erstellung technischer Unterlagen
+ Ihr Profil
+ Studium der (Wirtschafts-)Informatik oder eines vergleichbaren Fachs
+ Interesse an SAP-Entwicklung bzw. an IT-Security und Systemadministration
+ Erste Programmier- oder Scripting-Erfahrung (z. B. JavaScript, ABAP, Python, PowerShell) von Vorteil, aber keine Voraussetzung
+ Eigeninitiative, Teamgeist und gute Deutschkenntnisse
+ Werkstudenten idealerweise 15 bis 20 Stunden pro Woche, Praktikum nach Vorgabe der Hochschule
+ Haben wir Ihr Interesse geweckt?
+Dann freuen wir uns auf Ihre aussagefähige Bewerbung mit Angabe zu Ihrer Verfügbarkeit.

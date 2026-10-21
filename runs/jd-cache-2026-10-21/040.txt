@@ -1,0 +1,37 @@
+URL: https://www.linkedin.com/jobs/view/4478661179
+TITLE: Werkstudent Platform Engineering – Kubernetes & AI Operations (m/w/d)
+COMPANY: RSU GmbH & Co. KG
+LOC: Greater Munich Metropolitan Area
+POSTED: 2026-10-20
+title: Werkstudent Platform Engineering – Kubernetes & AI Operations (m/w/d)
+company: RSU GmbH & Co. KG
+posted: 22 hours ago
+applicants: 36 applicants
+apply_offsite: 
+---
+Für unser Team Technical Operations suchen wir zum nächstmöglichen Zeitpunkt einen Werkstudent (m/w/d) oder einen Praktikanten (m/w/d). Du baust mit uns unsere Container- und KI-Plattform auf und lernst dabei, wie moderner Plattformbetrieb in einem regulierten Umfeld funktioniert.
+ Deine Aufgaben 
+ Du unterstützt unser Team beim Aufbau und Betrieb unserer Kubernetes-Plattform und arbeitest dabei an echten Aufgaben aus dem Tagesgeschäft.
+ Du automatisierst wiederkehrende Betriebsaufgaben, z. B. mit Python, Bash, Helm oder OpenTofu.
+ Du arbeitest bei KI-Projekten mit, etwa beim Aufsetzen von LLM-Inferenzdiensten oder beim Einsatz von KI für Monitoring, Fehleranalyse und Dokumentation.
+ Du baust Dashboards und Alerts für unsere Observability mit Prometheus und Grafana auf und entwickelst sie weiter.
+ Du übernimmst eigene Teilprojekte, z. B. einen Proof of Concept für ein neues Tool, und stellst die Ergebnisse dem Team vor.
+ Du dokumentierst Architektur, Betriebsabläufe und Standards verständlich für Kolleg*innen.
+ Dein Profil 
+ Du studierst Informatik, Wirtschaftsinformatik oder einen vergleichbaren Studiengang.
+ Du hast erste Erfahrungen mit Linux, Git und Containern (z. B. Docker), etwa aus Studium, Projekten oder deinem Homelab.
+ Du kannst mit einer Skriptsprache wie Python oder Bash umgehen.
+ Kubernetes, Cloud-Technologien und KI begeistern dich, und du willst dich tiefer einarbeiten. Erste Erfahrungen damit sind ein Plus, aber keine Voraussetzung.
+ Du arbeitest strukturiert, fragst nach, wenn etwas unklar ist, und übernimmst gern Verantwortung für deine Aufgaben.
+ Du sprichst gut Deutsch und Englisch.
+ Als Werkstudent*in kannst du während des Semesters [15–20] Stunden pro Woche bei uns arbeiten. Als Praktikant*in bist du für [3–6] Monate in Vollzeit dabei, bevorzugt im Rahmen eines Pflichtpraktikums.
+ Damit arbeitest Du 
+ Kubernetes, Helm, Argo CD, OpenTofu, OpenBao, Prometheus/Grafana sowie Inferenz-Frameworks wie vLLM.
+ Das bieten wir Dir 
+ Echte Aufgaben statt Kaffeekochen: Du arbeitest von Anfang an an unserer produktiven Plattform mit.
+ Eine feste Ansprechperson, die dich einarbeitet und begleitet.
+ Einblicke in den Plattformbetrieb im regulierten Finanzumfeld.
+ Flexible Arbeitszeiten, die sich nach deinem Stundenplan und deinen Prüfungsphasen richten, sowie mobiles Arbeiten ist möglich.
+ Die Möglichkeit, deine Bachelor- oder Masterarbeit bei uns zu schreiben, und gute Chancen auf einen Berufseinstieg nach dem Studium.
+ Eine faire Vergütung.
+ Ein Arbeitsplatz im Zentrum Münchens.

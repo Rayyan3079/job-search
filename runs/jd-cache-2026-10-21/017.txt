@@ -1,0 +1,37 @@
+URL: https://www.linkedin.com/jobs/view/4478923875
+TITLE: Werkstudent (w/m/d) - Process & Performance Analytics
+COMPANY: 1&1
+LOC: Montabaur, Rhineland-Palatinate, Germany
+POSTED: 2026-10-20
+title: Werkstudent (w/m/d) - Process & Performance Analytics
+company: 1&1
+posted: 7 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-w-m-d-process-performance-analytics-at-1-1-4478923875&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+1&1 gehört mit über 3.100 Mitarbeitenden und fast 16 Millionen Kundenverträgen zu den führenden Telekommunikationsanbietern in Deutschland. Mit Pioniergeist, ungewöhnlichen Ideen und kreativen Teams haben wir eine führende Marktstellung im Mobilfunk und bei Breitband-Anschlüssen erobert. Durch die Kombination des über 67.000 km langen 1&1 Glasfasernetzes und regionalen Netzen schaffen wir das weitreichendste Glasfasernetz Deutschlands. Außerdem bauen wir das modernste 5G-Netz Europas, auf der Basis der neuartigen Open-RAN-Technologie. Mit offenen Schnittstellen und 5G-Funktionen in einer leistungsfähigen Cloud-Infrastruktur. Dabei stehen unsere Kunden im Mittelpunkt unseres Denkens und Handelns. Für sie schaffen wir Lösungen und Werte, die begeistern. Schreiben Sie die 1&1 Erfolgsgeschichte fort. Innovativ, verlässlich, leidenschaftlich und persönlich erlebbar! Werden Sie Teil von 1&1.
+ Aufgaben 
+ Zur Unterstützung unseres Performance & Process Analytics Teams an einem unserer Standorte in Montabaur oder Karlsruhe im Bereich „Operations Customer Care" suchen wir Sie als engagierte und motivierte Persönlichkeit für eine Werkstudierendentätigkeit rund um anspruchsvolle Analyse-Aufgaben:
+ Datenbereinigung und -vorverarbeitung: Sie selektieren Daten aus den operativen Datenbanken und dem zentralen Data Warehouse und aggregieren diese in sinnvoller Weise um die weitergehende Analyse zu ermöglichen
+ Datenanalyse und -modelling: Sie führen Datenanalysen auf großen strukturierten und unstrukturierten Datenmengen durch und nutzen dabei Methoden aus dem Umfeld Statistik, Data Science, Machine Learning und Generativer KI
+ Visualisierung von Ergebnissen: Sie erstellen visuell ansprechende Management-Präsentationen und Berichte, um komplexe Ergebnisse an technische und nicht-technische Stakeholder zu vermitteln
+ Profil
+ Neben ersten theoretischen Kenntnissen durch ein laufendes Master-Studium in einem analytischen Studiengang (Mathematik, Physik, (Wirtschafts-) Informatik oder vergleichbares) haben Sie großes Interesse daran, diese praktisch in der Telekommunikationsbranche anzuwenden. Darüber hinaus zeichnet Sie insbesondere folgendes aus:
+ Zu Ihren Stärken gehören ein hohes analytisches Denkvermögen sowie ein strukturiertes und lösungsorientiertes Vorgehen
+ Sie bringen statistische Kenntnisse sowie erste praktische Erfahrung in den Bereichen Data Science, Machine Learning, Textmining und idealerweise generativer Künstlicher Intelligenz mit
+ Sie besitzen erste Anwenderkenntnisse in der Programmierung mit SQL und Python
+ Erste Kenntnisse in der Versionsverwaltung mit Git sind von Vorteil
+ Einen sicheren Umgang mit MS Office, insbesondere Excel und PowerPoint, setzen wir voraus
+ Sie kommunizieren verständlich und überzeugend in deutscher Sprache und sind ein echter Teamplayer
+ Wir bieten
+ Attraktives Gehalt
+ Starke Gemeinschaft aus Teamplayern
+ Vertrauensarbeitszeit mit flexibler Einteilung
+ Zahlreiche Weiterbildungsmöglichkeiten on- und offline
+ Rabatte auf 1&1 Produkte und für diverse Freizeitangebote
+ EGYM-Wellpass
+ Betriebseigenes Restaurant
+ Kostenlose Getränke und frisches Obst
+ Important note
+ Please be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered. 
+ LNKD1_DE

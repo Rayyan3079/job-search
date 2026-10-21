@@ -1,0 +1,40 @@
+URL: https://www.linkedin.com/jobs/view/4463513818
+TITLE: Werkstudent (w/m/d) KI & Prozessautomatisierung
+COMPANY: Asklepios
+LOC: Hamburg, Hamburg, Germany
+POSTED: 2026-10-20
+title: Werkstudent (w/m/d) KI & Prozessautomatisierung
+company: Asklepios
+posted: 12 hours ago
+applicants: 92 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-w-m-d-ki-prozessautomatisierung-at-asklepios-4463513818&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+ASKLEPIOS Als einer der größten privaten Klinikbetreiber in Deutschland verstehen wir uns als Begleiter unserer Patient:innen – und als Partner unserer Mitarbeitenden. Wir bringen zusammen, was zusammengehört: Nähe und Fortschritt, Herzlichkeit und hohe Ansprüche, Teamwork und Wertschätzung, Menschen und Innovationen.
+Wir suchen zum nächstmöglichen Zeitpunkt einen
+ Werkstudenten (w/m/d) Künstliche Intelligenz & Prozessautomatisierung für die Unternehmenszentrale der Asklepios Kliniken GmbH & Co. KGaA am Standort Hamburg
+Was macht ein Werkstudent KI & Prozessautomatisierung (w/m/d) bei uns?
+ Du unterstützt die verschiedenen Teams der Konzernbereiche dabei, Künstliche Intelligenz in reale Anwendungen im Klinikalltag zu bringen und lernst dabei Schritt für Schritt, wie moderne KI-Systeme sinnvoll ausgewählt, integriert und eingesetzt werden. 
+ Lernen & Verstehen von KI-Grundlagen: Bei uns baust du ein fundiertes Verständnis dafür auf, wie Large Language Models (LLMs) wirklich funktionieren. Du lernst verschiedene Modellarchitekturen kennen, verstehst deren Unterschiede und erfährst, wie man sie erweitert und korrekt in der Praxis einsetzt. Dabei geht es nicht nur um die Anwendungen, sondern auch um ein solides technisches Fundament. 
+ Arbeiten mit KI-Lösungen: Du lernst, wie man bestehende KI-Services und Tools gezielt für konkrete Anwendungsfälle auswählt und nutzt. 
+ Integration von KI-Anwendungen: Du arbeitest aktiv daran mit, KI-Tools und APIs in bestehende Systeme und Prozesse zu integrieren und produktiv nutzbar zu machen. 
+ Kommunikation & Abstimmung: Du bekommst Einblicke in die Zusammenarbeit mit verschiedenen Stakeholdern (IT, Konzernbereiche, Fachbereiche, Kliniken). Du lernst, Anforderungen zu verstehen, passende Lösungen auszuwählen und deren Einsatz zu begleiten. 
+ End-to-End Prozessverständnis: Vom ersten Use Case über die Tool-Auswahl und Integration bis hin zum produktiven Einsatz. Du begleitest den gesamten Lifecycle von KI-Anwendungen. 
+ Recherche & Bewertung: Du beobachtest neue Entwicklungen im Bereich KI und bewertest, welche bestehenden Tools und Lösungen sinnvoll im Gesundheitswesen eingesetzt werden können. 
+ Du würdest richtig gut zu uns passen, wenn:
+ du Informatik, Data Science, Medizininformatik oder etwas Vergleichbares studierst. 
+ du Lust hast, den sinnvollen Einsatz von KI im Gesundheitswesen aktiv mitzugestalten. 
+ du über fundierte Erfahrung in KI / Machine Learning / Data Science verfügst und dich mit modernen Technologien wie LLMs, Prompt Engineering und produktiven KI-Systemen auskennst. 
+ du Programmierkenntnisse (z. B. Python) sowie Erfahrung mit relevanten Frameworks mitbringst. 
+ du Interesse daran hast, bestehende Technologien praktisch einzusetzen und gleichzeitig ein tiefes Verständnis dafür aufzubauen. 
+ du strukturiert arbeitest und gerne eigenständig Themen vorantreibst. 
+ du ein gutes Verständnis für den verantwortungsvollen Umgang mit sensiblen Daten mitbringst. 
+ du nicht nur an Theorie interessiert bist, sondern sehen willst, wie deine Arbeit echten Impact hat. 
+ du sehr gute Deutschkenntnisse in Wort und Schrift hast. 
+ Was du von uns bekommst:
+ Ein engagiertes Team und spannende Aufgaben: Gestalte mit uns die KI-Strategie eines wachsenden Gesundheitskonzerns mit – abwechslungsreich, verantwortungsvoll und mit viel Raum für eigene Ideen. 
+ Ein modernes Arbeitsumfeld mit neuester Technik. 
+ Ein attraktives Werkstudentengehalt: Im 1. Jahr 16,- €/h und im 2. Jahr 19,- €/h – dazu viele Vorteile eines großen Konzerns und natürlich auch flexible Arbeitszeiten. 
+ Lösungsorientiertes Arbeiten: Wir schätzen kurze Entscheidungswege und leben Zielorientierung. 
+ Offene und kollegiale Atmosphäre: Flache Hierarchien, ein starkes Team und die gemeinsame Mission, die Digitalisierung in unseren Kliniken voranzubringen. 
+ Work-Life-Balance: Wir wissen, wie wichtig Ausgleich ist und wir verstehen uns hier als modernen Arbeitgeber. 
+ Betriebliche Gesundheitsförderung und Prävention: Mit unserem „Asklepios Aktiv“ Programm unterstützen wir deine Gesundheit, außerdem erwarten dich Mitarbeiterrabatte und zahlreiche Vergünstigungen für Freizeit und Events.

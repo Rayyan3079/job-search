@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Working Student (f/m/d) - AI & Product Automation",
+    "company": "SAP",
+    "city": "Berlin",
+    "date": "2026-10-21",
+    "greeting": "Dear SAP team,",
+    "opening": "I am applying for the Working Student position in AI & Product Automation. Prototyping AI ideas, building dashboards and helping product teams work better is exactly the mix of AI and analytics I want to work on, and doing it at SAP connects directly to my SAP background.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau. Before moving to Germany I worked as a Business Analyst at Tapal Tea and in SAP data & analytics consulting at TallyMarks Consulting, building dashboards, data models and SQL-based reporting for business teams.",
+    "achievements": [
+      {
+        "lead": "Explaining to stakeholders",
+        "impact": "I prepared and presented SAP Analytics Cloud to a client, who subsequently purchased it"
+      },
+      {
+        "lead": "Replacing manual checks",
+        "impact": "I replaced a quality check where users opened an SAP report for each of thousands of materials and compiled results in Excel with a single SAP Analytics Cloud dashboard"
+      },
+      {
+        "lead": "Learning new platforms fast",
+        "impact": "I joined a team migrating 42 dashboards from SAP BW to SAP Datasphere and independently rebuilt a full dashboard and its data pipelines"
+      }
+    ],
+    "problems_section": "I would bring basic dashboards and reports, SQL, Python, careful documentation and strong presentation skills, and I use ChatGPT and Claude daily. I have not yet built LLM-based tools in a product team, but prototyping them with your support is exactly what I want to learn.",
+    "closing": "I am available immediately for 10 to 20 hours per week and am happy to relocate to Berlin. I would be glad to discuss how I can contribute.",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-10-21/sap-working-student-ai-product-automation/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

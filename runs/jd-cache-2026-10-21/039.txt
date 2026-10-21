@@ -1,0 +1,52 @@
+URL: https://www.linkedin.com/jobs/view/4478607055
+TITLE: Working Student / Werkstudent — Applied AI - Software Engineering
+COMPANY: aifano
+LOC: Herford, North Rhine-Westphalia, Germany
+POSTED: 2026-10-19
+title: Working Student / Werkstudent — Applied AI - Software Engineering
+company: aifano
+posted: 1 day ago
+applicants: 181 applicants
+apply_offsite: 
+---
+The Role 
+ You’ll help build real products across the software lifecycle: understand the problem → design → implement → release → improve. You’ll take ownership of well-defined tasks and features, with guidance, code reviews, and feedback from experienced engineers.
+ You’ll work closely with engineering, product, and design, and join customer conversations to understand requirements and share progress. We value curiosity, systems thinking, and a practical approach to turning ideas into working software.
+ You don’t need to know our entire stack. Bring solid foundations, some hands-on experience, and the motivation to learn by building.
+ What You’ll Do 
+ Build with AI: use generative tools, work with our reusable components, and help test and evaluate AI-powered features.
+ Contribute to engineering decisions: explore solutions, discuss trade-offs with the team, and implement practical approaches.
+ Ship useful features: work with product and design to turn requirements into manageable tasks and working software.
+ Work across the stack: contribute to services, APIs, data pipelines, and frontends, depending on your strengths and the project.
+ Build with quality in mind: write maintainable code, test your changes, and help improve reliability and performance with support from the team.
+ Collaborate with clients: join discussions, help clarify requirements, demo your work, and incorporate feedback alongside experienced teammates.
+ Communicate clearly: document your work, ask questions early, and keep the team informed about progress and blockers.
+ Required Skills 
+ Currently enrolled at a university, ideally in Computer Science, Software Engineering, or a related field.
+ Practical experience with JavaScript/TypeScript and some familiarity with Node.js and React/Next.js. Personal projects, coursework, internships, and open-source contributions all count.
+ Basic understanding of SQL and relational databases such as PostgreSQL, including how to structure and query data.
+ Familiarity with Git, APIs, debugging, and basic testing.
+ Interest in how systems fit together and a willingness to think through dependencies and trade-offs.
+ Clear written and verbal communication, including explaining your approach and documenting your work.
+ Initiative and follow-through: you can make progress on a defined task, use feedback, and ask for support when you need it.
+ Nice to Have 
+ Some experience with Python, Rust, or Ruby.
+ Familiarity with caching, Redis, or event-driven systems such as Kafka.
+ First experience with AWS, Azure, GCP, or Cloudflare, especially Workers, Durable Objects, or KV.
+ Exposure to Docker, GitHub Actions, or infrastructure as code.
+ Experience with AI tools, evals, reusable components, internal tools, or project templates.
+ Experience writing short technical specs or documenting design decisions.
+ These are useful starting points. You’ll have opportunities to learn them on the job.
+ Typical Stack 
+ You won’t be expected to work with every tool from day one.
+ Languages / Frameworks: Node.js, TypeScript, React/Next.js, Python; sometimes Rust or Ruby.
+ Data: PostgreSQL, ClickHouse, Redis, Airflow.
+ Messaging / Streaming / Workflows: Kafka, Temporal.
+ Cloud / Edge: GCP, Azure, or AWS; we particularly like Cloudflare—Workers, Durable Objects, KV, R2, and more.
+ Infra / Tooling: Docker, GitHub Actions, IaC with Terraform.
+ Perks and Benefits 
+ Competitive compensation.
+ Paid time off aligned with your working schedule, plus applicable public holidays.
+ High-end laptop, learning budget, and extensive AI tooling.
+ Hands-on experience with real products, regular feedback, and support from experienced engineers.
+ Fully remote within Germany after successful onboarding.

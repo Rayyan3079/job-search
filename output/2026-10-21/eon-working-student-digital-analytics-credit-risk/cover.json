@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Working Student Digital & Analytics in Credit Risk (f/m/d)",
+    "company": "E.ON",
+    "city": "Essen",
+    "date": "2026-10-21",
+    "greeting": "Dear E.ON team,",
+    "opening": "I am applying for the Working Student position in Digital & Analytics in Credit Risk. Preparing and visualizing data to support risk management decisions in a major energy company is a strong fit with my experience and my M.Sc. in Data Science.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau. Before moving to Germany I worked as a Business Analyst at Tapal Tea and in SAP data & analytics consulting at TallyMarks Consulting, building dashboards, data models and SQL-based reporting for business teams.",
+    "achievements": [
+      {
+        "lead": "SQL and data quality",
+        "impact": "I used SQL analysis, data validation and reconciliation to keep reporting accurate across HR, finance, supply chain and procurement"
+      },
+      {
+        "lead": "Replacing manual checks",
+        "impact": "I replaced a quality check where users opened an SAP report for each of thousands of materials and compiled results in Excel with a single SAP Analytics Cloud dashboard"
+      },
+      {
+        "lead": "Clear documentation",
+        "impact": "I documented data sources, calculations and results for every dashboard I built, so colleagues could support them too"
+      }
+    ],
+    "problems_section": "In your team I would analyse, prepare and visualize data, support improvements to your central credit risk management system, and help with data management and documentation. I have not yet worked with your cloud database stack, but I learn new data platforms quickly.",
+    "closing": "I am available immediately for up to 20 hours per week and am happy to relocate to Essen. I would be glad to discuss how I can contribute.",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-10-21/eon-working-student-digital-analytics-credit-risk/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

@@ -1,0 +1,38 @@
+URL: https://www.linkedin.com/jobs/view/4480483240
+TITLE: Werkstudent AI Research Engineer for SLM Optimization (m/w/d/x)
+COMPANY: Mercedes-Benz Tech Innovation
+LOC: Karlsruhe, Baden-Württemberg, Germany
+POSTED: 2026-10-20
+title: Werkstudent AI Research Engineer for SLM Optimization (m/w/d/x)
+company: Mercedes-Benz Tech Innovation
+posted: 13 hours ago
+applicants: 32 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-ai-research-engineer-for-slm-optimization-m-w-d-x-at-mercedes-benz-tech-innovation-4480483240&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Jetzt bewerben!
+ Wir sind Mercedes-Benz Tech Innovation - doch wir bauen keine Autos: Wir definieren die Zukunft mit Technologie.
+ Als größte Tech Company der Mercedes-Benz Group AG arbeiten rund 2.500 Mitarbeitende in Ulm, im Raum Stuttgart, in Berlin und in Karlsruhe sowie in internationalen Tech Hubs an den Techniktrends der Mobilität von morgen.
+Uns verbindet die Begeisterung für Innovation und neueste Technologien – kombiniert mit der Überzeugung, dass individuelle Freiheit und Eigenverantwortung für echten Fortschritt entscheidend sind. Wir sind #techinnovators.
+ Mehr über uns erfahren Über uns Mercedes-Benz Tech Innovation GmbH
+ Welche Aufgaben erwarten dich?
+ Als Werkstudent AI Research Engineer for SLM Optimization (m/w/d/x) unterstützt du das Team bei der Erstellung, Verfeinerung und Verwaltung von Caching-Mechanismen für Small Language Models (SLMs).
+ Du wirkst beim Training und der Weiterentwicklung von Modellen für Cache Predictions mit.
+ Zudem unterstützt du bei der Konfiguration und Verwaltung von Machine-Learning-Umgebungen in der Cloud.
+ Du beschäftigst dich mit der Konzeption und explorativen Analyse neuer Caching-Strategien und bringst dabei deine eigenen Ideen ein.
+ Du unterstützt bei der Auswahl, Entwicklung und Integration neuester Technologien im Rahmen innovativer Forschungsprojekte.
+ Darüber hinaus arbeitest du in einem agilen Produktentwicklungsteam mit erfahrenen Entwicklerinnen und Entwicklern aus unterschiedlichen Disziplinen zusammen.
+ Wie passt du in unser Team? 
+ Bereit, durchzustarten? Wenn du uns mit nachweislich hervorragenden Deutsch- und Englischkenntnissen überzeugst und deine vollständigen Bewerbungsunterlagen (Anschreiben, Lebenslauf, Notenübersicht, Immatrikulationsbescheinigung sowie ggf. Aufenthaltsgenehmigung/Arbeitserlaubnis) vorliegen, bist du nur noch einen Klick von deiner Chance entfernt.
+ Kleiner Tipp: Bei der Flut an Top-Bewerbungen, die wir bekommen, ist eine lückenlose Bewerbung dein einziges Ticket ins Spiel. Ohne das komplette Paket geht's für dich leider nicht weiter – no exceptions!
+ Du studierst Informatik, Wirtschaftsinformatik oder einen vergleichbaren Studiengang.
+ Du bringst bereits Erfahrungen in der Softwareentwicklung mit Python mit.
+ Du verfügst über Kenntnisse im Bereich Deep Learning und bist mit dem Aufbau und der Funktionsweise von Transformer-Modellen vertraut.
+ Du bist hoch motiviert, arbeitest strukturiert und hast Freude daran, dich mit neuen Technologien und Themen auseinanderzusetzen.
+ Eine sehr gute Selbstorganisation sowie die Fähigkeit, dir neue Themen eigenständig zu erarbeiten, runden dein Profil ab.
+ Benefits
+ Flexible Arbeitsgestaltung
+ Damit neben Studium und Arbeit noch genügend Freizeit bleibt, bekommst du bei uns anteilig 30 Urlaubstage sowie die Möglichkeit, deine Arbeitszeiten flexibel zu planen. In Abstimmung mit deinem Team und deinem Ansprechpartner hast du auch die Möglichkeit, remote zu arbeiten . Zudem sind nahezu alle unsere Stellen geeignet, um in Teilzeit ausgeführt zu werden.
+ Mittendrin statt nur dabei
+ Du begleitest innovative Projekte am Puls der Zeit und übernimmst verantwortungsvolle Aufgaben, so bist du von Beginn an ein vollwertiges Mitglied unseres Teams! Natürlich profitierst du hierbei von einem attraktiven Gehalt .
+ Begegnung auf Augenhöhe
+ Bei Mercedes-Benz Tech Innovation sind wir ein Team! Unsere Zusammenarbeit basiert auf gegenseitigem Vertrauen und Respekt. Flache Hierarchien , eine wertschätzende Atmosphäre , Offenheit und Aufgeschlossenheit gehören bei uns zum Arbeitsalltag. Damit dein Start bei uns gelingt, erhältst du eine individuelle Einarbeitung und einen direkten Ansprechpartner .

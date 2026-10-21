@@ -1,0 +1,71 @@
+URL: https://www.linkedin.com/jobs/view/4478603191
+TITLE: Working Student (f/m/d) - AI & Product Automation
+COMPANY: SAP
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-10-19
+title: Working Student (f/m/d) - AI & Product Automation
+company: SAP
+posted: 1 day ago
+applicants: 125 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-f-m-d-ai-product-automation-at-sap-4478603191&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Description
+ What you´ll build 
+ Build simple automations and small internal tools for product workflows, with support from the team 
+ Prototype AI ideas, such as summarizing or sorting customer feedback with an LLM 
+ Connect data sources and create basic dashboards 
+ Test how well AI outputs work and document your findings 
+ Work with engineers and product managers to turn prototypes into real tools 
+ Write short documentation and share what you learn 
+ Pull together basic numbers and reports 
+ Keep internal documentation up to date 
+ Help coordinate cross-functional teams and track actions to ensure timely delivery of outcomes 
+ What You Bring
+ At least 1 year' experience with data and products in a SaaS company 
+ Bachelor's degree in a quantitative subject (computer science, physics, mathematics, engineering, …) or marketing/business management 
+ Excellent English communication skills 
+ Prior experience in stakeholder coordination 
+ Excellent analytical and problem-solving skills 
+ Very good knowledge of MS Office 
+ Ability to contribute both independently and as part of a team 
+ Enrolled in computer science, data science, engineering, information systems or a related field 
+ Programming basics, ideally Python or JavaScript (university and personal projects count) 
+ Some hands-on AI experience, e.g. calling an LLM API, writing prompts or a small AI project, plus eagerness to learn more 
+ Good English 
+ 10–20 hours per week available 
+ Coming to the office required
+ Ability to deliver with tight deadlines 
+ Excellent follow-up skills 
+ You use AI tools (e.g. ChatGPT, Claude, Copilot) for studies or projects and enjoy trying new ways to use them 
+ Organized, curious and a clear communicator 
+ Excellent listening, communication, interpersonal and presentation skills 
+ Excellent presentation skills (must have) 
+ Ability to identify and leverage any opportunity of improvement using AI & Automation 
+ A Plus
+ Experience working in a product team 
+ You can also perform quantitative analysis on complex data sets 
+ Basic SQL and experience with REST APIs 
+ Git, cloud platforms or low-code automation tools 
+ Experience with vector databases or evaluation tools 
+ Basic knowledge of BI tools or A/B testing 
+ Where you belong 
+ Product Excellence
+ Product Excellence is a team under the SAP Signavio functional unit where we enable product teams to build exceptional products that delight users and achieve business goals by championing a customer-centric and data-driven approach to product management.
+We provide essential frameworks, tools and best practices necessary to craft strong product strategies, make informed decisions, and execute effectively. By fostering a culture of continuous improvement, we ensure sustained innovation and excellence across the organization
+The Product Excellence team comprises multiple specialized sub-units that collectively enable high-performing, scalable, and customer-centric product teams. These include Business Analytics, which provides data-driven insights to support informed decision-making; Practices and Programs Management, which establishes governance, drives execution discipline, and ensures alignment across initiatives; and Curation of Best Practices, focused on defining, standardizing, and continuously improving processes to enable smooth project execution across cross-functional teams.
+In addition, the team focuses on Voice of Customer initiatives to systematically capture, analyze, and embed customer feedback into product strategy and delivery. We also manage onboarding and upskilling programs to accelerate new team members’ productivity and continuously enhance the capabilities of existing talent. Finally, the team emphasizes the optimal utilization of available tools, frameworks, and resources to improve operational efficiency, reduce friction, and enable product teams to focus on delivering maximum value.
+Additional Information
+ Please use the free text field to write your cover letter and explain your motivation. After submitting your application, you will have the option to provide additional documents, such as university transcript of records, copies of any academic degrees earned, and references from former employers including internships. 
+ This is a SAP global, strategic, paid working student position that provides students with opportunities to find purpose in their careers. 
+ #Workingstudent #Werkstudent #Germany #Deutschland #Student #SAPGermanStudentsCareers #SAPNextGen 
+ About SAP
+ With a global network of customers, partners, employees, and thought leaders, SAP helps the world run better and improves people’s lives.
+As a leader in enterprise applications and business AI, SAP stands at the nexus of business and technology. For over 50 years, organizations have trusted SAP to bring out their best by uniting business-critical operations spanning finance, procurement, HR, supply chain, and customer experience.
+We win with inclusion
+SAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.
+SAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team: Careers@sap.com.
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+Qualified applicants will receive consideration for employment without regard to their age, race, religion, national origin, ethnicity, gender (including pregnancy, childbirth, et al), sexual orientation, gender identity or expression, protected veteran status, or disability, in compliance with applicable federal, state, and local legal requirements.
+AI Usage in the Recruitment Process
+For information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.
+Please note that any violation of these guidelines may result in disqualification from the hiring process.

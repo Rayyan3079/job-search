@@ -1,0 +1,39 @@
+URL: https://www.linkedin.com/jobs/view/4478615605
+TITLE: Working Student - AI / ML
+COMPANY: Snke
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-10-19
+title: Working Student - AI / ML
+company: Snke
+posted: 1 day ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-ai-ml-at-snke-4478615605&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+What You'll Do
+ As Working Student - AI / ML at Snke you will contribute to the development of cutting-edge AI solutions for medical image analysis. Working closely with our Machine Learning team in Munich, you will work on statistical analyses that help improve our medical image analysis models:
+ Develop tools to statistically compare AI models
+ Implement tools for identifying confounding variables and assess their impact on model results
+ Support the design, testing and validation of medical imaging AI models
+ Assist the ML engineers with day-to-day technical and operational tasks
+ What We're Looking For
+ Background in Computer vision, Informatics, Statistics, (Bio)medical imaging or a similar field
+ Strong interest in medical imaging AI and a passion for driving innovation in the field
+ Analytical mindset paired with strong teamwork and communication skills
+ Knowledge in Python and statistical methods, with a willingness to deepen your proficiency
+ Structured and independent working style with a high level of reliability
+ Good command of English in a professional environment
+ Why Snke
+ A supportive, international team connected by shared values and a culture of trust
+ Meaningful responsibilities with a lasting impact on global healthtech, improving medical decisions and patient outcomes
+ Flexible working hours and a hybrid work model within Germany
+ Parking garage and secure underground bike storage
+ Subsidized company restaurant and in-house café
+ Regular after-work, team, and company events
+ Centrally located, modern workspace with a 212 m² rooftop terrace
+ Ready to apply?
+ We look forward to receiving your online application including your earliest possible start date.
+We welcome applications from people of all backgrounds and identities. At Snke, we believe diversity drives innovation, helping us build smarter solutions and improve patient outcomes.
+ Contact person
+ Tatjana von Freyberg
+ About Us
+ Founded in 2020 and headquartered in Munich, Snke is transforming healthtech with scalable, data-driven innovation powered by AI and big data analytics. We're experts specializing in large platforms, digital health and software-driven medical technology. By delivering a trusted orchestration layer, Snke empowers healthcare providers, societies, registries, agencies and all partners to deploy cutting-edge solutions for safe and efficient interventions and enhances patient outcomes. Beyond our Munich headquarters, we have core teams in Chicago, Heidelberg, San Diego and Tel Aviv. Snke fosters global collaboration to create technologies that are smart, enabling and holistic-helping healthcare providers deliver meaningful change.

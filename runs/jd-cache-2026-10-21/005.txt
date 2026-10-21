@@ -1,0 +1,36 @@
+URL: https://www.linkedin.com/jobs/view/4476012797
+TITLE: Working Student Product Documentation & BI Dashboard (All Genders)
+COMPANY: movingimage
+LOC: Germany
+POSTED: 2026-10-20
+title: Working Student Product Documentation & BI Dashboard (All Genders)
+company: movingimage
+posted: 14 hours ago
+applicants: 75 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-product-documentation-bi-dashboard-all-genders-at-movingimage-4476012797&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+We are looking for a motivated Working Student to join us on two connected missions: keeping our product documentation clear, accurate, and up to date while helping us build the next generation of our internal AI-assisted dashboards. This is a great opportunity to gain hands-on experience in technical writing, data analysis, and modern BI tooling alongside your studies.
+ Sounds interesting? We’d love to hear from you!
+ Your Role 
+ Maintain and enhance product documentation, including help center articles, user guides and internal knowledge base content
+ Work closely with Product, Support and Video Production teams to keep documentation accurate, clear and easy to find
+ Support the migration of our BI dashboards from Tableau to a new, self-hosted, AI-assisted dashboard solution
+ Help design, build and test new dashboard views and reports and validate them against existing Tableau reports
+ Research and help evaluate self-hosted BI tools and AI-assisted development approaches
+ Document the new dashboard setup and processes for internal stakeholders
+ Support both work streams day to day and pick up ad hoc tasks with the wider team
+ Your Profile 
+ Currently enrolled in a Bachelor's or Master's program in Computer Science, Information Systems, Data Science, Technical Communication, or a related field
+ Interest in technical writing / documentation and/or data & BI topics
+ Proficient in SQL
+ A structured, detail-oriented and reliable working style
+ Comfortable learning and working with new tools, including AI-assisted tools
+ Good communication skills and enjoyment of cross-team collaboration
+ Strong written & spoken English; German is a plus
+ Nice to have 
+ Experience with Tableau or another BI/reporting tool
+ Familiarity with self-hosted BI tools (e.g. Apache Airflow, Metabase, Apache Superset, Grafana)
+ Experience with documentation tools (e.g. Confluence, Markdown, Git)
+ Basic scripting knowledge (e.g. Python)
+ Interest in AI-assisted development tools
+ For all details about our work environment, our benefits, and more, feel free to take a look at our detailed job posting.

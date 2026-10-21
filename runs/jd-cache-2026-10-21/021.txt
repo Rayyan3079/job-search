@@ -1,0 +1,44 @@
+URL: https://www.linkedin.com/jobs/view/4478256744
+TITLE: Working Student (f/m/d) – Supply Chain Management Optimization and Data Science
+COMPANY: SAP
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-10-19
+title: Working Student (f/m/d) – Supply Chain Management Optimization and Data Science
+company: SAP
+posted: 1 day ago
+applicants: 137 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-f-m-d-%25E2%2580%2593-supply-chain-management-optimization-and-data-science-at-sap-4478256744&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Description
+ What you bring
+ Student (f/m/d) at a university or a university of applied sciences
+ Preferred fields of study: Mathematics, Informatics, Data Science, Operations Research or related
+ Computer skills: Python, C++ (or the willingness to learn it)
+ Language skills: fluent in English, German as a plus
+ A creative, analytical, and solution-oriented mindset
+ Motivation and result driven attitude
+ Good teamwork and communication skills
+ What You'll Do
+ As a working student (f/m/d) you will support us with the conception and the development of future supply chain planning solutions. Key responsibilities include:
+ Develop, implement, and test innovative algorithmic solutions for supply chain optimization
+ Conduct literature research on new algorithmic approaches in Operations Research
+ Create and evaluate AI/ML models
+ Write performance and functional tests.
+ Where you belong
+ The Supply Chain Management (SCM) Optimization and Data Science Unit develops modern planning solutions by using mathematical optimization and artificial intelligence methods that industrial companies worldwide use to plan and optimize their business.
+The planning procedures are characterized by high scalability concerning the volume to be planned (procedure efficiency), broad functionality and seamless integrations into SAP applications.
+ Your set of application documents should contain a cover letter, a resume in table form, school leaving certificates, certificate of enrollment, current university transcript of records, copies of any academic degrees already earned, and if available, references from former employers (including internships). Please also describe your experience and skills in foreign languages and computer programs / programming languages.
+ This is a SAP global, strategic, paid working student position that provides students with opportunities to find purpose in their careers.
+ #Workingstudent #Werkstudent #Germany #Deutschland #Student #SAPGermanStudentsCareers
+ Additional Information
+ About SAP
+ With a global network of customers, partners, employees, and thought leaders, SAP helps the world run better and improves people’s lives.
+As a leader in enterprise applications and business AI, SAP stands at the nexus of business and technology. For over 50 years, organizations have trusted SAP to bring out their best by uniting business-critical operations spanning finance, procurement, HR, supply chain, and customer experience.
+We win with inclusion
+SAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.
+SAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team: Careers@sap.com.
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+Qualified applicants will receive consideration for employment without regard to their age, race, religion, national origin, ethnicity, gender (including pregnancy, childbirth, et al), sexual orientation, gender identity or expression, protected veteran status, or disability, in compliance with applicable federal, state, and local legal requirements.
+AI Usage in the Recruitment Process
+For information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.
+Please note that any violation of these guidelines may result in disqualification from the hiring process.

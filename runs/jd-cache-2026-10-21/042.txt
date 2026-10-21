@@ -1,0 +1,31 @@
+URL: https://www.linkedin.com/jobs/view/4472711643
+TITLE: Werkstudent:in Software Development in Data Analytics
+COMPANY: HDI Group
+LOC: Hannover, Lower Saxony, Germany
+POSTED: 2026-10-19
+title: Werkstudent:in Software Development in Data Analytics
+company: HDI Group
+posted: 1 day ago
+applicants: 73 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-in-software-development-in-data-analytics-at-hdi-group-4472711643&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Deine Aufgaben
+ Mitarbeit bei der Weiterentwicklung und Wartung interner Softwarelösungen für Pricing Services, insbesondere R-Packages, Shiny-Anwendungen und R-Plumber APIs
+ Entwicklung und Implementierung von Unit Tests für R-Packages sowie Integration in moderne CI/CD-Pipelines
+ Unterstützung bei der Modernisierung bestehender Softwarearchitekturen und der kontinuierlichen Verbesserung der Codequalität
+ Unterstützung bei der Automatisierung von Entwicklungs- und Deployment-Prozessen
+ Dein Profil
+ Studium der Informatik oder eines vergleichbaren Studiengangs
+ Gute Kenntnisse in R und Python, Verständnis objektorientierter Programmierung sowie Erfahrung mit Git und REST APIs
+ Erste Erfahrungen mit Unit Testing und Software Quality Assurance von Vorteil
+ Analytische Denkweise, eigenständige Arbeitsweise und Begeisterung für Technologie
+ Interesse an datengetriebenen Lösungen im Versicherungsumfeld
+ Sehr gute Deutsch- und Englischkenntnisse (Teamsprache ist Englisch)
+ Flexible Arbeitszeiten
+ Gleitzeitregelungen und flexible Arbeitszeitmodelle ermöglichen eine perfekte Work-Life-Balance – ganz wie es zu Dir passt.
+ Gesundheitsmanagement
+ Mit uns bleibst Du gesund – dank Präventionsmaßnahmen, einem breiten Sportangebot und verschiedenen Kooperationen.
+ Mobiles Arbeiten
+ Ob von zu Hause oder unterwegs – unser mobiles Arbeitsmodell (bis zu 60 % mobil) bietet Dir mehr Freiheit und Selbstständigkeit.
+ Weiterbildung
+ Wir stillen Deinen Wissensdurst – zum Beispiel mit Fortbildungen, fachspezifischen Seminaren oder einem berufsbegleitenden Studium.

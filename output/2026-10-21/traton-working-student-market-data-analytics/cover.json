@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Working Student | Market & Data Analytics (m/f/d)",
+    "company": "TRATON GROUP",
+    "city": "Munich",
+    "date": "2026-10-21",
+    "greeting": "Dear TRATON GROUP team,",
+    "opening": "I am applying for the Working Student position in Market & Data Analytics. Turning data into insights that support corporate management, in a global commercial vehicle group, is the kind of analytics work I want to do alongside my M.Sc. in Data Science.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau. Before moving to Germany I worked as a Business Analyst at Tapal Tea and in SAP data & analytics consulting at TallyMarks Consulting, building dashboards, data models and SQL-based reporting for business teams.",
+    "achievements": [
+      {
+        "lead": "Power BI for leadership",
+        "impact": "I built a Power BI dashboard for the CEO comparing monthly sales against the fiscal-year plan"
+      },
+      {
+        "lead": "Explaining to stakeholders",
+        "impact": "I prepared and presented SAP Analytics Cloud to a client, who subsequently purchased it"
+      },
+      {
+        "lead": "SQL and data quality",
+        "impact": "I used SQL analysis, data validation and reconciliation to keep reporting accurate across HR, finance, supply chain and procurement"
+      }
+    ],
+    "problems_section": "In your team I would prepare data-driven analyses in Excel and Python, build clear reports and presentations in PowerPoint, and support management with well-structured findings.",
+    "closing": "I am available immediately for up to 20 hours per week and will remain enrolled for well over six months. I am happy to relocate to Munich and would be glad to discuss how I can contribute.",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-10-21/traton-working-student-market-data-analytics/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

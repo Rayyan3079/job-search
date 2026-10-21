@@ -1,0 +1,42 @@
+URL: https://www.linkedin.com/jobs/view/4481244214
+TITLE: Working Student - Generative AI & Data Analytics (m/f/d)
+COMPANY: Allianz
+LOC: Unterföhring, Bavaria, Germany
+POSTED: 2026-10-19
+title: Working Student - Generative AI & Data Analytics (m/f/d)
+company: Allianz
+posted: 1 day ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-generative-ai-data-analytics-m-f-d-at-allianz-4481244214&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Welcome to Allianz!
+ Allianz places the customer and their needs at the centre and has created the role of the Chief Customer Officer (CCO) to underline this. As the CCO team, we are the active and independent voice of our customers: we bring together a wide range of data sources, test products and processes and learn from feedback to drive genuine customer orientation.
+As a Working Student you will support our Text Analytics and Generative AI projects and learn how AI applications are built and tested responsibly in a large company.
+We stand for diversity and welcome you to our team regardless of your age, gender, religion, nationality, social and ethnic background, as well as sexual orientation and identity. We look forward to receiving your application!
+ What you can expect as a Working Student in Generative AI & Data Analytics (m/f/d)
+ Contribute to our Text Analytics and Generative AI projects – from data preparation and analysis through model and prompt evaluation to the development of new features.
+ Make AI applications more reliable and safe: detect and measure hallucinations, check answers against source information, define boundaries for tool usage and test applications in controlled environments.
+ Together with the team, develop and evaluate prototypes for internal AI assistants and agent workflows using large language models (LLMs), APIs, tool calling and orchestration.
+ Follow developments in Generative AI, evaluate promising open-source tools and techniques, and turn selected ideas into experiments or prototypes for our projects.
+ What you bring as a Working Student in Generative AI & Data Analytics (m/f/d)
+ Currently enrolled in a Master’s programme in Computer Science, Data Science, Artificial Intelligence, Mathematics or a related field.
+ Solid Python skills; familiarity with Git, SQL and agent harnesses is a plus.
+ A good understanding of Data Science or Machine Learning fundamentals and first practical experience with AI projects; experience with Generative AI, Natural Language Processing, LLM APIs or agent-based applications is an advantage.
+ Good communication skills and the ability to explain your work in English; German is a plus.
+ Openness to creative and innovative solutions as well as enjoyment in working with forward-looking technologies such as artificial intelligence or our internal Allianz GPT.
+ Our Highlights For You
+ Health & Well-being: Numerous sports and health offerings as well as preventive measures lay the foundation for your physical and mental well-being.
+ Remuneration: In addition to an attractive salary, you can expect a monthly travel cost subsidy of €30.00 and a daily meal allowance in our excellent employee restaurants.
+ Time & Flexibility: With our “New Work” model, work and private life can be even better balanced. We work flexibly, hybrid, mobile, and on-site.
+ Career Development: Comprehensive educational opportunities in the form of training as well as access to LinkedIn Learning or Degreed enable continuous development.
+For a complete overview of what makes us an attractive employer, please visit careers.allianz.com/benefits.
+ Starting date: as soon as possible
+ Interested? Then we look forward to receiving your application online on our career page – careers.allianz.com.
+For technical and professional questions, our colleagues at recruiting-operations@allianz.de are available to assist you.
+ Note : Allianz in Germany has an internal recruitment team that focuses on the direct search for outstanding candidates. Unsolicited applications from recruitment agencies or personnel consulting firms are not accepted.
+ Since 1890, Allianz has been committed to the safety of our customers and employees as a leading global insurer, financial services provider, and asset manager. In addition, Allianz has been regularly certified as a Great Place to Work since 2021 and recognised in the annual “Germany’s Best Employers” competition. Our employees are close to our hearts, and together we create a better living environment and future for us and our customers.
+ The Allianz Kunde und Markt GmbH places customers at the center of its considerations and derives strategies for growth, further development of the German market, tapping into new market opportunities, and consistent customer delight from this. Become part of a team that combines knowledge about customers and markets with digitization and modern technology.
+The Allianz Group is one of the most trusted insurance and asset management companies in the world. We care about our employees, their ambitions, dreams and challenges – that is what sets us apart as an employer. We are united by a shared aspiration: our customers are at the centre of everything we do, and their needs guide our thinking and actions. Together we create an environment in which everyone feels motivated and empowered to shape a better future – for our customers and for our society.
+At Allianz we stand for unity: we believe that a united world is a more successful world, and we are firmly committed to equal opportunities. The foundation for this is our culture, which puts people and performance first, and a working environment built on integrity, fairness, equal opportunity and trust.
+We welcome applications from people of all backgrounds, ages, genders, nationalities, religions and social origins, with or without disabilities, of all sexual orientations and other legally protected characteristics.
+ Join us. Let’s care for tomorrow.

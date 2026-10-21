@@ -1,0 +1,39 @@
+URL: https://www.linkedin.com/jobs/view/4478252384
+TITLE: Working Student: AI Product Engineering - Data (m/f/d)
+COMPANY: Retorio
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-10-19
+title: Working Student: AI Product Engineering - Data (m/f/d)
+company: Retorio
+posted: 1 day ago
+applicants: Over 200 applicants
+apply_offsite: 
+---
+We are a dynamic AI start-up based in the heart of Munich, setting the global standard for AI Coaching. While most AI companies are working on replacing human labor, we are unlocking the uniquely human strengths that drive lasting business outcomes for our enterprise clients. Our in-house AI technology is empowering our clients and their employees to unlock their full potential and coach holistic, customer focused communication. Think science-driven AI, avatars, global sales & service teams. Join our international team that is not just building a human-centric product, but redefining customer relationships.
+ About the role (Munich, onsite, ~20 hrs/week, 5 months): You own our data layer. The tables, views, and pipelines that answer the questions we keep asking are yours. Every time we change logic or launch something, we see the clean before-and-after instead of digging by hand. On the product side, you take ideas from our roadmap and turn them into shipped features, with AI agents and the newest tooling as your accelerators. This is build-the-future work, not ticket-closing.
+ Tasks 
+ Building our analytics and metrics layer from the ground up: version-controlled metric definitions, tested transformation models, and pipelines that both humans and our AI can query
+ Pulling outside sources in and tying them to product behavior, so every launch and logic change is measurable
+ Building product features end to end with our engineering team, from data model to shipped result
+ Using AI agents, MCP, and tool-calling to multiply what you can build, including agents that drive and test the product like a real user
+ Making product decisions with our PM, building them, and owning the outcome
+ Requirements 
+ Enrolled student in Computer Science, Data Science, or a related field
+ Comfortable with SQL and Python
+ You think in products, not tickets: you care what a feature does for the user, not just that the code runs
+ Genuinely into agents, LLMs, MCP, and the current wave of AI tooling
+ You like clean data and shipping things that work
+ Comfortable working in English
+ Bonus points:
+ You have built something with agents, MCP, or AI coding assistants already
+ You have wired up external APIs before
+ Benefits 
+ Above-average compensation
+ Public transportation benefits
+ Flexible hours that fit around your studies
+ Real ownership from day one: you own outcomes, not tasks, across our data layer, product features, and AI agents
+ A small, international team where your work reaches enterprise clients fast
+ Full freedom to experiment with the newest AI tools and shape how we build
+ The option to extend beyond the initial engagement if it works for both sides
+ Come build with us. Send us your CV and a line about something cool you've built.
+ Retorio is an equal opportunity employer. We value different backgrounds and perspectives and encourage everyone who fits the profile to apply.
