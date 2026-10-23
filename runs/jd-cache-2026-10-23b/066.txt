@@ -1,0 +1,46 @@
+URL: https://www.linkedin.com/jobs/view/4474812935
+TITLE: (Junior) Analyst im Risk Management – Team Loan Application Process (m/w/d)
+COMPANY: auxmoney
+LOC: Germany
+POSTED: 2026-10-08
+title: (Junior) Analyst im Risk Management – Team Loan Application Process (m/w/d)
+company: auxmoney
+posted: 2 weeks ago
+applicants: 99 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fjunior-analyst-im-risk-management-%25E2%2580%2593-team-loan-application-process-m-w-d-at-auxmoney-4474812935&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Dein neues Team:
+ Tauche ein in die Welt der Zahlen und Daten im Team Loan Application Process ! Hier bist Du nicht nur ein Teil unserer Risikoabteilung, sondern trägst aktiv dazu bei, komplexe mathematische Modelle und innovative Technologien im Kreditantragsprozess zu entwickeln und zu überwachen.
+Wenn Du datengetriebene Lösungen liebst und erleben möchtest, wie Analysen unternehmerische Entscheidungen beeinflussen, bist Du bei uns genau richtig. Unsere Mission: mit präzisen Daten und modernen Modellen die Zukunft des Kreditrisikomanagements gestalten. Werde Teil eines Teams, das Fortschritt lebt, und bringe Deine analytischen Fähigkeiten in einem spannenden FinTech-Umfeld ein.
+ Das erwartet Dich:
+ Algorithmus-Monitoring: Du analysierst und überwachst unseren Klassifikationsalgorithmus zur Verarbeitung digitaler Kontoauszugsdaten (PSD2) im Kreditantragsprozess und leitest Maßnahmen zur Verbesserung der Performance ab.
+ Einzelfallprüfungen: Du führst Einzelfallanalysen durch, prüfst Auffälligkeiten strukturiert und unterstützt dabei, fundierte Entscheidungen im Prozess zu treffen.
+ Monitoring-Tools weiterentwickeln: Du pflegst und entwickelst bestehende Monitoring-Systeme weiter, damit wir Risiken transparent machen und Prozesse effizient steuern können.
+ Ad-hoc-Analysen unterstützen: Du erstellst datenbasierte Auswertungen, bereitest Ergebnisse verständlich auf und hilfst dabei, Lösungen für aktuelle Fragestellungen zu entwickeln.
+ Projektarbeit übernehmen: Du arbeitest eigenverantwortlich an Projekten, setzt Verbesserungen um und gewinnst dabei tiefe Einblicke in das FinTech-Umfeld.
+ Arbeitsmodell: Du arbeitest hybrid und triffst Dein Team anlassbezogen im Office in Düsseldorf.
+ Das bringst Du mit:
+ Fachlicher Hintergrund: Du hast einen Masterabschluss mit mathematischem, statistischem oder naturwissenschaftlichem Schwerpunkt und konntest erste Berufserfahrung sammeln.
+ SQL und Programmierung: Du bringst gute SQL-Kenntnisse mit und hast Programmiererfahrung, idealerweise in Python.
+ Tooling-Affinität: Du hast idealerweise erste Berührungspunkte mit Git und KI-gestützter Programmierung.
+ Analytische Arbeitsweise: Du arbeitest strukturiert, hast ein ausgeprägtes Qualitätsbewusstsein und bearbeitest Details mit hoher Präzision.
+ Interesse am Kreditrisiko: Du interessierst Dich für Kreditrisikomanagement und hast Lust, in einem datengetriebenen FinTech-Umfeld zu arbeiten.
+ Sprachen: Du kommunizierst sehr gut auf Deutsch und Englisch.
+ Das bringen wir mit: 
+ Flexibilität für Deine Lebensgestaltung: Genieße familienfreundliche Arbeitszeiten und eine großzügige Homeoffice-Regelung, damit Du in jeder Lebenslage agil und flexibel bleiben kannst.
+ Ergonomisches Arbeiten: Für Deine Tage im Büro bieten wir ergonomische Arbeitsplätze, die Dir eine komfortable und gesunde Arbeitsumgebung bieten.
+ Eigenverantwortliches Arbeiten: Durch kurze Entscheidungswege ermöglichen wir Dir, selbstständig zu arbeiten und Deine Ideen aktiv einzubringen – bei uns hast Du Raum, Verantwortung zu übernehmen.
+ Wachse mit uns: Entfalte Dein Potenzial mit zahlreichen Gestaltungs- und Entwicklungsmöglichkeiten und einem jährlichen Entwicklungsbudget, um Deine fachlichen und persönlichen Ziele zu erreichen.
+ Gemeinsamer Spaß: Der Teamgeist kommt bei uns nicht zu kurz – wir bieten regelmäßig Events und Partys, bei denen der Spaß nicht zu kurz kommt.
+ Mobilität nach Wahl: Ob Bahnticket oder Parkplatz – wir unterstützen Dich bei der Wahl Deiner bevorzugten Mobilität.
+ Aktiv bleiben: Halte Dich fit mit einer vergünstigten Mitgliedschaft bei Fitness First oder Urban Sports Club oder nutze unseren Fitnessraum direkt im Haus, um nach der Arbeit aktiv zu bleiben und Deine Work-Life-Balance zu stärken.
+ Zukunft sichern: Denk auch an Deine Zukunft – wir bieten Dir Zuschüsse zur betrieblichen Altersvorsorge, damit Du mit uns langfristig planst.
+ Individuelle Angebote: Wir berücksichtigen Deine persönliche Lebenssituation – ob Du ein Elternteil bist oder gerne reist, wir bieten maßgeschneiderte Angebote, die zu Deinem Leben passen.
+ Deine Perspektive: Du gestaltest mit Deinen Analysen aktiv mit, wie wir digitale Daten im Kreditantragsprozess nutzen und Risiken frühzeitig erkennen. Dabei übernimmst Du Ownership für Monitoring und Auswertungen, deren Ergebnisse direkt in Prozess- und Modellverbesserungen einfließen. So baust Du Dir Schritt für Schritt tiefes Know-how im modernen Kreditrisikomanagement auf.
+Für uns als Arbeitgeber sind Chancengleichheit und Diversität besonders wichtig. Daher freuen wir uns auf Bewerbungen von Müttern, Vätern, Menschen mit Behinderungen und Menschen aus der LGBTQIA+ Community. Bitte teile uns gerne mit, wenn wir z.B. ein geschlechtsneutrales Pronomen verwenden sollen, Du einen barrierefreien Zugang zu unserem Büro benötigst oder wir mehr Zeit für den Bewerbungsprozess einplanen sollen.
+ Über uns
+ Du arbeitest leidenschaftlich gern agil und möchtest jeden Tag anders gestalten? Dann bist Du bei uns genau richtig! Wir sind auxmoney – eine führende digitale Plattform für Privatkredite in Europa und davon überzeugt, dass eine bessere Kreditversorgung für mehr Menschen möglich ist.
+Als Unternehmen vereinen wir die Startup-Mentalität mit der Sicherheit eines erfolgreichen Grown-Ups. Gemeinsam arbeiten wir an unseren Standorten in Düsseldorf, Budapest und Dublin.
+Bei uns kommst Du dank flacher Hierarchien und vielfältiger Gestaltungs- und Entwicklungsmöglichkeiten eigenverantwortlich zu exzellenten Ergebnissen und kannst an spannenden Projekten mitarbeiten. Du kannst Prozesse und Produkte vereinfachen und auxmoney so als Unternehmen nachhaltig aktiv mitgestalten.
+Egal, ob Praktikant oder Führungskraft: Bei uns leisten alle einen wertvollen Beitrag.
+Besuche uns gerne auch auf unseren Social-Media-Kanälen, um einen besseren Eindruck von uns zu gewinnen.

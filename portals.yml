@@ -38,6 +38,15 @@ title_filter:
     - "Minijob"
 
 job_boards:
+  - name: Arbeitsagentur — near Ilmenau (Lane L)
+    provider: arbeitsagentur
+    arbeitsagentur:
+      keywords: ["Werkstudent", "Studentische Hilfskraft", "Praktikum Informatik", "Werkstudent Informatik", "Werkstudent Daten"]
+      wo: Ilmenau
+      umkreis: 70
+      days: 30
+      size: 100
+    enabled: true
   - name: Arbeitsagentur — Werkstudent SAP & BI
     provider: arbeitsagentur
     arbeitsagentur:

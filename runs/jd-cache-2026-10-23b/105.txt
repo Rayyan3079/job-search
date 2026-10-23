@@ -1,0 +1,37 @@
+URL: https://www.linkedin.com/jobs/view/4479440639
+TITLE: Mentor für AI-gestützte Softwareentwicklung (Werkstudent)
+COMPANY: App Akademie
+LOC: Germany
+POSTED: 2026-10-21
+title: Mentor für AI-gestützte Softwareentwicklung (Werkstudent)
+company: App Akademie
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+Softwareentwicklung verändert sich gerade so schnell wie nie - und AI ist der Grund dafür. Wer heute Apps baut, arbeitet mit Copilot, Claude & Co. Wer es morgen tut, muss es richtig können. Genau darauf bereiten wir Menschen vor.
+ Die App Akademie ist ein zertifizierter Bildungsträger aus Berlin. In vollständig remote durchgeführten Weiterbildungen bringen wir IT-erfahrenen Menschen bei, moderne Apps zu entwickeln - mit einem klaren Fokus auf AI-gestützte Entwicklung. Dabei arbeiten wir mit verschiedenen Technologien, und unser Curriculum wächst stetig: Wir bauen laufend neue Tracks und Tools aus - und wer bei uns als Mentor:in mitgeht, wächst genau da mit.
+ Unsere Teilnehmenden bringen meist schon eine technische Basis mit: Sie kommen aus dem IT-Bereich und wollen in die Softwareentwicklung wechseln oder ihre Skills gezielt vertiefen. Und genau an diesem Punkt kommst du ins Spiel: Als Mentor:in bist du die Person, die sie durch den Kurs begleitet - und damit der entscheidende Faktor für ihren Erfolg.
+ Aufgaben 
+ Deine eigenen Teilnehmenden: Du betreust ein festes Set an Teilnehmenden, kennst ihre Stärken, erkennst, wo sie hängen, und begleitest sie aktiv durch den Kurs.
+ AI-gestützte Entwicklung vermitteln: Du zeigst, wie moderne Tools wie GitHub Copilot, Claude oder ChatGPT sinnvoll im Entwicklungsalltag eingesetzt werden - vom guten Prompt über die Code-Generierung bis zum kritischen Review von AI-Output. Denn AI-Code blind übernehmen kann jede:r - ihn bewerten zu können, macht den Unterschied.
+ 1:1-Mentoring: Regelmäßige Sessions, die nicht nach Schema F laufen, sondern genau auf den aktuellen Stand und die Herausforderungen deiner Teilnehmenden zugeschnitten sind.
+ Code-Review & Feedback: Ehrliches, konstruktives Feedback auf eingereichte Aufgaben - damit echte Coding-Skills entstehen und vorhandene wachsen.
+ Dokumentation: Du hältst Fortschritt und Session-Inhalte fest, sodass der Lernweg transparent bleibt und nichts verloren geht.
+ Curriculum mitgestalten: Du gibst Feedback zu unseren Lehrmaterialien und hilfst, sie besser zu machen - gerade dort, wo AI die Inhalte schneller verändert, als klassische Lehrpläne mithalten.
+ Teamaustausch: Du bist Teil eines engagierten Education-Teams und tauschst dich wöchentlich mit anderen Mentor:innen und Expert:innen über Teilnehmende und Lehrinhalte aus.
+ Qualifikation 
+ Du bist als Student:in noch mindestens ein Jahr immatrikuliert.
+ Du hast im Schnitt 15–20 Stunden pro Woche Zeit.
+ Du programmierst sicher in mindestens einer modernen Sprache und arbeitest dich schnell in neue Technologien ein.
+ Du arbeitest sicher mit Git & GitHub .
+ Du nutzt AI-Tools (ChatGPT, Copilot, Claude o. Ä.) selbst beim Coden und hast ein Gespür dafür, wann sie helfen - und wann nicht.
+ Du sprichst fließend Deutsch. 
+ Du bist gut organisiert und arbeitest gerne eigenverantwortlich.
+ Benefits 
+ Faire Bezahlung: 17 - 20 € Stundenlohn.
+ Echte Flexibilität: Keine festen Arbeitszeiten. Du legst deine Schichten parallel zum Studium, die Termine mit deinen Teilnehmenden bestimmt ihr gemeinsam.
+ Skills am Puls der Zeit: Du vertiefst genau die Technologien und AI-Workflows, mit denen morgen entwickelt wird - ein Vorsprung, den du in jeder Bewerbung ausspielen kannst.
+ Echter Impact: Du hilfst Menschen, ihre Karriere neu auszurichten. Deine Arbeit verändert Lebensläufe - und das merkst du.
+ Wachstum & neue Skills: Unser Curriculum wächst ständig - und du wächst mit. Du bekommst bei uns die Gelegenheit, dich in neue Technologien einzuarbeiten, um deine Teilnehmenden bestmöglich zu betreuen. Was du dir hier draufschaffst, nimmst du in jede weitere Station deiner Karriere mit.
+ Klingt nach dir? Dann freuen wir uns auf deine Bewerbung - gern kurz und knackig, mit ein, zwei Projekten oder GitHub-Links, die zeigen, was du kannst.

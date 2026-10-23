@@ -4,7 +4,7 @@ Automated job finder built on [career-ops](https://github.com/career-ops-hq/care
 Every 2 days a Claude session follows [RUNBOOK.md](RUNBOOK.md): it finds jobs in Germany posted in the last 72 hours,
 ranks them, and builds a tailored CV and cover letter for every good match. **Nothing is ever submitted: you review and apply.**
 
-**Priorities:** Werkstudent / Working Student roles > English-speaking > posted within 24-72 h.
+**Priorities (since 2026-10-23):** jobs commutable from Ilmenau first, then fully remote, then strong English-friendly roles elsewhere. Werkstudent, HiWi and internships all count.
 Internships, thesis roles, full-time roles and German-required roles are listed as low priority without documents.
 
 | File | What it is |
@@ -23,6 +23,9 @@ Internships, thesis roles, full-time roles and German-required roles are listed 
 
 | Company | Role | Fit | Documents |
 |---|---|---|---|
+| DLR – Institute of Data Science | Werkstudent/in (w/m/d) Informatik, Mathematik oder verwandte Fachrichtungen (Machine Learning) | 4/5 | [folder](output/2026-10-23/dlr-jena-werkstudent-machine-learning/) |
+| Fraunhofer IDMT | Student assistant in the field of "Semantic Music Technologies" | 3.5/5 | [folder](output/2026-10-23/fraunhofer-idmt-student-assistant-semantic-music/) |
+| Fraunhofer IDMT | Student assistant in the field of "Media Distribution and Security" | 2.5/5 | [folder](output/2026-10-23/fraunhofer-idmt-student-assistant-media-security/) |
 | Max Planck Institute for Intelligent Systems | Student Assistant (HiWi) for AI-Assisted 3D Segmentation of Photonic Nanostructures | 3.5/5 | [folder](output/2026-10-23/mpi-hiwi-ai-3d-segmentation/) |
 | Fraunhofer IAO | Student Assistant for applied Machine Learning in the »Quantum Computing« Team | 3/5 | [folder](output/2026-10-23/fraunhofer-iao-student-assistant-applied-ml-quantum/) |
 | SAP | Working Student (f/m/d) - SAP AIPD Enterprise Architecture Group | 2.5/5 | [folder](output/2026-10-23/sap-working-student-enterprise-architecture/) |

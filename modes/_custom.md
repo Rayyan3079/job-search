@@ -1,20 +1,24 @@
 # Custom Instructions -- Muhammad Rayyan Ahmed
 
-## Prioritisation (applied in every scan digest)
+## Prioritisation (updated 2026-10-23: getting a job is the priority)
 
-Rank every found job into tiers:
+Werkstudent jobs happen alongside studies in Ilmenau, so location decides more than anything else. Every job is sorted into a lane first:
 
-- **Tier 1** -- Werkstudent / Working Student role AND English-speaking (or German only "a plus") AND posted within the last 72 h AND Track A or B fit.
-- **Tier 2** -- Werkstudent role that misses one of: English-speaking, posted <=72 h (up to 7 days ok).
-- **Tier 3 (low priority)** -- Internship / Praktikum, Abschlussarbeit / thesis, junior full-time, or any role requiring fluent German.
+- **Lane L (local, highest):** commutable from Ilmenau (Ilmenau, Erfurt, Arnstadt, Gotha, Weimar, Jena, Suhl, Schmalkalden, Rudolstadt and similar). Includes Fraunhofer IDMT / IOSB-AST, TU Ilmenau, DLR Jena, Zeiss, Jenoptik, X-FAB, Telekom MMS Jena. Window: 30 days. Werkstudent, HiWi (studentische Hilfskraft), internships and thesis-plus-job offers all count.
+- **Lane R (remote):** the posting says fully remote / 100% home office / ortsunabhängig. Anywhere in Germany. Window: 7 days.
+- **Lane G (on-site elsewhere, lowest):** only English-friendly roles with fit >= 3.5. Max 3 packages per run.
 
-Within a tier: posted within 24 h > 48 h > 72 h, then fit score.
+Within a lane:
+- Package when English is accepted (English posting, or German only "a plus", or no explicit German requirement). Fit >= 2.5 in Lane L, >= 3 in Lane R, >= 3.5 in Lane G.
+- Explicit fluent/very good German (C1, "sehr gute Deutschkenntnisse") → list only, no documents.
+- Newest first, then fit.
 
 ## Application package
 
 - For EVERY Tier 1 and Tier 2 job: generate a tailored CV PDF and a tailored cover letter PDF (A4, English unless the posting is German-only, in which case still English plus a note).
 - Tier 3: list in the digest only; no documents unless the user asks.
-- Cap: 12 application packages per run. Overflow goes to the digest as "not yet tailored".
+- Cap: 12 application packages per run (Lane L first). Overflow goes to the digest as "not yet tailored".
+- Cover letters for Lane L roles must say he lives and studies in Ilmenau. Lane R letters say he can work fully remote. Never say "happy to relocate" for a Werkstudent role: he studies in Ilmenau.
 - Never submit anything. The user reviews and submits.
 
 ## Style

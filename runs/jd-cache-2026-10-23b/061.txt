@@ -1,0 +1,51 @@
+URL: https://www.linkedin.com/jobs/view/4472127130
+TITLE: Data-Analyst (m/w/d) in SaaS-Startup (Remote / Hybrid)
+COMPANY: cinify
+LOC: Germany
+POSTED: 2026-10-15
+title: Data-Analyst (m/w/d) in SaaS-Startup (Remote / Hybrid)
+company: cinify
+posted: 1 week ago
+applicants: 71 applicants
+apply_offsite: 
+---
+Wir sind cinify – ein junges, KI-getriebenes Start-up, das das Gesundheitswesen datenintelligent macht. Wir verbinden Praxisverwaltungs-, Radiologie- und Terminsysteme, führen ihre Daten zusammen und machen daraus Dashboards, Reports und zunehmend KI-gestützte Anwendungen, die Praxen und Radiologiezentren wirklich weiterbringen.
+ Wir denken AI-first. Ein Großteil unseres Codes, unserer SQL-Queries und Dashboards entsteht heute schon mit KI, und genau so wollen wir weiterwachsen. Wir suchen Menschen, die KI nicht als Spielerei sehen, sondern als selbstverständliches Werkzeug, mit dem sie schneller, besser und kreativer arbeiten.
+ In deiner Rolle arbeitest du eng mit Kunden aus dem Gesundheitswesen zusammen, nimmst ihre Anforderungen auf und entwickelst mit SQL und KI maßgeschneiderte Lösungen. Dabei bist du nicht nur technischer Umsetzer, sondern auch Projektmanager, der seine Projekte eigenständig organisiert und zum Erfolg führt.
+ Tipp: Auf unserer Webseite unter „Jobs“ findest du ein kurzes Video, in dem unsere Data Analysts von ihrem Job erzählen. Schau gern vorbei!
+ Aufgaben 
+ Als Data-Analyst bei cinify ist es Deine Aufgabe, komplexe Sachverhalte möglichst greifbar und verständlich für unsere Kunden aufzubereiten.
+ Du stehst im direkten Kundenkontakt, berätst und setzt Anforderungen direkt um.
+ Du baust Dashboards, Reports und Workflows und nutzt dafür konsequent KI-Tools, um vom Datenmodell bis zum fertigen Dashboard schneller ans Ziel zu kommen.
+ Du integrierst, validierst und optimierst Daten aus unterschiedlichsten Quellsystemen.
+ Du entwickelst unser Produkt aktiv weiter, inklusive neuer KI-Anwendungen für unsere Kunden.
+ Du arbeitest im Team an Standardlösungen für den Gesundheitsmarkt und hilfst dabei, unsere AI-first-Arbeitsweise stetig zu verbessern.
+ Qualifikation 
+ Um bei uns erfolgreich zu sein, bringst Du folgende Qualifikationen und Fähigkeiten mit:
+ Abgeschlossenes Studium und/oder erste Berufserfahrung im kaufmännischen oder IT-Bereich
+ Routinierter Umgang mit SQL
+ Erfahrung mit BI-Lösungen wie Power BI, Qlik oder Tableau
+ Praktische Erfahrung im Arbeiten mit KI-Tools (z. B. Claude, ChatGPT, Copilot) und Lust, deinen Arbeitsalltag damit neu zu denken
+ Datenaffinität und die Fähigkeit, komplexe Daten zu verstehen und ansprechend zu visualisieren
+ Selbstständigkeit und den Antrieb, unser Produkt immer besser zu machen
+ Ausgeprägte Kommunikations- und Teamfähigkeit
+ Sehr gute Deutschkenntnisse in Wort und Schrift
+ Benefits 
+ Remote-first
+ Falls gewünscht EGYM-Wellpass und Corporate Benefits
+ Mitwirken bei der Gestaltung und Weiterentwicklung unserer innovativen BI-Lösung
+ Flexible Arbeitszeiten
+ Engagiertes, modernes und kreatives Arbeitsumfeld in einem aufstrebenden Start-up
+ ca. 1x im Quartal Team-Events (unsere letzten Team-Events: Weihnachtsmarkt, Escape-Room, VIP-Lounge Basketball Alba Berlin, Spielshow, Beachvolleyball)
+ Betriebliche Altersvorsorge mit 20% Zuschuss
+ Standort: 
+ Unser Büro ist in Bochum. Der Großteil des Teams ist aber Deutschlandweit aktiv. Unter anderem: Berlin, München, Stuttgart, Frankfurt und Düsseldorf.
+ Teamwork: 
+ Unser Teamgeist ist uns besonders wichtig. Wir legen viel Wert auf gegenseitige Unterstützung und offene Kommunikation. Eine offene Fehlerkultur gehört bei uns dazu – wir lernen aus Fehlern und wachsen gemeinsam daran. Wir sind kein Konzern mit starren Strukturen, sondern ein dynamisches Start-up, bei dem du direkten Einfluss auf den Erfolg des Unternehmens hast. Du gestaltest den Weg von cinify aktiv mit und siehst, wie deine Arbeit echten Impact hat. Wenn du eine Umgebung suchst, in der dein Beitrag zählt und du gemeinsam mit uns wachsen möchtest, dann bist du bei uns richtig.
+ Ablauf der Bewerbung: 
+ SQL-Test: Im ersten Schritt bekommst du von uns einen kurzen SQL-Test, da wir solide SQL-Grundlagen voraussetzen.
+ Gespräche: Danach führst du voraussichtlich zwei Gespräche mit unseren Gründern und aktuellen Data Analysts, in denen wir gemeinsam herausfinden, ob cinify und du ein Match seid.
+ Bock drauf? 
+ Wenn du richtig Bock hast, ein Teil unseres Teams zu werden, dann schick uns eine Bewebung!
+ Wir wissen, dass es immer schwierig ist, sich von einem Unternehmen zu überzeugen, wenn man es noch nie gesehen hat. Schau doch mal auf unserer LinkedIn-Seite vorbei, um etwas über uns zu erfahren. Wir würden uns freuen, wenn Du uns über die Fragen in dem Bewerbungsformular oder in einem Anschreiben erzählst, was Dich an cinify interessiert, wie du KI heute schon in deiner Arbeit einsetzt und warum Du Dich bei uns bewerben möchtest.
+ Wenn Du Fragen hast oder weitere Informationen benötigst, stehen wir Dir gerne zur Verfügung. Wir freuen uns darauf, gemeinsam mit Dir Großes zu erreichen.

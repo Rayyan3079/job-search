@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "dlr-jena-werkstudent-machine-learning",
+    "company": "DLR – Institute of Data Science",
+    "role": "Werkstudent/in (w/m/d) Informatik, Mathematik oder verwandte Fachrichtungen (Machine Learning)",
+    "city": "Jena",
+    "url": "https://www.linkedin.com/jobs/view/4475582852",
+    "posted": "2026-10",
+    "fit": "4/5"
+  },
+  {
+    "slug": "fraunhofer-idmt-student-assistant-semantic-music",
+    "company": "Fraunhofer IDMT",
+    "role": "Student assistant in the field of \"Semantic Music Technologies\"",
+    "city": "Ilmenau",
+    "url": "https://jobs.fraunhofer.de/job/Ilmenau-Student-assistant-in-the-field-of-Semantic-Music-Technolgies%C2%AB-98693/1227832601/",
+    "posted": "open",
+    "fit": "3.5/5"
+  },
+  {
+    "slug": "fraunhofer-idmt-student-assistant-media-security",
+    "company": "Fraunhofer IDMT",
+    "role": "Student assistant in the field of \"Media Distribution and Security\"",
+    "city": "Ilmenau",
+    "url": "https://jobs.fraunhofer.de/job/Ilmenau-Student-assistant-in-the-field-of-Media-Distribution-and-Security-98693/968987201/",
+    "posted": "open",
+    "fit": "2.5/5"
+  }
+]

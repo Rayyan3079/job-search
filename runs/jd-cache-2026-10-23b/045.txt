@@ -1,0 +1,40 @@
+URL: https://www.linkedin.com/jobs/view/4380272633
+TITLE: Werkstudent (m/w/d) Model‑Based Definition (MBD) & Automatisierung mit Python
+COMPANY: SKF Group
+LOC: Schweinfurt, Bavaria, Germany
+POSTED: 2026-10-06
+title: Werkstudent (m/w/d) Model‑Based Definition (MBD) & Automatisierung mit Python
+company: SKF Group
+posted: 2 weeks ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-m-w-d-model%25E2%2580%2591based-definition-mbd-automatisierung-mit-python-at-skf-group-4380272633&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Im September 2024 hat SKF die Ausgliederung seines Automobilgeschäfts bekannt gegeben, mit dem Ziel, zwei weltweit führende Unternehmen aufzubauen. Die Stelle, auf die Sie sich bewerben, wird Teil der neuen Organisation sein, die aus dem Automobilgeschäft hervorgeht. Das bedeutet, dass Sie die Möglichkeit haben, an der Gestaltung eines neuen Unternehmens mitzuwirken, das darauf ausgerichtet ist, den Anforderungen des sich wandelnden globalen Automobilmarktes gerecht zu werden.
+ Für die SKF Automotive Germany GmbH suchen wir an unserem Standort in Schweinfurt ab sofort einen Werkstudenten (m/w/d) im Bereich Model‑Based Definition (MBD) & Automatisierung mit Python.
+ Deine Aufgaben:
+ Mitarbeit an der Analyse und Neugestaltung von CAD‑ und PLM‑Prozessen im Rahmen der Transformation hin zu Model‑Based Definition.
+ Entwicklung und Konzeption eines modularen Automatisierungsframeworks in Python — inkl. Datenextraktion, PMI‑Validierungen, Regelprüfungen und automatisiertem Reporting.
+ Ausarbeitung von technischen Konzepten, Architekturbausteinen und Schnittstellen für ein skalierbares System aus Automatisierungsmodulen.
+ Unterstützung bei der Definition und Standardisierung von MBD‑Methoden, Qualitätsregeln und Best Practices.
+ Erstellung von automatisierten Auswertungen, Dashboards und Visualisierungen.
+ Enge Zusammenarbeit mit Fertigung, Qualität, Einkauf und globalen Engineering‑Teams.
+ Das bringst du mit:
+ Immatrikulation in Maschinenbau, Mechatronik, Informatik o. Ä.
+ Grundwissen in CAD/MBD oder Motivation, sich schnell einzuarbeiten.
+ Gute Python‑Kenntnisse.
+ Erfahrung mit Git; Creo/Windchill von Vorteil.
+ Begeisterung für Automatisierung, Datenflüsse und Engineering‑Methodik.
+ Strukturierte Arbeitsweise und Teamfähigkeit.
+ Wir bieten:
+ Aufgaben mit direktem Impact.
+ Flexible Arbeitszeiten & hybrides Arbeiten.
+ Einblicke in globale Entwicklungs‑ und Fertigungsprozesse.
+ Interessiert?
+ Dann freuen wir uns auf deine Bewerbung. Bitte füge ein persönliches Anschreiben, deinen Lebenslauf und deine Zeugnisse (Abschluss- / Arbeitszeugnisse) bei.
+ Wir begrüßen ausdrücklich die Bewerbungen von Schwerbehinderten und ihnen gleichgestellten behinderten Menschen!
+ Du hast Fragen?
+ SKF Junior People Business Enabler
+ Frau Ann-Kathrin Raible
+ Tel: 07463 828270
+ Über SKF
+ Die Mission von SKF ist es, der unangefochtene Marktführer im Wälzlagergeschäft zu sein. SKF bietet Lösungen rund um Rotation an, einschließlich Lager, Dichtungen, Schmiermittel, Zustandsüberwachung und Wartungsdienstleistungen. SKF ist in mehr als 130 Ländern vertreten und verfügt über rund 17.000 Vertriebsstandorte weltweit. Der Jahresumsatz beträgt rund 7.5 Milliarden Euro, weltweit sind bei SKF rund 41 000 Mitarbeiter beschäftigt.

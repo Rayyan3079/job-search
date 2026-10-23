@@ -1,0 +1,38 @@
+URL: https://www.linkedin.com/jobs/view/4482845858
+TITLE: Consultant (m/d/w) (Data Engineering)
+COMPANY: Billigence
+LOC: Germany
+POSTED: 2026-10-23
+title: Consultant (m/d/w) (Data Engineering)
+company: Billigence
+posted: 7 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fconsultant-m-d-w-data-engineering-at-billigence-4482845858&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Billigence ist ein Business Intelligence, Data Analytics & AI Beratungsunternehmen mit globaler Reichweite, das unseren Kunden wertvolle Einblicke liefert und mithilfe von Daten die besten Geschäftsergebnisse erzielt. Wir bieten professionelle Dienstleistungen in den Bereichen Data Governance, Cloud Architecture, Data Engineering, Data Insights und mehr. Unsere Mission ist es, die Art und Weise, wie Menschen mit Daten arbeiten, zu transformieren.
+ Wir suchen einen deutschsprachigen Consultant (m/d/w) in Bereich Data Engineering – einen Generalisten, der sich in verschiedenen Technologien sicher bewegt und eigenständig arbeitet. Die Position ist vollständig remote und deutschlandweit angesiedelt – mit minimalen Vor-Ort-Terminen beim Kunden (z. B. nur zum Projekt Kickoff).
+ Du arbeitest an abwechslungsreichen, überschaubaren Projekten, bei denen Agilität und Eigenverantwortung gefragt sind – kein starres Korsett, sondern echtes Engineering.
+ Deine Aufgaben: 
+ Design, Entwicklung und Verwaltung von End-to-End-Engineering – von Datenmodellen bis hin zu Pipelines
+ Aufbau und Optimierung der Dateninfrastruktur mit Tools wie Snowflake, Databricks, Microsoft Fabric, DBT, Alteryx oder ähnlichen Plattformen 
+ Entwicklung von BI-Lösungen mit Tableau, Power BI oder ThoughtSpot 
+ Zusammenarbeit mit Stakeholdern zur Erfassung von Anforderungen und Umsetzung pragmatischer Lösungen
+ Sicherstellung von Datenqualität und Einführung von Best Practices
+ Mitarbeit an datengetriebenen Strategien – auch im Bereich ML/AI
+ Fachliche Kompetenzen: 
+ 2+ Jahre Erfahrung als Data Engineer – du kennst den gesamten Prozess von der Datenquelle bis zum fertigen Produkt
+ Solide Kenntnisse in Python, SQL und Alteryx – das ist deine tägliche Basis
+ Erfahrung mit Snowflake, DBT, Matillion, Fivetran oder Microsoft Fabric ist ein klares Plus 
+ Du kommunizierst klar und sicher – mit Kunden genauso wie im Team
+ Proaktive, eigenverantwortliche Arbeitsweise
+ Fließende Deutsch- und Englischkenntnisse auf professionellem Niveau – beides ist ein Muss
+ Was dich bei uns erwartet: 
+ Internationale Projekte mit modernsten Data-Tools – wirklich das Beste, was die Branche zu bieten hat
+ Flexible Arbeitszeiten und Remote-Arbeit aus ganz Deutschland möglich
+ Pluxee, JobRad, großzügiges jährliches Weiterbildungsbudget und transparente Bonusstruktur 
+ Zertifizierungsmöglichkeiten während deiner gesamten Zeit bei uns
+ AI-freundlich by default – wir experimentieren, bleiben up-to-date und sehen AI als echten Arbeitspartner
+ Kontinuierliche Weiterbildung und Entwicklung, damit deine Skills immer scharf bleiben
+ Ein vielfältiges, globales Team aus sympathischen Datenexperten, die wirklich gut miteinander auskommen
+ Eine Unternehmenskultur, die wirklich gelebt wird – echte Zusammenarbeit, gegenseitige Unterstützung und Spaß
+ Sportbegeistert? Bei uns bist du in bester Gesellschaft 🏃

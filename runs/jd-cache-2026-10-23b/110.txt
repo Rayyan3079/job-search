@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4481912145
+TITLE: Werkstudent Industrielle Bildverarbeitung & Prozessautomatisierung (m/w/x/d)
+COMPANY: Mercedes-Benz Tech Innovation
+LOC: Stuttgart, Baden-Württemberg, Germany
+POSTED: 2026-10-23
+title: Werkstudent Industrielle Bildverarbeitung & Prozessautomatisierung (m/w/x/d)
+company: Mercedes-Benz Tech Innovation
+posted: 1 hour ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-industrielle-bildverarbeitung-prozessautomatisierung-m-w-x-d-at-mercedes-benz-tech-innovation-4481912145&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Jetzt bewerben!
+ Wir sind Mercedes-Benz Tech Innovation - doch wir bauen keine Autos: Wir definieren die Zukunft mit Technologie.
+ Als größte Tech Company der Mercedes-Benz Group AG arbeiten rund 2.500 Mitarbeitende in Ulm, im Raum Stuttgart, in Berlin und in Karlsruhe sowie in internationalen Tech Hubs an den Techniktrends der Mobilität von morgen.
+Uns verbindet die Begeisterung für Innovation und neueste Technologien – kombiniert mit der Überzeugung, dass individuelle Freiheit und Eigenverantwortung für echten Fortschritt entscheidend sind. Wir sind #techinnovators.
+ Mehr über uns erfahren Über uns Mercedes-Benz Tech Innovation GmbH
+Welche Aufgaben erwarten dich bei uns?
+ Du entwickelst und optimierst innovative Bildverarbeitungslösungen für den industriellen Einsatz mit HALCON.
+ Du analysierst visuelle Prüfaufgaben in Produktionsumgebungen und entwickelst hierfür passgenaue technische Lösungen.
+ Du betreust bestehende Bildverarbeitungssysteme, überwachst deren Performance und entwickelst sie kontinuierlich weiter.
+ Mit Python entwickelst du Automatisierungs- und Prozessoptimierungslösungen, die Abläufe effizienter gestalten.
+ Du erstellst Tools und Skripte, die den Rollout und die Umsetzung von Optimierungen vereinfachen.
+ Du entwickelst Auswertungs- und Analysetools, um visuelle Prüfprozesse gezielt zu bewerten und weiterzuentwickeln.
+ Du wirkst bei der Einführung neuer Technologien und Methoden rund um Bildverarbeitung und Deep Learning mit.
+ Du erkennst Verbesserungspotenziale in Prozessen und Systemen und setzt geeignete Optimierungsmaßnahmen aktiv um.
+ Wie passt du in unser Team?
+ Kleiner Tipp
+ Aufgrund der Vielzahl eingehender Bewerbungen können wir im weiteren Auswahlprozess ausschließlich vollständige und aussagekräftige Unterlagen berücksichtigen.
+ Du hast ein abgeschlossenes Studium der Informatik, Technischen Informatik, Mechatronik, Elektrotechnik, des Maschinenbaus oder eine vergleichbare Qualifikation.
+ Du bringst erste praktische Erfahrung in der Softwareentwicklung mit und hast bereits mit Python gearbeitet.
+ Du verfügst über ein Grundverständnis der digitalen Bildverarbeitung und Kameratechnik und möchtest dein Wissen in diesem Bereich weiter vertiefen. Erfahrungen mit HALCON, OpenCV oder vergleichbaren Bildverarbeitungsbibliotheken sind von Vorteil. HALCON-Kenntnisse sind jedoch keine Voraussetzung, die notwendigen Grundlagen können im Rahmen der Tätigkeit vermittelt werden.
+ Du hast erste Kenntnisse im Bereich Deep Learning, idealerweise im Zusammenhang mit Bildverarbeitung und visuellen Anwendungen.
+ Idealerweise hattest du bereits Berührungspunkte mit industrieller Fertigung, Fahrzeugtechnik, Maschinenbau oder Automatisierungstechnik.
+ Der Umgang mit Versionsverwaltungssystemen wie Git ist dir in Grundzügen bereits vertraut.
+ Du arbeitest analytisch und strukturiert, bringst Eigeninitiative mit und hast Freude daran, eigene Ideen und Verbesserungsvorschläge einzubringen und umzusetzen.
+ Gute Deutsch- und Englischkenntnisse runden dein Profil ab.
+ Benefits
+ Flexible Arbeitsgestaltung
+ Damit neben Studium und Arbeit noch genügend Freizeit bleibt, bekommst du bei uns anteilig 30 Urlaubstage sowie die Möglichkeit, deine Arbeitszeiten flexibel zu planen. In Abstimmung mit deinem Team und deinem Ansprechpartner hast du auch die Möglichkeit, remote zu arbeiten . Zudem sind nahezu alle unsere Stellen geeignet, um in Teilzeit ausgeführt zu werden.
+ Mittendrin statt nur dabei
+ Du begleitest innovative Projekte am Puls der Zeit und übernimmst verantwortungsvolle Aufgaben, so bist du von Beginn an ein vollwertiges Mitglied unseres Teams! Natürlich profitierst du hierbei von einem attraktiven Gehalt .
+ Begegnung auf Augenhöhe
+ Bei Mercedes-Benz Tech Innovation sind wir ein Team! Unsere Zusammenarbeit basiert auf gegenseitigem Vertrauen und Respekt. Flache Hierarchien , eine wertschätzende Atmosphäre , Offenheit und Aufgeschlossenheit gehören bei uns zum Arbeitsalltag. Damit dein Start bei uns gelingt, erhältst du eine individuelle Einarbeitung und einen direkten Ansprechpartner .

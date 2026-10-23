@@ -1,0 +1,45 @@
+URL: https://www.linkedin.com/jobs/view/4480891095
+TITLE: Trainee AI Engineer (m/w/d)
+COMPANY: statworx
+LOC: Frankfurt am Main, Hesse, Germany
+POSTED: 2026-10-18
+title: Trainee AI Engineer (m/w/d)
+company: statworx
+posted: 5 days ago
+applicants: 149 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Ftrainee-ai-engineer-m-w-d-at-statworx-4480891095&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Über uns
+statworx ist ein führendes Beratungs- und Entwicklungsunternehmen für Daten und KI mit Sitz in Frankfurt am Main. Wir bieten strategische Beratung für mittelständische Unternehmen und globale Konzerne. Wir entwickeln innovative Daten- & KI-Lösungen für alle Unternehmensbereiche und Tätigkeitsfelder. Wir befähigen Menschen auf allen Kompetenzniveaus mit unseren Daten- & KI-Bildungsformaten. Kurz gesagt: Wir unterstützen Unternehmen bei allen Aspekten der digitalen Transformation – seit mehr als 10 Jahren, in über 1.000 Daten- & KI-Projekten und für über 100 Kunden aus fast allen Industrien.
+Unsere AI Development-Abteilung agiert als Katalysator für Data & AI Transformation. Dabei setzen wir auf eine ganzheitliche Herangehensweise, die von der initialen Evaluierung der KI-Reife über die Konzeption und Ausarbeitung der Daten- und KI-Lösung bis hin zur praktischen Umsetzung und Skalierung von KI-Lösungen reicht. Durch unsere tiefgehende Expertise in Data Engineering, Data Science, Machine Learning sorgen wir dafür, dass unsere Kunden den maximalen Nutzen aus ihren Daten ziehen.
+Für unsere AI Development-Abteilung suchen wir Trainees, die wir innerhalb eines Jahres gezielt auf ihre zukünftige Rolle als Junior-Berater:innen mit Schwerpunkt Data Science vorbereiten. Detaillierte Informationen zu unserem Traineeprogramm findest du hier.
+Deine Aufgaben
+ Fokus: Hands-on-Arbeit mit NLP- und Generative-AI-Systemen in Kundenprojekten
+ Als Teil unserer Projektteams wirst du generative KI- & NLP-Lösungen entwerfen und regelmäßig engen Kontakt zu unseren Kunden und verschiedenen Stakeholdern haben
+ Du agierst als Entwickler:in und beschäftigst dich mit verschiedenen NLP Use Cases wie z.B. Knowledge Management mit Retrieval Augmented Chatbots oder Fine-Tuning von Sprachmodellen
+ Du implementierst robuste, erweiterbare und leistungsstarke ML-Pipelines auf verschiedenen Infrastrukturen (z.B. Azure) gemäß aktuellen Best-Practices 
+ Du unterstützt bei der Entwicklung von Produkten und der Weiterentwicklung unseres Angebotsportfolios und wirkst an der Erstellung von Marketing-Content mit
+ Du bist auf dem aktuellen Stand bezüglich der neusten Entwicklungen im Bereich NLP und KI (z.B. zu Repositories, Methoden, Tools, Paper)
+ Du unterstützt unsere (Senior-)Berater:innen bei ihrer täglichen Arbeit, z.B. bei der Vorbereitung von Kundenmeetings und Präsentationen
+ Dein Profil
+ Du hast einen Bachelor- oder Masterabschluss, vorzugsweise in Data Science, BWL/VWL, Statistik, Informatik oder Wirtschaftsinformatik
+ Du hast bereits praktische Erfahrungen im Bereich Data Science gesammelt sowie im Consulting
+ Du verfügst über umfangreiche Kenntnisse im Bereich Machine Learning & Deep Learning, insbesondere in Bezug auf Transformer, LLMs und generative KI
+ Du hast bereits Erfahrungen im Umgang mit gängigen NLP-Tools und Methoden, wie HuggingFace Transformers, OpenAI APIs, Tokenizer sowie in der Nutzung von ML-Frameworks (z.B. PyTorch) sammeln können
+ Du bringst idealerweise Erfahrungen mit Cloud-Deployments und ML Ops, z.B. auf Azure, GCP oder AWS
+ Du bist kommunikationsstark, bringst sehr gute Deutsch- und Englischkenntnisse mit (mind. C2) und bist in der Lage, komplexe Sachverhalte zielgruppengerecht aufzubereiten und wiederzugeben
+ Darüber hinaus zeichnest du dich durch deine Zuverlässigkeit sowie gründliche und strukturierte Arbeitsweise aus
+ Du hast Freude an gelegentlichen Dienstreisen zu unseren Kunden vor Ort in DE/AT/CH
+ Das bieten wir Dir
+ Data & AI im Kern: Dich erwarten vielfältige und anspruchsvolle Projekte mit namhaften Kund:innen aus unterschiedlichen Branchen – von datengetriebenen Lösungen bis hin zu innovativen KI-Anwendungen
+ Fachliche Vielfalt & Entwicklung: Du arbeitest an komplexen, abwechslungsreichen Fragestellungen und baust dabei kontinuierlich deine Expertise in deinem Fachgebiet sowie im Umfeld von Data & AI aus
+ Professionelle Weiterentwicklung: Wir fördern deine methodische, fachliche und persönliche Entwicklung – durch regelmäßiges Feedback, individuelle Förderung, Weiterbildungsangebote und unser Mentoring-Programm
+ Kultur & Zusammenarbeit: Dich erwartet ein offenes, diverses und wertschätzendes Arbeitsumfeld mit flachen Hierarchien, kurzen Entscheidungswegen und einem starken Teamgefühl
+ Moderne Arbeitsweise: Wir leben eine iterative, moderne Arbeitskultur mit klarer Kommunikation, Eigenverantwortung und Raum für neue Ideen und Gestaltungsmöglichkeiten
+ Transparente Vergütung: Wir bieten faire, strukturierte und nachvollziehbare Gehaltsstufen, die regelmäßig an Markt- und Leistungsentwicklungen angepasst werden
+ Flexibles Arbeiten: Unser modernes Office in Frankfurt ist dein zentraler Arbeitsort – gleichzeitig hast du die Möglichkeit, regelmäßig remote zu arbeiten und bis zu vier Wochen pro Jahr aus dem EU-Ausland zu arbeiten
+ Mobilität & Gesundheit: Profitiere von einem ermäßigten Deutschlandticket und vergünstigtem Zugang zu Sport- und Wellnessangeboten über Wellpass
+ Ausstattung & Extras: Hochwertiges IT-Equipment (z. B. MacBook Pro), regelmäßige Team-Events sowie zusätzliche Leistungen wie Kinderbetreuungszuschüsse und attraktive Mitarbeiterrabatte runden dein Gesamtpaket ab
+ Deine Bewerbung
+Bewirb Dich einfach über das Bewerbungsformular und hänge Deinen aktuellen Lebenslauf samt Darstellung deiner Methodenkenntnisse an. Wir werden uns anschließend umgehend bei Dir melden. Bei Fragen rund um Deine Bewerbung erreichst Du uns unter jobs@statworx.com.
+Was für uns besonders wichtig ist: Wir schätzen die Einzigartigkeit jedes Menschen und begegnen einander stets auf Augenhöhe. Unterschiedliche Hintergründe, Einstellungen und Ideen bereichern uns und bilden die Grundlage unseres Erfolgs. Daher freuen wir uns über jede Bewerbung – unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion, Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität.

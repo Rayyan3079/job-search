@@ -1,0 +1,62 @@
+URL: https://www.linkedin.com/jobs/view/4471326886
+TITLE: (Junior) Growth Analyst (m/w/d)
+COMPANY: DrAnsay
+LOC: Germany
+POSTED: 2026-09-28
+title: (Junior) Growth Analyst (m/w/d)
+company: DrAnsay
+posted: 3 weeks ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fjunior-growth-analyst-m-w-d-at-dransay-4471326886&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Über DrAnsay 
+ DrAnsay wurde 2018 gegründet und gehört heute zu den führenden digitalen Gesundheitsplattformen in Deutschland. Als digitales HealthTech-Unternehmen verbinden wir Patient:innen, Ärzt:innen und Apotheken und entwickeln technologische Lösungen, die Gesundheitsversorgung einfacher, schneller und zugänglicher machen. Mehr als 1 Million Patient:innen nutzen unsere Plattform bereits. Unser Anspruch ist klar: digitale Medizin so zu gestalten, dass sie im Alltag wirklich funktioniert.
+ Wir arbeiten schnell, direkt und mit viel Eigenverantwortung. Wer zu uns kommt, übernimmt nicht einfach nur eine bestehende Rolle, sondern gestaltet Strukturen, Prozesse und Entscheidungen aktiv mit.
+ Warum es diese Rolle gibt 
+ DrAnsay wächst über mehrere Produkte, Storefronts und Marketingkanäle. Neue Kampagnen, Landingpages und Produktänderungen entstehen bei uns schnell. Die Frage, was davon wirklich funktioniert, beantwortet heute niemand systematisch: Unsere Product Manager werten ihre Daten teilweise selbst aus, jeweils für ihren Bereich. Ein übergreifender Blick über Seiten, Produkte, Quellen und Nutzerverhalten fehlt.
+ Die Position wird neu geschaffen, um diese Lücke zu schließen. Du lieferst Product und Marketing die Zahlen, auf deren Basis sie entscheiden, und schaust dabei nicht durch die Brille eines einzelnen Teams.
+ Das ist keine Rolle für Tracking-Setup oder große Strategieprojekte. Du arbeitest nah an den Fragen aus dem Alltag, oft kurzfristig, und lieferst Antworten, mit denen die Teams direkt weiterarbeiten können.
+ Deine Rolle 
+ Du bist die Ansprechperson für Growth-Analysen bei DrAnsay: von der Performance einzelner Landingpages und Anzeigen über Conversion Rates je Produkt bis zu der Frage, woher unsere besten Nutzer:innen kommen. Dein Schwerpunkt liegt auf Product, Marketing ist die zweite wichtige Schnittstelle.
+ Dein Ziel in den nächsten Monaten ist es, verlässliche Dashboards aufzubauen, auf die sich alle beziehen: für die Performance unserer Landingpages, für Conversions in den verschiedenen Storefronts und für Marketing mit sauberer Aufteilung nach Kanälen. Marketing soll diese Dashboards zunehmend selbst nutzen können, du machst das möglich.
+ Genauso wichtig ist uns dein neutraler Blick. Du sagst auch dann klar, was die Daten zeigen, wenn eine Kampagne oder ein Produkt nicht so läuft wie erhofft, und du merkst, wenn eine Zahl nicht plausibel ist.
+ Du berichtest direkt an unseren Head of Data und arbeitest eng mit Product, Marketing und unserem Data-Team zusammen. Das Tracking-Setup verantwortet eine erfahrene Kollegin aus dem Data-Team, du arbeitest mit den vorhandenen Daten.
+ Wenn du SQL mitbringst, kommst du bei manchen Fragen schneller und tiefer an die Daten. Das ist eine Option, keine Voraussetzung.
+ Was du konkret machst 
+ Die Performance unserer Landingpages analysieren und zeigen, welche Seiten und Produkte besonders gut funktionieren
+ Conversion Rates über unsere Produkte und Storefronts hinweg auswerten und herausfinden, wo Nutzer:innen abspringen
+ Untersuchen, über welche Quellen gut konvertierende und wiederkehrende Nutzer:innen zu uns kommen
+ Marketingkampagnen und einzelne Anzeigen auswerten, inklusive Last-Click-Analysen über alle Produkte, und Marketing zeigen, was funktioniert und was nicht
+ Analysen für neue Kampagnen aufsetzen, sobald diese starten
+ Growth-Dashboards aufbauen und pflegen, zum Beispiel in PostHog, und Marketing dabei unterstützen, Self-Service-Dashboards selbst zu nutzen
+ Ad-hoc-Anfragen aus Product und Marketing schnell beantworten und unseren Product Managern operative Analysearbeit abnehmen
+ Daten auf Plausibilität prüfen und Auffälligkeiten melden, bevor daraus falsche Schlüsse gezogen werden
+ Das brauchst du 
+ Praktische Erfahrung mit Growth-, Product- oder Marketing-Analytics: Du hast bereits selbst Analysen oder Dashboards in einem Tool wie Google Analytics (GA4), PostHog, Mixpanel oder Amplitude erstellt, nicht nur Reports anderer gelesen
+ Rund zwei Jahre Berufserfahrung, zum Beispiel als Growth-, Product-, Marketing- oder Data Analyst
+ Sicherer Umgang mit Growth-Kennzahlen wie Conversion Rate, ROAS, Last-Click-Attribution sowie Kampagnen- und Produktmetriken. Du erkennst selbst, ob eine Anzeige, Kampagne oder Landingpage gut läuft
+ Erfahrung darin, Dashboards zu bauen, die andere im Alltag tatsächlich nutzen
+ Du arbeitest dich eigenständig durch Daten, auch wenn nicht alles dokumentiert ist, und merkst, wenn etwas nicht stimmt
+ Du priorisierst Anfragen schnell und erklärst Ergebnisse so, dass Product und Marketing damit arbeiten können
+ Technisches Grundverständnis und Offenheit für KI-gestützte Arbeitsweisen. Programmierkenntnisse brauchst du nicht
+ Deutsch auf muttersprachlichem Niveau, weil du eng mit unseren Teams zusammenarbeitest, sowie gute Englischkenntnisse für die Zusammenarbeit im Unternehmen
+ Du kannst die Tätigkeit dauerhaft aus Deutschland ausüben und verfügst zum Start über die hierfür erforderliche Arbeitserlaubnis [bei Hybrid ergänzen: „und regelmäßig in Berlin vor Ort sein“] 
+ Die Rolle ist bewusst nah am Tagesgeschäft: Viele Fragen kommen kurzfristig, und eine schnelle, belastbare Antwort ist oft wichtiger als die perfekte Analyse. Das sollte für dich ein Plus sein, kein Kompromiss
+ Das fällt positiv auf 
+ SQL- oder Python-Kenntnisse, auch auf Grundlagenniveau
+ Erfahrung mit der Auswertung von A/B-Tests
+ Grundverständnis dafür, wie Tracking funktioniert, zum Beispiel über Google Tag Manager
+ Erfahrung in einem Start-up, E-Commerce- oder Digital-Health-Unternehmen mit Produkten für Endkund:innen
+ Ein Studium mit wirtschaftlichem oder quantitativem Schwerpunkt
+ Was wir bieten 
+ Vollzeit und unbefristet, Start ab November 2026
+ 100% Remote: Du arbeitest aus Deutschland, , ohne Standortbindung
+ Klarer Fokus: Das Tracking-Setup liegt im Data-Team, du konzentrierst dich auf Analysen und Dashboards
+ Sichtbare Wirkung: Deine Analysen fließen direkt in Entscheidungen zu Kampagnen, Landingpages und Produkten ein
+ Direkter Draht zu Product, Marketing und unserem Head of Data
+ Kleines Team mit kurzen Wegen, Low-Ego-Kultur und direktem Feedback
+ Ein Produkt mit realem Nutzen: Wir helfen täglich Menschen, Gesundheitsversorgung einfacher zu bekommen
+ Wie du dich bewirbst 
+ Bewirb dich direkt über das Bewerbungsformular. Kein Anschreiben erforderlich, wir stellen dir einige kurze Fragen, die uns helfen zu verstehen, wie du arbeitest. Diese Antworten sind uns wichtiger als dein LinkedIn-Profil.
+ Du hörst von uns innerhalb von fünf Arbeitstagen. 
+ DrAnsay ist ein chancengleicher Arbeitgeber. Bewerbungen werden auf Basis von Qualifikationen und Berufserfahrung bewertet. Alle Bewerbenden werden unabhängig von Alter, Geschlecht, Herkunft, Behinderung, Religion oder anderen geschützten Merkmalen berücksichtigt. DrAnsay verarbeitet die mit deiner Bewerbung übermittelten personenbezogenen Daten zur Durchführung des Recruitingprozesses.

@@ -1,0 +1,40 @@
+URL: https://www.linkedin.com/jobs/view/4478678298
+TITLE: Werkstudent Data Analytics & Business Intelligence (m/w/d)
+COMPANY: Schleswig-Holstein Netz GmbH
+LOC: Quickborn, Schleswig-Holstein, Germany
+POSTED: 2026-10-20
+title: Werkstudent Data Analytics & Business Intelligence (m/w/d)
+company: Schleswig-Holstein Netz GmbH
+posted: 3 days ago
+applicants: 49 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-data-analytics-business-intelligence-m-w-d-at-schleswig-holstein-netz-gmbh-4478678298&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Schleswig-Holstein Netz
+ Die Schleswig-Holstein Netz GmbH betreibt für rund 2,8 Millionen direkt oder indirekt angeschlossene Kunden Strom- und Gasleitungen in mehr als 900 Kommunen in Schleswig-Holstein. Zusätzlich bieten wir technische Dienstleistungen im Bereich Strom und Gas an, zum Beispiel den Bau und Betrieb von Umspannwerken oder Trafostationen mit passenden Services. Wir sind Teil der HanseWerk-Gruppe – einem der größten Energiedienstleister Norddeutschlands mit mehr als 2.300 Mitarbeiterinnen und Mitarbeitern an verschiedenen Standorten. Werde Teil unseres engagierten Teams und gib gemeinsam mit uns volle Power für die Energiezukunft im Norden!
+Als Werkstudent Data Analytics & Business Intelligence (m/w/d) unterstützt du unser Team dabei, Daten nutzbar zu machen, Prozesse zu automatisieren und wichtige Kennzahlen transparent aufzubereiten. Dabei sammelst du wertvolle Praxiserfahrung im Bereich Data Analytics, Business Intelligence und Prozessoptimierung und arbeitest eng mit Fachbereichen, Führungskräften und IT-Teams zusammen.
+ Deine Aufgaben
+ Du unterstützt bei der Analyse, Aufbereitung und Strukturierung von Daten aus unterschiedlichen Quellen (SQL).
+ Du wirkst bei der Erstellung und Weiterentwicklung von Power-BI-Dashboards und Reports mit und hilfst dabei, relevante Kennzahlen verständlich darzustellen.
+ Du unterstützt den Aufbau und die Pflege von Datenmodellen sowie die Datenaufbereitung in Databricks.
+ Du analysierst bestehende Prozesse und identifizierst Potenziale für digitale Lösungen und Automatisierungen.
+ Du arbeitest bei der Entwicklung einfacher Anwendungen und Workflows mit Power Apps und Power Automate mit.
+ Du unterstützt bei der Erstellung von Auswertungen für Performance- und Steuerungsgespräche.
+ Du hilfst dabei, Datenqualität und Transparenz zu verbessern und trägst dazu bei, eine datengetriebene Arbeitsweise im Unternehmen zu stärken.
+ Du unterstützt bei Projekten im Bereich Process Mining, Analytics und Reporting, beispielsweise mit Celonis oder vergleichbaren Lösungen.
+ Du recherchierst neue Technologien, Methoden und Best Practices im Umfeld von Data Analytics, Automatisierung und Business Intelligence.
+ Dein Profil
+ Du bist immatrikuliert und studierst Wirtschaftsinformatik, Data Analytics, Informatik, Wirtschaftsingenieurwesen, BWL mit Analytics-Schwerpunkt oder einen vergleichbaren Studiengang.
+ Du verfügst über sehr gute Deutschkenntnisse (mindestens C1-Niveau), um komplexe Sachverhalte verständlich aufzubereiten und sicher mit unterschiedlichen Ansprechpartnern zusammenzuarbeiten.
+ Du hast Spaß daran, Daten zu analysieren, Zusammenhänge zu erkennen und daraus Erkenntnisse abzuleiten.
+ Idealerweise hast du bereits erste Berührungspunkte mit Power BI, SQL, der Microsoft Power Platform oder vergleichbaren Daten- und Automatisierungslösungen gesammelt.
+ Du arbeitest strukturiert, eigenverantwortlich und bringst gerne eigene Ideen ein.
+ Du denkst analytisch, lösungsorientiert und hast Freude daran, dich in neue Themen einzuarbeiten.
+ Du kommunizierst offen und arbeitest gerne mit unterschiedlichen Menschen und Fachbereichen zusammen.
+ Vielleicht hast du sogar schon erste Erfahrungen mit Datenplattformen (Databricks, Python), Visualisierungslösungen (Grafana, Tableau) und Process-Mining-Tools (Celonis) 
+ Unsere Benefits
+ Transparente Vergütung: Als Werkstudent startest du bei uns mit einem Stundenlohn von 16,92 €. Als Praktikant erhältst du sowohl bei Pflicht- als auch bei freiwilligen Praktika eine Vergütung von 1.624 € pro Monat.
+ Praxiserfahrung: Bei uns kannst du dein theoretisches Wissen in der Praxis anwenden und wertvolle Erfahrungen für deinen Berufseinstieg sammeln.
+ Flexibilität: Als Werkstudent arbeitest du während des Semesters bis zu 20 Stunden pro Woche. Arbeitszeit und -ort stimmst du flexibel mit deinem Team ab. Als Praktikant hast du eine 37-Stunden-Woche und ebenfalls die Möglichkeit, mobil zu arbeiten.
+ Entwicklung: Du kannst deine Abschlussarbeit bei uns schreiben. Nach dem Studium kannst du spannende Einstiegsmöglichkeiten finden.
+ Gesundheit: Ob Betriebssport, sportliche Events oder ausgewogene Ernährung in unserer Kantine – dein persönliches Wohlbefinden ist uns wichtig.
+ Offenheit & Teamgeist: Unsere Unternehmenskultur lebt von offenem Miteinander, aktiver Zusammenarbeit und einer Begeisterung für das, was wir tun.

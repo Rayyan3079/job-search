@@ -1,0 +1,49 @@
+URL: https://www.linkedin.com/jobs/view/4480513773
+TITLE: Flexikum Technical Consultant - ServiceNow Agentic AI Solutions
+COMPANY: T-Systems International
+LOC: Saarbrücken, Saarland, Germany
+POSTED: 2026-10-16
+title: Flexikum Technical Consultant - ServiceNow Agentic AI Solutions
+company: T-Systems International
+posted: 6 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fflexikum-technical-consultant-servicenow-agentic-ai-solutions-at-t-systems-international-4480513773&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Flexikum bei der Telekom
+ Du willst trotz vollem Studienplan früh Praxiserfahrung sammeln ohne die Regelstudienzeit zu verlängern? Mit dem Flexikum ist das möglich! Durch seine zeitliche Flexibilität erlaubt es Praxiserfahrung neben dem Studium!
+Mehr Infos zum Thema Flexikum findest du unter: https://www.telekom.com/flexikum
+ T-Systems International GmbH
+ Bei T-Systems bieten wir unseren Geschäftskunden die richtigen Systemlösungen für ihr digitales Business. Mit unserem Portfolio stellen wir sicher, dass digitale Transformation Komplexität reduziert, Kosten einspart und die alltägliche Arbeit erleichtert. Unsere Schwerpunkte sind Konnektivität, Digital, Cloud & Infrastruktur sowie Sicherheit - Let's power higher performance!
+ Deine Aufgaben
+ Als Flexikant (m/w/d) absolvierst du dein freiwilliges Praktikum und profitierst von einer attraktiven Vergütung und flexiblen Arbeitszeiten. Du unterstützt das Team ab dem 01.12.2026 bei folgenden verantwortungsvollen Aufgaben:
+ Innovative Lösungen entwickeln: Konzeption und Implementierung von agentenbasierten KI-Workflows auf Basis von ServiceNow, LLMs und dem Model Context Protocol (MCP)
+ Integration & Schnittstellen: Anbindung externer Datenquellen und KI-Dienste über REST APIs sowie Erstellung maßgeschneiderter Skripte in JavaScript und Python
+ Prompt Engineering & KI-Optimierung: Entwicklung und Verfeinerung effektiver Prompts, um präzise, kontextbezogene und verlässliche Ergebnisse sicherzustellen
+ Zusammenarbeit im Team: Enge Abstimmung mit erfahrenen Consultants und Entwicklern zur Umsetzung praxisnaher Use Cases für reale Geschäftsanforderungen
+ Nutze dein Flexikum, um wertvolle Praxiserfahrung an der Schnittstelle von Cloud-Plattformen und Spitzen-KI zu sammeln und den Weg in deine berufliche Zukunft zu ebnen
+ Must-Have Skills
+ ServiceNow-Grundlagen: Erstes Verständnis der Plattformarchitektur oder starke Motivation zur Einarbeitung in ServiceNow
+ Agentic AI & Generative KI: Großes Interesse an LLMs, autonomen KI-Agenten und modernen Konzepten wie dem Model Context Protocol (MCP).
+ Programmierkenntnisse: Solide Grundlagen in JavaScript oder Python zur Entwicklung und Skript-Erstellung
+ Schnittstellen & Integration: Basiswissen rund um REST APIs und den Datenaustausch zwischen Systemen
+ Prompt Engineering: Erste praktische Erfahrungen im gezielten Formulieren und Optimieren von KI-Prompts
+ Analytisches Denkvermögen: Strukturierte Herangehensweise an technische Problemstellungen und komplexe Workflows
+ Team- und Kommunikationsstärke: Ausgeprägte Teamfähigkeit sowie sehr gute Deutsch- und gute Englischkenntnisse für die Zusammenarbeit
+ Nice-to-Have
+ Erste praktische Berührungspunkte mit der ServiceNow-Plattform (z. B. Now Platform, Flow Designer, ServiceNow Otto & AICT, o.vgl.)
+ Erfahrungen mit gängigen KI-Frameworks wie LangChain, LlamaIndex oder AutoGen
+ Grundkenntnisse im Umgang mit Git/GitHub und modernen Entwicklungs-Tools
+ Zertifizierungen im Cloud- oder KI-Umfeld (z. B. ServiceNow Certified System Administrator (CSA) oder Cloud-Grundlagen)
+ Freude am Experimentieren mit neuesten KI-Trends und autonomen Agenten-Systemen
+ Was wir bieten
+ Flexibles Arbeiten: Attraktives Flexikum-Modell mit flexiblen Arbeitszeiten und der Möglichkeit zum mobilen Arbeiten / Homeoffice
+ Spannende Zukunftsthemen: Direkte Mitarbeit an innovativen Projekten im Bereich Generative AI, ServiceNow und modernsten KI-Agenten
+ Steile Lernkurve & Mentoring: Persönliche Betreuung durch erfahrene Berater*innen sowie Raum für deine eigenen Ideen
+ Moderne Arbeitsausstattung: State-of-the-Art Hardware und zeitgemäße Entwicklungsumgebungen
+ Netzwerk & Karrierechancen: Ausgezeichnete Vernetzungsmöglichkeiten im Unternehmen sowie beste Perspektiven für eine spätere Werkstudierendentätigkeit oder einen Festeinstieg
+ Offene Unternehmenskultur: Kollegiales Miteinander, Duz-Kultur und flache Hierarchien an unserem Standort in Saarbrücken
+ Diese Stelle ist auch in Teilzeit möglich.
+Schwerbehinderte Menschen werden bei gleicher Eignung vorrangig berücksichtigt.
+https://www.xing.com/companies/deutschetelekomag
+Deutsche Telekom | LinkedIn
+None None

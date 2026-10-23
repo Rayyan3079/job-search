@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Student assistant in the field of \"Media Distribution and Security\"",
+    "company": "Fraunhofer IDMT",
+    "city": "Ilmenau",
+    "date": "2026-10-23",
+    "greeting": "Dear Fraunhofer IDMT team,",
+    "opening": "I am applying for the Student Assistant position in Media Distribution and Security. Trustworthy AI and detecting manipulated media are among the most important applications of AI today, and contributing to this research at Fraunhofer IDMT, on my own campus, would be an ideal start alongside my M.Sc. at TU Ilmenau.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence, where I built computer vision and NLP projects in PyTorch. Before my Master's I worked as a Business Analyst at Tapal Tea and at TallyMarks Consulting, validating and reconciling data for company reporting.",
+    "achievements": [
+      {
+        "lead": "AI on images and video",
+        "impact": "I built a PyTorch retinal OCT image classifier with 94.11% accuracy and worked on a video analysis pipeline with EfficientNet-B0, EasyOCR and FFmpeg"
+      },
+      {
+        "lead": "Language models",
+        "impact": "in a team project I compared language-model and graph-based representations (BERT, GPT-2) for clustering text"
+      },
+      {
+        "lead": "Reliable delivery",
+        "impact": "in industry I built data pipelines and dashboards used daily across departments, with full documentation"
+      }
+    ],
+    "problems_section": "I would support your AI software projects with Python development, data preparation and model evaluation. The posting also names tools I have not used professionally yet, and I would learn them quickly; we could discuss in an interview where my strengths fit your current projects best.",
+    "closing": "I live and study in Ilmenau and am available immediately for up to 20 hours per week. I would be glad to discuss how I can contribute.",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-10-23/fraunhofer-idmt-student-assistant-media-security/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

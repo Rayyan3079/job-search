@@ -1,0 +1,45 @@
+URL: https://www.linkedin.com/jobs/view/4478241896
+TITLE: People Operations (m/f/d) - Master's Thesis 'AI-based Feedback Systems'
+COMPANY: Giant Swarm
+LOC: Cologne, North Rhine-Westphalia, Germany
+POSTED: 2026-10-19
+title: People Operations (m/f/d) - Master's Thesis 'AI-based Feedback Systems'
+company: Giant Swarm
+posted: 4 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpeople-operations-m-f-d-master-s-thesis-ai-based-feedback-systems-at-giant-swarm-4478241896&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+The Basics
+ Feedback is one of the most valuable things a team can give each other, and one of the hardest to get right. Too generic, too late, or never written down at all. We want to find out how AI can help people give better, more timely feedback, without taking the human out of it. That's where your master thesis comes in.
+Giant Swarm is a leading open-source infrastructure management platform used by modern enterprises worldwide. We've been fully remote for 10+ years, which means a lot of our collaboration and feedback happens in writing. That makes us a real-world lab for your research.
+ Your Job
+ Research the current state of AI-supported feedback in organisations: what works, what doesn't, and where the ethical lines are.
+ Analyse how feedback currently flows at Giant Swarm and where people get stuck.
+ Design and build a working prototype of an AI-based feedback system.
+ Test and evaluate your prototype with real users in our remote team.
+ Treat data privacy, transparency, and trust as core parts of the design, not as an afterthought.
+ What We Offer
+ A paid master thesis.
+ A real research question with real users and direct access to our People team.
+ Two company supervisors: Anna, our VP People, and one of our engineers, alongside your university supervisor.
+ Insights into how a fully remote, organised company works day to day.
+ Remote work, flexible start date, and flexible duration.
+ Thesis can be written in English or German.
+ Requirements
+ Currently enrolled in a master's programme in Business Administration, Information Systems, Human Resource Management, Human-Computer Interaction, Psychology, Organisational Psychology or a related field.
+ Strong interest in AI and how it changes the way people work together.
+ You enjoy working with no-code and AI tools.
+ Good analytical skills and experience with qualitative and/or quantitative research methods.
+ Excellent written and verbal communication skills in English.
+ Ability to work independently in a remote team.
+ Location: enrolled in Germany.
+ Salary Information
+ Compensation of €1,000 per month for the duration of your thesis.
+ About Us
+ Every new team member changes the team. We love to learn from each other and we are looking for people who know things we don’t.
+ Becoming part of Giant Swarm means that, by extension, you also become part of the Cloud Native community. We actively contribute to upstream projects and our quarterly hackathons will give you space to work on out-of-the-box projects. Occasionally, when we, as a team, want to fully focus on one project, we scratch all meetings and routines for a certain time to better focus during our hive-sprints.
+ Continuous learning is important to us - we foster this through bi-yearly personal development talks, a budget for training/certifications/coaching as well as regular feedback talks and workshops. Our teams are cross- functional and collaboration is key. 
+ Nothing crazy, but useful Basics: We currently operate on a 32 hour workweek (or 4 day workweek, you decide!). We don't count holidays but set a minimum number; You choose your own hard- and software; As a company that has almost, if not more, kids than employees, family-friendliness is crucial to us and paid parental leave is a no-brainer; We pay monthly perks that cover your costs for working remotely; We meet twice a year as an entire company and (if possible) see conferences as an important place to catch up with team members; We aim to be fully transparent (finance, salaries) unless it hurts people and trust you, based on this to make the best decisions
+ A note on the use of AI in our hiring process: real people read every application, no AI screening, no automated filters. We build tools, we use tools, we get excited about tools. We also know better than most that the best ones change what’s possible. What we’re looking for is how you really think, what you’ve built, and how you see the world. Using AI is fine - just don't miss the chance to let us get to know you. After all, humans are way more fun to meet at our onsites!
+ We failed in exactly describing our way to approach important company elements that can be described with ‘buzzwords’ such as agile mindset, cross-functional teams, self-organization, value of the individual or trust & teamwork. However, we truly care about them, we live them and we constantly iterate on them. Some snippets about how we do this are posted in our blog but by far not all of them.
+Important note: We are not hiring job descriptions. We hire humans. :) We welcome applications from everybody, regardless ethnic or national origin, religion, gender identity, sexual orientation or age. When you apply for a role at Giant Swarm, we will also consider you for other relevant roles, or ones that may come up in future if this one isn't a good fit at this time.

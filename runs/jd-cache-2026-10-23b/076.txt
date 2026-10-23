@@ -1,0 +1,54 @@
+URL: https://www.linkedin.com/jobs/view/4481577410
+TITLE: Working Student Revenue Operations and GTM Strategy
+COMPANY: Lucanet
+LOC: Berlin, Germany
+POSTED: 2026-10-20
+title: Working Student Revenue Operations and GTM Strategy
+company: Lucanet
+posted: 3 days ago
+applicants: 142 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-revenue-operations-and-gtm-strategy-at-lucanet-4481577410&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+The role and the team
+ As a Working Student Revenue Operations and GTM Strategy (all genders), you help build Lucanet's scalable revenue engine: keeping GTM data clean, building AI-powered workflows with Clay and Claude, and documenting the processes behind our B2B SaaS revenue. You work hands-on with Salesforce, HubSpot, Gong, and Chili Piper from day one and see how a modern RevOps function is run.
+You report into the Revenue Operations & GTM Strategy team within Revenue Architecture & Operations and work closely with RevOps, Deal Desk, and GTM leadership across Marketing, Sales, and Customer Excellence. Your work feeds directly into reporting, process design, and strategic projects such as territory design and our Bowtie operating model, and you work remotely from Germany. We look for people who keep growing, take real ownership, and lift the people around them.
+ What You'll Do
+ Support data collection, cleansing, and enrichment across our revenue technology stack, including Salesforce and HubSpot. 
+ Build and test AI-powered GTM workflows with Clay, Claude, Gong, and other automation tools. 
+ Prepare recurring reports, dashboards, and ad hoc analyses for GTM leadership. 
+ Support Deal Desk tasks and track key RevOps metrics across the Bowtie model. 
+ Document end-to-end GTM processes such as lead-to-close and territory handoffs in clear playbooks. 
+ Research RevOps frameworks, SaaS GTM benchmarks, and AI use cases, and turn findings into recommendations. 
+ Own clearly scoped sub-tasks in strategic projects and prepare materials for workshops, QBRs, and leadership briefings. 
+ What You Bring
+ You have:
+ Current enrolment in a Bachelor's or Master's program in Business Administration, Information Management, Data Science, or a related field. 
+ Hands-on comfort with spreadsheets, dashboards, and structured datasets, for example from university projects or an internship. 
+ A structured, detail-oriented way of working that produces clean, reliable outputs. 
+ Ownership of your tasks: you ask good questions, flag blockers early, and follow through. 
+ Fluent English, written and spoken. 
+ It's a plus if you also have:
+ First hands-on exposure to AI and automation tools such as Claude, ChatGPT, or Clay. 
+ First experience with GTM platforms such as Salesforce, HubSpot, Gong, or Chili Piper. 
+ A strong interest in B2B SaaS, GTM strategy, or revenue operations. 
+ Perks at work
+ Flexible and hybrid working: our Lucaflex model lets you plan your working hours and location according to your needs and professional responsibilities. 
+ Remote work from another country: work up to 90 days a year outside your home country, supported by our partner Workflex. 
+ Professional development budget: get dedicated time, resources, and budget to build the skills for your career path. 
+ Structured development process: quarterly catch-ups with your manager, built on clear expectations for impact, competence, and influence. 
+ Paid volunteer days: take the time to volunteer, alone or with your team, for causes you care about. 
+ Health and wellbeing support: access company wellbeing programs, sport subsidies, and mental health support through external partners. 
+ Paid vacation days: take 30 days a year to rest, travel, and recharge. 
+ Pension support: build your retirement savings with employer pension contributions. 
+ Health and sports support benefit: get additional support for your health and sports activities. 
+ Corporate benefits platform: get exclusive discounts across travel, retail, technology, and more. 
+ About Lucanet
+ Lucanet is the CFO solution platform for modern finance and tax teams, automating processes from consolidation and financial planning to tax compliance, ESG reporting, and cash management. More than 6,000 companies worldwide rely on our easy-to-use, out-of-the-box SaaS platform. We're PE-backed and growing across global markets. 
+Behind the platform is a global team of 900+ people who care about doing the work well. We challenge each other to move fast without cutting corners and build solutions that change how finance and tax leaders operate. If you want your work to have real reach, and your growth is important to you, Lucanet is the right place for you.
+Discover more about Lucanet as an employer.
+ Powered by uniqueness
+ Everybody is different here and we like it that way. We welcome people of every gender identity, sexual orientation, ethnicity, national origin, religion, age, and disability, exactly as they are. What you bring is what matters. If you need an adjustment to take part in our hiring process, let us know. See yourself in this role? We want to hear from you.
+Please keep your CV focused on your experience and skills, rather than including your photo, age or marital status.
+Learn more about our DE&I journey.
+ Data protection
+ Your personal data will be processed in accordance with GDPR requirements. Find out how we keep your data safe: Lucanet data protection policy.

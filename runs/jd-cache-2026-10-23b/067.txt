@@ -1,0 +1,29 @@
+URL: https://www.linkedin.com/jobs/view/4471371923
+TITLE: Junior SAP Data Analyst Inhouse (m/w/d)
+COMPANY: EDAG Group
+LOC: Fulda, Hesse, Germany
+POSTED: 2026-09-28
+title: Junior SAP Data Analyst Inhouse (m/w/d)
+company: EDAG Group
+posted: 3 weeks ago
+applicants: 87 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fjunior-sap-data-analyst-inhouse-m-w-d-at-edag-group-4471371923&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Daran werden Sie wachsen
+ Unterstützung unserer Fachbereiche bei der Aufbereitung, Analyse und Visualisierung von Daten
+ Mitarbeit an Reporting- und Analytics-Lösungen auf Basis von SAP BW/4HANA, SAP Analytics Cloud (SAC) und weiteren Datenquellen
+ Erstellung und Pflege von Reports, Dashboards, Queries und einfachen Datenmodellen unter Anleitung erfahrener Kolleginnen und Kollegen
+ Analyse fachlicher Anforderungen und Übersetzung in erste technische Lösungsvorschläge
+ Unterstützung bei der Sicherstellung von Datenqualität, Konsistenz und nachvollziehbarer Dokumentation
+ Mitarbeit in Projekten sowie Unterstützung bei Tests, Abnahmen und Implementierungen
+ Bearbeitung von Supportanfragen im Rahmen unserer IT-Service-Management-Prozesse
+ Vorbereitung von Schulungsunterlagen, Präsentationen und Anwenderdokumentationen
+ Schrittweiser Aufbau von Know-how in SAP Analytics, Reporting, Planung und datengetriebenen Geschäftsprozessen
+ Damit bringen Sie uns voran
+ Abgeschlossenes Studium der (Wirtschafts-)Informatik, Wirtschaftswissenschaften, Data Science oder eine vergleichbare Qualifikation
+ Erste Kenntnisse in Datenanalyse, Reporting oder Business Intelligence, idealerweise mit Bezug zu SAP BW/4HANA, SAP Analytics Cloud oder vergleichbaren BI-Tools
+ Grundkenntnisse in SQL, Datenmodellierung oder einer Programmiersprache sind von Vorteil
+ Motivation, Lernbereitschaft und Interesse daran, sich schrittweise in neue Analyse- und Reporting-Themen einzuarbeiten
+ Analytisches Denkvermögen, strukturierte Arbeitsweise und Freude daran, fachliche Fragestellungen mit Daten zu beantworten
+ Sehr gute Kommunikations- und Teamfähigkeit sowie die Bereitschaft, fachliche Prozesse und Zusammenhänge im betriebswirtschaftlichen Umfeld zu verstehen
+ Sehr gute Deutschkenntnisse auf C1-Niveau sowie gute Englischkenntnisse auf B2-Niveau in Wort und Schrift

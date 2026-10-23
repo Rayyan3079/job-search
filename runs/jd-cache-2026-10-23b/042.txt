@@ -1,0 +1,36 @@
+URL: https://www.linkedin.com/jobs/view/4475582852
+TITLE: Werkstudent/in (w/m/d) Informatik, Mathematik oder verwandte Fachrichtungen
+COMPANY: German Aerospace Center (DLR)
+LOC: Jena, Thuringia, Germany
+POSTED: 2026-10-07
+title: Werkstudent/in (w/m/d) Informatik, Mathematik oder verwandte Fachrichtungen
+company: German Aerospace Center (DLR)
+posted: 2 weeks ago
+applicants: 44 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-in-w-m-d-informatik-mathematik-oder-verwandte-fachrichtungen-at-german-aerospace-center-dlr-4475582852&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Der Schwerpunkt des DLR-Instituts für Datenwissenschaften in Jena liegt darin, Lösungen für die neuen Herausforderungen der Digitalisierungsära zu finden. Die Forschung konzentriert sich dabei auf die Bereiche Datenmanagement, Datenanalyse und Datengewinnung. Entsprechend der thematischen Ausrichtung des Instituts wurden drei Abteilungen eingerichtet.
+In der Abteilung Datenanalyse und -intelligenz werden Methoden entwickelt und angewandt, die die Analyse komplexer und großer Datensätze ermöglichen. Hier wird auf Verfahren des Maschinellen Lernens, der Kausalen Inferenz sowie domänenspezifisches Prozesswissen zurückgegriffen. Zur Steigerung des Technologietransferpotentials werden bei der Anwendungsentwicklung Human Factors wie Akzeptanz berücksichtigt.
+In der Arbeitsgruppe „Maschinelles Lernen“ erforschen und entwickeln wir innovative datengetriebene Methoden zur Datenanalyse und finden in Kooperation mit anderen DLR-Instituten Lösungen für praktische Anwendungsfälle mittels maschineller Lernverfahren.
+Wir bieten Ihnen im Rahmen unserer Arbeitsgruppe die Möglichkeit eine Abschlussarbeit oder eine studentische Tätigkeit im Bereich des Maschinellen Lernen, spezieller zu dem Thema Zeitreihenanalyse, Anomaliedetektion und Algorithmenentwicklung. Als Teil eines internationalen Teams ist es Ihre Aufgabe dabei zu helfen neue Methoden zu entwerfen, zu implementieren und zu evaluieren.
+Im Rahmen einer studentischen Tätigkeit erbringst du deine Arbeitsleitung in einem Umfang von bis zu 10 Stunden pro Woche. Die genaue Eingrenzung des Themas einer Abschlussarbeit erfolgt gemeinsam mit dir entsprechend deiner speziellen Qualifikationen und Erwartungen.
+ Deine Aufgaben
+ Literaturrecherchen zu den relevanten wissenschafltichen Methoden, Algorithmen und Arbeiten zur Schätzung von Windrichtung von Segelflugdaten, sowie Anomalieerkennung mit dem Ziel, neue experimentelle und theoretische Methoden kritisch zu bewerten und neue Ansätze bzw. Lösungsansätze für die eigene Arbeit abzuleiten
+ Explorative Datenanalyse zur Evaluierung von Datenqualität, Vollständigkeit, Konsistenz und zur Identifikation von potentiellen Datenvorarbeitungsschritten
+ Entwicklung robuster Workflows zur Datenverarbeitung und -analyse mittels Parsen, Bereinigen, Synchronisieren und Transformieren von Flug- und Sensordaten
+ Analyse der Datensätze zur Identifizierung von Mustern, Trends, Anomalien und weiteren Zusammenhängen
+ Entwurf, Implementierung und iterative Verfeinerung von prototypischen Algorithmen und Analysemethoden auf der Grundlage experimenteller Ergebnisse
+ Validierung und Test der entwickelten Methoden anhand verfügbarer Datensätze, Bewertung ihrer Genauigkeit und Robustheit
+ Dokumentation und Präsentation der Ergebnisse
+ Das bringst du mit
+ Laufendes Studium der Informatik, Mathematik, Data Science oder verwandten Fachrichtungen
+ Solide Programmierkenntnisse in Python und relevanten Bibliotheken wie NumPy, Pandas, SciPy, Matplotlib
+ Erste Kenntnisse aus den Bereich Datenanalyse, Statistik, Zeitreihenanalyse
+ Interesse an wissenschaftlicher Forschung sowie die Fähigkeit, strukturierte Literaturrecherchen durchzuführen und Forschungsarbeiten zu bewerten
+ Erste Erfahrung mit explorativer Datenanalyse, Datenvorverarbeitung und Visualisierung
+ Erste Erfahrungen mit Entwicklung, Testen und der Dokumentation wissenschaftlicher Software oder Datenanalyse-Pipelines
+ Gute Englischkenntnisse
+ Wir freuen uns darauf, dich kennenzulernen!
+ Fragen Zu Dieser Position (Kennziffer 6404) Beantwortet Dir Gerne
+ Prof. Christian Thiel 
+ Tel.: +49 3641 30960 128

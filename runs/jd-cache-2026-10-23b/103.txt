@@ -1,0 +1,46 @@
+URL: https://www.linkedin.com/jobs/view/4478602342
+TITLE: Working Student (f/m/d) – Software Engineering for ABAP Cloud Tooling
+COMPANY: SAP
+LOC: Walldorf, Baden-Württemberg, Germany
+POSTED: 2026-10-19
+title: Working Student (f/m/d) – Software Engineering for ABAP Cloud Tooling
+company: SAP
+posted: 4 days ago
+applicants: 36 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-f-m-d-%25E2%2580%2593-software-engineering-for-abap-cloud-tooling-at-sap-4478602342&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Description
+ What you´ll bring 
+ Student (f/m/d) at a university or a university of applied sciences
+ Preferred fields of study: computer science or related fields
+ Programming languages: proficiency in an object-oriented language (e.g. Java); knowledge of ABAP is a plus
+ Language skills: fluency in German and English
+ Structured approach to problem-solving
+ Openness to using AI tools as part of your daily workflow
+ Availability to join the team in the office in Walldorf on a regular basis
+ What You´ll Build
+ Are you a student looking to gain hands-on experience in a production cloud environment? Join our team and help shape the tools we rely on every day.
+Our team's mission is to bring git-based development processes to customers of ABAP Cloud offerings. This spans a broad range of topics and technologies — from a backend service developed and operated following DevOps practices, to contributions to continuous integration tools, to end-user-facing applications. On top of that, our work extends to Sovereign Cloud environments — which shapes how we approach development, operations, and tooling.
+ Your Responsibilities Include
+ Develop features across frontend and backend — used in production by internal operators and external customers
+ Work closely with experienced developers, including participation in code reviews and team discussions
+ Present your work to stakeholders
+ Create end-user documentation
+ Challenge existing solutions and propose alternative approaches when appropriate
+ Where you belong
+ You will join the Repository Management team, a diverse team of six developers with different cultural backgrounds. We value questioning existing habits, discussing different solutions, and being curious about the unknown.
+Additional Information
+ Your set of application documents should contain a cover letter, a resume in table form, school leaving certificates, certificate of enrollment, current university transcript of records, copies of any academic degrees already earned, and if available, references from former employers (including internships). Please also describe your experience and skills in foreign languages and computer programs / programming languages.
+ This is a SAP global, strategic, paid working student position that provides students with opportunities to find purpose in their careers.
+ #Workingstudent #Werkstudent #Germany #Deutschland #Student #SAPGermanStudentsCareers #SAPNextGen #SAPABAPCareers
+ About SAP
+ With a global network of customers, partners, employees, and thought leaders, SAP helps the world run better and improves people’s lives.
+As a leader in enterprise applications and business AI, SAP stands at the nexus of business and technology. For over 50 years, organizations have trusted SAP to bring out their best by uniting business-critical operations spanning finance, procurement, HR, supply chain, and customer experience.
+We win with inclusion
+SAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.
+SAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team: Careers@sap.com.
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+Qualified applicants will receive consideration for employment without regard to their age, race, religion, national origin, ethnicity, gender (including pregnancy, childbirth, et al), sexual orientation, gender identity or expression, protected veteran status, or disability, in compliance with applicable federal, state, and local legal requirements.
+AI Usage in the Recruitment Process
+For information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.
+Please note that any violation of these guidelines may result in disqualification from the hiring process.

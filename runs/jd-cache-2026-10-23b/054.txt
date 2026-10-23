@@ -1,0 +1,36 @@
+URL: https://www.linkedin.com/jobs/view/4476019585
+TITLE: Werkstudent (m/w/d) GUI-/Softwareentwicklung
+COMPANY: confovis
+LOC: Jena, Thuringia, Germany
+POSTED: 2026-10-12
+title: Werkstudent (m/w/d) GUI-/Softwareentwicklung
+company: confovis
+posted: 1 week ago
+applicants: 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-m-w-d-gui-softwareentwicklung-at-confovis-4476019585&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Für unser Softwareteam suchen wir Werkstudierende, die an der grafischen Benutzeroberfläche der Software unserer AOI-Tools und optischen Oberflächenmesssysteme mit entwickeln. Du arbeitest direkt im bestehenden Produktcode, nicht an einem isolierten Nebenprojekt. Was du umsetzt, nutzen unsere Kunden später für ihre Inspektions- und Messaufgaben.
+ Zur Verstärkung unseres Teams suchen wir ab sofort
+ Werkstudenten (m/w/d) GUI-/Softwareentwicklung:
+ Deine Aufgaben:
+ Du arbeitest bei der Entwicklung und Weiterentwicklung der grafischen Benutzeroberfläche unserer Software mit.
+ Du setzt neue Funktionen der Benutzeroberfläche mit C#, WPF und MVVM um, basierend auf bestehenden Anforderungen und Softwarekonzepten.
+ Views, ViewModels und zugehörige Programmlogik entwickelst du weiter und passt diese an.
+ GUI-Elemente bindest du an bestehende Softwarefunktionen und Datenmodelle an.
+ Treten Fehler in der Benutzeroberfläche auf, analysierst du diese und sorgst für eine Lösung.
+ Bei Tests und Dokumentation arbeitest du mit und hilfst, die Software kontinuierlich zu verbessern.
+ Deine Qualifikation:
+ Du studierst im Bachelor oder Master, vorzugsweise Informatik, Software Engineering, Physik, Mathematik oder eine vergleichbare technische bzw. naturwissenschaftliche Fachrichtung.
+ Du verfügst über solide Grundlagen in der Programmierung. Erste Erfahrung mit C# ist von Vorteil.
+ Kenntnisse in WPF oder MVVM sind ein Plus, aber keine Voraussetzung. Entscheidend ist, dass du dich zügig in neue Konzepte und in eine bestehende Codebasis einarbeitest.
+ Du hast eine selbstständige und strukturierte Arbeitsweise.
+ Du interessierst dich für die Entwicklung grafischer Benutzeroberflächen.
+ Du sprichst fließend Deutsch oder Englisch.
+ Was diese Stelle besonders macht:
+ Einführung in unsere Entwicklungsprozesse anhand eines strukturierten Einarbeitungsplans.
+ Produktiver Code statt Übungsprojekt: Deine Arbeit fließt in eine Software ein, die bei Kunden im Einsatz ist.
+ Feste fachliche Betreuung: Ein Senior Entwickler aus dem Team arbeitet dich ein und begleitet dich.
+ Einblick in die Hightech-Anwendung: Du siehst, wie optische Inspektion und 3D-Messtechnik in der Halbleiterfertigung funktionieren und welche Anforderungen sie an eine Bedienoberfläche stellen.
+ Gut mit dem Studium vereinbar: Du arbeitest bis zu 20 Stunden pro Woche. Den genauen Umfang stimmen wir individuell mit dir ab, passend zu deinem Studium.
+ Haben wir dein Interesse geweckt?
+ Dann freuen wir uns auf deine Bewerbung! Für Fragen stehen wir dir gerne zur Verfügung.

@@ -1,0 +1,50 @@
+URL: https://www.linkedin.com/jobs/view/4478271349
+TITLE: Consultant für Data & Analytics, SAP Cloud (m/w/d)
+COMPANY: QUNIS GmbH
+LOC: Germany
+POSTED: 2026-10-19
+title: Consultant für Data & Analytics, SAP Cloud (m/w/d)
+company: QUNIS GmbH
+posted: 4 days ago
+applicants: 34 applicants
+apply_offsite: 
+---
+Wir suchen Dich als ...
+ Consultant Data & Analytics, SAP Cloud (m/w/d) zum nächstmöglichen Zeitpunkt für die DACH-Region.
+ Idealerweise bist Du auf Senior-Level. Bist Du da noch nicht, entwickeln wir Dich gemeinsam dahin! Ein Team, das wie Du Data & Analytics liebt, freut sich auf Dich!
+ Data & Analytics-Enthusiast, Konzeptionierer, Projektsteuerer, Qualitätsverfolger, Plattformliebhaber, SAP-Cloud-Experte 
+ Wenn Deine Leidenschaft der Data & Analytics gilt und Du Dich im modernen Cloud-Portfolio der SAP zu Hause fühlst, ist diese Position genau die richtige für Dich!
+ Zur Erweiterung unseres Consulting-Teams suchen wir Dich als Fachfrau/Fachmann, die/der für Neuerungen rund um SAP BDC, SAP Datasphere und die SAP Analytics Cloud brennt. Wir suchen Dich als Persönlichkeit, die ihr Herzblut und ihr Know-how in die Analytics-Welt von QUNIS einbringt und unsere Kunden gleichermaßen wie unser Team damit begeistern will.
+ Ein Team, das wie Du Data & AI liebt, freut sich auf Dich! 
+ Deine Aufgaben 
+ Beratung unserer Kunden in technischen, organisatorischen und fachlichen Fragestellungen rund um alle Themen der Data & Analytics sowie damit verbunden der AI.
+ Methodische Anforderungsanalyse, das Erstellen anspruchsvoller Fachkonzepte, sowie das Übernehmen von Aufgaben in der Projektsteuerung.
+ Begleitung bei der Einführung neuester Lösungen und Technologien im SAP Cloud Umfeld, wie z. B. SAP Datasphere oder SAP Analytics Cloud. 
+ Sicherstellung der Datenqualität durch Datenmodellierung und Datenbankextraktion, sowie das Erstellen von Berichten.
+ Beratung bei globalen Reporting- und Planungsprojekten im (inter)nationalen Umfeld unserer Kunden, sowie deren Unterstützung im Presales.
+ Entwicklung und Etablierung von Standards/Best-Practices für skalierbare Datenarchitekturen.
+ Das ist Dir wichtig 
+ Du schätzt flache Hierarchien, löst gerne knifflige Aufgaben und möchtest in einem schnell wachsenden Unternehmen etwas bewegen. Qualität, Leidenschaft, Spaß, Teamgeist, Vertrauen und Fairness sind für Dich ebenso wichtig, wie für uns. Du legst Wert darauf, dass Fähigkeit und Persönlichkeit im Einklang stehen, zusammen geschätzt und entwickelt werden.
+ Das bringst Du mit 
+ Mehrjährige Projekterfahrung in verschiedenen Business Intelligence-Projekten und starkes Interesse für neue Technologien im Analytics-Umfeld.
+ Konzeptionelles Wissen in den Bereichen Business Intelligence- und Big Data-Lösungen, Data Warehouses, Data Lakehouses (Schichtenarchitekturen, Modellierungsmethoden), Advanced Analytics.
+ Fundierte Kenntnisse mit SAP Data & Analytics (HANA SQL, SAP Datasphere & SAP Analytics Cloud).
+ Gute Moderations- und Präsentationsfähigkeiten sowie ein sicheres Auftreten in Kundensituationen.
+ Sehr gute Deutsch- und gute Englischkenntnisse sowie Spaß an der Kommunikation mit Kunden aus der D-A-CH Region.
+ Das erwartet Dich bei QUNIS 
+ Eine innovative Umgebung mit neuesten Technologien.
+ Mitarbeit in einem engagierten, interdisziplinären Team.
+ Eine Unternehmenskultur, in der wir Werte wie Vertrauen, Teamgeist, Leidenschaft, Spaß, Fairness und Qualität gemeinsam leben.
+ Kurze Informations- und Entscheidungswege.
+ Eine strukturierte Einarbeitung und Übergabe von Verantwortung.
+ Ein Team, das sich unterstützt und Data & AI liebt.
+ Das bekommst Du 
+ Abwechslungsreiche und verantwortungsvolle Aufgaben mit individuellem Gestaltungsspielraum.
+ Sehr gute Entwicklungsmöglichkeiten und Weiterbildung.
+ Ein attraktives Fixgehalt plus Bonus.
+ Remote Arbeit, FlexiTime und Workation.
+ Home-Office-Ausstattung für Dich.
+ Transparente Kommunikation, Townhalls und Feiern.
+ Life Balance: Fit und gesund bleiben mit EGYM Wellpass oder mal eine längere Auszeit nehmen, alles möglich!
+ Starte gleich durch und bewirb Dich bei QUNIS als Consultant oder Senior Consultant Data & Analytics SAP Cloud (m/w/d). 
+ Dein Ansprechpartner: Kai Linse, unser Senior Tech Recruiting Expert freut sich von Dir zu hören.

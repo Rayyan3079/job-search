@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Student assistant in the field of \"Semantic Music Technologies\"",
+    "company": "Fraunhofer IDMT",
+    "city": "Ilmenau",
+    "date": "2026-10-23",
+    "greeting": "Dear Fraunhofer IDMT team,",
+    "opening": "I am applying for the Student Assistant position in Semantic Music Technologies. Applying deep learning to real media data is what I enjoyed most in my B.S. in Artificial Intelligence, and working on music information retrieval at Fraunhofer IDMT, right on my own campus, is a perfect fit with my M.Sc. at TU Ilmenau.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence, where I built computer vision and NLP projects in PyTorch. Before my Master's I worked as a Business Analyst at Tapal Tea and at TallyMarks Consulting, validating and reconciling data for company reporting.",
+    "achievements": [
+      {
+        "lead": "Deep learning on media data",
+        "impact": "in my thesis team I created training data, evaluated and tuned an EfficientNet-B0 model and built the FFmpeg pipeline that cut highlight videos from detected events"
+      },
+      {
+        "lead": "Implementing models in Python",
+        "impact": "I built a PyTorch retinal OCT classifier reaching 94.11% accuracy, including all preprocessing and augmentation"
+      },
+      {
+        "lead": "Careful annotation and data work",
+        "impact": "I created labelled training data for my thesis and validated and reconciled business data in industry"
+      }
+    ],
+    "problems_section": "I would support your team by implementing and porting deep learning algorithms in Python, extending methods for tasks such as annotation, similarity or instrument recognition, and doing careful manual annotation of audio, video and images. Audio signal processing would be new to me, and I am motivated to learn it quickly in your group.",
+    "closing": "I live and study in Ilmenau and am available immediately for up to 20 hours per week. I would be glad to discuss how I can contribute.",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-10-23/fraunhofer-idmt-student-assistant-semantic-music/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

@@ -1,0 +1,41 @@
+URL: https://www.linkedin.com/jobs/view/4478901167
+TITLE: Securities Operations Intern (f/m/d)
+COMPANY: Upvest
+LOC: Berlin, Germany
+POSTED: 2026-10-20
+title: Securities Operations Intern (f/m/d)
+company: Upvest
+posted: 3 days ago
+applicants: 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fsecurities-operations-intern-f-m-d-at-upvest-4478901167&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+About Us
+ At Upvest, we are on a mission to make investing as easy as spending money . Upvest empowers businesses to offer a wide range of investment products and the best experience in the field of capital market investment and retirement planning. Upvest’s Investment API is easy to integrate so that fintechs and financial institutions can save resources and fully focus on their core business.
+We are proud to partner with Europe’s leading Fintechs and financial institutions such as DKB, Revolut, N26 and Raisin. Founded in 2017 by Martin Kassing, Upvest now brings together over 270 talented professionals from more than 70 nationalities. Upvest is backed by €280M in total funding from world-class investors, including BlackRock, Tencent, Sapphire Ventures, and Bessemer Venture Partners, Earlybird, Notion Capital, and Motive . Our latest €105M funding round in March 2026 - led by Sapphire and Tencent - serves as a massive catalyst for our growth, allowing us to offer premier investment experience.
+ About The Role
+ In 2027, Upvest is launching the PEA (Plan d'Épargne en Actions) on the French market with several leading fintechs. Within the Settlements & Transfers team, you will work across the full post-trade chain of securities account and PEA transfers: from instruction processing to settlement at Euroclear France, including relations with account keepers, custodians and issuers.
+This internship offers direct exposure to French and European post-trade operations during a product launch, with real responsibilities from your first weeks.
+ What You’ll Do
+ Incoming and outgoing transfers: Handle securities account (CTO) and PEA transfers with banks and brokers in France and across Europe, from receipt of the request to settlement of securities and cash.
+ Counterparty and client relations: Ensure smooth communication with counterparties (banks, brokers, custodians) and our clients, and drive the follow-up of requests and reminders.
+ Controls and reconciliation: Check securities and cash positions, reconcile movements with our custodian and analyse breaks.
+ Fails and exception management: Investigate unsettled or rejected instructions, identify the root cause and coordinate resolution with counterparties and internal teams.
+ PEA tax continuity: Review and record PEA tax statements (bordereaux d'information) to ensure the plan's tax history is fully preserved.
+ Registered shares: Process operations on French registered shares (conversions, de/registrations).
+ Reporting and continuous improvement: actively monitor SLAs and KPIs, write operating procedures and identify automation opportunities.
+ What You Bring
+ Education: Master's degree (M1 or M2) in Finance, Banking, Economics or Law from a business school, engineering school or university; gap-year students and recent Master's graduates able to sign an internship agreement are welcome.
+ Languages: You have native-level or bilingual proficiency in French (C2) and are comfortable working in English.
+ Experience: A first experience in banking, back office, middle office or securities operations is a strong plus, as is knowledge of the PEA, post-trade or Euroclear France.
+ Analytical mindset: Rigour, attention to detail and a taste for solving complex problems.
+ Tools: You're confident with spreadsheets ; knowledge SQL/Python is a plus.
+ How We Upvest In You
+ Impact-driven work: We’re building the infrastructure that will power the future of investing in Europe. It’s complex, ambitious, and meaningful. You’ll work with modern technologies and create something entirely new. No legacy systems, no limits.
+ Team celebrations: Participate in company-wide events, such as UpFest, dinners, offsites and our Holiday party, to connect with colleagues and celebrate our achievements.
+ Inclusion: We’re committed to a culture where everyone belongs and thrives. Our Employee Resources Groups foster inclusion and connection, like Upfem Black at Upvest, Up&Out, and UpVergent.
+ Our Values
+ Make it easy for others. We simplify the complex and act with the best intentions
+ Own the outcome. We are proactive, fast and confident to get the job done, valuing progress over perfection.
+ Rise to the challenge. We aim high and push the boundaries. We stay curious, learn and celebrate our wins together.
+ Tell the story. We start with the Why to align on purpose. We are transparent and share knowledge to empower and inspire others.
+ Upvest is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

@@ -1,0 +1,26 @@
+URL: https://www.linkedin.com/jobs/view/4451694570
+TITLE: Trainee SAP Software Developer (all genders)
+COMPANY: adesso business consulting AG
+LOC: Jena, Thuringia, Germany
+POSTED: 2026-10-22
+title: Trainee SAP Software Developer (all genders)
+company: adesso business consulting AG
+posted: 1 day ago
+applicants: 30 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Ftrainee-sap-software-developer-all-genders-at-adesso-business-consulting-ag-4451694570&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+DEINE ROLLE
+ Abwechslungsreiches Trainingsformat: Freu dich auf eine spannende Mischung aus vor-Ort-Training an attraktiven Standorten wie z.B. Hamburg oder Dortmund und flexiblen Remote-Sessions. Und keine Sorge – um deine Unterbringung kümmern wir uns! Der Start erfolgt dreimal jährlich – jeweils im März, Juli und November.
+ SAP Development: Tauche ein in die Welt der SAP-Entwicklung - du erlernst die Grundlagen von der Pike auf bis hin zu fortgeschrittenen Techniken. 
+ Backend & Frontend: Mit der SAP-eigenen Programmiersprache ABAP entwickelst du die Geschäftslogik in SAP-Systemen. Zudem erstellst du intuitiv bedienbare Benutzeroberflächen für Endanwender/innen. 
+ Cloud: Sei bereit für die Zukunft und stelle Cloud-Lösungen in der SAP Business Technology Platform bereit. 
+ Consulting-Basics: Wir bereiten dich auf eine Karriere in der Beratung und den ersten Kundenkontakt vor. 
+ Zertifizierungen: Du erwirbst wertvolle Qualifikationen in verschiedenen Projektmanagementmethoden.
+ DEIN PROFIL
+ Dein Hintergrund: Mit einem abgeschlossenen Studium in einem MINT-Fach oder eine Ausbildung mit relevanter Berufserfahrung bringst du eine solide fachliche Basis mit. 
+ Programmierkenntnisse: Du hast Spaß am Coden und bringst gute Kenntnisse in objektorientierten Programmiersprachen/Web-Programmiersprachen mit.
+ Reisebereitschaft: Neue Orte entdeckst du gerne - gelegentliche Reisen sind daher kein Problem für dich.
+ Kommunikationstalent: Du kommunizierst sicher auf Deutsch und Englisch, intern sowie extern.
+ Weitere Informationen zu unserem Traineeprogramm findetst du hier: https://www.adesso-bc.com/career/trainee-programme/
+Unser Versprechen: Du wirst dich bei uns wohlfühlen! Kollegial, familiär und auf Augenhöhe – wir leben Austausch, Teamgeist und einen respektvollen Umgang miteinander. Diversität und verschiedene Blickwinkel werden bei uns genauso geschätzt wie du als Mensch. Das und viel mehr steht für unser ganz besonderes Wir-Gefühl. Für das es sogar ein Wort gibt: adessi.
+Unsere Kultur und das Zusammenarbeiten sind geprägt von gegenseitiger Wertschätzung, Anerkennung und Unterstützung. Das verbindet uns hierarchieübergreifend – auch im Home-Office. So belegen wir zum wiederholten Mal den 1. Platz beim Wettbewerb „Deutschlands Beste Arbeitgeber in der ITK“!. Unser umfangreiches Trainingsangebot und ein transparentes Laufbahnstufenmodell für alle sorgen dafür, dass deine Entwicklung bei uns nicht stillsteht. Denn gemeinsam zu wachsen und Chancengeber zu sein, das ist programmiert in unserer DNA.

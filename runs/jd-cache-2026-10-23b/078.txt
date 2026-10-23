@@ -1,0 +1,42 @@
+URL: https://www.linkedin.com/jobs/view/4478687853
+TITLE: Stagiaire Opérations Titres (f/h/d)
+COMPANY: Upvest
+LOC: Berlin, Germany
+POSTED: 2026-10-20
+title: Stagiaire Opérations Titres (f/h/d)
+company: Upvest
+posted: 3 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fstagiaire-op%25C3%25A9rations-titres-f-h-d-at-upvest-4478687853&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+À propos de nous
+ Chez Upvest, notre mission est de rendre l’investissement aussi simple que dépenser de l’argent. Upvest permet aux entreprises de proposer une large gamme de produits d’investissement et la meilleure expérience en matière d’investissement sur les marchés de capitaux et d’épargne retraite. Notre Investment API s’intègre facilement, pour que les fintechs et les institutions financières puissent se concentrer pleinement sur leur cœur de métier.
+Nous travaillons avec les principales fintechs et institutions financières européennes, comme DKB, Revolut, N26 et Raisin. Fondée en 2017 par Martin Kassing, Upvest réunit aujourd’hui plus de 270 professionnels de plus de 70 nationalités. Upvest a levé 280 M€ auprès d’investisseurs de premier plan, dont BlackRock, Tencent, Sapphire Ventures, Bessemer Venture Partners, Earlybird, Notion Capital et Motive. Notre dernier tour de table de 105 M€, en mars 2026 et mené par Sapphire et Tencent, accélère notre croissance et nous permet d’offrir une expérience d’investissement haut de gamme.
+ Le poste
+ En 2027, Upvest lance le Plan d’Épargne en Actions (PEA) sur le marché français avec plusieurs fintechs de premier plan. Au sein de l’équipe Settlements & Transfers, vous intervenez sur l’ensemble de la chaîne post-marché des transferts de comptes-titres et de PEA : du traitement des instructions au dénouement chez Euroclear France, en passant par les relations avec les teneurs de compte, les dépositaires et les émetteurs.
+Ce stage vous offre une exposition directe au post-marché français et européen dans une phase de lancement, avec de réelles responsabilités dès les premières semaines.
+ Vos missions
+ Transferts entrants et sortants : Prendre en charge les transferts de comptes-titres (CTO) et de PEA avec les banques et courtiers en France et en Europe, de la réception de la demande jusqu’au dénouement des titres et des espèces.
+ Relations contreparties et clients : Assurer une communication fluide avec les contreparties (banques, courtiers, dépositaires) et nos clients, et piloter le suivi des demandes et des relances.
+ Contrôles et réconciliations : Vérifier les positions titres et espèces, rapprocher les mouvements avec notre dépositaire et analyser les écarts.
+ Gestion des suspens et des anomalies : Analyser les instructions non dénouées ou rejetées, en identifier l’origine et coordonner leur résolution avec les contreparties et les équipes internes.
+ Fiscalité du PEA : Contrôler et intégrer les bordereaux d’information (BI) afin de garantir la continuité de l’historique fiscal du plan.
+ Titres au nominatif : Traiter les opérations sur titres nominatifs (conversions, inscriptions, radiations).
+ Reporting et amélioration continue : Suivre activement les SLA et les KPI, rédiger les procédures et identifier des pistes d’automatisation.
+ Votre profil
+ Formation : Master 1 ou 2 en finance, banque, économie ou droit (école de commerce, d’ingénieurs ou université), en année de césure ou jeune diplômé(e) d’un Master, avec possibilité de signer une convention de stage. Pour les M1 : votre établissement doit permettre un stage de 6 mois à temps plein (semestre intégré ou dispense de cours).
+ Langues : Français langue maternelle (indispensable) et anglais courant.
+ Expérience : Une première expérience en banque, back-office, middle-office ou opérations titres est un réel atout, tout comme une connaissance du PEA, du post-marché ou d’Euroclear France.
+ Motivation : Un véritable intérêt pour les marchés de capitaux et les opérations post-marché.
+ Esprit d’analyse : Rigueur, sens du détail et goût pour la résolution de problèmes complexes.
+ Outils : Bonne maîtrise d’Excel / Google Sheets ; la connaissance de SQL/Python est un plus.
+ Pourquoi nous rejoindre
+ Un travail à fort impact : Nous construisons l’infrastructure qui portera l’avenir de l’investissement en Europe. C’est complexe, ambitieux et porteur de sens. Vous travaillerez avec des technologies modernes et créerez quelque chose de totalement nouveau, sans système hérité et sans limites.
+ Moments d’équipe : Participez aux événements d’entreprise comme UpFest, les dîners, les offsites et la fête de fin d’année, pour échanger avec vos collègues et célébrer nos réussites.
+ Inclusion : Nous nous engageons pour une culture où chacun a sa place et s’épanouit. Nos groupes de ressources pour les employés favorisent l’inclusion et les liens, comme Upfem Black at Upvest, Up&Out et UpVergent.
+ Nos valeurs
+ Make it easy for others. Nous simplifions le complexe et agissons avec les meilleures intentions.
+ Own the outcome. Nous sommes proactifs, rapides et confiants pour faire avancer les choses : le progrès avant la perfection.
+ Rise to the challenge. Nous visons haut et repoussons les limites. Nous restons curieux, apprenons et célébrons nos réussites ensemble.
+ Tell the story. Nous commençons par le « pourquoi ». Nous sommes transparents et partageons nos connaissances pour inspirer les autres.
+ Upvest garantit l’égalité des chances. Nous célébrons la diversité et nous nous engageons à créer un environnement inclusif pour tous. À compétences égales, tous nos postes sont ouverts aux personnes en situation de handicap.

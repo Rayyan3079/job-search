@@ -1,0 +1,50 @@
+URL: https://www.linkedin.com/jobs/view/4475995576
+TITLE: Computer Vision Intern (m/f/d)
+COMPANY: vialytics
+LOC: Germany
+POSTED: 2026-10-08
+title: Computer Vision Intern (m/f/d)
+company: vialytics
+posted: 2 weeks ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fcomputer-vision-intern-m-f-d-at-vialytics-4475995576&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Computer Vision Intern (m/f/d) | Fulltime | Location | Remote in Germany
+ 🚀Who We Are
+ vialytics is revolutionizing how cities manage road infrastructure. Our AI-powered road management system, combining intelligent software with a simple smartphone, enables municipalities to detect road damage, prioritize maintenance, and make smarter infrastructure decisions.
+Founded in 2018, we have rapidly scaled across Europe and the U.S. , supporting 900+ municipalities in 7 countries . Backed by a $10M Series A , vialytics is a fast-growing scale-up with ambitious international growth plans.
+We are looking for a Computer Vision Intern to join our Data Science team remotely from Germany.
+In this role, you will help improve the quality of the data powering our AI models and contribute directly to making road condition assessments more accurate and reliable. You'll work with real-world image datasets, collaborate closely with our Data Science team, and gain hands-on experience in computer vision and machine learning.
+We're looking for someone excited to grow with us, ideally with the perspective of transitioning into a permanent Junior position after the internship.
+ 💼 Your Key Responsibilities
+ As a Computer Vision Intern , you will support our Data Science team in improving the quality and performance of our AI-powered road assessment technology.
+ Maintain reliable data operations: Document datasets, maintain data quality standards, and support continuous improvements to our data processes, including maintaining relevant object databases.
+ Build high-quality datasets: Explore our road image database, select relevant training images, and create balanced datasets across different road conditions, regions, and damage types.
+ Improve data annotation quality: Review labeled images, identify systematic errors and inconsistencies, and collaborate with our annotation team to improve labeling guidelines and processes.
+ Support model training: Use existing machine learning pipelines to train computer vision models and generate automated pre-annotations.
+ Analyze and improve model performance: Investigate model weaknesses, evaluate results across different conditions, and identify opportunities to improve training data.
+ Contribute to real-world AI projects: Support projects such as cobblestone road assessment and traffic sign detection, helping us improve our technology for municipalities.
+ 🌟 We would be the perfect match if you
+ Are currently pursuing a Master's degree in Data Science, Computer Science, Artificial Intelligence, or a related technical field or you have just finished your studies and would like to start with an internship to your career.
+ Have practical experience working with image datasets, including labeling, reviewing, cleaning, or preparing data for machine learning applications.
+ Have solid Python programming skills and experience with common data science libraries such as NumPy, pandas, or image processing tools.
+ Have a good understanding of machine learning fundamentals, ideally with a focus on computer vision and image processing.
+ Are detail-oriented and analytical, with an eye for identifying inconsistencies and improving data quality.
+ Are proactive, motivated, and comfortable working independently in a fast-moving environment.
+ Are located in Germany.
+ 🔀 Your Hiring Journey
+ Kickoff Chat: Friendly virtual chat with Friedrich (Director Data Science) & Amelie (Senior HR Business Partner) , to explore practical aspects and get a feel for our culture and the opportunity.
+ Showcase Your Skills (1h30): Meet Friedrich, our (Director Data Science) , and Deepanshu, our Senior Data Science Engineer for a session where you will present a practical case to demonstrate your Computer Vision skills
+ Meet the Leadership (30 min): Meet Dominik, our Chief Product & Technology Officer, for a conversation about our vision, the bigger picture at vialytics, and how you could contribute to our future success.
+ 💰 What We Offer
+ Top-tier equipment & tools : MacBook, iPhone, AirPods, plus access to Google Workspace, Notion, Slack, Salesforce, Aircall, and Microsoft 365
+ A dynamic and multicultural scale-up environment : 10+ nationalities, flat hierarchy, and real impact from day one
+ Flexible working options : Hybrid or remote from Germany, with travel for events and training
+ Offsites & Events: Regular in-person team gatherings and company-wide meetups
+ Long-term perspective: The opportunity to grow into a permanent role within our Data Science team after completing your studies, depending on mutual fit and business needs.
+ vialytics provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by law.
+ This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+ vialytics never charges any fees for applications, resume reviews, interviews, or training processes. Official communication from our recruiting team will only come through:
+ our recruiting platform Teamtailor,
+ verified LinkedIn profiles of vialytics recruiters, or
+ email addresses ending in @vialytics.de, @vialytics.fr, or @vialytics.com

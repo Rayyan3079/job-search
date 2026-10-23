@@ -1,0 +1,42 @@
+URL: https://www.linkedin.com/jobs/view/4478279526
+TITLE: Studentische Hilfskraft (m/w/d) im Bereich Energiedatenmanagement gesucht - 100% remote
+COMPANY: node.energy
+LOC: Frankfurt, Hesse, Germany
+POSTED: 2026-10-19
+title: Studentische Hilfskraft (m/w/d) im Bereich Energiedatenmanagement gesucht - 100% remote
+company: node.energy
+posted: 4 days ago
+applicants: 41 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fstudentische-hilfskraft-m-w-d-im-bereich-energiedatenmanagement-gesucht-100%2525-remote-at-node-energy-4478279526&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Was Dich erwartet
+ Als Teil unseres Energiedatenmanagement-Teams unterstützt Du uns im direkten Kontakt mit Messstellenbetreibern und Kolleg:innen. Dabei tauchst du tief ein in die Welt eines digitalen, mitarbeiterfokussierten und nachhaltigen jungen Unternehmens in der Energiebranche.
+Node.energy ermöglicht mit klugen Software-as-a-Service-Lösungen professionellen Betreibern von Windkraft- und PV-Anlagen neue Geschäftsmodelle ganz einfach umzusetzen und damit profitabel zu bleiben. Hierfür führt opti.node alle Daten für die kaufmännische Betriebsführung von Windkraft- und PV-Anlagen zusammen und automatisiert anspruchsvolle Verwaltungsaufgaben und energiewirtschaftliche Geschäftsprozesse. Bereits heute vertrauen Betreiber von mehr als 13.500 Windkraft- und PV-Anlagen, die mehr als ein Drittel des deutschen Grünstroms erzeugen, auf opti.node.
+Wir suchen dich als Studentische Hilfskraft (m/w/d) in Teilzeit im Bereich Energiedatenmanagement zum nächstmöglichen Zeitpunkt. Wir freuen uns darauf, dich kennenzulernen!
+ Deine Aufgaben
+ Du konfigurierst und führst Datenuploads zu Energiedaten durch und überprüfst die Vollständigkeit und Plausibilität der Daten
+ Wenn du hierzu eingearbeitet bist, hilfst du, die Uploadprozesse gemeinsam mit der Entwicklungsabteilung weiter zu automatisieren 
+ Du unterstützt bei Bedarf zusätzlich bei Datenlückenanfragen zur Stromsteuerabrechnung
+ Du bearbeitest schriftliche Anfragen von Marktpartnern und Kolleg:innen
+ Du hilfst uns dabei, weitere interne Prozesse zu optimieren
+ Was Du mitbringen solltest
+ Wir suchen Menschen statt Funktionen. Wir erwarten nicht, dass du als Studentische Hilfskraft (w/m/d) von Beginn an alles alleine beherrschst. Am wichtigsten ist uns: Du arbeitest gerne und engagiert in einem Team. Darüber hinaus:
+ Du befindest dich in einem (fortgeschrittenen) Studium mit Fokus auf Energiewirtschaft, Energiedatenmanagement, Data Engineering, Informatik oder ähnlichem
+ Du hast (idealerweise) keine Scheu davor, in Kontakt mit Menschen zu treten
+ Du arbeitest gerne im Team und kommunizierst aktiv mit deinen Kolleg:innen 
+ Du hast Spaß bei der Nutzung gängiger Datenverarbeitungs-Tools und hast idealerweise erste Modellier- oder Programmiererfahrungen
+ Du arbeitest strukturiert und verstehst es, Informationen zu dokumentieren
+ Du besitzt sehr gute Deutschkenntnisse (unsere Unternehmenssprache)
+ Was Du sonst noch bekommst
+ Job mit Sinn: Wir treiben gemeinsam die grüne Energiewende voran
+ Nachhaltige und flexible Arbeitsbedingungen: Ein ordentliches Gehalt, monatliche Homeoffice-Pauschale, 30 Tage Urlaub pro Jahr, Remote-First-Kultur mit Büros in Frankfurt a. M. und Freiburg - von wo aus du arbeitest, entscheidest du
+ Strukturierte Einarbeitung: Du bekommst eine strukturierte Einarbeitung, begleitet durch eine:n Mentor:in und eine:n Kolleg:in als Social Buddy für deine soziale Integration bei node.energy
+ Mitgestaltungsmöglichkeiten: Du wirkst aktiv an der stetigen Entwicklung unseres Unternehmens mit und das ohne starre Prozesse, hierarchische Strukturen oder veraltete Technologien
+ Weiterentwicklung: Regelmäßige Feedbackgespräche zur Förderung deiner individuellen Entwicklung
+ Workation: Nach der Probezeit hast du die Möglichkeit, im Rahmen der gesetzlichen Bestimmungen temporär an einem Ort innerhalb der EU zu arbeiten
+ Und weitere Benefits: Urban Sports Club/Hansefit und nilo.health Zugang
+ Über uns
+ Für mehr Klimaschutz zu demonstrieren, ist gut und wichtig. Mit einem Job bei uns kann man aber noch effektiver die Welt retten. Bei node.energy helfen wir Unternehmen beim Umstieg auf erneuerbare Energien.
+Erneuerbare Energien sind inzwischen wettbewerbsfähig. Trotzdem nutzen die meisten Firmen ihr Potenzial nicht mal annähernd aus. Der Grund dafür: Es ist einfach zu kompliziert. Dieses Problem lösen wir mit unserer Software, welche die Planung und das Management von klimafreundlichen Energielösungen radikal vereinfacht.
+Werde Teil unseres Teams und helfe uns dabei, die Energiewende im Industrie- und Gewerbebereich zu ermöglichen.
+Wir freuen uns über alle Bewerbungen unabhängig von Geschlecht oder geschlechtlicher Identität, Alter, kultureller und sozialer Herkunft, ethnischer Herkunft, Fähigkeiten oder sexueller Orientierung.

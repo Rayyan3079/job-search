@@ -1,0 +1,54 @@
+URL: https://www.linkedin.com/jobs/view/4478384694
+TITLE: Working Student - Business Operations (All Genders)
+COMPANY: Develocity
+LOC: Germany
+POSTED: 2026-10-13
+title: Working Student - Business Operations (All Genders)
+company: Develocity
+posted: 1 week ago
+applicants: 127 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-business-operations-all-genders-at-develocity-4478384694&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Who We Are 
+ AI is changing how software gets built. Code production is becoming a commodity. The focus is shifting from writing code to specifying, orchestrating, verifying, and governing change, and the toolchain is the new constraint.
+ We are at the center of this shift. We build Develocity, a toolchain observability and intelligence platform used by some of the world’s leading software organizations: Netflix, Airbnb, Spotify, SAP, major global banks, and hundreds more. Develocity helps software teams achieve delivery excellence through deep observability, build and test acceleration, and AI-powered intelligence across the entire toolchain, with support for Gradle Build Tool, Apache Maven, sbt, npm, Python, and Bazel.
+ We are an AI-native company. AI is not a feature we are bolting on, it is central to how we work, how we think about our product, and where we are heading. Develocity encodes a decade of build and test expertise into a context engineering layer: the ground truth AI agents need to change code safely, and the governance to attribute and gate that change at machine speed. Trust, evidence, and explainability are at the core of everything we build.
+ We have partnered with the Apache Software Foundation, the Commonhaus Foundation, the Micronaut Foundation, and other OSS projects such as Spring, Quarkus, Kotlin, JUnit, AndroidX, and many more to bring the values of Develocity also to the OSS Community.
+ Our Values 
+ Seek to Understand: Everything starts with listening and understanding, and we strive to understand different viewpoints, problems, and motivations.
+ Know the Why: We approach our work with a clear sense of purpose, ensuring every step is deliberate and focused.
+ Innovate & Iterate: We embrace challenges and are not afraid to try new things, even if they might fail.
+ Own the Outcome: We are empowered to take initiative and we maintain transparency in our work and its outcomes.
+ Who You Are 
+ You are studying for a master’s degree and want to see how a remote-first technology company really runs day to day. You like variety: one day might be a customer’s supplier questionnaire, the next a recurring task you’re automating with Claude. You enjoy working out how a process works and then making it better.
+ You work independently and in a structured way, and you’re comfortable asking questions and working with Security, Legal and Finance to get something done. You care about the details, because supplier registrations and internal records need to be right. You’re curious about AI and automation tools, and you want to use them on real work instead of just reading about them.
+ If you meet most of the qualifications below and the role interests you, apply. Curiosity and a willingness to learn matter more to us than a perfect match.
+ Responsibilities 
+ We are looking for a working student to support our Operations and Financial Management department. The focus of this role is supporting the supplier registrations requested by our customers and helping us build and improve AI-supported workflows across the department. 
+ Your responsibilities include, among others:
+ Supporting the registration of Develocity as a supplier in our customers’ procurement portals, including completing recurring questionnaires and gathering supporting evidence, in coordination with the Security, Legal, and Finance teams.
+ Learning our supplier registration process in depth, helping to implement improvements, and keeping the guides and training material up to date.
+ Building, testing, and improving AI-supported workflows with Claude, as well as with common automation tools, to reduce recurring manual work.
+ Helping to introduce new software tools, including writing short guides and answering questions from the teams.
+ Assisting our Business Administration team with recurring administrative tasks and keeping our internal records and systems up to date.
+ Supporting our Finance teams from time to time.
+ Taking on other tasks across the department as they come up, which lets you get to know several areas over time.
+ Minimum qualifications 
+ Enrolment in a master’s program, for example in business administration, business informatics, financial controlling, or a comparable field.
+ Basic understanding of business administration, attention to detail, and analytical thinking.
+ Flexibility and an open mind, as the role combines very different tasks from several teams.
+ An interest in improving current systems and processes, and you enjoy working with automation and AI tools such as Claude Code.
+ An independent, focused, and structured way of working, along with a collaborative mindset and good communication skills.
+ German at C2 or native level, English at B2 level or higher.
+ What We Offer 
+ An immediate start, with weekly hours agreed individually around your studies.
+ A dynamic working environment in a Silicon Valley company with flat hierarchies and plenty of room for initiative and development.
+ Work at an international, fast-moving technology leader.
+ Onboarding and guidance from experienced colleagues.
+ In-person meetings, such as regular department and company meetings.
+ Work from home in a remote-first environment.
+ A diverse and inclusive environment in which we learn from one another. We welcome people with different backgrounds, experiences, skills and perspectives.
+ Location 
+ Remote from anywhere in Germany.
+ Our headquarters is in San Francisco, and our teams work remotely across locations, which allows for a high degree of flexibility, collaboration and creativity. The Operations and Financial Management department is led from the Saarbrücken area in Germany and is responsible for the entire group.
+ While we work remotely, with everything in place for seamless collaboration by email, chat and video call, we deeply value in-person time and meet regularly as a department and as a company.

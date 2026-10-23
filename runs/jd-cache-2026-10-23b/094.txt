@@ -1,0 +1,65 @@
+URL: https://www.linkedin.com/jobs/view/4480031907
+TITLE: Analyst bis (Senior) Manager – Financial Services – remote – deutschlandweit
+COMPANY: 23DATA
+LOC: Frankfurt am Main, Hesse, Germany
+POSTED: 2026-10-22
+title: Analyst bis (Senior) Manager – Financial Services – remote – deutschlandweit
+company: 23DATA
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+In großen Beratungen wird viel gewartet. Als Junior auf den ersten Kundentermin, als Consultant auf die nächste Beförderungsrunde und als Manager auf die Freigabe von jemandem, der dein Projekt nur aus dem Reporting kennt. Bei uns nimmst du die Dinge von Anfang an selbst in die Hand und kannst beweisen, was in dir steckt. 
+ Über uns 
+ Bei 23FINANCE beraten wir Finanzinstitute dort, wo Regulatorik, Daten und KI aufeinandertreffen. Wir begleiten unsere Kunden von der fachlichen Anforderung bis zum produktiven KI-Agenten. 
+ Bei der Regulatorik geht es vor allem um BCBS 239: Wir validieren Umsetzungen und nutzen dafür inzwischen einen eigenen KI-Agenten. Bei den Daten geht es um Architektur, Lineage, Datenqualität und Metadaten. Erst wenn diese Grundlagen stimmen, lässt sich KI sinnvoll einsetzen. 
+ KI gibt es bei uns nicht nur auf Folien. Ganz konkret arbeiten wir gerade an diesen Themen: 
+ Digital Data Steward: Unser Agent beschreibt Datenfelder automatisch und hält Kataloge aktuell, ohne dass jemand sie von Hand pflegen muss. 
+ Data Lineage mit KI: Wir lesen Datenflüsse direkt aus Code und Pipelines aus, statt sie mühsam zu dokumentieren. 
+ Agentic Coding: Wir migrieren Altsysteme wie COBOL-Strecken auf moderne Architekturen. Jede Regel bleibt dabei bis zum Ursprung nachvollziehbar. 
+ Datenqualitätsmanagement mit Soda: Wir bauen einen geschlossenen Regelkreis auf, von den kritischen Datenelementen bis zum Reporting. 
+ Context Layer: Wir verbinden Glossar, Datenfelder, Regeln und Quellen so, dass KI-Agenten fachlich korrekte Antworten mit Belegen geben. 
+ Auch im Projektalltag erstellen wir Unterlagen, Analysen und kleine Tools automatisiert. Claude Code ist bei uns Standardausrüstung. Wir arbeiten mit Collibra, Atlan, Soda, Databricks und den großen Clouds und sind Teil der 23 Gruppe mit über 80 Kolleginnen und Kollegen. 23FINANCE selbst ist ein kleines Team, das gerade wächst. Du arbeitest also nah an Fachlichkeit und Technik und bestimmst direkt mit, wie wir uns weiterentwickeln. 
+ Deine Bühne 
+ Einen Obstkorb oder ein fancy Büro haben wir nicht. Dafür hast du deine Bühne, um über dich hinauszuwachsen und allen zu zeigen, was du kannst. Und was du leistest, geht hier nicht in der Masse unter. 
+ Deine Ergebnisse präsentierst du selbst, auch wenn beim Kunden das Management mit am Tisch sitzt. 
+ Wie schnell du aufsteigst, hängt an deiner Leistung, nicht an deinen Dienstjahren. 
+ Wenn du ein Thema findest, das dich packt, kannst du es zu deinem Ding machen und dafür das Gesicht werden. 
+ Du sammelst KI-Erfahrung direkt im Kundenprojekt. Die haben in der Branche bisher nur wenige. 
+ Unsere Geschäftsführer Jan und Max siehst du nicht nur auf dem Sommerfest. Die beiden sind im Alltag da, und wenn du eine bessere Idee hast, wollen sie sie hören. 
+ Voraussetzungen
+ Wo du einsteigst 
+ Wir suchen auf allen Levels. Wo du reinpasst, klären wir im ersten Gespräch. 
+ Junior / Analyst (typischerweise 0–2 Jahre Erfahrung) 
+ Du kommst frisch von der Uni oder hast schon erste Praxiserfahrung. 
+ Nach ein paar Wochen sitzt du im Kundenprojekt, sprichst mit den Fachbereichen und schreibst Anforderungen so auf, dass ein Team sie umsetzen kann. 
+ Du wertest Daten aus verschiedenen Quellen aus und prüfst, ob sie zu dem passen, was der Kunde glaubt. 
+ Mit SQL, Python oder einem BI-Tool hast du im besten Fall schon gearbeitet. Wenn nicht, hast du Lust, dich einzuarbeiten, und wir unterstützen dich dabei. 
+ Du hast Informatik, Wirtschaftsinformatik, Mathe, Physik oder etwas Vergleichbares studiert. Kurz vor dem Abschluss? Passt auch. 
+ Consultant (typischerweise 2–5 Jahre Erfahrung) 
+ Du hast schon einige Projekte hinter dir und weißt, wie Banken und Versicherer ticken. 
+ Du verantwortest eigene Arbeitspakete und bist für den Kunden in deinem Thema die erste Ansprechperson. 
+ Du vermittelst zwischen Fachbereich und IT, bis alle dasselbe meinen. 
+ Du nimmst Juniors mit und gibst weiter, was du gelernt hast. 
+ Idealerweise warst du schon in Regulatorik- oder Datenprojekten unterwegs. 
+ Senior (typischerweise 5+ Jahre Erfahrung) 
+ Senior heißt bei uns Senior Consultant oder (Senior) Manager, je nachdem, was du mitbringst. 
+ Als Senior Consultant leitest du Teilprojekte und machst die Leute in deinem Team besser. 
+ Als (Senior) Manager trägst du die Verantwortung für ganze Projekte samt Budget und Kundenbeziehung, gewinnst neue Aufträge und baust das Team mit auf. 
+ In beiden Fällen kannst du eigenständig Projekte verkaufen und bestimmst mit, wohin sich 23FINANCE entwickelt. 
+ Was alle mitbringen 
+ Du hast Bock, vorne zu stehen, und willst wissen, wie weit du kommen kannst. 
+ Du bist neugierig und probierst neue Tools gern selbst aus. Wer mit Claude Code, Codex oder Ähnlichem schon etwas gebaut hat, fällt positiv auf, egal ob Junior oder Manager. 
+ Deutsch und Englisch auf C1-Niveau. 
+ Etwa einmal im Monat bist du beim Kunden vor Ort. 
+ Vorteile
+ Der Rahmen 
+ Du arbeitest remote von überall in Deutschland und hast 30 Tage Urlaub. 
+ Zum Start bekommst du einen eigenen Buddy aus unserem Team. Weiterbildung ist bei uns ausdrücklich gewünscht und wird gefördert. 
+ Laptop und Handy suchst du dir selbst aus. Dazu gibt es einen Zuschuss zum Deutschlandticket, Wellpass und Dienstrad-Leasing. 
+ Im Sommer und im Winter treffen wir uns zu Social Weeks und Team-Workshops. 
+ So läuft's ab 
+ Wir starten mit einem kurzen Kennenlernen per Teams. Passt es für beide Seiten, folgt ein Fachinterview. Das war's. 
+ Zum Schluss 
+ Wenn du gerade überlegst, ob du gut genug bist: Bewirb dich trotzdem. Wenn du eher einen ruhigen Job suchst, passen wir wahrscheinlich nicht zusammen. 
+ Bewerbungen bitte nur über diese Plattform.
