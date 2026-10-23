@@ -1,0 +1,46 @@
+URL: https://www.linkedin.com/jobs/view/4462522781
+TITLE: Werkstudent Technologieentwicklung Batteriezelle und Data Analytics (w/m/x)
+COMPANY: BMW Group
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-10-22
+title: Werkstudent Technologieentwicklung Batteriezelle und Data Analytics (w/m/x)
+company: BMW Group
+posted: 16 hours ago
+applicants: 83 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-technologieentwicklung-batteriezelle-und-data-analytics-w-m-x-at-bmw-group-4462522781&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+THEORETISCH DIE BESTE ENTSCHEIDUNG. PRAKTISCH AUCH.
+ TEILE DEINE LEIDENSCHAFT.
+ Nur hochprofessionelle Abläufe in dynamischen Teams produzieren innovative Spitzentechnologie. Aber Fahrfreude wird bei uns von der Entwicklung bis zur Fertigung vor allem auch mit Spaß an der Arbeit und Begeisterung für das gemeinsame Projekt realisiert. Deshalb geben wir Studierenden bei uns nicht nur die Gelegenheit zum Zuhören, sondern auch zum Mitreden und Weiterdenken.
+Unser interdisziplinäres Team bei der BMW Group entwickelt im Rahmen einer Pilotlinie für die Produktion von Batteriezellen die Batteriezellen der Zukunft. Als IoT-Expert:innen, Ingenieur:innen und Data Analysts verbinden wir modernste IoT- und KI-Technologien mit unserer hochautomatisierten Fabrik, um Effizienz und Qualität durch datenbasierte Entscheidungen zu verbessern. Im Rahmen deines Werkstudiums unterstützt du unser Team bei Data Science und Front-End-Entwicklung.
+ Was erwartet dich?
+ Du unterstützt beim Sammeln von Anforderungen und bei der Erstellung von Dashboards (Front-End-Entwicklung) als Entscheidungsgrundlage für die Produktion.
+ Außerdem wirkst du mit bei der Nutzung state-of-the-art Cloud-Technologien wie Azure und AWS.
+ Darüber hinaus unterstützt du bei der Erstellung von ETL-Pipelines mit PySpark, AWS Glue und SQL.
+ Zudem wirkst du mit bei der Datenvalidierung, Plausibilitätsprüfung und Datenbereinigung in Python und BI-Tools.
+ Außerdem unterstützt du bei der Erarbeitung von Data-Science-Projekten und der Mitgestaltung unserer IT-Roadmap.
+ Darüber hinaus leistest du organisatorische Unterstützung in der IT-Projektsteuerung.
+ Zudem bringst du eigene Ideen für Analysen und Effizienzsteigerungen ein.
+ Was bringst du mit?
+ Studium der Fachrichtung Maschinenwesen, Elektrotechnik, Mechatronik, Informatik, (Wirtschafts-)Informatik, Naturwissenschaften oder vergleichbar.
+ Interesse an innovativen IT-Themen zwischen Verfahrenstechnik, Maschinenbau, IoT und Data Analytics.
+ Erfahrung in der Datenverarbeitung mit Python oder vergleichbaren Programmiersprachen.
+ Vorkenntnisse in BI-Tools (z.B. Tableau), SQL, Data Analytics und Git von Vorteil.
+ Analytisches Denkvermögen sowie ausgeprägte Kommunikations- und Teamfähigkeit.
+ Proaktive und verantwortungsbewusste Vorgehensweise.
+ Sehr gute Deutschkenntnisse.
+ Möchtest du unser Team bei der Entwicklung smarter Technologien für die Produktion von Batteriezellen unterstützen? Dann bewirb dich jetzt!
+ Was bieten wir dir?
+ Umfassendes Mentoring & Onboarding.
+ Persönliche & fachliche Weiterentwicklung.
+ Flexible Arbeitszeiten.
+ Mobilarbeit.
+ Attraktive & faire Vergütung.
+ Apartments für Studierende (nach Verfügbarkeit & nur am Standort München).
+ Und vieles mehr siehe bmw.jobs/waswirbieten
+ Startdatum: ab frühestens 19.10.2026
+ Dauer: 6 Monate
+ Arbeitszeit: Teilzeit
+Hilfreiche Tipps zu deiner Bewerbung und dem Bewerbungsprozess findest du hier.
+Wir bei der BMW Group legen großen Wert auf Gleichbehandlung und Chancengleichheit. Unsere Recruiting-Entscheidungen basieren auf der Persönlichkeit, den Erfahrungen und Fähigkeiten der Bewerber:innen. Mehr dazu hier.
+Werkstudent Technologieentwicklung Batteriezelle und Data Analytics (w/m/x)

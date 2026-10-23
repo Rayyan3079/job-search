@@ -1,0 +1,29 @@
+URL: https://www.linkedin.com/jobs/view/4481103607
+TITLE: Werkstudent Power BI & Data Analytics (m/w/d)
+COMPANY: Wieland Group
+LOC: Vöhringen, Bavaria, Germany
+POSTED: 2026-10-21
+title: Werkstudent Power BI & Data Analytics (m/w/d)
+company: Wieland Group
+posted: 1 day ago
+applicants: 49 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-power-bi-data-analytics-m-w-d-at-wieland-group-4481103607&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Deine Zukunft
+ Daten visualisieren: Du entwickelst und optimierst interaktive Power-BI-Dashboards, um Daten transparent aufzubereiten und fundierte Entscheidungen zu unterstützen.
+ Daten bereitstellen: Du unterstützt bei der Aufbereitung, Verarbeitung und Bereitstellung von Daten über Databricks als Grundlage für aussagekräftige Analysen und Reports.
+ Lösungen entwickeln: Du setzt kleinere Projekte und Automatisierungen mit SQL und Python um und hilfst dabei, wiederkehrende Prozesse effizienter zu gestalten. 
+ Ideen einbringen: Du arbeitest mit verschiedenen Fachbereichen zusammen, analysierst Anforderungen und bestehende Abläufe und entwickelst praxisnahe Lösungen zur Optimierung und Digitalisierung von Prozessen.
+ Dein Potenzial
+ Qualifikation: Du absolvierst ein technisches Studium im Bereich (Wirtschafts-) Informatik, (Wirtschafts-) Mathematik, (Wirtschafts-) Ingenieurwesen, Maschinenbau o.ä.
+ Voraussetzung: Du bringst Grundkenntnisse in SQL und/oder Python mit und hast Interesse an der Analyse und Verarbeitung von Daten. Du hast idealerweise erste Erfahrungen mit Power BI, beispielsweise bei der Erstellung von Dashboards, Datenmodellen oder DAX-Measures.
+ Skills: Du arbeitest strukturiert und selbstständig, denkst analytisch und hast Freude daran, dich in neue Technologien einzuarbeiten und eigene Ideen umzusetzen.
+ Sprachkenntnisse: Du verfügst über gute Deutsch- und Englischkenntnisse in Wort und Schrift.
+ Deine Vorteile
+ Besser verdienen: Deine Werkstudierendentätigkeit wird mit 17,00 € pro Stunde vergütet - zusätzlich kannst du in den Ferien bis zu 35 Stunden pro Woche arbeiten.
+ Erfahrung sammeln: Durch das Arbeiten und Lernen in vielfältigen Teams kannst du dein erworbenes Wissen in der Praxis anwenden. 
+ Gesund bleiben: Mit dem Vitalessen in den Kantinen, dem Aktiv-Programm rund um Bewegung, Entspannung und gesunder Ernährung sorgen wir für dein Wohl.
+ Kontakt
+ Gerne beantworte ich deine Fragen per E-Mail: recruiting@wieland.com
+Herr Dominik Müller
+Zurück Bewerben

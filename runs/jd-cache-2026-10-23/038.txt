@@ -1,0 +1,44 @@
+URL: https://www.linkedin.com/jobs/view/4463042958
+TITLE: Werkstudent Toolentwicklung - KI unterstütze Fahrzeuganalyse (w/m/x)
+COMPANY: BMW Group
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-10-22
+title: Werkstudent Toolentwicklung - KI unterstütze Fahrzeuganalyse (w/m/x)
+company: BMW Group
+posted: 16 hours ago
+applicants: 113 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-toolentwicklung-ki-unterst%25C3%25BCtze-fahrzeuganalyse-w-m-x-at-bmw-group-4463042958&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+THEORETISCH DIE BESTE ENTSCHEIDUNG. PRAKTISCH AUCH.
+ TEILE DEINE LEIDENSCHAFT.
+ Nur hochprofessionelle Abläufe in dynamischen Teams produzieren innovative Spitzentechnologie. Aber Fahrfreude wird bei uns von der Entwicklung bis zur Fertigung vor allem auch mit Spaß an der Arbeit und Begeisterung für das gemeinsame Projekt realisiert. Deshalb geben wir Studierenden bei uns nicht nur die Gelegenheit zum Zuhören, sondern auch zum Mitreden und Weiterdenken.
+Unser Team entwickelt und betreibt IT-Tools und Systeme zur E/E-Absicherung in der Fahrzeugentwicklung. Unsere Lösungen werden weltweit an allen Produktionsstandorten eingesetzt und entstehen in enger Zusammenarbeit mit verschiedenen Fachbereichen. Im Rahmen deines Werkstudiums wirkst du aktiv an spannenden KI-Projekten mit.
+ Was erwartet dich?
+ Du wirkst mit bei der Konzeption und Entwicklung von Systemen zur E/E-Fehleranalyse unter Einsatz moderner KI-Methoden.
+ Außerdem unterstützt du bei der Analyse und Bewertung von Datenbeständen zur systematischen Fehleridentifikation im E/E-Umfeld der Fahrzeugentwicklung.
+ Darüber hinaus unterstützt du bei der Aufbereitung von spezifischem Fachwissen der BMW Group für LLMs und KI-Agenten mittels RAG, MCP und Agent Skills.
+ Zudem stimmst du dich bereichsübergreifend mit Fachstellen, IT und E/E-Analyse zur Validierung deiner Ergebnisse ab.
+ Außerdem erhältst du direkte Einblicke in den Einsatz von KI- und datengetriebenen Lösungen in der Fahrzeugentwicklung.
+ Was bringst du mit?
+ Studium der Informatik, Wirtschaftsinformatik, Data Science oder eines vergleichbaren technischen Studiengangs, idealerweise zu Beginn des Masterstudiums oder kurz davor.
+ Idealerweise erste praktische Erfahrungen in der Datenanalyse und -aufbereitung (z. B. mit Python, Pandas, SQL oder vergleichbaren Tools).
+ Vorteilhaft: Erfahrung mit Fahrzeugelektronik und vernetzten Kommunikationssystemen.
+ Von Vorteil: Erfahrung mit Agentensystemen und LLM-basierten Ansätzen (z. B. LangChain, MCP, A2A).
+ Strukturierte, analytische und proaktive Denkweise.
+ Bereitschaft zur Zusammenarbeit im Team und mit verschiedenen Fachbereichen, remote und vor Ort.
+ Gute Deutsch- und Englischkenntnisse.
+ Bringst du Begeisterung für neue Technologien und ein innovatives Umfeld mit? Dann bewirb dich jetzt!
+ Was bieten wir dir?
+ Umfassendes Mentoring & Onboarding.
+ Persönliche & fachliche Weiterentwicklung.
+ Flexible Arbeitszeiten.
+ Mobilarbeit.
+ Attraktive & faire Vergütung.
+ Apartments für Studierende (nach Verfügbarkeit & nur am Standort München).
+ Und vieles mehr siehe bmw.jobs/waswirbieten
+ Startdatum: ab frühestens 26.10.2026
+ Dauer: 12 Monate
+ Arbeitszeit: Teilzeit
+Hilfreiche Tipps zu deiner Bewerbung und dem Bewerbungsprozess findest du hier.
+Wir bei der BMW Group legen großen Wert auf Gleichbehandlung und Chancengleichheit. Unsere Recruiting-Entscheidungen basieren auf der Persönlichkeit, den Erfahrungen und Fähigkeiten der Bewerber:innen. Mehr dazu hier.
+Werkstudent Toolentwicklung - KI unterstütze Fahrzeuganalyse (w/m/x)

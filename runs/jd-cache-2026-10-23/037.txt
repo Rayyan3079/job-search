@@ -1,0 +1,41 @@
+URL: https://www.linkedin.com/jobs/view/4481321448
+TITLE: Working Student (f/m/d) - AI agent development
+COMPANY: Siemens Energy
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-10-22
+title: Working Student (f/m/d) - AI agent development
+company: Siemens Energy
+posted: 17 hours ago
+applicants: 106 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-f-m-d-ai-agent-development-at-siemens-energy-4481321448&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Location: ERL S SP 9, BLN
+ Department: SE P DM SPOT
+ A Snapshot of Your Day 
+ As a working student in our Direct Material procurement organization, you will help bring AI agents into the daily work of our global strategic procurement function. As part of our AI program, you will work closely with business experts and our AI Advocate Network to turn real procurement challenges into working AI solutions. You will gather requirements, assess what is technically feasible and build agents yourself, mainly in Microsoft Copilot Studio and in Snowflake Cortex.
+ How You’ll Make An Impact
+ Design, development, and testing of AI agents in Microsoft Copilot Studio and Snowflake Cortex for the streamlining and enhancement of strategic procurement workflows
+ Development, testing, and refinement of agents, including instructions, knowledge sources, tools, connectors, and flows to ensure optimal performance
+ Creation of automations using Power Automate and development of data visualizations with Power BI to complement AI agents
+ Collection of requirements from business stakeholders and translation into clear, actionable agent concepts
+ Documentation of solutions and sharing of best practices with the AI Advocate Network and the broader Procurement community, including support for testing activities and user feedback collection for continuous improvement
+ What You Bring
+ Current enrollment in a degree program in Computer Science, Software Engineering, Data Science, Business Informatics, or a related field
+ Initial practical experience in software development, particularly with Microsoft Copilot Studio, Python programming, or AI/ML models, gained through internships or personal projects
+ Solid understanding of software engineering and AI, including experience with Microsoft Copilot Studio and large language models (LLMs)
+ Strong analytical thinking, problem-solving abilities, and communication skills, combined with a structured, self-motivated, and curious mindset
+ Fluency in written and spoken English; German language skills considered an advantage
+ About The Team
+ In our Business Functions we enable our organization to reach their targets by providing best-in class services and solutions in the areas of IT, HR, Finance, Real Estate, Strategy & Technology and more.
+ Who is Siemens Energy? 
+ At Siemens Energy, we are more than just an energy technology company. With ~100.000 dedicated employees in more than 90 countries, we develop the energy systems of the future, ensuring that the growing energy demand of the global community is met reliably and sustainably. The technologies created in our research departments and factories drive the energy transition and provide the base for one sixth of the world's electricity generation.
+Our global team is committed to making sustainable, reliable, and affordable energy a reality by pushing the boundaries of what is possible. We uphold a 150-year legacy of innovation that encourages our search for people who will support our focus on decarbonization, new technologies, and energy transformation.
+Find out how you can make a difference at Siemens Energy: https://www.siemens-energy.com/employeevideo
+ Our Commitment to Diversity
+ Lucky for us, we are not all the same. Through diversity we generate power. We run on inclusion and our combined creative energy is fueled by over 130 nationalities. Siemens Energy celebrates character – no matter what ethnic background, gender, age, religion, identity, or disability. We energize society, all of society, and we do not discriminate based on our differences.
+ Rewards/Benefits
+ Exciting insights into an international company
+ Lay the foundation for your career with us
+ We value equal opportunities and welcome applications from people with disabilities.
+https://jobs.siemens-energy.com/jobs 
+#RPO

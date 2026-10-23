@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Working Student (f/m/d) - AI agent development",
+    "company": "Siemens Energy",
+    "city": "Berlin",
+    "date": "2026-10-23",
+    "greeting": "Dear Siemens Energy team,",
+    "opening": "I am applying for the Working Student position in AI agent development in Direct Material procurement. Bringing AI into real procurement workflows connects two things I know well: procurement data from my industry work and AI from my degree.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence. Before moving to Germany I worked as a Business Analyst at Tapal Tea and in SAP data & analytics consulting at TallyMarks Consulting.",
+    "achievements": [
+      {
+        "lead": "Procurement data",
+        "impact": "at Tapal Tea I analysed company purchase data from SAP reports and supported dashboards used by procurement and supply chain"
+      },
+      {
+        "lead": "Requirements to solutions",
+        "impact": "I collected and refined user stories from employees and translated business requirements into KPI-based reporting"
+      },
+      {
+        "lead": "Careful documentation",
+        "impact": "I documented data sources, calculations and results for every dashboard I built, so others could reproduce and support them"
+      }
+    ],
+    "problems_section": "I would collect requirements from procurement stakeholders and turn them into clear agent concepts, support testing and user feedback, document solutions, and build dashboards that complement the agents. Building agents in Microsoft's low-code tools would be new to me, and I am motivated to learn it quickly.",
+    "closing": "I am available immediately for up to 20 hours per week and am happy to relocate to Berlin. I would be glad to discuss how I can contribute.",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-10-23/siemens-energy-working-student-ai-agent-development/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

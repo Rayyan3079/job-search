@@ -1,0 +1,53 @@
+URL: https://www.linkedin.com/jobs/view/4479408122
+TITLE: Werkstudent (m/w/d) Computer Vision & KI-Entwicklung (YOLO, LLM)
+COMPANY: DEUTZ
+LOC: Cologne, North Rhine-Westphalia, Germany
+POSTED: 2026-10-21
+title: Werkstudent (m/w/d) Computer Vision & KI-Entwicklung (YOLO, LLM)
+company: DEUTZ
+posted: 1 day ago
+applicants: 60 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-m-w-d-computer-vision-ki-entwicklung-yolo-llm-at-deutz-4479408122&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Standort: Köln, HQ
+ Eintrittsdatum: ab sofort
+ Arbeitszeit: 20
+ Befristung: befristet
+Die DEUTZ AG hat sich in den letzten Jahren zu einem Systemanbieter innovativer und nachhaltiger Mobilitäts- und Energielösungen entwickelt. Mit weltweit rund 6.000 Mitarbeitenden und einem globalen Netzwerk aus über 1.250 Vertriebs- und Servicestandorten in mehr als 180 Ländern gestalten wir die Transformation der Mobilitäts- und Energieversorgung mit. Unsere Technologien entwickeln wir kontinuierlich weiter, mit einem klaren Fokus auf Marktanforderungen, technologische Innovation und gesellschaftliche Verantwortung.
+Als Systemanbieter reicht unser Portfolio heute weit über den klassischen Verbrennungsmotor hinaus: Wir bieten leistungsstarke Antriebssysteme für Off-Highway Anwendungen, alternative Antriebslösungen, dezentrale Energie- und Stromerzeugungssysteme - überall dort, wo Leistung, Verlässlichkeit und Anpassungsfähigkeit gefragt sind. Ein umfassendes Serviceangebot komplettiert unser Produktportfolio. Von Wartung und Reparatur über den Ersatzteilehandel bis hin zum Remanufacturing und digitale, datenbasierte Services.
+ Das erwartet dich bei uns:
+ Entwicklung und Training von YOLO-Modellen für Objekterkennung und Bildklassifikation 
+ Unterstützung bei der Entwicklung von LLM-basierten Anwendungen (OpenAI, Hugging-Face, o.ä.) 
+ Datenaufbereitung (Bereinigung, Transformation, Annotation) für KI-Trainingspipelines 
+ Evaluation und Feinjustierung von Modellen (Hyperparameter-Tuning, Performance-Optimierung) 
+ Integration trainierter Modelle in Microservices mit Docker/Kubernetes (AKS) 
+ Aufbau automatisierter Trainings- und Deployment-Pipelines (Azure DevOps, GitHub Actions) 
+ Implementierung von Monitoring und Performance-Metriken (Prometheus, Grafana) zur Überwachung von KI-Systemen 
+ Dokumentation der Architektur, Ergebnisse und Best Practices 
+ Enge Zusammenarbeit mit Cloud-, Daten- und Entwicklungsteams 
+ Das zeichnet dich aus:
+ Immatrikulierter Student (m/w/d) in Informatik, Data Science, KI, Ingenieurwesen oder einem verwandten Studiengang 
+ Erste praktische Erfahrung mit YOLO (z. B. YOLOv5, YOLOv8) oder anderen Objekterkennungsframeworks 
+ Grundkenntnisse in LLM-Frameworks (z. B. HuggingFace Transformers, LangChain, OpenAI API) 
+ Gute Kenntnisse in Python und relevanten Bibliotheken (PyTorch, TensorFlow, OpenCV, Pandas) 
+ Erste Erfahrung mit Cloud & Container-Technologien (Azure, Docker, Kubernetes) wünschenswert 
+ Interesse an MLOps, Datenpipelines und automatisierten Trainingsprozessen 
+ Analytisches und strukturiertes Denkvermögen 
+ Sehr gute Deutsch- und Englischkenntnisse 
+ Das bieten wir:
+ Täglich neue spannende Herausforderungen und vielfältige Möglichkeiten, sich kreativ einzubringen 
+ Max. 20 Stunden / Woche 
+ Attraktive Vergütung nach Metall-Tarifvertrag NRW, inklusive Sonderzahlungen 
+ Umfangreiches Angebot an Schulungs- und Weiterbildungsmöglichkeiten 
+ Mitarbeitervorteile bei verschiedenen Anbietern online und vor Ort 
+ Umfangreiche Gesundheitsvorsorge (z.B. Impfung Grippe-/Corona-Schutz, Halsschlagaderscreening) mit eigenem Betriebsarztzentrum 
+ Betriebskantine und Kiosk auf dem Werksgelände 
+ Gute Verkehrs- und ÖPNV-Anbindung sowie kostenfreie Parkplätze 
+ Vergünstigte Urban Sports Club Mitgliedschaft 
+ Du suchst einen abwechslungsreichen und spannenden Arbeitsplatz in einem kollegialen Team mit einer attraktiven Vergütung und idealen Rahmenbedingungen? Dann freuen wir uns darauf, dich kennenzulernen!
+ Informationen zu deinem Bewerbungsprozess:
+ Wir begrüßen und unterstützen die Vielfalt unserer Mitarbeitenden und sind davon überzeugt, dass sie einer der wichtigsten Faktoren für den Unternehmenserfolg sind. Diversity macht uns offener, innovativer und wettbewerbsfähiger.
+Sende uns deine aussagekräftige Bewerbung über unser online Bewerbungssystem. Für Fragen steht dir Helen Melsheimer unter der Email career@deutz.com zur Verfügung. ID: 4462
+Wir freuen uns auf deine Bewerbung. Werde Teil unseres Teams!
+Folge uns zwischenzeitlich auch auf unserem LinkedIn-Kanal und bleibe über News und Updates aus der DEUTZ Welt informiert.
+DEUTZ AG: Übersicht | LinkedIn

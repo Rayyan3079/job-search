@@ -1,0 +1,59 @@
+URL: https://www.linkedin.com/jobs/view/4478967762
+TITLE: Working Student (f/m/d) - SAP AIPD Enterprise Architecture Group
+COMPANY: SAP
+LOC: Walldorf, Baden-Württemberg, Germany
+POSTED: 2026-10-21
+title: Working Student (f/m/d) - SAP AIPD Enterprise Architecture Group
+company: SAP
+posted: 2 days ago
+applicants: 26 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-f-m-d-sap-aipd-enterprise-architecture-group-at-sap-4478967762&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Description
+ What you bring 
+ Availability: Able to work at least two hours per business day alongside the agreed weekly schedule. 
+ Mindset: Strong initiative, proactive and goal-oriented working style, with affinity for structured work. 
+ Enterprise Architecture: Understanding of EA frameworks such as TOGAF and architecture modelling. 
+ LeanIX & Jira: Theoretical knowledge required; hands-on experience with either tool is a strong plus. 
+ AI & Automation: Experience with AI agents, scripting, or automation pipelines is an advantage. 
+ MS Office: Good working knowledge of Excel, PowerPoint, Word, and Teams. 
+ Languages: Very good English (written and verbal); German is a plus. 
+ Education: Enrolled in a Bachelor's or Master's in Computer Science, Business Informatics, or a related field. 
+ What You´ll Build
+ We are looking for a working student to join our team part-time (20 hours/week) for at least 12 months. You will support our Enterprise Architecture team in the following areas:
+ Support the third-party software approval process as a quality gate, ensuring submissions meet required standards. 
+ Maintain Enterprise Architecture data in LeanIX, collaborating with architects to ensure data quality and consistency. 
+ Identify and resolve data inconsistencies across LeanIX and Jira to improve reliability of architecture information. 
+ Develop proof-of-concept scripts and leverage AI skills and agents to automate the daily work of enterprise architects. 
+ What You Can Expect
+ Work closely with experienced enterprise architects in a warm, collaborative team environment. 
+ Gain first-hand experience of the IT organization of a DAX-listed company. 
+ Build practical knowledge of LeanIX, TOGAF, and Enterprise Architecture Management. 
+ Explore AI applications in business processes: prompt engineering, AI agents, and workflow automation. 
+ Where you belong 
+ The Corporate Processes & Information Technology (CPIT) organization drives efficiency and streamlined operations. As part of CPIT, the Enterprise Architecture Group shapes the architecture of core IT solutions across SAP's lines-of-business - from Marketing and Sales to Financials and Services by applying advanced Enterprise Architecture methods.
+ How To Prepare For The Interview
+ To prepare for the interview, we recommend reviewing the following resources to build a foundational understanding of Enterprise Architecture, LeanIX, and Jira.
+TOGAF: Develop a general understanding of Enterprise Architecture and the TOGAF Standard.
+ What is TOGAF? A LeanIX guide 
+ TOGAF – The Open Group 
+ What is Enterprise Architecture? A LeanIX Guide 
+ Familiarize yourself with the basics of LeanIX and how it supports Enterprise Architecture Management, including the maintenance of architecture data and the relationships between applications, business capabilities, and IT components.
+ Learning to Use LeanIX for Successful Enterprise Architecture – SAP Learning 
+ Learn the fundamentals of Jira, including projects, issues, workflows, and basic data management.
+ Atlassian Community Learning 
+ Additional Information
+ Please use the free text field to write your cover letter and explain your motivation. After submitting your application, you will have the option to provide additional documents, such as university transcript of records, copies of any academic degrees earned, and references from former employers including internships. 
+ This is a SAP global, strategic, paid working student position that provides students with opportunities to find purpose in their careers. 
+ #Workingstudent #Werkstudent #Germany #Deutschland #Student #SAPGermanStudentsCareers #SAPNextGen
+ About SAP
+ With a global network of customers, partners, employees, and thought leaders, SAP helps the world run better and improves people’s lives.
+As a leader in enterprise applications and business AI, SAP stands at the nexus of business and technology. For over 50 years, organizations have trusted SAP to bring out their best by uniting business-critical operations spanning finance, procurement, HR, supply chain, and customer experience.
+We win with inclusion
+SAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.
+SAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team: Careers@sap.com.
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+Qualified applicants will receive consideration for employment without regard to their age, race, religion, national origin, ethnicity, gender (including pregnancy, childbirth, et al), sexual orientation, gender identity or expression, protected veteran status, or disability, in compliance with applicable federal, state, and local legal requirements.
+AI Usage in the Recruitment Process
+For information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.
+Please note that any violation of these guidelines may result in disqualification from the hiring process.

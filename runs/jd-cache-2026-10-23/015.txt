@@ -1,0 +1,49 @@
+URL: https://www.linkedin.com/jobs/view/4481375333
+TITLE: Working Student (f/m/d) - Quality Assurance, AI & Automation in Client Technology Workplace (CTW)
+COMPANY: SAP
+LOC: Walldorf, Baden-Württemberg, Germany
+POSTED: 2026-10-22
+title: Working Student (f/m/d) - Quality Assurance, AI & Automation in Client Technology Workplace (CTW)
+company: SAP
+posted: 13 hours ago
+applicants: 27 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-f-m-d-quality-assurance-ai-automation-in-client-technology-workplace-ctw-at-sap-4481375333&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+We help the world run better
+ At SAP, we keep it simple: you bring your best to us, and we'll bring out the best in you. We're builders touching over 20 industries and 80% of global commerce, and we need your unique talents to help shape what's next. The work is challenging – but it matters. You'll find a place where you can be yourself, prioritize your wellbeing, and truly belong. What's in it for you? Constant learning, skill growth, great benefits, and a team that wants you to grow and succeed.
+ What You'll Bring
+ You're studying computer science, information systems, or a related field and are drawn to quality assurance, automation, and AI. You enjoy exploring new technologies and turning ideas into practical solutions.
+ A genuine interest in Power Apps, Power Automate, and the Microsoft ecosystem
+ Curiosity about Azure DevOps and software testing approaches
+ Strong analytical thinking and a structured, independent way of working
+ An eagerness to learn tools such as Tricentis Tosca — no prior experience required
+ Good English communication skills, both written and spoken
+ A customer-oriented mindset that keeps end-users in mind
+ At least 2 semesters of studies till graduation left
+ Working from Walldorf office is required
+ We also look for people who communicate clearly, keep the customer in mind, and enjoy finding smart solutions to problems — whatever stage of your career you're at.
+In addition to the role-specific skills above, all student and early talent positions at SAP look for candidates who are open to working with AI tools — including agentic AI — to automate everyday tasks, prototype ideas, and build confidence in AI-assisted ways of working from day one.
+ What You'll Build
+ You'll actively shape and develop an internal QA ecosystem built on Microsoft technologies — building real features that improve how the team works every day.
+ Develop and extend a Power App integrated with Azure DevOps Test Plans
+ Design and optimise Power Automate workflows and low-code process automations
+ Identify and prototype AI-supported improvements to QA processes
+ Take features from initial concept through testing to productive use
+ Document solutions and present results to team members and stakeholders
+ Where you belong
+ You'll join IT Client Services – Client Technology Workplace, a team that has built its own QA ecosystem and is actively evolving it. You'll receive structured onboarding and are encouraged to challenge the status quo and contribute your own ideas. The role is based in Walldorf, Germany, with up to 20 hours per week during the semester and full-time during semester breaks. When you join SAP, you'll be a part of SAP Next Gen — a global community of students and early professionals with access to mentors, development programmes, and peers.
+ Your set of application documents should contain a cover letter, a resume in table form, school leaving certificates, certificate of enrollment, current university transcript of records, copies of any academic degrees already earned, and if available, references from former employers (including internships). Please also describe your experience and skills in foreign languages and computer programs / programming languages.
+ This is a SAP global, strategic, paid working student position that provides students with opportunities to find purpose in their careers.
+ #Workingstudent #Werkstudent #Germany #Deutschland #Student #SAPGermanStudentsCareers #SAPNextGen 
+ Bring out your best
+ SAP innovations help more than four hundred thousand customers worldwide work together more efficiently and use business insight more effectively. Originally known for leadership in enterprise resource planning (ERP) software, SAP has evolved to become a market leader in end-to-end business application software and related services for database, analytics, intelligent technologies, and experience management. As a cloud company with two hundred million users and more than one hundred thousand employees worldwide, we are purpose-driven and future-focused, with a highly collaborative team ethic and commitment to personal development. Whether connecting global industries, people, or platforms, we help ensure every challenge gets the solution it deserves. At SAP, you can bring out your best.
+ We win with inclusion
+ SAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.
+SAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team: Careers@sap.com.
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+Qualified applicants will receive consideration for employment without regard to their age, race, religion, national origin, ethnicity, gender (including pregnancy, childbirth, et al), sexual orientation, gender identity or expression, protected veteran status, or disability, in compliance with applicable federal, state, and local legal requirements.
+Successful candidates might be required to undergo a background verification with an external vendor.
+ AI Usage in the Recruitment Process
+ For information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.
+Please note that any violation of these guidelines may result in disqualification from the hiring process.
+Requisition ID: 453549 | Work Area: Information Technology | Expected Travel: 0 - 10% | Career Status: Student | Employment Type: Limited Part Time | Additional Locations:

@@ -123,4 +123,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4972358651-S | Schleswig-Holstein Netz GmbH | Werkstudent Data Analytics & Business Intelligence (m/w/d) | Quickborn, Kreis Pinneberg
 - [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003885178-S | Ruhr-Universität Bochum | Ph.D. student (m/f/x): Data analysis for exotic hadrons at hadronic thresholds | Bochum
 
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2361810-S | PharmaHera | Werkstudent*in HR-Administration (m/w/d) - Personalsachbearbeitung & KI-..., PharmaHera Service GmbH | Berlin
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/17402-44526281-1022-S | ENERCON GmbH | Werkstudent Digital Finance (m/w/d) | Bremen
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/15939-BB-634979-7878-5960-S | Rheinmetall AG | Werkstudent HR (m/w/d) | Oberndorf am Neckar
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/18121-0068236856-S | RENK GmbH | Werkstudent (m/w/d) zur Unterstützung eines Prüfstandprojekts | Augsburg, Bayern
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/20456-2361544-S | Asklepios Kliniken Hamburg GmbH Unternehmenszentrale | Werkstudent Operatives Controlling (w/m/d) | Hamburg
+
 ## Processed

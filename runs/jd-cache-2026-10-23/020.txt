@@ -1,0 +1,22 @@
+URL: https://www.linkedin.com/jobs/view/4481364119
+TITLE: Werkstudent Business Analytics - Retail Media Insights (m/w/d)
+COMPANY: Schwarz Digits
+LOC: Berlin, Germany
+POSTED: 2026-10-22
+title: Werkstudent Business Analytics - Retail Media Insights (m/w/d)
+company: Schwarz Digits
+posted: 15 hours ago
+applicants: 27 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-business-analytics-retail-media-insights-m-w-d-at-schwarz-digits-4481364119&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Deine Aufgaben 
+ Ad-hoc Analysen & Explorative Datenanalyse: Du unterstützt unser Insights-Team bei der Datenmodellierung. Du nutzt aktiv Python und SQL, um komplexe und große Datenmengen zu analysieren und konkrete Business-Fragen rund um unsere Retail Media Kampagnen zu beantworten.
+ Datenaufbereitung: Du schreibst und optimierst Skripte für unsere Datenpipelines, um Reports, Dashboards und Analyseverfahren effizienter zu machen.
+ Smart Automation & AI-Integration: Du hilfst uns dabei, interne Abläufe zu vereinfachen und zu verschlanken. Dafür schreibst du smarte Python-Skripte und bindest KI-gestützte Tools (z. B. über APIs) in unsere Workflows ein, um manuelle Aufgaben zu automatisieren.
+ Impact & Teamwork: Du arbeitest eng mit Data Engineers, Data Scientists und Product Managern zusammen, identifizierst selbstständig Automatisierungspotenziale und übernimmst in agilen Projekten schnell eigene Verantwortung.
+ Dein Profil 
+ Studium: Du bist aktuell eingeschriebener Student (m/w/d) im Bereich (Wirtschafts-)Informatik, Data Science, Mathematik oder einem vergleichbaren analytisch/technischen Studiengang.
+ Tech-Stack: Du bringst fundierte praktische Programmierkenntnisse in Python und SQL mit.
+ AI-Affinität: Du hast großes Interesse daran, wie man Künstliche Intelligenz und clevere Automatisierungen im Geschäftsalltag nutzen kann, um Prozesse zu vereinfachen. Erste Berührungspunkte mit AI-APIs (z.B. Gemini) oder Automatisierungs-Frameworks sind ein Plus.
+ Mindset: Du hast eine hohe Affinität für Zahlen und Daten und eine echte Hands-on-Mentalität: Wenn du einen ineffizienten Prozess siehst, hast du sofort Lust, ihn technisch zu lösen.
+ Sprachen: Fließende Deutsch- und gute Englischkenntnisse runden dein Profil ab

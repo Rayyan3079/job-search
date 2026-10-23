@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Student Assistant for applied Machine Learning in the »Quantum Computing« Team",
+    "company": "Fraunhofer IAO",
+    "city": "Stuttgart",
+    "date": "2026-10-23",
+    "greeting": "Dear Fraunhofer IAO team,",
+    "opening": "I am applying for the Student Assistant position in applied Machine Learning in your Quantum Computing team. Developing and evaluating new machine learning methods in a research setting is the direction I want to grow in during my M.Sc. in Data Science.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence, where I built computer vision and NLP projects in PyTorch. I also bring industry experience in SQL, data pipelines and dashboards from SAP data & analytics work.",
+    "achievements": [
+      {
+        "lead": "Image-based deep learning",
+        "impact": "I built a PyTorch retinal OCT classifier on EfficientNet-B0 reaching 94.11% accuracy on a 968-image test set, including all preprocessing and augmentation"
+      },
+      {
+        "lead": "Model evaluation",
+        "impact": "in my thesis team I created training data, evaluated and tuned an EfficientNet-B0 model and compared EasyOCR configurations"
+      },
+      {
+        "lead": "Comparing methods",
+        "impact": "in a team project I compared graph-based and language-model representations for clustering text with K-Means and HDBSCAN"
+      }
+    ],
+    "problems_section": "I would contribute Python and PyTorch experience with implementing and adapting neural network models, careful experiment design and evaluation, and clear documentation. Tensor network methods would be new to me, and learning them alongside your researchers is exactly what attracts me to this role.",
+    "closing": "I am available immediately for up to 20 hours per week and am happy to relocate to Stuttgart. I would be glad to discuss how I can contribute.",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-10-23/fraunhofer-iao-student-assistant-applied-ml-quantum/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

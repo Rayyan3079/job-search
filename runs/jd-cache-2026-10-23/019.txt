@@ -1,0 +1,28 @@
+URL: https://www.linkedin.com/jobs/view/4474179776
+TITLE: Werkstudent Capacity Planning & Analytics (m/w/d)
+COMPANY: BIRKENSTOCK
+LOC: Cologne, North Rhine-Westphalia, Germany
+POSTED: 2026-10-22
+title: Werkstudent Capacity Planning & Analytics (m/w/d)
+company: BIRKENSTOCK
+posted: 13 hours ago
+applicants: 89 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-capacity-planning-analytics-m-w-d-at-birkenstock-4474179776&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+BIRKENSTOCK ist eine globale universale Marke, die sich gleichermaßen an alle Konsumenten unabhängig von geografischem Standort, Geschlecht, Alter und Einkommen wendet. Die historischen Wurzeln des Unternehmens lassen sich bis ins Jahr 1774 zurückverfolgen. Mit weltweit rund 7100 Mitarbeiterinnen und Mitarbeitern ist BIRKENSTOCK der größte Arbeitgeber der deutschen Schuhindustrie. Um unsere Qualitätsstandards zu gewährleisten, produzieren wir über 95 % unserer Produkte in Deutschland und beziehen mehr als 90 % unserer Materialien und Komponenten aus Europa. Die BIRKENSTOCK Group hat ihren Sitz in Linz am Rhein und unterhält mehrere Standorte in Deutschland, sowie Vertriebsniederlassungen in Europa, Nordamerika, dem Nahen Osten und Asien.
+DEIN NEUES PAAR SCHUHE:
+ Unterstützung bei der Erstellung von regulären Reports im Tagesgeschäft und Ad-hoc-Analysen
+ Sicherstellung der Datenqualität und -governance durch Überprüfung der Datengenauigkeit sowie Gewährleistung der Datenzuverlässigkeit und -abstimmung zwischen den Stakeholdern
+ Initiativen zur kontinuierlichen Verbesserung:
+ Unterstützung beim Aufbau einer einheitlichen Datenquelle (Single Source of Truth) über Teams, Abteilungen und Funktionen hinweg, sofern diese noch nicht vorhanden ist
+ Automatisierung von Berichtsprozessen durch den Ersatz manueller Excel-basierter Analysen durch skalierbare Power BI-Dashboards, durchgängig automatisierte Aktualisierungsmechanismen und die Kommunikation mit den Stakeholdern
+ Entwicklung und Pflege von BI-Lösungen, einschließlich Power BI-Berichten, KPIs, Visualisierungen und Dokumentation, zur Unterstützung der geschäftlichen Entscheidungsfindung
+ DEIN WEG DURCHS LEBEN:
+ Du bist eingeschriebe/r Student/in (m/w/d) im Bereich Wirtschaftswissenschaften, Logistik, Supply Chain Management oder einem vergleichbaren Studiengang.
+ Du hast erste praktische Erfahrungen im Bereich Supply Chain gesammelt, z. B. durch Praktika oder ähnliche vorherige Erfahrungen
+ Sehr gute Kenntnisse in Excel bringst du ebenfalls mit; Erfahrungen mit Power BI sind von Vorteil.
+ Idealerweise hattest du erste Berührungspunkte mit SAP oder bist motiviert, dich in das System einzuarbeiten.
+ Eine eine analytische Denkweise, eine strukturierte Arbeitsweise und ein hohes Maß an Eigeninitiative runden dein Profil ab.
+ WIR BIETEN DIR:
+BIRKENSTOCK bietet Dir alle Vorteile eines erfolgreichen, stark wachsenden, globalen Unternehmens: ein dynamisches Arbeitsumfeld, großen Gestaltungsspielraum, eine authentische und offene Unternehmenskultur sowie hervorragende Entwicklungsmöglichkeiten. Klingt spannend? Ist es auch. Wir freuen uns auf deine Online-Bewerbung unter Angabe deiner Gehaltsvorstellung.
+Bei Fragen zu dieser Position steht dir Natalie Leppin gerne zur Verfügung.

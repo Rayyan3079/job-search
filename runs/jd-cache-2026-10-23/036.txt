@@ -1,0 +1,55 @@
+URL: https://www.linkedin.com/jobs/view/4482142759
+TITLE: Student Assistant (HiWi) (f/m/div) for AI-Assisted 3D Segmentation of Photonic Nanostructures
+COMPANY: Max Planck Institute for Intelligent Systems
+LOC: Stuttgart, Baden-Württemberg, Germany
+POSTED: 2026-10-21
+title: Student Assistant (HiWi) (f/m/div) for AI-Assisted 3D Segmentation of Photonic Nanostructures
+company: Max Planck Institute for Intelligent Systems
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fstudent-assistant-hiwi-f-m-div-for-ai-assisted-3d-segmentation-of-photonic-nanostructures-at-max-planck-institute-for-intelligent-systems-4482142759&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+The Max Planck Institute for Intelligent Systems (MPI-IS) conducts research to advance intelligent systems that perceive, learn, and interact. Through fundamental research across computational, physical, and social dimensions, we shape artificial intelligence and robotics to advance knowledge and benefit society.
+We are looking for a
+Student Assistant (HiWi) (f/m/div) for AI-Assisted 3D Segmentation of Photonic Nanostructures
+ About Us
+ We are seeking a motivated student research assistant to contribute to an interdisciplinary research project investigating the mechanisms of dynamic structural coloration in blue shark (Prionace glauca) skin and translating the underlying biological principles into adaptive biomimetic photonic systems.
+The project combines fundamental research on biological photonic architectures with the development of a denticle-inspired platform comprising modular optical units capable of changing color in response to environmental stimuli. Understanding how the spatial arrangement of light-reflecting guanine crystals governs optical output is central to both research directions.
+To investigate this relationship, we have acquired three-dimensional cryogenic focused ion beam (Cryo-FIB) microscopy datasets of shark dermal denticles maintained in three distinct color states: blue, green and orange. Computational simulations predict that increasing the spacing between guanine crystals shifts the reflected light towards longer wavelengths.
+The student will contribute to the 3D segmentation of individual light reflective crystals, providing essential structural data to test this hypothesis and guide the development of bio-inspired, color-responsive photonic systems.
+Department website:
+https://rm.is.mpg.de/
+Roles & Responsibilities
+The position offers hands-on experience in scientific image processing, AI-assisted segmentation and three-dimensional analysis of biological nanostructures.
+Possible tasks include:
+ Performing 3D segmentation of individual guanine crystals based on Cryo-FIB microscopy datasets using Amira software. 
+ Applying and optimizing machine-learning-based, automated and semi-automated segmentation workflows. 
+ Refining segmentation results manually where necessary to ensure accurate separation of individual crystals. 
+ Ensuring a consistent segmentation approach across datasets representing the three color states (blue, green and orange). 
+ Preparing segmented 3D datasets for quantitative analysis of crystal spacing and spatial organization, and for computational modelling of their optical response across different color states. 
+ Documenting image-processing workflows and organizing datasets for reproducible analysis. 
+ Training and guidance in Amira and the relevant segmentation methods will be provided!
+Education & Experience
+We are looking for motivated students pursuing a degree in materials science, computer science, biomedical engineering, physics, biology or a related field.
+Applicants should
+ Be currently enrolled at a German university. 
+ Have an interest in scientific image processing, 3D visualization or materials characterization. 
+ Demonstrate a careful, systematic and independent working approach. 
+ Have good oral and written communication skills in English. 
+ Be able to work on site at the Max Planck Institute for Intelligent Systems in Stuttgart. 
+ We are especially interested in applicants who have:
+ Previous experience with 3D image processing or segmentation software, such as Amira, Avizo, Dragonfly, VGSTUDIO MAX or Materialise Mimics. 
+ Interest in machine learning and AI-assisted image analysis. 
+ An interest in microscopy, materials science, biomaterials or photonic nanostructures. 
+ Our offer
+Master's students holding a Bachelor's degree will be paid €15.61 per hour, with working hours ranging from 16 to 20 hours per week. The position is available to start as soon as possible, with an initial appointment until 31 December 2026.
+We offer a modern, well-equipped workplace, a highly international working environment, and access to an affiliated daycare center for young children.
+Application
+Please upload your application including a resumé in English and a cover letter to our
+application portal
+ For further questions, please contact Dr. Viktoriia Kamska at
+ kamska@is.mpg.de
+ The Max Planck Society is committed to increasing the number of individuals with disabilities in its workforce and therefore encourages applications from such qualified individuals. The Max Planck Society strives for gender equality and diversity. Furthermore, the Max Planck Society seeks to increase the number of women in its workforce in those areas where they are underrepresented and therefore explicitly encourages women to apply. 
+ Closing date for applications
+20.11.2026
+ Applications received by 10.11.2026 will be given preferential treatment.

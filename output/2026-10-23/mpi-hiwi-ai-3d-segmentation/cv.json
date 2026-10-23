@@ -1,0 +1,140 @@
+{
+  "lang": "en",
+  "page_format": "a4",
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "title": "Data Science Student | Computer Vision & Image Processing",
+    "phone": "+49 179 6991596",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "linkedin": {
+      "url": "https://www.linkedin.com/in/rayyan--ahmed/",
+      "display": "linkedin.com/in/rayyan--ahmed"
+    },
+    "location": "Ilmenau, Germany",
+    "portfolio": {
+      "url": "https://www.kaggle.com/rayyan123z",
+      "display": "kaggle.com/rayyan123z"
+    }
+  },
+  "summary": "M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence, hands-on **PyTorch projects in computer vision and NLP**, and professional experience building analytics dashboards and data models on SAP platforms. Experienced with **image preprocessing, model evaluation and documented, reproducible workflows**.",
+  "experience": [
+    {
+      "company": "Tapal Tea (Pvt.) Ltd.",
+      "role": "Business Analyst",
+      "location": "Karachi, Pakistan",
+      "dates": "Apr 2026 - Sep 2026",
+      "bullets": [
+        "Built a quality inspection dashboard in **SAP Analytics Cloud** on a data model built from **ABAP CDS view** data sources and joins, replacing a manual process of opening an SAP report per material for thousands of materials and compiling defect status in Excel",
+        "Performed SQL analysis, ABAP CDS view validation and data reconciliation to support reporting accuracy",
+        "Translated business requirements into KPI-based reporting and documented data sources, calculations and results for every dashboard I built",
+        "Handled daily support tickets and user queries for around 30 SAC dashboards across HR, finance, supply chain and procurement, including dashboards built by others"
+      ]
+    },
+    {
+      "company": "SAP Authorized Training Program",
+      "role": "SAP Young Professionals Program (YPP)",
+      "location": "Karachi, Pakistan",
+      "dates": "Aug 2025 - Sep 2025",
+      "bullets": [
+        "Selected as **one of 10 participants from Pakistan** for the SAP Young Professionals Program",
+        "Completed intensive training on **SAP S/4HANA Cloud Public Edition** implementation, covering end-to-end business processes and system configuration"
+      ]
+    },
+    {
+      "company": "TallyMarks Consulting (TMC)",
+      "role": "Management Trainee Officer, Data Planning & Analytics",
+      "location": "Karachi, Pakistan",
+      "dates": "Jun 2025 - Apr 2026",
+      "bullets": [
+        "Part of a team migrating a textile manufacturer's **42 SAC dashboards from SAP BW to SAP Datasphere**",
+        "Independently built the spinning dashboard end to end: investigated sources and dependencies, rebuilt the datasets in SAP Datasphere and rebuilt the SAC dashboard (OEE, machine efficiency and utilization, downtime, yield)",
+        "Designed and implemented SAP Datasphere data pipelines connecting the required sources",
+        "Prepared and presented a client presentation on SAP Analytics Cloud; the client subsequently purchased it"
+      ]
+    },
+    {
+      "company": "Tapal Tea (Pvt.) Ltd.",
+      "role": "SAP Data Analyst Intern",
+      "location": "Karachi, Pakistan",
+      "dates": "Jun 2024 - Aug 2024",
+      "bullets": [
+        "Developed interactive dashboards in **SAP Analytics Cloud** and Power BI, enabling real-time visualization of purchasing data and faster report generation",
+        "Wrote complex SQL queries to integrate company-wide data with SAC, enabling seamless data updates and minimizing reliance on manual extraction"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "M.Sc. Data Science",
+      "org": "Technische Universität Ilmenau",
+      "location": "Ilmenau, Germany",
+      "year": "Oct 2026 - present",
+      "description": "Courses: Bayesian Data Assimilation, Sequential Decision Making, Theoretical Foundations of Data Management"
+    },
+    {
+      "title": "B.S. Artificial Intelligence",
+      "org": "FAST-NUCES",
+      "location": "Karachi, Pakistan",
+      "year": "2021 - 2025",
+      "description": "CGPA 3.49/4.00 (German grade equivalent: 1.7, converted)"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "SAP Certified Associate: SAP Analytics Cloud (Data Analyst)",
+      "org": "",
+      "year": "2025"
+    },
+    {
+      "title": "SAP Certified Associate: SAP Business Data Cloud",
+      "org": "",
+      "year": "2025"
+    },
+    {
+      "title": "SAP Certified Associate: SAP S/4HANA Cloud Public Edition, Implementation Consultant",
+      "org": "",
+      "year": "2025"
+    },
+    {
+      "title": "SAP Certified Associate: SAP Integration Developer",
+      "org": "",
+      "year": "2025"
+    }
+  ],
+  "skills": [
+    {
+      "category": "AI & Programming",
+      "items": "Python · PyTorch · Pandas · NumPy · scikit-learn · OpenCV · spaCy · BERT · GPT-2 · ChatGPT & Claude"
+    },
+    {
+      "category": "Data & BI",
+      "items": "SQL · data pipelines · data modelling · SAP Datasphere · SAP Analytics Cloud · Power BI (basic)"
+    },
+    {
+      "category": "Office",
+      "items": "Excel (pivot tables, formulas) · PowerPoint · Word"
+    },
+    {
+      "category": "Languages",
+      "items": "English C1 (IELTS 8.0) · German A1 (currently learning)"
+    }
+  ],
+  "sections": {
+    "skills": "Technical Skills",
+    "experience": "Professional Experience",
+    "certifications": "Certifications"
+  },
+  "projects": [
+    {
+      "name": "Retinal OCT Scan Classification",
+      "tech": "PyTorch, EfficientNet-B0, OpenCV",
+      "description": "4-class **medical image** classifier on a pretrained EfficientNet-B0; **94.11% accuracy** on a 968-image test set, incl. denoising, resizing, rotation, cropping and flipping."
+    },
+    {
+      "name": "Automated Cricket Highlights Generation",
+      "badge": "B.S. Thesis, team project",
+      "tech": "PyTorch, OpenCV, EasyOCR, FFmpeg",
+      "description": "Created training data, evaluated and tuned an EfficientNet-B0 model, tested EasyOCR for scoreboard extraction, and built the highlight assembly pipeline."
+    }
+  ]
+}

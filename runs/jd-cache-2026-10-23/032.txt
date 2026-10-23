@@ -1,0 +1,66 @@
+URL: https://www.linkedin.com/jobs/view/4482499621
+TITLE: AI Builder — Working Student
+COMPANY: EggAI Technologies
+LOC: Tübingen, Baden-Württemberg, Germany
+POSTED: 2026-10-22
+title: AI Builder — Working Student
+company: EggAI Technologies
+posted: 14 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fai-builder-%25E2%2580%2594-working-student-at-eggai-technologies-4482499621&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+EggAI Labs
+ Working Student
+ In Person (Tübingen, Germany)
+ Designing lifecycle evaluation for nondeterministic domain-specific AI systems.
+ EggAI Labs
+We're opening the EggAI Labs in Tübingen. The Labs purpose is to test new AI capabilities, identify what works, how they'd improve delivery, and then build assets to support teams and clients. EggAI's mission cannot be achieved through one-off client projects alone and the Labs is the way to adapt and scale.
+As part of the first cohort, you will join a small peer group and work directly with EggAI's CAIO, a Tübingen alumnus. You will also collaborate with our engineering, product, and project leads, who will bring you insights from client problems, help you understand their context and challenge your solutions for them. Your fellow AI Builders will be deliberately chosen to span different passions and strenghts. You will have room to explore and be expected to turn that exploration into something useful. This is not a client-facing role.
+The problem: EvalOps
+ How do we prove an AI system acts as expected under various conditions?
+ We will explore EvalOps : the methods and tools used to check whether domain-specific AI systems meet their behavioral requirements. Among the key challenges for operating AI systems are nondeterminism, ground-truth curation, evaluation metric-design, latency and costs. EvalOps need to overcome all of them in a disciplined way.
+These questions will guide the initial work:
+ Regression suites: How can domain experts turn traces, code, and prompts into useful evals in a way that scales?
+ Coverage estimation: How can we quantify the gaps between an eval suite and the range of expected agent behaviors?
+ Live monitoring: Is it possible to detect anomalous behaviour in production with a similar precision to regression evals?
+ Eval analysis: How much evidence is enough to act (e.g., deploy, debug, roll back a feature, choose a different model)? You will help refine them, test approaches, create assets, and pose new questions.
+ The role
+As an AI Builder, you will take an open EvalOps problem from investigation to a working prototype, ready to be tested. Whatever your focus, you will be expected to take a problem through to a useful result. Here is what that means in practice:
+ Research emerging AI and evaluation capabilities and distinguish substance from hype.
+ Understand the user, workflow, domain, and organisational problem around the work.
+ Evaluate usefulness, quality, safety, and reliability with appropriate evidence.
+ Communicate decisions and learning clearly.
+ Create assets that other people can understand, use, and improve.
+ Code and build end to end.
+ This shared foundation leaves room for different strengths and interests. Each AI Builder will then develop greater depth in one of three pillars.
+Three pillars, different passions
+Pillar Driving question Possible EvalOps focus Product What should we build? Workflows and interfaces that help domain experts create evals, inspect traces, understand results, and make decisions. Engineering How should we build it? Dependable and scalable evaluation infrastructure, trace processing, monitoring, and governance tooling. Data Science How do we know it works? Coverage measures, sampling strategies, scoring methods, statistical tests, anomaly detection, and reasoning under uncertainty.
+We expect every AI Builder to develop a practical foundation across all three pillars and to pursue greater depth in the one that most strongly matches their passion.
+What we value
+ Problem obsession. A difficult question captures your curiosity. You keep returning to it, pursue ideas without waiting for instructions, and care deeply about finding an answer that works.
+ Initiative and follow-through. You turn uncertainty into something you can investigate, test, and improve—and stay resourceful when the first approach fails.
+ Evidence of making things work. Show us something you created, the decisions you made, and what you learned along the way.
+ Independent judgment. You test new capabilities yourself, distinguish evidence from enthusiasm, and change your mind when the findings warrant it.
+ Generosity in collaboration. You explain your thinking, seek candid feedback, act on it, and help others make progress. 
+ What Is Required
+ You are pursuing a Master's degree.
+ You can write code and turn an idea into working, tested software.
+ You can work from Tübingen and communicate fluently in English, our company language.
+ Relevant fields include Computer Science, Machine Learning, Mathematics, Physics, Bioinformatics, Computational Neuroscience, Medical Informatics, Quantitative Data Science, Cognitive Science. We also welcome candidates from other disciplines who can demonstrate strong problem-solving and practical technical ability.
+What you will gain
+ Industry insight. Learn what works and what breaks in real enterprise AI systems, with access to problems from EggAI's client work
+ Meaningful ownership. Take an EvalOps problem from investigation to a working, evaluated solution, with freedom to shape the approach.
+ Close mentorship. Work directly with EggAI's Chief AI Officer and sharpen your judgment through feedback from engineering, product, and project leads.
+ Room to develop. Deepen your strengths, learn from peers with complementary perspectives, and use modern AI-development tools on unresolved problems.
+ A say in the Lab's direction. Help establish its working practices, propose new questions, and influence what it pursues next.
+ Competitive compensation, including recognition for exceptional contributions, and a potential path to a full-time EggAI role after graduation.
+ How to apply
+A short cover letter is required.
+Your CV tells us what you have done so far, but we're also interested in the why . Use the letter to explain why you made those choices, what drives you, and why the AI Builder role at EggAI Labs feels like the right next step in your career.
+We are looking for exceptional students, and excellence takes many forms, e.g., academic results, research or ambitious projects. Whatever form yours takes, show us the appropriate evidence, be it grades, publications, something you've built or other evidence of impact.
+This is an in-person role in Tübingen. We can only consider candidates who live within commuting distance.
+ About EggAI
+ Agentic workforces are inevitable. Making them work is our mission.
+ EggAI is building the engineering methods, operating models, and reusable technology to deploy agentic workforces with the quality and control required for sustained business impact.
+Working closely with enterprise clients, we design, implement and operate agentic systems that evolve from augmenting individual tasks to autonomously executing end-to-end processes alongside people—resilient, controlled, and scalable. We begin with the client problem, select the technical approach that best serves it, and remain accountable through deployment, adoption, and operations. Each deployment strengthens the next by turning production learning into reusable capability.
+We are an experienced, international team working across Europe. We set high standards, take ownership of outcomes, and value clear thinking, candid feedback, and the ability to turn ideas into tangible results.

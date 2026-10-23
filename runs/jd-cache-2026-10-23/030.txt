@@ -1,0 +1,50 @@
+URL: https://www.linkedin.com/jobs/view/4480794232
+TITLE: Student Assistant for applied Machine Learning in the »Quantum Computing« Team (all genders)
+COMPANY: Fraunhofer Karriere
+LOC: Stuttgart, Baden-Württemberg, Germany
+POSTED: 2026-10-21
+title: Student Assistant for applied Machine Learning in the »Quantum Computing« Team (all genders)
+company: Fraunhofer Karriere
+posted: 1 day ago
+applicants: 61 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fstudent-assistant-for-applied-machine-learning-in-the-%25C2%25BBquantum-computing%25C2%25AB-team-all-genders-at-fraunhofer-karriere-4480794232&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+The » Quantum Computing « team in the Digital Business research area at Fraunhofer Institute for Industrial Engineering IAO works on national and international research and consulting projects aimed at harnessing the potential of quantum computing for industry and society. Together with the Fraunhofer Institute for Manufacturing Engineering and Automation IPA, the team operates flaQship , the Fraunhofer Lab for applied quantum computing Stuttgart-Heilbronn. In this context, the team coordinates the » Kompetenzzentrum Quantencomputing Baden-Württemberg « Baden-Württemberg« and co-leads the office of the state initiative QuantumBW , and it offers a broad portfolio of training courses, symposia, trade fair appearances and knowledge transfer formats for companies, students and the general public.
+Within this environment, our research group investigates tensor network methods for anomaly detection, combining concepts from quantum computing with state-of-the-art machine learning techniques. We develop novel tensor-based approaches, including tensor density estimation and tensor learning, to efficiently model and analyze high-dimensional data.
+To support this research, we are looking for a motivated Student Assistant who would like to contribute to cutting-edge work at the intersection of quantum computing, machine learning, and artificial intelligence. As part of an interdisciplinary team, you will support the development and evaluation of innovative algorithms and have the opportunity to contribute to scientific publications and research outcomes.
+ Be part of change
+ You develop and evaluate novel tensor network algorithms for machine learning and data analysis applications
+ You investigate and implement advanced approaches such as tensor density estimation and tensor-based learning methods
+ You analyze research questions, design experiments, and assess the performance of newly developed methods
+ You work closely with our researchers to advance the state of the art in tensor network and quantum-inspired machine learning
+ You contribute to scientific publications and present research results to the international research community
+ What You Contribute
+ You are an enrolled student in Computer Science, Artificial Intelligence, Data Science, Mathematics, Physics, or a related field
+ You have a solid understanding of linear algebra and feel comfortable applying its concepts to solve practical problems
+ You have a basic understanding of machine learning concepts and can explain and work with fundamental methods such as linear regression
+ You are comfortable programming in Python and have hands-on experience with PyTorch, including implementing and adapting neural network models
+ You have good English skills, German is an advantage but not required
+ You are highly motivated to learn, enjoy diving deep into technical topics, and have a genuine curiosity for understanding how things work
+ What We Offer
+ You can expect challenging and varied tasks in an innovative research environment. We also offer you:
+ Insights into application-oriented research and current, innovative topics
+ A pleasant working atmosphere in a motivated team
+ Equal opportunities, accessibility, and diversity
+ Responsible tasks that will help you develop your skills
+ State-of-the-art technology and working environment
+ Flexible working time models
+ Transparent and fair remuneration
+ Connection to our student network
+ Sports facilities at the University of Stuttgart
+ We value and promote the diversity of our employees' skills and therefore welcome all applications – regardless of age, gender, nationality, ethnic and social origin, religion, ideology, disability, sexual orientation and identity. Severely disabled persons are given preference in the event of equal suitability. Our tasks are diverse and adaptable – for applicants with disabilities, we work together to find solutions that best promote their abilities.
+ The monthly working time are 40 hours. 
+ The position is initially limited to one year. Longer-term employment is desirable. 
+ Remuneration according to the general works agreement for employing assistant staff. 
+ With its focus on developing key technologies that are vital for the future and enabling the commercial utilization of this work by business and industry, Fraunhofer plays a central role in the innovation process. As a pioneer and catalyst for groundbreaking developments and scientific excellence, Fraunhofer helps shape society now and in the future.
+ Ready for a change? Then apply now and make a difference! Once we have received your online application, you will receive an automatic confirmation of receipt. We will then get back to you as soon as possible and let you know what happens next. 
+ If you have any questions about this position, please contact: 
+ Mr. Zeki Zeybek
+Phone +49 151 16327887
+Fraunhofer Institute for Industrial Engineering IAO
+www.iao.fraunhofer.de
+Requisition Number: 86005 Application Deadline: 11/30/2026

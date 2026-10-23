@@ -1,0 +1,40 @@
+URL: https://www.linkedin.com/jobs/view/4480025026
+TITLE: Werkstudent im Bereich Data Science (m/w/d)
+COMPANY: Allianz Private Krankenversicherungs AG
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-10-22
+title: Werkstudent im Bereich Data Science (m/w/d)
+company: Allianz Private Krankenversicherungs AG
+posted: 19 hours ago
+applicants: 36 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-im-bereich-data-science-m-w-d-at-allianz-private-krankenversicherungs-ag-4480025026&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Aufgaben 
+ Willkommen bei der Allianz
+ Für unseren modernen und innovativen Standort Unterföhring suchen wir einen Werkstudenten (m/w/d). Digitalisierung, Daten und Künstliche Intelligenz sind zentrale Themen in allen Unternehmensbereichen der Versicherungen. Die Allianz entwickelt daher neue Expertise, Prozesse und Infrastruktur, um das Potenzial dieser Bereiche optimal zu nutzen. Als Werkstudent Data Science (m/w/d) im Tribe Leistung arbeitest Du im Zentrum dieser bedeutenden Zukunftsfelder unserer Branche.
+ Der Tribe Leistung hat das Ziel, unseren Kundinnen und Kunden den besten Service in Vorsorge und Beratung zu bieten und im Leistungsfall durch eine schnelle und effiziente Bearbeitung ihrer Anliegen zu überzeugen. Dabei haben wir es uns zum Ziel gesetzt, durch den Einsatz von neuen Technologien wie beispielsweise Generative AI die Prozesse im Bereich Krankenversicherung grundlegend zu modernisieren.
+ Unser Anspruch ist es, skalierbare Lösungen zu entwickeln, die künftiges Kundenwachstum ermöglichen. Neben spannenden und innovativen Themen fördern und fordern wir Dich und Deine Entwicklung in einer der Kerneinheiten der Allianz Privaten Krankenversicherungs-AG!
+ Das erwartet Dich bei uns als Werkstudent im Bereich Data Science für den Tribe Leistung (m/w/d)
+ Du unterstützt Dein Team aktiv bei der Digitalisierung im Tribe Leistung und arbeitest gemeinsam an der Erreichung der Projektziele.
+ Du analysierst und bereitest Daten mithilfe von Analytics-Lösungen auf und kommunizierst die Ergebnisse verständlich gegenüber dem Management und anderen Bereichen.
+ Du entwickelst in einem agilen Projektumfeld gemeinsam mit fachlichen Experten KI-Modelle unter Einsatz von Generative AI und Large-Language Modellen und begleitest deren Umsetzung mit der IT.
+ Du unterstützt bei der Integration neuer Lösungen in bestehende Systeme und Prozesse und achtest dabei auf einen stabilen und performanten Betrieb.
+ Du treibst gemeinsam mit Deinem Team die Nutzung moderner Technologien voran und bringst Dich aktiv mit eigenen Ideen ein. 
+ Profil
+ Das bringst Du mit als Werkstudent im Bereich Data Science für den Tribe Leistung (m/w/d)
+ Du studierst Data Science, Mathematik, Informatik, Statistik oder einen verwandten Studiengang und überzeugst durch sehr gute Studienleistungen.
+ Du bringst erste praktische Erfahrung in der Datenanalyse mit Python mit, hast ein Grundverständnis für API-Anbindungen und idealerweise bereits mit multimodalen LLMs gearbeitet.
+ Du hast keine Schwierigkeiten beim Umgang mit Programmiersprachen wie SQL oder Bash oder bist bereit, Dich darin einzuarbeiten.
+ Du besitzt ausgeprägte analytische Fähigkeiten, kannst komplexe Sachverhalte strukturiert aufbereiten und kommunizierst sicher auf Deutsch und Englisch.
+ Du bist neugierig, gestaltest gerne aktiv mit und bringst idealerweise erste Kenntnisse aus dem Versicherungsbereich mit.
+ Offenheit für kreative und innovative Lösungen sowie Freude am Umgang mit zukunftsweisenden Technologien wie Künstliche Intelligenz oder internes ChatGPT.
+ Wir bieten
+ Unsere Highlights für Dich:
+ Gesundheit & Wohlbefinden: Zahlreiche Sport- und Gesundheitsangebote sowie Präventionsmaßnahmen legen den Grundstein für deine körperliche und mentale Gesundheit. 
+ Vergütung: Neben einer attraktiven Vergütung erwartet dich ein monatlicher Fahrtkostenzuschuss in Höhe von 30,00 € sowie ein täglicher Mittagessenszuschuss in unseren hervorragenden Mitarbeitendenrestaurants.
+Zeit & Flexibilität: Mit unserem Modell „Neues Arbeiten" können Beruf und Privatleben noch besser vereinbart werden. Wir arbeiten flexibel, hybrid, mobil und vor Ort.
+ Karriereentwicklung: Umfassende Bildungsmöglichkeiten in Form von Schulungen sowie Zugang zu LinkedIn Learning oder Degreed ermöglichen eine kontinuierliche Weiterentwicklung.
+ Eine vollständige Übersicht darüber, was uns als Arbeitgeber attraktiv macht, findest du unter careers.allianz.com/benefits
+ Important note
+ Please be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered. 
+ LNKD1_DE

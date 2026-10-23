@@ -1,0 +1,54 @@
+URL: https://www.linkedin.com/jobs/view/4480792335
+TITLE: Student Assistant for LLM-Based Research in the »Quantum Machine Learning« Team (all genders)
+COMPANY: Fraunhofer Karriere
+LOC: Stuttgart, Baden-Württemberg, Germany
+POSTED: 2026-10-21
+title: Student Assistant for LLM-Based Research in the »Quantum Machine Learning« Team (all genders)
+company: Fraunhofer Karriere
+posted: 1 day ago
+applicants: 65 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fstudent-assistant-for-llm-based-research-in-the-%25C2%25BBquantum-machine-learning%25C2%25AB-team-all-genders-at-fraunhofer-karriere-4480792335&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+The » Quantum Machine Learning « team at Fraunhofer Institute for Industrial Engineering IAO in Stuttgart conducts research on quantum computing-based data processing and develops machine learning methods in support of quantum technologies. The team is part of flaQship , the Fraunhofer Lab for applied quantum computing Stuttgart-Heilbronn, which unites the expertise of Fraunhofer Institute for Industrial Engineering IAO and the Fraunhofer Institute for Manufacturing Engineering and Automation IPA. Within flaQship , the research area Quantum Service Engineering and High-Performance Computing focuses on making quantum computing usable as service-oriented applications, on integrating quantum resources into existing IT workflows, and on operating the laboratory and High-Performance computing infrastructure on which our research, trainings and demonstrators rely.
+To strengthen our research activities, we are looking for a Student Assistant interested in exploring how large language models and agentic AI systems can support research in quantum algorithms and related fields. You will contribute to the development and evaluation of AI-assisted research workflows that combine scientific literature, mathematical reasoning, software tools, and automated verification to accelerate and improve research in quantum computing.
+ Be part of change
+ You explore how large language models and AI agents can support research in quantum algorithms, quantum software, compilation, simulation, and related fields
+ You develop prototypes of agentic research workflows for tasks such as literature exploration, algorithm comparison, circuit generation, resource estimation, and automated experimentation
+ You connect AI agents with scientific tools, including quantum software frameworks, numerical simulators, symbolic mathematics systems, literature databases, and code repositories
+ You design benchmarks and test cases to evaluate mathematical correctness, physical consistency, reproducibility, and practical usefulness
+ You investigate and compare approaches such as prompting, retrieval-augmented generation, tool use, planning, reflection, and multi-agent systems
+ You analyze failure modes, including hallucinated references, incorrect derivations, invalid quantum circuits, unreliable code, and misleading claims of quantum advantage
+ You implement and evaluate proof-of-concept systems in Python and assess their applicability in scientific research workflows
+ You document methods, experiments, and results in a reproducible manner and contribute to internal reports, presentations, software tools, and scientific publications
+ You regularly discuss your progress, findings, and research ideas with the project team and contribute to shaping future research directions
+ What You Contribute
+ You are an enrolled student in physics, mathematics, computer science, or a related field
+ You have good Python programming skills and a basic understanding of quantum computing
+ You are interested in large language models, AI agents, and scientific software development
+ You work independently and in a structured manner, are curious about new technologies, and take a critical approach to AI-generated results
+ You are motivated to explore research questions at the intersection of artificial intelligence and quantum computing
+ Experience with quantum software frameworks, large language model frameworks, or agentic AI systems is beneficial but not required
+ You have good German or English skills, German is an advantage but not required
+ What We Offer
+ You can expect challenging and varied tasks in an innovative research environment. We also offer you:
+ Insights into application-oriented research and current, innovative topics
+ A pleasant working atmosphere in a motivated team
+ Equal opportunities, accessibility, and diversity
+ Responsible tasks that will help you develop your skills
+ State-of-the-art technology and working environment
+ Flexible working time models
+ Transparent and fair remuneration
+ Connection to our student network
+ Sports facilities at the University of Stuttgart
+ We value and promote the diversity of our employees' skills and therefore welcome all applications – regardless of age, gender, nationality, ethnic and social origin, religion, ideology, disability, sexual orientation and identity. Severely disabled persons are given preference in the event of equal suitability. Our tasks are diverse and adaptable – for applicants with disabilities, we work together to find solutions that best promote their abilities. Remuneration according to the general works agreement for employing assistant staff.
+With its focus on developing key technologies that are vital for the future and enabling the commercial utilization of this work by business and industry, Fraunhofer plays a central role in the innovation process. As a pioneer and catalyst for groundbreaking developments and scientific excellence, Fraunhofer helps shape society now and in the future.
+ The monthly working time are 40 hours. 
+ The position is initially limited to one year. Longer-term employment is desirable. 
+ Remuneration according to the general works agreement for employing assistant staff. 
+ Ready for a change? Then apply now and make a difference! Once we have received your online application, you will receive an automatic confirmation of receipt. We will then get back to you as soon as possible and let you know what happens next. 
+ If you have any questions about this position, please contact: 
+ Mr. Leon Rullkötter
+Phone +49 170 9333833
+Fraunhofer Institute for Industrial Engineering IAO
+www.iao.fraunhofer.de
+Requisition Number: 86006 Application Deadline: 11/30/2026
