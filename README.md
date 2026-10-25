@@ -19,14 +19,8 @@ Internships, thesis roles, full-time roles and German-required roles are listed 
 
 ## Latest run
 
-**2026-10-23**: 4 Tier 1 packages, 7 Tier 2 and 35 Tier 3 listed. Full report: [digests/2026-10-23.md](digests/2026-10-23.md). Earlier: [10-21](digests/2026-10-21.md), [10-19](digests/2026-10-19.md), [10-17](digests/2026-10-17.md), [10-15](digests/2026-10-15.md)
+**2026-10-25**: 1 package (remote). Local market had no new English-friendly roles. Full report: [digests/2026-10-25.md](digests/2026-10-25.md). Earlier: [10-23](digests/2026-10-23.md) (incl. 3 local packages: DLR Jena, Fraunhofer IDMT x2), [10-21](digests/2026-10-21.md), [10-19](digests/2026-10-19.md), [10-17](digests/2026-10-17.md), [10-15](digests/2026-10-15.md)
 
-| Company | Role | Fit | Documents |
-|---|---|---|---|
-| DLR – Institute of Data Science | Werkstudent/in (w/m/d) Informatik, Mathematik oder verwandte Fachrichtungen (Machine Learning) | 4/5 | [folder](output/2026-10-23/dlr-jena-werkstudent-machine-learning/) |
-| Fraunhofer IDMT | Student assistant in the field of "Semantic Music Technologies" | 3.5/5 | [folder](output/2026-10-23/fraunhofer-idmt-student-assistant-semantic-music/) |
-| Fraunhofer IDMT | Student assistant in the field of "Media Distribution and Security" | 2.5/5 | [folder](output/2026-10-23/fraunhofer-idmt-student-assistant-media-security/) |
-| Max Planck Institute for Intelligent Systems | Student Assistant (HiWi) for AI-Assisted 3D Segmentation of Photonic Nanostructures | 3.5/5 | [folder](output/2026-10-23/mpi-hiwi-ai-3d-segmentation/) |
-| Fraunhofer IAO | Student Assistant for applied Machine Learning in the »Quantum Computing« Team | 3/5 | [folder](output/2026-10-23/fraunhofer-iao-student-assistant-applied-ml-quantum/) |
-| SAP | Working Student (f/m/d) - SAP AIPD Enterprise Architecture Group | 2.5/5 | [folder](output/2026-10-23/sap-working-student-enterprise-architecture/) |
-| Siemens Energy | Working Student (f/m/d) - AI agent development | 2.5/5 | [folder](output/2026-10-23/siemens-energy-working-student-ai-agent-development/) |
+| Lane | Company | Role | Fit | Documents |
+|---|---|---|---|---|
+| R (remote) | AgentixLake | Working Student – Data Engineering | 3.5/5 | [folder](output/2026-10-25/agentixlake-working-student-data-engineering/) |

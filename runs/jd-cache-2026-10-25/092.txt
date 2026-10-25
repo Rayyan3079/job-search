@@ -1,0 +1,32 @@
+URL: https://www.linkedin.com/jobs/view/4482846795
+TITLE: Werkstudent:in IT-Projektmanagement - Fokus Daten, BI & KI
+COMPANY: Deutsche Bahn
+LOC: Leipzig, Saxony, Germany
+POSTED: 2026-10-23
+title: Werkstudent:in IT-Projektmanagement - Fokus Daten, BI & KI
+company: Deutsche Bahn
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-in-it-projektmanagement-fokus-daten-bi-ki-at-deutsche-bahn-4482846795&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Dir ist es wichtig, von Anfang an als Praktikant:in, Werkstudent:in, Direkteinsteiger:in oder Trainee abwechslungsreiche Erfahrungen im Job zu sammeln. Komm zu uns ins Team, lerne uns als innovative Arbeitgeberin kennen und nimm das Beste für dich mit. Ein großes Netzwerk und ein vielfältiges Team warten auf dich und dein Talent.
+Zum nächstmöglichen Zeitpunkt suchen wir dich als Werkstudent:in (w/m/d) im Bereich IT und Datenauswertung, vorerst befristet für 6 Monate (Option auf Verlängerung) & 15-20h/Woche bei der DB InfraGO AG am Standort Leipzig. Die genauen Rahmenbedingungen besprechen wir in unserem gemeinsamen Vorstellungsgespräch.
+Deine Aufgaben:
+ In deiner Rolle analysierst du Prozesse, Daten und Schnittstellen im Bereich der Entstördisposition für den Fahrweg der Bahn
+ Dabei lernst du Aufgaben bezogen auf die Störmeldeerfassung, -beauftragung, - begleitung sowie deren Abschluss und die Auswertung kennen und schaffst im Sinne der Business Intelligence Transparenz in Sachen Informationsströme und datenbasierte Entscheidungsgrundlagen
+ Mit deiner technischen Expertise hilfst du uns, Unterstützungswerkzeuge für die Entstördisposition zu schaffen bzw. weiterzuentwickeln und prüfst dabei Einsatzmöglichkeiten von KI, Power Automate und vergleichbaren Anwendungen
+ Dafür arbeitest du in mehreren Teilprojekten von der Bedarfsklärung, über die Vertestung eigener Lösungen bis hin zu deren Implementierung
+ Dein Profil:
+ Du studierst Wirtschaftsinformatik, Informatik, Wirtschaftsingenieurwesen oder einen vergleichbaren Studiengang
+ Idealerweise konntest du bereits erste Erfahrungen im Rahmen von Datenanalysen, Prozessoptimierungen oder in vergleichbaren IT-Projekten sammeln
+ Du verfügst über Erfahrung im Microsoft Ökosystem und in der Programmierung in Python
+ Mit deiner ausgeprägten analytischen und strukturierten Denkweise kannst du punkten
+ Eine hohe Motivation und Einsatzbereitschaft sowie eine ausgeprägte Kommunikations- und Teamfähigkeit in Deutsch (min. C1-Niveau) runden dein Profil ab
+ Für deine Bewerbung benötigen wir kein Anschreiben.
+Das ist uns wichtig:
+Unser Anspruch ist es, allen Kandidat:innen bei gleicher Eignung die gleichen Chancen für den Einstieg bei uns zu bieten. Wir fördern aktiv die Vielfalt und das Miteinander in unseren Teams. Wir schätzen jede Bewerbung, unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion, Weltanschauung, Behinderung, Alter, Dauer der Arbeitslosigkeit sowie sexueller Orientierung und Identität.
+Benefits:
+ Auch privat sollst du weiterkommen: mit einer fairen Vergütung und günstigen Freizeitangeboten für z. B. Reisen mit deiner Familie oder Freunden.
+ Über Teamgrenzen hinweg: Der Austausch mit anderen Studierenden, z.B. durch unser vielfältiges Event- und Vernetzungsangebot, verschafft dir konzernweit hilfreiche Kontakte.
+ Dein Team arbeitet dich ein, begleitet dich und sorgt mit gezieltem Feedback für deine persönliche Weiterentwicklung.
+ Chancengleichheit und selbstbestimmte Teilhabe Schwerbehinderter und Gleichgestellter sowie eine respektvolle Zusammenarbeit sind innerhalb des DB Konzerns fest verankerte Grundsätze. Deshalb werden schwerbehinderte und gleichgestellte Bewerber:innen bei gleicher Eignung bevorzugt berücksichtigt.

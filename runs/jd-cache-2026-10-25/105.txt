@@ -1,0 +1,48 @@
+URL: https://www.linkedin.com/jobs/view/4481932629
+TITLE: AI Workflow & Process Design Junior Analyst (Internship / Working Student) (m/w/d) ab Januar 2027
+COMPANY: MIND Mergers & Acquisitions
+LOC: Berlin, Germany
+POSTED: 2026-10-23
+title: AI Workflow & Process Design Junior Analyst (Internship / Working Student) (m/w/d) ab Januar 2027
+company: MIND Mergers & Acquisitions
+posted: 1 day ago
+applicants: 44 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fai-workflow-process-design-junior-analyst-internship-working-student-m-w-d-ab-januar-2027-at-mind-mergers-acquisitions-4481932629&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+KI trifft M&A – Prozesse neu denken.
+Wer wir sind
+Bei MIND arbeiten strategische Köpfe, analytische Denker und charismatische Macher zusammen. Wir suchen Persönlichkeiten, die nicht nur fachlich überzeugen, sondern auch menschlich verbinden. Menschen, die früh Verantwortung übernehmen wollen und bereit sind, gemeinsam Höchstleistungen zu erbringen.
+Wir gründeten MIND, weil wir wissen, wie viel Wert verloren geht, wenn ein Unternehmen nur „mitläuft“. Also entwickelten wir einen Beratungsansatz, der die Bedürfnisse mittelständischer Unternehmer in den Mittelpunkt stellt. Bei MIND handeln wir, als ginge es um unser eigenes Unternehmen und bleiben dabei jederzeit partnerschaftlich und verbindlich. Wir analysieren jeden Bereich bis ins Detail, lange bevor ein Käufer oder Investor Fragen stellt und übersetzen komplexe Kennzahlen in eine präzise Equity Story, die Investoren nicht übersehen können.
+Diese Kombination hat zahlreich bewiesen, dass auch Transaktionen von mittelständischen Unternehmen Premium-Multiples erreichen können, wenn sie mit derselben Exzellenz durchgeführt werden, die bislang nur großen Deals vorbehalten war.
+Dich erwartet ein starkes und motiviertes Team, das die Kultur der frühen Übergabe von Verantwortung wie auch gemeinsame Mittag- und Abendessen und Events aktiv lebt.
+Dein Aufgabengebiet
+ Du analysierst bestehende M&A- und interne Arbeitsprozesse und erarbeitest konkrete Ansätze, um bisher manuelle Arbeitsschritte zu vereinfachen oder zu automatisieren.
+ Du entwickelst und implementierst KI-gestützte Workflows und Skripte, um wiederkehrende Aufgaben effizienter zu gestalten.
+ Du verknüpfst KI-Anwendungen mit bestehenden Tools und Datenquellen, beispielsweise für Recherchen, Datenaufbereitung und Dokumentenerstellung.
+ Du testest und optimierst entwickelte Automatisierungen und integrierst diese in die täglichen Arbeitsabläufe unseres Teams.
+ Du beschäftigst Dich mit neuen KI-Technologien und prüfst, wie sich diese sinnvoll in unserer M&A-Arbeit einsetzen lassen.
+ Dein Profil
+ Du studierst aktuell Informatik, Wirtschaftsinformatik, Wirtschaftswissenschaften oder einen vergleichbaren Studiengang und bringst eine ausgeprägte Affinität zu KI und digitalen Technologien mit.
+ Du hast bereits praktische Erfahrung im Einsatz von KI-Anwendungen und der Entwicklung automatisierter Workflows gesammelt, idealerweise durch eigene Projekte oder Praktika.
+ Du verfügst über gute Programmierkenntnisse, insbesondere in Python und RStudio, und hast idealerweise Erfahrung im Umgang mit APIs und Automatisierungstools wie n8n oder Make.
+ Du überzeugst durch ausgeprägte analytische, konzeptionelle und kommunikative Fähigkeiten sowie gelebten Teamgeist.
+ Du begeisterst Dich für neue Technologien, verfolgst aktuelle Entwicklungen im KI-Bereich und hast ein ausgeprägtes Interesse an M&A und wirtschaftlichen Zusammenhängen.
+ Du sprichst fließend Deutsch und Englisch.
+ Wir bieten
+ Ein attraktives Vergütungspaket sowie eine abwechslungsreiche Tätigkeit mit vielen Gestaltungsmöglichkeiten und hoher Eigenverantwortung.
+ Die Möglichkeit, den Einsatz von KI bei MIND aktiv mitzugestalten und eigene Automatisierungen zu entwickeln, die unmittelbar in unseren Arbeitsalltag einfließen.
+ Wertvolle Einblicke in das M&A-Geschäft und die Arbeitsprozesse einer spezialisierten M&A-Boutique.
+ Aktive Personalentwicklung sowie eine gelebte Feedbackkultur mit zahlreichen individuellen Weiterentwicklungsmöglichkeiten.
+ Sehr gute Arbeitsatmosphäre, starke Team-Events und ein kollegiales Umfeld in unserem Büro direkt am Berliner Ku’damm.
+ Bewirb Dich direkt per Mail an karriere@mind-partners.com
+ Karriere bei MIND
+ Wir freuen uns, Dich kennenzulernen!
+AI Workflow & Process Design Junior Analyst (Internship / Working Student) (m/w/d) ab Januar 2027
+ Ort
+ Berlin
+ Typ
+ Praktikum / Werkstudent
+ Zusammenfassung
+ Du entwickelst und implementierst KI-gestützte Workflows und Automatisierungen, um bisher manuelle Arbeitsschritte zu vereinfachen und unsere internen Prozesse effizienter zu gestalten.
+Bewerbung einreichen
+Overview Career Page

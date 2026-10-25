@@ -1,0 +1,34 @@
+URL: https://www.linkedin.com/jobs/view/4482088504
+TITLE: Projektassistenz / PMO SAP Public Cloud (w/m/d)
+COMPANY: Walldorf Consulting
+LOC: Germany
+POSTED: 2026-10-21
+title: Projektassistenz / PMO SAP Public Cloud (w/m/d)
+company: Walldorf Consulting
+posted: 3 days ago
+applicants: 29 applicants
+apply_offsite: 
+---
+Was wir dir bieten 
+ 🏝: Workation bietet dir die Möglichkeit, mobil aus dem EU-Ausland oder den EFTA-Staaten zu arbeiten
+ 💻: Mobiles und flexibles Arbeiten sorgt für deine optimale Work-Life Integration
+ 🧠: Regelmäßige Aus- und Weiterbildungen und Förderung individueller Zertifizierungen bringen dich weiter
+ 🤝: Deine Empfehlungen honorieren wir mit einer Prämie (Mitarbeitenden-Empfehlungsprogramm)
+ 🩺: Gesundheitsangebote im Bereich Mental Health sowie eine bAV und BU stehen dir zur Verfügung
+ Was du bei uns bewegst 
+ Cloud-Projektsteuerung & Methodik: Du unterstützt unsere Projektleiter:innen bei der operativen Steuerung und Dokumentation von Einführungsprojekten im SAP Public Cloud Umfeld – von der Prepare - bis zur Run -Phase
+ Projektorganisation & Governance: Du planst und koordinierst Termine, Meilenstein-Reviews, Kunden-Workshops sowie interne Statusrunden und stellst einheitliche PMO-Standards sicher
+ Reporting & Dokumentation: Du erstellst und aktualisierst Projektpläne, Fortschrittsberichte, Management-Dashboards und bereite(s)t Steering-Committee-Meetings vor
+ Controlling & Kapazitäten: Du unterstützt aktiv beim Projektcontrolling, bei der Ressourcen- und Kapazitätsplanung sowie beim Budget- und Abrechnungsmonitoring
+ Risk- & Issue-Management: Du behältst offene Punkte, Projektrisiken, Abhängigkeiten und Maßnahmen im Blick und treibst deren Nachverfolgung voran
+ Was du mitbringst 
+ Fundierte Basis: Erfolgreich abgeschlossenes Studium der Wirtschaftswissenschaften, Wirtschaftsinformatik, des Wirtschaftsingenieurwesens oder eine vergleichbare kaufmännische/IT-Ausbildung mit relevanter Berufserfahrung
+ Tool- & Methodenkompetenz: 
+ Erste Berührungspunkte oder praktisches Verständnis von SAP Cloud ALM und agilen Vorgehensmodellen (z. B. SAP Activate, Scrum)
+ Sicherer Umgang mit modernen Kollaborations- und PM-Tools (z. B. Microsoft 365, Teams, SharePoint, MS Project sowie Jira / Confluence)
+ Arbeitsweise: Hohe Eigeninitiative, ausgeprägtes Organisations- und Strukturierungstalent sowie die Fähigkeit, in einem dynamischen Cloud-Umfeld den Überblick zu behalten
+ Kommunikationsstärke: Verbindliches Auftreten, lösungsorientierte Kommunikation und Teamgeist im Umgang mit unterschiedlichen Stakeholdern
+ Sprachkenntnisse: Verhandlungssichere Deutsch- und gute bis sehr gute Englischkenntnisse in Wort und Schrift
+ Sei Teil unserer Reise – und gestalte die Zukunft mit uns! 
+ Bei Walldorf Consulting gestalten wir die Prozesse und Systeme unserer Kunden neu – mit den modernsten Cloud-Produkten der SAP. Wir begleiten Unternehmen bei ihrer digitalen Transformation und setzen dabei auf einen methodisch fundierten, wertorientierten Ansatz. Was uns besonders macht? Unsere Kombination aus tiefem Prozessverständnis, technologischer Exzellenz und einem partnerschaftlichen, respektvollen Miteinander. 
+ In interdisziplinären Teams arbeiten wir eng mit unseren Kunden zusammen, hören zu, analysieren, hinterfragen – und entwickeln Lösungen, die nicht nur heute, sondern auch morgen überzeugen. Dabei legen wir Wert auf offene Kommunikation, persönliche Entwicklung und ein Arbeitsumfeld, in dem jede Stimme zählt.

@@ -1,0 +1,163 @@
+URL: https://jobs.fraunhofer.de/job/Ilmenau-Mandatory-internship-in-the-field-of-Semantic-Music-Technologies-98693/1227822101/
+TITLE: Mandatory internship in the field of "Semantic Music Technologies"
+COMPANY: Fraunhofer (Ilmenau)
+LOC: Ilmenau
+POSTED: open
+Mandatory internship in the field of "Semantic Music Technologies" Job Details | Fraunhofer-Gesellschaft 
+ We use cookies to offer you the best possible website experience. Your cookie preferences will be stored in your browser’s local storage. This includes cookies necessary for the website's operation. Additionally, you can freely decide and change any time whether you accept cookies or choose to opt out of cookies to improve website's performance, as well as cookies used to display content tailored to your interests. Your experience of the site and the services we are able to offer may be impacted if you do not accept all cookies.
+ Modify Cookie Preferences 
+ Reject All Cookies 
+ Accept All Cookies 
+ Skip to main content 
+ CAREER 
+ INSTITUTES AND RESEARCH UNITS 
+ ENG / GER 
+ Deutsch (Deutschland) 
+ English (United States) 
+ MY PROFILE / LOGIN 
+ CAREER 
+ INSTITUTES AND RESEARCH UNITS 
+ ENG / GER 
+ Deutsch (Deutschland) 
+ English (United States) 
+ MY PROFILE / LOGIN 
+ CAREER 
+ INSTITUTES AND RESEARCH UNITS 
+ JOB OVERVIEW 
+ ENG / GER 
+ Deutsch (Deutschland) 
+ English (United States) 
+ MY PROFILE / LOGIN 
+ Search by Keyword/Field of Study/Jobcode 
+ Search by Location 
+ > More Search Options 
+ Loading... 
+ Level of Experience
+ All 
+ Job Function
+ All 
+ Opportunity for promotion
+ All 
+ Region
+ All 
+ Institute
+ All 
+ Language
+ All 
+ Clear 
+ Select how often (in days) to receive an alert: 
+ Create Jobalert 
+ × 
+ Select how often (in days) to receive an alert: 
+ Apply now » 
+ City: 
+ Ilmenau
+ Date: 
+ Oct 12, 2026
+ Mandatory internship in the field of "Semantic Music Technologies"
+ The Fraunhofer-Gesellschaft ( www.fraunhofer.com ) is one of the world's leading organizations for application-oriented research. 74 institutes develop pioneering technologies for our economy and society – more precisely: 30 000 people from technology, science, administration and IT. They know: Anyone who comes to Fraunhofer wants to and can make a difference. For themselves, for us and for the markets of today and tomorrow.
+ The Fraunhofer Institute for Digital Media Technology IDMT is part of the Fraunhofer-Gesellschaft. Headquartered on the campus of Technische Universität Ilmenau in Ilmenau, Thuringia, the institute is internationally recognized for its expertise in applied electroacoustics and audio engineering, AI-based signal analysis and machine learning, and data privacy and security. Under the motto 'Where AI means Audio Intelligence', the Ilmenau researchers are developing technologies for the robust and trustworthy AI-based analysis and classification of audio and video data. These technologies are used, among other things, to monitor industrial production processes, but also in traffic monitoring or in the media context, for example when it comes to automatic metadata extraction and audio manipulation detection. Another focus is the development of algorithms for the areas of virtual product development, intelligent actuator-sensor systems and audio for the automotive sector. There are currently around 120 employees working at Fraunhofer IDMT in Ilmenau.
+ Be part of change 
+ For ongoing projects and preliminary research in the field of music information retrieval, Fraunhofer IDMT is looking for students who would like to conduct research and work in the area of semantic analysis, search and recommendation of music data.
+ The main areas of responsibility include the following:
+ implementation/porting of algorithms from the fields of deep learning and audio signal processing
+ extension of methods in the field of music information retrieval, e.g. for automatic music annotation and music similarity, music transcription, instrument recognition, chord and beat detection
+ expansion of methods in the field of generative music AI, e.g. audio generation, melody generation, automatic mixing, generative AI detection and attribution
+ extension of graphical user interfaces & web interfaces (APIs)
+ manual annotation of audio, video and images
+ What you contribute 
+ The following skills are required:
+ experience with algorithm development in Python
+ knowledge of digital signal processing, machine learning methods, deep learning
+The following knowledge is advantageous/desirable:
+ experience in software development with C++
+ experience in web programming (Javascript, etc.)
+ experience with web APIs, cloud platforms such as AWS
+ What we offer 
+ exciting market-relevant topics with complex issues for which there are no market solutions yet
+ renowned partners and customers with whom you will work closely to develop technologies for a sustainable future
+ an excellent technical infrastructure
+ a very good work-life balance thanks to flexible working hours and a co-child office
+ a new work, diversity and plurality of opinion are an integral part of our culture
+ a tolerant atmosphere with an open feedback culture
+ good transport connections and proximity to the state capital Erfurt
+ attractive savings opportunities with numerous corporate partners as part of the Fraunhofer Corporate Benefits Program  
+ We value and promote the diversity of our employees' skills and therefore welcome all applications – regardless of age, gender, nationality, ethnic and social origin, religion, ideology, disability, sexual orientation and identity. Severely disabled persons are given preference in the event of equal suitability. Our tasks are diverse and adaptable – for applicants with disabilities, we work together to find solutions that best promote their abilities. The weekly working time is 39 hours.  Remuneration according to the federal government guidelines for intern salaries. 
+ With its focus on developing key technologies that are vital for the future and enabling the commercial utilization of this work by business and industry, Fraunhofer plays a central role in the innovation process. As a pioneer and catalyst for groundbreaking developments and scientific excellence, Fraunhofer helps shape society now and in the future.  
+ Ready for a change? Then apply now and make a difference! Once we have received your online application, you will receive an automatic confirmation of receipt. We will then get back to you as soon as possible and let you know what happens next. 
+   Professional queries: 
+ Andrew McLeod
+ andrew.mcleod@idmt.fraunhofer.de
+ Questions about the application process: 
+ Katrin Pursche
+ Phone +49 3677 467-312
+ katrin.pursche@idmt.fraunhofer.de
+ Fraunhofer Institute for Digital Media Technology IDMT  
+ www.idmt.fraunhofer.de  
+ Requisition Number: 8942                Application Deadline: 
+ Job Segment: 
+ Digital Media, Cloud, Product Development, Audio Engineering, Federal Government, Publishing, Technology, Research, Engineering, Government
+ Apply now » 
+ Find similar jobs: 
+ Internship, 
+ Applied Research - Promotion, 
+ Applied Research, 
+ All Job Offers 
+ DATA PROTECTION POLICY 
+ EDITORIAL NOTES 
+ COOKIE CONSENT MANAGER 
+ Opens in a new tab. 
+ Opens in a new tab. 
+ Opens in a new tab. 
+ Opens in a new tab. 
+ Opens in a new tab. 
+ © 2026
+ × 
+ Cookie Consent Manager
+ When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. Because we respect your right to privacy, you can choose not to allow some types of cookies. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+ Required Cookies
+ These cookies are required to use this website and can't be turned off.
+ Required Cookies 
+ Show More Details
+ Required Cookies 
+ Provider 
+ Description 
+ Enabled 
+ SAP as service provider 
+ We use the following session cookies, which are all required to enable the website to function:
+ "route" is used for session stickiness
+ "careerSiteCompanyId" is used to send the request to the correct data center
+ "JSESSIONID" is placed on the visitor's device during the session so the server can identify the visitor
+ "Load balancer cookie" (actual cookie name may vary) prevents a visitor from bouncing from one instance to another
+ Cookies from provider SAPasserviceprovider are required and cannot be turned off 
+ Functional Cookies
+ These cookies provide a better customer experience on this site, such as by remembering your login details, optimizing video performance, or providing us with information about how our site is used. You may freely choose to accept or decline these cookies at any time. Note that certain functionalities that these third-parties make available may be impacted if you do not accept these cookies.
+ Consent to all Functional Cookies 
+ Show More Details
+ Functional Cookies 
+ Provider 
+ Description 
+ Enabled 
+ Vimeo 
+ Vimeo is a video hosting, sharing, and services platform focused on the delivery of video. Opting out of Vimeo cookies will disable your ability to watch or interact with Vimeo videos.
+ Cookie Policy 
+ Privacy Policy 
+ Terms and Conditions 
+ Consent to cookies from provider Vimeo 
+ Advertising Cookies
+ These cookies serve ads that are relevant to your interests. You may freely choose to accept or decline these cookies at any time. Note that certain functionality that these third parties make available may be impacted if you do not accept these cookies.
+ Consent to all Advertising Cookies 
+ Show More Details
+ Advertising Cookies 
+ Provider 
+ Description 
+ Enabled 
+ AddThis 
+ Google Analytics is a web analytics service offered by Google that tracks and reports website traffic.
+ Cookie Information 
+ Privacy Policy 
+ Terms and Conditions 
+ Consent to cookies from provider AddThis 
+ Confirm My Choices
+ Reject All Cookies 
+ Accept All Cookies

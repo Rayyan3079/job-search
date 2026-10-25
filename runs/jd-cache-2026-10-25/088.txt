@@ -1,0 +1,72 @@
+URL: https://www.linkedin.com/jobs/view/4483121004
+TITLE: Werkstudent:in im Bereich Datenmanagement, Datenbanken & Automatisierung (SQL/VBA)
+COMPANY: BEW Berliner Energie und Wärme GmbH
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-10-23
+title: Werkstudent:in im Bereich Datenmanagement, Datenbanken & Automatisierung (SQL/VBA)
+company: BEW Berliner Energie und Wärme GmbH
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-in-im-bereich-datenmanagement-datenbanken-automatisierung-sql-vba-at-bew-berliner-energie-und-w%25C3%25A4rme-gmbh-4483121004&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Unternehmensbeschreibung
+ Wärme und Energie sind unser Beitrag zur Lebensqualität – jeden Tag aufs Neue.
+ Als BEW Berliner Energie und Wärme GmbH versorgen wir unsere Kund:innen mit Strom und Wärme. Unser Fernwärmenetz ist mit einer Länge von mehr als 2.000 Kilometern das größte Westeuropas. Wir beliefern etwa ein Drittel der Berliner Wohnungen mit Fernwärme.
+Mit dem Know-how unserer rund 2.400 Mitarbeitenden decken wir die gesamte Wertschöpfungskette der Fernwärme ab – von der Erzeugung über den Netzbetrieb und -ausbau bis hin zum Vertrieb. Parallel dazu arbeiten wir mit Hochdruck am Kohleausstieg bis 2030 und an einer klimaneutralen* Wärmeerzeugung ab 2045.
+Um dieses Ziel zu erreichen, werden wir den Anteil an erneuerbaren Energien und unvermeidbarer Abwärme** in unserem Fernwärmesystem schrittweise weiter ausbauen. Dieser Ausbau setzt einen grundlegenden Umbau vieler unserer Standorte und Anlagen voraus. Für diese Herausforderung und die damit verbundenen Aufgaben brauchen wir Menschen, die sich mit ganzer Kraft für unser gemeinsames Ziel einer lokalen Wärmewende engagieren – Menschen wie dich.
+Stellenbeschreibung
+Für die BEW Berliner Energie und Wärme GmbH suchen wir dich zum nächstmöglichen Zeitpunkt als Werkstudent:in im Bereich Datenmanagement, Datenbanken & Automatisierung (SQL/VBA) am Standort Berlin .
+ Gestalte mit uns die digitale Zukunft der Energiewirtschaft!
+ Du möchtest dein Studium mit praxisnahen Aufgaben verbinden und erste Erfahrungen im professionellen Datenmanagement sammeln? Dann bist du bei uns genau richtig!
+Als Werkstudent:in unterstützt du unser Team Digitalisierung & Qualitätssicherung bei der Analyse, Verarbeitung und Qualitätssicherung von Daten sowie bei der Weiterentwicklung und Automatisierung bestehender Prozesse. Dabei arbeitest du mit modernen Unternehmensanwendungen, Datenbanken und Microsoft-Office- Technologien.
+ Deine Aufgaben
+ Du erstellst und entwickelst SQL-Abfragen sowie Datenanalysen. 
+ Du unterstützt bei der Erstellung von Reports und Auswertungen aus CRM- und Datenbanksystemen. 
+ Du analysierst, bereinigst und sicherst die Qualität von Datenbeständen. 
+ Du unterstützt bei Massendatenänderungen und Datenmigrationen. 
+ Du entwickelst und pflegst kleine Automatisierungslösungen mit Excel-VBA und Word-VBA. 
+ Du führst Schnittstellen- und Funktionstests durch und dokumentierst diese. 
+ Du analysierst Datenfehler und unterstützt bei deren Behebung. 
+ Du erstellst und pflegst Dokumentationen sowie Arbeitsanweisungen. 
+ Du arbeitest in Digitalisierungs- und Automatisierungsprojekten mit. 
+ Qualifikationen
+ Dein Profil
+ Immatrikulierte:r Student:in der Wirtschaftsinformatik, Informatik, Data Science oder eines vergleichbaren Studiengangs
+ Gute Kenntnisse in Oracle SQL
+ Gute Kenntnisse von Datenstrukturen und relationalen Datenbanken
+ Kenntnisse in der VBA-Programmierung (Excel-VBA und/oder Word-VBA)
+ Analytisches Denkvermögen und strukturierte Arbeitsweise
+ Hohe Sorgfalt und Qualitätsbewusstsein
+ Sicherer Umgang mit Microsoft Office, insbesondere Excel
+ Fließende Deutschkenntnisse in Wort und Schrift
+ Wünschenswert
+ Erste Erfahrungen mit CRM-Systemen (z. B. Aurea CRM oder Microsoft Dynamics)
+ Kenntnisse im Umgang mit Datenschnittstellen
+ Erste Erfahrungen in der Durchführung von Software- oder Schnittstellentests
+ Grundkenntnisse im SAP-Umfeld
+ Interesse an der Digitalisierung von Geschäftsprozessen
+ Zusätzliche Informationen
+ Deine Benefits
+ Spannende Einblicke in die Digitalisierung eines modernen Energieversorgungsunternehmens
+ Eigenverantwortliche Aufgaben mit direktem Praxisbezug
+ Ein engagiertes Team mit hoher fachlicher Expertise
+ Die Chance, Deine Kenntnisse in SQL, Datenbanken und Automatisierung gezielt weiterzuentwickeln
+ Flexible Gestaltung deines Arbeitsalltags mit der Möglichkeit im Home-Office zu arbeiten
+ Benötigte technische Ausstattung wird dir selbstverständlich zur Verfügung gestellt
+ Individuelle Entwicklung und Aufbau Deines beruflichen Netzwerks
+ Verbesserte Einstiegschancen nach abgeschlossenem Studium
+ Attraktiver Bürostandort direkt am Südkreuz sowie spannende Kraftwerksstandorte
+ Bio-Betriebsrestaurant sowie kostenfreie Getränke (Wasser, Tee, Kaffee) und Obst an fast allen Standorten
+ Verschiedene Angebote zum Thema Gesundheit, z. B. Unterstützung durch PME-Familienservice
+ Deine Bewerbung
+ Wir freuen uns auf deine Bewerbung! Bitte sende uns deine vollständigen Bewerbungsunterlagen in deutscher Sprache und im PDF-Format (insb. ein Anschreiben , einen lückenlosen Lebenslauf sowie eine aktuelle Immatrikulationsbescheinigung ) bis spätestens 30.10.2026 zu!
+Für weitere Informationen zu dieser Position kannst du dich an den einstellenden Manager Josef El Falaki unter der E-Mail-Adresse josef.elfalaki@bew.berlin wenden. Fragen zum Bewerbungsprozess beantwortet dir gern der zuständige Recruiter Shawn Sieber unter shawnphilipp.sieber@bew.berlin .
+Du hast Interesse an unserem Angebot und möchtest gemeinsam mit uns die Berliner Wärmewende gestalten? Dann freuen wir uns auf deine Bewerbung über unsere Karriereseite!
+ Hinweise
+ Wir sind davon überzeugt, dass Vielfalt dazu beiträgt, unser Unternehmen leistungsfähiger und attraktiver zu machen. Bewerbungen zum Beispiel von Personen jeglichen Alters, geschlechtlicher Identität, sexueller Orientierung oder ethnisch-kulturellen Hintergrunds sind herzlich willkommen. Schwerbehinderte Menschen werden bei gleicher fachlicher Eignung besonders berücksichtigt.
+Die Sicherheit der BEW und ihrer Beschäftigten ist von grundlegender Bedeutung. Aus diesem Grund ist ein Pre-Employment Screening Teil des Rekrutierungsprozesses. Der Umfang der Überprüfung variiert je nach Funktion und Einsatzbereich. Das Screening wird von einem Drittanbieter, Signum Consulting GmbH, DISA, durchgeführt.
+ Damit meinen wir eine Wärmeversorgung aus erneuerbaren Energien, aus unvermeidbarer Abwärme oder einer Kombination aus beidem im Sinne des
+ 31 i. v. m. 
+ 3 Abs. 1 Nr. 13, 15 und Abs. 4 Wärmeplanungsgesetz (WPG). Dieses Ziel wollen wir durch eine Reihe von Maßnahmen erreichen, welche wir in unserem Dekarbonisierungsfahrplan darstellen. 
+ Im Sinne des
+ 3 Abs. 1 Nr. 13 bzw. Abs. 4 Wärmeplanungsgesetz (WPG).

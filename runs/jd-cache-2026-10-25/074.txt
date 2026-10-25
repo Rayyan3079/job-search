@@ -1,0 +1,69 @@
+URL: https://www.linkedin.com/jobs/view/4483303914
+TITLE: Founder's Associate (m/w/d) – Wirtschaftsinformatik, Business Automation & Operations
+COMPANY: Levelev Consulting
+LOC: Germany
+POSTED: 2026-10-24
+title: Founder's Associate (m/w/d) – Wirtschaftsinformatik, Business Automation & Operations
+company: Levelev Consulting
+posted: 22 hours ago
+applicants: 28 applicants
+apply_offsite: 
+---
+Founder's Associate (m/w/d) Werkstudent / Praktikum – Wirtschaftsinformatik, Business Automation & Operations 
+ 📍 Berlin / Barcelona / Remote | Werkstudent oder Praktikum
+Über uns Levelev Consulting ist ein wachsendes B2B-Vertriebsunternehmen mit einem Remote-Team von rund 15 Mitarbeitern. Wir unterstützen Unternehmen aus IT, Software und Industrie dabei, durch professionelle telefonische Neukundenakquise qualifizierte Vertriebstermine zu gewinnen.
+ Dafür steuern wir täglich zahlreiche Prozesse zwischen unseren Kunden, unserem Vertriebsteam und unseren internen Systemen.
+ Unser Ziel: Möglichst viele Prozesse standardisieren, automatisieren und skalierbar machen. Und genau dabei brauchen wir deine Unterstützung. 
+Deine Aufgaben Als Founder's Associate arbeitest du direkt mit der Geschäftsführung zusammen und hilfst dabei, unsere operativen Abläufe zu strukturieren, zu automatisieren und kontinuierlich zu verbessern.
+ 1. Kunden-Onboarding & Prozessmanagement 
+ Neue Kundenprojekte technisch und organisatorisch aufsetzen
+ Kunden in unsere Systeme, CRM-Prozesse und Kundenportale einführen
+ Onboarding-Prozesse standardisieren und automatisieren
+ Aufgaben aus Kundenmeetings dokumentieren, koordinieren und deren Umsetzung sicherstellen
+ Laufende Prozesse in der Bestandskundenbetreuung optimieren
+ 2. CRM, Daten & Automatisierung 
+ CRM-Workflows aufbauen, überprüfen und verbessern
+ Automatisierungen zwischen verschiedenen Systemen entwickeln, z. B. mit Zapier, APIs und KI-Tools
+ Lead-Listen erstellen, strukturieren, bereinigen und für Vertriebskampagnen vorbereiten
+ Wiederkehrende manuelle Aufgaben identifizieren und automatisieren
+ Datenqualität und zuverlässige Informationsflüsse zwischen unseren Tools sicherstellen
+ 3. Sales Operations, KPI & Reporting 
+ Unser SDR-Team operativ bei der Organisation und Steuerung unterstützen
+ Vertriebskennzahlen wie Anrufvolumen, Telefoniezeit, Conversion Rates und gebuchte Termine auswerten
+ Automatisierte Reports und Dashboards für Mitarbeiter, Geschäftsführung und Kunden entwickeln
+ CRM-Daten auf Vollständigkeit, Qualität und Einhaltung definierter Prozesse kontrollieren
+ Abweichungen erkennen und konkrete Verbesserungsmaßnahmen ableiten
+ 4. Qualitätssicherung & kontinuierliche Verbesserung 
+ Vertriebsgespräche und Gesprächstranskripte mithilfe von KI analysieren
+ Erfolgreiche Gesprächsmuster, Einwände und Optimierungspotenziale identifizieren
+ Vorschläge zur Verbesserung unserer Gesprächsleitfäden und Vertriebsprozesse entwickeln
+ Best Practices dokumentieren und in standardisierte Arbeitsanweisungen überführen
+ Gemeinsam mit dem Team testen, welche Maßnahmen tatsächlich bessere Ergebnisse bringen
+Dein Profil Du studierst Wirtschaftsinformatik, Informatik, BWL mit IT-Schwerpunkt oder einen vergleichbaren Studiengang
+ Du denkst analytisch, strukturiert und prozessorientiert
+ Du hast Spaß daran, komplexe Abläufe zu verstehen und einfache, effiziente Lösungen zu entwickeln
+ Du arbeitest eigenständig, sorgfältig und übernimmst Verantwortung
+ Du hast Interesse an CRM-Systemen, Automatisierung, KI und Datenanalyse
+ Du verfügst über sehr gute Deutschkenntnisse
+ Von Vorteil, aber kein Muss: 
+ Professioneller Umgang mit KI-Tools wie ChatGPT und Claude: Du nutzt KI nicht nur für einfache Fragen, sondern systematisch für Recherche, Analyse, Problemlösung und produktives Arbeiten
+ KI-Agenten & Agentic Workflows: Du hast erste Erfahrungen mit dem Aufbau und der Nutzung von KI-Agenten, die mehrstufige Aufgaben selbstständig bearbeiten
+ Vibe Coding: Du kannst mithilfe von KI eigene kleine Anwendungen, Skripte, Dashboards oder Automatisierungen entwickeln – auch ohne klassische Programmierausbildung
+ Erfahrung mit CRM-Systemen wie Close, HubSpot oder Salesforce
+ Kenntnisse in Zapier, Make, APIs oder anderen Automatisierungstools
+ Sicherer Umgang mit Excel oder Google Sheets
+ Erste Kenntnisse in Python, SQL oder der Entwicklung KI-gestützter Workflows
+ Interesse an B2B-Vertrieb und operativem Unternehmensmanagement
+Was wir bieten Direkte Zusammenarbeit mit den Foundern: Du erhältst Einblick in unternehmerische Entscheidungen und arbeitest unmittelbar an deren Umsetzung
+ Echte Verantwortung: Du übernimmst eigene Projekte, statt nur zuzuarbeiten
+ Automation First: Wir möchten Prozesse nicht nur verwalten, sondern intelligent automatisieren
+ Moderne Tools: CRM, Automatisierungsplattformen, KI und datengetriebene Vertriebssteuerung
+ Flexible Zusammenarbeit: Remote oder in Barcelona, als Werkstudent oder im Rahmen eines Praktikums
+ Steile Lernkurve: Du bekommst Einblicke in Operations, IT, Vertrieb, Customer Success und die Skalierung eines wachsenden Unternehmens
+ Kurze Entscheidungswege: Gute Ideen werden schnell getestet und umgesetzt
+Warum diese Stelle interessant ist Du wirst nicht einfach nur Tickets abarbeiten oder bestehende Prozesse verwalten.
+ Du arbeitest direkt mit dem Gründer daran, das Betriebssystem eines wachsenden Unternehmens aufzubauen. 
+ Von der automatischen Einrichtung neuer Kunden über intelligente CRM-Workflows bis zur KI-gestützten Analyse von Vertriebsgesprächen: Du entwickelst Lösungen, die unserem Team Zeit sparen, Fehler reduzieren und die Qualität unserer Arbeit verbessern.
+ Dabei lernst du nicht nur, wie einzelne Prozesse funktionieren, sondern auch, wie man ein Unternehmen operativ führt, optimiert und skaliert.
+ Bei uns zählt nicht, wie kompliziert eine Lösung ist, sondern wie gut sie funktioniert.
+Bewirb dich! Schick uns deinen Lebenslauf und ein paar Sätze dazu, warum dich Unternehmertum, Prozessautomatisierung und die Optimierung eines wachsenden Unternehmens interessieren.

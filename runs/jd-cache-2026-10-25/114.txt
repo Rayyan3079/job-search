@@ -1,0 +1,50 @@
+URL: https://www.linkedin.com/jobs/view/4481903784
+TITLE: Working Student / Intern – Control Team (Systems & Data Infrastructure) (f/m/d)
+COMPANY: Phlair Inc.
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-10-23
+title: Working Student / Intern – Control Team (Systems & Data Infrastructure) (f/m/d)
+company: Phlair Inc.
+posted: 1 day ago
+applicants: 49 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-intern-%25E2%2580%2593-control-team-systems-data-infrastructure-f-m-d-at-phlair-inc-4481903784&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Shape the Future of Climate Tech with Phlair!
+ Fossil fuels have powered our economy for decades—at the cost of pollution and a changing climate. At Phlair, we’re reversing that equation. With our cost-efficient, scalable electrochemical Direct Air Capture (DAC) technology, we pull CO₂ from the air to either store it permanently or repurpose it into CO₂-negative chemicals. Join us in enabling a carbon-negative future.
+ Why We’re Different?
+ We’ve developed a breakthrough hydrolizer for acid/base regeneration, enabling scalable CO₂ capture. With partners like Frontier Climate , Stripe , and Shopify , we’re on track to make a global impact.
+Our Project Dawn is our flagship initiative, setting the foundation to scale our technology and remove millions of tons of CO₂ from the atmosphere. We're one of the only seven DAC companies with a proven offtake agreement. Phlair is poised to become a technology leader, leveraging renewable energy and low-cost DAC to provide clean energy solutions that go beyond carbon removal.
+ Your Mission at Phlair
+ IoT & Data Infrastructure: Build and manage the pipeline capturing data from our Beckhoff PLCs via OPC-UA and other fieldbus technologies.
+ Database Mastery: Structure and maintain the databases (e.g., InfluxDB, PostgreSQL) that store our experimental data, ensuring it is clean and scalable.
+ Visualization & "Deep Insight" Tools: Own our Grafana stack. Create intuitive dashboards that allow our scientists to compare different experiments in a highly visual and seamless fashion.
+ Full-Stack Automation: Develop internal tools and AI-enabled workflows (using Python or Claude Code) to automate the transition from raw experiment to reported insight.
+ System Reliability: Take responsibility for the health of our data flow from the sensor level to the cloud—no data gaps, no downtime.
+ What You Bring To The Team
+ Education: Currently enrolled or completed studies in Computer Science, Mechatronics, Electrical Engineering, or a related technical field.
+ The "Control" Toolkit:
+ Proven experience with Databases and Grafana.
+ Understanding of IoT architectures and industrial protocols (OPC-UA / Beckhoff PLC experience is a massive plus).
+ Proficient in Python for data processing and automation.
+ High Ownership: You thrive in unstructured environments. You don't wait for a manual; you write it.
+ Attention to Detail: You understand that in hardware-software integration, the smallest configuration error can invalidate weeks of testing.
+ Commitment: Available on-site for at least 6 months.
+ Adaptability: You will get pulled in to side quests often when hands are needed, especially in mechanical build out
+ Bridge the Gap: You possess the ability to translate complex scientific requirements into robust technical specifications. You listen to the needs of the lab and deliver solutions that solve their specific pain points.
+ How We Work At Phlair
+ Onsite & Collaborative: Our offices in Ismaning, Germany, house our pilot plant, where we work physically on our product every day. The team collaborates closely in the office, five days a week.
+ What We Offer?
+ Competitive salary and stock options to share in the company’s success
+ 30 vacation days, including 2 days of recreational leave
+ Public transport pass for all of Germany
+ Relocation support to help you settle into Munich
+ Fitness and wellness benefits to keep you at your best
+ Fresh team lunches, prepared by our amazing chef, Amelie
+ Direct leadership access to our CEO, CTO, and CSO
+ 🔗 Learn More About Phlair
+ Our Mission, Vision and Team
+ Phlair Secures Frontier’s First Electrochemical DAC Deal
+ Technology Behind Phlair
+ The Future of DAC
+ Not ticking every box? No problem. We value potential and are open to considering a combination of education and experience instead of strictly following the listed requirements. If you believe you're a good fit for the role, even if your background differs slightly, please feel free to explain and highlight your key spikes in your career in your application.
+ We are committed to build a high-performing team where people feel a strong sense of care, can be their selves, and are able to reach their full potential. If there’s anything we can do to make our hiring process more accessible or to better support you, please let us know, we’re happy to accommodate.

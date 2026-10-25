@@ -1,0 +1,39 @@
+URL: https://www.linkedin.com/jobs/view/4481917227
+TITLE: Working Student (f/m/d) Simulation for Physical AI
+COMPANY: Siemens
+LOC: Garching, Bavaria, Germany
+POSTED: 2026-10-23
+title: Working Student (f/m/d) Simulation for Physical AI
+company: Siemens
+posted: 1 day ago
+applicants: 64 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-f-m-d-simulation-for-physical-ai-at-siemens-4481917227&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Mode of Employment: Fixed Term / Part-Time; (15-20 hours / week)
+Are you passionate about robotics and AI? Join us as a Working Student Simulation for Physical AI (f/m/d) in Garching and help shape the future of intelligent machines by working hands-on with cutting-edge simulation tools, innovative prototypes, and visionary research projects!
+Connect, learn, and grow with our Working Student Network – your space to exchange ideas, build meaningful relationships, and navigate your Siemens journey.
+ You'll make an impact by
+ You evaluate state-of-the-art methods, tools, and technologies in robotics, simulation, and physical AI
+ You support the development of robotics demonstrators and prototypes for research and innovation use cases
+ You work with robotic software stacks and simulation frameworks such as ROS/ROS2, NVIDIA Isaac Sim/Lab, MuJoCo, or related tools
+ You contribute to the setup and improvement of simulation environments and robot development workflows
+ You help prepare presentations and summarize technical findings for internal and external stakeholders
+ You collaborate with cross-functional teams to test and validate new concepts in robotics and automation
+ You support the exploration of agentic workflows and AI-driven approaches for robotic systems
+ This Is How You'll Win Us Over 
+ Education: You are a student in robotics, mechatronics, computer science, electrical engineering, mechanical engineering, (applied) mathematics, or a similar field
+ Experience and Skills:
+ You have solid programming skills in Python and ideally also in C#, C, or C++
+ You have first practical experience with robotic software stacks such as ROS/ROS2, NVIDIA Isaac Sim/Lab, MuJoCo, NVIDIA Newton, Gemini Robotics, or similar platforms
+ You are interested in robotics simulation, robot control, and AI-based robotics workflows
+ You are familiar with design and simulation tools and ideally with reduced-order modeling concepts
+ Ways of Working: You enjoy evaluating technical approaches, comparing methods, and presenting your findings in a structured way; You are motivated, curious, and eager to work on real-world robotics challenges
+ Languages: Fluent English and/or German round off your profile
+ You are much more than your qualifications, and we believe in the potential of every single candidate. We look forward to getting to know you!
+At Siemens, we believe that feeling valued and included is the foundation for doing great work. That’s why we aim to create an inclusive workplace where everyone feels a sense of belonging, and where individual perspectives and experiences are celebrated. Our commitment to fairness and respect extends to every applicant. As an equal opportunity employer, we welcome applications from individuals of all backgrounds and particularly encourage applications from persons with disabilities.
+ About Us
+ The world never stands still. And new challenges arise every day. With a passion for questioning things, for supplying ideas, and intelligently driving things forward we are helping society move towards a smarter tomorrow. Be it with technologies that reduce carbon emissions in cities or hyperintelligent robots. This is how we are able, to tackle the most important projects and push them forward together. Help us shape the future.
+www.siemens.de/careers – wenn du mehr Informationen zu Jobs & Karriere bei Siemens erhalten möchtest.
+FAQ – if you need further information on the application process.
+If you have any further questions, please feel free to contact us: www.siemens.de/fragenzurbewerbung 
+#sagworkingstudent

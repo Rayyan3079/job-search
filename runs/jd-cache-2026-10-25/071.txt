@@ -1,0 +1,33 @@
+URL: https://www.linkedin.com/jobs/view/4481689371
+TITLE: HIWI /Abschlussarbeit: Datengenerierung & -validierung für Deep-Learning-Oberflächeninspektion
+COMPANY: Fraunhofer IGCV
+LOC: Augsburg, Bavaria, Germany
+POSTED: 2026-10-23
+title: HIWI /Abschlussarbeit: Datengenerierung & -validierung für Deep-Learning-Oberflächeninspektion
+company: Fraunhofer IGCV
+posted: 1 day ago
+applicants: 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fhiwi-abschlussarbeit-datengenerierung-validierung-f%25C3%25BCr-deep-learning-oberfl%25C3%25A4cheninspektion-at-fraunhofer-igcv-4481689371&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Das Fraunhofer IGCV ist das erste produktionstechnische Fraunhofer-Institut in Bayern. Wir gestalten den Weg in die Zukunft des effizienten Engineerings, der vernetzten Produktion und der intelligenten Multimateriallösungen zur Sicherstellung der nachhaltigen Wettbewerbsfähigkeit Deutschlands und Europas. Unsere Hauptkunden kommen aus dem Maschinen- und Anlagenbau sowie der Luft- und Raumfahrt- und der Fahrzeugindustrie. Für den Fachbereich der nachhaltigen Mobilitätslösungen suchen wir zum nächstmöglichen Zeitpunkt eine studentische Hilfskraft, die uns auf unserem weiteren erfolgreichen Weg begleiten möchte.
+ Hier sorgen Sie für Veränderung
+ Datengenerierung und Labeling: Generierung neuer Trainingsdaten sowie Erstellung und Anpassung von Labels zur Detektion von Oberflächenkontaminationen auf Batterieelektroden für ein bestehendes Deep-Learning-Modell
+ Versuchsstand: Messungen mit aktiver Thermografie und Validierung der Kontaminationsbefunde im Labor
+ Nach Möglichkeit und Interesse: Fortlaufende Optimierung des Deep-Learning-Modells
+ Hiermit bringen Sie sich ein 
+ Studium im Bereich der Werkstoffwissenschaft, Physik, Informatik, Ingenieurswissenschaften o. ä. (ab mittlerem Semester)
+ Sorgfältige, strukturierte Arbeitsweise (zentral für verlässliches Labeling)
+ Grundkenntnisse in Python, idealerweise Erfahrung mit Machine Learning / Deep Learning (z. B. PyTorch)
+ Was wir für Sie bereithalten
+ Wir bieten flexible Arbeitszeiten, eine hervorragende Ausstattung und die Möglichkeit, die nachhaltigen Mobilitätslösungen bei uns aktiv mitzugestalten. Als Teil eines sympathischen, motivierten Teams sind Sie an der Realisierung spannender Forschungsprojekte beteiligt und übernehmen verantwortungsvolle Aufgaben mit hohem Gestaltungsspielraum.
+Wir wertschätzen und fördern die Vielfalt der Kompetenzen unserer Mitarbeitenden und begrüßen daher alle Bewerbungen – unabhängig von Alter, Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion, Weltanschauung, Behinderung sowie sexueller Orientierung und Identität. Schwerbehinderte Menschen werden bei gleicher Eignung bevorzugt eingestellt. Unsere Aufgaben sind vielfältig und anpassbar – für Bewerber*innen mit Behinderung finden wir gemeinsam Lösungen, die ihre Fähigkeiten optimal fördern.
+Die wöchentliche Arbeitszeit wird individuell vereinbart. Die Stelle kann auch in Teilzeit besetzt werden. Die Vergütung richtet sich nach der Gesamtbetriebsvereinbarung zur Beschäftigung der Hilfskräfte.
+Mit ihrer Fokussierung auf zukunftsrelevante Schlüsseltechnologien sowie auf die Verwertung der Ergebnisse in Wirtschaft und Industrie spielt die Fraunhofer-Gesellschaft eine zentrale Rolle im Innovationsprozess. Als Wegweiser und Impulsgeber für innovative Entwicklungen und wissenschaftliche Exzellenz wirkt sie mit an der Gestaltung unserer Gesellschaft und unserer Zukunft.
+ Bereit für Veränderung? Dann bewerben Sie sich jetzt, und machen Sie einen Unterschied! Nach Eingang Ihrer Online-Bewerbung erhalten Sie eine automatische Empfangsbestätigung. Dann melden wir uns schnellstmöglich und sagen Ihnen, wie es weitergeht.
+ Fragen zu dieser Position beantwortet gerne: Felix Wassermann | 0821 90678-191 | felix.wassermann@igcv.fraunhofer.de
+Fraunhofer IGCV
+Am Technologiezentrum 10
+86159 Augsburg
+Fraunhofer-Institut für Gießerei-, Composite- und Verarbeitungstechnik IGCV
+www.igcv.fraunhofer.de
+Kennziffer: 86020 Bewerbungsfrist:

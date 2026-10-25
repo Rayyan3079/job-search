@@ -1,0 +1,47 @@
+URL: https://www.linkedin.com/jobs/view/4481036822
+TITLE: Working Student – Data Engineering
+COMPANY: AgentixLake GmbH
+LOC: Germany
+POSTED: 2026-10-24
+title: Working Student – Data Engineering
+company: AgentixLake GmbH
+posted: 17 hours ago
+applicants: 162 applicants
+apply_offsite: 
+---
+AgentixLake GmbH · Hamburg, Germany 
+ Remote within Germany · 15–20 hours per week · Working student / Werkstudent 
+ About AgentixLake 
+https://www.linkedin.com/company/agentixlake/
+ Build the data foundations that make AI useful. 
+ How does data get from an operational system into a reliable dashboard—or become trustworthy input for an AI application?
+ At AgentixLake, we build those foundations. We’re looking for a Working Student in Data Engineering who enjoys Python, SQL, and understanding how systems fit together.
+ About AgentixLake 
+ AgentixLake is a Hamburg-based data and AI engineering company. We build production-grade data platforms and AI systems on our customers’ cloud and on-premises infrastructure.
+ Our work brings together data platform engineering, lakehouse architecture, AI agents, document intelligence, and reliable operations. We are an AWS and Anthropic Certified Services Partner.
+ What you’ll work on 
+ Working alongside experienced engineers, you will:
+ Help build Python and SQL pipelines that ingest, transform, and validate data from APIs, databases, and files.
+ Develop data models and transformations for analytics and AI applications.
+ Add data quality checks, automated tests, and monitoring to make pipelines more reliable.
+ Investigate pipeline failures and help improve logging and troubleshooting.
+ Contribute to cloud data platforms and lakehouse projects, depending on the engagement.
+ Document your work and collaborate through Git, pull requests, and code reviews.
+ You’ll start with real tasks and take ownership from day one.
+ What you bring 
+ Current enrollment in computer science, data science, business informatics, mathematics, or a related degree.
+ Hands-on practical expertise in Python, databases, and data pipelines.
+ A thoughtful approach to debugging and a willingness to ask questions.
+ Good English communication skills.
+ AWS, dbt, Airflow, Docker, Snowflake, Databricks, and Apache Iceberg aren't just buzzwords for you.
+ You do not need to know our entire stack. We value strong fundamentals, curiosity, and evidence that you enjoy building things.
+ What you can expect 
+ Remote work within Germany, with hours coordinated around your studies.
+ Exposure to modern cloud platforms, data architecture, and the foundations of production AI.
+ A small team where you can contribute ideas and understand the impact of your work.
+ Follow our journey 
+ Follow AgentixLake on LinkedIn https://www.linkedin.com/company/agentixlake/ for updates, engineering insights, and future opportunities.
+ Apply 
+ Send your CV, your field of study, expected graduation date, and weekly availability. Include a university or personal project if you have one—a short explanation is enough.
+ We welcome applicants of all backgrounds. You do not need to meet every listed requirement to apply.
+ Learn more at https://agentixlake.com/

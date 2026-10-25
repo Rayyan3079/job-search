@@ -129,4 +129,27 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/18121-0068236856-S | RENK GmbH | Werkstudent (m/w/d) zur Unterstützung eines Prüfstandprojekts | Augsburg, Bayern
 - [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/20456-2361544-S | Asklepios Kliniken Hamburg GmbH Unternehmenszentrale | Werkstudent Operatives Controlling (w/m/d) | Hamburg
 
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/15803-0068231801-S | tedox KG | Werkstudent (m/w/d) | Erfurt
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/16481-1116199-S | Deufol Nord GmbH | Werkstudent (m/w/d) | Erfurt
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4959938503-S | DIS AG Germany | Werkstudent (m/w/d) Recruiting | Erfurt
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/16481-1699126-S | TEAG Thüringer Energie AG | Werkstudent Unternehmensentwicklung m/w/d | Erfurt
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/16481-1946672-S | Thüringer Landgesellschaft mbH | Werkstudent Architektur / Bauingenieurwesen (m/w/d) | Erfurt
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12608-1457772-28103-1-S | Penny-Markt GmbH Ost | Werkstudent Verkäufer / Kassierer (m/w/d) | Erfurt
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2358825-S | Cabka GmbH & Co. KG | Werkstudent Controlling (m/w/d), Weira | Weira
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/16481-1917549-S | TEAG Thüringer Energie AG | Werkstudent Planung Ladeinfrastrukturprojekte m/w/d | Erfurt
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4932492332-S | Drees & Sommer SE | Werkstudent (w/m/d) Projektmanagement Hochbau | Erfurt
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2344463-S | N3eos | Werkstudent Personalabteilung (m/w/d) - Schwerpunkt Betreuung, Arnstadt | Arnstadt
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4957124942-S | Drees & Sommer SE | Werkstudent (w/m/d) Baumanagement Objektüberwachung in Eisenach | Erfurt
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/16481-1917509-S | TEAG Thüringer Energie AG | Werkstudent Technische Anlagen und Instandhaltung m/w/d | Erfurt
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12280-2026-79475-0-S | Werner Systemgastronomie Jena GmbH Leutragraben | Werkstudent:in als Restaurant-Mitarbeiter:in - TZ | Jena
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2359097-S | MED:ON Holding GmbH | Werkstudent/in Finance (m/w/d) Liquiditätsmanagement, Erfurt, Polyklinik | Erfurt
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2190321-S | KREBS+KIEFER Ingenieure GmbH | Werkstudent Hoch- und Ingenieurbau (m/w/d), K+K Erfurt | Erfurt
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2190315-S | KREBS+KIEFER Ingenieure GmbH | Werkstudent Ingenieurbau und Geotechnik (m/w/d), K+K Erfurt | Erfurt
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12280-2025-73288-0-S | (Hermsdorf) A. Bahl-Voigt Systemgastronomie e. K. | Werkstudent:in als Restaurant-Mitarbeiter:in - TZ | Hermsdorf, Thüringen
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207120112-S | SWE Service GmbH | Werkstudent Technisches Gebäudemanagement Parkhäuser und Parkplätze (w/m/d) | Erfurt
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/20534-16475358-S | ENERDOMO Lizenzverwaltung GmbH | Festangestellte(r) Gebäude-Energieberatung (m/w/d) oder ambitionierter Werkstudent (m/w/d) | Erfurt
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208141513-S | Stadt Coburg Personal- und Organisationsamt | Studentische Hilfskraft (m/w/d) im Projekt „Klimafolgenanpassung im öffentlichen Raum“ | Coburg
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2362675-S | Hans Segmüller Polstermöbelfabrik GmbH & Co. KG | Werkstudent KI & Prozessautomatisierung Einkauf (m/w/d), Zentralverwaltung Friedberg | Friedberg, Bayern
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12706-44529337-1023-S | Amprion GmbH | Werkstudent Wissensmanagement DC-Landtrassen (m/w/d) | Dortmund
+
 ## Processed

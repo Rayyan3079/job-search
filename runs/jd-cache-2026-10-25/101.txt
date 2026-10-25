@@ -1,0 +1,53 @@
+URL: https://www.linkedin.com/jobs/view/4463846097
+TITLE: Working Student AI Agents for Software Engineering (m/f/d)
+COMPANY: Rohde & Schwarz
+LOC: Stuttgart, Baden-Württemberg, Germany
+POSTED: 2026-10-23
+title: Working Student AI Agents for Software Engineering (m/f/d)
+company: Rohde & Schwarz
+posted: 1 day ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-ai-agents-for-software-engineering-m-f-d-at-rohde-schwarz-4463846097&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Verstärke unseren Bereich Technology Systems in Stuttgart zum nächstmöglichen Zeitpunkt.
+Aufgaben
+ Unterstützung bei der strukturierten Erfassung von relevantem Projektwissen, Workflows, Rahmenbedingungen, Designentscheidungen und Best Practices für den Einsatz durch KI-Tools
+ Mitwirkung bei der Gestaltung nachhaltiger Prozesse zur laufenden Pflege und Aktualisierung projektspezifischer Kontextinformationen
+ Begleitung der Entwicklung und Einführung eines KI-basierten Knowledge-Interview-Tools sowie von KI-gestützten Interviews mit Engineers und Fachexperten
+ Aufbereitung, Strukturierung und Validierung technischer Informationen für die Nutzung durch KI-Assistenten und AI Agents
+ Zuarbeit bei der Entwicklung und Evaluierung von AI Agents für Engineering-Aufgaben, beispielsweise Hardware-Inbetriebnahme, Testfallerstellung, Debugging sowie die Analyse von Logs, Traces und Systemverhalten
+ Erstellung kleiner Tools, Skripte und Automatisierungsworkflows, vorzugsweise mit Python
+ Beteiligung an Experimenten, Proof-of-Concepts und Evaluierungen KI-basierter Engineering-Workflows
+ Dokumentation von Erkenntnissen, Limitationen und Verbesserungspotenzialen sowie enge Zusammenarbeit mit Engineers, Architekten und AI-/Tooling-Experten
+ Qualifikationen
+ Du befindest dich in einem laufenden Studium der Informatik, Elektrotechnik, Embedded Systems, Softwareentwicklung, Data Science, Mechatronik oder einer vergleichbaren technischen Studienrichtung
+ Du interessierst dich für den Einsatz von KI in großen Embedded-Entwicklungsprojekten und möchtest komplexe technische Systeme besser verstehen
+ Du zeichnest dich durch analytisches Denkvermögen, Sorgfalt und eine strukturierte Herangehensweise bei der Identifikation von Verbesserungspotenzialen aus
+ Du verfügst über gute Programmierkenntnisse, vorzugsweise in Python, und bringst idealerweise praktische Erfahrung aus Hochschulprojekten, Praktika, Open-Source-Projekten oder vergleichbaren Tätigkeiten mit
+ Du hast Erfahrung im Umgang mit Linux und kommunizierst offen und proaktiv im Team
+ Du hast Freude daran, zuverlässige und robuste Prozesse mitzugestalten, stellst bei Bedarf Fragen und arbeitest eng mit anderen zusammen
+ Erfahrungen mit Embedded Systems, hardwarenaher Software, Testing oder Debugging sowie Kenntnisse in Docker, GitLab CI/CD, Kubernetes, Grafana oder vergleichbaren Tools sind von Vorteil
+ Interesse an AI Agents, LLM-basierten Tools, Automatisierung, Developer Productivity, Wissensmanagement oder strukturierter Dokumentation ist wünschenswert
+ Kontakt und weitere Informationen
+Dich erwarten hervorragende Entwicklungsmöglichkeiten, beste Konditionen und eine sehr gute Vergütung.
+Interessiert? Dann freuen wir uns auf Deine Bewerbung mit Lebenslauf, aktueller Notenübersicht des Studiums sowie aktueller Immatrikulationsbescheinigung! Am besten bewirbst Du dich online mit der Kennziffer. Bei Fragen kannst Du dich jederzeit gerne über LinkedIn oder XING an Deinen Recruiting-Kontakt wenden.
+Für die Dauer Deiner Anstellung musst Du ordentlich immatrikuliert sein. Während der Vorlesungszeit kannst Du bis zu 20 Stunden pro Woche arbeiten. Mobiles Arbeiten ist möglich – Dein zentraler Arbeitsort ist jedoch Stuttgart.
+Chancengleichheit ist uns wichtig. Wir freuen uns unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion, Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität auf Deine Bewerbung.
+Kennziffer 2351
+Recruiting-Kontakt Tanja Feßmann
+Bei Rohde & Schwarz entwickeln und produzieren wir Lösungen in den Bereichen Test & Measurement, Technology Systems sowie Networks & Cybersecurity – mit der Vision einer sicheren und vernetzten Welt. Von der Software bis zur Endfertigung gestalten unsere über 15.000 Mitarbeitenden Produkte und Systeme, die die technologische Souveränität unserer Kunden aus Wirtschaft, Behörden und hoheitlichem Umfeld sichern und weltweit Standards setzen. Unser Headquarter liegt zentral in München und ist zugleich unser Hauptentwicklungsstandort.
+Unser Angebot
+ Homeofficemöglichkeiten
+ Flexible Arbeitszeitmodelle
+ Attraktive Vergütung
+ Training & Weiterbildung
+ Verpflegungszuschuss
+ Betriebliche Altersvorsorge
+ Familienunternehmen
+ Karriereplanung
+ 30 Tage Urlaub
+ Kein Dresscode
+ Gute Verkehrsanbindung
+ Förderung von Innovationen
+ Gratis Kaffee/Getränke
+ Langfristiges & attraktives Arbeitsumfeld

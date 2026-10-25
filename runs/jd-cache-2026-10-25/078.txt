@@ -1,0 +1,45 @@
+URL: https://www.linkedin.com/jobs/view/4478686459
+TITLE: Werkstudent Data Solutions (m/w/d)
+COMPANY: BUDNI Handels- und Service GmbH & Co. KG
+LOC: Hamburg, Hamburg, Germany
+POSTED: 2026-10-20
+title: Werkstudent Data Solutions (m/w/d)
+company: BUDNI Handels- und Service GmbH & Co. KG
+posted: 4 days ago
+applicants: 83 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-data-solutions-m-w-d-at-budni-handels-und-service-gmbh-co-kg-4478686459&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Mit mehr als 190 Filialen und rund 1.950 Mitarbeiterinnen und Mitarbeitern ist budni vor allem im Großraum Hamburg Marktführer unter den Drogeriemarktunternehmen. budni gehört seit Jahren zu den beliebtesten Drogeriemärkten und den besten Arbeitgebern der Metropolregion. Das Unternehmen kann aus dem breitesten Sortiment im Branchenvergleich schöpfen und schneidert aus seinen 25.000 Artikeln die Sortimente jeder Filiale passend auf die Menschen im Viertel zu. budni bietet seinen Kundinnen und Kunden ein nachbarschaftliches Lebensgefühl und besten Service mit freundlichen und kompetenten Mitarbeiterinnen und Mitarbeitern. Die aus der Partnerschaft mit EDEKA entstandene BUDNI Handels- und Servicegesellschaft (BHSG) steuert die überregionale Standortentwicklung und bündelt zudem alle rückwärtigen Bereiche – von Einkauf über Sortimentsmanagement bis Marketing. Mit der Budnianer Hilfe e.V. engagiert sich budni in der Nachbarschaft der Filialen für Kinder und Jugendliche und setzt sich beim Sortiment, der Warenlieferung und dem Betrieb der Filialen für Nachhaltigkeit ein. Dabei lautet das zentrale Ziel, den ökologischen Fußabdruck zu reduzieren sowie die Bevölkerung für einen nachhaltigeren Konsum und die Wertigkeit von Lebensmitteln zu sensibilisieren. budni setzt mit diesem Engagement ein starkes Zeichen im deutschen Drogeriemarkt.
+Die aus der Partnerschaft mit EDEKA entstandene BUDNI Handels- und Servicegesellschaft (BHSG) steuert die überregionale Standortentwicklung und bündelt zudem alle rückwärtigen Bereiche – von Einkauf über Sortimentsmanagement bis Marketing.
+Du möchtest den Aufbau einer modernen Daten- und Analytics-Landschaft aktiv mitgestalten und dazu beitragen, datengetriebene Entscheidungen im gesamten Unternehmen zu ermöglichen? Dann werde Teil unseres Teams "Digital Products & Data Solutions“ und unterstütze uns bei der Entwicklung neuer Datenprodukte, Dashboards und Automatisierungslösungen.
+ Deine Aufgaben
+ Unterstützung bei der Weiterentwicklung unserer zentralen Daten- und Analytics-Landschaft
+ Aufnahme, Analyse und Strukturierung fachlicher Anforderungen sowie Übersetzung in technische Anforderungen
+ Mitarbeit bei der Konzeption neuer Datenquellen, Schnittstellen und Datenprodukte gemeinsam mit internen und externen IT-Partnern
+ Erstellung, Pflege und Qualitätssicherung von Data Sets für Dashboards, Reports und Analysen
+ Entwicklung und Weiterentwicklung von KPI-Dashboards und Reportings mit Power BI
+ Durchführung von Datenanalysen, Monitoring-Aufgaben und Tests zur Sicherstellung der Datenqualität
+ Dokumentation von Datenmodellen, Analyseergebnissen und technischen Konzepten
+ Mitarbeit an Automatisierungslösungen mit UiPath zur Optimierung interner Prozesse
+ Unterstützung bei der Organisation des Data Fachkreises sowie der Befähigung von Fachbereichen im Umgang mit Daten und Reporting-Lösungen 
+ Dein Profil
+ Studium der Informatik, Data Science, Wirtschaftsinformatik oder eines vergleichbaren Studiengangs
+ Interesse an Daten, Analytics, Business Intelligence und modernen Datenplattformen
+ Erste Kenntnisse in SQL und Python sowie idealerweise Power BI und UiPath
+ Technisches Verständnis für Datenflüsse, Schnittstellen und Cloud-Technologien
+ Analytische, strukturierte und eigenständige Arbeitsweise
+ Hohe Lernbereitschaft sowie Spaß an technischen Fragestellungen 
+ Teamfähigkeit und Kommunikationsstärke 
+ Unser Angebot
+ Ein teamorientiertes Arbeitsklima, ein leistungsgerechtes Einkommen sowie einen Arbeitsplatz in der schönsten Stadt der Welt am Rande des Stadtparks
+ Viel Raum für Tatendrang, neue Ideen und individuelle Weiterentwicklung
+ Die Möglichkeit bei einem hanseatischen Traditionsunternehmen die nächsten Jahre entscheidend mitzugestalten
+ Weitere Leistungen wie ein internes Fitnessstudio, Deutschlandticket, Kantine inkl. Bezuschussung und ein umfangreiches Gesundheitsmanagement
+ Interessiert?
+ Dann freuen wir uns auf Deine Online-Bewerbung mit aussagekräftigen Bewerbungsunterlagen (Lebenslauf und vollständige Zeugnisse) unter Angabe Deiner Gehaltsvorstellung und Deines möglichen Eintrittstermins. Wir freuen uns darauf, dich kennen zu lernen!
+Willkommen sind bei uns alle Menschen – unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Behinderung, Religion, Alter sowie sexueller Orientierung.
+ Kontakt
+ Frau Angie Schenkel
+Melde Dich gerne bei mir, wenn Du Fragen zum Bewerbungsprozess oder zur Stelle hast: +49 40 6377 2023
+Weitere Informationen zur Karriere bei EDEKA im Internet unter:
+www.karriere.edeka

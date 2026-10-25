@@ -1,0 +1,34 @@
+URL: https://www.linkedin.com/jobs/view/4480670800
+TITLE: Werkstudent CRM & Datenmanagement (m/w/d)
+COMPANY: E.DIS
+LOC: Fürstenwalde, Brandenburg, Germany
+POSTED: 2026-10-23
+title: Werkstudent CRM & Datenmanagement (m/w/d)
+company: E.DIS
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-crm-datenmanagement-m-w-d-at-e-dis-4480670800&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Als einer der größten regionalen Netzbetreiber in Deutschland gestalten wir bei E.DIS die Zukunft von Menschen, Regionen und der Energiewelt. Wir sorgen dafür, dass Millionen von Menschen in Brandenburg und Mecklenburg-Vorpommern rund um die Uhr zuverlässig mit Energie versorgt werden. Durch den zukunftsorientierten Aus- und Umbau unserer Energienetze gestalten wir die Energiewende maßgeblich mit. Und das ist eine echte Teamaufgabe! Wir glauben an die Innovationskraft unserer Mitarbeiter*innen, vertrauen auf ihre Fähigkeiten und schaffen Freiräume zur Mitgestaltung. Wir gehen neue Wege. Gemeinsam. #zukunftbeginntzusammen
+ Eine Aufgabe, die herausfordert:
+ Du unterstützt unser Team aktiv dabei, unsere CRM-Prozesse in Microsoft Dynamics 365 kontinuierlich weiterzuentwickeln und zu optimieren.
+ Du stellst sicher, dass unsere Daten in Microsoft Dynamics 365 und angebundenen Systemen wie SharePoint sauber, aktuell und DSGVO-konform gepflegt sind.
+ Du erstellst, aktualisierst und optimierst Dokumentvorlagen (z. B. in Word, Dynamics 365 und DocuSign), damit unsere Abläufe effizient funktionieren.
+ Du hilfst unseren Usern im Arbeitsalltag, indem du verständliche Anleitungen erstellst und sie bei Fragen oder Problemen unterstützt.
+ Du testest neue Funktionen und Änderungen im System, erkennst mögliche Fehler und gibst wertvolles Feedback zur Verbesserung.
+ Du wertest Daten aus und erstellst Analysen und Reports für das Produktmanagement, um fundierte Entscheidungen zu ermöglichen.
+ Ein Background, der überzeugt
+ Du studierst derzeit in einem Studiengang mit technischem oder wirtschaftlichem Bezug, z. B. (Wirtschafts-)Informatik oder Wirtschaftsingenieurwesen. 
+ Du hast Interesse an digitalen Prozessen, CRM-Systemen und der Arbeit mit Daten und arbeitest gerne strukturiert.
+ Du fühlst dich im Umgang mit Microsoft 365 sicher und nutzt insbesondere Excel und Word routiniert.
+ Idealerweise hast du bereits erste Erfahrungen mit Microsoft Dynamics 365 oder der Power Platform gesammelt, dies ist aber kein Muss.
+ Du arbeitest sorgfältig und zuverlässig und hast Spaß daran, Struktur und Ordnung in Daten und Prozesse zu bringen.
+ Du zeichnest dich durch eine neugierige, engagierte und lösungsorientierte Arbeitsweise aus und arbeitest gerne im Team.
+ Du hast die Möglichkeit, regelmäßig vor Ort in Fürstenwalde/Spree zu arbeiten, und verfügst über gute Deutschkenntnisse.
+ Ein Umfeld, das begeistert
+ Eine nachweislich hohe Mitarbeiterzufriedenheit: Zertifizierter Top Arbeitgeber seit 2022 (Kununu Score 4,3/5 Sterne & 97% Mitarbeiterweiterempfehlung). 
+ Eine Aufgabe voller Spannung, bei der wir gemeinsam an intelligenten Energienetzen und innovativen Energielösungen arbeiten. 
+ Einen flexiblen Anschluss für eine ausgewogene Work-Life-Balance, z. B. durch flexible Arbeitszeiten und Home Office. 
+ Ein elektrisierendes Angebot an Fortbildungs- und Entwicklungsmöglichkeiten wie z. B. Seminare, Workshops und Talentprogramme. 
+ Ein starkes Netzwerk, denn als Teil des E.ON Konzerns fördern wir die Zusammenarbeit über Unternehmensgrenzen hinweg und bieten vielfältige Perspektivwechsel. Werde Teil unseres Netzwerks! 
+ Die Integration von Menschen mit Behinderung entspricht unserem Selbstverständnis und wir begrüßen daher deren Bewerbung.

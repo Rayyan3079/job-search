@@ -1,0 +1,24 @@
+URL: https://www.linkedin.com/jobs/view/4482861629
+TITLE: Werkstudent - Data Science
+COMPANY: Bundesdruckerei-Gruppe
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-10-23
+title: Werkstudent - Data Science
+company: Bundesdruckerei-Gruppe
+posted: 1 day ago
+applicants: 64 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-data-science-at-bundesdruckerei-gruppe-4482861629&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Ihr Aufgabenbereich
+ Unterstützung bei der Umsetzung von Data-Science-Anwendungsfällen – von der Datenanalyse über das Modelltraining bis hin zur Evaluation
+ Entwicklung und Optimierung LLM-basierter Anwendungen und Prototypen, z. B. RAG-Systeme, sowie Unterstützung bei deren Evaluierung und Monitoring
+ Unterstützung beim Aufbau von MLOps-Prozessen und bei der Entwicklung von Komponenten der internen KI-Plattform
+ Mitwirkung an der Entwicklung und Umsetzung verschiedener Standardisierungsprojekte für das Data-Science-Team, z. B. zur Definition und Einführung von Coding-Standards
+ Ihr Profil
+ Laufendes Studium in einem MINT- oder ingenieurwissenschaftlichen Studiengang oder einem vergleichbaren Studiengang
+ Kenntnisse und erste praktische Erfahrungen im Bereich Data Science
+ Grundlegende Programmierkenntnisse in Python, idealerweise sicherer Umgang mit der Programmiersprache
+ Erste praktische Erfahrungen im Umgang mit Large Language Models (LLMs)
+ Idealerweise erste Erfahrungen mit Containerisierung und Orchestrierung (Docker, Kubernetes)
+ Ausgeprägte Kommunikationsfähigkeit, um komplexe Sachverhalte und Erkenntnisse klar, verständlich und zielgruppengerecht zu vermitteln
+ Die monatliche Vergütung liegt bei einer flexiblen Einteilung der Wochenarbeitszeit von 15 Stunden bei 1.011,00 (Bachelor) / 1.076,00 (Master) oder 20 Stunden bei 1.348,00 (Bachelor) / 1.435,00 (Master) Euro brutto

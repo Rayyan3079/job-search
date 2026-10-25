@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4480695654
+TITLE: Werkstudent/in Software Development & Applied AI (m/w/d)
+COMPANY: DataClue.ai
+LOC: Grünwald, Bavaria, Germany
+POSTED: 2026-10-23
+title: Werkstudent/in Software Development & Applied AI (m/w/d)
+company: DataClue.ai
+posted: 1 day ago
+applicants: 70 applicants
+apply_offsite: 
+---
+Deine Rolle 
+ Du studierst Informatik, Wirtschaftsinformatik, Data Science oder ein verwandtes Fach und willst neben dem Studium nicht nur zuarbeiten, sondern deine Skills praktisch anwenden? Du hast schon eigene Projekte umgesetzt und interessierst dich dafür, wie KI in der Softwareentwicklung eingesetzt wird?
+ Als Werkstudent unterstützt du unser Team in Kundenprojekten und bei der Entwicklung eigener KI-Tools und übernimmst eigene Aufgaben.
+ Über DataClue 
+ DataClue ist eine Unternehmensberatungs-Boutique mit Fokus auf Applied AI & Data Analytics und Execution & Transformation. Wir entwickeln maßgeschneiderte Lösungen mit messbarem Mehrwert. Unser interdisziplinäres Team vereint Business- und Entwicklungs-Know-how und begleitet Kunden: von Konzeption und Strategie über Projektmanagement bis zur Umsetzung.
+ Aufgaben 
+ Deine Aufgaben 
+ Unterstützung bei der Entwicklung von Backend-Services und Datenpipelines in Python
+ Umsetzung Frontend-Komponenten und interner Tools mit TypeScript und React
+ Arbeit mit relationalen Datenbanken: SQL-Abfragen, Datenmodelle und Datenaufbereitung
+ Prototyping mit LLM-APIs und KI-Agenten, z. B. für Automatisierungen für Kunden oder unser Team
+ Mitarbeit an Tests, Dokumentation und Code-Reviews
+ Nach der Einarbeitung: eigenständige Teilaufgaben in Kundenprojekten
+ Qualifikation 
+ Dein Profil 
+ Laufendes Studium in Informatik, Wirtschaftsinformatik, Data Science oder einem verwandten Fach
+ Gute Grundlagen in Python und erste Erfahrung mit TypeScript und React
+ Grundkenntnisse in SQL und relationalen Datenbanken
+ Eigene Projekte über das Studium hinaus (z. B. Hobby-Tool, Bot, Web-App)
+ Interesse an KI und erste praktische Erfahrung mit KI-Modellen oder LLM-APIs 
+ Grundlegendes betriebswirtschaftliches Verständnis oder Interesse daran
+ Sehr gute Deutsch- und gute Englischkenntnisse in Wort und Schrift
+ 15–20 Stunden pro Woche im Semester, in der vorlesungsfreien Zeit gern mehr
+ Benefits 
+ Unser Angebot 
+ Echte Projektarbeit statt Zuarbeit: Deine Lösungen kommen direkt beim Kunden zum Einsatz
+ Enge Betreuung durch erfahrene Entwickler und Berater
+ Moderne Entwicklungstools inkl. KI-gestützter Entwicklung 
+ Flexible Arbeitszeiten rund um deinen Stundenplan, Home-Office möglich
+ Perspektive auf Abschlussarbeit oder Übernahme nach dem Studium
+ Offene Unternehmenskultur mit Raum für Eigeninitiative und Wachstum
+ Interessiert? Wir freuen uns auf deinen CV und ein Projekt, auf das du stolz bist (GitHub-Link, Screenshots)

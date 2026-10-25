@@ -1,0 +1,40 @@
+URL: https://www.linkedin.com/jobs/view/4480015215
+TITLE: Werkstudent (m/w/d) Softwareentwicklung Business Central
+COMPANY: collana GmbH
+LOC: Hamburg, Hamburg, Germany
+POSTED: 2026-10-22
+title: Werkstudent (m/w/d) Softwareentwicklung Business Central
+company: collana GmbH
+posted: 2 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-m-w-d-softwareentwicklung-business-central-at-collana-gmbh-4480015215&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Deine Mission
+ Du hast eine Leidenschaft für gut strukturierte Softwareentwicklung? Du möchtest einen ersten Einblick bekommen, wie die Arbeit als Softwareentwickler:in aussieht? Du hast Lust, Dich mit unserer Unterstützung in unsere ERP Lösung DiVA einzuarbeiten und sie weiterzuentwickeln? Dann sollten wir uns unterhalten!
+Wir suchen ab sofort einen Werkstudent (m/w/d) für unsere Teams in der Softwareentwicklung mit Schwerpunkt Business Central (BC) an unserem Standort Flensburg/Hamburg. In diesem Job arbeitest Du entweder in unserer Produktentwicklung, auf einem unserer Neukundenprojekte oder im Bestandskundenbereich.
+Unser Team freut sich über Deine Bewerbung! 
+Wir arbeiten remote. Wenn es für eine Phase der Zusammenarbeit sinnvoll ist, kommen die Teammitglieder in den Räumen der MAC zusammen. Dabei entscheidet jedes Team eigenständig, wie oft und in welchem Umfang solche Team-Tage Sinn ergeben. Du solltest daher generell die Möglichkeit haben, in unser Büro in Flensburg/Hamburg zu kommen.
+ Deine Aufgaben
+ Du programmierst und optimierst in BC/NAV - zunächst in Begleitung, später komplett eigenständig - unser ERP- System DiVA an genau den richtigen Stellen. Das tust Du in einem der folgenden drei Bereiche:
+ In der Produktentwicklung arbeitest Du an der Weiterentwicklung von DiVA, entwickelst weiterführende Features und erweiterst die Standard-Lösung. Dabei stimmst Du Dich laufend mit Kolleg:innen in anderen Bereichen ab.
+ Im Neukundenbereich unterstützt Du eines der Projektteams bei der Neueinführung unseres ERP-System und begleitest dabei den gesamten Projektablauf: Von der Workshop-Phase über die Umsetzung bis zum Go Live.
+ Im Bestandskundenmanagement unterstützt Du unsere erfahrenen Kolleg:innen bei der Weiterentwicklung und Beratung unserer Kunden entlang der MAC Produkte. Außerdem löst Du Probleme in der Anwendung von DiVA und behebst Bugs.
+ Je nach Deinem Interesse bringst Du Dich in bereichsübergreifenden Teams zum Thema Prozessautomation in unserem ERP-System DiVA ein und unterstützt mit Deinen Ideen.
+ Das bringst Du mit
+ Du bist eingeschriebener Student (m/w/d) der (Wirtschafts-) Informatik, Technischen Informatik oder eines verwandten Studiengangs.
+ Du bringst grundlegende Kenntnisse in den Bereichen von Java, C# und .NET-Technologien oder anderen C-basierten Sprachen mit. 
+ Pluspunkte sammelst Du mit ersten praktischen Erfahrungen in diesen Bereichen.
+ Du überzeugst durch Deine analytische und konzeptionelle Arbeitsweise.
+ Du bist teamfähig, engagiert und hast Freude daran, Verantwortung zu übernehmen.
+ Du hast Interesse an komplexen und anspruchsvollen E-Commerce-Projekten.
+ Du wohnst in Flensburg/Hamburg oder Umgebung bzw. hast die Möglichkeit, regelmäßig vor Ort zu arbeiten.
+ Gute Deutsch- und Englischkenntnisse runden dein Profil ab.
+ Du kannst nicht alle Punkte mit einem Haken versehen? Macht nichts, bewirb Dich trotzdem! Zusammen finden wir dann eine Lösung.
+ Warum wir?
+ Du gehst in Deinem Job auf, während wir uns um das passende Wohlfühl-Umfeld kümmern, inklusive Verantwortung, Freiräumen und deinem persönlichen Karriereweg.
+ Je nach Stärken, Skills und Ideen, die Du einbringst, kannst Du so den Scope deiner Rolle mitgestalten.
+ Wir verbinden das Beste aus zwei Welten: flexibles Homeoffice und persönlicher Austausch im Büro in Flensburg.
+ Bei uns kannst Du Dich in Deiner Mittagspause massieren lassen und von unseren organisierten Sport- und Fitnessangeboten profitieren 
+ Wie wir sind – kurz & knackig: Nordisch bodenständig und dennoch in der deutschen Bundesliga, sehr werteorientiert und dennoch Innovationstreiber, viele engagierte Köpfe und dennoch zu Hause in kleinen agilen Teams.
+ Über uns
+ Gegründet 2003 in Flensburg hat die MAC IT-Solutions GmbH heute auch ein Büro in Hamburg und besteht aus 150 Mitarbeitenden – Tendenz steigend. Wir sind ein Spezialdienstleister für den E-Commerce und Omnichannel-Handel mit Fokus auf Entwicklung und Implementierung von ERP-Software – und damit der beste Ansprechpartner für das digitale Backend des E-Commerce. Zu unseren Kunden zählen Horze, Bike Discount, Notebooksbilliger, Galeria Karstadt Kaufhof und viele mehr, die teilweise auch europaweit tätig sind. Gleichzeitig sind wir seit 2020 Teil der collana GmbH, einer Gruppe von IT-Spezialdienstleistern im DACH-Raum, die von Dirk Wieland als CEO geführt wird.

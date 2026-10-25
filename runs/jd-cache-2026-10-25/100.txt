@@ -1,0 +1,40 @@
+URL: https://www.linkedin.com/jobs/view/4480624469
+TITLE: Werkstudent (m/w/d) AI Value Creation
+COMPANY: SeraVerse
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-10-23
+title: Werkstudent (m/w/d) AI Value Creation
+company: SeraVerse
+posted: 1 day ago
+applicants: 35 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-m-w-d-ai-value-creation-at-seraverse-4480624469&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+SeraVerse ist die Drehscheibe für vielfältige Unternehmen im nicht-industriellen Sektor. Der Schwerpunkt unserer Beteiligungen liegt im Bereich TV & Medien, Renewable Infrastructure Services und Financial Services. Unter dem Motto „Empowering Ventures“ bieten wir ein breites Spektrum an Dienstleistungen, darunter Unternehmensentwicklung, operative Exzellenz, M&A-Transaktionen, strukturierte Finanzierung, Rechtsberatung und HR-Services. Unser Ziel ist es, Unternehmen dabei zu unterstützen, ihr volles Potenzial auszuschöpfen.
+ Gegründet von Philipp Haindl und als Teil von Serafin denken wir in Generationen. Serafin fördert die langfristige und nachhaltige Entwicklung ihrer Gruppenunternehmen und unterstützt sie bei der Umsetzung operativer und strategischer Maßnahmen. Innerhalb der Gruppe teilen wir gemeinsame Werte und die Freude daran, Erreichtes noch besser zu machen.
+ Für unser SeraVerse-Team suchen wir Dich in München als Werkstudent AI Value Creation (m/w/d) .
+ Diese Aufgaben erwarten Dich 
+ Du arbeitest eng mit der Geschäftsführung und den Beteiligungsmanagern zusammen und vertiefst Dich in die Abläufe unserer Holding und Beteiligungen, erkennst Engpässe und manuelle Schritte und bewertest, wo Automatisierung den größten Nutzen bringt
+ Du führst Finanz-, Vertriebs- und Plattformdaten zusammen, z. B. YouTube-Kennzahlen oder Rechtekataloge. Du bereinigst und strukturierst sie so, dass andere darauf aufbauend fundiert entscheiden können
+ Du entwickelst mit uns sinnvolle Applikationen, die echte Business-Probleme lösen
+ Mit KI-Coding-Tools wie Claude Code, Cursor oder Codex sowie Python, SQL, n8n oder Langdock-Agenten baust Du in Tagen statt Monaten einen funktionierenden Prototyp und testest ihn direkt mit den Fachbereichen
+ Was sich bewährt, machst Du stabil und nutzbar für alle. Dazu gehören Dokumentation, Tests, Datenqualitätsprüfungen und eine saubere Übergabe
+ Du begleitest die Einführung unserer KI-Plattform, sammelst Use Cases, entwickelst Agenten und Prompts und befähigst Kolleg:innen, selbst damit zu arbeiten
+ Das wünschen wir uns von Dir 
+ Du studierst Wirtschaftsinformatik, Informatik, Data Science, Wirtschaftsingenieurwesen oder BWL mit klarem Technik-Schwerpunkt und hast noch mindestens 12 Monate Studienzeit vor Dir
+ Bevor Du etwas automatisierst, fragst Du, warum der Schritt überhaupt existiert
+ Du kennst Dich mit SQL und/oder Python aus und hast keine Berührungsangst vor Excel
+ Vibe-Coding ist für Dich kein Fremdwort: Du hast bereits eigene Projekte mit KI-Unterstützung umgesetzt und weißt, wo diese Werkzeuge an ihre Grenzen stoßen
+ APIs, Datenbanken, Git und Cloud-Dienste sind für Dich keine Fremdwörter
+ Du hast sehr gute Deutsch- und Englischkenntnisse und kommunizierst souverän in beiden Sprachen, denn unsere Beteiligungen arbeiten international
+ Darauf kannst Du Dich freuen 
+ Direkte Zusammenarbeit mit der Geschäftsführung, kurze Wege, sichtbare Wirkung
+ Echte Probleme aus mehreren Branchen statt Übungsprojekten
+ Aktuelle KI-Werkzeuge mit vollem Zugang, kein Testkonto
+ Flexible Arbeitszeiten, die sich nach Deinem Semester richten; hybrid mit Büro in München
+ Perspektive auf Übernahme oder Abschlussarbeit mit einer unserer Beteiligungen
+ Neugierig? 
+ Wir freuen uns auf Deinen Lebenslauf über unser Bewerberportal und ein paar Sätze dazu, was Du bereits gebaut oder programmiert hast – z.B. für ein Uni-Projekt oder im Rahmen sonstiger privater oder beruflicher Aktivitäten – was der Nutzen davon ist, wie Du vorgegangen bist und wobei Dir KI geholfen hat. 
+ Serafin Unternehmensgruppe GmbH
+ Alexander Roth
+ Leiter Personal
+ karriere@serafin-gruppe.de

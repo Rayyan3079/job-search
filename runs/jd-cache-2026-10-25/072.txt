@@ -1,0 +1,30 @@
+URL: https://www.linkedin.com/jobs/view/4478252551
+TITLE: College Software Engineering Expert
+COMPANY: AfterQuery
+LOC: Germany
+POSTED: 2026-10-19
+title: College Software Engineering Expert
+company: AfterQuery
+posted: 5 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fcollege-software-engineering-expert-at-afterquery-4478252551&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+AfterQuery is seeking College Software Engineer Experts to create and refine software development challenges for training AI models. In this remote, flexible role, you will design and evaluate coding scenarios that test the AI's ability to interpret and apply complex programming principles, ensuring that our models can navigate real-world software development, debugging, and system design with precision and technical accuracy. Your expertise will help bridge the gap between rigorous software engineering practice and innovative AI solutions, making a tangible impact on the future of coding technology.
+ Responsibilities
+ Develop high-quality software engineering questions and coding challenges that test AI models on topics such as algorithm design, code debugging, system architecture, API design, optimization, testing strategies, and more.
+ Evaluate and validate model responses, offering detailed feedback to ensure technical accuracy and adherence to software engineering best practices.
+ Collaborate with a team of software engineering and technical experts to fine-tune question difficulty and ensure content is both challenging and educational.
+ Required Qualifications
+ Currently enrolled in or recently graduated from a Computer Science, Software Engineering, or related technical degree program.
+ Strong programming skills in one or more languages (Python, Java, C++, JavaScript, etc.) with a robust understanding of algorithms and data structures.
+ Exceptional analytical, written, and verbal communication skills, with a keen eye for detail.
+ Preferred Qualifications
+ Experience with software development internships at tech companies or startups.
+ Coursework or projects in algorithms, systems design, databases, web development, or machine learning.
+ Contributions to open source projects or personal coding projects demonstrating technical depth.
+ Familiarity with version control (Git), testing frameworks, or modern development tools is a plus.
+ Familiarity with AI or machine learning applications is a plus.
+ Why apply
+ Competitive Compensation: Earn $40-60/hour that rewards your software engineering expertise.
+ Innovative Impact: Work with a YC-backed startup revolutionizing AI with high-caliber software engineering content and insights.
+ Flexible Engagement: Enjoy the freedom of a remote, asynchronous role that allows you to integrate your software engineering expertise into pioneering projects around your class schedule.

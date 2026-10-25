@@ -1,0 +1,27 @@
+URL: https://www.linkedin.com/jobs/view/4480668920
+TITLE: Werkstudent iPEN Data Model (m/w/d)
+COMPANY: E.ON Grid Solutions
+LOC: Landshut, Bavaria, Germany
+POSTED: 2026-10-23
+title: Werkstudent iPEN Data Model (m/w/d)
+company: E.ON Grid Solutions
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-ipen-data-model-m-w-d-at-e-on-grid-solutions-4480668920&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Die Energiewelt ist auf dem Weg in eine neue Zukunft: digital, erneuerbar, dezentral und innovativ. Intelligente Netze und Kundenlösungen sind das Zukunftsgeschäft für die Energiewende.
+Als E.ON Grid Solutions entwickeln und betreiben wir IT-Plattformen, digitale Produkte und intelligente Services, die Energienetze smarter machen. Unsere Lösungen schaffen Mehrwert für Millionen von Menschen und leisten einen wichtigen Beitrag zur Energiezukunft Europas.
+Du übernimmst gerne Verantwortung, bringst deine Ideen ins Team ein und verstehst Technologie als Chance? Dann bewirb dich bei uns.
+ Eine Aufgabe, die herausfordert
+ Datenmodellierung: Du gestaltest das Datenmodell unserer Datenplattform iPEN (Information Platform for Energy Networks) und unterstützt den Weg hin zum digitalen Netzbetreiber.
+ Integration: Du unterstützt bei der Einbindung neuer Lösungen in die Plattform und wirkst daran mit, fachliche Anforderungen im Datenmodell abzubilden.
+ Implementierung: Du implementierst Datenmodell-Klassen und deren Attribute und unterstützt bei der Weiterentwicklung unserer Modellierungsrichtlinien.
+ Qualitätssicherung: Du hilfst dabei, die technische Überprüfbarkeit von Richtlinien und Standards sicherzustellen und bringst eigene Ideen zur Optimierung ein.
+ Weiterentwicklung: Du arbeitest in einem agilen Umfeld eng mit verschiedenen Stakeholder:innen zusammen und trägst zur kontinuierlichen Weiterentwicklung unserer Datenplattform bei.
+ Ein Background, der überzeugt
+ Studium: Du studierst idealerweise (Wirtschafts-)Informatik oder einen vergleichbaren Studiengang.
+ Datenmodellierung: Du bringst erste Kenntnisse in der Datenmodellierung mit und interessierst Dich für den Aufbau moderner Datenplattformen.
+ Technische Skills: Du verfügst idealerweise über Erfahrungen mit JSON, JSON Schema, Git und Visual Studio Code.
+ Agiles Arbeiten: Du bist mit agilen Werten und Prinzipien vertraut und bringst eine ausgeprägte Kunden- und Lösungsorientierung mit.
+ Arbeitsweise: Du arbeitest gerne im Team, übernimmst Verantwortung und bringst Deine Ideen sowie Deinen Gestaltungswillen aktiv ein.
+ Sprachkenntnisse: Du verfügst über sehr gute Deutschkenntnisse (mindestens C1) sowie gute Englischkenntnisse in Wort und Schrift.

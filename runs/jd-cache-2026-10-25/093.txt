@@ -1,0 +1,47 @@
+URL: https://www.linkedin.com/jobs/view/4483309479
+TITLE: Werkstudent (m/w/d) Data & Analytics
+COMPANY: Rabot Energy
+LOC: Hamburg, Hamburg, Germany
+POSTED: 2026-10-24
+title: Werkstudent (m/w/d) Data & Analytics
+company: Rabot Energy
+posted: 1 day ago
+applicants: 72 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-m-w-d-data-analytics-at-rabot-energy-4483309479&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Über uns
+Rabot Energy ist ein unabhängiger Anbieter dynamischer Stromtarife für Haushalte und Unternehmen. Mit smarten Einkaufsstrategien und automatischer Steuerung verschieben wir flexiblen Verbrauch in Stunden mit niedrigen Börsenpreisen. So optimieren Haushalte und Unternehmen ihre Stromkosten. Unsere Vision ist es, allen Kund:innen die Möglichkeit zu geben, ihren Stromverbrauch smart zu steuern und von günstigen Börsenstunden zu profitieren..
+Warum jetzt?
+Der Energiemarkt erlebt den größten Umbruch seit 50 Jahren. Wir verwalten den Strom nicht mehr, wir machen ihn intelligent. RABOT wächst dreistellig, und mit dem Wachstum wächst unser Data & Analytics Team.
+Jetzt ist der perfekte Zeitpunkt einzusteigen: Du lernst nicht in einem fertigen Konzern, sondern arbeitest an echten Datenprozessen mit, die unser Geschäft täglich nutzt. Du arbeitest mit einem modernen Data-Stack, übernimmst Verantwortung ab Tag 1 und kannst dich Richtung Analytics Engineering entwickeln.
+Deine Mission
+Du übernimmst die wiederkehrenden Datenprozesse, die heute allein bei unserem BI Engineer liegen, damit das Team mehr Kapazität für Modellierung und neue Projekte hat. Dazu gehören zum Beispiel die Provisionsabrechnung mit Partnern, das Partner-Tracking, Monatsreports und Ad-hoc-Anfragen aus Finance, Sales und Marketing, rund 20 Stunden pro Woche.
+Du arbeitest in unserem Stack (BigQuery, dbt, Metabase, Dagster), führst die wöchentlichen und monatlichen Routinen zuverlässig aus, beantwortest Standard-Datenanfragen und pflegst dbt-Modelle und Doku per Pull Request. Dabei bist du kein:e reine:r Dashboard-Bauer:in: Du arbeitest genau und automatisierst Routinen gern. Der Einstieg ins Analytics Engineering ist ausdrücklich möglich.
+Deine Ergebnisse
+Wir denken in Ergebnissen, nicht in Aufgabenlisten. Wenn du erfolgreich bist, sieht das so aus:
+ Monat 3 (Ramp-up)
+ Du kennst unseren Stack (BigQuery, dbt, Metabase, Dagster) und führst die wöchentlichen und monatlichen Routinen (Partner-Sheet-Sync, Provisionsfreigaben, Investor- und Partner-Exporte) eigenständig nach Anleitung aus.
+ Monat 6 (Performance)
+ Du beantwortest Standard-Datenanfragen aus Finance, Sales und Marketing selbst.
+ Du pflegst bestehende dbt-Modelle und Doku per Pull Request.
+ Du hast mindestens eine Routine automatisiert oder vereinfacht.
+ Monat 12 (Scale)
+ Du trägst den Block der wiederkehrenden Aufgaben vollständig und bist erste:r Ansprechpartner:in dafür. Unser BI Engineer ist davon entlastet.
+ Optional: Du hast ein kleines eigenes Projekt im Analytics Engineering umgesetzt.
+ Wen wir suchen
+ SQL & Python: Du bist sicher in SQL und hast Python-Grundlagen, idealerweise aus einem quantitativen oder technischen Studium.
+ Sorgfältig & strukturiert: Du arbeitest zuverlässig und genau, gerade bei wiederkehrenden Aufgaben.
+ Automatisierer:in: Du baust nicht nur Dashboards, sondern automatisierst Routinen gern und bringst Prozesse ins Laufen.
+ Student:in: Du bist immatrikuliert in einem quantitativen oder technischen Fach mit mindestens zwei Semestern Restlaufzeit, kannst rund 20 Stunden pro Woche arbeiten (mindestens 15) und bist regelmäßig im Hamburger Büro.
+ Sprache: Du kommunizierst sicher auf Deutsch oder Englisch.
+ Schön zu haben: dbt (auch aus Projekten), Git und Pull Requests, Cloud (GCP, AWS oder Azure), BI-Tools (Metabase, Power BI, Tableau), eigene Projekte mit KI-Tools sowie erste Praxis als Werkstudent:in oder Praktikant:in im Datenumfeld.
+Was wir Dir bieten
+ Ownership: Du übernimmst echte, geschäftskritische Datenprozesse, keine Spielwiese.
+ Lernen: Du arbeitest mit einem modernen Data-Stack und kannst dich Richtung Analytics Engineering entwickeln.
+ Flexibilität: Arbeitszeiten, die sich mit deinem Studium vereinbaren lassen.
+ Kultur: Transparente Zusammenarbeit. Wir feiern Fehler, solange wir daraus lernen.
+ Deine Extras
+ Kolleg:innenrabatt für den RABOT-Energy-Stromtarif
+ Urban Sports Club Partnerschaft 
+ Unser Kontakt
+ jobs@rabot.energy

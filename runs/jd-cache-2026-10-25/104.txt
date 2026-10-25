@@ -1,0 +1,33 @@
+URL: https://www.linkedin.com/jobs/view/4481679285
+TITLE: Working Student (m/f/d) Data Scientist and Programmer
+COMPANY: Atotech an MKS Brand
+LOC: Berlin, Germany
+POSTED: 2026-10-23
+title: Working Student (m/f/d) Data Scientist and Programmer
+company: Atotech an MKS Brand
+posted: 1 day ago
+applicants: 67 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-m-f-d-data-scientist-and-programmer-at-atotech-an-mks-brand-4481679285&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+A Day in Your Life at Atotech Deutschland GmbH & Co. KG 
+ As a Working Student (m/f/d) Data Scientist and Programmer, you will partner with R&D engineers and internal stakeholders to develop a user-friendly desktop graphical user interface for FASET, an existing statistical analysis backend for copper surface facet evaluation. You will integrate existing C/C++ functionality into an application and support efficient, reproducible analysis, visualization, data handling, and export. In this role, you will report to the responsible manager within R&D Electronics.
+ You Will Make an Impact By 
+ Analyzing the existing C/C++ FASET core code and integrating it into a desktop GUI
+ Translating user requirements into functional specifications and intuitive software workflows
+ Developing and testing front-end functions for parameter input, image visualization, mapping, optimization, and results review
+ Implementing asynchronous program execution, project data management, metadata handling, logging, configuration, and file handling
+ Improving the performance of computationally intensive analysis and coordinate-mapping functions
+ Creating clean, maintainable, version-controlled, and well-documented code
+ Skills You Bring 
+ Enrolled student (m/f/d) in computer science, data science, or a comparable technical degree program
+ Programming knowledge
+ Basic experience with graphical user interfaces
+ Understanding of software development, testing, debugging, and version control
+ Analytical thinking and the ability to understand scientific or engineering workflows
+ Good written and spoken English; German skills are beneficial
+ Preferred Skills 
+ experiences in programming
+ Physical Demands and Working Conditions 
+ Regular use of standard office and computer equipment
+ Ability to communicate technical information clearly and accurately
+ #LI-LB1

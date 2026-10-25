@@ -1,0 +1,37 @@
+URL: https://www.linkedin.com/jobs/view/4474713688
+TITLE: Working Student Integrations Management (m/w/d)
+COMPANY: Recare
+LOC: Germany
+POSTED: 2026-10-02
+title: Working Student Integrations Management (m/w/d)
+company: Recare
+posted: 3 weeks ago
+applicants: 69 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-integrations-management-m-w-d-at-recare-4474713688&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Über Recare 
+ Als eines der führenden deutschen HealthTech-Unternehmen gestalten wir das Entlassmanagement neu – technologiegetrieben, patientenzentriert und frei von Bürokratie. Neben unserer marktführenden SaaS-Plattform entwickeln wir KI-Lösungen, die Prozesse in Kliniken und bei Nachversorgern radikal vereinfachen, Fachkräfte entlasten und den Fokus zurück auf die Patientinnen und Patienten legen. Bereits heute vernetzen wir zwei Drittel aller deutschen Krankenhäuser mit über 650 Rehakliniken und 25.000 Pflege- und Homecare-Anbietern. Mit aktuell rund 100 Mitarbeitenden wachsen wir weiter – und suchen Menschen mit Haltung, die das Gesundheitssystem mit uns verbessern wollen.
+ Das erwartet dich bei uns 
+ Arbeit mit Purpose: Deine Tätigkeit hat einen positiven Einfluss auf Patient:innen, ihre Angehörigen und medizinische Fachkräfte im Gesundheitswesen.
+ Unternehmenskultur: Wir setzen auf flache Hierarchien, die hohe Performance und eine starke Teamdynamik fördern. Unsere Zusammenarbeit ist von gegenseitigem Respekt, Loyalität und Anerkennung geprägt. Wir arbeiten gemeinsam an unseren Zielen und erwarten dieses Engagement auch von dir.
+ Flexibilität: Wir bieten dir flexible Arbeitszeiten, die sich gut mit deinem Studium vereinbaren lassen, sowie die Möglichkeit, zu 100 % remote zu arbeiten.
+ Edenred-Karte: Du erhältst eine Edenred-Karte, die du nach deinen Bedürfnissen nutzen kannst.
+ Zusätzlicher Urlaubstag: Damit du deinen Geburtstag mit deinen Liebsten feiern kannst, hast du an diesem Tag frei.
+ Deine Rolle als Working Student Integrations Management (m/w/d) 
+ Als Working Student Integrations Management (m/w/d) unterstützt du unser neunköpfiges Interoperability & Integrations Team. Du konfigurierst unsere API-Gateways in den Krankenhäusern und stellst damit einen zuverlässigen Betrieb sicher.
+ Darüber hinaus bearbeitest du eingehende Support-Tickets, identifizierst die Ursachen technischer Probleme und arbeitest eng mit unseren Kunden, dem First-Level-Support und dem Engineering-Team an der Lösung.
+ Du behältst eingehende Support-Tickets zu unseren Integrationen im Blick, reproduzierst Fehler und unterstützt unsere Kunden bei der Lösung.
+ Du überwachst unsere API-Gateways im laufenden Betrieb und analysierst technische Probleme – einschließlich Troubleshooting über Datadog.
+ Bei tiefergehenden technischen Anliegen bist du eine zuverlässige Ansprechperson für unseren First-Level-Support.
+ Du bildest die Schnittstelle zu unserem Engineering-Team, erstellst Bug-Tickets und informierst alle Beteiligten über den aktuellen Stand.
+ Das bringst du mit als Working Student Integrations Management (m/w/d) 
+ Du studierst Informatik, Medizininformatik, Digital Health, Wirtschaftsinformatik oder eine vergleichbare technische Fachrichtung.
+ Du verfügst über ein gutes technisches Grundverständnis: APIs, Datenformate sowie die Grundzüge von Softwarearchitektur und Deployment-Modellen wie Cloud, Hybrid und On-Premises sind dir nicht fremd.
+ Dein Growth Mindset zählt bei uns mehr als perfektes Vorwissen: Du arbeitest dich gerne selbstständig in neue technische Zusammenhänge ein, hast keine Angst vor Fehlern und gehst Probleme aktiv an, anstatt auf fertige Anleitungen zu warten.
+ Du bist resilient und behältst auch bei kniffligen Kundenanfragen einen kühlen Kopf.
+ Du hast Freude am direkten Kontakt mit Kunden - telefonisch und per E-Mail - und bringst Empathie sowie Kompromissbereitschaft mit.
+ Du organisierst dich selbstständig, holst dir aktiv Unterstützung, wenn du nicht weiterkommst, und arbeitest gerne in einem Remote-Team.
+ Du verfügst über verhandlungssichere Deutschkenntnisse auf C2-Niveau und fließende Englischkenntnisse auf mindestens C1-Niveau.
+ Nice to haves - womit du uns zusätzlich überzeugst: 
+ Erste Erfahrungen im Gesundheitswesen oder Kenntnisse gängiger Healthcare-Standards wie FHIR, HL7 oder DICOM
+ Ein bewusster und reflektierter Einsatz von KI-Tools in Projekten oder im Studienalltag

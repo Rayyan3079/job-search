@@ -1,0 +1,36 @@
+URL: https://www.linkedin.com/jobs/view/4475037631
+TITLE: Werkstudent (m/f/d) Data Engineering & AI for Radar
+COMPANY: Thales
+LOC: Ditzingen, Baden-Württemberg, Germany
+POSTED: 2026-10-24
+title: Werkstudent (m/f/d) Data Engineering & AI for Radar
+company: Thales
+posted: 18 hours ago
+applicants: 169 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-m-f-d-data-engineering-ai-for-radar-at-thales-4475037631&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Location: DITZINGEN SRA OME, Germany
+ We Say HI*
+ Werkstudent (m/f/d) Data Engineering & AI for Radar 
+ at Thales site in Ditzingen (Ref. Nr. R0336402)
+ Thales in Germany is part of an internationally leading technology group in the defence and security, aerospace as well as cyber security and digital identity markets.
+ Your mission as "Werkstudent (m/f/d) within Radar Systems Engineering department in the Domain Surface Radar (SRA)":
+ Developing radar data management solutions for machine learning and testing use cases
+ Developing and optimizing data pipelines in Python, including the integration of signal processing steps
+ Implementing data transformation and quality assessment processes, e.g. anomaly detection using machine learning
+ Developing new data pipelines for AI training, with opportunities to work on data collection and visualization
+ Working independently on a defined subproject with creative freedom and technical mentoring from an experienced engineering team
+ We are looking forward to:
+ Student in Computer Science, Electrical Engineering, Physics, Mathematics, or a comparable field
+ Basic programming experience in Python, basic familiarity with SQL, Git, CI/CD and containerization tools are advantageous
+ Practical experience in working with data (e.g. in machine learning or visualization tasks)
+ Interest in learning software engineering and radar fundamentals.
+ Personally you enthuse with analytical thinking and a structured approach to problem solving.
+ The Group invests more than €4,5 billion per year in Research & Development in key areas, particularly for critical environments, such as Artificial Intelligence, cybersecurity, quantum and cloud technologies.
+In 2025, the Group generated sales of €22.1 billion.
+ For our more than 85,000 employees in 65 countries we open up visionary perspectives, realise individual career paths and enable creative freedom. This is achieved with courage, versatility and the firm intention to make the demanding challenges of our time safer and more inclusive. With our sustainable value-focused management we support diversity actively.
+ Say HI* – Your journey to us
+ At times of change our international teams are ready to meet the complexity of today with the industry-leading technologies of tomorrow. Will you be part of it? Your Talent Acquisition contact Lena Nagel is looking forward to your online application.
+Lena Nagel – Talent Acquisition Partner
++49715630210209
+ Human Intelligence

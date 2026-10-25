@@ -1,0 +1,50 @@
+URL: https://www.linkedin.com/jobs/view/4478693566
+TITLE: Data Engineer / ETL-Developer / Business Analyst m/w/d - remote - deutschlandweit
+COMPANY: 23DATA
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-10-20
+title: Data Engineer / ETL-Developer / Business Analyst m/w/d - remote - deutschlandweit
+company: 23DATA
+posted: 4 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+Über uns: 
+23DATA – ein cooles, dezentrales Team voller Datenversteher:innen und Zahlenzauberer! Bei uns trifft Remote-Arbeit auf echten Teamgeist, spannende BI-Projekte auf spaßige Social Weeks und knallharte Analysen auf jede Menge Humor. Regelmäßige Treffen in coolen Offices an wechselnden Orten in Deutschland sorgen dafür, dass wir uns nicht nur digital, sondern auch persönlich an einem Strang ziehen. Du möchtest als Data Engineer / ETL-Developer / Business Analyst bei uns einsteigen? 
+ Deine Mission bei uns: 
+ Zahlen, Daten, Fakten – du bringst Struktur in komplexe Projekte v.a. im Finanzdienstleistungssektor 
+ Datenintegration & Aufbau starker ETL-Strecken (Deine Pipelines laufen wie geschmiert!) 
+ Du arbeitest gerne mit modernen Data Engineering Technologien und hast Lust, Ab Initio und/oder Databricks zu deinem Steckenpferd zu machen 
+ Erstellung von Dashboards und Reports (Langweilig war gestern – deine Visualisierungen haben Style!) 
+ Du checkst die Anforderungen von Prozessen und übersetzt sie in technische Lösungen (wir machen Programmiersprachen zu deinen besten Freunden!) 
+ Zusammenarbeit im Team an innovativen BI-Projekten 
+ Datenanalyse & Modellierung (du erkennst Trends, bevor sie cool sind) 
+ Du unterstützt unsere Seniors mit Kopf, Herz und Bock, Projekte eigenverantwortlich zu übernehmen. Und wenn du willst, heben wir dich auch auf die Karriereleiter! 
+ Voraussetzungen
+ Deutschkenntnisse auf C1-Niveau für Projektarbeit und Kommunikation zwingend erforderlich 
+ Englischkenntnisse auf C1-Niveau ebenfalls vorausgesetzt 
+ Ein abgeschlossenes Studium in Informatik , Wirtschaftsinformatik oder vergleichbar (Master of Data Disaster Prevention) 
+ Erste Erfahrung oder mehrere Jahre Berufserfahrung im Bereich Business Intelligence , Data Engineering oder Data Analytics sowie idealerweise Kenntnisse in Databricks und modernen Cloud-Datenplattformen 
+ Für nahezu jedes Problem in deinem Leben kennst du das passende Tool 
+ Scrum , Kanban und Wasserfall sind für dich keine fancy klingenden Reiseziele, sondern wunderbare Möglichkeiten, dein Leben (oder zumindest deine Arbeit) selbstständig zu strukturieren 
+ Kommunikationsfreude , Humor und Teamspirit (mach dich gefasst, beim Lasertag fertig gemacht zu werden!) 
+ Großes Plus: Bock auf Eigenverantwortung und Lust, um die Ecke zu denken! Keine Nuss ist dir zu hart. Und keine Sorge - du bist nie allein 
+ Vorteile
+ 30 Tage Urlaub 
+ Möglichkeit zum mobilen Arbeiten (remote) innerhalb Deutschlands zur flexibleren Gestaltung deines Arbeitsalltags und Privatlebens sowie eine ausgewogene Work-Life-Balance 
+ Zuschuss zum Mobilitätsticket im ÖPNV ( Deutschlandticket ) 
+ Gesundheitsförderung durch Kooperation mit Fitness-Netzwerken ( Wellpass ) 
+ Dienstrad Leasing Optionen 
+ Regelmäßige Company Events (Social Weeks, Sommer- und Winterworkshops) für Treffen, Weiterentwicklung und Spaß innerhalb des 23DATA Teams 
+ Ein umfassendes Onboarding Programm , welches Deinen Einstieg bei uns erleichtert, sowie ein Buddy , der Dir mit Rat und Tat zur Seite steht 
+ Unternehmenskultur mit kurzen Wegen zu Leads und Partnern zur Unterstützung deiner Ideen 
+ Regelmäßiges Feedback zur individuellen Entwicklung und Karriereplanung 
+ Modernste Hardware und Diensthandy nach deinen Wünschen 
+ Bereit, Datenheld:in bei 23DATA zu werden? 
+ Recruiting Prozess 
+ Unser Anspruch ist es, einen effizienten Recruitingprozess auf Augenhöhe zu gewährleisten, bei dem beiden Parteien die Eignung für die ausgeschriebene Vakanz beurteilen können. Der Prozess startet mit einem ersten telefonischen Kennenlernen von 30. Minuten. Sollten sich beide Parteien auf eine Fortführung einigen, folgt ein Fachinterview. Wenn alle Gespräche positiv verlaufen, rundet ein Gespräch mit einem Mitglied unseres Managementteams den Auswahlprozess ab. 
+ Haben wir dein Interesse geweckt? 
+ Hast du Lust, eins der führenden Unternehmen im Bereich Datenanalyse, Datenintegration und datengetriebene Entscheidungen hautnah bei relevanten Projekten im deutschsprachigen Raum zu unterstützen und gleichzeitig deine Karriere weiter voranzutreiben? Wir freuen uns auf deine Bewerbung! 
+ Ansprechpartner: Daniel Wajngarten - careers@23data.de 
+Bitte reiche deine Bewerbung ausschließlich über diese Plattform ein.
+Bewerbungen, die per E-Mail eingehen, werden im Auswahlprozess NICHT berücksichtigt.

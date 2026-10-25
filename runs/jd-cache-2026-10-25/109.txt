@@ -1,0 +1,37 @@
+URL: https://www.linkedin.com/jobs/view/4481911682
+TITLE: Werkstudent (w/m/d) Data Domain Enablement
+COMPANY: Siemens
+LOC: Nuremberg, Bavaria, Germany
+POSTED: 2026-10-23
+title: Werkstudent (w/m/d) Data Domain Enablement
+company: Siemens
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-w-m-d-data-domain-enablement-at-siemens-4481911682&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Art der Anstellung: Befristet; 18-20 Stunden / Woche
+Tauche als Werkstudent Data Domain Enablement (w/m/d) in München in die Welt der Daten ein und gestalte gemeinsam mit unserem Team innovative Lösungen, die echten Mehrwert schaffen – bereit, deine Leidenschaft für Data Engineering und Analytics einzubringen?
+Werde Teil unseres Working Student Network – einer Community, die dir Austausch, Unterstützung und wertvolle Kontakte bei Siemens bietet.
+ Verändere die Welt von morgen:
+ Du unterstützt verschiedene Data Domains dabei, technische und fachliche Anforderungen für Datenprodukte aufzunehmen und zu strukturieren
+ Anschließend analysierst und bewertest du Datenquellen hinsichtlich Qualität, Konsistenz und Vollständigkeit, um eine solide Basis für die Datenverarbeitung zu schaffen
+ Darauf aufbauend wirkst du bei der Modellierung und Pflege von Datenpipelines (z. B. in der Siemens Data Cloud / Snowflake) mit und bereitest automatisierte Tests sowie Monitoringmaßnahmen vor
+ Zusätzlich erstellst du Reporting- und Analyse-Prototypen (z.B. in Power BI), um datengetriebene Entscheidungen in den Fachbereichen zu ermöglichen
+ Abschließend pflegst du Dokumentationen, Guidelines und Best Practices in Confluence und arbeitest eng mit Data Engineers sowie Domänenverantwortlichen zusammen
+ So überzeugst du uns:
+ Ausbildung: Du studierst derzeit erfolgreich (Wirtschafts-)Informatik, Data Science, Statistik oder eine vergleichbare Fachrichtung
+ Erfahrungen und Kenntnisse:
+ Erste Berührungspunkte mit Cloud-Datenplattformen wie Snowflake oder Siemens Data Cloud sowie mit SQL
+ Idealerweise Grundkenntnisse in dbt Cloud, Git/CI-CD und Reporting-Tools wie Power BI
+ Kenntnisse im Bereich Data & AI sind von Vorteil
+ Arbeitsweise: Du zeichnest dich durch ausgeprägte Kommunikations- und Teamfähigkeit, Eigeninitiative, Zuverlässigkeit und eine schnelle Auffassungsgabe aus; ein ausgeprägtes Qualitätsbewusstsein und Interesse an Datenarchitekturen zählen ebenfalls zu deinen Strärken
+ Sprachkenntnisse: Sehr gute Englischkenntnisse sind erforderlich, gute Deutschkenntnisse runden dein Profil ab
+ Du bist viel mehr als deine Qualifikationen und wir glauben an das Potential jeder einzelnen Person. Wir freuen uns darauf, dich kennenzulernen!
+Bei Siemens sind wir überzeugt: Wer sich wertgeschätzt und zugehörig fühlt, kann das eigene Potenzial voll entwickeln. Deshalb schaffen wir ein inklusives Arbeitsumfeld, in dem jede Person ein Gefühl der Zugehörigkeit erfährt und in dem individuelle Perspektiven und Erfahrungen geschätzt werden. Unser Engagement für Fairness und Respekt gilt für alle Bewerbenden.
+Wir legen Wert auf Chancengleichheit und freuen uns über Bewerbungen von Menschen mit unterschiedlichen Hintergründen, ausdrücklich auch von Menschen mit Behinderung.
+ Über Uns
+ Wir entwickeln Netzwerke, die unsere Städte schlauer mit Licht und Wärme versorgen und kennen uns in Sachen Automatisierung und Digitalisierung in der Prozess- und Fertigungsindustrie bestens aus. Dafür und für viele weitere Zukunftsprojekte brauchen wir kluge Köpfe, die ihr Können und ihre Kreativität aktiv einbringen. Menschen wie dich! Hilf uns dabei, die spannendsten Herausforderungen gemeinsam anzugehen und umzusetzen, worauf es ankommt. Was wir dir bieten, ist die Chance, wirklich etwas zu bewegen. Also worauf warten? Mach mit uns den nächsten Schritt in deiner Karriere!
+www.siemens.de/karriere – wenn du mehr Informationen zu Jobs & Karriere bei Siemens erhalten möchtest.
+FAQ – wenn du eine Frage zum Thema Bewerbung bei Siemens hast.
+Wenn du darüber hinaus noch Fragen hast, wende dich gerne an uns: www.siemens.de/fragenzurbewerbung 
+#sagworkingstudent

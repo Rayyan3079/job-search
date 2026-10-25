@@ -1,0 +1,39 @@
+URL: https://www.linkedin.com/jobs/view/4481069251
+TITLE: Werkstudent (w/m/d) - Quality Engineering & AI
+COMPANY: 1&1
+LOC: Montabaur, Rhineland-Palatinate, Germany
+POSTED: 2026-10-24
+title: Werkstudent (w/m/d) - Quality Engineering & AI
+company: 1&1
+posted: 8 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-w-m-d-quality-engineering-ai-at-1-1-4481069251&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+1&1 gehört mit über 3.100 Mitarbeitenden und fast 16 Millionen Kundenverträgen zu den führenden Telekommunikationsanbietern in Deutschland. Mit Pioniergeist, ungewöhnlichen Ideen und kreativen Teams haben wir eine führende Marktstellung im Mobilfunk und bei Breitband-Anschlüssen erobert. Durch die Kombination des über 67.000 km langen 1&1 Glasfasernetzes und regionalen Netzen schaffen wir das weitreichendste Glasfasernetz Deutschlands. Außerdem bauen wir das modernste 5G-Netz Europas, auf der Basis der neuartigen Open-RAN-Technologie. Mit offenen Schnittstellen und 5G-Funktionen in einer leistungsfähigen Cloud-Infrastruktur. Schreiben Sie die 1&1 Erfolgsgeschichte fort, indem Sie durch Einsatz und Entwicklung innovativer Technologien, die Zukunft gestalten. Werden Sie Teil von 1&1.
+ Aufgaben 
+ Sie haben Interesse an spannenden Tätigkeiten in einem dynamischen IT-Umfeld am Standort Montabaur? Dann sind Sie in unserem Team im Bereich Testautomatisierung und AI-gestützter Qualitätssicherung genau richtig! Unsere IT-Lösungen sind zentrale Bausteine für einen hervorragenden und mehrfach ausgezeichneten Kundenservice. Wir verantworten den gesamten Entwicklungsprozess komplexer Softwaresysteme mit Fokus auf Qualität, Effizienz und Resilienz.
+ Unterstützung bei der Weiterentwicklung unserer AI-Plattform für Quality Engineering sowie weiterer AI-gestützter Lösungen im Quality-Umfeld
+ Mitarbeit bei der Erstellung, Pflege und Weiterentwicklung automatisierter Softwaretests
+ Unterstützung bei der Analyse, Dokumentation und Nachverfolgung von Testergebnissen
+ Mitwirkung bei der Sicherstellung hoher Qualitätsstandards entlang des gesamten Softwareentwicklungsprozesses
+ Evaluierung und Einsatz moderner AI-Tools zur Optimierung von Test- und Qualitätsprozessen
+ Profil
+ Ordentlich immatrikulierter Student (w/m/d) der (Wirtschafts-)Informatik, Data Science, Mathematik oder eines vergleichbaren Studiengangs
+ Interesse an Softwarequalität, Testautomatisierung und moderner Softwareentwicklung
+ Begeisterung für Artificial Intelligence (AI), Large Language Models (LLMs) und neue Technologien
+ Erste Erfahrungen in einer Programmiersprache wie Java, Python oder JavaScript
+ Sehr gute Deutschkenntnisse in Wort und Schrift sowie sichere Englischkenntnisse
+ Flexibilität, uns mit mindestens 16 Stunden pro Woche zu unterstützen
+ Werden Sie Teil unseres Quality Assurance Chapters und gestalten Sie gemeinsam mit uns die Zukunft von Testautomatisierung und AI-gestützter Qualitätssicherung!
+ Wir bieten
+ Attraktives Gehalt
+ Starke Gemeinschaft aus Teamplayern
+ Vertrauensarbeitszeit mit flexibler Einteilung
+ Zahlreiche Weiterbildungsmöglichkeiten on- und offline
+ Rabatte auf 1&1 Produkte und für diverse Freizeitangebote
+ EGYM-Wellpass
+ Betriebseigenes Restaurant
+ Kostenlose Getränke und frisches Obst
+ Important note
+ Please be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered. 
+ LNKD1_DE

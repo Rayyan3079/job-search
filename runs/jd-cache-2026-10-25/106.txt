@@ -1,0 +1,42 @@
+URL: https://www.linkedin.com/jobs/view/4481030843
+TITLE: Werkstudent:in AI & Automation - Energy (m/w/d)
+COMPANY: 1KOMMA5°
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-10-24
+title: Werkstudent:in AI & Automation - Energy (m/w/d)
+company: 1KOMMA5°
+posted: 20 hours ago
+applicants: 30 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-in-ai-automation-energy-m-w-d-at-1komma5%25C2%25B0-4481030843&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+1KOMMA5°
+ Bei 1KOMMA5° bauen wir Europas führende Energie-Software-Plattform “Heartbeat” und schaffen so ein virtuelles Kraftwerk , das Photovoltaik, Stromspeicher, Wärmepumpen und Ladesäulen der Kunden verknüpft und so die Rentabilität vernetzter Kundenanlagen deutlich erhöht. Wir bieten Kunden zudem einen " One-Stop-Shop" für den Kauf und die Installation individueller und intelligenter Energie-Systemlösungen, damit jeder Haushalt schnell und professionell klimaneutral wohnen, heizen und mobil sein kann. Gleichzeitig arbeiten wir in unserer Technologie-Sparte an der Weiterentwicklung und dem Ausbau der Heartbeat-Software, um Kunden weltweit mit dem Strommarkt zu vernetzen und so immer den günstigsten und saubersten Stromtarif anbieten zu können.
+Erfahre mehr über unser Product & Tech Team!
+ Deine Position
+ Als Team Energy sind wir Teil des Product und Tech Teams von 1KOMMA5°. Wir arbeiten täglich daran, dass unsere digitalen Produkte tausenden Kund:innen weltweit zur Verfügung stehen. Wir wachsen stark und suchen deshalb weitere Verstärkung! Was zählt ist, dass du motiviert bist, die untenstehende Aufgaben anzugehen, Gas (bzw. Strom) zu geben und eine steile Lernkurve suchst.
+ Du übernimmst eigenständig KI- und Automatisierungsprojekte – von der RAG-gestützten Datenverarbeitung bis hin zur automatisierten Kundenkommunikation
+ Du nutzt Automatisierungsplattformen für schnelles Prototyping von KI-Anwendungen
+ Dabei arbeitest du direkt mit unserem Process- und Operations-Team zusammen, um konkrete Herausforderungen im Tagesgeschäft zu verstehen
+ Du dokumentierst deine Workflows in unserer Wissensdatenbank und machst unseren Teamkontext für KI-Agenten nutzbar
+ Du evaluierst neue KI-Tools und Automatisierungsplattformen und bringst proaktiv Vorschläge ein, wie wir operative Prozesse verbessern und automatisieren können
+ Dein Profil
+ Du studierst Wirtschaftsinformatik, Informatik, Data Science oder ein vergleichbares Fach – oder bist tech-affin mit nachweisbarer Erfahrung
+ Du hast praktische Erfahrung mit Automatisierungsplattformen (z. B. n8n, Make, Zapier) und der Arbeit mit KI-Agenten
+ Du verstehst API-Grundlagen (Webhooks, REST, JSON) und weißt, wie du diese produktiv einsetzt
+ Du denkst in Prozessen und hast Freude daran, repetitive Aufgaben durch smarte Lösungen zu ersetzen
+ Du besitzt eine ausgeprägte hands-on Mentalität und bringst proaktiv Initiativen voran
+ Du bist noch mindestens zwei Semester an einer deutschen Hochschule immatrikuliert und kannst uns 15-20 Stunden pro Woche und in den Semesterferien bis zu 40 Stunden pro Woche unterstützen
+ Für diese Stelle ist es unerlässlich, dass du dich wohl damit fühlst fließend auf Deutsch zu kommunizieren (mind. C1 Niveau)
+ Du suchst eine steile Lernkurve und bist offen für Feedback - jeder Mensch kann dazulernen, genau dafür wollen wir Raum geben
+ Du hast bereits erste Erfahrung in der Energiewirtschaft? Super! Du bist noch Rookie in der Branche? Kein Problem – für uns zählt Motivation und Lernwille!
+ Benefits
+ Du hast die Möglichkeit in unseren brandneuen Büros in der Hamburger Innenstadt, Berlin & München zu arbeiten und/oder remote
+ Flexible Arbeitszeiten, die sich gut mit deinem Studium vereinbaren lassen
+ Nutze dein technisches Equipment auch abseits der Arbeit in deiner Freizeit
+ Viel Eigenverantwortung und die Möglichkeit eigene Themen zu übernehmen
+ Du bewegst dich in flachen Hierarchien mit viel Entwicklungspotenzial
+ Mit deiner Arbeit unterstützt du den Megatrend “Energie- und Mobilitätswende” und leistest einen konkreten Beitrag zum nachhaltigen Umbau unserer Energie-Infrastruktur
+ Sei aktiv und nutze das Angebot von über 7.600 Sportpartnern mit dem EGYM-Wellpass
+ Profitiere von Benefits & Rabatten durch Futurebens
+ Über uns
+ Die 1KOMMA5° Gruppe ist ein CleanTech Unicorn mit der Mission alles zu elektrifizieren und über unsere KI-basierte Software Plattform Heartbeat AI jeden an den Strommarkt der Zukunft anzuschließen. Wir sind das marktführende Unternehmen für die Installation von CO2-neutralen Energiesystemen, insbesondere bei Photovoltaik, Energiespeicher, Wallbox, Wärmepumpe und Energiemanagement. 1KOMMA5° vereint die besten Unternehmen Deutschlands, Europas und darüber hinaus – wir wachsen weiter und das weltweit.

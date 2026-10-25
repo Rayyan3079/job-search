@@ -1,0 +1,49 @@
+URL: https://www.linkedin.com/jobs/view/4480645221
+TITLE: Working Student | Battery & Data Analytics (m/f/d)
+COMPANY: TWAICE
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-10-23
+title: Working Student | Battery & Data Analytics (m/f/d)
+company: TWAICE
+posted: 1 day ago
+applicants: 154 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-battery-data-analytics-m-f-d-at-twaice-4480645221&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+About The Role
+ As renewable energy reshapes the global power system, batteries are taking center stage. Making them safe, reliable, and bankable at scale is a defining challenge of the energy transition. At TWAICE, our software turns battery data into insights - so decisions are made with confidence, not guesswork.
+We're accelerating the transition into a new energy era and we're looking for those who want to move fast with us.
+As a Working Student | Battery & Data Analytics (m/f/d), you'll work hands-on alongside experienced data and engineering professionals, right at the intersection of data and real-world impact. You'll help evaluate and improve the performance and safety of battery energy storage systems used around the globe - all while getting real exposure to live operational data and the technology powering our platform.
+Working hours are flexible (especially around exam periods). Ideally, you're available around 20 hours per week and able to come into our central Munich HQ on a regular basis.
+ Your daily business will involve 
+ Bringing new projects onto our platform
+ Connecting data from operational battery storage sites to the TWAICE cloud
+ Building digital twins of BESS in our data model
+ Running data quality checks so the data our analyses rely on is solid
+ Analyzing real-world battery systems on demand
+ Making sense of power and data flows in battery energy storage systems
+ Running big-data analyses, using AI tools and techniques, to evaluate the performance and safety of BESS around the globe
+ Shaping our analytics
+ Contributing to the development of TWAICE’s algorithms and data pipelines
+ If you’re interested, joining customer meetings to see how your analyses make a difference
+ Your profile
+ Studying engineering, physics, data science, or a related field
+ Basic understanding of batteries and a passion for renewables
+ Confident using Python to clean, transform, and analyze data
+ Curious, proactive, and hands-on when solving problems
+ Bonus: experience with BESS, Databricks, SQL, or AWS
+ Don’t tick every box? Apply anyway. We know great people don’t always match every line of a job ad, and we care more about your curiosity and drive than a perfect checklist. We welcome applicants of all backgrounds and look forward to hearing from you.
+ What We Offer
+ Real impact on the energy transition, with your work used on battery storage systems worldwide
+ Hands-on work with live data from real battery systems, not toy datasets
+ Responsibility from day one and a steep learning curve
+ Learning from experienced data scientists and engineers
+ An international team in a fast-growing climate tech scale-up
+ Flexible hours that fit around your exams, plus a hybrid setup
+ Central Munich office with views of the Alps and free coffee
+ Wellpass membership
+ Follow along
+ See what TWAICE is up to https://www.linkedin.com/company/twaice/
+ About Us
+ Working at TWAICE means solving problems that don't have a playbook yet. We're still early in the energy transition, which means a lot of what we build is new.
+We're a global remote-first team that champions collaboration and adaptability to do our best work.
+If that sounds like an environment where you can thrive, join us!

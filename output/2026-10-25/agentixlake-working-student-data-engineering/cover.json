@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Working Student – Data Engineering",
+    "company": "AgentixLake",
+    "city": "Remote (Germany)",
+    "date": "2026-10-25",
+    "greeting": "Dear AgentixLake team,",
+    "opening": "I am applying for the Working Student position in Data Engineering. Getting data from operational systems into reliable dashboards is exactly what I did in my previous roles, and I want to build on it with modern cloud data platforms and AI applications.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau (expected graduation September 2028) with a B.S. in Artificial Intelligence. Before my Master's I worked in SAP data & analytics at TallyMarks Consulting and as a Business Analyst at Tapal Tea.",
+    "achievements": [
+      {
+        "lead": "Data pipelines",
+        "impact": "I designed and implemented SAP Datasphere data pipelines and rebuilt a client's datasets end to end during a 42-dashboard migration from SAP BW"
+      },
+      {
+        "lead": "Data models and validation",
+        "impact": "I built data models from ABAP CDS view sources and joins, and used SQL analysis, validation and reconciliation to keep reporting accurate"
+      },
+      {
+        "lead": "A project I built",
+        "impact": "for my B.S. thesis team I built the Python pipeline that cuts highlight videos from model-detected events using FFmpeg"
+      }
+    ],
+    "problems_section": "I would help build and test Python and SQL pipelines, add data quality checks, investigate failures and document my work. I have not yet used tools such as dbt, Airflow or lakehouse platforms in production, but moving from SAP BW to SAP Datasphere showed me I can learn a new data platform quickly.",
+    "closing": "I can work fully remote for 15 to 20 hours per week, starting immediately, coordinated around my studies. I would be glad to discuss how I can contribute.",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-10-25/agentixlake-working-student-data-engineering/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}
