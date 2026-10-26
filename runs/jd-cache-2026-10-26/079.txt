@@ -1,0 +1,53 @@
+URL: https://www.xing.com/jobs/roedental-werkstudent-praktikant-software-development-155861648
+TITLE: Werkstudent:in / Praktikant:in Software Development
+COMPANY: KNOWYOURCHAT
+LOC: Rödental
+POSTED: 2026-06-30
+title: Werkstudent:in / Praktikant:in Software Development
+company: KNOWYOURCHAT
+posted: 2026-06-30T12:56:07Z
+location: Rödental | remote: 
+---
+Du hast Lust auf Entwicklung, KI, SaaS und echten Startup-Alltag?
+ Dann komm zu KNOWYOURCHAT.
+ Wir sind ein junges Startup aus Rödental bei Coburg und bauen mit KNOWYOURCHAT eine Plattform, die Unternehmen dabei hilft, Social Media einfacher, strategischer und effizienter umzusetzen — mit unserer KI-Crew schaffen wir klare Social-Media-Workflows.
+ Jetzt suchen wir dich als Werkstudent:in oder Praktikant:in im Bereich Software Development .
+ Aufgaben
+ Was dich erwartet ⚙️ 
+ Bei uns arbeitest du nicht an irgendeinem Nebenprojekt, das später niemand nutzt. Du entwickelst direkt an unserem Produkt mit und bekommst Einblicke in den kompletten Aufbau einer modernen SaaS-Plattform.
+ Du bist nah dran an echten Features, echten Nutzern und echten technischen Entscheidungen.
+ Konkret heißt das: 
+ 👨‍💻 Du unterstützt bei der Entwicklung neuer Features für KNOWYOURCHAT
+ 🤖 Du arbeitest an KI-gestützten Funktionen und smarten Workflows mit
+ 🧩 Du hilfst dabei, komplexe Themen technisch einfach und nutzerfreundlich umzusetzen
+ 🛠️ Du unterstützt im Frontend, Backend oder Fullstack Bereich
+ ☁️ Du bekommst Einblicke in Cloud, Architektur, Infrastruktur und Deployment
+ 🔁 Du lernst, wie moderne Entwicklungsprozesse mit CI/CD funktionieren
+ 🧠 Du denkst mit, testest Ideen und bringst eigene Vorschläge ein
+ 🚀 Du arbeitest an einem Produkt, das gerade aktiv wächst und weiterentwickelt wird
+ ☕ Du erlebst echten Startup Alltag mit viel Tempo, Kaffee und kurzen Wegen
+ Kurz gesagt: Du baust mit uns nicht nur Code, sondern ein echtes Produkt.
+ Qualifikation
+ Was du mitbringen solltest ✨ 
+ Erfahrung ist cool. Bock haben ist wichtiger. Was verändern ist am wichtigsten. Du solltest Lust haben, dich reinzufuchsen, Dinge auszuprobieren und Verantwortung zu übernehmen.
+ Wichtig ist uns: 
+ 💻 Du hast Spaß am Programmieren und willst besser werden
+ 🧠 Du denkst logisch, lösungsorientiert und probierst gerne aus
+ 🔎 Du hast keine Angst davor, Fehler zu suchen, zu debuggen und daraus zu lernen
+ 🤖 Du interessierst dich für KI und moderne Softwareentwicklung
+ 🔁 Du arbeitest gerne strukturiert und zuverlässig
+ 🚀 Du hast Lust auf ein kleines Team, kurze Wege und echtes Mitgestalten
+ Erste Erfahrung mit Webentwicklung, APIs, Datenbanken, Cloud, Git, TypeScript, JavaScript, Go, Java, Docker oder ähnlichen Technologien ist ein Plus — aber kein Muss.
+ Benefits
+ Was wir dir bieten 💛
+ Echte Produktentwicklung statt langweilige Übungsaufgaben
+ Direkte Zusammenarbeit mit dem Founder-/CEO-Team
+ Einblicke in KI, SaaS, Cloud, Architektur und Startup-Aufbau
+ Viel Verantwortung und Raum für eigene Ideen
+ Ein kleines, motiviertes Team mit kurzen Entscheidungswegen
+ Flexibles Arbeiten und Remote-Möglichkeiten
+ Die Chance, an einer Plattform mitzubauen, die gerade aktiv wächst
+ Praxisnahes Lernen direkt am echten Produkt
+ So bewirbst du dich 🎬 
+ Schick uns einfach: deinen Lebenslauf oder ein gut gepflegtes LinkedIn-Profil
+ Kein perfektes Bewerbungsschreiben nötig. Uns interessiert, wie du denkst, was du schon ausprobiert hast und warum du Lust hast, mit uns an KNOWYOURCHAT zu bauen. Wir freuen uns auf dich! 🚀

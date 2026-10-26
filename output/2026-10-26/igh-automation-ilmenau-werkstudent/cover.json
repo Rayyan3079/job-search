@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Werkstudententätigkeit (w/m/d), Software- / Hardwareentwicklung",
+    "company": "IGH Automation GmbH",
+    "city": "Ilmenau",
+    "date": "2026-10-26",
+    "greeting": "Dear IGH Automation team,",
+    "opening": "I am writing in response to your open invitation for working students. Software that digitalises test and inspection processes in manufacturing connects directly to my experience, and joining a company right here in Ilmenau would let me contribute reliably alongside my M.Sc. in Data Science at TU Ilmenau.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence. Before my Master's I worked as a Business Analyst at Tapal Tea and in SAP data & analytics at TallyMarks Consulting, turning business requirements into working reporting solutions.",
+    "achievements": [
+      {
+        "lead": "Digitalising a manual inspection process",
+        "impact": "I replaced a quality inspection check, where users opened an SAP report for each of thousands of materials, with a single dashboard built on a new data model"
+      },
+      {
+        "lead": "Requirements and specification",
+        "impact": "I collected and refined user stories from employees and translated business requirements into KPI-based reporting"
+      },
+      {
+        "lead": "Documentation and support",
+        "impact": "I wrote complete documentation for the dashboards I built and handled daily support tickets and user queries for around 30 dashboards"
+      }
+    ],
+    "problems_section": "In your software and hardware development team I would support requirements analysis and specification, help conceive and realise use cases, and contribute to documentation and training. I program in Python and SQL and enjoy technical topics and automation of real processes.",
+    "closing": "I live and study in Ilmenau and am available immediately for up to 20 hours per week, on site or partly mobile. I would be glad to meet you in person.",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-10-26/igh-automation-ilmenau-werkstudent/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

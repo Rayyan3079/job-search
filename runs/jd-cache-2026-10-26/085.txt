@@ -1,0 +1,11 @@
+URL: https://www.xing.com/jobs/tambach-dietharz-werkstudent-bereich-sap-157222513
+TITLE: Werkstudent im Bereich SAP (m|w|d)
+COMPANY: Geiger Automotive GmbH
+LOC: Tambach-Dietharz
+POSTED: 2026-08-14
+title: Werkstudent im Bereich SAP (m|w|d)
+company: Geiger Automotive GmbH
+posted: 2026-08-14T00:26:03Z
+location: Tambach-Dietharz | remote: 
+---
+Deine Aufgabe - Hier packst du an: Fehleranalyse im SAP EWM: Du übernimmst die Analyse und Bereinigung fehlerhafter automatischer Warenbewegungen über die Transaktion COGI. Datenbereinigung: Du unterstützt aktiv bei der Nachbearbeitung von Fehlersätzen vor dem wichtigen Monatsabschluss. Prozessoptimierung: Gemeinsam mit dem Team suchst du nach den Ursachen für wiederkehrende Buchungsfehler und optimierst SAP-Stammdaten. Support: Du bist die rechte Hand unseres SAP-Teams und unterstützt die Produktion und Logistik im täglichen operativen Geschäft. Dein Profil - Das bringst du mit: Studium: Laufendes Studium der Wirtschaftsinformatik, des Wirtschaftsingenieurwesens, der Betriebswirtschaftslehre (BWL) oder eines vergleichbaren Studiengangs. SAP-Affinität: Erste Berührungspunkte mit SAP (idealerweise Module PP, MM oder EWM) sind ein großes Plus, aber kein Muss – wir arbeiten dich ein. Mindset: Eine analytische, strukturierte Arbeitsweise und eine schnelle Auffassungsgabe für komplexe Datenstrukturen. Sprachen: Sehr gute Deutsch- und gute Englischkenntnisse in Wort und Schrift. Das bieten wir dir: Praxis pur: Direkter Einblick in die SAP-Landschaft eines internationalen Unternehmens. Flexibilität: Flexible Arbeitszeiten, die sich perfekt an deinen Vorlesungsplan anpassen Entwicklung: Ein erfahrenes Team, das dich einarbeitet und echtes Mentoring bietet. Vergütung: Eine attraktive und faire studentische Vergütung. Bereitgestellt in Kooperation mit der Bundesagentur für Arbeit.

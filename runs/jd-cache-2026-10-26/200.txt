@@ -1,0 +1,50 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-m-w-d-Data-Analytics-im-Supply-Chain-Management-Poing-bei-Muenchen-Canon-Production-Printing-Germany-GmbH-Co-KG--14669239-inline.html
+TITLE: Werkstudent (m/w/d) Data Analytics im Supply Chain Management
+COMPANY: Canon Production Printing Germany GmbH & Co. KG
+LOC: Poing bei München
+POSTED: stepstone
+title: Werkstudent (m/w/d) Data Analytics im Supply Chain Management
+company: Canon Production Printing Germany GmbH & Co. KG
+posted: 2026-10-20T12:38:15.557Z
+location: Poing | remote: 
+---
+Einleitung
+ Wir sind ein international führender Hersteller von B2B-Digitaldrucksystemen und Software-Entwickler für das Dokumentenmanagement. Zum Portfolio gehören Systeme für den Endlos- und Einzelblattdruck sowie für Large Format Graphics: z. B. für den Buch- und Werbedruck. Am Standort Poing sind rund 1.000 Mitarbeiter in der Fertigung, Forschung & Entwicklung, IT und Verwaltung beschäftigt. Viele schätzen die familiäre Atmosphäre sowie die Chancen zur beruflichen Entwicklung vor Ort und weltweit.
+ Ihre Aufgaben
+ Entwicklung, Pflege und Weiterentwicklung von Power BI Reports und Dashboards
+ Aufbereitung, Analyse und Visualisierung von Daten aus verschiedenen Unternehmenssystemen
+ Unterstützung beim Aufbau und bei der Optimierung von Datenbanken und Datenmodellen
+ Erstellung automatisierter Auswertungen und Kennzahlen für Management und Fachbereiche
+ Mitarbeit bei Digitalisierungs- und Automatisierungsprojekten im Supply Chain Umfeld
+ Durchführung von Datenvalidierungen sowie Unterstützung bei der Sicherstellung der Datenqualität
+ Enge Zusammenarbeit mit den Fachbereichen Supply Chain Management, Produktion und Logistik 
+ Ihr Profil
+ Laufendes Studium der Informatik, Wirtschaftsinformatik, Data Science oder eines vergleichbaren Studiengangs
+ Erste Kenntnisse in relationalen Datenbanken, SQL und Datenmodellierung
+ Interesse an Business Intelligence, Datenanalyse und Reporting
+ Idealerweise erste Erfahrung mit Power BI, Power Query oder DAX
+ Gute Kenntnisse in Microsoft Office, insbesondere Excel
+ Analytische Denkweise, strukturierte Arbeitsweise und Freude an der Lösung komplexer Fragestellungen
+ Gute Deutsch- und Englischkenntnisse sowie eine offene, teamorientierte Kommunikation 
+ Wir bieten
+ Eine anspruchsvolle, interessante und verantwortungsvolle Aufgabe an einem zukunftsorientierten 
+ und internationalen Arbeitsplatz
+ Verantwortung für eigene Themenbereiche und Projekte
+ Ein attraktives Vergütungsmodell
+ 1. und 2. Semester: 19 € / Stunde
+ 3. und 4. Semester 20 €
+ Ab 5. Semester 21 €
+ Ein flexibles Arbeitszeitmodell mit möglichem Home-Office-Anteil (< 50%)
+ Jobticket (Deutschlandticket zu 100% übernommen)
+ Ein Team, das sich auf deine Verstärkung freut, inklusive eines persönlichen Mentors
+ Du bist interessiert? 
+Dann bewerbe Dich bitte unter über den ‚Jetzt bewerben‘-Button mit Deinen Unterlagen. Bitte gib bei deiner Bewerbung noch folgende Informationen an:
+ Was ist das Wunschdatum für einen Starttermin
+ Wie lange wird dein Studium voraussichtlich noch dauern?
+ Schwerbehinderte und ihnen gleichgestellte behinderte Menschen werden bei entsprechender Eignung bevorzugt berücksichtigt. 
+ Weitere Informationen
+ Canon Production Printing Germany GmbH & Co. KG 
+ Siemensallee 2
+85586 Poing
+ karriere.cpp.canon/" target="_blank">https://karriere.cpp.canon/ 
+ ​​​​​​​

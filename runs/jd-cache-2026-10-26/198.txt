@@ -1,0 +1,44 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-m-w-d-Data-Engineering-Analytics-Schwerpunkt-Microsoft-Fabric-Hamburg-HanseMerkur-Grundvermoegen-AG--14548968-inline.html
+TITLE: Werkstudent (m/w/d) Data Engineering & Analytics – Schwerpunkt Microsoft Fabric
+COMPANY: HanseMerkur Grundvermögen AG
+LOC: Hamburg
+POSTED: stepstone
+title: Werkstudent (m/w/d) Data Engineering & Analytics – Schwerpunkt Microsoft Fabric
+company: HanseMerkur Grundvermögen AG
+posted: 2026-10-13T15:03:15.02Z
+location: Hamburg | remote: 
+---
+STARTE MIT UNS DURCH!
+ Werkstudent (m/w/d) Data Engineering & Analytics – Schwerpunkt Microsoft Fabric
+ Die HanseMerkur Grundvermögen AG ist ein auf den deutschen Immobilienmarkt spezialisierter Asset- und Investment-Manager. Wir stehen für langfristig orientierte Immobilien-Investments und ganzheit­liches Immobilien­management mit hanseatischer Handschrift. Fairness, Vertrauen und Zuverlässigkeit bestimmen den Umgang mit unseren Geschäfts­partnern und Mitarbeitern. Rund 110 erfahrene Immobilien-Spezialisten in den Bereichen Asset- und Portfolio-Management, Investment, Finanzierung / Beteiligungs­management, Digital & Business Analytics und Recht betreuen die Immobilien und Fonds gemeinsam, effizient und ganzheitlich. Aktuell verantworten wir ein Immobilien­vermögen von rund sieben Milliarden Euro.
+ DEINE AUFGABEN
+ Du unterstützt uns bei der Weiterentwicklung unserer Datenplattform und unseres Enterprise Data Warehouse in Microsoft Fabric. 
+ Du hilfst dabei, Daten aus unter­schiedlichen Quell­systemen anzubinden, aufzubereiten und zusammenzuführen. 
+ Gemeinsam mit dem Team entwickelst und pflegst du Daten­pipelines und Datentransformationen. 
+ Du erstellst SQL-Abfragen und unterstützt beim Aufbau verlässlicher Datenmodelle.
+ Du führst Datenvalidierungen und Qualitätsprüfungen durch und hilfst uns, Fehlerursachen zu analysieren. 
+ Du dokumentierst Datenflüsse, Geschäftsregeln und technische Lösungen nachvollziehbar. 
+ Du arbeitest mit unserem BI-Team und den Fachbereichen zusammen und lernst, fachliche Anforderungen in technische Lösungen zu übersetzen. 
+ Je nach deinen Kennt­nissen und Interessen kannst du dich außerdem an Proofs of Concept beteiligen, neue Funktionen von Microsoft Fabric ausprobieren oder uns bei ersten KI-gestützten Anwendungs­fällen unterstützen.
+ Unser Technologieumfeld umfasst unter anderem Microsoft Fabric, OneLake, Lakehouse, Warehouse, Data Factory und Power BI sowie SQL, Python, PySpark und Power Query. Du musst diese Technologien nicht alle bereits beherrschen.
+ DEIN PROFIL
+ Du studierst Data Science, Informatik, Wirt­schaftsinformatik, Statistik, Mathematik, Wirt­schafts­wissenschaften oder eine vergleich­bare Fachrichtung, gerne auch als Studien­anfänger (m/w/d).
+ Du interessierst dich für Data Engineering, Data Analytics, Business Intelligence oder Data Warehousing.
+ Du verfügst über erste Kennt­nisse in SQL und hast ein grund­legendes Verständnis für Daten und relationale Daten­banken. 
+ Idealerweise hast du bereits erste Erfahrungen mit Python, Power BI, Power Query, Microsoft Azure, Microsoft Fabric oder einer vergleich­baren Daten­plattform gesammelt. 
+ Kenntnisse in Datenmodellierung sowie ETL- / ELT-Prozessen sind ein Plus, aber keine Voraussetzung.
+ Du arbeitest analytisch, strukturiert und sorgfältig und hast Freude daran, Zusammen­hänge zu verstehen. 
+ Du bist neugierig, bringst eigene Ideen ein und möchtest dich fachlich wie auch technisch weiter­entwickeln.
+ Du kannst technische Themen verständlich erklären und arbeitest gerne mit unterschiedlichen Ansprech­partnern zusammen.
+ Du verfügst über gute Deutsch- und Englisch­kenntnisse.
+ UNSERE BENEFITS
+ Eine strukturierte Einarbeitung und feste Ansprechpartner im Data-Team
+ Ein modernes Datenumfeld, das sich aktuell stark weiterentwickelt
+ Konkrete Aufgaben mit sichtbarem Nutzen für das Unternehmen
+ Raum zum Lernen, Ausprobieren und Einbringen eigener Ideen
+ Einblicke in Data Engineering, Business Intelligence und KI-Anwendungsfälle
+ Flexible Arbeitszeiten, die sich mit deinem Studium vereinbaren lasse
+ Wir freuen uns auf deine Bewerbung!
+ Sende uns deine aussagekräftigen Bewerbungs­unterlagen mit Angabe deines frühestmöglichen Eintritts­datums über unser Karriereportal . Interessante, vielseitige Aufgaben und ein professionelles, dynamisches Arbeitsumfeld in einem erfolgreichen, ambitionierten Unternehmen erwarten dich.
+ Jetzt bewerben 
+ HanseMerkur Grundvermögen AG | Warburgstraße 4 | 20354 Hamburg | Carolin von der Born | karriere@hmg.de | Tel.: +49 40 60 77 72-124

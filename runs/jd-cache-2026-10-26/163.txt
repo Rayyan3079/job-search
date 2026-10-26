@@ -1,0 +1,37 @@
+URL: https://www.xing.com/jobs/ulm-werkstudenten-bereich-data-engineering-synpulse-157800671
+TITLE: Werkstudenten (m/w/d) im Bereich Data Engineering - Synpulse
+COMPANY: Synpulse
+LOC: Ulm
+POSTED: 2026-10-02
+title: Werkstudenten (m/w/d) im Bereich Data Engineering - Synpulse
+company: Synpulse
+posted: 2026-10-02T11:16:32Z
+location: Ulm | remote: 
+---
+Die Synpulse8 Deutschland GmbH ist ein Spezialist für strategische und operative Herausforderungen im Bereich Kundeninformationsmanagement. Unsere Kunden sind international tätige Unternehmen aus den Branchen Automotive, Finance und Insurance. In Verbindung mit Datenbanken und Anwendungsentwicklung liegen unsere Kernkompetenzen in Business Intelligence sowie Marketing & CRM. 
+Zur Unterstützung unseres Teams am Standort Ulm, direkt am Ulmer Münster, suchen wir ab sofort einen 
+ Werkstudenten (m/w/d) im Bereich Data Engineering 
+15-20 Stunden pro Woche, Einzugsgebiet Ulm und Umgebung 
+ Job requirements 
+ Studium in einem MINT-Fach oder vergleichbare Kenntnisse in Datenstrukturen und Algorithmen
+ Grundkenntnisse in Python und gängigen Datenverarbeitungs-Libraries (z.B. Pandas, PySpark)
+ Erste Erfahrungen mit ETL-Prozessen und Datenintegration
+ Grundkenntnisse im Umgang mit SQL und NoSQL-Datenbanken
+ Gute Deutsch- (mind. C1) und Englischkenntnisse 
+ Job responsibilities 
+ Entwicklung und Pflege von ETL-Datenpipelines 
+ Datenmodellierung und Optimierung von SQL-Datenbanken 
+ Sicherstellung der Datenqualität durch Monitoring, Testing und automatisierte Validierungsprozesse
+ Automatisierung von Datenprozessen
+ Parametrisierung von Apache NiFi in Projekten
+ Job benefits 
+ Spannende Projekte in attraktiven Bereichen (Automobil, Finanzen, (Rück-)Versicherungen)
+ Familiäres und informelles Arbeitsumfeld (keine Kleiderordnung)
+ Anfangsgehalt 16,00 €/Stunde, Aufstiegsmöglichkeiten noch als Werkstudent
+ Flexible Arbeitszeiten und die Möglichkeit im Homeoffice zu arbeiten - mit einem Bürotag pro Woche
+ Unkomplizierte Unterstützung bei Abschlussarbeiten und in den Prüfungszeiten
+ Für den Start des Bewerbungsprozesses benötigen wir folgende Unterlagen: Anschreiben
+ Lebenslauf
+ Qualifikationen (Bachelor-/Master-Abschlusszeugnis usw.), aktueller Notenspiegel
+ Für weitere Informationen besuche uns bitte unter 
+www.synpulse.com

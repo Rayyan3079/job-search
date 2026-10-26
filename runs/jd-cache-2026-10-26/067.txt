@@ -1,0 +1,20 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-m-w-d-IoT-Anwendungsbetreuung-im-Bereich-Softwareentwicklung-Kronach-Hans-Weber-Maschinenfabrik-GmbH--14271308-inline.html
+TITLE: Werkstudent (m/w/d) IoT Anwendungsbetreuung im Bereich Softwareentwicklung
+COMPANY: Hans Weber Maschinenfabrik GmbH
+LOC: Kronach
+POSTED: stepstone
+title: Werkstudent (m/w/d) IoT Anwendungsbetreuung im Bereich Softwareentwicklung
+company: Hans Weber Maschinenfabrik GmbH
+posted: 2026-10-13T00:54:47.387Z
+location: Kronach | remote: 
+---
+Deine Aufgaben
+ Pflege und Weiterentwicklung unserer IoT Plattform: • Verwaltung des Benutzermanagements • Anpassung und Weiterentwicklung von Dashboards • Entwicklung spezifischer Funktionen mit JavaScript
+ Entwicklung von Skripten und Begleitprogrammen zur Effizienzsteigerung
+ Bewältigung des internen sowie externen Anforderungsmanagements
+ Unser Anspruch
+ Studium im Bereich Informationstechnik oder vergleichbare Studienrichtung
+ Erste Programmierkenntnisse, idealerweise in C#, VBA oder JavaScript
+ Eigenverantwortliches und zielorientiertes Arbeiten
+ Ausgeprägte Team- und Kommunikationsfähigkeit
+ Gute vorhandene Englischkenntnisse

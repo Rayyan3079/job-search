@@ -1,0 +1,42 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-mwd-Software-Development-Data-AI-Heidelberg-Berlin-Ulm-HMS-Analytical-Software-GmbH--14438126-inline.html
+TITLE: Werkstudent (mwd) Software Development, Data & AI
+COMPANY: HMS Analytical Software GmbH
+LOC: Heidelberg, Berlin, Ulm
+POSTED: stepstone
+title: Werkstudent (mwd) Software Development, Data & AI
+company: HMS Analytical Software GmbH
+posted: 2026-10-26T10:46:00.243Z
+location: Heidelberg | remote: 
+---
+Über uns
+ Unsere über 35-jährige Erfolgsgeschichte im Software Analytics-Bereich zeigt: wir sind hochspezialisierte Experten, wenn es darum geht, datengetriebene Geschäftsmodelle zu schaffen. Durch die Synthese von Data Engineering, Machine Learning und Software Engineering unterstützen wir Unternehmen dabei aus ihren Daten Mehrwerte zu generieren. Unsere über 160 Mitarbeiter treiben digitale Modernisierungen in den Branchen Manufacturing, Finance und Life Science voran und bereiten den Weg für eine Wirtschaft, die sich auf Wissen, Technik und Verantwortung stützt.
+ Du möchtest neben dem Studium praktische Erfahrung sammeln und herausfinden, wie moderne Software-, Daten- und KI-Lösungen in der Praxis entstehen? In dieser Rolle unterstützt du bei der Entwicklung von Anwendungen im Bereich Software Engineering, Data Analytics und Künstliche Intelligenz und arbeitest eng mit erfahrenen Teams zusammen.
+ Das sind deine Aufgaben
+ Mitarbeit in Softwareentwicklungs-, Data- und AI-Projekten
+ Unterstützung bei der Entwicklung und Anpassung von Anwendungen zur Verarbeitung und Analyse von Daten
+ Mitwirkung bei der Umsetzung von einfachen Machine-Learning- oder AI-Anwendungsfällen
+ Übernahme klar abgegrenzter Teilaufgaben in Projekten im Umfeld von Cloud, Data und digitalen Technologien
+ Mitarbeit bei der Weiterentwicklung interner Systeme und Tools
+ Zusammenarbeit im Team sowie Einblick in unterschiedliche Projektbereiche
+ Das bringst du mit
+ Laufendes Studium im Bereich Informatik, Naturwissenschaften oder einem vergleichbaren Fachgebiet 
+ Interesse an Softwareentwicklung, Datenanalyse und Künstlicher Intelligenz 
+ Erste praktische oder theoretische Kenntnisse in mindestens einer Programmiersprache (z. B. Python, Java, C# oder C++) 
+ Grundverständnis von Datenverarbeitung oder Interesse, sich in Machine Learning einzuarbeiten 
+ Offenheit für den Einsatz AI-gestützter Entwicklungswerkzeuge
+ Analytisches Denkvermögen und strukturierte Herangehensweise 
+ Bereitschaft, Neues zu lernen und sich weiterzuentwickeln 
+ Teamfähigkeit sowie gute Deutsch- und Englischkenntnisse 
+ Das bieten wir dir
+ Mensch & Kultur : Die Gemeinschaft und der Austausch im Unternehmen werden durch vielfältige Events wie Unternehmensmittagessen, Sommerfeste, Teamevents, Unternehmenskonferenzen und Weihnachtsfeiern aktiv gefördert. Ein Welcome Day sowie ein Mentoren-Programm während der Einarbeitungszeit tragen zudem dazu bei, den Zusammenhalt innerhalb der Teams zu stärken. 
+ Karriereentwicklung & Wissensaustausch : Die Vielfalt unserer (Kunden-)Projekte ermöglicht eine individuelle Karriereentwicklung. Verschiedenste Schulungsangebote und die Teilnahme an Fachkonferenzen fördern fachliches Wachstum. Zudem unterstützen Wissenszirkel den kontinuierlichen Wissensaustausch. 
+ Möglichkeit zur Abschlussarbeit : Im Rahmen einer Werkstudententätigkeit wird gemeinsam geprüft, ob sich ein passendes Thema und Projekt für eine Bachelor- oder Masterarbeit realisieren lässt. 
+ Work-Life-Balance & Flexibilität : Flexible Arbeitszeiten, Mobile Office/hybrides Arbeiten und die Möglichkeit Hunde mit ins Büro zu bringen, sind nur ein Teil unseres Angebots für Flexibilität und Lebensqualität. 
+ Finanzielle Vorteile : Mitarbeiter profitieren von unseren Zuschüssen für: Kinderbetreuung, Essen und Sport, Deutschlandticket für nachhaltiges Reisen. 
+ Gesundheit & Wohlbefinden : Verschiedene Gesundheitsmaßnahmen wie bewegte Pausen, Ergonomieberatung, Grippeimpfung und Augenarztuntersuchung fördern das Wohlbefinden und die langfristige Gesundheit der Mitarbeiter. Gesunde Snacks und Getränke gehören selbstverständlich ebenfalls zu unserem Angebot. Und um auch die soziale Interaktion zu stärken, haben wir Hobby- und Sportgruppen etabliert, welche nicht nur den lockeren Austausch, sondern auch den Zusammenhalt im Team stärken. 
+ Soziale Verantwortung & Nachhaltigkeit : Durch die HuManS-Stiftung streben wir danach, einen positiven Beitrag zur Gesellschaft zu leisten. Unsere Klimainitiative und das Umweltprogramm setzen sich engagiert für nachhaltige Unternehmenspraktiken ein.
+ Wir freuen uns auf deine Online-Bewerbung als Werkstudent (mwd) Software Development, Data & AI!
+ Jetzt bewerben Manuela Mayer 
+ Personalreferentin
+ Johannes Schluchter 
+ Geschäftsbereichsleiter Enterprise Analytical Systems

@@ -1,0 +1,50 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-Signalverarbeitung-Datenanalyse-m-w-d-Berlin-KORSCH-AG--14607977-inline.html
+TITLE: Werkstudent Signalverarbeitung & Datenanalyse (m/w/d)
+COMPANY: KORSCH AG
+LOC: Berlin
+POSTED: stepstone
+title: Werkstudent Signalverarbeitung & Datenanalyse (m/w/d)
+company: KORSCH AG
+posted: 2026-10-14T14:11:55.827Z
+location: Berlin | remote: 
+---
+Über uns
+ KORSCH  entwickelt und baut seit über 100 Jahren ausschließlich Hightech-Tablettiermaschinen. Als expandierender Mittelständler gehören wir zu den Großen der Branche. Unsere Maschinen „Made in Berlin“ machen weltweit Millionen Menschen das Leben deutlich einfacher.
+ Bekannte Unternehmen aus der Pharmabranche und der Industrie produzieren mit unseren Maschinen nicht nur Tabletten aller Art, sondern auch Batterien, Spülmaschinen- und Bade-Tabs, Vitamindragees, Süßstoff, Bonbons, Brühwürfel, Wasserfarben, Kaugummis, Espresso-Pads, Teelichter u.v.m.
+ Mehr über  KORSCH  erfahren Sie auf den Seiten über  unser Unternehmen. 
+ Zur Unterstützung unseres Teams im Bereich Research & Engineering suchen wir ab sofort einen
+ Werkstudent Signalverarbeitung & Datenanalyse (m/w/d)
+ Darum geht es 
+ Sie arbeiten bei KORSCH direkt mit realen Maschinen- und Prozessdaten aus unseren Tablettenpressen und unterstützen unser Entwicklungsteam dabei, Sensorsignale aufzubereiten, auszuwerten und relevante Merkmale herauszuarbeiten. Dabei können Sie Ihr Wissen aus dem Studium praktisch anwenden, eigene Ideen einbringen und erleben, wie aus Messdaten konkrete Ansätze für neue Funktionen und Technologien entstehen. Sie arbeiten eng mit unseren Entwicklern, Automatisierern und Prozessspezialisten zusammen und erhalten dabei einen direkten Einblick in die Entwicklung moderner Maschinen sowie datenbasierter Lösungen.
+ Ihre Aufgaben
+ Aufbereitung und Qualitätsprüfung von Sensor- und Prozessdaten (Filterung, Synchronisation, Resampling, Umgang mit Ausreißern)
+ Analyse von Signalen im Zeit- und Frequenzbereich (u. a. FFT, Wavelet-Transformation, Hüllkurven- und Korrelationsverfahren)
+ Entwicklung und Bewertung von Merkmalen (Feature Extraction) zur Charakterisierung von Maschinen- und Prozesszuständen
+ Aufbau reproduzierbarer Auswerteskripte und einfacher Datenpipelines in Python
+ Unterstützung bei Messreihen und Versuchen im Technikum inkl. strukturierter Dokumentation
+ Visualisierung von Messreihen und Auswerteergebnissen für interne Abstimmungen
+ Dokumentation von Methoden, Parametern und Ergebnissen für die Weiterverwendung im Team
+ Ihr Profil
+ Laufendes Studium in Elektrotechnik, Mechatronik, technischer Informatik, Physik, Data Science oder einer vergleichbaren Fachrichtung
+ Grundkenntnisse in digitaler Signalverarbeitung (Abtastung, Filterentwurf, Spektralanalyse)
+ Sichere Programmierkenntnisse in Python (NumPy, SciPy, pandas, Matplotlib) oder MATLAB
+ Strukturierte, sorgfältige und selbstständige Arbeitsweise
+ Interesse an messtechnischen Fragestellungen und realen Daten
+ Gute Deutsch- und Englischkenntnisse in Wort und Schrift
+ Verfügbarkeit von mindestens 40 Stunden pro Monat, flexibel an das Studium angepasst
+ Das wäre wünschenswert 
+ Erfahrung mit Machine-Learning-Verfahren zur Klassifikation oder Anomalieerkennung (z. B. scikit-learn)
+ Erfahrung im Umgang mit Messtechnik, Sensorik und Datenerfassungssystemen
+ Kenntnisse in Versionsverwaltung (Git) und strukturierter Code-Dokumentation
+ Grundverständnis von Maschinen- und Fertigungsprozessen
+ Unser Angebot
+ Leistung, die sich lohnt.
+ Flache Hierarchien und ein persönliches Miteinander.
+ Flexibilität bei der Vereinbarkeit von Beruf und Familie.
+ Moderne Arbeitsplätze.
+ Engagement für Gesundheit, Wohlbefinden und Sport.
+ Gute Chancen für berufliche und persönliche Entwicklung…
+ … sowie alle Vorzüge eines traditionsreichen, inhabergeführten, mittelständischen Unternehmens mit hoher Innovationskraft. Sie finden eine Atmosphäre von Nähe, Mannschaftssport nicht erst nach Feierabend, generationsübergreifendes Denken und Handeln sowie Spezialisten auf vielen Gebieten unter einem Dach vereint.
+ Kontaktdaten
+ Kontaktdaten 
+ Dorian Messelhäuser | Personalabteilung | personal(at)korsch.de

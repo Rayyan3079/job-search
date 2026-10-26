@@ -1,0 +1,23 @@
+URL: https://www.stepstone.de/stellenangebote--Praktikant-Werkstudent-im-Bereich-Java-Anwendungen-m-w-d-Gotha-Finanz-DATA-GmbH-Beratungs-und-Softwarehaus--14086130-inline.html
+TITLE: Praktikant | Werkstudent im Bereich Java Anwendungen (m/w/d)
+COMPANY: Finanz-DATA GmbH Beratungs- und Softwarehaus
+LOC: Gotha
+POSTED: stepstone
+title: Praktikant | Werkstudent im Bereich Java Anwendungen (m/w/d)
+company: Finanz-DATA GmbH Beratungs- und Softwarehaus
+posted: 2026-10-16T09:04:00.32Z
+location: Gotha | remote: 
+---
+Einleitung
+ Du willst Neues gestalten und die Digitalisierung voranbringen? Dann bewirb Dich bei uns als
+ Ihre Aufgaben
+ Deine Aufgaben
+ Was erwartet Dich?
+ Als Teil unseres engagierten Teams erhältst Du die Chance, direkt an der Entwicklung, Implementierung und dem Test von Kundenanforderungen mitzuwirken. Du tauchst tief in die Welt der Java-Entwicklung ein, bringst Deine Ideen ein und sammelst praxisnahe Erfahrungen in einem dynamischen Projektumfeld.
+ Was macht Dich aus?
+ Du befindest Dich in einem Hochschul- oder Fachhochschulstudium, vorzugsweise in Informatik, Mathematik oder einem ähnlichen Fachgebiet, gerne auch mit wirtschaftlichem Schwerpunkt.
+ Erste Erfahrungen in Webtechnologien wie HTML, CSS, JSF und JavaScript sind Dir nicht fremd.
+ Du bist vertraut mit Eclipse als Software-Entwicklungsumgebung.
+ Optional hast Du bereits mit SQL, OO-Patterns, JUNIT, Spring Framework und Hibernate gearbeitet.
+ Ein Interesse an den Geschäftsprozessen im Banken- oder Versicherungssektor zeichnet Dich aus.
+ Deine analytischen Fähigkeiten sind ausgeprägt, und Du arbeitest eigenständig, flexibel und engagiert.

@@ -1,0 +1,34 @@
+URL: https://www.xing.com/jobs/essen-werkstudent-automatisierung-ki-lowcode-tools-18-remote-146729842
+TITLE: Werkstudent Automatisierung mit KI und LowCode Tools  18€ / Remote
+COMPANY: IT & Beratung D. Meyer / Talentplatz.de
+LOC: Essen
+POSTED: 2025-11-20
+title: Werkstudent Automatisierung mit KI und LowCode Tools  18€ / Remote
+company: IT & Beratung D. Meyer / Talentplatz.de
+posted: 2025-11-20T06:27:50Z
+location: Essen | remote: TELECOMMUTE
+---
+Als IT-Unternehmer und Berater für agile Organisationen arbeite ich an der Schnittstelle von Technologie und effizientem Projektmanagement. Ziel ist es, mit modernsten Tools und Methoden manuelle Prozesse intelligent zu automatisieren. Ich biete dir ein spannendes Umfeld mit praxisnahen Herausforderungen, hoher Eigenverantwortung und viel Raum zur Mitgestaltung – komplett remote.
+ Aufgaben
+ Du unterstützt mich bei der Automatisierung und Optimierung meiner eigenen Arbeitsprozesse im Bereich Projekt- und Produktmanagements. Dabei arbeitest du mit Tools wie n8n, Zapier, OpenAI API sowie verschiedenen Low-/No-Code-Plattformen. 
+ Deine Aufgaben umfassen:
+ Entwicklung und Umsetzung automatisierter Workflows zur Effizienzsteigerung
+ Integration verschiedener Systeme (E-Mail, Kalender, Filestores, Messenger, etc. )
+ Konfiguration und Erweiterung bestehender Automatisierungen
+ Unterstützung bei der technischen Umsetzung von KI-gestützten Lösungen (z. B. GPT-basierte Assistenten)
+ Dokumentation und Testing der Lösungen
+ Qualifikation
+ Eingeschriebene:r Masterstudent:in in Informatik, Wirtschaftsinformatik oder vergleichbaren Studiengängen an einer deutschen Hochschule
+ Fundierte Kenntnisse in mind. einer höheren Programmiersprache (z. B. Python, JavaScript, TypeScript)
+ Erfahrung mit modernen Datenbanken und API-Schnittstellen
+ Idealerweise erste Erfahrung mit Fullstack-Entwicklung
+ Affinität zu Automatisierungstools (z. B. n8n, Zapier, Make) und Low-Code/No-Code-Plattformen
+ Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
+ Selbstständige, lösungsorientierte und strukturierte Arbeitsweise
+ Benefits
+ Flexible Arbeitszeiten und vollständig remote
+ Praxisnahe Aufgaben mit direktem Einfluss auf echte Geschäftsprozesse
+ Zusammenarbeit auf Augenhöhe in einem innovationsgetriebenen Umfeld
+ Faire Vergütung: 18 €/Stunde
+ Persönliche Weiterentwicklung durch anspruchsvolle Herausforderungen
+ Wenn du neugierig auf neue Technologien bist, Spaß an Automatisierung hast und gerne selbstständig arbeitest, freue ich mich sehr auf deine Bewerbung. Bitte schick mir einen kurzen Lebenslauf und ggf. Links zu relevanten Projekten oder deinem GitHub-Profil.

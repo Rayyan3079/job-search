@@ -1,0 +1,14 @@
+URL: https://www.xing.com/jobs/jena-abschlussarbeit-entwicklung-155497764
+TITLE: Abschlussarbeit - Entwicklung
+COMPANY: dotSource SE
+LOC: Jena
+POSTED: 2026-06-19
+title: Abschlussarbeit - Entwicklung
+company: dotSource SE
+posted: 2026-06-19T03:15:32Z
+location: Jena | remote: 
+---
+Sympathische Menschen. Gute Ideen. DAS ERWARTET DICH: Aktuell bieten wir u. a. folgende Themen an: Konzeptionierung und Umsetzung von Testautomatisierungen für Mobile Apps Konzeption und Entwicklung eines Analytics Moduls für die Apache SOLR Search Platform Automatisierung des Projektsetups von Standard Shoplösungen mit Git und Magento Evaluation von Security Platform-Anbietern für Microservices Einsatz eines Patch-Management-Systems bei Wartungsarbeiten an Web-Applikationen Evaluation von Quality Assurance Lösungen für Infrastructure-as-Code Evaluation von Service Meshs für die Konfiguration eines Kubernetes-Netzwerks Automatisierung des Projektsetups für hybride E-Commerce Apps DAS BRINGST DU MIT: Du studierst in einer der Fachrichtungen Informatik, Wirtschaftsinformatik, Bioinformatik, Mathematik oder in einem angrenzenden Fachbereich Idealerweise konntest Du schon erste praktische Erfahrungen in einem oder mehreren der folgenden Bereiche sammeln: App Entwicklung, Mensch-Maschine-Interaktion, Java, JavaScript, PHP, Git Neben Deinem Engagement und Deinem Fleiß bist Du motiviert, Neues zu lernen und außerdem ein echter Teamplayer! Jobs @dotSource Werde Teil des dotSource-Teams und entwickle digitale Lösungen für namhafte Kunden! Unsere Hipster, Hacker & Hustler zeigen Dir hier, was Dich bei uns erwartet! 
+ Bewerbung für eine Bachelor-/Masterarbeit im Bereich Entwicklung
+ Anrede
+ *

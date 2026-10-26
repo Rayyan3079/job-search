@@ -1,0 +1,73 @@
+URL: https://www.stepstone.de/stellenangebote--Working-Student-Data-Analytics-for-Infotainment-Systems-Sindelfingen-Mercedes-Benz-AG--14557572-inline.html
+TITLE: Working Student Data Analytics for Infotainment Systems
+COMPANY: Mercedes-Benz AG
+LOC: Sindelfingen
+POSTED: stepstone
+title: Working Student Data Analytics for Infotainment Systems
+company: Mercedes-Benz AG
+posted: 2026-10-15T14:03:21.033Z
+location: Sindelfingen | remote: 
+---
+Life is always about becoming… Becoming means going on a journey to be the best version of our future selves. While we discover new things, we will face challenges, master them and grow beyond our individual limits.
+Apply for a job at Mercedes-Benz and find your individual role and workspace to unleash your talents to the fullest. Empowered by visionary colleagues who share the same pioneering spirit. Joining us means becoming part of a global team that aims to build the most desirable cars in the world. Together for excellence.
+Job-ID: MER00048W1
+ Tasks
+ In our department Infotainment Device Integration, we are responsible for the seamless integration of consumer devices such as smartphones, headphones, and wearables into the vehicle infotainment system. This includes the development, validation, and continuous improvement of technologies such as Bluetooth, Apple CarPlay, and Google Android Auto. We are looking for you as a Working Student Data Analytics for Infotainment Systems for this exciting and challenging area.
+ You will master these tasks:
+ Analyze quality, usage, and diagnostic data from customer vehicles in the field
+ Identify product issues, usage challenges, and opportunities to improve the customer experience
+ Gain insights from various data sources, including vehicle diagnostics, customer complaints, and user behavior data
+ Apply modern AI and machine learning approaches to automate data analysis and pattern recognition
+ Develop automated processes for filtering, categorizing, and processing large datasets
+ Correlate identified issue patterns with existing ticketing systems and development workflows, such as Jira
+ Create insightful dashboards, reports, and visualizations to support data-driven decision-making
+ Support quality improvement initiatives by transforming data into actionable recommendations
+ What we offer:
+ Hands-on experience in cutting-edge automotive infotainment development
+ Opportunity to work on real customer-facing quality and user experience topics
+ Exposure to large-scale data analytics and AI applications
+ Close collaboration with experienced engineers and data analysts
+ Flexible start date from November 2026 onwards
+ Insights into innovative connected mobility technologies
+ An open and collaborative working environment with opportunities for personal and professional development
+ Shape the future of connected mobility with us and help create outstanding customer experiences.
+ The activity can begin from mid November 2026.
+ Qualifications
+ Degree in Computer Science, Business Informatics, or a comparable field of study
+ Fluent German and English language skills, both written and spoken
+ Commitment and ability to work effectively in a team
+ Analytical mindset and strategic way of working
+ Strong interest in data analytics, artificial intelligence, and software-driven products
+ Basic understanding of technical systems and enthusiasm for automotive infotainment technologies
+ Ideally, first experience with Python, data analytics, business intelligence, or machine learning
+ Independent and structured way of working
+ Good communication skills and a proactive attitude
+ Additional Information: 
+ We look forward to receiving your online application, including a resume, cover letter, certificates, current certificate of enrollment stating your semester, and proof of the standard period of study. Please remember to mark your documents as "relevant for this application" in the online form and observe the maximum file size of 5 MB. 
+ You can find further information on the hiring criteria here . 
+ Severely disabled applicants and applicants with equivalent status are welcome! The representative for severely disabled employees ( sbv-sindelfingen@mercedes-benz.com ) will gladly support you in the application process. 
+ People Solutions will be happy to help you with any questions you may have about the application process. You can reach us by email at myhrservice@mercedes-benz.com or by phone at 0711/17-99000 (Mon-Fri 10am-12pm & 1pm-3pm). 
+ Benefits
+ Meal-Discounts 
+ Mobile Phone for Employees Possible 
+ Discounts for Employees Possible 
+ Annual Profit Share Possible 
+ Events for Employees 
+ Coaching 
+ Flextime Possible 
+ Hybrid Work Possible 
+ Health Benefits 
+ Company Retirement 
+ Mobility Offers 
+ Parking 
+ Inhouse Doctor 
+ Good Public Transport 
+ Barrier-Free Workplace 
+ Near-Site Childcare 
+ Canteen, Café 
+ Contact
+Martin Schwab
+Email: martin.schwab@mercedes-benz.com 
+Mercedes-Benz Plant Sindelfingen, Sindelfingen
+Benz-Str. Tor 16
+71063 Sindelfingen

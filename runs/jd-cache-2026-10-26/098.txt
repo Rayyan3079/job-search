@@ -1,0 +1,53 @@
+URL: https://www.stepstone.de/stellenangebote--Abschlussarbeiten-Zella-Mehlis-Deutschland-ZILA-GmbH--12911454-inline.html
+TITLE: Abschlussarbeiten
+COMPANY: ZILA GmbH
+LOC: Zella-Mehlis, Deutschland
+POSTED: stepstone
+title: Abschlussarbeiten
+company: ZILA GmbH
+posted: 2026-10-13T09:03:42.633Z
+location: Zella-Mehlis | remote: 
+---
+Einleitung
+ Du suchst ein Thema für deine Bachelor- , Master- oder Diplomarbeit? - Dann bist du bei uns genau richtig!
+ Die ZILA GmbH sucht ab sofort mehrere Studenten verschiedener Fachrichtungen (Elektrotechnik, Maschinenbau, Informatik, Marketing, ...) in der Firmenzentrale in Zella-Mehlis oder an unserem Forschungsstandort Saarbrücken
+ Ihre Aufgaben
+ Konzeption und Strukturierung neuer Softwaremodule sowie Bewertung verschiedener Ansätze
+ Entwicklung von Softwaremodulen für Geräte und Systeme (Firmware und Bediensoftware inkl. Visualisierung) sowie deren Dokumentation
+ Entwicklung von Applikationen für iOS und Android und weiteren Umgebungen
+ Einbindung von Kommunikationsschnittstellen, wie Industrie-Bus Systeme, WLAN, Bluetooth, etc.
+ Gegenüberstellung verschiedener Cloudlösungen für unseren Bedarf und Mitentwicklung
+ Stellenausschreibung Abschlussarbeit Software Entwicklung 
+ Integration von Kommunikationsschnittstellen in Geräte (Bluetooth, WLAN, Bus-Systeme)prototypische Entwicklung von Meßgeräten und SteuerungenEinsatzgebiete von Cloud und Mobile- Computing sowie App- EntwicklungKonstruktion und Zeichnung von BaugruppenDurchführung von Messversuchen und Auswertung von PrüfergebnissenEvaluierung von Embedded Plattformen wie Arduino zur Entwicklung von GerätenMarketing, Corporate Design, Marktforschung und -analyse
+ Gern sprechen wir mit dir über deine eigenen Ideen!
+ Studierende aufgepasst!
+ Das bringst du mit:
+ eine praxisbezogene Abschlussarbeit mit Mehrwert
+ fachspezifische und praxisnahe Betreuung
+ wertvolle Arbeitserfahrung
+ wir haben Erfahrung mit Studenten
+ wir sind an einer langfristigen Zusammenarbeit interessiert
+ Übernahme nach erfolgreichem Studium möglich
+ eingeschriebener Student mit Zulassung zur Abschlussarbeit
+ Motiviert und engagiert
+ interessiert am jeweiligen Fachgebiet
+ du willst dich und deine Ideen einbringen
+ Exemplarische Themenauswahl für Praktikum und Abschlussarbeit:
+ Abschlussarbeit Software Entwicklung:
+ Arbeitsbereiche für Werkstudenten, Praktikanten und angehende Absolventen
+ Android, C#, C++, iOS, LabVIEW, ...InformatikKonstruktion, techn. Zeichnung, Simulation, ...MaschinenbauSchaltungsentwicklung & Leiterplattendesign, Embedded Systeme, ...E-TechnikWebdesign, Mediengestaltung, Eventmarketing, ...Marketing
+ Wir bieten
+ Folgende Leistungen erwarten dich bei uns:
+ Studentischen Mitarbeitern bieten wir:
+ regelmäßige Tätigkeit bis zu 20 Stunden pro Woche
+ Betreuung konkreter Projekte
+ Mitwirkung im Tagesgeschäft
+ wertvolle Praxis- und Arbeitserfahrung
+ wir haben Erfahrung mit Werkstudenten
+ wir sind an einer langfristigen Zusammenarbeit interessiert
+ Kontakt
+ Inhalt Ihrer Bewerbung
+ Bitte senden sie uns mit ihrer Bewerbung folgende Dokumente: Anschreiben, Lebenslauf, Abschlusszeugnisse, Arbeitszeugnisse
+ Die Dateigröße der Bewerbung sollte 5 Megabyte nicht überschreiten.
+ So erreicht uns Ihre Bewerbung
+ Senden Sie uns Ihre vollständigen Bewerbungsunterlagen per E-Mail an hr@fluidio.de . Ihr Ansprechpartner ist Herr Wiedmann. Für Bewerbungen auf dem Postweg nutzen Sie bitte folgende Adresse: Fluid.iO Sensor + Control GmbH & Co. KG, An der Hartbrücke 6, 64625 Bensheim

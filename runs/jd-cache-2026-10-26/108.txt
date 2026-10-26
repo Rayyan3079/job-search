@@ -1,0 +1,47 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudentin-Softwareentwicklung-in-Kundenprojekten-Bremen-Koeln-Berlin-Muenchen-Paderborn-Home-Office-CONTACT-Software-GmbH--14223075-inline.html
+TITLE: Werkstudent*in - Softwareentwicklung in Kundenprojekten
+COMPANY: CONTACT Software GmbH
+LOC: Bremen, Köln, Berlin, München, Paderborn, Home-Office
+POSTED: stepstone
+title: Werkstudent*in - Softwareentwicklung in Kundenprojekten
+company: CONTACT Software GmbH
+posted: 2026-10-14T06:46:29.29Z
+location: Bremen | remote: 
+---
+CONTACT Software verbindet Menschen, Unternehmen und Systeme
+ Sie haben bereits erste Einblicke in der Softwareentwicklung gesammelt und möchten während Ihres Studiums praktische Erfahrungen in spannenden und abwechslungsreichen Kundenprojekten sammeln? Dann werden Sie als Werkstudent*in Teil unseres Teams!
+In der Abteilung CONTACT Consulting, arbeiten Sie in agilen Projektteams an der individuellen Anpassung und Implementierung unserer Softwarelösung bei unseren Kunden.
+Mit unserer modularen Softwarelösung gehören wir zu den besten Systemanbietern weltweit und liefern individuelle Lösungen für die kollaborative Produktentwicklung, das durchgängige Projektmanagement und die digitale Transformation. Seien Sie dabei, wenn wir mit unseren innovativen Technologien die Welt rund um Industrie 4.0 gestalten und das Internet der Dinge (IoT) erlebbar machen!
+ Ihr Arbeitsplatz: im Home-Office, Hybrid oder in einem unserer Büros in Bremen, Berlin, Köln, München oder Paderborn.   
+ Ihre Aufgaben
+ Anpassung unseres modularen Softwarebaukastens durch vielfältige Coding-Aufgaben mit Python
+ technische Konfiguration unseres PLM- und IoT-Systems über ein Graphical User Interface (GUI)
+ Entwicklung von Web-Schnittstellen mit HTML5 und JavaScript sowie technische Dokumentation
+ agile Zusammenarbeit mit unseren IT-Experten auf Augenhöhe in spannenden Kundenprojekte
+ Ihr Profil
+ Studium im Fachbereich (Wirtschafts-) Informatik, Mathematik, Physik, Elektrotechnik, Maschinenbau, Ingenieurwissenschaften oder einem verwandten technischen oder naturwissenschaftlichen Studiengang mit ausgewiesener IT-Ausrichtung
+ praktische Erfahrung in der Anwendung von objektorientierten Programmiersprachen, idealerweise Python und JavaScript
+ Grundlagenwissen über den Einsatz von Datenbankensystemen (SQL) und erste Kenntnisse in der Web-Programmierung wünschenswert
+ Spaß an kollaborativer Zusammenarbeit in einem motivierten und engagierten Team verbunden mit einer selbständigen, strukturierten und zielorientierten Arbeitsweise
+ rasche Auffassungsgabe von komplexen, technischen Zusammenhängen sowie sehr gute deutsche und englische Sprachkenntnisse in Wort und Schrift
+ Unser Angebot
+ spannende Projekte im IT-Umfeld auf Basis der leistungsfähigsten Plattform für PLM, Kollaboration und IoT
+ Möglichkeit zur Übernahme in Festanstellung nach Ihrem Studienabschluss
+ ein offenes, hybrides Arbeitsplatz-Modell mit flexiblen Arbeitszeiten entsprechend Ihrer Vorlesungen und der eigenen Wahl aus welchem unserer Standorte Sie arbeiten
+ ein marktgerechtes Gehalt und flache Hierarchien innerhalb einer stark wachsenden Organisation mit „Du“-Kultur bis zur Führungsebene
+ individuelles und professionelles Onboarding mit Mentoring-Programm und Unterstützung durch Ihre Teamkolleg*innen
+ Auswahl aus diversen Weiterbildungen aus unserem Schulungskatalog, zur fachlichen und persönlichen Weiterentwicklung
+ Teilnahme an verschiedenen Sportgruppen, regelmäßigen Team- und Firmen-Events
+ offene und wertschätzende Unternehmenskultur, in der eigene Ideen nicht nur erlaubt, sondern auch gern gehört werden
+ Angebote zur mentalen Gesundheit
+ attraktive Rabatte durch Zugang zum Corporate-Benefits-Programm
+ frisches Obst und diverse Heiß- und Kaltgetränke an unseren Standorten
+ Haben wir Sie neugierig gemacht?
+ Dann sollten wir uns kennenlernen! 
+Bewerben Sie sich jetzt und werden Sie ein Teil unserer Erfolgsgeschichte!
+ Wir freuen uns auf Ihre Bewerbung! 
+CONTACT Software GmbH
+Frau Dana Theil
+Wiener Straße 1 – 3
+28359 Bremen
+ Nutzen Sie für Ihre Bewerbung gerne unser Online-Bewerbungsformular

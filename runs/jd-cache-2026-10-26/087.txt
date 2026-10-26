@@ -1,0 +1,52 @@
+URL: https://www.stepstone.de/stellenangebote--Key-User-SAP-Payroll-m-w-d-bundesweit-KS-Gleitlager-GmbH--14613979-inline.html
+TITLE: Key User SAP - Payroll (m/w/d)
+COMPANY: KS Gleitlager GmbH
+LOC: bundesweit
+POSTED: stepstone
+title: Key User SAP - Payroll (m/w/d)
+company: KS Gleitlager GmbH
+posted: 2026-10-15T14:41:07.227Z
+location: bundesweit | remote: 
+---
+Die börsennotierte Rheinmetall AG mit Sitz in Düsseldorf steht als integrierter Technologiekonzern für ein ebenso substanzstarkes wie international erfolgreiches Unternehmen. Als domänenübergreifendes Systemhaus der Sicherheits- und Verteidigungsindustrie bieten wir ein innovatives Produkt- und Leistungsspektrum für den Einsatz zu Lande, zu Wasser, in der Luft und im Weltraum. 
+ Durch unsere Arbeit auf unterschiedlichen Feldern übernehmen wir bei Rheinmetall Verantwortung in einer sich dramatisch verändernden Welt. Mit unseren Technologien, unseren Produkten und Systemen schaffen wir die unverzichtbare Grundlage für Frieden, Freiheit und für nachhaltige Entwicklung: Sicherheit. 
+ Die Konzernstruktur umfasst die fünf Divisionen Air Defence, Digital Systems, Naval Systems, Vehicle Systems und Weapon and Ammunition. 
+ Entdecken Sie Rheinmetall als Arbeitgeber: www.rheinmetall.com 
+ WOFÜR WIR SIE SUCHEN
+ Zentraler First-Level-Support für Entgeltabrechner und HR operativ (Erstellung von Handouts zu verschiedenen Prozessen) innerhalb der Division Power Systems deutschlandweit
+ Überwachung des monatlichen Entgeltabrechnungslaufes in SAP HCM, anaylsieren von Fehlermeldungen im Abrechnungsprotokoll und Behebung in Zusammenarbeit mit der IT
+ Prozessoptimierung & Customizing (Aufnahme von fachlichen Anforderungen, Bewertung und Umsetzung im SAP Customizing, z.B. neue Tarifverträge, neue Lohnarten)
+ Sicherstellung der Datenqualität durch systemgestützte Vorprüfungen und Überwachung von Schnittstellen zu Vorsystemen (z.B. Zeiterfassung) sowie die Folgeaktivitäten (FI/CO-Überleitung)
+ Testing und Relasemanagement neuer SAP Packages
+ Erstellung von Ad-hoc-Auswertungen mittels Query und Standardberichten
+ Begleitung von Steuer- u. Sozialversicherungsprüfungen sowie Wirtschaftsprüfungen
+ Erstellung von Reports für Prüfungen sowie Gutachten
+ Mitarbeit in konzernweiten Projekten (u.a. Einführung S/4 HANA)
+ Koordination externer Dienstleister
+ Dokumentation der Systemlandschaft und -erweiterungen
+ Stabilisierung der bestehenden Systemlandschaft
+ WAS SIE MITBRINGEN SOLLTEN
+ Erfolgreich abgeschlossenes Studium im Bereich der Informationstechnik, Betriebswirtschaft oder vergleichbare Ausbildung
+ Berufserfahrung im Applikationsmanagement bzw. in vergleichbarer Position
+ Tiefe Kenntnisse in den Sachverhalten der deutschen Entgeltabrechnung
+ Umfassende Erfahrung in Customizing der SAP Entgeltabrechnung für Deutschland (incl. Schemen/Rechenregeln, sowie Behördenkommunikation an Behörden und Sozialversicherungsträger)
+ Erfahrung in SAP HR Formularen und H4S4 von Vorteil
+ Methodisches Wissen (idealerweise mit Zertifizierung) in den Bereichen Projektmanagement und ITIL wünschenswert
+ Großes Interesse am Aufbau eines professionellen Inhouse-Applikationsbetriebes sowie Projektsupports
+ Strukturierte, eigenständige und lösungsorientierte Arbeitsweise sowie Kommunikations- und Teamfähigkeit
+ Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
+ Interkulturelle Kompetenz und Reisebereitschaft
+ WAS WIR IHNEN BIETEN
+ An unseren Standorten bieten wir Ihnen:
+ Attraktive Vergütung
+ Flexible Arbeitszeitmodelle
+ Mobiles Arbeiten, wo möglich und sinnvoll
+ Fitness- und Gesundheitsangebote
+ Corporate Benefits Plattform
+ Vielfältige individuelle Personalentwicklungsmöglichkeiten
+ Die offene Position kann wahlweise an allen Standorten der Division Power-Systems in Deutschland besetzt werden.
+ KONTAKTDETAILS
+Zuständige/r Ansprechpartner/in: 
+Alexander Flasch
+Für Fragen zu Ihrer Bewerbung, nutzen Sie bitte das Kontaktformular .
+ Ref.-Nr.: DE20970

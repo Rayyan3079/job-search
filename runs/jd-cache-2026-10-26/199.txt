@@ -1,0 +1,67 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-Datenanalyse-und-Reporting-m-w-d-Frankfurt-am-Main-Deutschlandtarifverbund-GmbH-DTVG--14597120-inline.html
+TITLE: Werkstudent Datenanalyse und Reporting (m/w/d)
+COMPANY: Deutschlandtarifverbund-GmbH (DTVG)
+LOC: Frankfurt am Main
+POSTED: stepstone
+title: Werkstudent Datenanalyse und Reporting (m/w/d)
+company: Deutschlandtarifverbund-GmbH (DTVG)
+posted: 2026-10-12T05:42:05.893Z
+location: Frankfurt am Main | remote: 
+---
+Du möchtest Dich bei uns als Werkstudent*in im Bereich Datenanalyse und Reporting bewerben?
+ Sehr sehr gute Idee!
+ Wir bieten Dir die Möglichkeit, bei uns Berufserfahrungen zu sammeln, Dir einen Beitrag zur Finanzierung Deines Studiums zu verdienen und außerdem die Chance unser Team gemeinsam voranzubringen.
+ Was ist der Deutschlandtarifverbund? 
+ Unsere Mission ist eine nahtlose Bahnreise aus Kundensicht . Daher gehören zu unseren Kernaufgaben:
+ Durchgehende und sichere Tickets im deutschen Bahnverkehr. Wir organisieren durchgehende Tickets dort, wo es keine Verbünde gibt und verknüpfen die Reisen außerhalb und zwischen den Verbünden.
+ Die Tarifkooperation mit Anbietern von Fernverkehrszügen, damit Du zwischen Fern- und Nahverkehr mit nur einem Ticket reisen kannst.
+ Wir teilen die Einnahmen aus unseren Tarif- und Kooperationsangeboten für unsere Verbundunternehmen fair und leistungsgerecht auf.
+ Wir sorgen für eine zuverlässige und schnelle Information unserer Gesellschafter, so dass diese bei uns verbindliche und gute Entscheidungen treffen können.
+ Wir vertreten die Positionen unserer Geselllschafter gegenüber anderen Partnern in der Branche und der Politik.
+ Unsere Gesellschafter sind Aufgabenträger für den Schienenpersonennahverkher und Eisenbahnverkehrsunternehmen
+ Wie kannst Du uns unterstützen?
+ Zur Unterstützung unserer Kolleginnen und Kollegen aus dem Bereich Data Analytics und Einnahmenaufteilung (EAV) erwarten Dich bei uns folgende Tätigkeiten:
+ Weiterentwicklung und Wartung unseres PowerBi Datenmodells
+ Weiterentwicklung, Erstellung und Pflege von Standardreportings (u.a. mit PowerPoint und PowerQuery)
+ Wartung und Pflege verschiedener Python-Lösungen
+ Entwicklung weiterer Lösungen zur Automatisierung
+ ad-hoc Analysen im EAV-Kontext
+ Mitwirken am/ Aufbau eines Toolset in R
+ Darüber hinaus unterstützt Du bei Bedarf und je nach Eignung und Interesse auch in anderen Bereichen.
+ Es erwarten Dich abwechslungsreiche Tätigkeiten und Du wirst schnell Einblick in viele interessante Themen erhalten und hast die Möglichkeit, Deine Kenntnisse schnell zu erweitern und eigene Vorschläge einzubringen.
+ Was solltest Du als Werkstudent*in bei uns mitbringen?
+ Du bist als Student*in an einer Hochschule eingeschrieben und hast noch mindestens zwei Semester bis zum Studienabschluss vor Dir.
+ Du hast in der Woche an mindestens zwei Tagen Zeit uns zu unterstützen. Während des Semesters nimmst Du Dir zwischen 12 und 20 Stunden pro Woche Zeit für uns.
+ Ein Fach mit Bezug zu unseren Tätigkeiten ist wünschenswert (Data Science, Wirtschaftsinformatik, Data Analytics, Business Intelligence, angewandte Mathematik).
+ Erste praktische Erfahrung mit SQL, R,  Python sowie Interesse, dich in weitere Tools einzuarbeiten.
+ Erste Erfahrungen in den Bereichen Datenanalyse, Reporting, Dashboarding oder Business Intelligence.
+ Womit Du besonders in Frage kommst:
+ Du bist ein Teamplayer,
+ bringst Kommunikationsstärke mit,
+ und hast ein Interesse am Öffentlichen Personenverkehr
+ Und nach dem Studium? 
+ Wenn Dir die Tätigkeiten als Werkstudent*in bei uns zusagen, Du uns mit Deiner Arbeit überzeugt hast und die Sterne günstig stehen, ist eine Übernahme in ein Arbeitsverhältnis bei uns möglich. Wir sind ein Unternehmen im Wachstum und haben immer wieder Stellen zu besetzen.
+ Du hast noch Fragen? 
+ Wenn Du vorab gerne tiefere Einblicke in die Tätigkeiten oder Erfahrungen als Werkstudent bei uns gewinnen möchtest, oder Fragen zum Arbeitsalltag hast, schreibe gerne direkt eine Mail an unsere Dataanalystin Leonie: l.klinger@deutschlandtarifverbund.de 
+ Was Dich bei uns motiviert:
+ Du kannst bei uns aktiv mitgestalten: Unsere Gesellschafter, Partner und das Team legen Wert auf Deine Meinung und Deine Expertise.
+ Du bist Qualitätsmensch: Wir haben einen hohen Anspruch an die Ergebnisse unserer Arbeit. Hierfür nutzen wir ein professionelles Arbeitsumfeld und unterstützen jeden bestmöglich in seiner Arbeit.
+ Du bist Teil des #bestteamever . Du kommunizierst gerne, offen und transparent und willst stets das Beste für die gemeinsame Sache.
+ Du arbeitest für eine gute Sache: Mit Deiner Arbeit leistest Du einen wichtigen Beitrag für einen nachhaltigen und klimafreundlichen Nahverkehr.
+ Das Beste zum Schluss 
+ Das #bestteamever vom Deutschlandtarifverbund.
+ Hochwertiges Tech-Equipment macht Dein Tagesgeschäft angenehmer.
+ Modernes Büro mit Mainblick und Fahrradgarage in zentraler Lage in Frankfurt.
+ Regelmäßige Team-Events in Frankfurt.
+ Interessiert?
+ Dann lerne Deine Kolleg*innen jetzt schon kennen. Hier geht’s zum #bestteamever: deutschlandtarifverbund.de/karriere 
+ Wir freuen uns auf Dich.
+ Responsible 
+ Nils Dreyhaupt
+ Additional information 
+ Location
+ Frankfurt am Main 
+ Position type
+ Student intern 
+ Start of work
+ Nov 1, 2026

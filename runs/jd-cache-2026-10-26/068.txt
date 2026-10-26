@@ -1,0 +1,20 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudententaetigkeit-im-Bereich-Software-Forschung-und-Entwicklung-m-w-d-Kronach-Hans-Weber-Maschinenfabrik-GmbH--14271224-inline.html
+TITLE: Werkstudententätigkeit im Bereich Software - Forschung und Entwicklung (m/w/d)
+COMPANY: Hans Weber Maschinenfabrik GmbH
+LOC: Kronach
+POSTED: stepstone
+title: Werkstudententätigkeit im Bereich Software - Forschung und Entwicklung (m/w/d)
+company: Hans Weber Maschinenfabrik GmbH
+posted: 2026-10-13T00:35:13.93Z
+location: Kronach | remote: 
+---
+Deine Aufgaben
+ Unterstützung der Softwareentwicklung (SPS und HMI) von Maschinen im Forschungs- und Entwicklungsumfeld, u.a. bei der Implementierung neuer Funktionen, Tests und Dokumentationen
+ Eigenständige Bearbeitung kleinerer Aufgabenpakete mit hohem Entwicklungsanteil – von der Konzeption über die Umsetzung bis hin zum Test
+ Unterstützung bei regulatorischen Fragestellungen im Software- und Maschinenumfeld z.B. Analyse von Anforderungen, Bewertung von Vorgaben, Dokumentation
+ Mitarbeit bei der Erstellung technischer Konzepte, Architekturen und zugehöriger Dokumentationen in enger Zusammenarbeit mit erfahrenen Entwicklern
+ Unser Anspruch
+ Studium im Bereich Elektrotechnik, Automatisierungstechnik, Mechatronik oder vergleichbare Studienrichtung
+ Eigenverantwortliches, strukturiertes Arbeiten sowie die Fähigkeit, sich in neue Aufgabenstellungen einzuarbeiten
+ Interesse an Technik und Softwareentwicklung im Maschinenbau
+ Erste Kenntnisse im Bereich SPS-Programmierung von Vorteil

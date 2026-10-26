@@ -1,0 +1,114 @@
+URL: https://www.stepstone.de/stellenangebote--Business-Intelligence-Specialist-Power-BI-Excel-m-w-d-Weischlitz-Homeoffice-Sellence-GmbH--14615657-inline.html
+TITLE: Business Intelligence Specialist – Power BI & Excel (m/w/d)
+COMPANY: Sellence GmbH
+LOC: Weischlitz, Homeoffice
+POSTED: stepstone
+title: Business Intelligence Specialist – Power BI & Excel (m/w/d)
+company: Sellence GmbH
+posted: 2026-10-15T17:29:21.873Z
+location: Weischlitz | remote: 
+---
+Über uns
+ Sellence GmbH steht für Selling Excellence – Vertrieb mit höchstem Anspruch. Wir sind ein junges Unternehmen, getragen von einem Team mit jahrzehntelanger Erfahrung im Tabakvertrieb.
+ Unsere Stärke liegt in der Verbindung von Expertise und Innovationskraft: Wir arbeiten mit flachen Strukturen, agilen Prozessen und modernster Technik. So schaffen wir ein Arbeitsumfeld, das Professionalität, Teamgeist und Begeisterung verbindet.
+ Wir haben den Anspruch, Premium-Marken im Handel sichtbar zu machen und langfristige Partnerschaften mit Händlern aufzubauen. Dabei setzen wir konsequent auf digitale Tools und smarte Prozesse, um Vertrieb effizient und zukunftsorientiert zu gestalten.
+ Unsere Kultur ist geprägt von Offenheit, Respekt und gegenseitiger Unterstützung – jeder soll seine Ideen einbringen und sich entfalten können. Denn wir glauben daran, dass nachhaltiger Erfolg nur gemeinsam entsteht.
+ Wer wir sind
+ Sellence – Selling Excellence
+ Wir verbinden Leidenschaft für Vertrieb mit Exzellenz im Handeln. 
+ Sellence ist ein junges Unternehmen mit einem erfahrenen Team und jahrzehntelanger Expertise im Vertrieb und in der Steuerung bundesweiter Außendienstprojekte.
+ Wir verbinden kurze Entscheidungswege, moderne Technologien und eine offene Unternehmenskultur mit hohen Ansprüchen an Qualität, Zuverlässigkeit und Zusammenarbeit.
+ Für die Weiterentwicklung unserer Datenanalysen, Reportings und Business-Intelligence-Lösungen suchen wir Verstärkung.
+ Deine Mission
+ Power Query · Datenaufbereitung · Vertriebscontrolling · Prozessautomatisierung 
+ Vollzeit · Unbefristet · Weischlitz bei Plauen (Vogtland) · Hybrid · Ab sofort 
+ Für einen führenden Markenartikelhersteller steuern wir den bundesweiten Außendienst. Dabei entstehen täglich umfangreiche Daten zu Marktbesuchen, Distribution, Produktplatzierungen, Abverkäufen und Zielerreichung.
+ Diese Informationen sind die Grundlage für wichtige operative und wirtschaftliche Entscheidungen.
+ Unsere Reportinglandschaft ist bereits aufgebaut. Jetzt wollen wir sie weiterentwickeln: mit effizienter Datenaufbereitung, automatisierten Auswertungen, leistungsfähigen Power-BI-Dashboards und Lösungen, die unsere Teams selbstständig nutzen können.
+ Wir suchen jemanden, der nicht nur Daten verarbeitet, sondern Zusammenhänge versteht, kritisch hinterfragt und eigene Ideen entwickelt. 
+ Das erwartet dich
+ 1. Datenaufbereitung mit Excel und Power Query
+ Du bereitest umfangreiche Datenbestände aus unterschiedlichen Quellen eigenständig auf.
+ Du nutzt Excel und Power Query zur Bereinigung, Transformation, Verknüpfung und Strukturierung von Daten.
+ Du entwickelst wiederverwendbare und automatisierte Datenaufbereitungsprozesse.
+ Du führst Daten aus Excel-Dateien, CRM-Exporten und weiteren Datenquellen zusammen.
+ Du überprüfst Daten auf Vollständigkeit, Plausibilität und Konsistenz und entwickelst geeignete Kontrollmechanismen.
+ 2. Business Intelligence und Power BI
+ Du entwickelst unsere bestehende Power-BI-Reportinglandschaft eigenständig weiter.
+ Du erstellst aussagekräftige Dashboards und Visualisierungen für Geschäftsführung, Field Force Management und Backoffice.
+ Du entwickelst und pflegst Datenmodelle, DAX-Berechnungen und Kennzahlendarstellungen.
+ Du bringst eigene Ideen zur Verbesserung der Visualisierung und Nutzung unserer Auswertungen ein.
+ Du stellst sicher, dass die Berichte nachvollziehbar, zuverlässig und anwenderfreundlich sind.
+ 3. Vertriebsreporting und Datenanalyse
+ Du entwickelst Auswertungen zu Besuchsleistung, Distribution, Marktabdeckung, Produktplatzierungen und Abverkäufen.
+ Du setzt Zielvereinbarungs- und Zielerreichungsberechnungen für unseren Außendienst und dessen Führungskräfte um.
+ Du erstellst Soll-Ist-Analysen und prüfst auffällige Abweichungen.
+ Du erkennst Zusammenhänge zwischen operativer Vertriebsleistung und den ausgewerteten Kennzahlen.
+ Du hinterfragst Ergebnisse, klärst Unstimmigkeiten mit den zuständigen Fachbereichen und bereitest Erkenntnisse verständlich auf.
+ Du lernst unsere Vertriebsprozesse auch in der Praxis kennen, beispielsweise durch den Austausch mit Supervisoren und die Begleitung des Außendienstes.
+ 4. Automatisierung und Prozessoptimierung
+ Du identifizierst manuelle, wiederkehrende Auswertungsprozesse und entwickelst effiziente Automatisierungslösungen.
+ Du nutzt dafür Excel, Power Query, Power BI und gegebenenfalls freigegebene KI-Werkzeuge.
+ Du bewertest neue Technologien und schlägst sinnvolle Verbesserungen vor.
+ Du dokumentierst Prozesse, Berechnungslogiken und technische Lösungen nachvollziehbar.
+ Du entwickelst Lösungen, die auch Kolleginnen und Kollegen ohne technische Vorkenntnisse zuverlässig nutzen können.
+ 5. Zusammenarbeit und Wissenstransfer
+ Du arbeitest eng mit Geschäftsführung, Field Force Management, Supervisoren und Backoffice zusammen.
+ Du übersetzt fachliche Anforderungen in geeignete technische Lösungen.
+ Du stellst deine Auswertungen vor, erklärst ihre Anwendung und unterstützt die Teams bei der Nutzung.
+ Du sorgst dafür, dass Wissen dokumentiert wird und Auswertungsprozesse unabhängig von einzelnen Personen funktionieren.
+ Dein Profil
+ Das bringst du mit
+ Eine abgeschlossene Ausbildung, ein Studium oder vergleichbare praktische Erfahrung in Wirtschaftsinformatik, Controlling, Betriebswirtschaft, Datenanalyse oder Business Intelligence.
+ Sehr gute Excel-Kenntnisse , insbesondere bei komplexen Formeln, Pivot-Auswertungen und der Verarbeitung umfangreicher Datenbestände.
+ Sehr gute praktische Kenntnisse in Power Query , einschließlich Datenimport, Bereinigung, Transformation, Zusammenführung und Automatisierung von Datenaufbereitungen.
+ Fundierte praktische Erfahrung mit Power BI , einschließlich Dashboard-Entwicklung, DAX und Datenmodellierung.
+ Grundkenntnisse in Python
+ Berufserfahrung im Reporting, in der Datenanalyse oder im Vertriebscontrolling.
+ Ein gutes Verständnis von Vertriebskennzahlen, betriebswirtschaftlichen Zusammenhängen und operativen Prozessen.
+ Analytisches Denkvermögen, eine sorgfältige Arbeitsweise und die Fähigkeit, Zahlen kritisch zu hinterfragen.
+ Eigeninitiative, Lösungsorientierung und Freude daran, bestehende Prozesse zu verbessern.
+ Die Fähigkeit, komplexe Auswertungen verständlich zu erklären und deine Arbeit sauber zu dokumentieren.
+ Sehr gute Deutschkenntnisse in Wort und Schrift.
+ Bereitschaft, regelmäßig mindestens zwei Tage pro Woche in unserem Büro in Weischlitz zu arbeiten.
+ Das wäre zusätzlich von Vorteil
+ Erfahrung im Vertriebs- oder Außendienstcontrolling, insbesondere im Handel, FMCG oder Field Sales.
+ Kenntnisse in SQL oder Microsoft Fabric.
+ Erfahrung mit KI-Werkzeugen wie ChatGPT, Claude oder Copilot.
+ Kenntnisse in der Verarbeitung von CRM-, Sell-out- oder Außendienstdaten.
+ Erfahrung in der Zusammenarbeit mit größeren Unternehmenskunden.
+ Führerschein Klasse B für gelegentliche Besuche im Außendienst.
+ Unser Angebot
+ Attraktive Vergütung 
+ 52.000–62.000 € brutto jährlich, abhängig von deiner Qualifikation und Erfahrung.
+ Hybrides Arbeiten 
+ Mindestens zwei Präsenztage pro Woche in unserem Büro in Weischlitz. An den übrigen Tagen kannst du mobil arbeiten. Während der Einarbeitung ist eine höhere Präsenz vorgesehen.
+ Eigenverantwortung und Gestaltungsspielraum 
+ Du kannst eigene Ideen einbringen, Lösungen entwickeln und unsere Reporting- und BI-Landschaft aktiv weiterentwickeln.
+ Moderne Technologien 
+ Du arbeitest mit Excel, Power Query, Power BI und weiteren modernen Werkzeugen. Wir sind offen für neue Technologien und unterstützen dich bei passenden Weiterbildungen.
+ Kurze Entscheidungswege 
+ Du arbeitest direkt mit der Geschäftsführung und den operativen Fachbereichen zusammen.
+ Kollegiales Arbeitsumfeld 
+ Wir legen Wert auf eine offene Kommunikation, gegenseitige Unterstützung und ein respektvolles Miteinander.
+ Weitere Vorteile 
+ Unbefristeter Arbeitsvertrag
+ 28 Tage Urlaub
+ Flexible Arbeitszeiten
+ Steuerbegünstigte Zusatzleistungen
+ Strukturierte Einarbeitung
+ Dein nächster Schritt
+ So bewirbst du dich
+ Ein Anschreiben benötigen wir nicht. Schick uns deinen Lebenslauf und beantworte bitte zwei kurze Fragen:
+ 1. Welche Auswertung, Power-BI-Lösung oder Automatisierung hast du bereits eigenständig entwickelt? 
+ Welche Technologien hast du eingesetzt, was hast du verbessert und wie wird die Lösung heute von anderen Mitarbeitenden genutzt?
+ 2. Wann hast du bei einer Datenanalyse zuletzt eine Unstimmigkeit oder einen wichtigen Zusammenhang entdeckt? 
+ Wie bist du vorgegangen, welche Fragen hast du gestellt und zu welchem Ergebnis bist du gekommen?
+ Unser Bewerbungsprozess
+ Bewerbung mit Lebenslauf und Antworten auf unsere beiden Fragen
+ Erstes Kennenlernen per Microsoft Teams
+ Persönliches Gespräch in Weischlitz mit einer kleinen praxisbezogenen Fallaufgabe
+ Rückmeldung innerhalb einer Woche nach dem persönlichen Gespräch
+ Für uns zählen deine Fähigkeiten, deine Erfahrung, deine Eigeninitiative und deine Freude daran, gute Lösungen zu entwickeln. 
+ Wir freuen uns darauf, dich kennenzulernen!
+ Sellence GmbH – Selling Excellence

@@ -1,0 +1,32 @@
+URL: https://www.stepstone.de/stellenangebote--Network-Security-Engineer-m-w-d-100-Home-Office-bundesweit-Oesterreich-Home-Office-Anexia--13286128-inline.html
+TITLE: Network Security Engineer (m/w/d) - 100 % Home Office
+COMPANY: Anexia
+LOC: bundesweit, Österreich, Home-Office
+POSTED: stepstone
+title: Network Security Engineer (m/w/d) - 100 % Home Office
+company: Anexia
+posted: 2026-10-21T14:12:57.783Z
+location: bundesweit | remote: 
+---
+Anexia ist ein international tätiger Cloud Service Provider sowie Internet Service Provider und wurde im Jahr 2006 von Alexander Windbichler in Klagenfurt, Österreich gegründet. Unser Schwerpunkt liegt auf maßgeschneiderten und hochwertigen Lösungen in den Bereichen Cloud und Managed Services sowie Individualsoftware, App- und Web-Entwicklung. Neben unserem Hauptsitz in Klagenfurt betreiben wir u. a. Büros in Wien, Graz, Karlsruhe sowie New York City. Wir beschäftigen rund 400 Mitarbeiter:innen und verfügen über mehr als 90 Rechenzentrumsstandorte in 70 Ländern der Welt.
+ Bei Anexia betreiben wir eine hochverfügbare Infrastruktur mit über 1.000 administrierten Firewalls in Multi-Tenant-Umgebungen. Durch standardisierte Prozesse und laufende Automatisierungen im Hintergrund schaffen wir es, Security in großem Maßstab effizient und stabil zu betreiben – und gleichzeitig Raum für technische Weiterentwicklung und spannende Projekte zu bieten. Wenn du gerne Verantwortung übernimmst und moderne Security-Architekturen aktiv mitgestalten möchtest, bist du bei uns genau richtig.
+ Deine Aufgaben
+ Design, Implementierung und Betrieb hochverfügbarer Firewall-Cluster in Multi-Tenant-Umgebungen
+ Konfiguration, Dokumentation und Troubleshooting inklusive Rufbereitschaft
+ Entwicklung moderner Security-Architekturen (z. B. Zero Trust, Netzwerksegmentierung, VPN-Design)
+ Beratung und technische Betreuung unserer Kund:innen
+ Weiterentwicklung und Optimierung bestehender Netzwerkarchitekturen
+ Eigenständige Projektarbeit (z. B. Kundenübernahmen, Neuinstallationen) sowie Mitwirkung an Automatisierungsinitiativen
+ Dein Profil
+ Mehrjährige einschlägige Berufserfahrung; abgeschlossene technische Ausbildung wünschenswert
+ Fundierte Kenntnisse in Netzwerktechnologien (ACL, NAT, VPN) sowie Erfahrung mit Security-Lösungen und Technologien (z. B. Webfiltering, IDS/IPS)
+ Erfahrung im Umgang mit Linux-Systemtools und gängigen Monitoring-Lösungen
+ Fundierte Kenntnisse in Routing-Protokollen (BGP, OSPF)
+ Erfahrung mit der CLI von Fortinet-Firewalls wünschenswert
+ Kenntnisse in der Skripterstellung mit Python von Vorteil
+ Strukturierte, eigenverantwortliche und zuverlässige Arbeitsweise
+ Bereitschaft zur Teilnahme an der Rufbereitschaft
+ Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
+ Was wir bieten
+ Wir sind mehr als ein Arbeitsplatz. Daher bieten wir unseren Mitarbeiter:innen (teils abhängig von deiner Position und deinem Standort) viele Benefits: Notebook, Firmenhandy, gute Verkehrsanbindung, flexible Arbeitszeiten, Aus- und Weiterbildung, Mentoren-Programm, kostenlose Parkplätze, Snacks und Getränke, Firmenwagen, Mitarbeiter:innen-Events, Fun-Corner, u.v.m.
+ Anexia wurde als Familie groß und das soll auch in unserer Wachstumsstrategie so bleiben. Wir übernehmen gerne Verantwortung, respektieren einander und wir wissen, dass wir alles schaffen können. Wir schauen gut auf Anexia und Anexia schaut auch gut auf uns. Begeisterung, Erfahrung und Kompetenz zählen, daher kannst du ein faires Gehalt und zahlreiche Benefits erwarten.

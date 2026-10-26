@@ -1,0 +1,11 @@
+URL: https://www.xing.com/jobs/eschborn-data-engineer-working-student-157827774
+TITLE: Data Engineer Working Student
+COMPANY: Cheil Germany GmbH
+LOC: Eschborn
+POSTED: 2026-09-11
+title: Data Engineer Working Student
+company: Cheil Germany GmbH
+posted: 2026-09-11T21:46:57Z
+location: Eschborn | remote: 
+---
+Deine Aufgaben Support the development and maintenance of data pipelines. Assist in data cleaning, preparation, and validation across stage, model, and mart layers. Help optimize SQL queries and troubleshoot data issues. Contribute to maintaining data quality and ensuring smooth report automation. Collaborate with data analysts and data scientists to deliver usable data. Assist in documentation for internal knowledge sharing. Dein Profil Studying Computer Science, Data, Information Systems, or related field. Hands-on experience in Python, SQL, Excel and Tableau. Understanding of ETL/ELT concepts; exposure to tools like Airflow or Docker is a plus. Familiarity with data source coming from Excel, CSV, Json. Basic understanding of Git/Bitbucket and cloud platforms (AWS is a plus). Good analytical skills, attention to detail, and willingness to learn Was wir anbieten Leisure & Flexibility Hybrid Work: You can flexibly combine office and remote work. Flexible hours model: Work at your own pace – between 7:30 a.m. and 7:30 p.m. Training & Financial Benefits LinkedIn Learning access: Choose from thousands of courses and continuously develop yourself. Corporate benefits f rom day one – secure exclusive employee discounts. Company pension plan: We support you with an attractive direct insurance. Employee referral program : Recommend us and receive an attractive bonus Health & Well-being FITSEVENELEVEN benefits* – stay fit with discounts at selected fitness clubs. Mental health focus : Our EAP is available to you and your family members. Healthy at work : Occupational health care including eye tests, flu vaccinations, and glasses allowance. Sabbatical : After 2 years of service, you can take a well-deserved break. People & Work Environment Delicious food, subsidized: In the SAMSUNG canteen or at the Foodji* machine. Let’s celebrate! From company breakfasts to the Christmas party – we celebrate successes together. Dog-friendly office : Bring your furry friend – we’re happy to see them! *Note: Applies to our location in Eschborn.

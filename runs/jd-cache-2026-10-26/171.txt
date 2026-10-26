@@ -1,0 +1,11 @@
+URL: https://www.xing.com/jobs/koeln-werkstudent-data-science-process-mining-157180839
+TITLE: Werkstudent:in Data Science/Process Mining
+COMPANY: viadee Unternehmensberatung AG
+LOC: Köln
+POSTED: 2026-08-12
+title: Werkstudent:in Data Science/Process Mining
+company: viadee Unternehmensberatung AG
+posted: 2026-08-12T16:22:58Z
+location: Köln | remote: 
+---
+Worum geht's? Diese Aufgaben warten auf dich Daten- und Prozessanalysen (Python, R, Datenbanken und BPMN) auf Event-Daten von ERP-, Produktionssteuerungs- und Logistik-Systemen Erprobung von Verfahren aus den Bereichen Process Mining, Machine Learning und Datenqualitätsmanagement Software-Entwicklung in Bezug auf Werkzeuge, die entsprechende Verfahren für Fachanwenderinnen anwendbar und den Gesamtprozess der Analyse und Bewertung von Fundstücken steuerbar machen (bspw. mit Python oder im Kontext von PowerBI) Recherchen und Methoden / Werkzeug-Erprobung

@@ -1,0 +1,44 @@
+URL: https://www.stepstone.de/stellenangebote--Site-Reliability-Engineer-m-w-d-Konstanz-Berlin-oder-remote-Konstanz-Berlin-Home-Office-SEITENBAU-GmbH--14383440-inline.html
+TITLE: Site Reliability Engineer (m/w/d) – Konstanz, Berlin oder remote
+COMPANY: SEITENBAU GmbH
+LOC: Konstanz, Berlin, Home-Office
+POSTED: stepstone
+title: Site Reliability Engineer (m/w/d) – Konstanz, Berlin oder remote
+company: SEITENBAU GmbH
+posted: 2026-10-26T03:03:54.957Z
+location: Konstanz | remote: 
+---
+Über uns
+ SEITENBAU ist ein inhabergeführtes Unternehmen, das es seit 1996 gibt. Bei SEITENBAU arbeiten mehr als 300 kreative Köpfe an verschiedensten Softwarelösungen in Scrum Teams. Offene Kommunikation, vertrauensvolle Zusammenarbeit und eine gesunde Mischung aus Praxisbewährtem und cutting edge - das ist das Credo, nach dem wir erfolgreich und mit Spaß arbeiten. Falls du noch mehr über SEITENBAU erfahren möchtest - und das aus Mitarbeitersicht- besuch doch mal unsere kununu Seite. 
+ Deine Aufgaben 
+ Wir suchen dich – einen motivierten und leidenschaftlichen Site Reliability Engineer. 
+Unsere Kund:innen sind vielfältig. Unsere Software-Projekte ebenso.  
+ Wir lassen die großen Visionen unserer Kund:innen Wirklichkeit werden und helfen ihnen dabei die Digitalisierung in Deutschland voranzutreiben. Dabei setzen wir auf unsere Begeisterung für Software-Engineering, Open Source und agiles Mindset. 
+ Du betreibst und verantwortest unsere Entwicklungs- und Infrastrukturplattform auf Basis von Kubernetes, Pulumi / Terraform und Cloud-nativen Technologien mit einem klaren Fokus auf Stabilität, Zuverlässigkeit und langfristiger Wartbarkeit.
+ Du arbeitest eng an der Schnittstelle zwischen Softwareentwicklung und Infrastruktur und bringst ein solides Verständnis für Softwarearchitektur und -entwicklung in die Plattformarbeit ein.
+ Du automatisierst Infrastrukturprozesse konsequent und trägst aktiv dazu bei, manuelle Aufwände zu reduzieren und den Betrieb langfristig wartbar zu gestalten.
+ Du sorgst für ein belastbares Monitoring und Alerting, sodass Probleme frühzeitig sichtbar werden
+ Du übernimmst eine aktive Rolle im Incident Management, analysierst Vorfälle strukturiert, behebst Ursachen nachhaltig und sorgst dafür, dass gewonnene Erkenntnisse direkt in die Weiterentwicklung der Plattform einfließen.
+ Du bist im Rahmen unserer regulären Arbeitszeiten als Ansprechperson erreichbar und stellst damit sicher, dass kritische Vorfälle schnell und zuverlässig adressiert werden.
+ Das bringst du mit
+ Ein abgeschlossenes Studium im Bereich Informatik oder eine vergleichbare Qualifikation
+ Mehrjährige Berufserfahrung in der Entwicklung und dem Betrieb von Cloud-nativen Plattformen und Infrastrukturen 
+ Tiefgreifendes Know-how in Kubernetes - von der Konzeption über den Aufbau bis zum produktiven Betrieb komplexer Cluster-Umgebungen
+ Erfahrung mit Infrastructure-as-Code-Tools, insbesondere Pulumi und / oder Terraform 
+ Verständnis für moderne Softwareentwicklungsprinzipien, idealerweise mit Kenntnissen in Python 
+ Sicheres Urteilsvermögen und eine pragmatische Herangehensweise an komplexe technische Herausforderungen, auch in zeitkritischen Situationen
+ Offenheit für Rufbereitschaft innerhalb der regulären Arbeitszeiten
+ Sehr gute Deutschkenntnisse (mind. C1)
+ Das bieten wir dir
+ Du bist Teil eines selbstorganisierten Teams im agilen Umfeld mit hoher Eigenverantwortung.
+ Durch das breite Technologiespektrum und die Vielfältigkeit unserer Projekte und Kund*innen hast du die Möglichkeit, dich stetig weiterzuentwickeln.
+ Du trittst in ein wachsendes Unternehmen mit langfristiger Perspektive ein.
+ Um optimale Arbeitsbedingungen zu ermöglichen, setzen wir uns für dich und deine Familie ein.
+ Umfangreiche Benefits runden unser Angebot ab.
+ Kontakt
+ Andre Lämmlen , People & Recruiting Manager
+ karriere@seitenbau.com 
+ Jonas Moser , People & Recruiting Manager
+ karriere@seitenbau.com 
+ Marie Braun , People & Recruiting Manager
+ karriere@seitenbau.com

@@ -1,0 +1,55 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-im-Bereich-Vertrieb-KISales-m-w-d-Stuttgart-Allianz-Lebensversicherungs-AG--14659556-inline.html
+TITLE: Werkstudent im Bereich Vertrieb - KI@Sales (m/w/d)
+COMPANY: Allianz Lebensversicherungs-AG
+LOC: Stuttgart
+POSTED: stepstone
+title: Werkstudent im Bereich Vertrieb - KI@Sales (m/w/d)
+company: Allianz Lebensversicherungs-AG 
+posted: 2026-10-19T09:39:07.697Z
+location: Stuttgart | remote: 
+---
+0
+ Willkommen bei der Allianz
+ Für das Vertriebsressort an unserem modernen und innovativen Standort Allianz Park Stuttgart (APS) suchen wir ab einem Zeitraum von 6 Monaten einen Werkstudenten (m/w/d).
+ Das Vertriebsressort der Allianz-Lebensversicherungs-AG hat das Ziel, mit innovativem KI-Einsatz Daten und Vertriebswissen in vertriebliche Wertschöpfung zu verwandeln und damit nachhaltig die verschiedenen Vertriebskanäle zu unterstützen.
+ Eingebettet in das Projektteam „KI@Sales" im Fachbereich Vertriebssteuerung, wirkst du an wegweisenden Maßnahmen zum KI-Upskilling und der Produktivsetzung von KI-Anwendungsfällen mit. Kreative Impulse, Eigeninitiative und das Einsteuern deines fachlichen Knowhows sind dabei hochwillkommen!
+ Wir bieten Dir die Möglichkeit eigenständig Verantwortung für einzelne Themen und Projekte zu übernehmen, Erfahrungen im Umgang mit KI in einem DAX-Unternehmen und dem Rollout von Schulungsinitiativen zu sammeln und vom Sparring in einem erfahrenen Team zu lernen.
+ Ideale Bewerber:innen sind angehende, hochmotivierte, leidenschaftliche Problemlöser:innen mit analytischen Fähigkeiten, die in der Lage sind sowohl kritisch und kreativ zu denken, als auch selbstbewusst bei der Umsetzung der Ziele von „KI@Sales" mitzuwirken. Du studierst im Bereich Advanced Analytics / Data Science und hast idealerweise ein erstes Verständnis der Prozesse der Finanz- und Versicherungsbranche und willst fundierte praktische Erfahrungen sammeln? Dann bist du bei uns goldrichtig!
+ Das erwartet Dich bei uns als Werksstudent (m/w/d)
+ Du begleitest die Implementierung und Evaluation von passenden KI-Lösungen und Prototypen und stimmst dich bei der Umsetzung von KI-Anwendungsfällen (Use Cases) im vertrieblichen Kontext mit den relevanten Stakeholdern ab.
+ Du begleitest das Durchlaufen von KI-Governance Prozessen für die Freigabe von KI-Use Cases von der Ideation-Phase bis zum Produktivgang
+ Du planst, organisierst KI-Informations- und Schulungsveranstaltungen (Workshops, Community of Practice, Challenges, Hackathons, …)
+ Du unterstützt bei der Vor- und Nachbereitung von Workshops, bei der Erstellung von Fach- und Stakeholder-Präsentationen und übernimmst PMO- und Koordinations-Tätigkeiten des Kernteams „KI@Sales".
+ Du verprobst neue KI-Funktionalitäten zur täglichen Produktivitätssteigerung (MS Copilot, Claude,…) und wendest relevante Tools aus dem Machine Learning /(Generative) KI-Kontext an
+ Dein Profil
+ Das bringst Du mit als Werksstudent (m/w/d)
+ Du bist in Data Science, Datenwissenschaften, Statistik, Informatik, Mathematik, Operations Research oder einem anderen vergleichbaren Studiengang eingeschrieben.
+ Du zeigst Offenheit für kreative und innovative Lösungen sowie Freude am Umgang mit zukunftsweisenden Technologien
+ Gute fachliche Kenntnisse hinsichtlich der Wirkweise von klassischer KI und GenAI - verstärkt im Schulungskontext (z.B. Tutor o.Ä.)
+ Erste Erfahrung in der Produktivsetzung von Data Science Use Cases
+ Fundierte analytische Fähigkeiten und hohe Einsatzbereitschaft
+ Gute Kommunikations- und Teamfähigkeit, auch in bereichsübergreifenden und internationalen Teams
+ Pragmatische und ergebnisorientierte Arbeitsweise
+ Du bist 1-2 Tage, insbesondere zu den Teamtagen, vor Ort im Allianz Park Stuttgart (APS).
+ Pluspunkt: Praktische Erfahrung im Bereich Data Science, KI-Upskilling, Change Management (z.B. Praktika, studentische Tätigkeiten)
+ Pluspunkt: Erfahrung mit Kernprozessen der Versicherung ist von Vorteil (z.B. Tätigkeit als Business Analyst)
+ Pluspunkt: Du hast Erfahrung in einer Programmiersprache (z.B. Python, R, SQL) und kennst dich mit Datenmanagement aus.
+ Was wir bieten
+ Unsere Highlights für Dich:
+ Gesundheit & Wohlbefinden: Zahlreiche Sport- und Gesundheitsangebote sowie Präventionsmaßnahmen legen den Grundstein für deine körperliche und mentale Gesundheit. 
+ Vergütung: Neben einer attraktiven Vergütung erwartet dich ein monatlicher Fahrtkostenzuschuss in Höhe von 30,00 € sowie ein täglicher Mittagessenszuschuss in unseren hervorragenden Mitarbeitendenrestaurants.
+ Zeit & Flexibilität: Mit unserem Modell „Neues Arbeiten" können Beruf und Privatleben noch besser vereinbart werden. Wir arbeiten flexibel, hybrid, mobil und vor Ort.
+ Karriereentwicklung: Umfassende Bildungsmöglichkeiten in Form von Schulungen sowie Zugang zu LinkedIn Learning oder Degreed ermöglichen eine kontinuierliche Weiterentwicklung.
+ Eine vollständige Übersicht darüber, was uns als Arbeitgeber attraktiv macht, findest du unter careers.allianz.com/benefits.
+ Kontakt
+ Besetzungstermin: schnellstmöglich 
+ Interesse? Dann freuen wir uns auf Deine Bewerbung online auf unserer Karriereseite – careers.allianz.com.
+ Bei technischen und fachlichen Fragen stehen Dir die Kollegen:innen vom recruiting-operations@allianz.de zur Verfügung. 
+ Hinweis: Die Allianz in Deutschland hat ein internes Rekrutierungsteam, das sich auf die direkte Suche nach hervorragenden Kandidat:innen konzentriert. Es werden keine unaufgeforderten Bewerbungen von Vermittlungsagenturen oder Personalvermittlungsfirmen akzeptiert. 
+ Seit 1890 setzt sich die Allianz als weltweit führender Versicherer, Finanzdienstleister und Vermögensverwalter für die Sicherheit unserer Kund:innen und Mitarbeitenden ein. Darüber hinaus sind wir ein ausgezeichneter Arbeitgeber: 2025 wurde die Allianz in Deutschland Preisträger bei Great Place to Work „Deutschlands Beste Arbeitgeber". Unsere Mitarbeitenden liegen uns am Herzen, und gemeinsam schaffen wir eine bessere Lebenswelt und Zukunft für uns und unsere Kund:innen.
+ Die Allianz Lebensversicherungs-AG ist Marktführer in der privaten und betrieblichen Altersvorsorge und Deutschlands größter Lebensversicherer. Über 10 Millionen Kunden profitieren von unserer einzigartigen Finanzstärke und Stabilität. Innovation ist die Basis unseres Erfolgs -und das seit über 100 Jahren. Werde Teil unseres dynamischen Teams und gestalte die Zukunft gemeinsam mit uns.
+ Was uns als Arbeitgeber attraktiv macht, erfährst Du unter https://careers.allianz.com .
+Die Allianz Gruppe ist eines der weltweit führenden Versicherungs- und Vermögensverwaltungsunternehmen. Wir kümmern uns um unsere Mitarbeitenden, ihre Ziele, Träume und Herausforderungen und machen uns dadurch zu einem einzigartigen Arbeitgeber. Gemeinsam schaffen wir ein Umfeld, in dem sich jeder unterstützt fühlt und das Selbstvertrauen hat, Neues zu entdecken, sich zu entwickeln und eine bessere Zukunft zu gestalten, für unsere Kundinnen und Kunden und die Welt um uns herum.
+ Bei der Allianz stehen wir für Zusammenhalt: Wir glauben, dass eine geeinte Welt eine zukunftsfähige Welt ist, und setzen uns konsequent für Chancengleichheit für alle ein. Die Grundlage dafür ist unser inklusiver Arbeitsplatz, an dem sowohl Mensch als auch Leistung zählen und eine Kultur gepflegt wird, die auf Integrität, Fairness, Inklusion und Vertrauen basiert.
+ Wir freuen uns über Bewerbungen von Menschen aller ethnischen und kulturellen Hintergründe, Altersgruppen, Geschlechter, Nationalitäten, Religionen, sozialen Herkünfte, Menschen mit oder ohne Behinderung sowie unterschiedlicher sexueller Orientierung und anderer durch lokale Gesetze und Vorschriften geschützter Merkmale. 
+ Join us. Let's care for tomorrow.

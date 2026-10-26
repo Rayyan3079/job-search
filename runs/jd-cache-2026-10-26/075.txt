@@ -1,0 +1,38 @@
+URL: https://www.stepstone.de/stellenangebote--SAP-IBP-Inhouse-Consultant-m-w-x-Corporate-IT-Jena-Berlin-Oberkochen-bei-Ulm-Muenchen-ZEISS--12987331-inline.html
+TITLE: SAP IBP Inhouse Consultant (m/w/x) Corporate IT
+COMPANY: ZEISS
+LOC: Jena, Berlin,Oberkochen (bei Ulm), München
+POSTED: stepstone
+title: SAP IBP Inhouse Consultant (m/w/x) Corporate IT
+company: ZEISS
+posted: 2026-10-23T12:11:16.203Z
+location: Jena, Berlin,Oberkochen (bei Ulm), München | remote: 
+---
+Sich etwas Neues trauen, über sich hinauswachsen und dabei die Grenzen des Machbaren neu definieren. Genau das ist es, was unsere Mitarbeitenden täglich leben dürfen und sollen. Um mit unseren Innovationen ein Zeichen zu setzen und Großartiges zu ermöglichen. Denn hinter jedem erfolgreichen Unternehmen stehen eine ganze Menge faszinierende Menschen.
+ In einem offenen und modernen Umfeld mit zahlreichen Entwicklungs- und Weiterbildungsmöglichkeiten, arbeiten die Mitarbeitenden bei ZEISS in einer Kultur, die von Expertenwissen und Teamgeist geprägt ist. All das wird getragen von der besonderen Eigentümerstruktur und dem langfristigen Ziel der Carl-Zeiss-Stiftung: Wissenschaft und Gesellschaft gemeinsam voranzubringen.
+ Heute wagen. Morgen begeistern.
+ Vielfalt ist ein Teil von ZEISS. Wir freuen uns unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion, Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität auf Ihre Bewerbung.
+ Jetzt, in weniger als 10 Minuten bewerben.
+ Ihre Rolle
+ Die Corporate IT (CIT) der Carl Zeiss AG verantwortet die IT für alle Unternehmensbereiche von ZEISS. Die Vielfältigkeit des ZEISS Portfolios birgt eine spannende Komplexität besonders im ERP-Umfeld.
+ Aus diesem Grund suchen wir für den Stream Plan-to-Produce einen erfahrenen SAP IBP Inhouse Consultant (m/w/x).
+ Als unternehmensinterner Berater innerhalb der Konzernfunktion IT betreuen Sie die Weiterentwicklung und Anpassung (Customizing & Entwicklung) im Supply Chain- und Produktionsumfeld innerhalb des SAP ERP weltweit für die ZEISS Business Units.
+ Ihre Aufgabe 
+ Schwerpunkte werden im Zuge der Digitalisierung die Gesamtabbildung der Geschäftsprozesse über die ERP-Grenzen hinaus und die Transformation der SAP R/3 Landschaft hin zu SAP S/4 HANA sein
+ Hierbei begleiten Sie den gesamten LifeCycle von der Ideengebung über die Implementierung bis hin zu Schulung und Support von Lösungen
+ Dabei greifen Sie sowohl in der inhaltlichen Umsetzung als auch beim Projektmanagement, auf Werkzeuge der agilen und traditionellen Projektmanagementmethoden zurück
+ Sie bilden als Teil des technischen SAP Teams, mit Systemverantwortung, die gestalterische Brücke zu den Fachbereichen und beraten unterstützend die SAP-Key-User verschiedener internationaler Abteilungen und steuern bei Bedarf externe IT-Partner
+ Im Projektgeschäft besteht die Hauptfunktion in der Aufnahme, Überführung und Realisierung von Business-Anforderungen. Des Weiteren stehen Sie in Fragesituationen dem Business als Erster Ansprechpartner mit Rat und Tat zur Seite.
+ Zur Sicherstellung der Produktstabilität, sind Sie für eine saubere Testvorbereitung und deren Koordination mit den dafür vorgesehenen Tools zuständig.
+ Mitwirkung und fachspezifische Verantwortung innerhalb globaler M&A- und SAP-Rolloutprojekten
+ Teil eines global aufgestellten Teams mit globaler Delivery und inhaltlicher Unterstützung
+ Ihr Profil
+ Erfolgreich abgeschlossenes Studium der (Wirtschafts-)Informatik, (Wirtschafts-)Ingenieurwesen, Mathematik bzw. äquivalente Ausbildung
+ Mehrjährige einschlägige Berufserfahrung in der Durchführung von IT-Projekten innerhalb der SAP-Produktions- und Logistikabwicklung im produzierenden Gewerbe
+ Sie haben ein Verständnis für den logischen Ablauf eines Plannungsprozesses für Endprodukte wie auch Komponenten; Alternativ sind Sie mit der Materialbedarfsplanung vertraut und die Schnittstellen zu angrenzenden Prozessen sind Ihnen nicht fremd.
+ Die Bedeutung der relevanten Stammdaten für den Planung- und Materialbedarfsplannungsprozess sind Ihnen bekannt, sowie ein Verständnis von Datenstrukturen und deren Abhängigkeiten untereinander.
+ Ihre Schwerpunkte befinden sich in der Abbildung komplexer Plannungsprozesse im MTS- und MTO-Scenario; Überwachung und Realisierung der Schnittstelle zwischen dem ERP- und IBP-Systemen; Erstellung von Prozessen im Signavio und deren Ausprägung im IBP in Abstimmung mit dem Business.
+ Erste Erfahrungen zur Integration eines Planungssystems (wie Bspw. SAP APO) sind von Vorteil
+ Eine gewisse Reisebereitschaft und sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift runden ihr Profil ab
+ Kontakt
+Christian Hohaus, Lisa Briesner

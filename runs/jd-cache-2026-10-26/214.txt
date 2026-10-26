@@ -1,0 +1,58 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-in-KI-Entwicklung-gn-Schwerpunkt-Python-AI-Applications-Duesseldorf-Handelsblatt-GmbH--14593377-inline.html
+TITLE: Werkstudent:in KI-Entwicklung (gn) - Schwerpunkt Python & AI Applications
+COMPANY: Handelsblatt GmbH
+LOC: Düsseldorf
+POSTED: stepstone
+title: Werkstudent:in KI-Entwicklung (gn) - Schwerpunkt Python & AI Applications
+company: Handelsblatt GmbH
+posted: 2026-10-24T11:03:17.723Z
+location: Düsseldorf | remote: 
+---
+Die HANDELSBLATT MEDIA GROUP GMBH & CO. KG , ein Unternehmen der Dieter von Holtzbrinck Medien, ist das führende Medienunternehmen für Wirtschafts- und Finanzinformationen in Deutschland und Europa. Mit großen Marken wie Handelsblatt und WirtschaftsWoche, zahlreichen Fachpublikationen, einem breiten multimedialen Angebot und einem globalen redaktionellen Netzwerk sorgen wir für Orientierung, Meinungsbildung und Dialog. Knapp 1000 Mitarbeiter:innen tragen täglich dazu bei, die Verbreitung wirtschaftlichen Sachverstands kraftvoll in die Tat umzusetzen.
+ Das Handelsblatt ist Deutschlands führende Wirtschafts- und Finanzzeitung, die auch international Gehör findet. Mit fundiertem und unabhängigem Qualitätsjournalismus informieren wir börsentäglich die Top-Entscheider:innen der deutschen Wirtschaft schnell und umfassend mit klaren Analysen zu allen wirtschaftsrelevanten Themen. Mit einem großen Auslandskorrespondenten-Netzwerk ist das Handelsblatt in allen wichtigen Wirtschaftszentren der Welt vertreten. Substanz entscheidet – auf allen Kanälen, zu jeder Zeit.
+ Wenn auch Du etwas bewegen willst und Dein Mut genauso groß ist wie Dein Qualitätsanspruch, dann bist Du bei uns genau richtig.
+ Du unterstützt unser KI-Team bei der Entwicklung und dem Betrieb moderner AI-Produkte für die Handelsblatt Media Group. Dabei arbeitest Du nicht an isolierten Übungsprojekten, sondern an produktiven Anwendungen, die täglich von Redaktionen, B2B-Kunden und digitalen Produkten genutzt werden. Unser Team entwickelt zentrale KI-Produkte und Plattformen für die Handelsblatt Media Group. Du erhältst die Möglichkeit, moderne KI-Technologien nicht nur kennenzulernen, sondern aktiv an ihrer Umsetzung in produktiven Anwendungen mitzuwirken.
+ Wir suchen am  Standort Düsseldorf ab sofort eine:n
+ Werkstudent:in im Bereich KI-Entwicklung – Schwerpunkt Python & AI Applications 
+ Damit überzeugen WIR dich:
+ Umsetzung kleinerer Features, Tickets und technischer Verbesserungen in unserem Python-Stack
+ Unterstützung bei der Entwicklung moderner KI-Anwendungen auf Basis von Large Language Models (LLMs)
+ Entwicklung und Erweiterung von Backend-Services, APIs und Integrationen rund um unsere AI-Plattform
+ Mitarbeit an Themen wie Agentic AI, Retrieval-Augmented Generation (RAG), Embeddings und Wissenssystemen
+ Unterstützung bei der Integration von KI-Modellen und externen AI-Services (z. B. OpenAI)
+ Analyse, Testing und Qualitätssicherung neuer Features
+ Mitarbeit an B2B-Produkten und internen AI-Lösungen für Redaktionen, Fachbereiche und Kunden
+ Dokumentation technischer Konzepte und Unterstützung bei Proof-of-Concepts
+ Damit überzeugst Du uns:
+ Laufendes Studium der Informatik, Wirtschaftsinformatik oder eines vergleichbaren Studiengangs
+ Erste praktische Erfahrung mit Python
+ Grundlegendes Verständnis moderner Softwareentwicklung und API-basierter Systeme
+ Interesse an Künstlicher Intelligenz, Machine Learning und modernen Cloud-Technologien
+ sehr gute Deutschkenntnisse (Niveau C1)
+ Strukturierte und eigenständige Arbeitsweise
+ Hohe Lernbereitschaft und Freude daran, neue Technologien auszuprobieren
+ Von Vorteil sind erste Erfahrungen mit:
+ Django, FastAPI oder vergleichbaren Python-Frameworks
+ Git und GitHub
+ Docker und Container-Technologien
+ Kubernetes oder Cloud-Plattformen wie Azure
+ OpenAI, LangChain, Langfuse oder vergleichbaren AI-Frameworks
+ Vektordatenbanken, Suchtechnologien oder RAG-Architekturen
+ WIR bieten:
+ Direkte Mitarbeit an produktiven KI-Produkten statt theoretischer Forschungsprojekte
+ Einblicke in moderne AI-Entwicklung mit OpenAI, Agentensystemen und AI-Plattformen
+ Arbeit mit aktuellen Technologien rund um Python, Cloud Native, Kubernetes und moderne Softwarearchitekturen
+ Eigenverantwortung und die Möglichkeit, schnell sichtbare Ergebnisse zu liefern
+ Tiefe Einblicke in die Entwicklung digitaler Medienprodukte eines der führenden Wirtschafts- und Medienhäuser Deutschlands
+ Eine wertschätzende Arbeitsatmosphäre
+ Ein motiviertes Team, was auch außerhalb der Arbeit gut drauf ist
+ Ein modernes Arbeitsumfeld
+ Mobiles Arbeiten / Home Office anteilig möglich
+ Starttermin: ab sofort
+ Unterschiedliche kulturelle und gesellschaftliche Hintergründe finden wir toll, Menschen mit Behinderung wollen wir gerne proaktiv integrieren. Dabei sind wir sicher noch nicht an allen Stellen perfekt. Egal, was in deinem bisherigen Lebenslauf steht: Wenn du für das Thema Wirtschaft brennst und du dich mit journalistischen Werten wie Unabhängigkeit, Unvoreingenommenheit und Gründlichkeit identifizierst, dann bewirb dich bei uns, der Handelsblatt Media Group. Wir freuen uns über alle Bewerber:innen, unabhängig von Herkunft, Nationalität, Hautfarbe, Religion, Alter, Geschlecht, Geschlechtsidentität oder sexueller Orientierung. Bewerbungen von schwerbehinderten und ihnen gleichgestellten Menschen sind ausdrücklich erwünscht. Wir unterstützen sie im gesamten Auswahlprozess und fördern eine inklusive Arbeitswelt.
+ Haben wir dein Interesse geweckt?
+ Dann sende deine aussagekräftigen Bewerbungsunterlagen an Christopher Schweinfurth.
+ Wir freuen uns auf Dich!  
+ Christopher Schweinfurth
+Werkstudent HR
+ c.schweinfurth@handelsblattgroup.com

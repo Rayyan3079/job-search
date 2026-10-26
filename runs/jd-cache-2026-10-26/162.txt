@@ -1,0 +1,48 @@
+URL: https://www.stepstone.de/stellenangebote--Working-Student-AI-Automation-Procurement-m-f-d-Gilching-Quantum-Systems-GmbH--14555463-inline.html
+TITLE: Working Student - AI Automation, Procurement (m/f/d)
+COMPANY: Quantum-Systems GmbH
+LOC: Gilching
+POSTED: stepstone
+title: Working Student - AI Automation, Procurement (m/f/d)
+company: Quantum-Systems GmbH
+posted: 2026-10-14T21:03:10.387Z
+location: Gilching | remote: 
+---
+About us:
+ Quantum Systems specialises in the development, design, and production of small Unmanned Aerial Systems (sUAS). The company’s range of electric vertical take-off and landing (eVTOL) sUAS are built to maximize range and versatility and to provide operators with a seamless user experience. By integrating cutting-edge software capabilities, like edge computing and real-time AI-powered data processing, Quantum Systems is building next-generation UAS for clients in defence, security, public sectors.
+ What is your Day to Day Mission:
+ As a Working Student in AI Automation, you will help turn promising opportunities for automations into working solutions that make a measurable difference. Together with our Process & Automation Manager and Procurement team, you will develop practical MVPs that reduce repetitive work and create more time for strategic procurement activities.
+ You will take ownership of a portfolio of AI automation use cases, from assessing and prioritizing opportunities to rapidly developing and validating MVPs. Beyond individual use cases, you will help build a scalable solution for implementing, expanding and maintaining AI automations across the organization. You will own the solutions you create throughout their lifecycle, from initial concept to reliable day-to-day operation.
+ Evaluate and prioritize AI automation use cases based on impact, feasibility and user needs
+ Translate procurement processes and pain points into practical solution concepts
+ Build MVPs for AI agents and workflow automations with integrations into the ERP Test solutions with end users and improve them based on feedback
+ Document process logic, results and realized efficiency gains
+ Prepare successful MVPs for scaling, integration or handover
+ Explore new AI capabilities and identify further automation opportunities
+ What you bring to the team:
+ You are currently studying business informatics, computer science, data science, engineering, business administration or a comparable subject 
+ You have a strong interest in generative AI, AI agents and process automation
+ You bring initial practical experience with programming, automation or low-code tools
+ You enjoy understanding processes and turning ideas into simple, working solutions
+ You approach problems analytically and are comfortable experimenting with new technologies
+ You bring a continuous improvement mindset and are confident challenging the status quo
+ You work independently, communicate openly and actively seek feedback
+ Experience with APIs, Python, workflow tools or ERP systems such as NetSuite is an advantage
+ You communicate confidently in English; German is an advantage
+ We offer
+ Why Quantum-Systems: 
+ We believe in the power of combined efforts: straightforward tech expertise paired with a customer-centric focus.
+ We are industry pioneers who are ambitious, bold, and visionary.
+ We push limits, think outside-the-box and strive for technological excellence to shape the future of aerial data.
+ We promise to be your runway for individual and professional growth.
+ Our benefits: 
+ Flexible working hours: With trust-based working hours, you are not only responsible for your working hours, but also for your work-life balance.
+ Mobile working: If it gets too turbulent for you in our office, you can get the necessary balance through mobile working.
+ Stay active: With EGYM Wellpass, you get access to thousands of fitness and sports facilities — and of course, we subsidize the membership.
+ Corporate Benefits: Your opportunity for attractive offers and discounts from well-known suppliers and brands, e.g. Adidas, Apple, Expedia.
+ Employee events: We not only want to grow together, but also celebrate our successes together.
+ Lunch-Card: Be powerful with delicious energy, daily lunch budget is sponsored.
+ Company Shuttle: Enjoy our convenient shuttle service that picks you up from Laim in Munich and brings you to our location, with return trips at the end of the workday.
+ Our commitment: 
+ We are an open-minded company that not only values diversity, but actively promotes it. Regardless of gender, age, ethnic origin, religion, sexual orientation or disability, we firmly believe that the diversity of our employees is an essential part of our success.
+ At our company, every voice is heard and every perspective is valued. We believe that our differences enrich us and help us to find creative solutions and generate innovative ideas. We pride ourselves on creating an inclusive work environment where all employees can reach their full potential.

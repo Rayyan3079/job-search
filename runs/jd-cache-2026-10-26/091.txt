@@ -1,0 +1,52 @@
+URL: https://www.stepstone.de/stellenangebote--SAP-Application-Manager-Record-to-Report-m-w-d-bundesweit-SVA-System-Vertrieb-Alexander-GmbH--14544669-inline.html
+TITLE: SAP Application Manager – Record to Report (m/w/d)
+COMPANY: SVA System Vertrieb Alexander GmbH
+LOC: bundesweit
+POSTED: stepstone
+title: SAP Application Manager – Record to Report (m/w/d)
+company: SVA System Vertrieb Alexander GmbH
+posted: 2026-10-10T22:03:05.23Z
+location: bundesweit | remote: 
+---
+Werden auch Sie Teil der SVA-Community!
+ Die Central IT der SVA betreibt und entwickelt die internen Applikationen entlang der zentralen Geschäftsprozesse – von der Strategie über die Implementierung bis zum Betrieb. Im Zuge des Wandels von der On-Premise- in eine Cloud-Landschaft verschiebt sich der Schwerpunkt von der klassischen Entwicklung hin zur prozessorientierten Applikationsverantwortung. Als SAP Application Manager – Record to Report (m/w/d) verantworten Sie den SAP-seitigen Finanzabschlussprozess von der Buchung bis zum Reporting, übersetzen fachliche Anforderungen in tragfähige SAP-Lösungen und agieren als kommunikative Schnittstelle zwischen Fachbereich, IT und Dienstleistern. 
+ Ihre Aufgaben
+ Sie verantworten den SAP-Standard im Record-to-Report-Prozess (Hauptbuch, Controlling, Abschluss und Reporting) fachlich – von Customizing und Konfiguration bis zur Weiterentwicklung in SAP FI und CO.
+ Sie konfigurieren Buchungskreise, Kontenpläne, Kostenstellenhierarchien und Ergebnisbereiche und betreuen die Anlagenbuchhaltung sowie Kosten- und Erlösströme in SAP CO.
+ Als kommunikativer Ansprechpartner beraten Sie die Fachabteilungen, nehmen Stakeholder mit und schaffen Akzeptanz für Veränderungen.
+ Sie begleiten S/4HANA-Migrationsprojekte (Universal Journal, neues Hauptbuch) und die halbjährlichen Cloud-Release-Zyklen und unterstützen bei Abschlussproben und Go-Lives.
+ Sie koordinieren User-Acceptance-Tests, übernehmen den 1st- und 2nd-Level-Support für Finance und Controlling und dokumentieren Lösungen nachvollziehbar und unterstützen bei 3rd Level-Support Anfragen.
+ Ihr Profil
+ Kaufmännisches Verständnis – etwa durch ein Studium der Wirtschaftsinformatik bzw. Betriebswirtschaftslehre mit Schwerpunkt Rechnungswesen/Controlling oder durch eine Qualifikation als Bilanzbuchhalter (m/w/d) mit IT-Affinität; ein Studium ist willkommen, aber kein Muss.
+ Mehrjährige SAP-Erfahrung im Finance- und Controlling-Umfeld, idealerweise als SAP FI/CO Consultant oder erfahrener Key User.
+ Gute Kenntnisse in SAP FI-GL, FI-AA sowie SAP CO und ein gutes Verständnis buchhalterischer Grundlagen (HGB, IFRS).
+ Kenntnisse in SAP Group Reporting bzw. SEM-BCS und Erfahrung mit SAP S/4HANA Finance (Universal Journal) sind von Vorteil.
+ Ausgeprägte Kommunikationsstärke und Freude an der Beratung von Fachbereichen sowie die Bereitschaft, in einem Cloud-Transformationsumfeld Applikationsverantwortung zu übernehmen.
+ Ihre Vorteile
+ Flexibilität: Unsere Teams entscheiden sich je nach Aufgabengebiet, welche Aufteilung zwischen mobilem Arbeiten und Präsenz vor Ort sinnvoll ist. Zudem bieten wir flexible Arbeitszeiten und 30 Urlaubstage.
+ Corporate Benefits: Sie haben die Möglichkeit, monatlich wechselnde, attraktive Mitarbeiterrabatte zu nutzen.
+ Vorsorgen für die Zukunft: Profitieren Sie von einer betrieblichen Altersvorsorge mit Arbeitgeberzuschuss.
+ Weiterbildung: Wir unterstützen Ihre persönliche und berufliche Entwicklung mit einem vielseitigen Schulungsangebot – von internen Trainings durch erfahrene Kollegen bis hin zu externen Weiterbildungen.
+ Individueller Start: Ein umfassendes Onboarding-Event ermöglicht Ihnen den idealen Einstieg.
+ Kultur & Zusammenarbeit: Wir leben eine Unternehmenskultur mit offenen Türen und wertschätzender Atmosphäre, in der Ihre Eigeninitiative sowie Ihr Engagement gefördert werden.
+ Moderne Ausstattung: Sie erhalten ein Smartphone und Notebook mit Betriebssystem nach Wahl.
+Als inhabergeführtes, unabhängiges Systemhaus, mit Leidenschaft, Bodenhaftung und hoher Servicequalität begleiten wir unsere Kunden von der Planung bis zum Betrieb. Deutschlandweit stehen wir als Partner für zukunftssichere IT-Lösungen und legen besonders großen Wert auf den persönlichen Austausch.
+Weitere Informationen zu uns finden Sie auf unserer Karriereseite: www.sva.de/de/karriere 
+ Wir freuen uns auf Ihre Bewerbung!
+ Solange
+ diese Position auf unserer Karriereseite sichtbar ist, können Sie sich 
+gerne darauf bewerben – es gibt keine Bewerbungsfrist. 
+Bitte senden Sie uns folgende Bewerbungsunterlagen ausschließlich online über unser Bewerbungsformular:
+ Anschreiben
+ Lebenslauf
+ Zeugnisse
+ Gehaltsvorstellung
+ Eintrittsdatum
+ Remark: All positions require fluent German language skills (level C1 or above) 
+ Hier bewerben 
+ SVA System Vertrieb Alexander GmbH
+Jörn Schanz
+ Personalreferent Recruiting
+ Borsigstraße 26
+ 65205 Wiesbaden
+ Homepage: www.sva.de

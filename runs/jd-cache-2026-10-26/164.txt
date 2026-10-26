@@ -1,0 +1,41 @@
+URL: https://www.xing.com/jobs/hamburg-werkstudent-hospitality-research-data-154338426
+TITLE: Werkstudent (m/w/d) Hospitality Research & Data
+COMPANY: Leisure One GmbH
+LOC: Hamburg
+POSTED: 2026-08-24
+title: Werkstudent (m/w/d) Hospitality Research & Data
+company: Leisure One GmbH
+posted: 2026-08-24T13:59:57Z
+location: Hamburg | remote: 
+---
+Studien-Programm und datengetriebene Recherche für die gehobene Hotellerie, Gastronomie und Touristik 
+ Hospitality und Lifestyle von den Alpen bis an die Küste. Als inhabergeführte Partner der Hospitality Industrie haben wir uns national und international auf die ganzheitliche Beratung und Vermarktung von Kunden aus der gehobenen Hotellerie und Tourismusbranche spezialisiert. Unser Leistungsspektrum reicht von strategischer Beratung über hochwertige Content-Produktionen bis hin zu datengetriebenem Online-Marketing.
+ Ab 2026 starten wir ein ambitioniertes Studien-Programm: fünf jährlich wiederkehrende Branchen-Reports, die Maßstäbe in der digitalen Hospitality-Welt setzen — beginnend mit dem Hotel Digital Index DACH. Für den Aufbau und Betrieb der Research-Infrastruktur dahinter suchen wir dich.
+ Aufgaben
+ Deine Rolle 
+ Du wirst Teil unseres Strategie- und Redaktions-Teams und arbeitest an der Schnittstelle aus Hospitality-Branchenwissen, datengetriebener Recherche und KI-gestützter Analyse: 
+ Aufbau und Betrieb unserer Studien-Pipeline — Python-Skripte gegen APIs wie PageSpeed Insights, Sistrix und OtterlyAI, Datenhaltung in Airtable
+ Strukturierte Datenerhebung für unsere Branchen-Studien — von 200 Hotelwebsites bis zu AI-Sichtbarkeit und Direktbuchungs-UX-Audits
+ Erstauswertungen und Vorbereitung von Charts in Datawrapper und Pandas
+ Recherche-Unterstützung für Pillar Pages und Glossar-Beiträge mit nachvollziehbaren Quellen
+ Mitwirkung beim AI-Sichtbarkeits-Monitoring für unsere Kunden (Brand Mentions in ChatGPT, Perplexity, Gemini, AI Overviews)
+ Dokumentation und Weiterentwicklung der Pipeline — damit unsere Studien jährlich reproduzierbar laufen
+ Qualifikation
+ Dein Profil 
+ Fortgeschrittenes Bachelor- oder Masterstudium (Wirtschaftsinformatik, Tourismusmanagement, Hospitality, Statistik, Data Science, Marketing mit Quant-Schwerpunkt oder Vergleichbares)
+ Sehr gute Excel- oder Google-Sheets-Kenntnisse — Pivot, Verschachtelung, idealerweise Power Query
+ Grundkenntnisse in Python (Pandas, einfache API-Calls) oder die klare Bereitschaft, das mit unseren Tools (Claude Code, ChatGPT) schnell aufzubauen
+ Strukturierte, gewissenhafte Arbeitsweise — Daten dürfen nicht „ungefähr" sein
+ Affinität zur Hospitality: ein Gespür für gehobene Hotellerie, Gastronomie und Tourismus ist ein klarer Plus
+ Neugier auf Generative AI, AI-Suche und neue Mess-Methoden
+ Sehr gute Deutsch- und gute Englisch-Kenntnisse
+ Benefits
+ Eine seltene Werkstudenten-Stelle: Du baust eine Funktion auf, die so in der DACH-Hospitality noch nicht existiert — eigene, jährlich wiederholbare Branchen-Studien. Deine Arbeit landet nicht in einer Schublade, sondern als sichtbares Asset in der Branche und in der Fachpresse. 
+ Flexibilität, die zu deinem Leben passt: Loft-Büro in Hamburg-Eppendorf (wenige Gehminuten zu U1 und U3) oder Home-Office, mit Abstimmung auf deine Vorlesungszeiten
+ Arbeitszeit: 16–20 Stunden pro Woche, in der vorlesungsfreien Zeit auch mehr
+ Hardware & Tools: Aktueller Apple-Laptop, modernes Tool-Set inkl. Claude (Premium), Sistrix, Airtable, OtterlyAI
+ Wachstum: Direkte Zusammenarbeit mit der Geschäftsführung und unserem Senior-Team. Realistische Übernahmechance nach dem Studium
+ Mobilität: Bezuschusstes Deutschlandticket oder JobRad
+ Fitness & Wellness: EGYM Wellpass auf Wunsch
+ Team: Inhabergeführt, flache Hierarchien, kurze Entscheidungswege, partnerschaftliches Miteinander
+ Wenn dich der Gedanke reizt, in einer wachstumsstarken Nische die nächste Generation datengetriebener Hospitality-Research mit aufzubauen, freuen wir uns auf deine Bewerbung — Lebenslauf, kurzes Motivationsschreiben und idealerweise ein Beispiel deiner bisherigen Arbeit (Studienprojekt, Analyse, Skript, Dashboard — was du zeigen möchtest).

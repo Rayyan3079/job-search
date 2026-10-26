@@ -1,0 +1,39 @@
+URL: https://www.stepstone.de/stellenangebote--WERKSTUDENT-IT-SECURITY-M-W-D-Deutschland-ARCA-Consult-GmbH--12805073-inline.html
+TITLE: WERKSTUDENT IT SECURITY (M/W/D)
+COMPANY: ARCA-Consult GmbH
+LOC: Deutschland
+POSTED: stepstone
+title: WERKSTUDENT IT SECURITY (M/W/D)
+company: ARCA-Consult GmbH
+posted: 2026-10-14T23:03:11.427Z
+location: Deutschland | remote: 
+---
+Theorie in der Praxis vertiefen
+ Wir wollen dir die Chance geben, praktische Erfahrungen zu deinen erworbenen Kenntnissen zu erlangen. Dies kannst du neben Forschungsprojekten und enger Zusammenarbeit mit Partneruniversitäten auch direkt bei uns im Tagesgeschäft „erleben“ und unser Team durch deinen Beitrag unterstützen. Wir geben dir den Ort, an dem du dein Wissen vertiefen, neue Fähigkeiten erwerben und Ideen umsetzen kannst.
+ Susan Sommer
+ HR Manager, Recruiting
+ Aufgaben
+ Du unterstützt unsere IT Security Consultants/Engineers im Tagesgeschäft, beispielsweise bei IT Security-Projekten, Recherchearbeit, Dokumentation.
+ Du wirkst bei der Konfiguration von Security Software mit, beispielsweise für den Bereich Identity/ Access Management und Privileged Access Management.
+ Du unterstützt unser Team bei der System- und Netzwerkadministration.
+ Du administrierst Windows Server und Clients sowie Linux Server.
+ Du hilfst bei der Implementierung von Unternehmenssoftware (im Rahmen des ISMS).
+ Du unterstützt bei der Vorbereitung, Durchführung und Nachbereitung von Workshops im Security-Bereich.
+ Du arbeitest fachlich bei internen Audits zur Zertifizierungsvorbereitung mit.
+ Während deiner gesamten Werkstudententätigkeit wirst du von deinen ARCA-Teamkollegen unterstützt.
+ Ihr Profil
+ rofil
+ und studierst (Wirtschafts-)Informatik im fortgeschrittenen Studium. Du bist Student*in 
+ Teamgeist, Lernbereitschaft sowie das Interesse, sich eigeninitiativ in den Bereichen IT- und Informationssicherheit weiterzuentwickeln. Für dich zählen 
+ durch deine hohe IT-Affinität, deine offene Art sowie deine selbständige, zuverlässige und strukturierte Arbeitsweise. Du überzeugst 
+ bist du serviceorientiert, kommunizierst gerne und begeisterst dich für Trends in der IT-Security. Darüber hinaus bringst du gute Sprachkenntnisse in Deutsch und Englisch mit. Zudem 
+ hast du erste Erfahrungen in der Programmierung, mit Microsoft und Linux sowie in Microsoft 365. Wünschenswert aber kein Muss sind Erfahrungen mit IAM / PAM, LDAP, MS AD, AzureAD, Kenntnisse in Java, C(#/++) oder bereits durchgeführte Projekte. Idealerweise 
+ en
+ attraktive Vergütung je nach Qualifikation und Berufserfahrung Studium B. Sc.: 13 - 15 € pro Std.
+ Wir bieten
+ Studium M. Sc.: 15 - 18 € pro Std.
+ nahtloser Direkteinstieg nach erfolgreichem Abschluss bei uns im Unternehmen
+ ein breites Spektrum an Weiterbildungsangeboten; vom begleiteten Masterstudium bis hin zu diversen, international anerkannten Zertifizierungen, wie z. B. ISO/IEC 27001
+ Begleitung durch eine*n Mentor*in mit regelmäßigen Feedback-Gesprächen
+ Networking mit anderen Praktikanten und Werkstudenten
+ hybrides Arbeiten für unsere Kunden auch im Home Office oder in unseren lichtdurchfluteten, neuen Räumen

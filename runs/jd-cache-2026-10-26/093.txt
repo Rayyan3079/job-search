@@ -1,0 +1,47 @@
+URL: https://www.stepstone.de/stellenangebote--SAP-HCM-Anwendungsberater-und-Entwickler-w-m-d-bundesweit-Galahad-SNR-GmbH--14313348-inline.html
+TITLE: SAP HCM Anwendungsberater und Entwickler (w/m/d)
+COMPANY: Galahad SNR GmbH
+LOC: bundesweit
+POSTED: stepstone
+title: SAP HCM Anwendungsberater und Entwickler (w/m/d)
+company: Galahad SNR GmbH
+posted: 2026-10-23T12:14:06.123Z
+location: bundesweit | remote: 
+---
+Über die Position im Unternehmen
+ Als SAP HCM Berater/Entwickler bist du die zentrale Schnittstelle zwischen unseren Kunden, den Fachabteilungen und der IT. Du vereinst tiefgehendes technisches Know-how mit starker Beratungskompetenz und begleitest den gesamten Lebenszyklus unserer SAP-HCM-Anwendungslandschaft. Von der Anforderungsanalyse über die ABAP-/Fiori-Entwicklung bis hin zur kontinuierlichen Optimierung und Ticket-Betreuung. Deine Expertise ist entscheidend für den reibungslosen Betrieb, die Erstellung tragfähiger Change-Konzepte sowie die Weiterentwicklung im Kontext von S/4HANA und modernen HR-Technologien. Du bist nicht nur operativ im Incident- und Request-Management tätig, sondern gestaltest auch aktiv kundenindividuelle Geschäftsprozesse und digitale HR-Lösungen der Zukunft.
+ Deine Aufgaben
+ Betreuung der SAP Applikation HCM/SuccessFactors & Entwicklung (ABAP/ Fiori) unserer Bestandskunden
+ Lösung von Tickets mit Hilfe unseres Incident- und Request- Management Systems
+ Anwenderberatung und stetige Weiterentwicklung der Prozesse in der Applikation SAP HCM
+ Erstellung, Umsetzung und Dokumentation von Change-Konzepten
+ Spezifikation, Aufwandsindikation und Umsetzung von kundenindividuellen, fachlichen und betriebswirtschaftlichen Anforderungen
+ Unterstützung bei der Lösungsfindung und Kommunikation mit unseren Kunden
+ Dein Profil
+ Abgeschlossenes Studium der Wirtschaftsinformatik, oder abgeschlossene Berufsausbildung als Fachinformatiker, oder vergleichbare Ausbildung
+ Mindestens 5 Jahre Erfahrung als SAP HCM Entwickler
+ Mindestens 3 Jahre Erfahrung in der SAP HCM Applikationsberatung wünschenswert
+ Programmiersprachen ABAP, ABAP OO, UI5, Kenntnisse im Customizing und Entwicklung im ESS / MSS, Fiori
+ Kenntnisse bei der Erstellung von ALE-Schnittstellen
+ S/4 HANA-Kenntnisse
+ SAP HCM Applikationskenntnisse / Customizing Erfahrung
+ Erste Erfahrungen in SuccessFactors sind von Vorteil
+ Selbstständige und strukturierte Arbeitsweise
+ Ausgeprägte Kommunikationsstärke
+ Flexibilität und Teamfähigkeit
+ Sehr gute Deutsch- und Englisch-Kenntnisse
+ Das erwartet dich
+  Flexible Arbeitszeiten
+  Mobiles Arbeiten
+  Sabbatical-Option und 30 Tage Urlaub
+  Aus- und Weiterbildung
+  Firmenlaptop und Firmenhandy
+  Firmenwagen inkl. Tank-/Ladekarte
+  Mitarbeitendenevents
+  Unser Mindset: Echter Teamspirit, respektvolles Miteinander, offene Türen, Duz-Kultur, gelebte Vielfalt
+ Weitere Informationen
+ Martin Kadur
+ m.kadur@galahad-green.com 
+ Galahad SNR GmbH 
+ Friedrichstraße 171
+10117 Berlin

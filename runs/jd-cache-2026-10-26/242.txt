@@ -1,0 +1,57 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-Kuenstliche-Intelligenz-KI-Generative-AI-w-m-d-Kaiserslautern-io-consultants-GmbH-Co-KG--14590764-inline.html
+TITLE: Werkstudent Künstliche Intelligenz (KI) / Generative AI (w/m/d)
+COMPANY: io-consultants GmbH & Co. KG
+LOC: Kaiserslautern
+POSTED: stepstone
+title: Werkstudent Künstliche Intelligenz (KI) / Generative AI (w/m/d)
+company: io-consultants GmbH & Co. KG
+posted: 2026-10-23T15:03:10.32Z
+location: Kaiserslautern | remote: 
+---
+Einleitung
+ Du möchtest Generative AI nicht nur beobachten, sondern aktiv mitgestalten und bereits während deines Studiums praktische Erfahrungen an der Schnittstelle von Künstlicher Intelligenz , Engineering und Digitalisierung sammeln? Dann bist du bei uns genau richtig. 
+ Als Werkstudent KI / Generative AI (w/m/d) unterstützt du die io-BE dabei, innovative KI-Lösungen für Planungs-, Engineering-, Beratungs- und interne Geschäftsprozesse zu entwickeln und weiterzuentwickeln. Gemeinsam mit erfahrenen Expertinnen und Experten arbeitest du an konkreten AI-Use-Cases , Large Language Models (LLMs) , Microsoft Copilot , AI-Agenten , Retrieval-Augmented Generation (RAG) und weiteren zukunftsweisenden KI-Anwendungen. 
+ Dabei erhältst du spannende Einblicke in die praktische Anwendung moderner KI-Technologien, übernimmst früh Verantwortung und bringst eigene Ideen in die Entwicklung neuer Lösungen ein. 
+ Als mittelständisches Beratungs- und Planungsunternehmen mit mehreren Standorten in Deutschland unterstützen wir unsere Kunden seit Jahrzehnten dabei, ihre Wertschöpfungs- und Lieferketten erfolgreicher zu gestalten. Mit unserem Ansatz „Generalplanung // plus“ verbinden wir Strategie, Planung und Umsetzung aus einer Hand. 
+ Freu dich auf abwechslungsreiche Projekte, moderne Technologien, viel Gestaltungsspielraum, kurze Entscheidungswege und ein engagiertes Team, das Innovation aktiv vorantreibt. Werde Teil von io und gestalte die Zukunft von AI und Engineering mit uns.
+ Aufgaben
+ Das erwartet dich 
+ Du identifizierst und bewertest gemeinsam mit den Fachbereichen Potenziale für den Einsatz von Generative AI in Planungs-, Engineering-, Beratungs- und Verwaltungsprozessen und leitest daraus konkrete Anwendungsfälle ab.
+ Du unterstützt bei der Entwicklung, dem Testen und der Optimierung von KI-gestützten Anwendungen , Copiloten und KI-Agenten , insbesondere im Microsoft-Umfeld.
+ Du wirkst bei der Umsetzung von Proof-of-Concepts und Prototypen mit und begleitest die Weiterentwicklung innovativer KI-Lösungen.
+ Du unterstützt dabei, vorhandenes Unternehmenswissen für KI-Anwendungen nutzbar zu machen und Konzepte für Retrieval-Augmented Generation (RAG) , intelligente Suchlösungen und moderne Wissensplattformen weiterzuentwickeln.
+ Du unterstützt bei der Entwicklung automatisierter Workflows und intelligenter Assistenzlösungen mit Microsoft-Technologien wie Copilot Studio , Power Automate , Microsoft 365 , SharePoint , Dataverse und Azure .
+ Du unterstützt bei der Analyse von Ergebnissen, identifizierst Verbesserungsmöglichkeiten und trägst zur Qualitätssicherung von KI-Lösungen bei.
+ Du wirkst bei der Erstellung von Dokumentationen, Guidelines und kurzen Anwenderhilfen für die entwickelten Lösungen mit.
+ Du arbeitest eng mit internen Fachbereichen zusammen, sammelst Feedback aus der Praxis und bringst eigene Ideen zur Weiterentwicklung digitaler Arbeitsweisen ein.
+ Du beobachtest aktuelle Entwicklungen im Bereich Generative AI und identifizierst Potenziale für neue Anwendungsfälle und innovative Lösungen. 
+ Profil
+ Das bringst du mit
+ Du bist in einem Studiengang wie (Wirtschafts-)Informatik , Data Science , Künstliche Intelligenz , Wirtschaftsingenieurwesen oder einem vergleichbaren Studiengang immatrikuliert.
+ Du begeisterst dich für aktuelle Entwicklungen im Bereich Generative AI , Large Language Models (LLMs) und moderne KI-Technologien.
+ Du hast Freude daran, neue Tools und Technologien strukturiert zu erproben und deren Nutzen für die Praxis zu bewerten.
+ Idealerweise hast du bereits erste Berührungspunkte mit ChatGPT , Microsoft Copilot , Copilot Studio , Azure OpenAI oder vergleichbaren Generative-AI-Technologien gesammelt.
+ Erste Erfahrungen in der Programmierung , vorzugsweise mit Python , sind von Vorteil.
+ Idealerweise bringst du erste Kenntnisse im Microsoft-Ökosystem mit, beispielsweise in Microsoft 365 , SharePoint , Power Platform , Dataverse oder Azure .
+ Du verfügst über eine analytische, strukturierte und lösungsorientierte Arbeitsweise sowie eine Hands-on-Mentalität.
+ Du arbeitest gerne interdisziplinär und kannst technische Inhalte verständlich kommunizieren und sauber dokumentieren.
+ Du verfügst über sehr gute Deutschkenntnisse sowie gute Englischkenntnisse.
+ Pluspunkte (kein Muss): 
+ Erste Erfahrungen mit Prompt Engineering , Retrieval-Augmented Generation (RAG) , Automatisierung oder Datenanalyse.
+ Erste Berührungspunkte mit APIs , Power Automate , Power BI , Power Platform oder der Entwicklung kleiner Softwareprojekte.
+ Praktische Erfahrungen aus Hochschulprojekten, Werkstudententätigkeiten oder eigenen KI-Projekten .
+ Wir bieten
+ Das findest du bei uns 
+ Ein praxisnahes Aufgabenfeld mit sichtbarem Mehrwert: Du arbeitest an innovativen KI-Anwendungen und erlebst direkt, wie deine Beiträge in der Praxis eingesetzt werden.
+ Die Möglichkeit, aktuelle Technologien wie Generative AI, Microsoft Copilot, AI Agents und Automatisierungslösungen in realen Anwendungsfällen kennenzulernen und mitzugestalten.
+ Ein kollegiales Umfeld mit echtem Gestaltungsspielraum, kurzen Entscheidungswegen und Raum für eigene Ideen.
+ Enge fachliche Zusammenarbeit mit erfahrenen Experten aus Engineering, Consulting, Digitalisierung und Künstlicher Intelligenz.
+ Ein strukturierter Einstieg, persönliche Betreuung sowie die Möglichkeit, deine Kenntnisse in den Bereichen KI, Digitalisierung und Microsoft-Technologien gezielt weiterzuentwickeln.
+ Flexible Arbeitszeiten, die sich gut mit deinem Studium vereinbaren lassen, sowie individuelle Möglichkeiten zum mobilen Arbeiten.
+ Attraktive Perspektiven für deinen späteren Berufseinstieg innerhalb der io-Gruppe.
+ Weitere Informationen
+ Haben wir dein Interesse geweckt? Dann freuen wir uns auf deine  Online-Bewerbung  an unsere Kollegen Daniel Michler. Bei Fragen zur Stelle melde dich gerne via Mail bei uns unter bewerbung@io-group.com.
+ io-consultants GmbH & Co. KG
+Max-Jarecki-Str. 21
+69115 Heidelberg
+ www.io-group.com

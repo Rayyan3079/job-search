@@ -1,0 +1,57 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-KI-Entwicklung-Prompt-Engineering-Prozessautomatisierung-w-m-d-Hamburg-Otto-Group-Holding--14681954-inline.html
+TITLE: Werkstudent KI-Entwicklung, Prompt Engineering & Prozessautomatisierung (w/m/d)
+COMPANY: Otto Group Holding
+LOC: Hamburg
+POSTED: stepstone
+title: Werkstudent KI-Entwicklung, Prompt Engineering & Prozessautomatisierung (w/m/d)
+company: Otto Group Holding
+posted: 2026-10-23T14:07:50.03Z
+location: Hamburg | remote: 
+---
+In den Teams der Otto Group Holding steuern wir erfolgreich 30 wesentliche Unternehmensgruppen und entwickeln die Strategie der Otto Group täglich weiter. Treibe mit uns die Zukunft eines digital getriebenen Handels- und Dienstleistungskonzerns voran – von Asien bis Nordamerika, vom Logistikanbieter bis zum Company Builder - und erlebe die Innovationskraft unserer Gruppe. Dabei kannst du stets du selbst sein. 
+Vielfalt gehört zu uns, wie die Elbe zu Hamburg: Wir stehen für Offenheit, Respekt und Toleranz, ohne Wenn und Aber. Lass uns gemeinsam die Segel setzen – unabhängig davon, woher du kommst, wen du liebst oder woran du glaubst. Denn du bist einmalig und genau das suchen wir. 
+Bei uns bekommst du die Freiheit, dich auszutoben und eigene Ideen zu entwickeln. In einem Umfeld, in dem Anstand gegenüber Menschen, Gesellschaft und der Umwelt wichtig sind. Wir gehen wertschätzend miteinander um: Unsere Grundwerte basieren auf Vertrauen, Fairness und Transparenz. 
+ Die Arbeit bei HANZ verbindet gesellschaftliche Wirkung mit digitalen Innovationen. Mit meinjobbotschafter.de unterstützen wir junge Menschen dabei, Ausbildungsberufe kennenzulernen und ihren Weg ins Berufsleben zu finden.
+ Als Teil unseres kleinen Teams entwickelst du technische Lösungen, die unsere Plattform und unsere Arbeitsweise voranbringen. Dabei verbindest du Programmierung, generative KI und Prozessautomatisierung mit konkreten Herausforderungen aus der Praxis – von der Weiterentwicklung unserer digitalen Angebote bis zur effizienteren Gewinnung neuer Jobbotschafter.
+ Viele sprechen von „Homeoffice“ – wir von „hybrid oder mobile Work“: Du kannst bis zu 50 % deiner monatlichen Arbeitszeit remote arbeiten. Unsere Teams entscheiden dabei gemeinsam mit ihrer Führungskraft, wie sie das Gleichgewicht aus Präsenzzeiten vor Ort und mobilem Arbeiten gestalten.
+ Dein Impact
+ KI-Lösungen entwickeln: Du erstellst erste KI-Anwendungen und Prototypen, zum Beispiel für einen Chatbot auf meinjobbotschafter.de.
+ Prozesse automatisieren: Du verbindest KI, APIs und digitale Tools, um Mailings und Kommunikationsabläufe effizienter zu gestalten.
+ Jobbotschafter gewinnen: Du entwickelst und testest KI-gestützte Ansätze, um neue Jobbotschafter gezielt anzusprechen und zu aktivieren.
+ Plattform weiterentwickeln: Du unterstützt bei der technischen Optimierung unserer Website und Plattform sowie bei der Verbesserung der Nutzerfreundlichkeit.
+ Neue Ideen testen: Du probierst KI-Technologien aus und setzt passende Lösungen mit Blick auf Nutzen, Aufwand und Kosten um.
+ Du bist dir nicht sicher, ob die Stelle zu dir passt? – Gerne stellen wir den Kontakt zu Maren aus dem Team her. 
+ Dein Profil
+ Must-have:      
+ Du bist eingeschriebene*r Vollzeit-Student*in mit Studienschwerpunkt Informatik, Wirtschaftsinformatik, Medieninformatik, Data Science oder einer vergleichbaren Fachrichtung.
+ Du bist ab sofort für mindestens 1 Jahr verfügbar.
+ Du hast erste Programmierkenntnisse, zum Beispiel in Python oder JavaScript, und möchtest diese praktisch einsetzen.
+ Du interessierst dich für generative KI, Prompt Engineering und die Entwicklung eigener KI-Anwendungen.
+ Du hast Erfahrungen mit WordPress, HTML/CSS, Make, n8n, CRM-Systemen oder Webanalyse.
+ Dich zeichnet eine strukturierte, selbstständige und zuverlässige Arbeitsweise aus.
+ Du setzt AI-Tools strategisch ein, um Prozesse in deinem Fachbereich zu optimieren und motivierst andere dazu, AI effektiv zu nutzen. 
+ Dein Sprachniveau: Deutsch C1 (fachkundige Sprachverwendung) und Englisch C1 (fachkundige Sprachverwendung).
+ Nice-to-have: 
+ Du hast Erfahrungen mit Wireframes oder Prototyping (z. B. Figma).
+ Du hast erste Erfahrungen mit APIs, Automatisierungstools oder eigenen Coding-Projekten.
+ Du besitzt ein Verständnis der Anforderungen an digitale Barrierefreiheit (z. B. WCAG/BFSG).
+ Deine Benefits
+ Fachliche   &   persönliche   Entwicklung 
+Weiterbildungsangebote wie z. B. die OTTO-Akademie, digitale Lernplattformen (u. a. Masterplan), Mentoring, Hospitationen, offene Feedbackkultur, Formate zur beruflichen Orientierung, Kooperation bei Abschlussarbeiten, feste*n Betreuer*in und direkte Ansprechpersonen im HR-Bereich
+ Kultur & Zusammenarbeit 
+Students@OTTO Community & Netzwerke, Coworking & Social Spaces, Führung auf Augenhöhe, flache Hierarchien, selbstständiges & eigenverantwortliches Arbeiten, regelmäßige Mitarbeiterbefragungen, Leading Principles, kostenfreie Heißgetränke und vielfältiges – auch veganes – Essensangebot
+ Vergütung   &   Zusatzleistungen 
+Attraktive Vergütung (ab 17,74 € pro Stunde), 15 % Personalrabatt (auf OTTO-Artikel sowie zahlreiche Benefits & Mitarbeiterangebote (z. B. Events, Reisen), 30 Urlaubstage p. a., technische Grundausstattung
+ Students@OTTO   Onboarding 
+Einwöchiges Onboarding Programm für Studierende bestehend aus: Welcome Session, Impulsvorträgen, Get-Together & Vorstandstalk
+ Work-Life-Balance 
+Hybrides Arbeitsmodell mit bis zu 50 % remote work im Monat, flexible Arbeitszeiten (Gleitzeit) & Stundenaufteilung (bis zu 18 h pro Woche und volle 37,5 h in den Semesterferien möglich)
+ Gesundheit &   Wohlbefinden 
+Achtsamkeits- und Stressmanagementkurse, betriebsärztliche & psychosoziale Beratung
+ Mobilität 
+Zuschuss zum Deutschlandticket, kostenfreie Parkplätze, e-Ladesäulen, StadtRAD-Stationen
+ & viele  Benefits mehr!
+ Kontakt
+ Theresia Dächert
+HR Managerin
++49 40 6461-6029

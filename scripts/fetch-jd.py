@@ -22,6 +22,25 @@ if m:
     print("---\n" + text(body))
 else:
     h = get(url)
+    # Most job boards (XING, StepStone, company ATS pages) embed a schema.org JobPosting with the full text.
+    for blk in re.findall(r'<script[^>]*application/ld\+json[^>]*>(.*?)</script>', h, re.S):
+        try:
+            import json
+            j = json.loads(blk)
+        except Exception:
+            continue
+        for o in (j if isinstance(j, list) else j.get("@graph", [j]) if isinstance(j, dict) else []):
+            if isinstance(o, dict) and o.get("@type") == "JobPosting" and len(o.get("description") or "") > 200:
+                org = o.get("hiringOrganization") or {}
+                loc = o.get("jobLocation") or {}
+                loc = loc[0] if isinstance(loc, list) and loc else loc
+                addr = (loc.get("address") or {}) if isinstance(loc, dict) else {}
+                print("title:", html.unescape(o.get("title", "")))
+                print("company:", org.get("name", "") if isinstance(org, dict) else org)
+                print("posted:", o.get("datePosted", ""))
+                print("location:", addr.get("addressLocality", "") if isinstance(addr, dict) else "", "| remote:", o.get("jobLocationType", ""))
+                print("---\n" + text(o["description"].replace("null", "")))
+                sys.exit(0)
     t = text(h)
     if "arbeitsagentur.de" in url:
         i = t.find("Stellenbeschreibung")

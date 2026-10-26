@@ -1,0 +1,37 @@
+URL: https://www.stepstone.de/stellenangebote--Working-Student-Data-Operations-Specialist-m-f-d-Muenchen-Experteer-GmbH--14669780-inline.html
+TITLE: Working Student Data Operations Specialist (m/f/d)
+COMPANY: Experteer GmbH
+LOC: München
+POSTED: stepstone
+title: Working Student Data Operations Specialist (m/f/d)
+company: Experteer GmbH
+posted: 2026-10-20T14:26:09.527Z
+location: München | remote: 
+---
+Experteer offers senior executives the opportunity to actively develop their careers. The premium career partner allows recruiters to discreetly contact senior professionals ready for a career change. Candidates can access more than 1,000,000 carefully curated executive positions and also stay informed on relevant career topics and valuable insights.
+ Experteer, based in Munich, Germany, has been operating since 2006 and connects more than 6 million candidates worldwide with exclusive job offers and renowned headhunters every day.
+ Do you enjoy working in an open and international environment? Then join our dynamic team.
+ Your responsibilities
+ Depending on your interests, experience, and learning pace, you can quickly grow and take ownership of one or more of the following tasks:
+ Become familiar with our technology stack and learn everything about the high-level job market and our job classification framework.
+ Research and select the most high-level jobs and classify them according to our key criteria.
+ Collaborate with the product and engineering teams to improve internal data management tools that you will be working with.
+ Perform regular data quality checks on job, company, and salary data and document results.
+ Analyze company and salary data to support our classification framework.
+ Increase our data pipeline by supporting the roll-out and scaling of our core crawling technology.
+ Identify recurring data issues, investigate root causes together with Product/Engineering, and provide clear examples and suggestions to improve our processes and tools.
+ Your profile
+ Student halfway through your bachelor's or just started your master's.
+ Availability for at least 10 months, working 15-20 hours per week.
+ Be proactive, work with minimum supervision, show initiative.
+ Excellent command of English is essential. A second language (German, Dutch, French, Italian, or Spanish) is desirable.
+ Tech savvy, advanced skills/knowledge of the internet, its tools, and technologies.
+ Analytical thinking, qualitative and quantitative analysis skills. 
+ Willingness to work in a hybrid setup and to come to our Munich office on a regular basis.
+ Our offer
+ A highly talented, dynamic, and multinational team
+ The chance to work on exciting and challenging projects either independently or as part of a team
+ A creative working atmosphere and flat hierarchies
+ Flexible working times, hybrid work model, and an office in the heart of Munich.
+ Interested?
+ Have we sparked your interest? Then send us your full application and earliest starting date to  hr@experteer.com

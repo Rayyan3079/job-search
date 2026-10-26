@@ -1,0 +1,41 @@
+URL: https://www.xing.com/jobs/berlin-working-student-ai-engineering-document-intelligence-158777862
+TITLE: Working Student — AI Engineering & Document Intelligence
+COMPANY: Tracium GmbH
+LOC: Berlin
+POSTED: 2026-10-24
+title: Working Student — AI Engineering & Document Intelligence
+company: Tracium GmbH
+posted: 2026-10-24T13:28:56Z
+location: Berlin | remote: TELECOMMUTE
+---
+Location: Hamburg, Germany · Part-time alongside your studies 
+ About Tracium
+ https://www.linkedin.com/company/tracium/
+ Tracium builds AI-assisted software that helps technical teams turn complex manuals into structured, traceable information. We combine document intelligence with S1000D authoring, starting with maritime applications.
+ Your role
+ Work alongside experienced engineers on practical AI problems involving real technical documents. You will contribute to experiments, evaluation, and product improvements while developing your engineering skills with guidance from the team.
+ What you’ll do
+ Explore document parsing, OCR, and structured information extraction.
+ Build Python scripts and small prototypes using AI models.
+ Prepare and maintain datasets for testing extraction and retrieval quality.
+ Compare model outputs with source documents and investigate errors.
+ Help automate evaluation and regression checks.
+ Contribute to document processing workflows and internal tools.
+ Document your findings and share what works, what fails, and why.
+ What you bring
+ Current enrolment in computer science, data science, mathematics, engineering, or a related degree.
+ Hands-on Python development skills.
+ Hands-on with Git, APIs, and data handling.
+ Good understanding about LLMs, machine learning, document intelligence.
+ Attention to detail and a willingness to test assumptions.
+ Clear communication in English.
+ What you’ll gain
+ Practical experience with AI beyond simple chatbot demos.
+ Guidance, code reviews, and exposure to production engineering.
+ Ownership of manageable tasks with visible product impact.
+ Experience working directly with an early-stage founding team.
+ Follow our journey 
+Follow Tracium on LinkedIn https://www.linkedin.com/company/tracium/ for product updates, engineering insights, and future opportunities.
+ Apply
+ Send your CV, your field of study, expected graduation date, and weekly availability. Include a university or personal project if you have one—a short explanation is enough.
+ We welcome applicants of all backgrounds. You do not need to meet every listed requirement to apply.

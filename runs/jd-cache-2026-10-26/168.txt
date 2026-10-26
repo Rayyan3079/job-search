@@ -1,0 +1,22 @@
+URL: https://www.xing.com/jobs/hamburg-working-student-data-administration-data-quality-analysis-strategic-core-project-155113591
+TITLE: Working Student – Data Administration, Data Quality & Analysis (Strategic Core Project) (m/f/x)
+COMPANY: Tesa SE
+LOC: Hamburg
+POSTED: 2026-06-09
+title: Working Student – Data Administration, Data Quality & Analysis (Strategic Core Project) (m/f/x)
+company: Tesa SE
+posted: 2026-06-09T21:26:14Z
+location: Hamburg | remote: 
+---
+Location:
+Germany, Hamburg - Headquarter tesa SE
+Level:
+Working Student
+Function:
+Digital & Information Technology
+ Limited Contract:
+limited to max. 1 year 
+Working Hours:
+Part-time - max. 18 hrs / week
+ That's why a working student position at tesa is worth it: Your benefits You are a full-fledged member of the team , which shows you trust and appreciation You will be given individual opportunities to shape and develop your career: We challenge and encourage you, coach you and give you feedback You have the opportunity to write your thesis with us in addition to your time as a working student You have the chance to be promoted in our tesa Talents program for further development prospects after your studies You will work up to 18h/week and receive an attractive salary of 1.519€ / month You work at the tesa campus and mobile with flexible working hours You can train in the in-house gym on equipment or in courses for 4€ per month and take advantage of massages or physiotherapy You can also expect a barista bar and our company restaurant with a wide variety of choices You will receive a discounted travel allowance for the Hamburg public transport system You will receive discounts on products from tesa , Beiersdorf, and many others What you will do About the Role We are looking for a motivated Working Student (m/f/x) to support a strategic core project by ensuring high-quality data administration, data maintenance, and data analysis. In this role, you will help structure, clean, and manage project data and create a reliable basis for data-driven decisions. You will work in a highly dynamic and positive team environment and contribute directly to a project with high strategic relevance. Your Responsibilities Maintain and administer project databases, spreadsheets, and documentation (e.g., Excel/SharePoint or similar tools) Ensure data quality through validation, cleansing, and consistent data standards Structure and harmonize datasets from different sources to improve usability and transparency Prepare recurring reports, dashboards, and summaries for project stakeholders Perform exploratory data analysis and support interpretation of results for decision-making Document data definitions, workflows, and change logs to ensure traceability and reproducibility Collaborate with cross-functional team members to gather requirements and translate them into data structures and reports You will support the implementation of LIMS and AI solutions for data storage and analysis What you will need Enrolled student (m/f/x) in business, engineering, data science, economics, information systems, or a related field, additional technical background is preferred. Strong affinity for working with data and a structured, detail-oriented mindset Good skills in Excel (pivot tables, formulas) Basic knowledge of data analysis methods; experience with Python/R/SQL is a plus High standards for accuracy, data consistency, and documentation Proactive, reliable, and able to work independently Good communication skills in English (German is a plus, depending on team setup) What you can expect tesa is one of the world's leading manufacturers of adhesive tape solutions, with a range of more than 7,000 products. With passion for technology, we drive innovation, reliability, and sustainability to shape a better future. Our solutions make a difference in the work, products, and lives of our customers across a variety of industries, including Automotive, Electronics, and Home applications. With this, we address a broad segment of business customers, but also you as a private consumer. You might be surprised to discover the many places where our adhesive solutions are at work, from the battery in your electric car, to the display of your mobile phone, and even in the elevator in your building. Wherever you look, you'll find tesa - holding the world together since more than 125 years. Do you think tesa ? 
+Please follow the below link to submit your resume and other required information. Apply online

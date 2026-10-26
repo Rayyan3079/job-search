@@ -1,0 +1,41 @@
+URL: https://www.stepstone.de/stellenangebote--Lead-Consultant-SAP-SuccessFactors-w-m-d-bundesweit-Home-Office-Galahad-SNR-GmbH--14250278-inline.html
+TITLE: Lead Consultant SAP SuccessFactors (w/m/d)
+COMPANY: Galahad SNR GmbH
+LOC: bundesweit, Home-Office
+POSTED: stepstone
+title: Lead Consultant SAP SuccessFactors (w/m/d)
+company: Galahad SNR GmbH
+posted: 2026-10-23T12:22:49.817Z
+location: bundesweit, Home-Office | remote: 
+---
+Über die Rolle im Unternehmen
+ Als Lead Consultant SAP SuccessFactors übernimmst du eine zentrale Rolle beim Aufbau und der
+Weiterentwicklung eines führenden Beratungsbereichs - du führst Kunden durch komplexe HRTransformationen,
+von der strategischen Konzeption bis zur erfolgreichen End-to-End-Implementierung.
+Im Fokus stehen ganzheitliche, zukunftsfähige HR-Systemlandschaften, häufig als hybride Ansätze (SAP SuccessFactors mit SAP HCM/H4S4). Du wirkst über den gesamten Projektzyklus: von Pre-Sales über Architektur- und Integrationsberatung bis zur fachlichen Steuerung der Implementierungsteams und der Qualitätssicherung. Als erfahrene Führungspersönlichkeit coachst du Junior- und Senior-Berater und präsentierst souverän auf Managementebene.
+ Deine Aufgaben
+ Leitung & Umsetzung von Projekten - Verantwortung für End-to-End SAP SuccessFactors Implementierungen von der Konzeption bis zum Go-Live, inklusive Steuerung des gesamten Projektlebenszyklus
+ Modulverantwortung - Design und Implementierung mehrerer Module: Employee Central, Recruiting & Onboarding, Performance & Goals, Compensation, Learning, Succession & Development sowie EC Time/Time Tracking
+ Transformationsprojekte - Begleitung anspruchsvoller HR-Transformationen, insbesondere Migration von On-Premise SAP HCM in die Cloud sowie Gestaltung hybrider Szenarien
+ Architektur & Integration - Entwurf komplexer Systemarchitekturen und Integrationskonzepte (SAP HCM, S/4HANA for HR/H4S4, On-Premise Payroll) über SAP BTP und Integration Suite
+ Teamführung & Qualitätssicherung - fachliche Steuerung von Projektteams, Qualitätssicherung der Arbeitsergebnisse und Sicherstellung von Standards
+ Entwicklung & Innovation - Aufbau des Bereichs mit Best Practices, Templates und Accelerators; Innovationsthemen wie KI im HR-Umfeld, Joule und BTP Extensions
+ Pre-Sales & Business Development - Unterstützung in Pre-Sales und Angebotserstellung sowie Mitgestaltung der SAP Partnerstrategie und Go-to-Market-Angebote
+ Dein Profil
+ Mehrjährige SuccessFactors-Expertise - 5 bis 10 Jahre Erfahrung in Implementierung und Beratung, idealerweise über mehrere Module inklusive Employee Central als Core-HR
+ Tiefe Modulkenntnisse - fundierte Expertise in mindestens einem Kernbereich (Employee Central inkl. Datenmodell oder Talentprozesse wie Performance, Recruiting, Learning)
+ End-to-End-Implementierungen - praktische Erfahrung in Leitung und Durchführung kompletter
+ Implementierungsprojekte
+ Transformation & Hybrid - Erfahrung mit On-Premise-zu-Cloud-Transformationen und hybriden Architekturen (SF + SAP HCM)
+ Führung & Coaching - nachweisliche Erfahrung in fachlicher Führung, Mentoring und Coaching von Beratern unterschiedlicher Erfahrungsstufen
+ Das erwartet dich
+ Gestaltungsfreiheit & Aufbauarbeit - aktive Mitgestaltung am Aufbau und der strategischen Ausrichtung eines führenden SuccessFactors-Beratungsbereichs
+ Top-Projekte & Kunden - anspruchsvolle Transformationsprojekte bei namhaften Kunden, häufig aus regulierten Branchen
+ Remote-First - ortsunabhängiges Arbeiten in einer Remote-First-Kultur; projektbezogene Reisen nach Bedarf
+ Verantwortung & Sichtbarkeit - als Lead Consultant primärer Ansprechpartner mit echtem Einfluss auf Projektvision und Umsetzung
+ Weiterentwicklung - Zugang zu neuesten SAP-Innovationen (KI im HR, Joule, BTP Extensions) sowie Weiterbildung und Zertifizierungen
+ Weitere Informationen
+ Wenn du deine Expertise im Bereich SuccessFactors in einem zukunftsorientierten, flexiblen Beratungsumfeld einbringen möchtest, schick mir gern dein Profil oder ein paar Eckdaten (Projektschwerpunkte, Customizing-Erfahrung, Verfügbarkeit, Gehaltsrahmen).
+ Galahad SNR GmbH 
+ Friedrichstraße 171
+10117 Berlin

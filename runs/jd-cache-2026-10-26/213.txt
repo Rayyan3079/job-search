@@ -1,0 +1,80 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-Cyber-Security-Schwerpunkt-AI-Security-m-w-d-Bochum-Volkswagen-Infotainment-GmbH--14593560-inline.html
+TITLE: Werkstudent Cyber Security - Schwerpunkt AI Security (m/w/d)
+COMPANY: Volkswagen Infotainment GmbH
+LOC: Bochum
+POSTED: stepstone
+title: Werkstudent Cyber Security - Schwerpunkt AI Security (m/w/d)
+company: Volkswagen Infotainment GmbH
+posted: 2026-10-24T12:03:14.59Z
+location: Bochum | remote: 
+---
+Volkswagen Infotainment leistet mit einem Team von mehr als 1150 Menschen an den Standorten Bochum und Wolfsburg Pionierarbeit in den Bereichen Konnektivität und automotive Software. Unter dem Dach des Software-Unternehmens CARIAD bündelt der Volkswagen Konzern erfahrene Unternehmen, die an Zukunftstechnologien wie der Fahrzeugvernetzung mit Hard- und Softwarelösungen für die Marken des Konzerns arbeiten.
+ Deine Aufgaben
+ Tauche ein in die Zukunft der Cyber Security bei Volkswagen Infotainment! Als Werkstudent (m/w/d) im Bereich AI Security unterstützt du uns dabei, die Chancen und Risiken moderner KI-Technologien wie Large Language Models (LLMs), AI Agents und Coding Assistants zu verstehen und sicher in den Kontext der Software- und Produktentwicklung zu integrieren. Gemeinsam mit erfahrenen Security-Expert:innen analysierst du aktuelle Bedrohungen, Sicherheitsmechanismen und Best Practices rund um Künstliche Intelligenz und leistest damit einen direkten Beitrag zur sicheren Entwicklung innovativer Fahrzeug- und Softwarelösungen.
+ Das bieten wir:
+ Mitarbeit an hochaktuellen Themen an der Schnittstelle von Cyber Security und Künstlicher Intelligenz
+ Einblicke in die Entwicklung sicherer Software- und KI-Systeme im Automotive-Umfeld
+ Zusammenarbeit mit erfahrenen Security-Architekt:innen und Security Engineers
+ Flexible Arbeitszeiten zur optimalen Vereinbarkeit von Studium und Werkstudent:innen Tätigkeit
+ Moderne Arbeitsumgebung und eigenverantwortliches Arbeiten in einem motivierten Team
+ Möglichkeit, aktuelle Forschungsergebnisse und innovative Technologien direkt in die Praxis einzubringen
+ Werde Teil unseres Teams und gestalte die sichere Zukunft von AI und Softwareentwicklung bei Volkswagen Infotainment aktiv mit. 
+ Der Stundenlohn eines Werkstudierenden beträgt 17,50 €.
+ Dein Profil
+ Mögliche Aufgaben dieser Rolle
+ Analyse von Sicherheitsrisiken moderner KI-Systeme, insbesondere LLMs, Agentic AI und AI-basierten Entwicklungswerkzeugen
+ Bewertung von AI-Sicherheitsrisiken im Kontext der Produkt- und Softwareentwicklung bei Volkswagen Infotainment
+ Untersuchung aktueller Angriffstechniken und Schwachstellen von KI-Systemen (z. B. Prompt Injection, Tool Abuse, Model Manipulation, Data Leakage)
+ Analyse und Bewertung der OWASP Top 10 für LLMs sowie der OWASP Agentic AI Top 10
+ Untersuchung und Bewertung von Security Controls für KI-Systeme, beispielsweise: Guard Rails
+ Sandboxing
+ Isolationstechniken
+ IAM-Konzepte
+ Audit Logging und Monitoring
+ Sicherheitsmechanismen für Agenten-Frameworks
+ Mitarbeit bei der Bewertung von Sicherheitsarchitekturen für agentische KI-Systeme
+ Analyse von Konzepten rund um agentische Identitäten, Delegation von Berechtigungen und sichere Tool-Nutzung
+ Erstellung technischer Dokumentationen, Proof-of-Concepts und Security Assessments
+ Unterstützung bei Recherchen zu aktuellen Entwicklungen im Bereich AI Security und AI Governance
+ Entwicklung kleiner Prototypen und Automatisierungen mit Python und Linux-Werkzeugen
+ Anforderungen an die Qualifikation
+ Must Have
+ Studium IT/Cyber Security, Informatik oder eines vergleichbaren Studiums
+ Sehr gute technische Affinität und Interesse an Cyber Security
+ Fundierte Kenntnisse in mindestens einigen der folgenden Security-Themen: Kryptografie
+ TLS, Zertifikate und PKI
+ Authentifizierung, Authorisierung
+ Identity and Access Management
+ Erste praktische Erfahrungen mit: Large Language Models (LLMs)
+ Machine Learning oder AI-Systemen
+ AI Agents und Agentic AI
+ Coding Assistants (z. B. GitHub Copilot, Cursor oder vergleichbare Werkzeuge)
+ Gute Kenntnisse in Python oder Linux Shell Scripting
+ Erfahrung im Umgang mit Linux-Systemen
+ Eigenständige und analytische Arbeitsweise
+ Gute Deutsch- oder Englischkenntnisse
+ Wünschenswert
+ Kenntnisse zu AI-Security-Konzepten und -Techniken
+ Erfahrung mit VS Code oder vergleichbaren Entwicklungsumgebungen
+ Erfahrung mit Git und Versionsverwaltung
+ Grundkenntnisse zu CI/CD-Pipelines (GitHub, GitLab oder vergleichbare Plattformen)
+ Verständnis moderner Softwareentwicklungsprozesse und DevOps-/DevSecOps-Praktiken
+ Interesse an aktuellen Themen wie AI Governance, AI Risk Management und Secure AI Engineering
+ Skills
+ Problemlösungskompetenz
+ Kommunikationsfähigkeit
+ Kreativität
+ Kritisches Denken
+ Bewusstsein für Cybersecurity
+ Informationssicherheit
+ Sicherheitsarchitektur
+ Internet-Sicherheit
+ Eingebette Systeme Sicherheit
+ KI-Governance und Compliance
+ KI-Engineering
+ Künstliche Intelligenz (KI)
+ Python
+ Linux
+ Was wir bieten
+ Hast Du Fragen zu einer Schwerbehinderung oder Gleichstellung?
+ Dann ist unsere Schwerbehindertenvertretung gerne für Dich da: schwerbehindertenvertretung@volkswagen-infotainment.com
