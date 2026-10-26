@@ -8,6 +8,8 @@ Werkstudent jobs happen alongside studies in Ilmenau, so location decides more t
 - **Lane R (remote):** the posting says fully remote / 100% home office / ortsunabhängig. Anywhere in Germany. Window: 7 days.
 - **Lane G (on-site elsewhere, lowest):** only English-friendly roles with fit >= 3.5. Max 3 packages per run.
 
+- **Lane W (worldwide remote part-time, added 2026-10-26):** fully remote, part-time / contract / internship roles in his field (data analysis, BI, SAP SAC/Datasphere, data engineering, ML, AI training / data annotation) open to someone living in Germany. Window: 7 days. Package only after reading the full description and confirming: (1) part-time or flexible hours possible (max 20 h/week), (2) candidates in Germany / Europe / worldwide accepted, (3) a real company (no fees, no "training costs", no payment-for-equipment, no Telegram/WhatsApp-only recruiters). Mark in the README whether it is employment or freelance: **freelance work needs written permission from the Ausländerbehörde first** (non-EU student permit).
+
 Within a lane:
 - Package when English is accepted (English posting, or German only "a plus", or no explicit German requirement). Fit >= 2.5 in Lane L, >= 3 in Lane R, >= 3.5 in Lane G.
 - Explicit fluent/very good German (C1, "sehr gute Deutschkenntnisse") → list only, no documents.
