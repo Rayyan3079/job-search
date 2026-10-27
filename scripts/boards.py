@@ -7,7 +7,7 @@ def get(u):
     return subprocess.run(["curl", "-s", "-L", "-m", "25", "-A", UA, u], capture_output=True, text=True).stdout
 KW = {"local": ["werkstudent", "studentische hilfskraft", "praktikum", "working student", "werkstudent data", "werkstudent it", "werkstudent sap", "werkstudent informatik"],
       "remote": ["werkstudent remote", "working student remote", "werkstudent homeoffice data", "werkstudent remote sap", "werkstudent remote data analyst"],
-      "germany": ["werkstudent sap", "working student data", "werkstudent data analyst", "werkstudent business intelligence", "working student machine learning", "werkstudent data science"]}[MODE]
+      "germany": ["working student", "working student it", "working student analyst", "working student digital", "werkstudent sap", "working student data", "werkstudent data analyst", "werkstudent business intelligence", "working student machine learning", "werkstudent data science"]}[MODE]
 out, seen = [], set()
 def emit(posted, title, company, loc, url):
     if url in seen: return

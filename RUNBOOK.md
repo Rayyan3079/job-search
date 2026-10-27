@@ -27,7 +27,7 @@ Run all sources; a failing source is noted in the digest, not fatal.
 3. **Lane L, Arbeitsagentur near Ilmenau:** `cd $CO_ROOT && node scan.mjs --since 30 --quiet` (portals.yml has a `wo: Ilmenau` entry), new lines land in data/pipeline.md.
 4. **Lane R, remote:** `HOURS=168 KWSET=remote bash scripts/linkedin-search.sh > runs/$TODAY-remote.tsv`
 5a. **Lane W, worldwide remote part-time:** `python3 scripts/remote-world.py 7 > runs/$TODAY-world.tsv` (Remotive, RemoteOK, Himalayas, Jobicy, Working Nomads, LinkedIn worldwide remote P/C/I). Many hits are full-time or country-locked: verify each description per modes/_custom.md Lane W before packaging.
-5. **Lane G, Germany-wide:** `HOURS=72 bash scripts/linkedin-search.sh > runs/$TODAY-linkedin.tsv`
+5. **Lane G, Germany-wide (7 days):** `HOURS=168 bash scripts/linkedin-search.sh > runs/$TODAY-linkedin.tsv`
 6. Also check by hand (WebFetch/WebSearch): TU Ilmenau Career Center and chair job pages (the TU listing is JavaScript-only), Zeiss Jena (comes in via StepStone/LinkedIn), DLR Jena, Max Planck and Leibniz institutes in Jena, University of Jena (career.uni-jena.de). Indeed, Glassdoor, Monster, Jobware and workingstudentjobs.de block automated access (403/401).
    Old: TU Ilmenau job pages (studentische Hilfskraft at the Data Science / Informatik chairs), DLR Institute of Data Science Jena, Zeiss Jena, Jenoptik, X-FAB Erfurt careers.
 
@@ -72,7 +72,7 @@ For each job, slug = `company-role` (lowercase, hyphens). Folder: `output/$TODAY
 3. **Cover letter:** follow `$CO_ROOT/modes/cover.md` Steps 1-9 non-interactively (no questions to the user;
    use sensible defaults: available immediately, up to 20 h/week during the semester, English letter).
    Mention German A1 and that he is taking classes when the role touches German. Under one page.
-   Lane L: say he lives and studies in Ilmenau. Lane R: say he works fully remote. Never "happy to relocate".
+   Lane L: say he lives and studies in Ilmenau. Lane R: say he works fully remote. Lane G letters may say he is willing to relocate.
    Payload `output/$TODAY/<slug>/cover.json` with `output_path` `output/$TODAY/<slug>/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf`, then
    `(cd $CO_ROOT && node generate-cover-letter.mjs --payload $JS_ROOT/output/$TODAY/<slug>/cover.json)`.
 4. Write `output/$TODAY/<slug>/README.md`: apply link, posting date, tier, fit score, why it fits, gaps,

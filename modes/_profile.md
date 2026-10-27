@@ -26,7 +26,7 @@ Track B has only 3 projects, 2 collaborative. Knowledge Graph project is the wea
 
 ## Location policy
 
-Any city in Germany is fine (relocation possible). Remote and hybrid are welcome. Roles outside Germany: low priority.
+Any city in Germany is fine: he is willing to relocate (confirmed 2026-10-28). Remote and hybrid are welcome. Worldwide remote part-time roles in his field are a separate lane.
 
 ## Language policy
 
