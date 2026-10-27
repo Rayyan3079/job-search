@@ -1,0 +1,41 @@
+URL: https://www.linkedin.com/jobs/view/4482935252
+TITLE: Werkstudent (w/m/d) IT Service-Team Schwerpunkt SAP
+COMPANY: Siemens
+LOC: Frankfurt am Main, Hesse, Germany
+POSTED: 2026-10-26
+title: Werkstudent (w/m/d) IT Service-Team Schwerpunkt SAP
+company: Siemens
+posted: 23 hours ago
+applicants: 33 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-w-m-d-it-service-team-schwerpunkt-sap-at-siemens-4482935252&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Art der Anstellung: Befristet / Teilzeit; (15-20 Stunden / Woche)
+Starte deine Karriere als Werkstudent (w/m/d) im IT Service-Team SAP in Frankfurt und gestalte gemeinsam mit uns innovative IT-Lösungen – von der Anforderung bis zur Umsetzung bist du ganz vorne mit dabei! Bringe dein Know-how, deine Ideen und deinen Pioniergeist ein und unterstütze unsere Key-User und den Product Owner auf dem Weg zur Digitalisierung.
+Werde Teil unseres Working Student Network – einer Community, die dir Austausch, Unterstützung und wertvolle Kontakte bei Siemens bietet.
+ Verändere die Welt von morgen:
+ Du unterstützt das IT Service-Team bei der Aufnahme und Klärung der Anforderungen mit den Key-Usern, indem du deine Kommunikationsstärke und dein Verständnis für Anwenderprozesse einbringst
+ Anschließend überführst du gemeinsam mit dem Team die Anforderungen in ein technisches Konzept, modellierst Prozess-Schritte, erstellst Datenmodelle und entwickelst Mock-Ups für das User Interface
+ Daraufhin wirkst du bei der Umsetzung des Konzepts mit, indem du bei der Programmierung von Front- und Backend unterstützt und deine Kenntnisse in JavaScript, HTML und idealerweise ABAP anwendest
+ Im weiteren Verlauf begleitest du die Key-User bei den Tests und hilfst bei der Einführung der neuen oder weiterentwickelten Lösungen und Apps
+ Zusätzlich unterstützt du den Product Owner beim Dokumentations- und Wissensmanagement und bringst dabei innovative Ideen aus deinem Studium sowie deiner bisherigen Praxis mit ein
+ Klingt viel? Du wirst durch das erfahrene Team unterstützt und kannst so in einem geschützten Rahmen Schritt für Schritt mehr Verantwortung übernehmen.
+ So überzeugst du uns:
+ Ausbildung: Du studierst derzeit erfolgreich Informatik, Wirtschaftsinformatik, Software Engineering oder eine vergleichbare Studienrichtung und bist an einem längerfristigen Werkstudenteneinsatz interessiert
+ Erfahrungen und Kenntnisse:
+ Du hast erste Erfahrung in der Programmierung von Anwendungen mit JavaScript und HTML
+ Du hast bereits Erfahrung in der Nutzung von Visual Studio Code, Gitlab, Github Copilot oder ähnlichen Tools gesammelt
+ Idealerweise verfügst du über Grundkenntnisse im Bereich SAP, gern auch in der Programmiersprache ABAP, und möchtest diese vertiefen
+ Arbeitsweise: Du überzeugst durch deine Teamfähigkeit, Kommunikationsstärke und eine ausgeprägte Fähigkeit, dich in Anwender und deren Arbeitsprozesse hineinzuversetzen
+ Sprachkenntnisse: Sehr gute Deutschkenntnisse sowie gute Englischkenntnisse in Wort und Schrift
+ Du bist viel mehr als deine Qualifikationen und wir glauben an das Potential jeder einzelnen Person. Wir freuen uns darauf, dich kennenzulernen!
+Bei Siemens sind wir überzeugt: Wer sich wertgeschätzt und zugehörig fühlt, kann das eigene Potenzial voll entwickeln. Deshalb schaffen wir ein inklusives Arbeitsumfeld, in dem jede Person ein Gefühl der Zugehörigkeit erfährt und in dem individuelle Perspektiven und Erfahrungen geschätzt werden. Unser Engagement für Fairness und Respekt gilt für alle Bewerbenden.
+Wir legen Wert auf Chancengleichheit und freuen uns über Bewerbungen von Menschen mit unterschiedlichen Hintergründen, ausdrücklich auch von Menschen mit Behinderung.
+ Über Uns
+ Bist du bereit, die Energiewende voranzutreiben?
+Unsere Mission ist es, innovative und nachhaltige Lösungen zu entwickeln, die sowohl Energieeinsparungen ermöglichen als auch den CO₂-Fußabdruck von Gebäuden und Infrastrukturen reduzieren. Deshalb setzen wir bei Siemens im Bereich Smart Infrastructure Electrification & Automation alles daran, eine grünere Zukunft zu gestalten und unsere Lebens- und Arbeitsweise zu revolutionieren.
+Mehr Informationen zum Bereich und den Produkten findest du hier: https://www.siemens.com/de/de/unternehmen/themenfelder/smart-infrastructure.html
+www.siemens.de/karriere – wenn du mehr Informationen zu Jobs & Karriere bei Siemens erhalten möchtest.
+FAQ – wenn du eine Frage zum Thema Bewerbung bei Siemens hast.
+Wenn du darüber hinaus noch Fragen hast, wende dich gerne an uns: www.siemens.de/fragenzurbewerbung
+#frankfurt_swf
+#sagworkingstudent

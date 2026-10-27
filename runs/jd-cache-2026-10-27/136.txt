@@ -1,0 +1,41 @@
+URL: https://www.linkedin.com/jobs/view/4481046728
+TITLE: Werkstudent (w/m/d) Softwareentwickler - Vue.js
+COMPANY: nextAudit
+LOC: Aachen, North Rhine-Westphalia, Germany
+POSTED: 2026-10-24
+title: Werkstudent (w/m/d) Softwareentwickler - Vue.js
+company: nextAudit
+posted: 2 days ago
+applicants: 30 applicants
+apply_offsite: 
+---
+nextAudit ist ein junges B2B Software-Startup aus Aachen. Unsere Plattform AuditCloud hilft Unternehmen dabei, ihre internen und externen Auditprozesse zu digitalisieren und dabei einen großen Datenschatz zu heben.
+ Ein Audit kannst Du Dir vereinfacht wie eine Hauptuntersuchung des Autos vorstellen: Der Ist-Zustand wird mit einem Soll-Zustand verglichen und wenn es zu viele Abweichungen gibt, wird es teuer. Im Unternehmen kann ein Audit je nach Art natürlich sehr komplex werden.
+ Das Besondere an der AuditCloud ist der Fokus auf eine sehr einfache Bedienung und auf KI-Ansätze zur besseren Nutzung der erhobenen Daten. Was für Dich in modernen Apps selbstverständlich ist, gibt es in der Industrie häufig nicht. Dort sieht Software immer wieder aus wie in vergangenen Zeiten (und ist teilweise tatsächlich älter als 20 Jahre).
+ Aufgaben 
+ Du bist intensiv in die Entwicklung der AuditCloud eingebunden - natürlich agil
+ Du stehst auf gute User Experience und arbeitest daran, dass die AuditCloud den Benchmark für gute Unternehmenssoftware setzt
+ Du hilfst dabei, den Code möglichst clean und die Performance hoch zu halten
+ Wenn Du Spaß daran hast, bist Du auch im Backend willkommen - Wir arbeiten sehr intensiv mit diversen Google Cloud Services um das Backend möglichst schlank zu halten
+ Bei Interesse kannst Du an Vor-Ort Entwicklungssprints bei unseren Kunden teilnehmen
+ Qualifikation 
+ Wenn Du etwas anpackst, machst Du es gerne richtig
+ Du bist clever und sympathisch und kommst in Deinem Studium gut voran
+ Du verfügst über sehr gute Deutschkenntnisse (C1+), idealerweise auf muttersprachlichem Niveau. 
+ Du hast gute Erfahrungen mit JavaScript und optimalerweise auch mit TypeScript
+ Vue.js, Node.js und Firebase sind keine Fremdwörter für Dich
+ Gute Softwareentwicklung hört für Dich nicht beim einchecken Deines Codes im Git-Repo auf
+ Ein Studiengang im Bereich der Informatik ist hilfreich, aber nicht zwingend
+ Du hast Hobbies und Interessen die über "Ich gehe mit meinen Freunden gerne ins Kino" hinausgehen
+ Du bringst eine wöchentliche Verfügbarkeit von mindestens 16 Stunden mit
+ Benefits 
+ Gestaltungsfreiraum für Deine Ideen
+ Interesse an Deiner persönlichen Entwicklung
+ Flexible Arbeitszeiten und die Möglichkeit zum hybriden Arbeiten
+ Regelmäßige Teamevents
+ Warum lohnt es sich bei nextAudit zu arbeiten? 
+ Wir bringen über 15 Jahre Erfahrung im Aufbau von B2B Startups (Alex ist Co-Founder der Modell Aachen GmbH) und 15 Jahre Erfahrung im Aufbau von hochskalierbaren Software-Systemen mit
+ Wir möchten Dich auf Deinem Weg weiterbringen und unser Wissen mit Dir teilen
+ Wir werden einfach zusammen rocken und Erfolge feiern!
+ Wir laden dich bei erfolgreicher Einstellung auf dein erstes Falafel Sandwich/Schawarma ein, wenn du das Stichwort "AKL" in deiner Bewerbung einbringst.
+ Wir freuen uns auf Dich!

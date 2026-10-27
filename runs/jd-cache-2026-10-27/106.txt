@@ -1,0 +1,28 @@
+URL: https://www.linkedin.com/jobs/view/4446792257
+TITLE: Werkstudent/-in Softwareentwicklung .NET (all genders)
+COMPANY: adesso SE
+LOC: Leipzig, Saxony, Germany
+POSTED: 2026-10-25
+title: Werkstudent/-in Softwareentwicklung .NET (all genders)
+company: adesso SE
+posted: 1 day ago
+applicants: 66 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-in-softwareentwicklung-net-all-genders-at-adesso-se-4446792257&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Wir gehören zu den Top-Adressen in der IT-Welt und fokussieren uns auf die Optimierung der Kerngeschäfts­prozesse unserer Kunden. Durch den smarten Einsatz maßgeschneiderter IT-Lösungen unterstützen wir unsere Kunden dabei, das Beste aus ihrem Business und aktuellen Technologien herauszuholen. Unseren Erfolg aber erreichen wir nur durch eins: die Menschen bei adesso! Sie bringen Ideen, fachliches Know how und Technologien zusammen. Gemeinsam programmieren wir (deine) Zukunft bei adesso.
+ DEINE ROLLE 
+ Agile Entwicklung: Du übernimmst die agile Software-Entwicklung im .NET Framework mit den Hauptsprachen C# und JavaScript. 
+ Webentwicklung: Du arbeitest auf professionellem Niveau in interdisziplinären Projektteams an der Webentwicklung. 
+ .NET Core: Du entwickelst Software am Übergang vom .NET Framework zu .NET Core. 
+ Kundenprojekte: Du bearbeitest Projekte für nationale und internationale Kunden aus dem Finanzumfeld. 
+ Eigenständige Arbeit: Du bearbeitest eigenständig Arbeitspakete im Projektkontext. 
+ DEIN PROFIL
+ Ausbildung: Studium der Studienrichtung Informatik oder Wirtschaftsinformatik mit guten Studienleistungen
+ Praktische Erfahrung: Praktische Erfahrungen in der Web-Entwicklung und im Umgang mit C#
+ Motivation: Hohe Motivation und Selbstvertrauen, um im Team Software für anspruchsvolle Kunden entwickeln zu können
+ Technologieinteresse: Hohes Interesse, neue Technologien zu erlernen, spannende Projekte umzusetzen und Verantwortung zu übernehmen
+ Kenntnisse: Wünschenswert sind Kenntnisse zu JavaScript-Frameworks (wie React, Vue oder Angular) und einiger Open Source Produkte / Frameworks (z.B. TypeScript, Entity Framework)
+ KI Kompetenz: Du bist neugierig auf Künstliche Intelligenz, setzt KI-gestützte Tools in deinem Arbeitsalltag ein und baust deine Kompetenzen dabei Schritt für Schritt aus.
+ Sprachkenntnisse: Sehr gute Deutsch- und gute Englischkenntnisse
+ Unser Versprechen: Du wirst dich bei uns wohlfühlen! Kollegial, familiär und auf Augenhöhe – wir leben Austausch, Teamgeist und einen respektvollen Umgang miteinander. Diversität und verschiedene Blickwinkel werden bei uns genauso geschätzt wie du als Mensch. Das und viel mehr steht für unser ganz besonderes Wir-Gefühl. Für das es sogar ein Wort gibt: adessi.
+Unsere Kultur und das Zusammenarbeiten sind geprägt von gegenseitiger Wertschätzung, Anerkennung und Unterstützung. Das verbindet uns hierarchieübergreifend – auch im Home-Office. So belegen wir zum wiederholten Mal den 1. Platz beim Wettbewerb „Deutschlands Beste Arbeitgeber in der ITK“!. Unser umfangreiches Trainingsangebot und ein transparentes Laufbahnstufenmodell für alle sorgen dafür, dass deine Entwicklung bei uns nicht stillsteht. Denn gemeinsam zu wachsen und Chancengeber zu sein, das ist programmiert in unserer DNA.

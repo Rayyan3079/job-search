@@ -1,0 +1,39 @@
+URL: https://www.linkedin.com/jobs/view/4475586491
+TITLE: Internship - Data Analytics & Machine Learning in Sales Excellence (d/f/m)
+COMPANY: Schaeffler
+LOC: Regensburg, Bavaria, Germany
+POSTED: 2026-10-26
+title: Internship - Data Analytics & Machine Learning in Sales Excellence (d/f/m)
+company: Schaeffler
+posted: 16 hours ago
+applicants: 166 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Finternship-data-analytics-machine-learning-in-sales-excellence-d-f-m-at-schaeffler-4475586491&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Schaeffler is a dynamic global technology company and its success has been a result of its entrepreneurial spirit and long history of private ownership. Does that sound interesting to you? As a partner to all of the major automobile manufacturers, as well as key players in the aerospace and industrial sectors, we offer you many development opportunities.
+General information
+Sales Excellence transforms data into clear and actionable insights that enable smarter and more profitable decisions. We develop intelligent tools and harmonized processes that simplify daily work and boost sales performance. By leveraging deep customer insights and building strong technical partnerships, we identify new opportunities that drive sustainable and profitable growth.
+A basic requirement for an internship at Schaeffler is proof of enrollment at the time of the internship. This position is available as soon as possible for a duration of 6 months.
+ Your Key Responsibilities
+ Support the development and implementation of innovative AI use cases within Sales Excellence
+ Collect, preprocess, and normalize large datasets to serve as the foundation for machine learning models
+ Maintain and enhance our Sales Power BI dashboard to improve data visualization and accessibility
+ Create insightful data analyses and visualizations that drive data-informed decision making
+ Assist in automating data workflows to increase efficiency across sales processes
+ Prepare technical documentation, reports, and presentations for internal stakeholders
+ Your Qualifications
+ Studies in Data Science, (Business) Informatics, (Business) Engineering, or a comparable field of study
+ Very good verbal and written skills in German as well as good skills in English
+ Proficient in MS Office applications
+ Experience with data visualization tools, particularly Power BI, including dashboard creation and maintenance to communicate insights effectively
+ Proficiency in data preprocessing skills such as data cleaning, feature engineering, handling missing values, and normalization
+ Skills in scripting or programming languages (e.g., Python, SQL, R) to automate data workflows and streamline processes
+ Strong foundation in machine learning concepts, including supervised learning, classification algorithms, model evaluation, and validation techniques
+ Familiarity with model deployment and automation concepts is a plus to facilitate integration into business processes
+ Independent, structured, and responsible working style combined with a strong willingness to learn
+ Strong teamwork and communication skills
+ As a global company with employees around the world, it is important to us that we treat each other with respect and value all ideas and perspectives. By appreciating our differences, we inspire creativity and drive innovation. In this way, we contribute to sustainable value creation for our stakeholders and society as a whole. Together, we advance how the world moves.
+We place great importance on creating a working environment that promotes and actively supports diversity and inclusion. We look forward to receiving applications from all interested people, because your potential is what counts for us!
+www.schaeffler.com/careers
+Your Contact
+Vitesco Technologies AG & Co. KG
+Arleta Mil

@@ -1,0 +1,36 @@
+URL: https://www.linkedin.com/jobs/view/4482926482
+TITLE: Data Analyst
+COMPANY: LuLu Group India
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-26
+title: Data Analyst
+company: LuLu Group India
+posted: 23 hours ago
+applicants: Over 200 applicants
+apply_offsite: 
+---
+📢 WE’RE HIRING | DATA ANALYST 
+ Greetings from LuLu Group India!! 
+ We are looking for a skilled and analytical Data Analyst with 3+ years of experience to lead Power BI reporting and deliver actionable business insights for our retail operations.
+ Location: Kochi
+ Experience: 3+ Years
+ Immediate Joiners Preferred 
+ Key Responsibilities 
+ Design and develop CXO-level Power BI dashboards for retail business performance.
+ Build advanced DAX measures and Power Query (M) transformations.
+ Develop efficient data models using star-schema principles, relationships, and Row-Level Security (RLS).
+ Write and optimize SQL queries using Amazon Redshift.
+ Manage Power BI Service, including workspaces, gateways, and scheduled refreshes.
+ Ensure effective dashboard UX and self-service analytics.
+ Collaborate with business stakeholders and technical teams to translate requirements into analytical solutions.
+ Mentor BI interns and junior data analysts.
+ Apply retail domain knowledge across sales, inventory, footfall, margins, and category performance.
+ Required Skills & Qualifications 
+ Advanced Power BI, DAX, Power Query, and data modelling.
+ Strong SQL skills and experience with Amazon Redshift.
+ Knowledge of Power BI Service administration.
+ Strong dashboard design, data visualization, and stakeholder management skills.
+ Retail or e-commerce analytics experience is an added advantage.
+ Bachelor’s degree in Business, Analytics, Computer Science, or a related field.
+ Power BI certification (PL-300) is an added advantage.
+ 📩 Interested candidates can share their updated resume to: aiswaryar@luluindia.com

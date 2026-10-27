@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4472728009
+TITLE: Praktikant im Bereich AI Engineering: AI-aided Way of Working (w/m/d)
+COMPANY: MAN Truck & Bus SE
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-10-26
+title: Praktikant im Bereich AI Engineering: AI-aided Way of Working (w/m/d)
+company: MAN Truck & Bus SE
+posted: 11 hours ago
+applicants: 120 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikant-im-bereich-ai-engineering-ai-aided-way-of-working-w-m-d-at-man-truck-bus-se-4472728009&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Stellenbezeichnung: Praktikant im Bereich AI Engineering: AI-aided Way of Working (w/m/d)
+Startdatum der Ausschreibung: 28.09.26
+ Zu besetzen ab
+ 01.12.2026
+ Dein Arbeitsumfeld
+ Wir bei MAN Truck & Bus sind Teil eines starken internationalen Teams und einer der führenden europäischen Nutzfahrzeughersteller und Anbieter von Transportlösungen. Zusammen mit den Marken Scania, Volkswagen Truck & Bus und International gehören wir zur TRATON GROUP.
+Als Teil dieses Verbundes stehen wir vor großen Herausforderungen: Unsere Fahrzeuge werden immer autonomer und vernetzter, um emissionsärmer unterwegs zu sein. Dafür arbeiten wir an nachhaltigen Lösungen. Eine Karriere bei MAN Truck & Bus bietet unzählige Möglichkeiten, sich an diesem Wandel zu beteiligen. Der Kunde an erster Stelle, Respekt, Teamgeist, Verantwortung und Verschwendung vermeiden – das sind unsere Unternehmenswerte, die wir bei MAN leben.
+Zieh mit uns an einem Strang. Als Teil unseres globalen Teams von über 32.000 Mitarbeitenden wirst du Zukunftsvisionen mit uns gemeinsam Wirklichkeit werden lassen.
+Wir sehen Individualität unserer Mitarbeitenden als Stärke an und freuen uns über vielfältige Bewerbungen von Personen mit unterschiedlichen Hintergründen. Falls du während deiner Bewerbung Unterstützung benötigst, melde dich bitte bei uns.
+Künstliche Intelligenz verändert nicht nur einzelne Tools, sondern die Art, wie Engineering künftig arbeitet, Wissen nutzt und neue Lösungen entwickelt. Damit daraus echte Wirkung entsteht, braucht es klare Strukturen, wiederholbare Methoden und eine Arbeitsweise, in der Menschen und AI sinnvoll zusammenspielen. Genau hier setzen wir an: Wir gestalten eine AI-aided Way of Working für das Engineering und suchen Menschen, die strukturiert mitarbeiten, technologische Impulse einbringen und bestehende Ansätze konstruktiv weiterdenken, am besten mit Dir.
+ Darauf kannst Du dich freuen 
+ Du unterstützt proaktiv die AI‑Koordination im Bereich Engineering Strategy bei operativen, konzeptionellen und strategischen Themen rund um AI‑Initiativen und deren Umsetzung und bringst dabei eigene Tech-Impulse und eine hinterfragende Perspektive ein.
+ Du wirkst bei der Konzeption und Standardisierung von Methoden/Patterns mit (z. B. von Artefakten, Checklisten, Dokumentationsstandards), sodass Use Cases reproduzierbar skaliert werden können.
+ Du unterstützt eigenverantwortlich bei der Umsetzung konkreter AI-North-Star-Bausteine durch Prototyping und Zuarbeit (z. B. Aufbau/Erweiterung einer Wissensbasis, strukturierte Aufbereitung von Dokumenten).
+ Du gestaltest Netzwerke agentischer AI zur Orchestrierung wiederholbarer Workflows (inkl. Evaluation und Qualitätsmessung) und zur Skalierung von AI-Outputs über definierte Human-in-the-Loop-Gates.
+ Du wirkst bei der Erstellung von Präsentationen, Entscheidungsvorlagen, Status‑/Fortschrittsübersichten und bei der Vor‑/Nachbereitung von Workshops und Meetings mit.
+ Du pflegst eine strukturierte Ablage und unterstützt die Dokumentation von Erkenntnissen aus Pilotierungen (z. B. was funktioniert und was nicht, nächste Iteration).
+ Darauf freuen wir uns
+ Du bist in einem technischen Studium immatrikuliert mit klarerer Tech-Vertiefung.
+ Du verfügst über erste praktische Erfahrung in Programmierung und Datenverarbeitung (z. B. Python; grundlegende Datenanalyse).
+ Du bringst Grundkenntnisse in Funktion und operativer Anwendung von GenAI-/LLM-nahen Konzepten mit; eigene praktische Erfahrungen, z. B. über Projekte auf GitHub, Kaggle, Hugging Face oder vergleichbaren Plattformen, sind von Vorteil.
+ Du besitzt eine strukturierte Arbeitsweise, analytisches Denkvermögen und die Fähigkeit, Informationen auf das Wesentliche zu verdichten.
+ Du bist sicher im Umgang mit MS-Office-Anwendungen und kannst technische Inhalte adressatengerecht aufbereiten.
+ Du verfügst über sehr gute Deutsch‑ und Englischkenntnisse in Wort und Schrift.
+ Bei erfolgreichem Verlauf des Praktikums besteht die Möglichkeit, im Anschluss eine thematisch angrenzende Abschlussarbeit in der Engineering Strategie zu erarbeiten.
+Hat MAN Dein Interesse geweckt? Wir freuen uns auf deine aussagekräftige Bewerbung für ein Pflichtpraktikum von mindestens 3 Monaten (auch als Kombination aus einem Pflichtpraktikum und einem freiwilligen Praktikum möglich).
+ Informationen zur Stelle 
+ Kennziffer: 6801
+Ansprechpartner (Fachbereich): Luca Möderl, luca.moederl@man.eu
+Ansprechpartnerin (HR): Claudia Wünsche, claudia.wuensche@man.eu
+Integrität und Compliance sind wesentliche Teile unserer Unternehmenskultur.
+Wir fördern Vielfalt und Chancengleichheit und freuen uns auf vielfältige Bewerbungen.

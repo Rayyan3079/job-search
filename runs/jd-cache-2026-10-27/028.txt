@@ -1,0 +1,35 @@
+URL: https://www.linkedin.com/jobs/view/4472880020
+TITLE: Intern / Thesis AI Transformation of Knowledge Work in R&D (m/f/d)
+COMPANY: BSH Home Appliances Group
+LOC: Traunreut, Bavaria, Germany
+POSTED: 2026-10-25
+title: Intern / Thesis AI Transformation of Knowledge Work in R&D (m/f/d)
+company: BSH Home Appliances Group
+posted: 1 day ago
+applicants: 117 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fintern-thesis-ai-transformation-of-knowledge-work-in-r-d-m-f-d-at-bsh-home-appliances-group-4472880020&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Tomorrow is our home.
+Start swiftly and grow fast at BSH Home Appliances Group: As a leading manufacturer of home appliances and solutions, we move things forward to make people’s lives easier. With our global brands Bosch, Siemens, Gaggenau and Neff as well as our local brands, there is a world of opportunities for you to discover. We encourage people to develop their potential and never stop learning. After all, we believe that great work is the result of doing what you love. Join us now and give your career a home.
+BSH Hausgeräte GmbH | Job-ID: 76046789 | Full time / Part time | From May 2027
+Traunreut
+Your responsibilities
+Are you well-versed in theory and now looking for practical experience in a dynamic company? Then use your talent and expertise to help us with the following tasks
+ Identify and assess AI opportunities to improve knowledge work within Research and Development
+ Design AI-supported workflows and integration concepts for cross-functional teams
+ Develop prototypes or proof-of-concepts using generative AI and agentic automation
+ Measure and report potential business impact and productivity gains from AI solutions
+ Collaborate with product development, connectivity, data analytics and project management experts
+ Your profile
+ Enrolled in a Bachelor’s or Master’s program in Computer Science, Data Science, AI, Engineering or a related field.
+ Practical experience from internships, research projects, or coursework in AI, ML or data analytics is preferred.
+ Solid Python skills and experience with ML frameworks, LLMs, prompt engineering, or data analysis tools.
+ Strong collaboration, curiosity, structured problem solving, and clear communication across teams
+ Your benefits
+ Flexible organization of working hours by means of time account
+ 35h / week
+ Support during induction and integration into the team
+ Cooperation at eye level and appreciative working atmosphere
+ Working in an inspiring team with a hands-on mentality
+ Further information
+Please visit bsh-group.com/career. We would love to welcome you in our team!

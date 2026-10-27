@@ -1,0 +1,51 @@
+URL: https://www.linkedin.com/jobs/view/4473654506
+TITLE: Internship - Software Developer (f/m/x)
+COMPANY: IBM
+LOC: Ehningen, Baden-Württemberg, Germany
+POSTED: 2026-10-26
+title: Internship - Software Developer (f/m/x)
+company: IBM
+posted: 13 hours ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Finternship-software-developer-f-m-x-at-ibm-4473654506&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Introduction
+ Shape the Future of Data and AI with IBM
+ A career in IBM Software means being part of a team that transforms our clients' biggest challenges into innovative solutions. At IBM, we are building the next generation of AI-powered, cloud-native software that helps the world's leading enterprises unlock the full value of their data and knowledge. We foster a culture of curiosity, continuous learning, and innovation, creating endless opportunities for growth and professional development.
+We are looking for highly motivated Bachelor and Master students to join our software development team and help shape the future of Agentic AI. You will contribute to innovative solutions that connect people, departments, and business processes with the information they need to make smarter decisions and drive business outcomes.
+Our products enable organizations to manage, govern, and enrich their data assets while ensuring compliance with business policies and standards. By combining advanced AI technologies with enterprise-grade software platforms, we help customers accelerate analytics, automation, and AI adoption at scale.
+ As a Bachelor or Master intern joining our team, you will:
+ Receive an attractive salary of €2,298 gross per month (based on 38 hours/week, voluntary internship)
+ Work in a highly collaborative and multicultural environment with colleagues across Germany, India, and the United States
+ Gain hands-on experience with real-world enterprise software used by global organizations
+ Contribute to innovative Agentic AI solutions and cutting-edge cloud technologies
+ Learn about the complete software development lifecycle, from design and implementation to testing, deployment, and operations
+ Receive mentorship from experienced software engineers, architects, and technical leaders
+ Expand your knowledge in AI, cloud computing, data management, and large-scale distributed systems
+ Build a valuable professional network within one of the world's leading technology companies
+ Have the opportunity to turn innovative ideas into solutions that create measurable customer impact
+ Your Role And Responsibilities
+ Your Role
+ As a member of our international development team, you will contribute to the design, implementation, and enhancement of cutting-edge Data Platform and Agentic AI capabilities within IBM's enterprise software portfolio. Working closely with software engineers, architects, product managers, and AI specialists, you will gain hands-on experience across the entire software development lifecycle while helping deliver innovative solutions to some of the world's largest enterprises.
+ What You Will Do
+ You may have the opportunity to:
+ Design, develop, and implement IBM software solutions, covering AI Agents, Data Platforms, Observability and Z Software by leveraging IBM technologies
+ Explore and evaluate emerging AI trends and identify opportunities to integrate them into existing products
+ Define and prioritize innovative AI use cases aligned with business and customer needs
+ Collaborate with cross-functional teams to translate business requirements into technical solutions
+ Develop and extend software components using modern programming languages, frameworks, and cloud technologies
+ Optimize and enhance existing code bases to improve performance, scalability, and user experience
+ Test, validate, and refine AI-powered solutions to ensure high quality and reliability
+ Automate development and testing processes to improve engineering efficiency
+ Research the latest developments in Artificial Intelligence, Machine Learning, and Agentic AI
+ Prepare and present findings, recommendations, and progress updates to stakeholders
+ Participate in knowledge-sharing activities and contribute to a culture of continuous learning and innovation
+ Preferred Education
+ Master's Degree
+ Required Technical And Professional Expertise
+ Enrolled in a Bachelor’s or Master's degree program in Computer Science, Software Engineering, Artificial Intelligence, Data Science, or a related field
+ Strong interest in AI, software development, cloud technologies, and enterprise software including relational databases
+ Programming experience in one or more modern languages such as Java, C++, Python, JavaScript, TypeScript, or similar
+ Analytical mindset with strong problem-solving skills
+ Ability to work independently while collaborating effectively within a team
+ Good communication skills in English. German language skills are a plus

@@ -1,0 +1,24 @@
+URL: https://jobicy.com/jobs/154032-contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox
+TITLE: Contract Software Engineer - WebCompat Tooling (Dashboards and Reporting), Firefox
+COMPANY: Mozilla
+LOC: Canada,  France,  Germany,  UK | Contract
+POSTED: 2026-10-25
+title: Contract Software Engineer &#8211; WebCompat Tooling (Dashboards and Reporting), Firefox
+company: Mozilla
+posted: 2026-10-25T04:20:17+00:00
+location:  | remote: TELECOMMUTE
+---
+The role
+You will build and improve the WebCompat team’s internal tooling, the dashboards and the broken-site-report screenshot pipeline the team relies on to triage and prioritize site breakage. This is a focused tooling role that makes the WebCompat program faster and more data-driven.
+Responsibilities
+• Build and improve WebCompat dashboards (triage, reporting, and metrics).
+• Improve the broken-site-report screenshot capture and pipeline.
+• Work with the WebCompat team (including QA) to turn reporting and triage needs into reliable tooling.
+Required qualifications
+• Solid web development (JavaScript, HTML, CSS, Python & Django) and experience building dashboards / data views.
+• Comfort with tooling, automation, and web services.
+• Self-directed, with good written communication.
+Preferred
+• Familiarity with WebCompat workflows and Bugzilla.
+• Experience with screenshot / automation pipelines.
+• Experience with Machine Learning

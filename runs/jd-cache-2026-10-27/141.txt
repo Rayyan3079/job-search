@@ -1,0 +1,41 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-Mobility-Data-Analyst-w-m-d-Hamburg-Hamburger-Hochbahn-AG--14687079-inline.html
+TITLE: Werkstudent Mobility Data Analyst (w/m/d)
+COMPANY: Hamburger Hochbahn AG
+LOC: Hamburg
+POSTED: stepstone
+title: Werkstudent Mobility Data Analyst (w/m/d)
+company: Hamburger Hochbahn AG
+posted: 2026-10-26T15:56:14.847Z
+location: Hamburg | remote: 
+---
+Einleitung
+ Wir – die HOCHBAHN 
+ In unseren Bussen und Bahnen bringen wir jeden Tag über eine Million Menschen an ihr Ziel. Und wir bewegen noch mehr: für Hamburg, für die Zukunft und für alle, die bei uns arbeiten.
+ Werkstudent Mobility Data Analyst (w/m/d) 
+ Du – deine Rolle bei uns 
+ Du willst nicht nur studieren, sondern schon vor dem Abschluss was bewegen? Dann los! Ob als Werkstudent*in, Praktikant*in oder Bachelorand*in/Masterand*in: Bei uns arbeitest du an echten Zukunftsprojekten, sammelst wertvolle Erfahrung und blickst hinter die Kulissen der HOCHBAHN. Hier trifft Theorie auf Praxis – mitten in Hamburg, mitten im Wandel.
+ Anstellungsart: Werkstudierendentätigkeit
+ Umfang: Teilzeit (20 h / Woche)
+ Ort: Hochbahnhaus, Steinstraße 20, 20095 Hamburg
+ Aufgaben
+ Mit Datenanalysen trägst du zur Umsetzung der Mobilitätswende bei.
+ Du unterstützt die Weiterentwicklung des Mobilitätsangebots mit der Aufbereitung von Fahrplan-, Betriebs- und soziodemografischen Daten
+ Dabei lernst du u. a. die Softwares PTV Visum und ArcGIS kennen und wendest sie an.
+ Profil
+ Laufendes Studium (gültige Immatrikulation – mindestens 4. Semester) in Verkehrswesen, Stadtplanung, Geografie, Bauingenieurwesen oder einem technischen Studiengang mit Schwerpunkt Datenverarbeitung
+ Grundlegende Kenntnisse in Tools für Datenanalysen (bspw. Excel, Python/Pandas, Databricks, Power BI)
+ Idealerweise erste Erfahrung in der Anwendung von ArcGIS bzw. PTV Visum
+ Großes Interesse an Mobilitätsthemen und der Mobilitätswende im ÖPNV
+ Begeisterung für Zahlen und Daten
+ Analytisches Denkvermögen und Motivation, viel zu bewegen
+ Wir bieten
+ Freifahrt/Deutschlandticket - Freifahrt mit den HOCHBAHN-Verkehrsmitteln? Ehrensache! Und der Zuschuss zum Deutschlandticket auch.
+ Sonderzahlungen - Mit Jahressonderzahlung, Erholungsbeihilfe und Anwesenheitsprämie hast du regelmäßig einen Extrabonus in der Tasche.
+ Weiterbildung - Du profitierst von regelmäßigen Weiterbildungen für deine persönliche und berufliche Entwicklung.
+ Weitere Informationen
+ Hast du Lust, zusammen mit uns richtig was für Hamburg zu tun? 
+ Dann mach die HOCHBAHN-Familie noch bunter und bewirb dich – ganz einfach online .
+ Du hast noch ein paar Fragezeichen im Kopf?
+ Weitere Infos gibt dir gern:
+Ricarda Glatz
+ ricarda.glatz@hochbahn.de

@@ -1,0 +1,42 @@
+URL: https://www.linkedin.com/jobs/view/4458653123
+TITLE: BI Developer
+COMPANY: CKE Restaurants, Inc.
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-22
+title: BI Developer
+company: CKE Restaurants, Inc.
+posted: 4 days ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fbi-developer-at-cke-restaurants-inc-4458653123&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Position Summary
+ The BI Developer is responsible for building, maintaining, and enhancing enterprise reporting and analytics solutions, with a primary focus on Microsoft Power BI and Microsoft Fabric. This role combines hands-on dashboard development, DAX and data modeling, and SQL-based data validation, working within data architectures and standards established by senior team members. Working across domestic, international, corporate, and franchise data domains, this position supports cross-functional teams by turning data into clear, reliable, and actionable reporting.
+ Essential Functions
+ BI Delivery & Power BI Development
+ Power BI Solution Development: Support the Sr. Manager and senior team members in developing and enhancing interactive dashboards and paginated reports; assist with executive scorecard updates as directed.
+ Report Performance: Build and optimize DAX queries and Power BI reports connected to Microsoft Fabric data sources (including Direct Lake mode) to support fast, reliable refresh performance.
+ Metric Consistency: Implement standardized metric definitions within the Power BI semantic layer as defined by senior team members and stakeholders; ensure calculations remain consistent across reports and dashboards, and flag discrepancies in metric logic for review.
+ Reporting & Documentation: Maintain documentation of data models, metric definitions, and dashboard usage guides for end-users.
+ Cloud Data Integration & Lakehouse Modeling (Snowflake & Fabric)
+ Semantic & Data Modeling: Build and maintain reporting-ready data models (Star/Snowflake schemas) within existing Medallion framework architecture (Bronze, Silver, Gold layers) across Snowflake and Microsoft Fabric (OneLake).
+ Data Integration & Validation: Write SQL queries to validate data integrity, trace data lineage, and troubleshoot datasets across Snowflake and Microsoft Fabric.
+ Pipeline Collaboration: Collaborate with data engineering teams on the integration of new data streams into the reporting layer, validating data quality and structure on the BI side.
+ AI Integration & Advanced Analytics
+ Semantic Layer Support: Maintain and extend existing Power BI semantic layers under senior guidance to support emerging use cases, including AI text-to-SQL tools.
+ Conversational Data Exploration (Exposure): Gain hands-on exposure to Snowflake Intelligence and Cortex AI tools as the organization rolls out enterprise data agents and NLP-based self-service exploration.
+ Data Governance & Operations
+ Data Governance: Ensure reports and semantic layers adhere to corporate role-based access controls (RBAC), row-level security (RLS), and data masking policies.
+ Operational Support: Provide occasional after-hours support during major deployments or period-end reporting cycles, with advance notice provided where possible.
+ Position Qualifications
+ CORE COMPETENCIES
+ 2 to 4 years of experience in information technologies, with at least 2 years focused specifically on BI development, dashboard creation, and data analysis.
+ Prior experience within the Retail or Restaurant industries (Casual Dining or Quick Service environments preferred) is a plus.
+ Education
+ Bachelor's degree preferred, ideally in Information Systems, Computer Science, Data Analytics, or a related field.
+ Technical Skills
+ Solid working knowledge of Power BI (DAX, Power Query) and hands-on familiarity with Microsoft Fabric fundamentals (OneLake, Lakehouses, Direct Lake connectivity).
+ Strong SQL skills, with the ability to write queries to validate data integrity and troubleshoot reporting datasets.
+ Working knowledge of dimensional modeling
+ WORK ENVIRONMENT
+ Restaurant Support Center that operates in a fast-paced setting with a high volume of activity and a deadline-driven environment. The role follows a hybrid work model, requiring on-site presence in the office every Tuesday, Wednesday, and Thursday.
+ THE COMPANY RETAINS THE RIGHT TO CHANGE OR ASSIGN OTHER DUTIES TO THIS POSITION AS DEEMED APPROPRIATE WITH OR WITHOUT NOTICE.

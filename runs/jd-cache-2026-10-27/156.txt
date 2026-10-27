@@ -1,0 +1,45 @@
+URL: https://www.stepstone.de/stellenangebote--Working-Student-Software-Engineering-m-f-d-Gilching-Quantum-Systems-GmbH--14315638-inline.html
+TITLE: Working Student - Software Engineering (m/f/d)
+COMPANY: Quantum-Systems GmbH
+LOC: Gilching
+POSTED: stepstone
+title: Working Student - Software Engineering (m/f/d)
+company: Quantum-Systems GmbH
+posted: 2026-10-17T01:03:37.767Z
+location: Gilching | remote: 
+---
+About us:
+ Quantum Systems specialises in the development, design, and production of small Unmanned Aerial Systems (sUAS). The company’s range of electric vertical take-off and landing (eVTOL) sUAS are built to maximize range and versatility and to provide operators with a seamless user experience. By integrating cutting-edge software capabilities, like edge computing and real-time AI-powered data processing, Quantum Systems is building next-generation UAS for clients in defence, security, public sectors.
+ What is your Day to Day Mission:
+ As a working student in Software Engineering, you support the annotation and quality assurance of training data as well as the structured management of our datasets. You also contribute to the definition and evaluation of KPIs for assessing our models and assist in conducting end-to-end tests of the entire system pipeline. In addition, you research new approaches in the field of computer vision and compare them with existing solutions. Furthermore, you help to further develop our testing infrastructure and evaluation pipelines to ensure continuous quality assurance.
+ Data Annotation & Dataset Management – Annotate and quality-check training data for object detection and end-to-end planner models, including bounding boxes, segmentation masks, and trajectory labels; maintain and version datasets to ensure consistency and traceability across model iterations
+ KPI Definition & Model Evaluation – Design, implement, and continuously improve KPIs to monitor and benchmark the performance of ML models deployed on UAVs and UGVs, covering metrics such as detection auracy, latency, precision/recall, and robustness under real-world conditions
+ End-to-End System Testing – Execute and automate end-to-end integration tests of the full perception and planning pipeline on target hardware (Nvidia Jetson), identifying bottlenecks and regressions across the entire system stack
+ Research & Model Benchmarking – Independently investigate state-of-the-art publications and open-source models in computer vision, object detection, and autonomous systems; systematically compare novel approaches against our current solutions and document findings in a structured way
+ Tooling & Test Infrastructure – Contribute to the development of testing scripts, evaluation pipelines, and CI-friendly unit tests to ensure continuous quality assurance of deployed ML components
+ What you bring to the team:
+ Educational Background – Currently pursuing a degree in Computer Science, Software Engineering, Robotics, or a related technical field
+ Programming Proficiency – Solid hands-on experience in Python (NumPy, PyTorch/TensorFlow, OpenCV) and working knowledge of C++ for performance-critical or embedded applications
+ Embedded Systems & Edge Deployment – Familiarity with Nvidia Jetson platforms (e.g. Jetson Orin/Xavier), including experience with deployment workflows such as TensorRT, CUDA optimization, or similar edge inference toolchains
+ Computer Vision & Machine Learning – Practical experience with ML fundamentals and CV tasks such as object detection, image classification, or semantic segmentation; exposure to model training, fine-tuning, and evaluation workflows
+ KPI Design & Testing Mindset – Ability to translate high-level system requirements into measurable KPIs and structured unit or integration tests; experience with testing frameworks (e.g. pytest, Google Test) is a plus
+ Independent & Structured Work Ethic – Self-driven with the ability to manage your own tasks, prioritize effectively, and deliver results with minimal supervision in a fast-paced engineering environment
+ Communication & Documentation – Strong ability to clearly communicate findings, test results, and research insights to both technical teammates and stakeholders; comfortable writing concise technical documentation and benchmark reports
+ Research Curiosity & Applied Mindset – Genuine enthusiasm for following the latest developments in autonomous systems, robotics perception, and ML — and the drive to bridge the gap between cutting-edge research and real-world deployment on robotic platforms
+ We offer
+ Why Quantum-Systems: 
+ We believe in the power of combined efforts: straightforward tech expertise paired with a customer-centric focus.
+ We are industry pioneers who are ambitious, bold, and visionary.
+ We push limits, think outside-the-box and strive for technological excellence to shape the future of aerial data.
+ We promise to be your runway for individual and professional growth.
+ Our benefits: 
+ Flexible working hours: With trust-based working hours, you are not only responsible for your working hours, but also for your work-life balance.
+ Mobile working: If it gets too turbulent for you in our office, you can get the necessary balance through mobile working.
+ Stay active: With EGYM Wellpass, you get access to thousands of fitness and sports facilities — and of course, we subsidize the membership.
+ Corporate Benefits: Your opportunity for attractive offers and discounts from well-known suppliers and brands, e.g. Adidas, Apple, Expedia.
+ Employee events: We not only want to grow together, but also celebrate our successes together.
+ Canteen: Be powerful with delicious energy, daily lunch budget is sponsored.
+ Company Shuttle: Enjoy our convenient shuttle service that picks you up from Laim in Munich and brings you to our location, with return trips at the end of the workday.
+ Our commitment: 
+ We are an open-minded company that not only values diversity, but actively promotes it. Regardless of gender, age, ethnic origin, religion, sexual orientation or disability, we firmly believe that the diversity of our employees is an essential part of our success.
+ At our company, every voice is heard and every perspective is valued. We believe that our differences enrich us and help us to find creative solutions and generate innovative ideas. We pride ourselves on creating an inclusive work environment where all employees can reach their full potential.

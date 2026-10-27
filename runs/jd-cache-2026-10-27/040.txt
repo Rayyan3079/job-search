@@ -1,0 +1,52 @@
+URL: https://www.linkedin.com/jobs/view/4480038628
+TITLE: Analista de BI Sênior (Power BI)
+COMPANY: Cruzeiro do Sul Educacional
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-22
+title: Analista de BI Sênior (Power BI)
+company: Cruzeiro do Sul Educacional
+posted: 4 days ago
+applicants: 70 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fbr.linkedin.com%2Fjobs%2Fview%2Fanalista-de-bi-s%25C3%25AAnior-power-bi-at-cruzeiro-do-sul-educacional-4480038628&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Olá, somos a Cruzeiro do Sul Educacional! ⭐
+Nós acreditamos no poder de transformação de vidas por meio da educação de qualidade e excelência! Aqui, nós buscamos conectar diferentes pessoas para que possam construir um mundo melhor a partir da educação, com muito trabalho, respeito e dedicação, proporcionando a melhor experiência e apoiando a jornada do conhecimento de mais de 500 mil alunos.
+A Cruzeiro do Sul Educacional S/A é um dos maiores e mais representativos grupos de educação do país, tendo instituições de ensino academicamente relevantes e marcas reconhecidas em suas respectivas regiões, das suas escolas de ensino básico às instituições de ensino superior.
+Docentes e colaboradores de diversas áreas trabalham em sintonia para garantir essa construção diária. E estamos sempre em busca de novas pessoas para colaborar com esse objetivo, sejam profissionais que procuram por uma primeira oportunidade no mercado de trabalho, até os mais experientes.
+Você se identifica e acredita nesse propósito e quer trabalhar em uma de nossas marcas? Venha fazer parte do nosso time! Estamos de braços abertos para recebê-lo(a).
+Para se candidatar a uma de nossas vagas, é importante manter todos os seus dados atualizados e completos. Fique à vontade para se cadastrar em todas as vagas disponíveis do seu interesse, apenas recomendamos que você finalize um processo antes de iniciar um novo.
+ Responsabilidades e atribuições
+ Resumo:
+ Profissional com sólida experiência em Business Intelligence, especializado em desenvolvimento de dashboards, relatórios e soluções analíticas em Power BI. Atuação estratégica em desenho de modelos de dados, integração com múltiplas fontes de informação e transformação de dados em insights acionáveis para apoio à tomada de decisão. Perfil sênior, com visão de negócio, capacidade de liderança técnica e atuação consultiva junto a stakeholders.
+ Principais Responsabilidades:
+ Desenvolver, manter e otimizar dashboards e relatórios no Power BI.
+ Estruturar e modelar dados em Power Query e DAX.
+ Realizar integrações com múltiplas fontes (SQL Server, Oracle, APIs, Excel, Azure, etc.).
+ Garantir governança, segurança e padronização de dados e relatórios.
+ Atuar em conjunto com áreas de negócio para levantamento de requisitos e definição de KPIs.
+ Apoiar na definição da arquitetura de dados e boas práticas de BI.
+ Conduzir treinamentos e repasse de conhecimento para equipes usuárias.
+ Liderar tecnicamente iniciativas de BI e apoiar times mais juniores.
+ Requisitos Técnicos:
+ Power BI (avançado: DAX, Power Query, Dataflows, Service, Row-Level Security).
+ Modelagem dimensional e tabular de dados.
+ Experiência em SQL (criação e otimização de queries).
+ Conhecimento em ETL e integração de dados.
+ Experiência com GCP (Bigquery, Composer e Dataform) é um diferencial.
+ Experiência com CI/CD do PowerBI e Tabular Editor é um diferencial
+ Habilidade para traduzir requisitos de negócio em soluções técnicas.
+ Competências Comportamentais:
+ Perfil analítico, orientado a resultados e resolução de problemas.
+ Boa comunicação e capacidade de traduzir dados em insights de valor.
+ Proatividade e visão estratégica.
+ Capacidade de atuar de forma consultiva e com stakeholders de diferentes níveis.
+ Liderança técnica e colaboração em equipe.
+ Formação:
+ Graduação em Ciência da Computação, Engenharia, Sistemas de Informação, Estatística, Administração ou áreas correlatas.
+ Pós-graduação e certificações em Power BI, Data Analytics ou Azure são diferenciais.
+ Requisitos e qualificações
+ Escolaridade: Superior Completo
+ Informações adicionais
+ Horário de trabalho:
+ 09h às 19h (Seg à Sex) 220h
+ Benefícios:

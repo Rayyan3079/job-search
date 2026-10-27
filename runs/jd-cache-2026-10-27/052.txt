@@ -1,0 +1,51 @@
+URL: https://www.linkedin.com/jobs/view/4465682967
+TITLE: Data Analyst – Facility & Maintenance Analytics
+COMPANY: Basic-Fit
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-21
+title: Data Analyst – Facility & Maintenance Analytics
+company: Basic-Fit
+posted: 5 days ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fnl.linkedin.com%2Fjobs%2Fview%2Fdata-analyst-%25E2%2580%2593-facility-maintenance-analytics-at-basic-fit-4465682967&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+This Is What Your Role Looks Like
+ Are you excited about turning building and facility data into insights that make a real difference to how our clubs run? Are you able to spot a recurring issue in a mountain of maintenance data and translate it into a number a manager can act on?
+Our Facility Team is expanding, and we're looking for a Data Analyst - Facility & Maintenance Analytics who will help our Facility Department make the most out of data and take club performance to the next level. You'll turn raw Facility & Maintenance data - starting with facility ticket data (preventive and corrective maintenance) and financial data - into standing dashboards, flagged issues, and cost/impact figures.
+Your Responsibilities
+ Analyze existing facility ticket, maintenance, and financial data (mainly in Databricks) to identify recurring issues, root causes, and cost drivers. 
+ Build and maintain dashboards, so managers have a standing, self-serve overview instead of one-off analyses. 
+ Flag day-to-day issues and anomalies for the responsible managers to investigate and act on. 
+ Evaluate the cost impact of processes and supplier performance (SLA adherence, benchmarking between suppliers, cost-per-intervention on recurring assets). 
+ Write your own SQL queries and build new views and aggregations on existing data. 
+ Grow into new projects as the long-term data-landscape approach makes more club data available. 
+ Your Team 
+ You'll join the central Facility Team and work closely with the Data Platform Team that maintains the underlying Databricks environment. Together, you turn facility and maintenance data into insights that facility managers and club operations can act on.
+ Who Are You
+ You're an analytical thinker who can digest complex maintenance and cost data, spot trends versus noise, and translate them into a clear signal for non-technical stakeholders such as facility managers. You're a self-starter and proactive in flagging issues, without pulling the decision or the fix toward yourself.
+ Additionally, We're Looking For Someone Who Has
+ A completed Bachelor's or Master's degree (HBO/WO) - in a quantitative, business, or technical field, or equivalent hands-on analytics experience. 
+ Knowledge of and experience with data related to buildings and Facility Management (e.g. maintenance, ticketing, asset, or supplier/SLA data) - a requirement for this role. 
+ Affinity with cost and financial analysis (cost-per-intervention, benchmarking). 
+ Strong SQL skills and experience working with a modern data platform (e.g. Databricks) or a comparable BI/data warehouse environment. 
+ Experience building and maintaining dashboards (e.g. Power BI) and a solid grasp of basic statistical/trend analysis. 
+ Experience independently building your own views/aggregations on existing data. 
+ What We Offer You
+ At Basic-Fit, it's not just about work, it's about your growth. As a Data Analyst - Facility & Maintenance Analytics, you'll have the freedom to make an impact and develop yourself in a dynamic environment.
+ What You Can Expect From Us
+ Learning & Development: Unlimited access to GoodHabitz and LinkedIn Learning. 
+ Career Growth: Plenty of opportunities for professional and personal development. 
+ Work Culture: An informal, international, and down-to-earth environment. We value working together, so we work 4 days in the office, 1 day from home. 
+ Innovation: Your ideas contribute to strategic projects. 
+ Salary: A monthly gross salary between €3.500 and €5.500 based on 40 hours, depending on your experience and background. 
+ Perks & Benefits: Travel allowance, bike plan, health insurance discounts and remote work allowance.
+ Fitness: Access to our gym at HQ. 
+ About Basic-Fit
+ Basic-Fit is Europe's leader in the value-for-money fitness market, with more than 4.7 million members across 1,650+ clubs in 6 countries. We are continuously growing and improving. If you're looking for a place where you can make an impact while having fun at work, you've come to the right place!
+ What Makes Us Unique? 
+ Work with Impact: What you do makes a difference. We don't just work for our members, partners, and teams - we work with them. 
+ Collaboration: Everyone works together to achieve goals and celebrate success. 
+ Diversity & Inclusion: We welcome everyone into our workplace. 
+ 🎯 Apply Now! 
+ Ready for your next adventure? Click the Apply button, and we'll get in touch with you as soon as possible.
+Questions? Feel free to contact Yara van Bodegom at yara.vanbodegom@basic-fit.com.

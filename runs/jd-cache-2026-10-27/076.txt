@@ -1,0 +1,34 @@
+URL: https://www.linkedin.com/jobs/view/4481816369
+TITLE: DÉVELOPPEUR POWER BI CONFIRMÉ H/F
+COMPANY: Free-Work
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-26
+title: DÉVELOPPEUR POWER BI CONFIRMÉ H/F
+company: Free-Work
+posted: 6 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fjobs%2Fview%2Fd%25C3%25A9veloppeur-power-bi-confirm%25C3%25A9-h-f-at-free-work-4481816369&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Contexte du poste :
+ Nous recherchons un Développeur Power BI confirmé pour accompagner un acteur international dans la conception et le déploiement de solutions décisionnelles dédiées aux équipes Achats & Approvisionnements.
+Vous interviendrez sur plusieurs projets en parallèle, de la préparation des données jusqu'à la livraison des tableaux de bord, en collaboration avec les équipes métier et les équipes Data.
+ Missions principales :
+ Concevoir et développer des tableaux de bord Power BI interactifs, performants et adaptés aux besoins des utilisateurs.
+ Rédiger et optimiser des requêtes SQL complexes pour extraire, transformer et contrôler les données issues du Data Lake.
+ Concevoir des modèles de données robustes et évolutifs, notamment en schéma en étoile, et développer les mesures DAX nécessaires aux analyses Achats.
+ Collaborer avec les équipes Data Lake, Data Engineering et Data Ops pour garantir la qualité des données et assurer le bon fonctionnement des pipelines.
+ Échanger avec les interlocuteurs métier pour recueillir les besoins, présenter les solutions développées, animer des démonstrations et intégrer les ajustements validés.
+ Optimiser les performances des rapports et améliorer continuellement les solutions existantes.
+ Assurer la traçabilité des indicateurs, de la donnée source jusqu'aux visuels des rapports.
+ Gérer les versions des scripts SQL et des livrables Power BI dans GitLab, et rédiger la documentation technique nécessaire à leur maintenance.
+ Profil candidat:
+ Le profil recherché
+ Expérience d'au moins 4 ans en développement BI, avec une forte spécialisation sur Power BI.
+ Excellente maîtrise de Power BI, du langage DAX et de la modélisation des données.
+ Maîtrise avancée de SQL et expérience dans le développement de requêtes complexes.
+ Expérience de collaboration avec des équipes Data Lake, Data Engineering ou Data Ops.
+ Expérience dans la gestion de projets BI de bout en bout, du cadrage des besoins au déploiement et à la maintenance.
+ Bonne maîtrise de GitLab et de VS Code.
+ Anglais courant, à l'écrit comme à l'oral, indispensable pour évoluer dans un environnement international.
+ Autonomie, rigueur, sens de l'organisation et capacité à gérer plusieurs projets simultanément.
+ Une expérience en analytique Achats & Approvisionnements et des connaissances en Python seraient des atouts.

@@ -1,0 +1,25 @@
+URL: https://www.linkedin.com/jobs/view/4480780574
+TITLE: Business Intelligence Developer(SQL/PowerBI/Tableau/AWS)
+COMPANY: SM Retail
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-21
+title: Business Intelligence Developer(SQL/PowerBI/Tableau/AWS)
+company: SM Retail
+posted: 5 days ago
+applicants: 45 applicants
+apply_offsite: 
+---
+Job Summary: 
+ An experienced reports and visualization analyst who will be working with the business users across the organization to determine their analytic needs, provide business analysis and design reports for Business and Marketing Teams to be used for insighting, customer profiling and campaign analysis.
+ Responsibilities: 
+ Knowledgeable in Report Generation and Data Analysis, particularly in profiling, segmentation & CRM(Customer Relationship Management)
+ Guide users in data analysis, customer profiling, customer segmentation and measuring campaign effectiveness.
+ Analyze transaction data to gain insight in improving store traffic and customer loyalty.
+ Coordinate with teams on report production requirements and schedules, to be able to publish reports on a timely basis.
+ Ensure data quality and integrity throughout the process of building and optimizing dashboard performance
+ Lead the team of BI Developers and Data Analysts to deliver report requirements via T-SQL Extraction and Data Visualization tool
+ Qualifications: 
+ Preferably more than 5 years’ experience specializing in Data Mining, Database Query and Reports generation, Data Visualization or equivalent, with exposure in Loyalty and CRM programs, and has managed a team or major projects.
+ Proficient in SQL scripting, Visualization Tool such as: Power BI and Tableau.
+ Detail oriented with high emphasis on quality and accuracy
+ Must possess excellent verbal and written communication skills

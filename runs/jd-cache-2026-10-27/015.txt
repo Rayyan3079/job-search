@@ -1,0 +1,59 @@
+URL: https://www.linkedin.com/jobs/view/4476143477
+TITLE: Consultant für AI & Cloud Transformation (m/w/d)
+COMPANY: Cassini Consulting AG
+LOC: Germany
+POSTED: 2026-10-06
+title: Consultant für AI & Cloud Transformation (m/w/d)
+company: Cassini Consulting AG
+posted: 3 weeks ago
+applicants: 55 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fconsultant-f%25C3%25BCr-ai-cloud-transformation-m-w-d-at-cassini-consulting-ag-4476143477&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Wir führen unsere Klienten mit Wissen zum Wettbewerbsvorsprung. Weil wir glauben, dass Digitalisierung und Transformation eine neue Form der Beratung erfordert. Jeder dritte DAX-Konzern, die wichtigsten Sicherheits- und Bundesbehörden, Sozialversicherungsträger und beweglichsten Mittelständler vertrauen uns in der Business-, IT-Strategie-, Technologie- und Projektberatung. Laut Wirtschaftsmagazin brandeins zählt Cassini zu den besten Unternehmensberatungen Deutschlands.
+ Cassini sucht Beraterinnen und Berater, die vordenken, frei handeln und Großes bewegen wollen. Wer Zukunft gestaltet, findet bei uns Erfüllung – flexible Strukturen, viel Verantwortung und eine Kultur des Wissens, der Fairness und des Muts.
+ Im Bereich Data, Analytics & AI unterstützen wir unsere Kunden dabei, datengetriebene Geschäftsmodelle zu entwickeln und Künstliche Intelligenz produktiv in ihre Prozesse zu integrieren. Unser Fokus liegt auf skalierbaren, cloudbasierten Architekturen – von der Idee bis zum Betrieb.
+ Deshalb suchen wir dich ab sofort zur Verstärkung unseres Teams als Consultant AI & Cloud Transformation (m/w/d). 
+ Deine Mission: 
+ Als AI Cloud Engineer bist du ein zentraler Bestandteil unserer KI-Projekte und verbindest technische Umsetzung mit architektonischem Denken. Neben der Entwicklung von Lösungen entwickelst du dich perspektivisch in Richtung Architekturberatung , in der du Kunden bei der Gestaltung nachhaltiger AI- und Datenplattformen unterstützt.
+ Typische Use Cases 
+ Aufbau von unternehmensweiten Datenplattformen (z. B. auf Azure) als Grundlage für Analytics und AI
+ Entwicklung von Generative AI Lösungen (z. B. Chatbots, Assistenzsysteme, Retrieval-Augmented Generation)
+ Integration von LLMs in bestehende Systemlandschaften und Geschäftsprozesse
+ Umsetzung von End-to-End Machine Learning Pipelines (inkl. Training, Deployment, Monitoring)
+ Modernisierung bestehender Datenarchitekturen hin zu skalierbaren Cloud-Setups 
+ Sicherstellung von Datenverfügbarkeit, Governance und Performance 
+ Standort: Deutschlandweit (Cassini Workspaces und remote)
+ Beginn der Tätigkeit: ab sofort unbefristet – in Vollzeit
+ Das sind deine Aufgaben: 
+ Technische Umsetzung und Begleitung von KI- und Data-Projekten auf modernen Cloud-Plattformen
+ Aufbau und Weiterentwicklung von Datenpipelines (Batch & Streaming)
+ Integration und Operationalisierung von Machine-Learning- und GenAI-Lösungen 
+ Design und Implementierung von Cloud-Architekturen (insb. Microsoft Azure, ggf. StackIT)
+ Unterstützung bei Deployment, Monitoring und Betrieb (MLOps / LLMOps)
+ Perspektivisch: Mitwirkung bei Architekturentscheidungen und technischer Beratung auf Kundenseite
+ Enge Zusammenarbeit mit anderen Experten und Stakeholdern
+ Das ist dein Profil: 
+ Ca. 2–3 Jahre Erfahrung in Softwareentwicklung, Data Engineering oder Cloud-Projekten
+ Fundiertes Verständnis von Datenverarbeitung, Datenpipelines und verteilten Systemen 
+ Erfahrung mit Cloud-Plattformen , idealerweise Microsoft Azure (z. B. Azure ML, Data Factory, Synapse, etc.)
+ Praktische Erfahrung im Umgang mit Machine Learning oder Generative AI 
+ Interesse daran, sich von der Implementierung hin zu Architektur- und Beratungsthemen weiterzuentwickeln
+ Fähigkeit, technische Inhalte verständlich zu kommunizieren und adressatengerecht aufzubereiten
+ Erfahrung mit CI/CD, Infrastructure as Code und Containern (Docker, Kubernetes) von Vorteil
+ Sehr gute Deutsch- und gute Englischkenntnisse
+ Das bieten wir dir: 
+ Wir bringen dich weiter, damit du die digitale Transformation unserer Kunden anführen kannst – fachlich und persönlich. Hierfür bieten wir dir u.a.
+ klare Entwicklungsperspektive Richtung Cloud- & AI-Architekturberatung 
+ mitarbeit an innovativen Projekten rund um Datenplattformen und Generative AI 
+ Moderne Cloud-Technologien und Zugang zu aktuellen Toolchains
+ eine selbstbestimmte und eigenverantwortliche Arbeitsatmosphäre
+ ein auf dich zugeschnittenes Weiterbildungsangebot in der Cassini Akademie
+ Raum für die Entwicklung eigener Ideen in unseren GreenLabs
+ ein persönliches, institutionalisiertes Mentoring durch deinen Cassini-Buddy
+ ein transparentes Vergütungskonzept sowie Teilzeitmodelle
+ regelmäßigen Austausch mit allen Cassinis auf unseren Events
+ klare Meilensteine auf dem Weg ins Partnerboard oder dem eigenen Unternehmen
+ zahlreiche Netzwerk-Angebote, und Communities zu Themen wie Agile, Strategie, Changemanagement u.v.m.
+ Wir haben Standorte in Berlin, Dortmund, Düsseldorf, Frankfurt am Main, Hamburg, Köln, München sowie Stuttgart und bieten dir dort modernste Workspaces, in denen du arbeiten und dich mit Kollegen und Kolleginnen austauschen kannst. Grundsätzlich gilt: Wo auch immer du in Deutschland wohnst – eine geografische Nähe zu unseren Büros muss nicht gegeben sein. Wir kümmern uns darum, dass du mobil bist und da hinkommst, wo du hinwillst.
+ Kontakt 
+ Du möchtest Zukunft gestalten und suchst eine Rolle, in der du viel Gestaltungsspielraum, hohe Eigenverantwortung und ein stabiles, professionelles Umfeld findest? Dann komm zu uns! Wir freuen uns auf Deine Bewerbung unter Angabe Deines Wunschgehaltes und eines möglichen Einstiegszeitpunktes.

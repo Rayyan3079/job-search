@@ -1,0 +1,31 @@
+URL: https://www.linkedin.com/jobs/view/4481187406
+TITLE: AI Engineer - Machine Learning
+COMPANY: Integro Consulting AB
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-21
+title: AI Engineer - Machine Learning
+company: Integro Consulting AB
+posted: 6 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fse.linkedin.com%2Fjobs%2Fview%2Fai-engineer-machine-learning-at-integro-consulting-ab-4481187406&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Machine Learning Engineer (AI Engineer)
+ Job Description:
+ We are looking for a Senior Machine Learning Engineer (AI Engineer) for our client in the automotive industry.
+In this role, you will design and develop deterministic and agentic AI workflows, model guardrails, and automated evaluation pipelines using Azure AI Foundry. You will build structured AI agents that generate reliable decisions, integrate Microsoft Purview controls, and enforce human-in-the-loop checkpoints to ensure safe LLM operations within the security ecosystem.
+ Experience Required:
+ At least 5 years of experience building and maintaining production models and AI solutions. 
+ University degree in Data Science, ML/AI, or Software Engineering. 
+ Hands-on experience designing and operating functions in Azure. 
+ Expertise in Azure AI Foundry, Amazon Bedrock, LLMs, RAG, and Python. 
+ Experience designing and developing agentic and deterministic AI workflows. 
+ Experience implementing automated evaluation pipelines and structured schema outputs (JSON/YAML) for integration with the Central Gateway. 
+ Experience implementing model guardrails, Microsoft Purview integrations, and human-in-the-loop checkpoints. 
+ Ability to work with both high-level architectural design and deep hands-on development. 
+ Soft Skills:
+ Excellent communication and presentation skills. 
+ Ability to collaborate easily with cross-functional teams and stakeholders. 
+ Flexible, open-minded, and comfortable working in an international environment. 
+ Curious, analytical, and positive with a can-do attitude. 
+ Additional Info:
+ You are located in Sweden and can work 100% onsite in Gothenburg

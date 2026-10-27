@@ -1,0 +1,42 @@
+URL: https://www.linkedin.com/jobs/view/4474244809
+TITLE: BI-Analyst / BI-Engineer (w/m/d)
+COMPANY: aam2core Holding AG
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-26
+title: BI-Analyst / BI-Engineer (w/m/d)
+company: aam2core Holding AG
+posted: 18 hours ago
+applicants: 178 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fbi-analyst-bi-engineer-w-m-d-at-aam2core-holding-ag-4474244809&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Ihre Aufgaben
+ Einführung und Weiterentwicklung von Power BI-Lösungen im Controlling.
+ Erstellung von Dashboards, Berichten und Analysen.
+ Optimierung von Datenbanklösungen in Zusammenarbeit mit IT-Teams.
+ Analyse und Modellierung von Geschäftsprozessen zur Identifikation von Optimierungspotenzialen.
+ Mitwirkung an Digitalisierungsprojekten. 
+ Enge Zusammenarbeit mit dem Controlling-Team und anderen Abteilungen.
+ Ihr Profil
+ 3 Jahre Berufserfahrung, idealerweise in Business Intelligence oder Controlling.
+ Fundierte Kenntnisse in Power BI und MS Office (v.a. Excel und Power Point).
+ Sicherer Umgang mit SQL und relationalen Datenbanken.
+ Erfahrung in der Analyse und Modellierung von Geschäftsprozessen.
+ Erfahrung in der Datenmodellierung und Erstellung von Entity-Relationship-Modellen.
+ Starke analytische Fähigkeiten, strukturierte Arbeitsweise und Problemlösungskompetenz.
+ Teamfähigkeit und Kommunikationsstärke.
+ Interesse an kontinuierlicher Weiterbildung und Digitalisierungsprojekten.
+ Wünschenswert: Erfahrungen mit Python, API, REST, ETL-Lösungen sowie weiteren BI-Tools und Datenvisualisierungstechniken.
+ Warum wir?
+ Abwechslungsreiche Aufgaben mit Eigenverantwortung in einem vielseitigen Tätigkeitsfeld der Immobilienwirtschaft.
+ Zusammenarbeit in einem engagierten Team aus erfahrenen Immobilienspezialisten mit kurzen Entscheidungswegen.
+ Strukturiertes Onboarding mit festen Ansprechpartnern sowie regelmäßigen Feedbackgesprächen.
+ Modern ausgestattete Arbeitsplätze in attraktiver Innenstadtlage.
+ Flexible Arbeitszeiten mit Vertrauensarbeitszeit.
+ Homeoffice-Möglichkeit sowie die Option auf Workation.
+ 30 Tage Urlaub plus zusätzliche freie Tage am 24.12. und 31.12.
+ JobRad-Leasing.
+ Steuerfreie Sachbezugskarte sowie weitere Corporate Benefits.
+ Über uns
+Die aam2core Holding AG steht für aktives Asset Management. Unsere Mitarbeiter sind erfahrene Investment- und Asset-Manager, die sich bestens mit dem Lebenszyklus von Immobilien auskennen. Unsere Kunden beraten wir vor allem bei Investments in Deutschland und der DACH-Region.
+In der Regel vertrauen uns sehr vermögende private Investoren, (Multi-)Family-Offices und Privatbanken ebenso wie institutionelle Investoren, insbesondere Versicherungen, Banken, Stiftungen, kirchliche Vermögen und Versorgungswerke/Pensionskassen. Sie alle profitieren von unserer hohen technischen, operativen und beratenden Immobilienkompetenz. Eines macht uns jedoch besonders: Wir sind ein kleines, engagiertes Team und agieren persönlich, nahbar, auf Augenhöhe. Dafür schätzt man uns – als Dienstleiter, als Partner, als Arbeitgeber.
+aam2core hat Niederlassungen in Frankfurt am Main, Bad Homburg, Düsseldorf, Leipzig, Berlin und Grünwald.

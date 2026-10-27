@@ -1,0 +1,63 @@
+URL: https://www.linkedin.com/jobs/view/4472640743
+TITLE: Data Analyst
+COMPANY: Zelis
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-22
+title: Data Analyst
+company: Zelis
+posted: 4 days ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fdata-analyst-at-zelis-4472640743&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+At Zelis, we Get Stuff Done. So, let’s get to it!
+ A Little About Us
+ Zelis is modernizing the healthcare financial experience across payers, providers, and healthcare consumers. We serve more than 750 payers, including the top five national health plans, regional health plans, TPAs and millions of healthcare providers and consumers across our platform of solutions. Zelis sees across the system to identify, optimize, and solve problems holistically with technology built by healthcare experts – driving real, measurable results for clients.
+At Zelis, AI is woven into the fabric of how we work. Every associate is expected - and empowered - to partner with AI to challenge the status quo, accelerate innovation, and amplify their impact. This is a place for builders with a growth mindset who act with agility, embrace change, and use modern technology to shape smarter solutions, exceptional experiences, and the future of our industry for our clients, customers, and our culture.
+ A Little About You
+ You bring a unique blend of personality and professional expertise to your work, inspiring others with your passion and dedication. Your career is a testament to your diverse experiences, community involvement, and the valuable lessons you've learned along the way. You are more than just your resume; you are a reflection of your achievements, the knowledge you've gained, and the personal interests that shape who you are.
+ Position Overview
+ The Analyst II, Data Analysis will be responsible for analyzing complex data sets to derive actionable insights and support data-driven decision-making across the organization. This role requires a skilled data analyst with strong analytical abilities, a deep understanding of statistical methods, and the ability to collaborate effectively with cross-functional teams. The ideal candidate will have experience in data analysis, excellent problem-solving skills, and a passion for leveraging data to drive business outcomes.
+ What You’ll Do
+ Analyze large and complex data sets to identify trends, patterns, and insights.
+ Develop and implement statistical models and algorithms to solve business problems.
+ Validate and refine models to ensure accuracy and reliability.
+ Create clear and compelling data visualizations to communicate findings to stakeholders.
+ Prepare and present regular reports on data analysis outcomes to senior leadership.
+ Develop dashboards and other tools to enable self-service data access for business users.
+ Collect, clean, and preprocess data from various sources to ensure data quality and consistency.
+ Collaborate with data engineers and IT teams to design and implement data pipelines and workflows.
+ Ensure data is properly stored, organized, and accessible for analysis.
+ Work closely with business stakeholders to understand their data needs and provide actionable insights.
+ Collaborate with cross-functional teams, including marketing, product, and finance, to support data-driven decision-making.
+ Provide training and support to team members on data analysis and visualization best practices.
+ Stay informed about industry trends, emerging technologies, and best practices in data analysis.
+ Identify opportunities for process improvements and implement innovative solutions.
+ Attends company training and regional training in area of expertise. Presents own work to members of department.
+ What You’ll Bring To Zelis
+ Typically has Bach. +2-3 yrs; Masters +0 yrs 
+ Requires proficiency using AI tools skillfully with an understanding of how to develop/create intelligent prompts and/or agents.
+ Fluency with data analysis tools (e.g., SQL, Python, R, Excel).
+ Proficiency with data visualization tools (e.g., Tableau, Power BI) is a plus.
+ Healthcare claims editing experience a plus.
+ Understanding of statistics and data modeling preferred.
+ Strong communication, analytical and problem-solving skills.
+ Excellent attention to detail and accuracy.
+ Experience presenting findings to senior leadership team
+ Experience with big data technologies (e.g., Hadoop, Spark) is a plus.
+ Knowledge of machine learning techniques and algorithms.
+ Certification in data analysis or related fields.
+ Please note at this time we are unable to proceed with candidates who require visa sponsorship now or in the future.
+ Location and Workplace Flexibility
+ Zelis is headquartered in the U.S., with multiple locations across the country and in Hyderabad, India. Check out our locations to learn more about our offices. All employee work locations are based on the needs of the position and are determined by the Leadership team. In-office work and activities vary based on work and team objectives in accordance with Company policies.
+While location expectations vary by role, candidates within approximately 50 miles of a U.S. office are generally preferred to support collaboration when needed. Our hybrid approach is flexible, and in-office presence is guided by team and business needs rather than a fixed weekly schedule.
+ Base Salary Range
+ $71,000.00 - $90,250.00
+At Zelis we are committed to providing fair and equitable compensation packages. The base salary range allows us to make an offer that considers multiple individualized factors, including experience, education, qualifications, as well as job-related and industry-related knowledge and skills, etc. Base pay is just one part of our Total Rewards package, which may also include discretionary bonus plans, commissions, or other incentives depending on the role.
+Zelis’ full-time associates are eligible for a highly competitive benefits package as well, which demonstrates our commitment to our employees’ health, well-being, and financial protection. The US-based benefits include a 401k plan with employer match, flexible paid time off, holidays, parental leaves, life and disability insurance, and health benefits including medical, dental, vision, and prescription drug coverage.
+ Equal Employment Opportunity 
+ Zelis is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+We welcome applicants from all backgrounds and encourage you to apply even if you don’t meet 100% of the qualifications for the role. We believe in the value of diverse perspectives and experiences and are committed to building an inclusive workplace for all.
+ Accessibility Support
+ We are dedicated to ensuring our application process is accessible to all candidates. If you are a qualified individual with a disability or a disabled veteran and require a reasonable accommodation with any part of the application and/or interview process, please email TalentAcquisition@zelis.com.
+ Disclaimer
+ The above statements are intended to describe the general nature and level of work being performed by people assigned to this classification. They are not to be construed as an exhaustive list of all responsibilities, duties, and skills required of personnel so classified. All personnel may be required to perform duties outside of their normal responsibilities, duties, and skills from time to time.

@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4482190925
+TITLE: Machine Learning Engineer - Medical Image Analysis
+COMPANY: RaySearch Laboratories
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-22
+title: Machine Learning Engineer - Medical Image Analysis
+company: RaySearch Laboratories
+posted: 5 days ago
+applicants: 74 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fse.linkedin.com%2Fjobs%2Fview%2Fmachine-learning-engineer-medical-image-analysis-at-raysearch-laboratories-4482190925&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+RaySearch is looking for a machine learning engineer with strong experience in medical image analysis to join our ML Imaging team in Stockholm. You will develop deep learning algorithms for medical image analysis in RayStation, our radiotherapy treatment planning system, helping clinical teams deliver effective cancer treatments. RayStation is used at more than 1,000 cancer clinics in more than 50 countries.
+ About The Role
+ You will develop machine learning models for use in clinical practice, working on medical image segmentation, synthetic CT generation, image registration, and other medical imaging applications.
+Working closely with internal clinical specialists and external partner clinics, you will translate clinical needs into methods and models and evaluate their performance. You will also collaborate with regulatory and quality experts to ensure that algorithms are developed, validated, and documented in accordance with applicable medical device requirements.
+You will
+ Develop and evaluate deep learning algorithms for medical imaging using Python and PyTorch.
+ Prepare and curate clinical imaging datasets, configure and run model training, and maintain reproducible training workflows.
+ Review relevant research and assess the suitability of methods for clinical applications.
+ Design experiments and evaluate model performance using appropriate quantitative measures and clinical acceptance criteria.
+ Collaborate with clinical experts and external clinics on development and validation.
+ Contribute to the testing and documentation required for medical device software.
+ Your profile
+You have strong experience in medical image analysis. You enjoy investigating problems, testing ideas, and turning promising methods into machine learning models. You take ownership of your work, can plan and carry out development independently, and know when to involve colleagues. You value collaboration, careful evaluation, and clear documentation, and are motivated by improving cancer care.
+ Requirements
+ A PhD or master’s degree in computer science, machine learning, engineering, mathematics, physics, or a related field.
+ At least four years of relevant experience in machine learning or medical image analysis, gained through research or industry, including doctoral research.
+ Extensive experience developing and evaluating deep learning models for medical image analysis.
+ A strong understanding of deep learning, computer vision, statistics, and applied mathematics.
+ Strong programming skills in Python and hands-on experience with PyTorch.
+ Familiarity with software engineering practices, including version control, testing, and code reviews.
+ Excellent spoken and written communication skills in English.
+ Meriting
+ Experience with 3D medical imaging, particularly CT, MR, or CBCT.
+ Experience with one or more of medical image segmentation, image registration, or image synthesis.
+ Experience developing and validating medical device software or other regulated software.
+ Experience with tools for experiment tracking, data versioning, and reproducible training workflows.
+ Our Culture 
+At RaySearch, we share a passion for innovation and the fight against cancer. Our team consists of dedicated experts who strive to deliver exceptional results through collaboration, attention to detail, and cutting-edge technology. We take pride in our role as a leader in cancer treatment, developing solutions that truly make a difference for patients worldwide. 
+Our Offer 
+We offer a dynamic and inclusive work environment in Hagastaden, Stockholm’s Life Science Hub. Our modern office space includes an in-house gym, yoga classes, and social activities such as ping pong, table football, and after-work events. We also provide a fantastic lunch buffet, daily fika, and a stunning rooftop terrace with a 360-degree view of Stockholm. This comes with a competitive compensation and benefits package. 
+Application 
+Please apply for the position through the application form below. Selection and interviews will be ongoing. We do not accept applications via e-mail.

@@ -1,0 +1,25 @@
+URL: https://www.linkedin.com/jobs/view/4483570891
+TITLE: Data Engineer (DBT + Azure/AWS)
+COMPANY: Malthus Darwin
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-26
+title: Data Engineer (DBT + Azure/AWS)
+company: Malthus Darwin
+posted: 13 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+En Malthus Darwin somos una consultora especializada en la búsqueda, selección y evaluación de perfiles IT. Nuestro objetivo es conectar a los mejores profesionales con proyectos tecnológicos de primer nivel, ofreciendo siempre un servicio cercano y de calidad.
+ Actualmente buscamos incorporar un/a Data Engineer / Analytics Engineer especializado/a en DBT para un proyecto tecnológico enfocado en el diseño, desarrollo y mantenimiento de modelos de datos y procesos de transformación e integración de información en entornos cloud.
+ ¿Qué buscamos? 
+ Experiencia mínima de 3 años en proyectos de ingeniería de datos .
+ Experiencia en diseño, desarrollo e implementación de modelos de datos con DBT .
+ Conocimientos sólidos de modelado de datos .
+ Experiencia en construcción y mantenimiento de pipelines de datos utilizando DBT .
+ Experiencia en integración y transformación de datos procedentes de diferentes fuentes.
+ Conocimientos de plataformas cloud Azure o AWS .
+ Experiencia colaborando con equipos de Data Quality y Data Analysts .
+ Formación mínima de Ciclo Formativo de Grado Superior .
+ Modalidad: Remoto, con residencia en alguna de las siguientes ubicaciones:
+ Castilla y León, Extremadura, Valenciana, Castilla-La Mancha, Región de Murcia, Islas Canarias y Andalucía 
+ 📩 ¿Te interesa esta oportunidad o conoces a alguien que pueda encajar? ¡No dudes en contactar conmigo por mensaje privado!

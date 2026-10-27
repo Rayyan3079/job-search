@@ -1,0 +1,77 @@
+URL: https://www.linkedin.com/jobs/view/4483209404
+TITLE: Power BI Developer
+COMPANY: Tata Consultancy Services
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-26
+title: Power BI Developer
+company: Tata Consultancy Services
+posted: 14 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+Are you a Power BI Developer , seeking a new interesting challenge ? 🔍
+ If your answer is yes, it’s your lucky day so keep reading, it can be just what you're looking for ! 👀
+ 🧐 WHAT WE ARE LOOKING FOR IN YOU? 
+ 8+ years of experience in Power BI Development , Data Analytics, or Business Intelligence projects.
+ Strong hands-on experience developing and maintaining Power BI Reports and Dashboards .
+ Advanced knowledge of DAX , with the ability to write complex calculations, measures, and performance-optimized queries.
+ Strong command of Power Query (M Language) for data transformations, modeling, and optimization.
+ Hands-on experience with Power BI Service , including: 
+ Workspace administration
+ Dataset management
+ Security configuration
+ Report publishing and sharing
+ Experience creating and managing Power BI Dataflows .
+ Ability to integrate multiple data sources, including: 
+ SQL Server and other relational databases
+ SharePoint
+ Azure Data Services
+ APIs and external data sources
+ Strong expertise in SQL , including advanced query development and performance optimization.
+ Experience with Git version control and report deployment using Azure DevOps CI/CD pipelines . 
+ Good understanding of Power BI Architecture , governance, and best practices.
+ Experience gathering business requirements and translating them into reporting and analytical solutions.
+ Strong stakeholder management, communication, and requirement analysis skills.
+ 👀 GOOD TO HAVE: 
+ PL-300: Microsoft Power BI Data Analyst Certification.
+ Azure certifications such as: 
+ AZ-900
+ DP-900
+ Any higher-level Azure certification
+ Experience with: 
+ Power Apps
+ Power Automate
+ Microsoft Power Platform
+ Understanding of data warehousing and dimensional modeling concepts. 
+ Knowledge of Azure Data Factory, Azure Synapse Analytics, or Microsoft Fabric. 
+ Experience working in Agile/Scrum environments.
+ 🧐 HOW WILL YOUR DAILY JOB BE? 
+ Design, develop, and maintain interactive Power BI reports, dashboards, and data visualizations . 
+ Create and optimize complex DAX calculations to support business reporting requirements. 
+ Develop efficient data transformation processes using Power Query (M Language) . 
+ Build and manage Power BI Dataflows , datasets, and semantic models. 
+ Integrate data from various enterprise sources, including SQL databases, SharePoint, and Azure Data Services. 
+ Manage Power BI Service workspaces, deployments, permissions, and governance processes. 
+ Implement best practices for report performance, scalability, and security. 
+ Support automated report deployment processes using Git and Azure DevOps CI/CD . 
+ Collaborate with business stakeholders to gather requirements and provide data-driven insights. 
+ Analyse reporting needs and propose scalable BI solutions aligned with business objectives. 
+ Troubleshoot data quality, performance, and reporting issues. 
+ Contribute to the continuous improvement of the organization's Business Intelligence ecosystem.
+ 📅 WHERE AND WHEN? 
+ Workplace: Lisbon + hybrid/remote work
+ Work Schedule: 9AM to 6PM
+ 🤝 WHAT WE CAN OFFER YOU? 
+ Permanent contract 📋 
+ Pay and benefits 💸 - Competitive salary and a flexible compensation plan adapted to your needs (Ticket restaurant plan + Health Insurance).
+ Opportunity knocks 👍🏻 - Being a part of a growing company, we want to support your path with a career development plan and annual performance-based compensation reviews . 
+ Learn as you grow 📚 - Starting with a fantastic onboarding program , TCS has robust learning platforms that will allow you to learn and grow personal as professionally.
+ Bring your buddy 👫 - If you have referred a friend for an open position under the BYB Scheme and she/he is hired you’ll receive a very attractive cash award. 
+ Connect globally 🌏 - Work with people from all over the world . You can feel the multicultural workforce .
+ And so on 🎉 - Appreciations, incentives, Team Building activities, diversity and inclusion programs, sustainability activities, corporative events... This has only just begun!
+ 💡 WHO ARE WE? 
+ Tata Consultancy Services (TCS) is an Information Technology (IT) company founded in 1968, being part of the Tata Group . 
+ With a presence in 55 countries and over 600,000 employees , TCS is recognized as the #1 Employer in Europe by the Top Employers Institute 🥇
+ In our portfolio of services, we have information technology services , asset-based solutions , global consulting , engineering and industrial services , digital solutions and services , application maintenance and development , quality assurance and testing services , IT infrastructure and BPS 🎯
+ We stand out for our experience , reliability , passion , confidence , creativity and skills 💯
+ WELCOME, WE ARE WAITING FOR YOU! 🚀

@@ -1,0 +1,45 @@
+URL: https://www.linkedin.com/jobs/view/4335534604
+TITLE: [HelloConnect] Product Data Analyst (SQL/Python)
+COMPANY: HelloConnect
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-22
+title: [HelloConnect] Product Data Analyst (SQL/Python)
+company: HelloConnect
+posted: 4 days ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fph.linkedin.com%2Fjobs%2Fview%2Fhelloconnect-product-data-analyst-sql-python-at-helloconnect-4335534604&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+The Role
+ At HelloConnect, you will be part of a dynamic team in Inoza tower, BGC that embraces innovation and leverages advanced technology to create exceptional experiences. Our culture is built on collaboration, continuous learning, and a commitment to excellence. You’ll have the opportunity to work on impactful projects, develop your skills, and grow within a supportive environment that values diverse perspectives and experiences.
+The Product Analyst, will take on a key responsibility in our organization make informed decisions by transforming data into actionable insights. In this role, you will use analytical and technical skills including strong Python and SQL knowledge to explore data, uncover trends, and deliver recommendations that drive strategic initiatives. You will collaborate closely with stakeholders across Product, Data, and Business teams to identify opportunities, analyze results, and support data-driven decision-making, contributing to our ongoing efforts to drive business success and enhance customer satisfaction.
+We’re looking for passionate individuals who can bring their unique skills and ideas to the table. Even if you don't meet every requirement but believe you’d excel in this role, we’d love to hear from you!
+ What You’ll Do
+ Support product and business decision-making by translating requirements into clear analytical questions and delivering actionable insights.
+ Perform in-depth analysis using SQL, Python, and statistical techniques to evaluate product performance, user behavior, and business metrics.
+ Build data pipelines, automation scripts, and analytical tools to streamline analysis processes.
+ Create self-service dashboards and reports when appropriate, with the primary focus on generating insights and recommendations.
+ Ensure data accuracy and integrity by applying robust validation and quality checks.
+ Analyze A/B tests and product changes to measure impact and inform product decisions.
+ Collaborate with stakeholders to present findings, guide discussions, and recommend next steps based on data.
+ Maintain comprehensive documentation for analytics projects, tools, and methodologies.
+ Take ownership of analytical deliverables, ensuring they remain accurate, relevant, and aligned with evolving business needs.
+ Provide ad-hoc analyses and deep dives on strategic questions from leadership and cross-functional teams.
+ What You’ll Bring
+ Proficient in SQL for data extraction, transformation, and analysis.
+ Experienced in Python (Pandas, NumPy, Scikit-learn, etc.) for data analysis, modeling, and automation.
+ Solid understanding of statistical methods and A/B testing for experimental analysis.
+ Skilled in using data visualization tools (e.g., Tableau, Power BI, Looker) to create clear and insightful dashboards.
+ Experienced in building and maintaining data pipelines and ETL processes for efficient data management.
+ Strong ability to translate business questions into analytical frameworks and structured problem-solving approaches.
+ Proven experience in analyzing product performance, user behavior, and business metrics to identify trends and opportunities.
+ Adept at generating actionable insights and data-driven recommendations from complex datasets.
+ What We Offer
+ Competitive Compensation: Beyond the standard package, we offer perks like Long Service Benefits (anniversary bonus) to recognize and celebrate your dedication
+ Wellness & Perks: We prioritize your well-being by offering mental health support, HMO medical coverage, generous leave benefits plus life insurance for both you and your family's peace of mind
+ Growth Opportunities: Invest in your personal development with an annual learning & development budget, plus access to the 360 Learning platform
+ Dynamic Environment: Join a rapidly growing global Business Process Outsourcing company, where you'll collaborate with a diverse community spanning across multiple continents and cultures
+ Work-Life Balance: Enjoy a healthy balance between your professional and personal life, with a supportive environment that prioritizes your well-being and personal time
+ Are you up for the challenge?
+ The first step to your new role starts here. Send in your application, along with your salary expectations and preferred start date. Our dedicated team will thoroughly review your details. We are excited to connect with you soon!
+#helloconnect
+#hcgreenhouse

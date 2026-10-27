@@ -1,0 +1,22 @@
+URL: https://www.linkedin.com/jobs/view/4483294621
+TITLE: Data Analyst
+COMPANY: Robinsons Land Corporation
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-27
+title: Data Analyst
+company: Robinsons Land Corporation
+posted: 8 minutes ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+The Data Analyst ( Analytics & Intelligence Department) will be responsible for data management, analysis, and reporting. This role involves collecting, processing and interpreting data to provide actionable insights and support data-driven decision-making within the organization.
+ Qualifications: 
+ Bachelor’s degree in Mathematics, Data Science, Information Management, Statistics or equivalent field.
+ With 1-4 years of proven working experience as a Data Analyst or Business Data Analyst
+ Excellent communication skills and proficiency in data reporting to effectively convey insights & recommendations to diverse stakeholders.
+ Strong analytical and critical thinking skills with the ability to interpret complex data sets.
+ Ability to preprocess, clean, and transform raw data into usable formats.
+ Precision in data analysis to ensure accuracy and reliability of findings.
+ Proficient in data analysis & visualization tools such as MS Excel, Tableau / Power BI.
+ Basic understanding of artificial intelligence and machine learning concepts is advantageous.
+ Familiarity with data analytics tools, research methodologies, and designs is preferred.

@@ -1,0 +1,45 @@
+URL: https://www.linkedin.com/jobs/view/4484005342
+TITLE: Werkstudent:in - Forward Deployed Engineer (m/w/d)
+COMPANY: elunic AG
+LOC: Germany
+POSTED: 2026-10-27
+title: Werkstudent:in - Forward Deployed Engineer (m/w/d)
+company: elunic AG
+posted: 1 hour ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-in-forward-deployed-engineer-m-w-d-at-elunic-ag-4484005342&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+AI & Tech
+ München
+ remote/hybrid
+ Dienstag, 10 Uhr, beim Kunden. Jemand beschreibt ein Problem, das so in keinem Ticket steht. Du stellst vier Fragen, skizzierst im Raum eine Lösung – und am Freitag existiert eine Version davon, mit der der Kunde sich direkt etwas konkreter vorstellen kann.
+ Das ist die Rolle, auch schon im Studium. Kein reines Konzeptpapier, keine theoretischen Vorlesungsaufgaben. Du bist der Mensch, der beim Kunden (oder im Team-Call) sitzt, das Problem live auseinandernimmt und mit einer schnellen, funktionierenden Lösung zurückkommt.
+ Was du tatsächlich tust
+ Du löst Probleme im Termin, nicht im Backlog. Industrieunternehmen beschreiben dir Abläufe, die seit Jahren so laufen – im Service, Vertrieb oder in Operations. Deine Arbeit beginnt in dem Moment, in dem jemand sagt: „Das geht bei uns nicht.“ Du analysierst das direkt im Gespräch mit den Leuten, die es betrifft.
+ Du baust die erste Version selbst. Ein Mock-Up, eine Demo, ein kleines MVP – schnell genug, damit der Kunde eine Entscheidung treffen kann. Nicht sofort perfekt produktionsreif, aber absolut überzeugend. Dein Werkzeug dafür sind KI-Coding-Agents, und du bist darin schneller als die meisten Entwickler:innen, die du kennst.
+ Die Tiefe bauen andere. Steht die Entscheidung, geht die produktionsreife Umsetzung an unsere KI-Agenten und an unsere Tech-Teams, die du mitsteuerst. Du hältst die Linie zwischen dem, was im Termin versprochen wurde, und dem, was am Ende herauskommt.
+ Du entscheidest auch, was nicht gebaut wird. Ein technisch schöner Use Case, der wirtschaftlich nichts bringt, wird nicht umgesetzt – auch wenn der Kunde ihn will. Diese Entscheidung musst du im Termin vertreten können, gegenüber Menschen, die dafür bezahlen.
+ Das bist du
+ Du hast schon mal etwas gebaut, das es ohne dich nicht gäbe. Ein Nebenprojekt, ein Tool im Studium, ein Startup-Versuch, eine Website für einen Verein oder ein Open-Source-Repo. Uns interessiert nicht, ob es riesig war – uns interessiert, dass es existiert und dass jemand außer dir es nutzt.
+ Du studierst Informatik, Wirtschaftsinformatik, Data Science, Maschinenbau/Wirtschaftsingenieurwesen oder einen vergleichbaren Studiengang (oder bist Autodidakt:in mit nachweisbarer Praxiserfahrung) und suchst eine echte Herausforderung neben dem Studium (idealerweise 12–20 Std./Woche).
+ Wenn dir etwas unklar ist, baust du eine Version davon. Du schreibst kein seitenlanges Konzept über eine Idee, sondern machst sie schnell sichtbar.
+ Du wirst im Gespräch schneller, nicht langsamer. Wenn dir jemand ein unfertiges Problem hinwirft, findest du im Reden die Struktur. Und du hältst es aus, wenn jemand im Raum deiner ersten Idee widerspricht.
+ Du fragst nach dem Business, bevor du nach der Architektur fragst. Wie oft passiert das? Was kostet es heute? Wer entscheidet das? Erst danach wird es technisch.
+ Du kommst ohne ständige Vorgaben zurecht. Du bekommst bei uns viel Kontext und wenig Mikromanagement.
+ Ehrlich: Was dich hier erwartet
+ Wir arbeiten radikal KI-first. Wer glaubt, KI nehme einem die Arbeit ab, ohne selbst welche zu machen, wird enttäuscht. Der Anspruch steigt dadurch, er sinkt nicht.
+ Wir sind klein und schnell. Wir sind ein schlankes Team, das seine eigene Arbeitszeit smart hebelt. Wir geben dir viel Freiraum und viel Verantwortung. Dafür entscheidet auch niemand über deinem Kopf, was du dem Kunden zeigst.
+ Remote ja, unsichtbar nein. Du arbeitest, wo du willst - aber du bist ansprechbar und im Team sichtbar.
+ Was du bekommst
+ KI Werkzeuge ohne Freigabeschleife. Wenn du etwas brauchst, das wir nicht haben, ist der Zugang in der Regel innerhalb eines Tages da.
+ Eigene Produkte statt fremder Roadmaps. Wir bauen mit eluna eigene KI-Agenten für den industriellen Mittelstand und setzen sie bei echten Kunden ein. Was du im Termin versprichst, kannst du am selben Tag testen.
+ Entscheidungen in Tagen. Kein Gremium zwischen deiner Idee und dem Kunden.
+ Team von AI-Natives: Ein motiviertes Team aus Techies und Non-Techies mit einer gemeinsamen Vision: AI neu denken und gestalten.
+ Dazu das Übliche: EGYM Wellpass, Jobrad, D-Ticket-Zuschuss, Teamevents und Workations.
+ So bewirbst du dich
+ Kein Anschreiben. Ein Link auf dein Profil reicht. Noch besser: Ein Link auf etwas, das du gebaut hast. Repo, Landingpage, Demo, egal wie roh.
+ KI im Bewerbungsprozess ist erlaubt und erwünscht. Wir arbeiten hier auch so. Uns interessiert, was du damit machst, nicht ob du es benutzt hast.
+ Der Ablauf: Unser Bewerbungsprozess umfasst in der Regel 3 Schritte: Ein kurzer Kennenlern-Call, dann ein Gespräch mit einem unserer Gründer und zum Abschluss ein spannender Use Case. Wenn du magst, kannst du bereits bei deiner Bewerbung ein kurzes Video hochladen. So sehen wir gleich, wer du bist - nicht nur, was im Lebenslauf steht.
+ Und wenn du gerade noch etwas Eigenes laufen hast: Schreib uns trotzdem.
+Wir bei elunic treiben die KI-Revolution im industriellen Mittelstand voran.
+Mit unserer Plattform eluna bauen wir intelligente KI-Agenten, die die White-Collar-Arbeitswelt (Service, Sales, Operations) unserer Kunden automatisieren und transformieren.

@@ -1,0 +1,32 @@
+URL: https://www.linkedin.com/jobs/view/4482950508
+TITLE: Werkstudent Qualitätsmanagement – Prozessoptimierung mit KI (w/m/div.)
+COMPANY: Bosch
+LOC: Bamberg, Bavaria, Germany
+POSTED: 2026-10-26
+title: Werkstudent Qualitätsmanagement – Prozessoptimierung mit KI (w/m/div.)
+company: Bosch
+posted: 18 hours ago
+applicants: 35 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-qualit%25C3%25A4tsmanagement-%25E2%2580%2593-prozessoptimierung-mit-ki-w-m-div-at-bosch-4482950508&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Unternehmensbeschreibung
+ Bei Bosch gestalten wir Zukunft mit hochwertigen Technologien und Dienstleistungen, die Begeisterung wecken und das Leben der Menschen verbessern. Unser Versprechen an unsere Mitarbeiterinnen und Mitarbeiter steht dabei felsenfest: Wir wachsen gemeinsam, haben Freude an unserer Arbeit und inspirieren uns gegenseitig. Willkommen bei Bosch.
+ Die Robert Bosch GmbH freut sich auf deine Bewerbung!
+ Stellenbeschreibung
+ Mit der Microsoft Power Plattform automatisierst du Abläufe, schreibst bei Bedarf eigene Python‑Skripte oder entwickelst KI‑Agenten im Microsoft Copilot Studio. 
+ Du wertest Daten aus, bereitest sie auf (zum Beispiel mit KNIME) und erstellst daraus verständliche, auch KI‑unterstützte Visualisierungen in Power BI. 
+ Außerdem hilfst du dem Team dabei, die neuen Lösungen gut einzuführen und dauerhaft zu nutzen. 
+ Qualifikationen
+ Ausbildung: Studium im Bereich Informationstechnologie, (Wirtschafts-)Informatik, Data Science, Softwareentwicklung oder eines vergleichbaren technischen Studiengangs. 
+ Persönlichkeit und Arbeitsweise: Eine hohe Eigeninitiative, eine strukturierte, selbstständige Arbeitsweise und die Fähigkeit, komplexe Problemstellungen zu analysieren und dafür tragfähige Lösungen zu entwickeln. 
+ Erfahrung und Know-how: Erfahrung in der Datenaufbereitung (z. B. mit KNIME) und der Erstellung aussagekräftiger Visualisierungen (z. B. mit Power BI). Fundierte Kenntnisse in der Prozess- automatisierung mit der Microsoft Power Plattform sowie idealerweise Programmiererfahrung in Python. Kenntnisse in JSON und SQL sowie erste Einblicke in die Konzeption von KI-Lösungen (z. B. mit Microsoft Copilot Studio) sind von Vorteil. 
+ Begeisterung: Ein starkes Interesse an der Verknüpfung von Datenanalyse, Automatisierung und künstlicher Intelligenz in einem industriellen Umfeld. 
+ Zusätzliche Informationen
+ Beginn: ab 2027
+ Dauer: 6 - 12 Monate
+Voraussetzung für das Werksstudium ist die Immatrikulation an einer Hochschule. Bitte füge deiner Bewerbung deinen Lebenslauf, deinen aktuellen Notenspiegel, eine aktuelle Immatrikulationsbescheinigung, deine Prüfungsordnung sowie ggf. eine gültige Arbeits- und Aufenthaltserlaubnis bei.
+Vielfalt und Inklusion sind für uns keine Trends, sondern fest verankert in unserer Unternehmenskultur. Daher freuen wir uns über alle Bewerbungen: unabhängig von Geschlecht, Alter, Behinderung, Religion, ethnischer Herkunft oder sexueller Identität.
+ Du hast fachliche Fragen zum Job?
+ Uwe Voll (Fachabteilung)
++49(173)6416592
+Work beginnt hier: Jetzt bewerben!

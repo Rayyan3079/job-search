@@ -1,0 +1,48 @@
+URL: https://www.linkedin.com/jobs/view/4433174378
+TITLE: Power BI / Data & Reporting Specialist (all gender) – Microsoft Power Platform & Dataverse 700
+COMPANY: ALTEN
+LOC: Germany
+POSTED: 2026-09-28
+title: Power BI / Data & Reporting Specialist (all gender) – Microsoft Power Platform & Dataverse 700
+company: ALTEN
+posted: 4 weeks ago
+applicants: Over 200 applicants
+apply_offsite: 
+---
+Die ALTEN Consulting Services GmbH bietet mit über 20 Jahren Branchenerfahrung ihren namhaften Kunden aus Industrie und Wirtschaft hochspezialisierte Engineering- und IT-Dienstleistungen zur gemeinsamen Realisierung von branchen- und technologieübergreifenden Lösungen an.
+ Kompetenz, Engagement und Leidenschaft verbinden alle unsere Mitarbeiter der ALTEN Consulting Services GmbH. Dabei stehen ein partnerschaftliches Miteinander, ein starkes WIR-Gefühl, der persönliche Kontakt zu unseren Kunden und die Kreativität jedes Einzelnen stets im Fokus. Werde auch Du Teil unserer Erfolgsgeschichte.
+ Power BI / Data & Reporting Specialist (all gender) – Microsoft Power Platform & Dataverse
+ Gehalt: 65.000 - 75.000 Euro, Wochenstunden: 40 Stunden
+ Homeoffice: Ja
+ Standort: Kabelsketal
+ Referenznummer: #506405
+ Make it happen 
+ DU... 
+ unterstützt beim Aufbau und der Weiterentwicklung eines modernen Reporting-Umfelds auf Basis von Power BI und SAP Analytics Cloud (SAC)
+ überführst bestehende Excel- und SAP-BW-Reports in moderne, skalierbare Power-BI-Lösungen
+ arbeitest an der Konsolidierung und Aufbereitung von Daten aus verschiedenen Quellsystemen im Microsoft Dataverse
+ entwickelst und optimierst Datenmodelle für Management- und Fachbereichsreportings
+ stellst sicher, dass Daten aus der neuen IT-Systemlandschaft angebunden, strukturiert und auswertbar sind
+ entwickelst Workarounds und pragmatische Lösungen innerhalb der Microsoft 365 Power Platform
+ unterstützt den Betrieb und die Weiterentwicklung bestehender Power Apps
+ arbeitest eng mit Fachbereichen zusammen, um Reporting-Anforderungen in technische Lösungen zu übersetzen
+ unterstützt bei Workshops, Abstimmungen und der Umsetzung neuer Reporting-Use-Cases
+ stellst die Qualität, Konsistenz und Verfügbarkeit von Reporting-Daten sicher
+ Be our forward thinker 
+ DU... 
+ hast Erfahrung im Bereich Reporting, Business Intelligence oder Data Analytics
+ verfügst über sehr gute Kenntnisse in Microsoft Power BI
+ kennst dich mit der Microsoft Power Platform aus (Power Apps, Power Automate, Dataverse)
+ hast Erfahrung im Umgang mit Microsoft 365 und SharePoint
+ bringst idealerweise Kenntnisse in SAP BW oder SAP Analytics Cloud mit
+ arbeitest strukturiert, analytisch und lösungsorientiert
+ hast Spaß daran, Daten aus unterschiedlichen Systemen zu verbinden und nutzbar zu machen
+ kannst technische Inhalte verständlich für Fachbereiche und Management aufbereiten
+ arbeitest selbstständig und fühlst dich in dynamischen IT-Umgebungen wohl
+ bist offen für gelegentliche Präsenztermine bei Workshops oder Abstimmungen
+ A home where people learn and thrive 
+ Zukunftsorientierter Arbeitsplatz mit unbefristetem Arbeitsvertrag
+ Attraktive Vergütung
+ Mobiles Arbeiten nach Absprache
+ Individuelle interne und externe Weiterbildungen
+ Flexible Arbeitszeitgestaltung mit Gleitzeitkontenregelung

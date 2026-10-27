@@ -1,0 +1,29 @@
+URL: https://www.linkedin.com/jobs/view/4446714908
+TITLE: Remote Data Annotation Jobs in Helsinki
+COMPANY: RemoExperts
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-26
+title: Remote Data Annotation Jobs in Helsinki
+company: RemoExperts
+posted: 18 hours ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Ffi.linkedin.com%2Fjobs%2Fview%2Fremote-data-annotation-jobs-in-helsinki-at-remoexperts-4446714908&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Overview
+ Rex.zone is hiring for full-time, fully remote data annotation specialists supporting AI training data for large language models and computer vision systems. You will perform data labeling, RLHF evaluation, prompt evaluation, and QA evaluation to improve training data quality and model performance across production LLM training pipelines.
+ Key Responsibilities
+ Annotate multi-modal datasets (text, image, and structured records) following detailed guidelines and rubrics
+ Complete NLP and computer vision annotation tasks (e.g., NER, classification, extraction, bounding boxes/polygons) and content safety labeling
+ Perform RLHF preference ranking, pairwise comparisons, and rubric-based scoring; document clear rationales
+ Run QA evaluation passes, resolve edge cases, and flag ambiguous prompts/items for review
+ Collaborate asynchronously with project leads, reviewers, and calibration workflows to improve consistency
+ Required Qualifications
+ Mid-to-senior experience in data annotation/data labeling operations with measurable quality outcomes
+ Ability to apply detailed rubrics consistently and write clear QA rationales
+ Familiarity with RLHF concepts, prompt evaluation, and LLM evaluation signals
+ Strong English comprehension and professional writing for guideline interpretation and issue reporting
+ Quality & Measurement
+ Measured via guideline compliance, audit pass rate, calibration accuracy, and inter-annotator consistency
+ Feedback provided through reviewer notes, audits, and periodic calibration sessions
+ How To Apply
+ Apply through Rex.zone and complete the qualification and calibration steps to be matched to active remote production projects.

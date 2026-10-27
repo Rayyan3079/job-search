@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4459212853
+TITLE: Business Intelligence Engineer (m/w/d)
+COMPANY: FALKE KGaA
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-21
+title: Business Intelligence Engineer (m/w/d)
+company: FALKE KGaA
+posted: 5 days ago
+applicants: 167 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fbusiness-intelligence-engineer-m-w-d-at-falke-kgaa-4459212853&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Ihre Aufgabe
+ Ausrichtung der Rolle zu rund 50 % auf E-Commerce-spezifische BI-Themen und zu rund 50 % auf domänenübergreifende Themen unseres BI-Portfolios
+ Konzeption und Aufbau unternehmensweiter Power BI Dashboards
+ Erstellung, Weiterentwicklung und Optimierung semantischer Datenmodelle im Star-Schema sowie von DAX-Measures 
+ Aufbereitung und Modellierung von Daten mit Fokus auf den Silver- und Gold-Layer unserer Medaillon-Architektur
+ Bereitstellung der Reporting- und Datengrundlage zur Weiterverarbeitung im Fachbereich E-Commerce (z.B. Newsletter-Performance, Online-Kampagnen, AOV, Conversion Rate, Cost-Revenue-Ratio und Funnel-KPIs)
+ Anbindung und Aufbereitung von Daten aus unseren E-Commerce Quellsystemen (z.B. Google Analytics 4, Supermetrics und Microsoft Dynamics 365 CRM, Meta Ads, Google Ads, Criteo, etc.)
+ Mitwirkung an der Migration unserer BI-Landschaft nach Microsoft Fabric
+ Enge Zusammenarbeit mit den Fachbereichen: Anforderungen aufnehmen, übersetzen und in skalierbare BI-Lösungen übersetzen
+ Ihr Profil
+ Mindestens 3–5 Jahre einschlägige Berufserfahrung im Business-Intelligence-Umfeld
+ Idealerweise fachliche und analytische Vorerfahrung im E-Commerce sowie Vertrautheit mit gängigen E-Commerce- und Kampagnen-KPIs
+ Fundierte Praxiserfahrung mit Power BI
+ Sicherer Umgang mit Tools wie DAX Studio und Tabular Editor
+ Vertrautheit mit modernen Datenplattformkonzepten (Medaillon-Architektur, Silver-/Gold-Layer)
+ Gute bis sehr gute Kenntnisse in SQL und Python zur Datenaufbereitung und -transformation
+ Erfahrung mit Microsoft Fabric von Vorteil
+ Sehr gute Deutsch- und Englischkenntnisse
+ Unser Angebot
+ In einer Welt der Massenproduktion sind eine verlässliche Qualität und ein kreativ durch­dachtes Design die Faktoren, die uns von der Konkurrenz abheben. Diesem Leit­gedanken folgen wir bei unseren Produkten, aber auch bei unserem Team. Denn abseits aus­ge­tretener Pfade setzen wir auf ent­schei­dungs­freudige Entdecker. Sie sind es, denen wir eine fundierte Ein­ar­bei­tung und flache Hierarchien bieten.
+Als inhabergeführtes Familien­unter­nehmen wissen wir genau, worauf unser Erfolg beruht – auf dem Einsatz unserer Mit­ar­bei­ter/-innen. Haben Sie Lust, Ihr eigenes Kapitel in unserer Erfolgsgeschichte zu schreiben?
+ Das Erwartet Sie Bei FALKE
+ 30 Tage Urlaub für die Erholung und eine gute Work-Life-Balance
+ Flexibles Arbeiten mit Vertrauensarbeitszeit, Gleitzeit und bis zu drei Tagen Homeoffice pro Woche
+ Workation – zeitweise in über 30 Ländern
+ Finanzielle Extras durch vermögenswirksame Leistungen und Mitarbeiterempfehlungsprämien
+ Gesundheit im Fokus mit betrieblichen Gesundheitsmaßnahmen und EGYM Wellpass
+ JobRad für deine flexible und nachhaltige Mobilität
+ Kostenlose Parkplätze direkt am Standort
+ Persönliche Weiterentwicklung und individuelle Personalentwicklungsmöglichkeiten
+ Regelmäßiger Austausch durch Feedback- und Jahresgespräche
+ Attraktive Rabatte in unseren Stores und Outlets sowie über Corporate Benefits

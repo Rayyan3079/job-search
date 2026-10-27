@@ -1,0 +1,52 @@
+URL: https://www.linkedin.com/jobs/view/4482877764
+TITLE: Data And Analytics Specialist
+COMPANY: techcarrot
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-23
+title: Data And Analytics Specialist
+company: techcarrot
+posted: 4 days ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fae.linkedin.com%2Fjobs%2Fview%2Fdata-and-analytics-specialist-at-techcarrot-4482877764&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Description
+ Develop and maintain analytical solutions, dashboards and reports to support informed business decisions.
+Translate stakeholder business needs into technical specifications and BI standards.
+Develop, deploy and maintain Power BI cubes, data models and database queries, and optimise them for performance.
+Perform advanced data modelling, data collection and analysis from primary and secondary sources.
+Identify, analyse and interpret trends and patterns in complex datasets, and turn data into business insight.
+Ensure reports are tested; track and resolve defects and issues to closure.
+Collaborate with the Digital Core Team and business units on BI project goals, timelines and standardised reporting requirements.
+ Requirements
+ 4 to 6 Years of overall work experience primarily working on Analytics and BI domain preferably in Microsoft stack (MSBI, PowerBI & Excel). Experience in creating business critical Dashboards and Reports in Power BI using SQL Server, Lakehouse as sources. 
+ In depth knowledge of data lake, data warehouse/BI development with a focus on auditability, end-to-end lineage.
+ Experience of Dynamics 365 or ERP in comparable role within IT, Finance or Business.
+ Technical expertise regarding data models, database design development, data mining and segmentation techniques.
+ Must have hands-on experience in Power BI report design, with mandatory expertise in the on-premise Power-BI Report Server with proficiency in DAX and TSQL queries, along with their integration with cloud services.
+ Experienced in Data warehousing and Dimensional modelling (Star schema and Snowflake schema).
+ Experienced in maintaining and customizing Cubes using SQL Server Analysis Services (SSAS) and experienced in Data visualization/reporting tools like SSRS and Power BI.
+ Experience in creating Power BI Reports using various sources like Excel, CSV, SQL Server, Oracle, SQL Server Analysis service (SSAS), Azure SQL, Azure Data Warehouse, etc.,
+ Experience in creating complex calculations and measures for Visuals and KPI’s using DAX.
+ Experience in Azure Cloud Services, Azure Databricks, Azure DevOps, Azure Storage, Azure Data Lake added value
+ Education
+ Bachelor Degree or Masters in Computer Science/Engineering/Applications or related field. 
+ Certification in Business Analysis is an advantage.
+ Microsoft Azure-related training/certifications are an advantage: Data Scientist Associate (DP-100), Power BI Data Analyst Associate (PL-300) or equivalent of other major cloud platforms
+ Knowledge of 
+ In-depth knowledge in SQL Server, SSAS, SSIS and SSRS; SQL database administration experience is added advantage. 
+ Knowledge in Microsoft Dynamics 365 architecture.
+ Knowledge in PowerBI report/dashboard designing and publishing.
+ Expertise in writing complex SQL queries and optimizing the Performance of Power BI Reports. Designed and created databases, tables, views, stored procedures, and functions using SQL server
+ Skills Required
+ Proven analytical background 
+ Proficiency in scripting / programming languages SQL. Python/R scripting
+ is preferred
+ RPA and predictive analytics capabilities is an added advantage
+ Job Details
+Role Level: Mid-Level Work Type: Full-Time Country: United Arab Emirates City: Abu Dhabi Company Website: https://techcarrot.ae/ Job Function: Information Technology (IT) Company Industry/
+Sector: IT Services and IT Consulting
+What We Offer
+ About The Company
+ Searching, interviewing and hiring are all part of the professional life. The TALENTMATE Portal idea is to fill and help professionals doing one of them by bringing together the requisites under One Roof. Whether you're hunting for your Next Job Opportunity or Looking for Potential Employers, we're here to lend you a Helping Hand.
+Report
+Disclaimer: talentmate.com is only a platform to bring jobseekers & employers together. Applicants are advised to research the bonafides of the prospective employer independently. We do NOT endorse any requests for money payments and strictly advice against sharing personal or bank related information. We also recommend you visit Security Advice for more information. If you suspect any fraud or malpractice, email us at abuse@talentmate.com.

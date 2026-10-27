@@ -1,0 +1,39 @@
+URL: https://www.linkedin.com/jobs/view/4483506801
+TITLE: DATA ANALYST L4
+COMPANY: Wipro
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-26
+title: DATA ANALYST L4
+company: Wipro
+posted: 1 day ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fin.linkedin.com%2Fjobs%2Fview%2Fdata-analyst-l4-at-wipro-4483506801&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job description:
+Job Description Role Purpose 
+ The purpose of this role is to interpret data and turn into information (reports, dashboards, interactive visualizations etc) which can offer ways to improve a business, thus affecting business decisions.
+͏ Do 
+ 1. Managing the technical scope of the project in line with the requirements at all stages
+ a. Gather information from various sources (data warehouses, database, data integration and modelling) and interpret patterns and trends
+ b. Develop record management process and policies
+ c. Build and maintain relationships at all levels within the client base and understand their requirements.
+ d. Providing sales data, proposals, data insights and account reviews to the client base
+ e. Identify areas to increase efficiency and automation of processes
+ f. Set up and maintain automated data processes
+ g. Identify, evaluate and implement external services and tools to support data validation and cleansing.
+ h. Produce and track key performance indicators
+ 2. Analyze the data sets and provide adequate information
+ a. Liaise with internal and external clients to fully understand data content
+ b. Design and carry out surveys and analyze survey data as per the customer requirement
+ c. Analyze and interpret complex data sets relating to customer s business and prepare reports for internal and external audiences using business analytics reporting tools
+ d. Create data dashboards, graphs and visualization to showcase business performance and also provide sector and competitor benchmarking
+ e. Mine and analyze large datasets, draw valid inferences and present them successfully to management using a reporting tool
+ f. Develop predictive models and share insights with the clients as per their requirement
+͏ Deliver  
+NoPerformance ParameterMeasure1.Analyses data sets and provide relevant information to the clientNo. Of automation done, On-Time Delivery, CSAT score, Zero customer escalation, data accuracy  
+͏ ͏  
+ Mandatory Skills: Pivotal Cloud Foundry
+.
+ Experience: 5-8 Years
+.
+ Reinvent your world. We are building a modern Wipro. We are an end-to-end digital transformation partner with the boldest ambitions. To realize them, we need people inspired by reinvention. Of yourself, your career, and your skills. We want to see the constant evolution of our business and our industry. It has always been in our DNA - as the world around us changes, so do we. Join a business powered by purpose and a place that empowers you to design your own reinvention.

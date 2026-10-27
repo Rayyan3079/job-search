@@ -1,0 +1,30 @@
+URL: https://www.linkedin.com/jobs/view/4446720821
+TITLE: Remote AI Data Annotation Specialist (Detroit)
+COMPANY: RemoExperts
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-24
+title: Remote AI Data Annotation Specialist (Detroit)
+company: RemoExperts
+posted: 2 days ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fremote-ai-data-annotation-specialist-detroit-at-remoexperts-4446720821&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Role Overview
+ Rex.zone is hiring a Remote AI Data Annotation Specialist (open to US-based candidates, including Detroit) to support end-to-end LLM training pipelines and model evaluation datasets. You will apply detailed rubrics and labeling guidelines to improve training data quality and model reliability.
+ What You Will Do
+ Label and review text, image, and multimodal datasets to meet training data quality thresholds
+ Execute RLHF-style preference ranking and rubric-based evaluations of model outputs
+ Perform prompt evaluation and QA evaluation (calibration, audit sampling, consistency checks)
+ Annotate NLP tasks such as named entity recognition, taxonomy mapping, and document classification
+ Support computer vision annotation (bounding boxes, polygons/segmentation, keypoints, attributes)
+ Complete content safety labeling using policy-based decision rules
+ Document edge cases, resolve disagreements, and improve annotation guidelines compliance
+ Required Qualifications
+ Mid-Senior experience in AI data annotation, data labeling operations, or model evaluation
+ Ability to follow complex rubrics and provide consistent judgments
+ Familiarity with NLP concepts (e.g., NER, classification) and comfort with CV annotation concepts
+ Strong written communication, attention to detail, and reliable remote work habits
+ Work Model
+ Remote, FULL_TIME. Work is performed online with asynchronous coordination; periodic calibration sessions may occur.
+ Compensation
+ Hourly base pay range: $30–$50 per hour (may vary by project complexity and evaluation scope).

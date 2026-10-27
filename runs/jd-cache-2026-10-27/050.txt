@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4481015324
+TITLE: Oracle PL/SQL Developer (f/m/x)
+COMPANY: Sii Poland
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-24
+title: Oracle PL/SQL Developer (f/m/x)
+company: Sii Poland
+posted: 3 days ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fin.linkedin.com%2Fjobs%2Fview%2Foracle-pl-sql-developer-f-m-x-at-sii-poland-4481015324&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+We are hiring for an exciting Senior Oracle PL/SQL Developer opportunity. We are looking for a technically strong professional with expertise in Oracle 19c, advanced PL/SQL development, SQL performance tuning, UNIX/Linux shell scripting, and Liquibase.
+In this role, you will develop and optimize database solutions, automate deployment processes, and support reliable database operations across multiple environments. This is an excellent opportunity to work on complex, business-critical systems within a global technology environment. This is a Hybrid onsite work opportunity in Serisuri, Chennai.
+ Your tasks 
+ Designing and maintaining complex PL/SQL packages, procedures, functions, triggers, and database objects
+ Optimizing SQL queries and enhancing database performance using execution plans, indexing, and tuning techniques
+ Developing UNIX/Linux shell scripts to automate database operations and deployment activities
+ Managing database schema changes, version control, and deployments using Liquibase
+ Troubleshooting production issues, performing root cause analysis, and supporting releases across development, QA, UAT, and production environments
+ Collaborating with development teams, conducting code reviews, and ensuring adherence to coding standards
+ Participating in Agile ceremonies, sprint planning, and continuous improvement initiatives
+ Requirements
+ Minimum 6 years of hands-on experience in Oracle Database development
+ Strong expertise in Oracle 19c and PL/SQL programming
+ Advanced SQL knowledge, including packages, procedures, functions, triggers, cursors, collections, and exception handling
+ Knowledge of Oracle TimesTen
+ Strong SQL performance tuning and query optimization skills
+ Proficiency in UNIX/Linux shell scripting
+ Hands-on experience with Liquibase for database change management and deployments
+ Experience with Git or other version control systems
+ Strong understanding of database design, data modeling, debugging, and production support
+ Fluent English communication skills (minimum B2 level)
+ Job no. JOB-JMDLR
+Sii ensures that all hiring decisions are made solely on the basis of qualifications and competence. We are committed to equal and fair treatment of all, regardless of legally protected characteristics. At Sii, we promote a diverse and inclusive work environment, in full compliance with applicable anti-discrimination laws.
+ Benefits For You
+ Diverse portfolio of clients
+ Wide portfolio of technologies
+ Employment stability
+ Remote work opportunities
+ Contracts with the biggest brands
+ Great Place to Work Europe
+ Many experts you can learn from
+ Open and accessible management team

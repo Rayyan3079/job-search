@@ -1,0 +1,112 @@
+URL: https://www.linkedin.com/jobs/view/4480755249
+TITLE: Machine Learning Engineer
+COMPANY: Zurich Canada
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-21
+title: Machine Learning Engineer
+company: Zurich Canada
+posted: 6 days ago
+applicants: 154 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fca.linkedin.com%2Fjobs%2Fview%2Fmachine-learning-engineer-at-zurich-canada-4480755249&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+The Opportunity
+Are you looking for a caring, collaborative, values-driven workplace with inspiring teammates and leaders? Do you have the ambition and desire to be the best and thrive at the most impactful global insurance provider in the world? Look no further than Zurich Canada.
+If you have experience in machine learning, artificial intelligence or ML/AI engineering and are looking for a new challenge, we would love to hear from you.
+Zurich Canada is expanding its AI Engineering capability and is looking for Machine Learning / AI Engineers to design, develop and operationalize scalable AI and machine learning solutions.
+This posting covers four positions across multiple experience levels, including Junior, Intermediate and Senior opportunities. Candidates will be considered for the appropriate level and specialization based on their experience, technical depth, demonstrated capabilities and scope of responsibility.
+You will work within a modern cloud data and AI ecosystem and collaborate with Data Engineering, Data Science, Architecture, Governance, Security and business teams to turn data and AI opportunities into secure, reliable and production-ready solutions.
+This is a unique opportunity to build your knowledge and experience for the future in a supportive environment where your voice matters.
+What you will do
+ Areas of Specialization
+ Candidates may align with one area; experience across all four is not expected.
+ Machine Learning Engineer - Applied AI
+ Build/productionize predictive ML/AI: classification, regression, forecasting and clustering.
+ Build feature pipelines; establish training, validation/testing and bias/fairness testing.
+ Evaluate models; move experiments to production and optimize inference.
+ Assess approved A/B, shadow or controlled pilots; monitor data quality, performance/drift and troubleshoot production issues.
+ Document assumptions, limitations, versions, training-data references and approvals.
+ Relevant experience: statistical ML; scikit-learn, PyTorch, TensorFlow, XGBoost, LightGBM or CatBoost; feature engineering; model evaluation; time-based validation; leakage prevention; imbalanced datasets; calibration; experiment tracking; batch/real-time inference.
+ Machine Learning Engineer - Generative AI
+ Engineer, evaluate and productionize enterprise GenAI using foundation models, retrieval and agentic patterns.
+ Build LLM services and RAG pipelines covering ingestion, parsing, cleaning, chunking, embeddings, indexing/retrieval.
+ Evaluate keyword, semantic-vector/hybrid search, filtering/reranking; design prompts, structured outputs/context management.
+ Improve groundedness through retrieval quality, grounding checks, citations, abstention and human review.
+ Build controlled agentic workflows/tool integrations; evaluate retrieval, answers, safety, agent behaviour/business outcomes.
+ Monitor quality, groundedness, safety, latency, reliability/cost; apply access-aware retrieval, sensitive-data controls and prompt-injection defences.
+ Maintain auditable model, prompt, data, index and evaluation records.
+ Relevant experience: Azure OpenAI or comparable platforms; RAG; embeddings; vector indexes; BM25; semantic/hybrid search; retrieval/LLM evaluation; prompt engineering; FastAPI; LangGraph, LangChain, Semantic Kernel, Langfuse or OpenTelemetry.
+ Machine Learning Engineer - Data & ML Platforms
+ Build/operate enterprise-scale data, feature and engineering foundations for ML/AI.
+ Develop training and batch/real-time inference pipelines, reusable feature frameworks and batch/streaming components.
+ Optimize Spark/distributed processing; build secure data-platform/AI interfaces and reusable libraries/templates.
+ Implement ML dataset quality monitoring; support feature management, lineage/reproducibility.
+ Engineer large-scale structured/unstructured data; deploy, monitor and troubleshoot production ML data pipelines.
+ Relevant experience: Databricks, Spark/PySpark, Delta Lake, Python, SQL, batch/streaming architectures, feature management, data-quality testing, lineage, cloud storage/compute, CI/CD and infrastructure as code.
+ MLOps Engineer
+ Build/operate platforms, automation and controls across the ML/AI lifecycle.
+ Design CI/CD for models/AI applications; establish model registration, versioning, lineage/promotion.
+ Build reproducible training/deployment environments; support staged releases, shadow deployments/rollback.
+ Monitor health, latency, data quality, model performance/drift; develop retraining/redeployment workflows with validation/approvals.
+ Manage ML infrastructure/configuration; implement access controls, audit trails/governance evidence and reusable MLOps standards.
+ Relevant experience: MLflow, Databricks, Azure Machine Learning, Azure DevOps, GitHub Actions, Python, REST APIs, Docker, Kubernetes, Terraform, model registries and production observability.
+What you bring to the table
+Across the AI Engineering practice, relevant qualifications include:
+ Python and SQL skills.
+ Software engineering fundamentals including Git, APIs, testing and CI/CD.
+ Understanding of ML concepts and the model-development lifecycle.
+ Experience with data processing and analytical workloads.
+ Experience in cloud-based development environments.
+ Understanding of reliable, maintainable, production-ready solutions.
+ Depending on your specialization, the following are assets:
+ Databricks, MLflow and Apache Spark/PySpark.
+ Microsoft Azure or equivalent AWS/Google Cloud technologies.
+ Azure DevOps or GitHub.
+ Docker and containerized applications.
+ REST APIs.
+ scikit-learn, PyTorch, TensorFlow or comparable ML/deep-learning frameworks.
+ Azure OpenAI or comparable managed AI platforms.
+ RAG, embeddings, retrieval and LLM evaluation.
+ Infrastructure as code, Kubernetes and production observability.
+ Security, privacy, Responsible AI and model governance in a regulated environment.
+ Experience Levels
+ Junior
+ Work on defined ML/AI engineering tasks with guidance.
+ Write reliable Python and SQL.
+ Develop/test components within established architecture and engineering patterns.
+ Understand core ML and software-engineering practices.
+ Participate in code reviews and troubleshooting.
+ Learn Zurich's AI engineering, security and governance standards.
+ Intermediate
+ Independently design/deliver ML/AI components and solutions.
+ Own development through production implementation.
+ Make appropriate engineering and technology choices.
+ Troubleshoot complex data, model and production issues.
+ Contribute to architecture and engineering standards.
+ Mentor junior team members.
+ Work with stakeholders to refine technical requirements.
+ Senior
+ Lead design/engineering of complex enterprise AI/ML solutions.
+ Make architecture and technology decisions.
+ Establish reusable patterns and engineering standards.
+ Lead production-readiness, scalability, reliability and security decisions.
+ Mentor engineers and provide technical leadership.
+ Drive engineering excellence through design/code reviews.
+ Partner with architecture, security, governance and business leadership.
+ Evaluate emerging AI technologies and appropriate enterprise adoption patterns.
+ Compensation
+ At Zurich Canada, we are committed to pay equity. We determine compensation based on objective criteria such as skills, experience, and internal equity. The salary range for this position is $92,3000- $151,400 CAD.
+Our Culture
+At Zurich, we are proud of our culture. We are passionate about Diversity, Inclusion, Equity and Belonging (DIEB). We want you to bring your whole self to work, and we want our employees to be reflective of the communities in which we live and work.
+We value diverse perspectives and foster a collaborative environment where employees are empowered to make an impact. We offer a comprehensive rewards package designed to support employee well-being, growth, and success.
+ Comprehensive health and wellness benefits.
+ Minimum four weeks of vacation annually.
+ Four personal days each year to support personal, cultural, religious, or well-being needs.
+ Access to ongoing learning and development opportunities.
+ Opportunities to support and give back to our communities.
+ Recognition as one of Greater Toronto's Top Employers and recipient of Insurance Business Canada's 5-Star Diversity, Equity and Inclusion Award.
+ Make a difference. Be challenged. Be inspired. Be supported. Love what you do. Work for us.
+ A future with Zurich
+Now is the time to move forward and make a difference. At Zurich, we want you to share your unique perspectives, experiences and ideas so we can grow and drive sustainable change together. As part of a leading global organization, Zurich North America has over 148 years of experience managing risk and supporting resilience. We are a leading provider of commercial property-casualty insurance solutions and a wide range of risk management products and services for businesses and individuals. Today, we serve more than 25 industries, from agriculture to technology and insure 90% of the Fortune 500®. Our growth strategy is not limited to our business. As an employer, Zurich strives to provide ongoing career development opportunities and foster an environment where voices are diverse, behaviors are inclusive, actions drive equity, and our people feel a sense of belonging. Be a part of the next evolution of the insurance industry. Join us in building a brighter future for our people, our customers and the communities we serve.
+As a global company, Zurich recognizes the diversity of our workforce as an asset. We recruit talented people from a variety of backgrounds with unique perspectives that are truly welcome here. Taken together, diversity and inclusion bring us closer to our common goal: exceeding our customers’ expectations. Zurich is committed to providing a diverse, inclusive and barrier-free environment resulting in an accessible organization for employees, customers, and other parties who interact with, or on behalf of, Zurich. We strive to achieve a workplace free of discrimination of all forms, including discrimination on the basis of physical or mental disability, or medical condition. If you are interested in a job opportunity, please advise if you require an accommodation, so we can work with you to provide a more accessible process.
+Zurich does not accept unsolicited resumes from search firms or employment agencies. Any unsolicited resume will become the property of Zurich Canadian Holdings Limited. If you are a preferred vendor, please use our Recruiting Agency Portal for resume submission.
+Only applicable for Canada: For Zurich Canada's commitment to diversity and accessibility please click here. If you would prefer to not receive future electronic messages from Zurich Insurance Company Ltd's recruitment management system, please email your request to have your job profile deleted from the system by clicking here. Zurich Insurance Company Ltd 100 King St., W., Suite 5500, Toronto, ON, M5X 1C9. www.zurichcanada.com

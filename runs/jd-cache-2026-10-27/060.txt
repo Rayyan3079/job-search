@@ -1,0 +1,73 @@
+URL: https://www.linkedin.com/jobs/view/4481806525
+TITLE: AI Data Annotator
+COMPANY: SoTalent
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-26
+title: AI Data Annotator
+company: SoTalent
+posted: 8 hours ago
+applicants: 33 applicants
+apply_offsite: 
+---
+AI Data Annotator 
+ Location: Airdrie, Alberta, Canada 
+ Industry: Software Development 
+ Work Setting: Remote 
+ Are you passionate about evaluating cutting-edge AI technologies, analyzing multimedia content for quality and accuracy, and helping improve the next generation of AI-powered voice, image, video, and language models?
+ We are seeking an AI Media Evaluation Specialist to review, assess, and provide detailed feedback on AI-generated content across multiple formats. In this fully remote and flexible role, you will engage with AI voice systems, evaluate generated images and videos, identify quality issues, and contribute to improving the performance, realism, and reliability of advanced AI models.
+ Key Responsibilities 
+ AI Voice & Conversation Evaluation 
+ Participate in live, scenario-based conversations with AI voice systems.
+ Evaluate responses for clarity, naturalness, relevance, accuracy, and overall communication quality.
+ Assess conversational flow, pronunciation, speech patterns, and user experience.
+ Compare and rank AI responses based on effectiveness and realism.
+ Provide detailed written feedback highlighting strengths and areas for improvement.
+ Image & Video Quality Assessment 
+ Compare AI-generated images and videos against prompts and intended outcomes.
+ Evaluate outputs based on prompt adherence, realism, visual quality, consistency, and overall performance.
+ Identify visual issues such as distorted anatomy, rendering errors, unrealistic details, text inaccuracies, and other AI-generated artifacts.
+ Review edited content against original versions to determine effectiveness and quality improvements.
+ Support quality standards that enhance AI-generated visual content.
+ Multimedia Analysis & Review 
+ Inspect content carefully using close observation techniques, including replaying, reviewing frame-by-frame, and zooming into visual details when needed.
+ Detect inconsistencies, defects, and quality concerns across audio, image, and video outputs.
+ Assess synchronization between audio and visual elements.
+ Ensure evaluations are objective, evidence-based, and aligned with established quality guidelines.
+ Document observations clearly and accurately.
+ Content Annotation & Labeling 
+ Review and refine AI-generated captions, descriptions, and annotations.
+ Label actions, events, and activities appearing within video content.
+ Improve generated descriptions to ensure accuracy, clarity, and completeness.
+ Support the creation of high-quality training data through structured review and correction activities.
+ Contribute to improving AI understanding of real-world tasks and behaviors.
+ Audio & Speech Evaluation 
+ Evaluate AI-generated speech for naturalness, fluency, pronunciation, and voice consistency.
+ Assess how closely generated voices match intended targets or scenarios.
+ Identify issues involving pacing, clarity, tone, or audio quality.
+ Provide detailed evaluations that support continued improvements in speech generation technologies.
+ Support development of more realistic and engaging conversational AI experiences.
+ Quality Assurance & Feedback 
+ Rate AI-generated outputs across multiple evaluation dimensions, including quality, realism, adherence to instructions, and usability.
+ Write concise, evidence-based explanations supporting evaluation decisions.
+ Compare alternative outputs and determine which best meets defined criteria.
+ Provide actionable feedback that helps improve model performance.
+ Maintain consistency and accuracy throughout the evaluation process.
+ Common Activities 
+ Compare multiple AI-generated images and identify the strongest result.
+ Evaluate AI-generated videos against prompts and expected outcomes.
+ Review and improve AI-generated captions and annotations.
+ Engage in voice-based interactions with AI systems and assess conversational quality.
+ Analyze outputs and provide structured written evaluations and rankings.
+ Required Qualifications 
+ Fluent English speaking and writing skills.
+ Strong written communication abilities with attention to detail.
+ Ability to evaluate content objectively and provide clear feedback.
+ Comfortable participating in conversational testing scenarios.
+ Strong analytical and critical-thinking skills.
+ Ability to work independently in a remote environment.
+ Preferred Qualifications 
+ Bachelor's degree or equivalent educational experience.
+ Experience reviewing, evaluating, or analyzing digital content.
+ Experience providing written reviews, quality assessments, or feedback.
+ Familiarity with AI technologies, machine learning concepts, or content evaluation processes.
+ Experience with multimedia content including audio, video, or image analysis.

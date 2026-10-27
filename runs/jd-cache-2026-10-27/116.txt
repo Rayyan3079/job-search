@@ -1,0 +1,31 @@
+URL: https://www.linkedin.com/jobs/view/4483705552
+TITLE: AI Engineer (Deutsch C1+) - Werkstudent (m/w/d)
+COMPANY: Bavest
+LOC: Frankfurt am Main, Hesse, Germany
+POSTED: 2026-10-26
+title: AI Engineer (Deutsch C1+) - Werkstudent (m/w/d)
+company: Bavest
+posted: 12 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+Bei Bavest baust du keine Demo Projekte. Du arbeitest an Infrastruktur, die echte Kunden wie eToro, Tradegate und weitere Finanzinstitute antreibt. Wir sind ein schlankes Fintech Team und bauen das Datenrückgrat für Banken, Broker und Asset Manager in Europa und darüber hinaus.
+ Als Werkstudent (m/w/d) arbeitest du direkt mit unserem CTO an der Bavest API. Du verarbeitest Milliarden von Finanzdatenpunkten, baust skalierbare Pipelines und lieferst Features, auf die sich institutionelle Kunden täglich verlassen.
+ Deine Aufgaben 
+ Backend Services für unsere Finanzdaten API entwickeln und pflegen
+ Große Finanz und alternative Datensätze integrieren und verarbeiten
+ Performance, Skalierbarkeit und Zuverlässigkeit der API optimieren
+ An Code Reviews und technischen Diskussionen mit dem Kernteam teilnehmen
+ Was wir suchen 
+ Sehr gute Python Kenntnisse (3.x)
+ Fließend Deutsch (C1+), da du mit deutschen Finanzdokumenten und Kunden arbeitest
+ Interesse an Finanzdaten, APIs oder Dateninfrastruktur
+ Erfahrung mit AWS oder GCP ist ein Plus
+ Du lieferst, stellst Fragen und wartest nicht darauf, dass dir jemand sagt, was zu tun ist
+ Du wohnst in oder Nähe Frankfurt
+ Tech Stack: Python · AWS · GCP · ElastiCache · REST APIs · WebSockets
+ So bewirbst du dich 
+ Schick deine Bewerbung an career@bavest.co und beantworte diese 3 Fragen:
+ Warum möchtest du bei Bavest arbeiten?
+ Warum passt du zu uns?
+ An welchen eigenen Projekten hast du zuletzt gearbeitet?

@@ -1,0 +1,46 @@
+URL: https://www.linkedin.com/jobs/view/4481846144
+TITLE: Working Student – AI Engineering
+COMPANY: AgentixLake GmbH
+LOC: Germany
+POSTED: 2026-10-27
+title: Working Student – AI Engineering
+company: AgentixLake GmbH
+posted: 2 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+AgentixLake GmbH · Hamburg, Germany 
+ Remote within Germany · 15–20 hours per week · Working student / Werkstudent 
+https://www.linkedin.com/company/agentixlake/
+ Help turn AI ideas into systems people can rely on. 
+ An AI application needs more than a convincing first answer. It needs relevant data, useful tools, measurable quality, and reliable software behind it.
+ At AgentixLake, you’ll help build that software. We’re looking for a Working Student in AI Engineering who enjoys Python and wants to develop practical applications using large language models.
+ About AgentixLake 
+ AgentixLake is a Hamburg-based data and AI engineering company. We build production-grade data platforms and AI systems on our customers’ cloud and on-premises infrastructure.
+ Our projects include AI agents that investigate data pipeline failures, assistants that answer questions using governed business data, and document intelligence systems that extract structured information from complex manuals.
+ We are an AWS and Anthropic Certified Services Partner.
+ What you’ll work on 
+ Working alongside experienced engineers, you will:
+ Help develop Python applications that connect large language models to data, APIs, and tools.
+ Build and improve retrieval-augmented generation (RAG) workflows, including document processing, chunking, embeddings, and retrieval.
+ Support document intelligence pipelines that extract structured, source-linked information from complex documents.
+ Implement and test agent workflows, including tool use and human approval steps.
+ Create evaluation datasets and compare answer quality, retrieval performance, latency, and cost.
+ Add tests, logging, and documentation to make AI applications easier to operate and improve.
+ What you bring 
+ Current enrollment in computer science, artificial intelligence, data science, mathematics, or a related degree.
+ Practical Python skills with APIs, JSON, and Git.
+ Good understanding of large language models and curiosity in how AI applications are built.
+ A careful approach to testing: you understand when a system works, when it fails, and why.
+ Good English communication skills.
+ Show us what you got: a university or personal project involving LLMs, RAG, embeddings, or AI agents; experience with Amazon Bedrock, Claude, vector databases, FastAPI, Docker, or an AI application framework.
+ What you can expect 
+ Remote work within Germany, with hours coordinated around your studies.
+ Exposure to the full application lifecycle, from experimentation and evaluation to deployment and monitoring.
+ A small team where your questions, ideas, and contributions matter.
+ Follow our journey 
+ Follow AgentixLake on LinkedIn https://www.linkedin.com/company/agentixlake/ for updates, engineering insights, and future opportunities.
+ Apply 
+ Send your CV, your field of study, expected graduation date, and weekly availability. Include a university or personal project if you have one—a short explanation is enough.
+ We welcome applicants of all backgrounds. You do not need to meet every listed requirement to apply.
+ Learn more at https://agentixlake.com/

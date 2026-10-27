@@ -1,0 +1,41 @@
+URL: https://www.linkedin.com/jobs/view/4480021928
+TITLE: Data Analyst
+COMPANY: Maxwell Bond
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-22
+title: Data Analyst
+company: Maxwell Bond
+posted: 4 days ago
+applicants: Over 200 applicants
+apply_offsite: 
+---
+Data Analyst 
+ Warwickshire - (Hybrid) 
+ Salary: Up to £40,000 + Benefits 
+ We're supporting an innovative SaaS EdTech business in their search for a Data Analyst to join their growing team in Warwickshire. This is an excellent opportunity for a data-driven professional who enjoys turning complex datasets into meaningful insights.
+ You'll work across the business to help improve decision-making, optimise product performance, and support the delivery of a market-leading platform used within the education sector.
+ Working closely with stakeholders across Product, Operations, Customer Success, and Leadership teams, you'll play a key role in developing reporting capabilities, enhancing data quality, and driving business improvements through analytics.
+ As their Data Analyst, you’ll: 
+ Collect, analyse and interpret data from multiple business and product sources to generate actionable insights.
+ Design and maintain dashboards and reports using Power BI to support business decision-making.
+ Develop and monitor KPIs, ensuring stakeholders have visibility of business performance.
+ Build and optimise ETL processes using Python and Power Query.
+ Identify trends, patterns and opportunities through detailed data analysis.
+ Support data-driven initiatives across product development, customer engagement and operational performance.
+ Collaborate with stakeholders to understand reporting requirements and deliver analytical solutions.
+ Ensure data accuracy, consistency and governance standards are maintained.
+ Help drive continuous improvement in reporting, automation and data processes.
+ Maintain compliance with GDPR and PII regulations when handling and processing data.
+ Required Skills & Experience: 
+ Previous experience in a Data Analyst or similar analytics-focused role.
+ Strong SQL skills with experience querying and manipulating large datasets.
+ Skilled using CRM-related data and pipelines
+ Commercial experience using Python for data analysis and ETL processes.
+ Strong Power BI and data visualisation experience.
+ Excellent analytical and problem-solving skills with the ability to translate data into business recommendations.
+ Experience building and maintaining ETL pipelines using Python and Power Query.
+ Strong stakeholder communication skills, with the ability to present findings to both technical and non-technical audiences.
+ Experience working within a SaaS, EdTech or technology-focused environment is desirable.
+ Exposure to cloud-based data platforms.
+ Salary up to £40,000, Hybrid with 2-3 days per week in the office, Clear career development opportunities as the company continues to grow.
+ If you are an experienced Data Analyst and this sounds like your next role, apply today!

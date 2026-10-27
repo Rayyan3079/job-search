@@ -1,0 +1,28 @@
+URL: https://www.linkedin.com/jobs/view/4483546372
+TITLE: DATA ANALYST
+COMPANY: Wise RH
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-26
+title: DATA ANALYST
+company: Wise RH
+posted: 19 hours ago
+applicants: 109 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fjobs%2Fview%2Fdata-analyst-at-wise-rh-4483546372&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Notre client, recherche un Data Analyst.
+ Groupe présent en europe dans le domaine du loisir et actuellement en plein developpement de leur service IT et de nouvelles technologies au sein du groupe.
+ Au sein de la DSI, en collaboration avec le Product Owner Data/IA , vous accompagnez l'ensemble des équipes métiers dans l'exploitation de leurs données. Vous transformez ces données en indicateurs fiables, pour aider les métiers dans l'analyse d'améliorations de la performance du réseau et l'expérience client.
+ Vos missions : 
+ Comprendre les besoins métiers : identifier les enjeux des équipes, définir les indicateurs pertinents et prioriser avec le PO Data/IA les analyses et tableaux de bord à réaliser.
+ Préparer et fiabiliser les données : extraire, croiser et analyser les données issues des différents systèmes du groupe ; détecter les anomalies et contribuer à leur correction avec les équipes concernées. Documenter les règles de calcul pour garantir une lecture commune des indicateurs.
+ Développer le reporting : concevoir et maintenir des tableaux de bord adaptés aux métiers du siège et aux franchisés : performance commerciale, performance digitale, pricing dynamique, exploitation, achats, satisfaction client… Automatiser les reportings récurrents et accompagner les utilisateurs vers davantage d'autonomie.
+ Analyser et recommander : expliquer les tendances et les écarts, réaliser des analyses ponctuelles ou approfondies et restituer des recommandations accessibles et opérationnelles. Mesurer les résultats des actions engagées.
+ Maintenir le plan de taggage : être responsable de la définition, de la documentation et de la mise à jour du plan de taggage des canaux digitaux du groupe. Coordonner sa mise en œuvre avec les équipes techniques et marketing, contrôler les déclenchements et la qualité des données collectées, dans le respect des règles de consentement.
+ Votre environnement : SQL, Power BI, Snowflake, BigQuery, GTM, GA4, CMP.
+ L'IA dans vos missions : contribuer avec le PO Data/IA à des usages utiles aux métiers, notamment l'analyse des verbatims, la détection d'anomalies et l'aide à la prévision, en évaluant la pertinence des résultats.
+ Vous avez une formation supérieure, idéalement Bac +5 en analyse de données, statistiques, marketing analytique ou systèmes d'information, et au moins 5 ans d'expérience en Data Analysis à forte dimension métier.
+ Vous maîtrisez les outils de BI standard du marché , ainsi le taggage e-commerce (GA4).
+ Vous comprenez les enjeux du e-commerce, du revenue management. 
+ Autonome et rigoureux(se), vous savez questionner un besoin, expliquer un résultat et formuler des recommandations utilisables par des interlocuteurs non techniques.
+ Vous êtes attentif(ve) à la qualité comme à la confidentialité des données
+ Vous êtes à l'aise en anglais professionnel.

@@ -1,0 +1,33 @@
+URL: https://www.linkedin.com/jobs/view/4481439032
+TITLE: Werkstudent Business Intelligence & Automation im Bereich Installed Base Management (m/w/d)
+COMPANY: Envanio
+LOC: Bietigheim-Bissingen, Baden-Württemberg, Germany
+POSTED: 2026-10-26
+title: Werkstudent Business Intelligence & Automation im Bereich Installed Base Management (m/w/d)
+company: Envanio
+posted: 21 hours ago
+applicants: 31 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-business-intelligence-automation-im-bereich-installed-base-management-m-w-d-at-envanio-4481439032&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Was Dich erwartet 
+ Du entwickelst und optimierst Power BI-Lösungen zur Datenanalyse
+ Du wirkst bei der Gestaltung und Weiterentwicklung des Installed Base Managements in Europa mit
+ Du analysierst Datenbestände und sorgst durch Bereinigung und Qualitätssicherung für eine hohe Datenqualität
+ Du führst Daten aus unterschiedlichen Quellen zusammen und bereitest diese für Analysen und Reportings auf
+ Du erstellst aussagekräftige Auswertungen, KPIs, Dashboards und Management-Reports
+ Du unterstützt bei Datenqualitäts- und Stammdatenprojekten
+ Du dokumentierst Datenmodelle, Prozesse und Analyseergebnisse
+ Was Du mitbringst 
+ Du verfügst über gute Kenntnisse in Microsoft Power BI
+ Du gehst sicher mit Microsoft Excel um
+ Du bringst Grundkenntnisse in Python mit
+ Du hast ein gutes Verständnis für Datenbanken und Datenstrukturen, beispielsweise SQL
+ Du interessierst Dich für Datenanalyse, Reporting und Business Intelligence
+ Idealerweise hast Du bereits erste Erfahrungen im Umgang mit großen Datenmengen gesammelt
+ Von Vorteil sind Kenntnisse in Power Query oder DAX
+ Erste Erfahrungen im Bereich Data Governance oder Stammdatenmanagement sind wünschenswert
+ Idealerweise konntest Du bereits Erfahrungen mit CRM- oder ERP-Systemen, beispielsweise Salesforce oder SAP, sammeln
+ Du arbeitest selbstständig, strukturiert und zuverlässig
+ Du überzeugst durch Teamfähigkeit und Eigeninitiative
+ Du verfügst über sehr gute Deutsch- und Englischkenntnisse
+ Wir wertschätzen diverse Teams und freuen uns über Deine Bewerbung, unabhängig von Deiner Nationalität, ethnischen Herkunft, Geschlecht, sexuellen Orientierung, Religion, Behinderung oder Alter.

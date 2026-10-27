@@ -1,0 +1,36 @@
+URL: https://www.linkedin.com/jobs/view/4465635470
+TITLE: SQL Developer
+COMPANY: Global Payments Inc.
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-23
+title: SQL Developer
+company: Global Payments Inc.
+posted: 3 days ago
+applicants: 62 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fpl.linkedin.com%2Fjobs%2Fview%2Fsql-developer-at-global-payments-inc-4465635470&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Chcesz rozwijać swoją karierę globalnie?
+ Zaznacz swoją obecność w jednej z największych firm w branży płatności. Poszukujemy Programisty/ Programistki który/a dołączy do naszego dynamicznie rozwijającego się zespołu Eurosuite w eService i pomoże kształtować przyszłość globalnego handlu.
+eService jest liderem rynku akceptacji kart płatniczych i rozliczania transakcji elektronicznych w Polsce, a także największym dostawcą technologii w zakresie usług rozliczeniowych w Europie Środkowo-Wschodniej. Firma działa na rynku od prawie 25 lat i oferuje przedsiębiorcom omnichannelowe rozwiązania płatnicze zarówno dla stacjonarnych i mobilnych punktów usługowo-handlowych, jak i działalności online. W ofercie ma terminale POS i bramki płatnicze dla rozwiązań e-commerce i m-commerce. Firma wspiera promocję płatności bezgotówkowych w małych i średnich przedsiębiorstwach, a także w jednostkach samorządu terytorialnego i instytucjach publicznych.
+eService należy do Global Payments Inc. (NYSE: GPN) i PKO Banku Polskiego. Global Payments z siedzibą w Atlancie w stanie Georgia, zatrudnia około 27 000 pracowników na całym świecie, jest spółką z listy Fortune 500® i członkiem S&P 500. Prowadzi działalność o światowym zasięgu obejmującym Amerykę Północną, Europę, Azję i Pacyfik oraz Amerykę Łacińską.
+ Twoje obowiązki
+ rozwój i implementacja zmian bazodanowych dla aplikacji Eurosuite
+ rozwój i utrzymanie systemów raportujących
+ optymalizacja zapytań bazodanowych
+ dokumentacja wykonywanej pracy współpraca z innymi komórkami organizacyjnymi
+ Twoje kompetencje
+ minimum 2 lata doświadczenia podobnym stanowisku
+ znajomość MS T-SQL
+ znajomość Reporting Services
+ znajomość SSIS i pakietów DTSX
+ znajomość języka angielskiego oraz polskiego umożliwiająca swobodną komunikację: min. B2
+ umiejętność pracy zespołowej
+ umiejętność analizy danych
+ doświadczenie w pracy z dużym wolumenem danych (optymalizacja zapytań)
+ znajomość metodyk zwinnych
+ O zespole
+ Nasze inkluzywne i globalne zespoły wspólnie zwyciężają każdego dnia. Jesteśmy dumni, że mamy najlepsze umysły w branży, od których możesz się uczyć, rozwijając swoją karierę. Ludzie, energia, relacje – to wszystko jest bezkonkurencyjne. Dołącz do stale rozwijającej się firmy i zyskaj dynamiczne możliwości wykraczające poza granice.
+ Co wyróżnia Globalpayera?
+ Globalpayerzy myślą jak klient, działają jak właściciele i wygrywają jako jeden zespół. Są ciekawi i innowacyjni — zawsze szukają lepszych sposobów na osiąganie rezultatów. Wspieramy się nawzajem w podejmowaniu decyzji, a nasza pasja napędza doskonałość we wszystkim, co robimy.
+Czy brzmi to znajomo? W takim razie jesteś Globalpayerem. Aplikuj już teraz i rozwijaj swoją karierę globalnie.
+LinkedIn #MK

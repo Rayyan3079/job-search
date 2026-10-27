@@ -1,0 +1,38 @@
+URL: https://www.linkedin.com/jobs/view/4473172286
+TITLE: Business Intelligence Analyst - Mid
+COMPANY: Arch Global Services Philippines
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-24
+title: Business Intelligence Analyst - Mid
+company: Arch Global Services Philippines
+posted: 2 days ago
+applicants: 68 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fph.linkedin.com%2Fjobs%2Fview%2Fbusiness-intelligence-analyst-mid-at-arch-global-services-philippines-4473172286&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+With a company culture rooted in collaboration, expertise and innovation, we aim to promote progress and inspire our clients, employees, investors and communities to achieve their greatest potential. Our work is the catalyst that helps others achieve their goals. In short, We Enable Possibility℠.
+Have you ever wondered how Actuaries evaluate risk and measure performance at insurance companies? The Actuarial Operations Team at Arch is a dynamic and growing team. We are expanding our reporting capabilities to better support the actuarial department, with strong opportunities for innovation and adoption of modern technologies.
+The BI Analyst partners with Actuaries to identify reporting priorities driven by actuarial models. In this role, you will leverage business intelligence and analytical expertise to develop new reports and enhance existing reporting solutions.
+ Job Responsibilities
+ Collaborate with actuarial teams to design and deliver actionable reporting solutions
+ Develop and enhance reports using Power BI and Microsoft Power Platform tools for data analysis and visualization, and maintain comprehensive semantic models within Power BI
+ Build, configure, and maintain automated testing workflows within cloud environments
+ Create and maintain scalable CI/CD pipelines for reporting solutions, leveraging Git-based workflows
+ Perform regular validation of report outputs in partnership with QA teams
+ Produce and maintain clear documentation for internal use and UAT
+ Partner with data engineering teams to improve reporting data models and architecture
+ Collaborate with cross-functional stakeholders; implement reporting standards and align practices with governance and compliance requirements in partnership with IT teams
+ Technical Skills
+ Required Skills/Experience 
+ 2+ years of experience developing reports in Power BI
+ 5+ years of experience building reports and dashboards using visualization tools (e.g., Power BI, QlikView, Tableau)
+ Experience supporting analytics or actuarial functions, preferably within an insurance environment
+ Ability to independently troubleshoot and resolve technical challenges
+ Strong analytical thinking and problem-solving capabilities
+ Commitment to continuous learning and exploration of emerging tools and technologies
+ Ability to leverage data to drive business insights and decision-making
+ Familiarity with SQL, Snowflake, or Python is a plus
+ Familiarity with Streamlit or Sigma is a plus
+ EDUCATION
+ Bachelor’s degree in statistics, mathematics, information technology, computer science, business analytics, data analytics, or equivalent work experience
+ Do you like solving complex business problems, working with talented colleagues and have an innovative mindset? Arch may be a great fit for you. If this job isn’t the right fit but you’re interested in working for Arch, create a job alert! Simply create an account and opt in to receive emails when we have job openings that meet your criteria. Join our talent community to share your preferences directly with Arch’s Talent Acquisition team.
+10400 Arch Global Services (Philippines) Inc.

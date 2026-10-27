@@ -1,0 +1,47 @@
+URL: https://www.linkedin.com/jobs/view/4482462758
+TITLE: Medior Data Scientist / Machine Learning Engineer - Madrid - Spain (m/f/x)
+COMPANY: Allianz Direct
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-22
+title: Medior Data Scientist / Machine Learning Engineer - Madrid - Spain (m/f/x)
+company: Allianz Direct
+posted: 4 days ago
+applicants: 85 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fes.linkedin.com%2Fjobs%2Fview%2Fmedior-data-scientist-machine-learning-engineer-madrid-spain-m-f-x-at-allianz-direct-4482462758&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Join Allianz Direct! 
+ The machine learning engineering chapter at Allianz Direct is a global team consisting of experienced data scientists / machine learning engineers that have been pioneering new use cases in insurance and building a modern machine learning platform. The team is responsible for the development, deployment, and maintenance of machine learning models in all 5 countries where Allianz Direct is currently active. We are looking for a medior data scientist / ML engineer to grow the team in Madrid, to build and deploy machine learning solutions end-to-end to serve business needs.
+ You Will Get To
+ Work with experienced data scientists / ML engineers and focus on building one or two machine learning solutions at a time. Develop your models end-to-end, from ideation with business stakeholders to deployment and monitoring.
+ Dive into a range of challenging modelling problems around our pricing engine, claim processes, customer contact center and operations. You can expect to tackle problems using classification, regression, anomaly detection, survival modelling and other ML approaches.
+ Utilize our mature next generation data platform hosted on Databricks, containing well organized data across all Allianz Direct countries.
+ Help to extend our machine learning platform used for development and deployment of a range of models, in both batch and API inference modes.
+ Collaborate with dev engineers to embed a deployed model into company processes.
+ Contribute to our continuously evolving way of working and internal packages, as well as benefit from and contribute to our weekly knowledge sharing sessions.
+ Work on a modern tech stack. We use Python, Databricks, MLflow and can leverage shared compute for large training jobs.
+ Work together with diverse international colleagues based in Spain, Netherlands, Germany, France, and Italy.
+ Your Profile
+ Located in the area of Madrid in Spain, since this hybrid role requires working with the team at the office location in Madrid.
+ Academic degree (MSc or PhD), preferably in a relevant technical field such as computer science, data science, physics, econometrics, or engineering.
+ A strong foundation in machine learning fundamentals. You know how to properly apply a wide range of algorithms for classification, regression, and other predictive problems.
+ At least 3 years of experience in a similar data science or ML engineering role.
+ A love for coding. Programming experience in Python is required and you are familiar with libraries like pandas/scikit-learn, and have experience doing hyper parameter tuning for a diverse set of models including boosting models.
+ Experience with MLOps on Databricks or within the insurance business are a strong plus.
+ You are a self-learner. You are eager to keep developing and improving, and stay on top of the latest developments. You enjoy both sharing knowledge and learning from others.
+ Fluent in English. Able to communicate complex topics in a clear and precise manner to audiences with different backgrounds and at different levels.
+ What We Offer
+ At Allianz Direct you will find yourself in an inspiring working environment where there is plenty of room to set up your own initiatives, in an international scope. We believe that success starts with satisfied employees. That's why we offer you:
+ Hybrid working from office and home, with at least one shared office day a week with the team in Madrid.
+ Flexible working hours, mixed working / telecommuting mode to suit your needs and option of up to 5 weeks of working from abroad per year.
+ Attractive benefits like flexible compensation plan: childcare, transport card, health insurance and training. Ticket restaurant at the office. Life insurance and a yearly bonus option.
+ Working in an international environment, sharing day-to-day projects and best-practices with Allianz Direct colleagues located in different locations in Europe, with options to visit.
+ Joining a young and 100% digital project, Allianz Direct, where you will be part of defining the future of the insurance industry in Europe, within the world's largest insurance group, Allianz.
+ We invest in your personal and professional growth so that you can be successful in your work and beyond.
+ About Us
+ Allianz Direct is Europe's leading digital insurer. We are building a fully data-driven organization in which technology, automation, and customer experience are central. As ML engineer, you will play a key role in realizing that ambition. You will ensure that the available data is used intelligently to continuously improve our products, processes, and customer interactions.
+Curious about what we can offer you as ML engineer? Then we invite you to apply immediately!
+ 108605 | Reinsurance | Professional | Allianz Direct | Full-Time | 
+ Allianz Group is one of the most trusted insurance and asset management companies in the world. Caring for our employees, their ambitions, dreams and challenges, is what makes us a unique employer. Together we can build an environment where everyone feels empowered and has the confidence to explore, to grow and to shape a better future for our customers and the world around us.
+We at Allianz believe in an inclusive workforce and are proud to be an equal opportunity employer. We encourage you to bring your whole self to work, no matter where you are from, what you look like, who you love or what you believe in. We therefore welcome applications regardless of ethnicity or cultural background, age, gender, nationality, religion, disability or sexual orientation.
+ Join us. Let's care for tomorrow.
+ Note: Having different strengths, experiences, perspectives and approaches is an integral part of Allianz‘ company culture. One means to achieve diverse teams is a regular rotation of Allianz Executive employees across functions, Allianz entities and geographies. Therefore, the company expects from its employees a general openness and a high motivation to regularly change positions and collect experiences across Allianz Group.

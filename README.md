@@ -13,15 +13,13 @@ Internships, thesis roles, full-time roles and German-required roles are listed 
 | [modes/_profile.md](modes/_profile.md) | Two tracks (SAP/BI vs. Data Science) and the never-claim rules |
 | [modes/_custom.md](modes/_custom.md) | Tiers and package rules |
 | [portals.yml](portals.yml) | Search sources and keywords |
-| Sources | LinkedIn, StepStone, XING, Arbeitsagentur, Fraunhofer/X-FAB/Jenoptik career sites |
+| Sources | LinkedIn, StepStone, XING, Arbeitsagentur, Fraunhofer/X-FAB/Jenoptik career sites, worldwide remote boards (Remotive, RemoteOK, Himalayas, Jobicy, Working Nomads) |
 | [digests/](digests/) | One report per run |
 | [output/](output/) | Tailored CV + cover letter per job, by date |
 | [data/applications.md](data/applications.md) | Tracker: update the status when you apply |
 
 ## Latest run
 
-**2026-10-25**: 1 package (remote). Local market had no new English-friendly roles. Full report: [digests/2026-10-25.md](digests/2026-10-25.md). Earlier: [10-23](digests/2026-10-23.md) (incl. 3 local packages: DLR Jena, Fraunhofer IDMT x2), [10-21](digests/2026-10-21.md), [10-19](digests/2026-10-19.md), [10-17](digests/2026-10-17.md), [10-15](digests/2026-10-15.md)
+**2026-10-27**: 167 new jobs checked across LinkedIn, StepStone, XING, career sites, Arbeitsagentur and worldwide remote boards. No new packages; 3 recommended actions (iMerit AI trainer, FSU/DLR Jena HiWi email, AgentixLake AI). Full report: [digests/2026-10-27.md](digests/2026-10-27.md).
 
-| Lane | Company | Role | Fit | Documents |
-|---|---|---|---|---|
-| R (remote) | AgentixLake | Working Student – Data Engineering | 3.5/5 | [folder](output/2026-10-25/agentixlake-working-student-data-engineering/) |
+Still open from earlier: [IGH Automation Ilmenau](output/2026-10-26/igh-automation-ilmenau-werkstudent/) (10-26), [AgentixLake Data Engineering](output/2026-10-25/agentixlake-working-student-data-engineering/) (10-25), [DLR Jena + Fraunhofer IDMT x2](digests/2026-10-23.md) (10-23).

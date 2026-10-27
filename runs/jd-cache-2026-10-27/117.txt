@@ -1,0 +1,31 @@
+URL: https://www.linkedin.com/jobs/view/4483592794
+TITLE: AI Engineer - Working Student (m/w/d)
+COMPANY: Bavest
+LOC: Frankfurt am Main, Hesse, Germany
+POSTED: 2026-10-26
+title: AI Engineer - Working Student (m/w/d)
+company: Bavest
+posted: 12 hours ago
+applicants: 27 applicants
+apply_offsite: 
+---
+At Bavest, you’re not building demo projects. You’re working on infrastructure that powers real clients like eToro, Tradegate and other financial institutions. We’re a lean fintech team building the data backbone for banks, brokers and asset managers across Europe and beyond.
+ As a Working Student (m/w/d), you’ll work directly with our CTO on the Bavest API. You’ll process billions of financial data points, build scalable pipelines and ship features that institutional clients rely on every day.
+ What You’ll Do 
+ Build and maintain backend services for our financial data API
+ Integrate and process large financial and alternative datasets
+ Optimize API performance, scalability and reliability
+ Participate in code reviews and technical discussions with the core team
+ What We’re Looking For 
+ Strong Python skills (3.x)
+ Fluent German (C1+), as you’ll work with German financial documents and clients
+ Interest in financial data, APIs or data infrastructure
+ Familiarity with AWS or GCP is a plus
+ You ship things, ask questions and don’t wait to be told what to do
+ You live in or near Frankfurt
+ Tech Stack: Python · AWS · GCP · ElastiCache · REST APIs · WebSockets
+ How to Apply 
+ Send your application to career@bavest.co and answer these 3 questions:
+ Why do you want to work at Bavest?
+ Why are you the right fit?
+ What personal projects have you worked on recently?

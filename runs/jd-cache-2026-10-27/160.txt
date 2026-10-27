@@ -1,0 +1,62 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudentin-Softwareentwicklung-Kuenstliche-Intelligenz-Systeme-Sindelfingen-Mercedes-Benz-AG--14686828-inline.html
+TITLE: Werkstudent*in Softwareentwicklung Künstliche Intelligenz-Systeme
+COMPANY: Mercedes-Benz AG
+LOC: Sindelfingen
+POSTED: stepstone
+title: Werkstudent*in Softwareentwicklung Künstliche Intelligenz-Systeme
+company: Mercedes-Benz AG
+posted: 2026-10-26T14:47:55.283Z
+location: Sindelfingen | remote: 
+---
+Life is always about becoming… Im Leben geht es darum, sich auf eine Reise zu begeben, um die beste Version unseres zukünftigen Selbst zu werden. Während wir Neues entdecken, stellen wir uns Herausforderungen, meistern sie und wachsen über uns hinaus.
+Bewerben Sie sich bei Mercedes-Benz und finden Sie den Aufgabenbereich, in dem Sie Ihre Talente individuell entfalten können. Dabei werden Sie von visionären Kolleginnen und Kollegen unterstützt, die Ihren Pioniergeist teilen. Bei uns einzusteigen bedeutet, Teil eines globalen Teams zu werden, dessen Ziel es ist, die begehrenswertesten Automobile der Welt zu bauen. Together for excellence.
+Stellennummer: MER000492O
+ Aufgaben
+ Wir sind Teil der MB.OS (Mercedes-Benz Operating System) Developer Journey und entwickeln die PMT (Product Methods & Tools) Solution, die zentrale Plattform, die Fahrzeugentwickler*innen bei Mercedes-Benz die Prozesse, Methoden und Werkzeuge für ihre tägliche Arbeit bereitstellt. 
+ Unser Ziel ist es, komplexe Entwicklungsprozesse durch schlanke, toolgestützte Abläufe zu ersetzen und damit die Fahrzeugentwicklung effizienter zu gestalten. 
+ Dafür suchen wir eine Person, die KI (Künstliche Intelligenz) nicht nur nutzt, sondern versteht.
+ Diese Herausforderungen kommen u. a. auf Dich zu:
+ Entwicklung und Integration von KI (Künstliche Intelligenz) -Komponenten (LLM-Agents, RAG-Pipelines, API-Anbindungen) in bestehende Plattformen
+ Softwareentwicklung mit TypeScript in modernen Technologie-Stacks (NestJS, Vue 3) einschließlich Testing und Code Reviews
+ Eigenverantwortliche Umsetzung abgegrenzter Features vom technischen Design bis zum Deployment
+ Mitarbeit bei Architektur- und Technologieentscheidungen als vollwertiges Teammitglied
+ Du arbeitest direkt im Produktteam, nicht in einer Sandbox – Dein Code geht in Produktion. 
+ Wir erwarten, dass Du Entscheidungen begründen kannst, nicht nur prompten.
+ Die Tätigkeit kann ab Dezember 2026 beginnen.
+ Qualifikationen
+ Studiengang im Bereich Informatik, Wirtschaftsinformatik, Data Science oder ein vergleichbarer Studiengang
+ Sichere Deutsch- und Englischkenntnisse in Wort und Schrift
+ Engagement und Teamfähigkeit
+ Analytische Denkweise und strategische Arbeitsweise
+ Solide TypeScript-Kenntnisse – Du weißt, was Du tust, auch ohne KI (Künstliche Intelligenz) -Assistent
+ Grundkenntnisse in mindestens einem KI ((Künstliche Intelligenz) -Framework oder einer KI (Künstliche Intelligenz)-API (Application Programming Interface) (z. B. OpenAI API, LangChain, Hugging Face)
+ Verständnis von Software-Engineering-Grundsätzen wie Testing, Clean Code und Git-Workflows
+ Zusätzliche Informationen: 
+ Wir freuen uns auf Deine Online-Bewerbung mit Lebenslauf, Anschreiben, Zeugnissen, aktueller Immatrikulationsbescheinigung mit Angabe des Fachsemesters und Nachweis über die Regelstudienzeit. Bitte vergiss nicht im Online-Formular Deine Dokumente als "relevant für diese Bewerbung" zu markieren und beachte die maximale Dateigröße von 5 MB. 
+ Weiterführende Informationen zu den Einstellkriterien findest Du hier . 
+ Schwerbehinderte und gleichgestellte Bewerbende sind herzlich willkommen! Die Schwerbehindertenvertretung ( sbv-sindelfingen@mercedes-benz.com ) unterstützt Dich gerne im Bewerbungsprozess. 
+ People Solutions hilft Dir bei Fragen zum Bewerbungsprozess gerne weiter. Du erreichst uns per E-Mail über myhrservice@mercedes-benz.com oder telefonisch unter 0711/17-99000 (Mo-Fr 10-12 Uhr & 13-15 Uhr). 
+ Benefits
+ Essens­zulagen 
+ Mit­arbeiter­handy möglich 
+ Mit­arbeiter­rabatte möglich 
+ Mit­arbeiter­beteili­gung möglich 
+ Mit­arbeiter Events 
+ Coaching 
+ Flexible Arbeits­zeit möglich 
+ Hybrides Arbeiten möglich 
+ Gesund­heits­maß­nahmen 
+ Betrieb­liche Alters­ver­sorgung 
+ Mobilitäts­angebote 
+ Park­platz 
+ Betriebs­arzt 
+ Gute An­bindung 
+ Barriere­frei­heit 
+ Kinder­betreuung 
+ Kantine, Café 
+ Kontakt
+Carmen Venninger-De Marco
+Email: carmen.venninger-de_marco@mercedes-benz.com 
+Mercedes-Benz Plant Sindelfingen, Sindelfingen
+Benz-Str. Tor 16
+71063 Sindelfingen

@@ -1,0 +1,62 @@
+URL: https://www.stepstone.de/stellenangebote--Working-Student-Software-Development-for-Artificial-Intelligence-Systems-Sindelfingen-Mercedes-Benz-AG--14686829-inline.html
+TITLE: Working Student Software Development for Artificial Intelligence Systems
+COMPANY: Mercedes-Benz AG
+LOC: Sindelfingen
+POSTED: stepstone
+title: Working Student Software Development for Artificial Intelligence Systems
+company: Mercedes-Benz AG
+posted: 2026-10-26T14:47:58.167Z
+location: Sindelfingen | remote: 
+---
+Life is always about becoming… Becoming means going on a journey to be the best version of our future selves. While we discover new things, we will face challenges, master them and grow beyond our individual limits.
+Apply for a job at Mercedes-Benz and find your individual role and workspace to unleash your talents to the fullest. Empowered by visionary colleagues who share the same pioneering spirit. Joining us means becoming part of a global team that aims to build the most desirable cars in the world. Together for excellence.
+Job-ID: MER000492O
+ Tasks
+ We are part of the MB.OS (Mercedes-Benz Operating System ) Developer Journey and develop the PMT (Product Methods & Tools) Solution, the central platform that provides vehicle engineers at Mercedes-Benz with the processes, methods, and tools they need for their daily work. 
+ Our goal is to replace complex development workflows with lean, tool-supported processes that make vehicle engineering more efficient. 
+ We are looking for someone who understands AI (Artificial Intelligence), not just uses it.
+ These challenges await You:
+ Develop and integrate AI (Artificial Intelligence) components (LLM agents, RAG pipelines, API integrations) into existing platforms
+ Develop software using TypeScript in modern technology stacks (NestJS, Vue 3), including testing and code reviews
+ Take ownership of end-to-end feature development, from technical design through deployment
+ Contribute to architecture and technology decisions as a full member of the team 
+ You'll work directly in the product team, not in a sandbox — your code ships to production. 
+ We expect you to reason about your decisions, not just prompt your way through them.
+ The activity can begin from December 2026.
+ Qualifications
+ Studies in the field of Computer Science, Business Informatics, Data Science, or a comparable degree program
+ Proficient in German and English, both written and spoken
+ Engagement and ability to work in a team
+ Analytical mindset and structured, strategic approach to work
+ Solid TypeScript skills – You know what You're doing, with or without an AI (Artificial Intelligence) assistant
+ Familiarity with at least one Artificial Intelligence (AI) framework or Application Programming Interface (API) (e.g., OpenAI API, LangChain, Hugging Face)
+ Understanding of software engineering fundamentals, including testing, clean code, and Git workflows
+ Additional Information: 
+ We look forward to receiving your online application, including a resume, cover letter, certificates, current certificate of enrollment stating your semester, and proof of the standard period of study. Please remember to mark your documents as "relevant for this application" in the online form and observe the maximum file size of 5 MB. 
+ You can find further information on the hiring criteria here . 
+ Severely disabled applicants and applicants with equivalent status are welcome! The representative for severely disabled employees ( sbv-sindelfingen@mercedes-benz.com ) will gladly support you in the application process. 
+ People Solutions will be happy to help you with any questions you may have about the application process. You can reach us by email at myhrservice@mercedes-benz.com or by phone at 0711/17-99000 (Mon-Fri 10am-12pm & 1pm-3pm). 
+ Benefits
+ Meal-Discounts 
+ Mobile Phone for Employees Possible 
+ Discounts for Employees Possible 
+ Annual Profit Share Possible 
+ Events for Employees 
+ Coaching 
+ Flextime Possible 
+ Hybrid Work Possible 
+ Health Benefits 
+ Company Retirement 
+ Mobility Offers 
+ Parking 
+ Inhouse Doctor 
+ Good Public Transport 
+ Barrier-Free Workplace 
+ Near-Site Childcare 
+ Canteen, Café 
+ Contact
+Carmen Venninger-De Marco
+Email: carmen.venninger-de_marco@mercedes-benz.com 
+Mercedes-Benz Plant Sindelfingen, Sindelfingen
+Benz-Str. Tor 16
+71063 Sindelfingen

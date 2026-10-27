@@ -1,0 +1,35 @@
+URL: https://www.linkedin.com/jobs/view/4483207440
+TITLE: Data Analyste Confirmé(e)
+COMPANY: eXalt Value
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-26
+title: Data Analyste Confirmé(e)
+company: eXalt Value
+posted: 14 hours ago
+applicants: 35 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fjobs%2Fview%2Fdata-analyste-confirm%25C3%25A9-e-at-exalt-value-4483207440&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Vous aimez faire parler les données, mais surtout les transformer en décisions utiles ? Vous êtes aussi à l’aise pour écrire une requête SQL que pour échanger avec les équipes métiers ?
+ Rejoignez eXalt Value en Île-de-France. 
+ Nous recherchons un·e Data Analyst avec au moins 4 ans d’expérience dans la fonction , capable d’allier expertise technique, compréhension des enjeux business et excellent relationnel.
+ 🎯 Vos missions
+ Au contact des équipes métiers et techniques, vous contribuerez à faire de la donnée un véritable outil d’aide à la décision :
+ Comprendre et cadrer les besoins métiers pour les traduire en analyses, indicateurs et livrables pertinents.
+ Collecter, extraire et préparer les données issues de différentes sources avec SQL et Python.
+ Contrôler la qualité et la cohérence des données , identifier les anomalies et contribuer à leur résolution.
+ Analyser les performances , repérer les tendances et dégager des recommandations concrètes.
+ Concevoir et faire évoluer des dashboards clairs, fiables et adaptés à leurs utilisateurs.
+ Définir et suivre les KPI pour mesurer l’activité et éclairer les décisions.
+ Automatiser les analyses et les reportings récurrents.
+ Présenter vos résultats avec pédagogie , accompagner les utilisateurs et favoriser l’adoption des outils de pilotage.
+ 🔎 Votre profil
+ Vous êtes titulaire d’un diplôme Bac +5, Ecole d'Ingénieur, Ecole de Commerce ou Université. 
+ Vous justifiez d’au moins 4 ans d’expérience en tant que Data Analyst .
+ Vous maîtrisez SQL et Python , ainsi qu’au moins un outil de dashboarding : Power BI, Tableau ou équivalent .
+ Votre anglais est courant , à l’oral comme à l’écrit.
+ Vous avez un excellent relationnel : vous savez écouter, poser les bonnes questions et collaborer avec des interlocuteurs variés.
+ Vous comprenez les enjeux des métiers et savez transformer une demande parfois floue en une réponse analytique utile.
+ Vous faites preuve de rigueur, de curiosité et d’esprit critique, sans perdre de vue l’impact business.
+ ✨ Ce qui rend ce rôle stimulant
+ De l’analyse à la recommandation, vous ne vous arrêtez pas au dashboard. Vous faites le lien entre les données et les équipes qui les utilisent, avec une ambition : rendre les résultats compréhensibles, exploitables et utiles au quotidien.
+ Un poste pour celles et ceux qui aiment autant résoudre un problème technique que comprendre la question métier qui se cache derrière

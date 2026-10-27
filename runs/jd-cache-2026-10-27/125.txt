@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4483737941
+TITLE: Werkstudent:in Hardware & Vision Delivery Unit – AI.SEE (m/w/d)
+COMPANY: elunic AG
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-10-26
+title: Werkstudent:in Hardware & Vision Delivery Unit – AI.SEE (m/w/d)
+company: elunic AG
+posted: 7 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-in-hardware-vision-delivery-unit-%25E2%2580%2593-ai-see-m-w-d-at-elunic-ag-4483737941&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+AI & Tech
+ München
+ Vor Ort
+ Dienstag, 10 Uhr, im Münchner Office. Ein Paket von einem Kunden trifft ein – darin Bauteile für ein neues Prüfverfahren. Du nimmst den Schraubenzieher in die Hand, baust das Gestänge unseres Multivision-Cubes auf, richtest die Kameras exakt aus und lieferst bis Ende der Woche gestochen scharfe Bilddaten für das finale Set-up.
+ Das ist die Rolle. Kein Theorie-Paper, kein reines Coden. Du bist der Mensch, der bei uns in München die Delivery Unit mit aufbaut und dafür sorgt, dass unsere Hardware- und KI-Systeme den Schritt vom Konzept in die physische Realität machen.
+ Was du tatsächlich tust
+ Du baust unsere Delivery Unit mit auf: Du kümmerst dich eigenverantwortlich um den Aufbau, das Zusammensetzten und die Konfiguration unserer Multivision-Cubes (Kamerawürfel, Gestänge, Sensoren) in unserem Münchner Office.
+ Du machst Prototypen anfassbar: Wenn neue Kundenanforderungen reinkommen, tüftelst du an der physischen Ausrichtung und Hardware-Einstellung, um optimale Bedingungen für unsere visuellen KI-Agenten zu schaffen.
+ Du wickelst den Versand und Standard-Set-ups ab: Du stellst sicher, dass die gefertigten Systeme ordentlich aufbereitet, verpackt und einsatzbereit für den Versand an unsere Kunden sind.
+ Du hältst die Fäden zusammen: Auch wenn du primär intern im Office tüftelst, denkst du das Kundenproblem mit und bist ein zuverlässiges Bindeglied im Team.
+ Das bist du
+ Du bist praktisch veranlagt und hast Bock zu schrauben: Ob 3D-Drucker, Werkstatt oder Prototypenbau – du scheust dich nicht vor dem Werkzeugkasten und hast ein ausgeprägtes Macher- und Bastler-Gen.
+ Du hast einen hohen Intellekt & schnelle Auffassungsgabe: Du erfasst komplexe, technische Zusammenhänge blitzschnell und arbeitest dich zügig in neue Themengebiete ein.
+ Du bringst breite Tech-Skills mit: Du musst kein tiefgreifender Spezialist sein, aber du hast Verständnis für Technik, Hardware sowie Interesse an Kamera- und Bildverarbeitungssystemen.
+ Du hast ein starkes KI-Mindset: Du hast richtig Lust auf KI, bringst enormen Drive mit und liebst das dynamische Umfeld eines schnell wachsenden Tech-Start-ups.
+ Du bist vor Ort in München: Da es sich um physischen Aufbau und Hardware-Prototyping handelt, bist du regulär für deine bis zu 20 Stunden/Woche bei uns im Münchner Office präsent.
+ Ehrlich: Was dich hier erwartet
+ Wir arbeiten radikal KI-first. Wer glaubt, KI nehme einem die Arbeit ab, ohne selbst welche zu machen, wird enttäuscht. Der Anspruch steigt dadurch, er sinkt nicht.
+ Wir sind klein und schnell. Wir sind ein schlankes Team, das seine eigene Arbeitszeit smart hebelt. Wir geben dir viel Freiraum und viel Verantwortung. Dafür entscheidet auch niemand über deinem Kopf, was du dem Kunden zeigst.
+ Was du bekommst
+ KI Werkzeuge ohne Freigabeschleife. Wenn du etwas brauchst, das wir nicht haben, ist der Zugang in der Regel innerhalb eines Tages da.
+ Eigene Produkte statt fremder Roadmaps. Wir bauen bei elunic zukunftsfähige KI-Lösungen für die Praxis und bringen sie direkt zum Kunden.
+ Entscheidungen in Tagen. Kein Gremium zwischen deiner Idee und dem Kunden.
+ Team von AI-Natives : Ein motiviertes Team aus Techies und Non-Techies mit einer gemeinsamen Vision: AI neu denken und gestalten.
+ Dazu das Übliche : EGYM Wellpass, Jobrad, D-Ticket-Zuschuss, Teamevents und Workations.
+ So bewirbst du dich
+ Kein Anschreiben. Ein Link auf dein Profil reicht. Noch besser: Ein Link auf etwas, das du gebaut hast. Repo, Landingpage, Demo, egal wie roh.
+ KI im Bewerbungsprozess ist erlaubt und erwünscht. Wir arbeiten hier auch so. Uns interessiert, was du damit machst, nicht ob du es benutzt hast.
+ Der Ablauf: Unser Bewerbungsprozess umfasst in der Regel 3 Schritte: Ein kurzer Kennenlern-Call, dann ein Gespräch mit einem unserer Gründer und zum Abschluss ein spannender Use Case. Wenn du magst, kannst du bereits bei deiner Bewerbung ein kurzes Video hochladen. So sehen wir gleich, wer du bist - nicht nur, was im Lebenslauf steht.
+ Und wenn du gerade noch etwas Eigenes laufen hast: Schreib uns trotzdem.
+Wir bei elunic treiben die KI-Revolution im industriellen Mittelstand voran.
+Mit unserer Plattform AI.SEE bauen wir intelligente visuelle KI-Agenten, die prüf-, daten- und bildgestützte Abläufe in Produktion, Qualitätssicherung und Operations unserer Kunden automatisiert transformieren.

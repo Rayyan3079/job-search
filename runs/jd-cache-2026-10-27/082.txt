@@ -1,0 +1,46 @@
+URL: https://www.linkedin.com/jobs/view/4473653736
+TITLE: Working Student (f/m/d) - Data Management Support
+COMPANY: SAP
+LOC: Walldorf, Baden-Württemberg, Germany
+POSTED: 2026-10-26
+title: Working Student (f/m/d) - Data Management Support
+company: SAP
+posted: 11 hours ago
+applicants: 113 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-f-m-d-data-management-support-at-sap-4473653736&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Description
+ What you'll bring
+ Student (f/m/d) at a university or a university of applied sciences
+ Preferred fields of study: Data Science, Business & Data Science, Digital Business, or a related field
+ Computer skills / Programming languages: Microsoft 365 (Excel, PowerPoint, SharePoint); practical experience with AI tools (e.g. Claude)
+ Language skills: Fluent in German and English (written and verbal)
+ Soft skills: Structured and reliable; able to work independently; strong communicator; commitment to quality and accuracy
+ Other important skills/experience: Solid understanding of data analysis concepts and digital business contexts
+ Working from Walldorf office is required
+ What You'll Build
+ We are looking for a motivated working student to support our team in data-driven decision making, governance reporting, business intelligence initiatives, and the responsible use of AI-assisted analytics. This role offers unique insights into how strategic business objectives, operational governance, and legal requirements are managed in highly-regulated and dynamic business environments.
+ What You Will Do
+ Support data collection, structuring, and analysis for ongoing projects 
+ Build and maintain dashboards and reports using standard data tools 
+ Apply AI-supported tools to increase efficiency in research and analysis tasks 
+ Assist in the preparation of presentations and decision-relevant materials 
+ Contribute to the documentation and quality assurance of data-driven workflows 
+ Where you belong 
+ The SAP GS2 Governance Office drives compliance, governance and strategic projects, knowledge management, and cross-functional coordination.
+You will be part of a small, high-impact team where your technical and analytical contributions are valued. We value rigour, clarity, and the ability to turn complex problems into simple, usable outputs.
+ Your set of application documents should contain a cover letter, a resume in table form, school leaving certificates, certificate of enrollment, current university transcript of records, copies of any academic degrees already earned, and if available, references from former employers (including internships). Please also describe your experience and skills in foreign languages and computer programs / programming languages. 
+ This is a SAP global, strategic, paid working student position that provides students with opportunities to find purpose in their careers. 
+ #Workingstudent #Werkstudent #Germany #Deutschland #Student #SAPGermanStudentsCareers #SAPNextGen
+ Additional Information
+ About SAP
+ With a global network of customers, partners, employees, and thought leaders, SAP helps the world run better and improves people’s lives.
+As a leader in enterprise applications and business AI, SAP stands at the nexus of business and technology. For over 50 years, organizations have trusted SAP to bring out their best by uniting business-critical operations spanning finance, procurement, HR, supply chain, and customer experience.
+We win with inclusion
+SAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.
+SAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team: Careers@sap.com.
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+Qualified applicants will receive consideration for employment without regard to their age, race, religion, national origin, ethnicity, gender (including pregnancy, childbirth, et al), sexual orientation, gender identity or expression, protected veteran status, or disability, in compliance with applicable federal, state, and local legal requirements.
+AI Usage in the Recruitment Process
+For information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.
+Please note that any violation of these guidelines may result in disqualification from the hiring process.

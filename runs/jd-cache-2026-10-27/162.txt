@@ -1,0 +1,30 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-Data-Enablement-mwd-Muenchen-MEAG-MUNICH-ERGO-AssetManagement-GmbH--14395291-inline.html
+TITLE: Werkstudent Data Enablement (m|w|d)
+COMPANY: MEAG MUNICH ERGO AssetManagement GmbH
+LOC: München
+POSTED: stepstone
+title: Werkstudent Data Enablement (m|w|d)
+company: MEAG MUNICH ERGO AssetManagement GmbH
+posted: 2026-10-14T00:08:24.49Z
+location: München | remote: 
+---
+Die MEAG ist Teil der Munich Re Group und gehört gleichzeitig zu den bedeutendsten Asset Management Gesellschaften der Welt. Wir suchen zum nächstmöglichen Zeitpunkt zur Unterstützung unseres Teams einen Werkstudenten (m|w|d) in unseren Büros am Standort München , wo wir Deine Unterstützung unter anderem vor Ort benötigen.
+ Gestalte Zukunft mit uns:
+ Aufsetzen und Begleiten von Use-Case-Teams, z. B. Vorbereitung von Kick-offs, Strukturierung von Anforderungen, Tracking von Fortschritt und Pflege zentraler Übersichten über laufende Use Cases
+ Umsetzung technischer Aufgaben im Data-Umfeld, z. B. Analysen/Tools mit Python entwickeln, Schreiben von SQL-Abfragen, Unterstützung beim Aufbau kleiner Datenpipelines oder Durchführung von Datenanalysen zur Unterstützung konkreter Use Cases
+ Planung und Durchführung von Data-Community-Formaten, z. B. eigenständige Organisation von monatlichen Info Sessions (Einladung, Agenda, Moderationsunterlagen, Nachbereitung) sowie Pflege von Community-Kanälen (z. B. SharePoint, Teams)
+ Analyse und Vergleich von Data-Governance-Tools und -Ansätzen, inkl. Erstellung strukturierter Entscheidungsgrundlagen (z. B. Feature-Vergleiche, Marktübersichten, Bewertung von Data-Catalogue-Lösungen)
+ Erstellung und Pflege von Datenrichtlinien und Dokumentationen, z. B. konkrete Ausarbeitung von Guidelines für Data Access, Rollenmodelle oder Use-Case-Onboarding inklusive Abstimmung mit Stakeholdern
+ Das bringst Du ein:
+ Laufendes Studium in Informatik, Wirtschaftsinformatik, Data Science oder vergleichbar
+ Erste praktische Erfahrung mit Daten, z. B. durch Projekte mit SQL, Python oder Bl-Tools
+ Grundverständnis von Datenplattformen und Data Governance (z. B. Datenmodelle, Metadaten, Zugriffsmodelle)
+ Fähigkeit, Themen strukturiert aufzubereiten, z. B. in Präsentationen oder Excel
+ Kommunikationsstärke und Eigeninitiative, insbesondere in der Zusammenarbeit mit Fachbereichen und IT
+ Deutsch- und Englischkenntnisse mindestens Niveau B2
+ Diese Benefits warten auf Dich:
+ Flexibilität: Abstimmung Deiner wöchentlichen Arbeitszeit und Deines Arbeitsortes, bzw. Anwesenheit vor Ort mit deinem Team & dadurch die Möglichkeit, Studium, Arbeit & Freizeit in Einklang zu bringen
+ Entwicklung: Eine steile Lernkurve in den praktischen Inhalten, ein tolles On-Boarding 
+ Sonstiges: Sehr gute Verkehrsanbindung an die öffentlichen Verkehrsmittel, tolle Events, kostenloses Mittagessen in unserer Kantine, kostenlose Heißgetränke & Wasser, Tiefgarage mit E-Ladeinfrastruktur & vieles mehr! 
+ *Die Auflistung von Benefits in dieser Stellenanzeige dient nur der allgemeinen Information und begründet keine Rechtsansprüche. 
+Die MEAG steht nicht nur für ein partnerschaftliches Verhältnis zu Kunden, sondern auch für einen fairen Umgang mit Bewerbern und Mitarbeitern. Ganz egal, welchen Geschlechts. Wenn wir also die männliche Form von Personenbezeichnungen verwenden, geschieht dies lediglich aus Gründen des Leseflusses. Schwerbehinderte Bewerber werden bei ansonsten im Wesentlichen gleicher Eignung bevorzugt berücksichtigt.

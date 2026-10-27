@@ -1,0 +1,73 @@
+URL: https://www.linkedin.com/jobs/view/4483576185
+TITLE: Business Intelligence Developer (Microsoft)
+COMPANY: Fyld
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-26
+title: Business Intelligence Developer (Microsoft)
+company: Fyld
+posted: 16 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fpt.linkedin.com%2Fjobs%2Fview%2Fbusiness-intelligence-developer-microsoft-at-fyld-4483576185&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Fyld is hiring: Business Intelligence Developer (Microsoft)
+At Fyld, we believe the future is built with people, technology, and strong values.
+We are a Portuguese consulting company that operates with transparency, respect, and a focus on everyone's growth.
+Here, every project is an opportunity to build real, lasting, and scalable solutions.
+Our philosophy?
+Code for Big Solutions
+— because we don't just code to make things work, we code to transform.
+We're looking for an experienced
+Business Intelligence Developer
+with technical rigor and a strong desire to make an impact.
+By joining Fyld, you'll be part of a team where every member is challenged to innovate, collaborate, and grow.
+ Your Profile
+ Academic background in
+Information Technology, Computer Science, Software Engineering
+, or related fields
+Proven experience in
+BI projects using Microsoft tools
+Proficiency in
+Microsoft BI tools
+ , Including
+ SQL Server
+Power BI Desktop and Service
+Azure Analysis Services
+Azure Synapse Analytics
+Azure Data Factory
+Strong knowledge of
+query languages
+:
+SQL, DAX, MDX, and M (Power Query)
+Experience in
+data modeling
+and
+data warehouse design
+, including
+star and snowflake schemas
+Experience in
+ETL/ELT processes
+and data integration from multiple sources, using tools like
+Azure Data Factory
+and
+SQL Server Integration Services (SSIS)
+Ability to
+translate business needs into effective BI solutions
+Skill in creating
+interactive dashboards and reports
+that provide actionable insights for end-users
+Microsoft BI certifications (e.g.,
+PL-300, DA-100, or equivalent
+) are a plus
+Fluent in English
+ Our Values
+ Critical thinking and autonomy
+Focus on meaningful solutions and real results
+Respect, transparency, and continuous growth
+ What You'll Find At Fyld
+ A collaborative team that values individual progress
+Access to continuous training and certifications
+A culture of proximity, respect, and recognition
+Challenging, purpose-driven projects where your talent as a BI Developer has real impact
+High standards, professionalism, and dedication — everything else can be learned
+Want to be part of it? Send your CV to
+Fyld. Code for what really matters.

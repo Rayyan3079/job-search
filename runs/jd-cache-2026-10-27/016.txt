@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4429450196
+TITLE: Senior Technical Data & AI Consultant*
+COMPANY: inovex
+LOC: Germany
+POSTED: 2026-10-15
+title: Senior Technical Data & AI Consultant*
+company: inovex
+posted: 1 week ago
+applicants: 79 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fsenior-technical-data-ai-consultant-at-inovex-4429450196&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+*Wir bei inovex mögen Vielfalt und Individualität. Deshalb freuen wir uns, wenn du unser Team noch bunter machst. 
+ in Teilzeit oder Vollzeit
+ Start: ab sofort
+ Standort: Karlsruhe, Köln, München, Hamburg, Stuttgart, Erlangen oder Berlin
+ Im Team Data Management & Analytics helfen wir unseren Kunden dabei, ihre Daten nutzbar zu machen und große Datenmengen zu automatisieren. Der Fokus liegt bei uns darauf, skalierbare Architekturen zu schaffen, die das Fundament für spätere Analysen und data-driven Services bilden.
+ Was du bei uns bewegen kannst 
+ Daten- und KI-Strategien entwickeln: Du berätst unsere Kunden an der Schnittstelle zwischen Tech und Business. Dabei übersetzt du ihre Unternehmensziele in greifbare Daten- & KI-Strategien. Als erste:r Ansprechpartner:in begleitest du sie auf Augenhöhe von der Vision bis zur Umsetzung.
+ Stakeholder managen: Durch eine zielgerichtete Konzeption und Moderation von Workshops bringst du die Stakeholder zusammen. Gemeinsam schärft ihr die Anforderungen, entwickelt Roadmaps und validiert innovative Lösungen.
+ Architekturen designen: In Beratungsprojekten konzipierst du zukunftsfähige Architekturen, die komplexe geschäftliche Anforderungen präzise abbilden und einen nachhaltigen wirtschaftlichen Mehrwert schaffen.
+ Projekte & Teams steuern: Bei der Umsetzung übernimmst du die fachliche und technische Projektleitung und stellst den Erfolg cross-funktionaler Teams sicher. Geht es um einen Proof of Concept oder die Validierung einer Idee, zögerst du nicht, den ersten funktionierenden Code selbst zu entwickeln.
+ Wissen teilen & fördern: Du schaffst ein Umfeld, in dem sich jüngere Kolleg:innen optimal entwickeln können. Durch wertschätzendes Feedback sorgst du für eine hohe Qualität der Projektarbeit und gibst dein Wissen aktiv weiter.
+ Wir agieren unabhängig und technologie-agnostisch. Gemeinsam mit unseren Kunden wählen wir den Tech-Stack aus, der am besten zu ihrer Situation passt. In unseren Projekten begegnen dir regelmäßig:
+ Daten- & KI-Plattformen: Databricks, Snowflake, BigQuery, Azure Data Platform & Fabric, AWS Data & ML Stack, GCP
+ Data Engineering: Python, SQL, Spark, Kafka, Airflow, dbt, relationale und NoSQL-Datenbanken
+ ML & AI: mathematische Optimierung, klassisches Machine Learning, MLOps, Generative AI, LLMs, LLMOps, Agentic AI, RAG-Architekturen
+ Deployment & Delivery: FastAPI, Flask, Docker, Kubernetes, CI/CD, Cloud-native Architekturen
+ Wer gut zu uns passen würde 
+ Beratungspersönlichkeit: Du bringst mindestens 5 Jahre fundierte Erfahrung in der praktischen Umsetzung von Daten & KI-Projekten mit. Deine Tech-Expertise möchtest du nun in einer strategischen, kundennahen Rolle einbringen.
+ Data & AI-Expert:in: Ob Datenarchitektur & -infrastruktur, Data Governance, Datenkultur & -organisation oder Daten- & KI-Produkte – in mindestens zwei dieser Bereiche verfügst du über tiefergehende Kenntnisse. In der dynamischen Data & AI-Landschaft behältst du den Überblick, ordnest neue Technologien sinnvoll ein und integrierst sie effizient in Daten- und KI-Services.
+ Empathisch im Kundenkontakt: Mit feinem Gespür für Stakeholder und Organisationen baust du schnell vertrauensvolle Kundenbeziehungen auf und überzeugst in Fachgesprächen.
+ Übersetzer:in zwischen Tech & Business: Es fällt dir leicht, komplexe Inhalte zielgruppengerecht zu übersetzen. Die Sprache von Entwickler:innen sprichst du genauso sicher wie die des C-Levels.
+ Solution Engineer: Du hast Lust, dich über das Projektgeschäft hinaus aktiv in Kundengespräche einzubringen. Potenzielle Partner überzeugst du durch Fachkompetenz und passgenaue Lösungsvorschläge. Unser Offering möchtest du gemeinsam mit uns weiterentwickeln und nach außen sichtbar machen (Blog, Talks, LinkedIn, Konferenzen).
+ Sprachkompetenz: Sehr gute Deutschkenntnisse (mind. C1) sowie gute Englischkenntnisse runden dein Profil ab.
+ Was wir dir bieten 
+ inovex Culture: Kommunikation auf Augenhöhe, flache Hierarchien, Arbeiten in selbstorganisierten und agilen Teams, Vertrauen und Offenheit, starker Zusammenhalt
+ Level Up: Weiterbildungsbudget, eigene inovex Academy, Onboarding- und Mentoring-Programm, enger Austausch mit der Community
+ Balance: Flexibles und mobiles Arbeiten, keine Kernarbeitszeiten, Workation, 30 Tage Urlaub
+ Familienfreundlichkeit: Flexibles Arbeitszeitmodell, Zuschuss zur Kinderbetreuung, Überstunden nur im Ausnahmefall
+ Individualität: Betriebliche Altersvorsorge, E-Gym Wellpass, inovex Sportgruppen/ Sport-Community
+ Mobilität: JobRad, Firmenwagen-Leasing
+ Unsere Stelle passt zu dir? 
+ Dann würden wir dich gerne kennenlernen! Das People & Culture Team steht dir bei allen Fragen rund um deine Bewerbung und den Einstieg bei inovex zur Seite.Wir freuen uns auf deine Bewerbung!

@@ -1,0 +1,48 @@
+URL: https://www.linkedin.com/jobs/view/4483102868
+TITLE: Cogito Business Intelligence Developer - Epic Local Team
+COMPANY: Scarborough Health Network
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-23
+title: Cogito Business Intelligence Developer - Epic Local Team
+company: Scarborough Health Network
+posted: 3 days ago
+applicants: 81 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fca.linkedin.com%2Fjobs%2Fview%2Fcogito-business-intelligence-developer-epic-local-team-at-scarborough-health-network-4483102868&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Number: JR107450 Job Title: Cogito Business Intelligence Developer - Epic Local Team Union: Union: Job Category: Professional Hospital Location: Consilium Place Job Type: Permanent, Full time Number of Positions: 1 Minimum - Maximum Hourly Rate: $52.97 - $61.407 Hours: Days
+Across our three hospitals and eight satellite sites, Scarborough Health Network (SHN) is shaping the future of care. Our many programs and services are designed around the needs of one of Canada’s most vibrant and diverse communities. We are home to North America’s largest nephrology program, as well as the designated cardiac care and spine centre for Scarborough and surrounding communities to the east. We are proud to be a community-affiliated teaching site for the University of Toronto and partner with a number of other universities and colleges, helping to train the next generation of health care professionals. SHN is the recipient of the 2021 Excellence in Diversity and Inclusion Award, from the Canadian College of Health Leaders, for our leading edge work on Communities of Inclusion, Inclusion Calendar, Health Equity Certificate Program and much more. We are also proud to be named Canada’s Most Admired Corporate Cultures for 2023 – 2025 and Greater Toronto's Top Employers for 2026. Learn more at shn.ca
+ Job Description
+ Job Summary:
+We are seeking a detail-oriented and analytical BI Developer to join our team. The ideal candidate will be responsible for designing, developing, and maintaining business intelligence solutions (primarily in EPIC Cogito platform and Microsoft Fabric/Power BI), that turn data into actionable insights. You will work closely with stakeholders to understand business requirements and translate them into technical specifications and data visualizations.
+ Key Responsibilities
+ Design and develop BI solutions using tools like EPIC Cogito and Power BI
+ Collaborate with business analysts, data engineers, and end-users to gather requirements and deliver insightful dashboards and reports.
+ Optimize and troubleshoot BI tools, reports, and queries for performance and usability.
+ Help design data models and data marts to support analytics needs.
+ Ensure data accuracy, consistency, and security in reporting solutions.
+ Provide support and training to end-users on BI tools and dashboards.
+ Stay up to date with BI trends, best practices, and new technologies.
+ Create custom extracts using SQL to support ad hoc and specific mandated requirements.
+ Testing BI tools, dashboards, reports and extracts.
+ Required Qualifications
+ Bachelor’s degree in Computer Science, Information Systems, Data Analytics, a related field, or equivalent experience.
+ 2+ years of experience in BI development or data analytics.
+ Proficiency with BI tools (e.g EPIC Cogito, Power BI).
+ Strong SQL skills (e.g., SQL Server, MySQL, PostgreSQL).
+ Understanding of data governance, data quality, and security practices.
+ Excellent analytical, problem-solving, and communication skills.
+ Certification in EPIC Clarity Data Model and EPIC Caboodle Data Model
+ Preferred Qualifications
+ Epic Cogito
+ Experience using Epic’s reporting tools and reporting databases
+ Experience creating Workbench report, editing Dashboards, editing extensions, editing SlicerDicer
+ Microsoft
+ Experience with Fabric or Power BI
+ Other
+ Familiarity with scripting languages (e.g., Python, R) for data analysis.
+ This opportunity is posted to support the recruitment of an existing vacant position.
+ Accommodation And Diversity Statement
+ Scarborough Health Network (SHN) embraces and celebrates our community’s unique multicultural heritage and diversity. SHN is an equal opportunity employer, dedicated to a culture of inclusiveness and diversity reflecting our diverse patients, staff and community alike. 
+ We are committed to fostering an environment of equity and inclusivity where every person can work and receive care safely, openly and honestly. All qualified applicants will receive consideration for employment without regard to race, colour, religion, gender, gender identity or expression, sexual orientation, nation of origin, genetics, disability, age, veteran status, marital or family status, belief system, or other factors related to one’s personal identity and/or values. 
+ We are committed to providing barrier-free and accessible employment practices in compliance with the Accessibility for Ontarians with Disabilities Act (AODA). Should you require accommodation through any stage of the recruitment process, please make them known when contacted and we will work with you to meet your needs.
+ Learn more about our exciting opportunities by following SHNCareers on Instagram , Twitter , and Facebook .

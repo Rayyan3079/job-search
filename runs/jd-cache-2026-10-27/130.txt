@@ -1,0 +1,39 @@
+URL: https://www.linkedin.com/jobs/view/4483538705
+TITLE: Working Student (m/w/d) Platform Engineer – Data & Integration Platforms
+COMPANY: MB Energy
+LOC: Hamburg, Hamburg, Germany
+POSTED: 2026-10-26
+title: Working Student (m/w/d) Platform Engineer – Data & Integration Platforms
+company: MB Energy
+posted: 18 hours ago
+applicants: 86 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-m-w-d-platform-engineer-%25E2%2580%2593-data-integration-platforms-at-mb-energy-4483538705&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+MB Energy , founded in 1947 and headquartered in Hamburg, is an independent and integrated energy company with operations in Europe, the United States, and Singapore. The company is active in the import, storage, distribution, and marketing of petroleum products, liquefied petroleum gas (LPG), chemicals, and biofuels. With decades of industry experience and an innovative approach, MB Energy plays an active role in the global energy landscape, supporting its customers in the transition to lower-emission energy sources by developing and providing forward-looking alternatives.
+Let’s shape the future of the energy industry together!
+For our company headquarters in Hamburg's HafenCity , we are looking for you to start as soon as possible as
+ Working Student (m/w/d) Platform Engineer – Data & Integration Platforms
+ Our Offer To You
+ Flexible working: flexible working hours and the option to work remotely by arrangement. 
+ Learning & Development: a dynamic team that provides hands-on insights into integration platforms, cloud technologies, APIs, and agile platform engineering while supporting your professional development. 
+ Health: subsidized EGYM Wellpass membership with access to a wide range of sports facilities across Germany as well as online courses in fitness, nutrition, and meditation. 
+ Networking: company-wide networks, international collaboration, and regular company events. 
+ Open corporate culture: at heart, a family-owned company with drive, lived tolerance, a speak-up culture, and strong team spirit on the path to a green future. 
+ Here’s What You Can Look Forward To
+ As a Working Student (m/w/d) Platform Engineer – Data & Integration Platforms , you will join our Catalyst team, which connects internal systems with commercial partners and operates shared analytics and AI platforms. You will support the day-to-day operation and continuous improvement of our integration platform while gaining hands-on experience with Azure Integration Services, APIs, cloud technologies, and agile platform engineering. Working alongside experienced engineers, you will contribute to a platform that our business relies on and take real responsibility from the start.
+ Your Tasks In a Nutshell
+ Operate the Integration Platform: You monitor the platform, triage alerts, support deployments, and help keep daily operations stable and reliable. 
+ Support Integrations End to End: You contribute to integrations from the first discussion with business partners through implementation and deployment. 
+ Work in an Agile Sprint Team: You plan, build, review, and improve solutions together with experienced engineers and other team members. 
+ Learn and Improve: You build practical knowledge of Azure Integration Services and learn how APIs are designed, secured, and managed while contributing ideas for platform improvements. 
+ What Helps You To Fulfill This Role
+ Education: You are enrolled in a university program in Computer Science, Engineering, Business Informatics, or a comparable field. 
+ Cloud Knowledge: You understand the fundamentals of cloud services and are confident using digital technologies. 
+ Coding & Automation: You can write scripts or code to automate tasks and are motivated to further develop your technical skills. 
+ Collaborative Working Style: You enjoy working in a sprint team, sharing ideas, and solving technical challenges together. 
+ Curiosity & Ownership: You are eager to learn, work in a structured way, and take responsibility for tasks that support a business-critical platform. 
+ Even if you do not fulfil all of the above requirements, we encourage you to apply if you believe your experience will add value to our team.
+ You feel this could be a match?
+ We look forward to receiving your application, including your salary expectations and earliest possible starting date via the application form on our website. If you have any questions, please contact our Talent Acquisition Team at the following email address: talent@mbenergy.com.
+#OurEnergyYourWay
+Learn more about our mission, vision and values: MB Energy - Our purpose, mission, vision & values

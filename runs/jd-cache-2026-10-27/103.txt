@@ -1,0 +1,45 @@
+URL: https://www.linkedin.com/jobs/view/4463963719
+TITLE: Praktikant Data Analytics & agiles Projektmanagement (w/m/x)
+COMPANY: BMW Group
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-10-24
+title: Praktikant Data Analytics & agiles Projektmanagement (w/m/x)
+company: BMW Group
+posted: 2 days ago
+applicants: 92 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikant-data-analytics-agiles-projektmanagement-w-m-x-at-bmw-group-4463963719&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+THEORETISCH DIE BESTE ENTSCHEIDUNG. PRAKTISCH AUCH.
+ TEILE DEINE LEIDENSCHAFT.
+ Nur hochprofessionelle Abläufe in dynamischen Teams produzieren innovative Spitzentechnologie. Aber Fahrfreude wird bei uns von der Entwicklung bis zur Fertigung vor allem auch mit Spaß an der Arbeit und Begeisterung für das gemeinsame Projekt realisiert. Deshalb geben wir Studierenden bei uns nicht nur die Gelegenheit zum Zuhören, sondern auch zum Mitreden und Weiterdenken.
+Bei uns unterstützt du die Entwicklung von Datenpipelines und Dashboards und hilfst dabei, Daten aus unterschiedlichen Quellen zusammenzuführen. Darüber hinaus gestaltest du die Zusammenarbeit im Team mit und begleitest die Planung und Umsetzung unserer Projekte.
+ Was erwartet dich?
+ Du unterstützt bei der Erstellung, Weiterentwicklung und Optimierung von Datenpipelines im AWS Stack, beispielsweise mit Amazon S3, AWS Glue und Amazon Athena.
+ Du bindest unterschiedliche Datenquellen an und hilfst dabei, Daten für Analysen und Reporting aufzubereiten.
+ Du erstellst und überarbeitest Dashboards, beispielsweise in Amazon QuickSight, und bereitest Kennzahlen verständlich und anschaulich auf.
+ Du unterstützt bei der Prüfung der Datenqualität und der Dokumentation von Datenflüssen.
+ Du organisierst und moderierst in Abstimmung mit dem Team Meetings und unterstützt bei der Vorbereitung, Durchführung und Nachbereitung von Workshops.
+ Was bringst du mit?
+ Studium der Informatik, Wirtschaftsinformatik, Data Science, des Wirtschaftsingenieurwesens oder eines vergleichbaren Studiengangs.
+ Interesse an Datenverarbeitung, Cloud-Technologien und der Visualisierung von Daten.
+ Erste Kenntnisse in SQL und idealerweise Python, sowie erste Berührungspunkte mit AWS oder einem Dashboard-Tool wie QuickSight sind von Vorteil.
+ Interesse an agilen Arbeitsweisen und Projektorganisation; erste Erfahrungen mit Scrum, Kanban, Jira oder Confluence sind ein Plus.
+ Analytisches Denkvermögen sowie eine strukturierte und selbstständige Arbeitsweise.
+ Freude an Teamarbeit und Kommunikation sowie Bereitschaft, die Moderation von Meetings zu übernehmen.
+ Gute Deutschkenntnisse in Wort und Schrift.
+ Du hast Spaß daran, Neues zu lernen und unsere Abteilung tatkräftig zu unterstützen? Bewirb dich jetzt!
+ Was bieten wir dir?
+ Umfassendes Mentoring & Onboarding.
+ Persönliche & fachliche Weiterentwicklung.
+ Flexible Arbeitszeiten.
+ Mobilarbeit.
+ Attraktive & faire Vergütung.
+ Apartments für Studierende (nach Verfügbarkeit & nur am Standort München).
+ Und vieles mehr siehe jobs/waswirbieten
+ Startdatum: frühestens ab 02.11.2026
+ Dauer: 6 Monate
+ Arbeitszeit: Vollzeit
+Hilfreiche Tipps zu deiner Bewerbung und dem Bewerbungsprozess findest du hier.
+Wir bei der BMW Group legen großen Wert auf Gleichbehandlung und Chancengleichheit. Unsere Recruiting-Entscheidungen basieren auf der Persönlichkeit, den Erfahrungen und Fähigkeiten der Bewerber:innen.
+Mehr dazu hier.
+Praktikant Data Analytics & agiles Projektmanagement (w/m/x)

@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4483242486
+TITLE: Machine Learning Engineer, Monetization Data Alignment
+COMPANY: TikTok
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-26
+title: Machine Learning Engineer, Monetization Data Alignment
+company: TikTok
+posted: 11 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+Responsibilities
+ As TikTok’s monetization ecosystem continues to grow across ads, e-commerce, short video, and live streaming, the demand for accurate, scalable, and efficient labeled data and content understanding systems is increasing rapidly. Our team is responsible for improving how commercial content is understood, labeled, structured, and operationalized at scale. We combine advanced machine learning with strong engineering execution to support data production, model innovation, and business impact.
+About the role
+We are looking for an experienced Machine Learning Engineer to join the Monetization Data Alignment team. This role sits at the intersection of AI labeling, content understanding, multimodal large models, and agentic systems. You will work on building the next generation of scalable intelligence capabilities that power TikTok monetization use cases, with a strong focus on high-quality data, multimodal reasoning, and production-grade ML systems.
+In this role, you will contribute to both research and production: from exploring LLM/MLLM, Agent, and reinforcement learning techniques, to delivering robust systems for labeling automation, multimodal understanding, rule retrieval, agent development, and interpretable decision-making.
+Responsibilities
+- Design and develop machine learning solutions for AI labeling and content understanding in TikTok monetization scenarios, supporting ads, short video, and other monetization products.
+- Apply and improve LLM/MLLM, NLP, CV, and multimodal learning techniques to enhance fine-grained understanding across text, image, audio, video, and live content.
+- Build algorithms and systems for labeling automation, intent recognition, taxonomy/tag generation, rule retrieval, risk detection, and quality evaluation, improving both model accuracy and operational efficiency.
+- Explore and productionize Agent and RL based approaches for complex decision-making workflows, including multi-step reasoning, tool use, and adaptive content analysis.
+- Develop interpretable solutions such as CoT-style reasoning, explanation generation, and traceable decision logic to improve trustworthiness and operational usability of model outputs.
+ Qualifications
+ Minimum Qualification(s)
+- Bachelor’s degree or above in Computer Science, Artificial Intelligence, Mathematics, Statistics, or related fields.
+- 3+ years of experience in machine learning, applied AI, or related algorithm engineering roles, with hands-on experience in taking models or AI systems from experimentation to production.
+- Solid foundation in machine learning and deep learning, with strong understanding of one or more of the following areas: LLM/MLLM, NLP, CV, multimodal learning, representation learning, or intelligent agents.
+- Hands-on experience with large model training, fine-tuning, evaluation, inference, or deployment; familiarity with techniques such as prompting, supervised fine-tuning, retrieval augmented generation, chain-of-thought style reasoning, model alignment, or agent workflows.
+- Ability to break down ambiguous business problems, design practical ML solutions, and collaborate effectively with cross-functional stakeholders in a fast-paced environment.
+- Strong communication skills in English, and the ability to work effectively with global teams across research, product, engineering, and operations.
+Preferred Qualification(s)
+- Experience in AI labeling, content understanding, ads understanding, multimodal tagging, taxonomy systems, or data quality systems is highly preferred.
+- Familiarity with Agent, reinforcement learning, RLHF/RLAIF, autonomous decision systems, or multi-step reasoning pipelines.
+- Track record of strong research or innovation output, such as publications, patents, open-source contributions, or high-impact internal technical projects.
+- Publications in top-tier venues such as NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, ACL, EMNLP, KDD, WWW, AAAI, IJCAI, or related areas are a strong plus.
+ About TikTok
+ TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and we also have offices in New York City, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.​
+ Why Join Us
+ Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy - a mission we work towards every day.​
+We strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, the possibilities are limitless. Join us.​
+​
+Diversity & Inclusion​
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.​

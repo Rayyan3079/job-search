@@ -1,0 +1,34 @@
+URL: https://www.xing.com/jobs/braunschweig-werkstudent-informatik-schwerpunkt-kuenstliche-intelligenz-ki-ehs-digitalisierung-158811366
+TITLE: Werkstudent (w/m/d) Informatik mit Schwerpunkt Künstliche Intelligenz (KI) und EHS-Digitalisierung
+COMPANY: Siemens Mobility GmbH
+LOC: Braunschweig
+POSTED: 2026-10-26
+title: Werkstudent (w/m/d) Informatik mit Schwerpunkt Künstliche Intelligenz (KI) und EHS-Digitalisierung
+company: Siemens Mobility GmbH
+posted: 2026-10-26T19:06:08Z
+location: Braunschweig | remote: TELECOMMUTE
+---
+Werkstudent (w/m/d) Informatik mit Schwerpunkt Künstliche Intelligenz (KI) und EHS-Digitalisierung
+ Job ID
+ 526912
+ Veröffentlicht seit
+ 26-Okt-2026
+ Organization
+ Mobility
+ Tätigkeitsbereich
+ Quality Management
+ Unternehmen
+ Siemens Mobility GmbH
+ Erfahrungsniveau
+ Student / Schüler
+ Beschäftigungsart
+ Teilzeit
+ Arbeitsmodell
+ Hybrid (Mobiles Arbeiten/ Arbeiten vor Ort)
+ Vertragsart
+ Befristet
+ Standort(e)
+ Braunschweig - Niedersachsen - Deutschland
+ Erlangen - Bayern - Deutschland
+ Wegberg - Nordrhein-Westfalen - Deutschland
+ Gemeinsam machen wir den Unterschied Siemens Mobility ist ein eigenständig geführtes Unternehmen der Siemens AG und seit über 160 Jahren ein führender Anbieter im Bereich Mobilität. Zu unserem Kerngeschäft gehören Schienenfahrzeuge, Bahnautomatisierungs- und Elektrifizierungslösungen, schlüsselfertige Systeme sowie die dazugehörigen Serviceleistungen. Wir waren schon immer sehr innovativ, um Reisen schneller, sicherer und komfortabler zu machen. Heute brauchen wir neue Lösungen für neue Herausforderungen wie den Klimawandel und weltweit steigende Bevölkerungszahlen. Das ist es, was uns antreibt. Deshalb gestalten wir Mobilität mit Leidenschaft und sind immer einen Schritt voraus. Durch Digitalisierung machen wir Infrastrukturen intelligent und schaffen Möglichkeiten, die uns nachhaltig und nahtlos von A nach B bringen. Unsere über 40.000 Mitarbeitenden sind Pioniere im Mobilitätswesen, die dabei helfen, die Welt in Bewegung zu halten. Was trägst Du bei? Zur Unterstützung unseres Teams im Bereich Environment, Health & Safety (EHS) suchen wir ab sofort einen motivierten Werkstudenten (m/w/d) Informatik mit Schwerpunkt Künstliche Intelligenz. Du unterstützt die Digitalisierung und Automatisierung von EHS-, Nachhaltigkeits- und Compliance-Prozessen und arbeitest an innovativen KI-Anwendungen im industriellen Umfeld. Hierbei bist Du beteiligt an der Entwicklung und der Optimierung von KI- und Machine-Learning-Anwendungen. Du hilfst bei der Analyse, der Aufbereitung und der Visualisierung von Daten aus EHS- und Nachhaltigkeitsprozessen (Power BI). Du entwickelst Prototypen zur Automatisierung von Reporting-, Dokumentations- und Compliance-Aufgaben (Power Automate). Du unterstützt bei der Einführung von KI-Lösungen im Bereich Arbeitssicherheit, Umweltschutz und Nachhaltigkeit (Dify). Hierbei nutzt Du moderne Tools für Datenanalyse, Large Language Models (LLMs) und Prompt Engineering. Was bringst Du mit? Du studierst in einem fortgeschrittenen Semester Informatik, Data Science oder Wirtschaftsinformatik und stehst uns längerfristig für circa 20h/Woche zur Verfügung. Du bist fit im Umgang mit den gängigen MS-Office-Anwendungen, insbesondere auch in Power BI und Power Automate. Zudem hast Du gute Kenntnisse in KI-Frameworks, in Datenbanken und in der Datenanalyse. Du verfügst über gute Kenntnisse in Python oder einer ähnlichen Programmiersprache. Sehr gute Deutsch- und gute Englischkenntnisse runden Dein Profil ab. Was bieten wir Dir? Inklusion & Vielfalt Bei Siemens Mobility setzen wir uns engagiert für Gerechtigkeit und Gleichberechtigung ein. Vielfalt bereichert unser Team und fördert innovative Lösungen. Wir freuen uns über Bewerbungen von Menschen mit Behinderung. Purpose Wir sind Pioniere der Mobilität. Bei uns trägst Du in einem Zukunftsmarkt aktiv zu Verkehrswende und Klimaschutz bei, weil unsere Transportlösungen in aller Welt den CO2-Ausstoß verringern. Mobiles Arbeiten /Remote Working Bei uns hast Du die Möglichkeit, hybrid zu arbeiten. Das bedeutet, dass Du zu einem erheblichen Anteil mobil tätig sein kannst. Dies haben wir durch eine Betriebsvereinbarung offiziell geregelt. Attraktive Konditionen Bei uns erhältst Du eine attraktive Vergütung. Du startest mit circa 15 € je Stunde und erhältst ab dem 7. Monat circa 19 €. Eine Übersicht über unsere Benefits findest Du hier. Wie trittst Du mit uns in Kontakt? www.siemens.de/mobility wenn Du vor Deiner Bewerbung mehr über Siemens Mobility erfahren möchtest. www.siemens.com/de/de/unternehmen/jobs/faq.html wenn Du Informationen rund um das Thema Bewerbung mittels unseres FAQ’s einholen möchtest. +49 (9131) 17 5243-0 wenn Du über unsere Bewerberhotline weitere Fragen zur Stelle klären möchtest. www.siemens.com/mobility-jobs wenn Du mehr Informationen zu Jobs & Karriere bei Siemens erhalten möchtest. Wir legen Wert auf Chancengleichheit und freuen uns über Bewerbungen von Menschen mit Behinderung. Ansprechpartner für diese Stellenausschreibung ist Frau Christin Hitz.

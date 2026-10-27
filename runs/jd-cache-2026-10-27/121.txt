@@ -1,0 +1,51 @@
+URL: https://www.linkedin.com/jobs/view/4483330763
+TITLE: Internship - Data and Workflows for AI Usage in Unit Process Development (f/m/div)
+COMPANY: Infineon Technologies
+LOC: Dresden, Saxony, Germany
+POSTED: 2026-10-24
+title: Internship - Data and Workflows for AI Usage in Unit Process Development (f/m/div)
+company: Infineon Technologies
+posted: 2 days ago
+applicants: 78 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Finternship-data-and-workflows-for-ai-usage-in-unit-process-development-f-m-div-at-infineon-technologies-4483330763&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+#WeAreIn to create tiny chips and big careers.
+Are you ready to take the first step in your career? Let's shape the future together! Whether you join as a student, intern, or trainee, you'll be part of something real - real projects, real impact, and real opportunities to grow.
+Are you in?
+Your role
+Key responsibilities in your new role
+ Lifelong learning: Acquire knowledge on plasma etching processing, AI-data readiness and development workflows
+ Data is everything: Access and analyze current databases, identify data gaps and develop a cloud database for missing recipe/measurement data
+ Shape the future: Develop a scalable OutSystems web application to document experiments, extending the capabilities of the existing documentation
+ Take responsibility: Develop and test automated workflows and digital solutions in the context of Unit Process Development
+ Focus on the future: Create and enhance internal tools, applications, and digital solutions using technologies such as C# or Python to collect, cleanse, and analyze measurement data
+ Convince with words: Document your methods, implementation, benchmark results, and limitations, and present your ideas
+ Your profile
+ Qualifications And Skills To Help You Succeed
+ Study field: You are a top-performing student currently enrolled in a Bachelor’s or Master’s degree program in Computer Science, Data Science, or Artificial Intelligence
+ Skills:
+ You have proven (2+ years) experience in programming, with practical knowledge of machine learning frameworks and data analysis tools
+ Familiarity with software development, scripting, and database technologies
+ Experience working with data pipelines, and data integration concepts is advantageous
+ Interests: You have a strong ambition for computer systems, programming and machine learning
+ Experience:
+ You are experienced in programming and data analysis, with a strong foundation in statistics and mathematics
+ You are capable of critically assessing your own results
+ Experience in machine learning is a bonus
+ Personality: Proactive, self-driven and science interested. You have very good communication skills, capable of explaining complex concepts to non-expert and can organize your work in a very structured way
+ Language skills: You have fluent English skills, both written and spoken, German would be a plus
+ Please attach the following documents to your application:
+ CV in English
+ Certificate of enrollment at university
+ Excerpt of the study regulations for the mandatory internship (if applicable)
+ Latest grades transcript (not older than 6 months)
+ High school report
+ #WeAreIn for driving decarbonization and digitalization.
+As a global leader in semiconductor solutions in power systems and IoT, Infineon enables game-changing solutions for green and efficient energy, clean and safe mobility, as well as smart and secure IoT. Together, we drive innovation and customer success, while caring for our people and empowering them to reach ambitious goals. Be a part of making life easier, safer and greener.
+Are you in?
+We are on a journey to create the best Infineon for everyone.
+We strive to create the best Infineon for everyone by embracing diversity and inclusion. We welcome applicants for who they are and offer a workplace built on trust, openness, respect and equal opportunity.
+Our hiring decisions are based on skills and experience. Even if you don’t meet every requirement, we encourage you to apply.
+Please let your recruiter know if you need any accommodations during the interview process.
+Learn more about our various contact channels and about Diversity & Inclusion at Infineon.
+Lara Praust

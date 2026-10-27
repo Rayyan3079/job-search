@@ -152,4 +152,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2362675-S | Hans Segmüller Polstermöbelfabrik GmbH & Co. KG | Werkstudent KI & Prozessautomatisierung Einkauf (m/w/d), Zentralverwaltung Friedberg | Friedberg, Bayern
 - [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12706-44529337-1023-S | Amprion GmbH | Werkstudent Wissensmanagement DC-Landtrassen (m/w/d) | Dortmund
 
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4977964652-S | DIS AG Germany | Werkstudent (m/w/d) Recruiting Research & Arbeitsmarktanalyse | Erfurt
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/20290-2364443-S | DEG-Deutsche Investitions- und Entwicklungsgesellschaft mbH | Werkstudent (d/w/m) / KYC & Payment /Accounting-Services | Köln
+
 ## Processed

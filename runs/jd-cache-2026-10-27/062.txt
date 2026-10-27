@@ -1,0 +1,31 @@
+URL: https://www.linkedin.com/jobs/view/4446713905
+TITLE: Remote AI Data Annotation Specialist (Miami)
+COMPANY: RemoExperts
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-23
+title: Remote AI Data Annotation Specialist (Miami)
+company: RemoExperts
+posted: 3 days ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fremote-ai-data-annotation-specialist-miami-at-remoexperts-4446713905&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Rex.zone is hiring a full-time, fully remote AI Data Annotation Specialist supporting training data creation for modern AI/ML systems. You will label and review text, images, audio, and video to improve LLM evaluation , RLHF feedback quality, and computer vision annotation accuracy while maintaining strong annotation guidelines compliance and training data quality.
+ Key Responsibilities
+ Annotate and review text datasets for NLP tasks such as classification and named entity recognition
+ Perform RLHF tasks including preference ranking and rubric-based scoring
+ Conduct prompt evaluation and QA evaluation to identify edge cases, label noise, and guideline gaps
+ Label computer vision data (bounding boxes, polygons, keypoints, segmentation masks) and validate accuracy
+ Apply content safety labeling and policy-based moderation labels for sensitive content categories
+ Document decisions, propose improvements to annotation guidelines, and support calibration sessions
+ Track quality metrics (disagreement rates, audit pass rates) and contribute to training data quality initiatives
+ Required Qualifications
+ Mid-Senior experience in AI data annotation, data labeling, or QA evaluation/data operations
+ Familiarity with LLM evaluation concepts, RLHF workflows, and rubric-based scoring
+ Strong written communication and ability to justify labeling decisions with clear rationale
+ High attention to detail and consistent annotation guidelines compliance
+ Comfort working remotely in a metrics-driven production environment with iterative feedback
+ Compensation
+ Hourly base pay range: $30–$50/hr (USD).
+Remote Type: Remote (Miami-based search intent; eligible across the US).
+ How To Apply
+ Apply via Rex.zone and be prepared to summarize your experience across NLP labeling, computer vision annotation, RLHF, prompt evaluation, and QA evaluation.

@@ -1,0 +1,72 @@
+URL: https://www.linkedin.com/jobs/view/4481378993
+TITLE: Staff Data Scientist, Pricing
+COMPANY: Airalo
+LOC: Germany
+POSTED: 2026-10-22
+title: Staff Data Scientist, Pricing
+company: Airalo
+posted: 4 days ago
+applicants: 93 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fstaff-data-scientist-pricing-at-airalo-4481378993&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Help Us Build The Future of Travel 
+ At Airalo, we're making it easier for people to stay connected wherever they travel. As the world's first eSIM store, we help millions of travelers access affordable mobile data in 200+ countries and regions around the world.
+Today, we're a team of 400+ people across 60+ countries, building a product used by travelers every day. We've grown quickly, but we've worked hard to keep what matters: trust, ownership, and the freedom for people to do great work without unnecessary layers or bureaucracy.
+We're fully remote by design, genuinely global, and united by a shared mission to make travel simpler for everyone.
+ Your Next Destination 
+ Location: Remote.
+ Contract: Full-time, permanent.
+ Benefits: Learn more about our benefits here in this link - https://airalo-public.notion.site/Benefits-25396a97ffca81fb9bc1f0be479f1be3?pvs=74 
+ Languages: English is our main working language day to day, so you'll need to be comfortable communicating in it both in meetings and async.
+ We're looking for a Staff Data Scientist, Pricing to build the analytical and machine learning capability that pricing runs on, from demand modelling through to the systems that recommend price.
+You won't be starting from zero. We've invested in the foundational data and infrastructure that pricing decisions depend on. What's missing is the capability on top: models the business trusts, experiments that settle pricing questions with evidence, and economics defined once so they hold consistently across Commercial, Product and the customer experience.
+The arc of the role runs from measurement to prediction to prescription - understanding how demand responds to price, forecasting how it will respond, and ultimately building the models that recommend the price itself.
+ What You'll Do
+ Build and own the demand and elasticity modelling capability, quantifying how price affects volume across destination, duration, data tier, and customer segment. 
+ Develop machine learning models for demand forecasting and willingness-to-pay, and take them from exploration through to production with the monitoring and retraining that keeps them honest. 
+ Move us from predictive to prescriptive by building the optimisation layer that turns forecasts and elasticities into recommended prices under margin, competitive and partner constraints. 
+ Design and analyse pricing experiments with statistical rigour, and apply causal methods where clean randomisation isn't possible. 
+ Define pricing within our data ecosystem, owning the governed definitions of price, cost and package economics that reporting, analysis and product surfaces all read from. 
+ Partner with Commercial and Finance to connect pricing decisions to margin and revenue, and to size opportunities before we commit. 
+ Set the analytical standard for pricing at Airalo, from what counts as evidence through to how a model or recommendation gets validated before it influences live pricing. 
+ What You'll Bring
+ 7+ years in data science, quantitative economics, or applied research, including pricing, monetisation, or marketplace economics work that demonstrably changed decisions. 
+ Experience with dynamic or algorithmic pricing systems in production. 
+ An advanced degree in Econometrics, Statistics, Operations Research or similar, or equivalent applied depth in demand estimation and the identification problems that make naive price-quantity regressions wrong. 
+ Hands-on machine learning experience across the full lifecycle, from feature engineering and model selection through to deployment 
+ Familiarity with optimisation and decision-science methods that turn predictions into recommended actions, whether through constrained optimisation, bandits, or reinforcement learning approaches. 
+ Proven experimentation expertise, having designed and defended experiments with a clear view on decision frameworks and common failure modes. 
+ Experience building analytical capability where none existed before, turning raw data and a business question into something a commercial team uses repeatedly. 
+ Strong data modelling instincts, thinking in reusable definitions and single sources of truth rather than standalone analyses. 
+ The ability to move comfortably between financial, product and operational data and connect the analysis to a financial outcome. 
+ Genuine partnership instincts, translating between analytical rigour and commercial reality so that Commercial and Product come to you early rather than after the decision. 
+ Fluency in the Python ML stack alongside strong SQL, with the engineering hygiene to hand over code that others can run and maintain. 
+ Excellent communication skills, including the ability to make a methodological argument to people who won't check your standard errors. 
+ A self-starter mindset that thrives in ambiguity and brings structure without waiting for permission. 
+ Comfort using AI tools to augment analytical work, with a point of view on where they help and where they don't 
+ Nice To Have
+ Experience in marketplace, telecom, travel, or subscription/usage-based businesses. 
+ Bayesian or hierarchical modelling for sparse segments and long-tail SKUs. 
+ Competitive price response modelling, or working with scraped competitor pricing data. 
+ Familiarity with dbt, LightDash, or similar semantic/BI layers. 
+ Experience designing semantic or metric layers consumed by both analytics and production systems. 
+ Experience working in cross-functional teams spanning commercial, finance and product disciplines. 
+ £93,200 - £139,800 a year
+At Airalo, we believe in roaming-free recruitment. Just as we provide clear connectivity for travelers, we provide clear salary ranges for our candidates. 🌍
+This role is remote and open to candidates across our supported locations in Europe. The range below reflects the full salary range for this role across the countries where it’s available:
+📍UK: £93,200 - £139,800
+📍Spain: €77,600- €116,400
+📍Western/Northern Europe (Germany, France, Austria, Denmark, Sweden, Finland, Norway): €66,400 - €166,800
+📍Southern Europe (Portugal, Italy, Greece, Malta): €70,000 - €137,000)
+📍Central & Eastern Europe (Czechia, Hungary, Poland, Lithuania, Estonia): €60,000 - €117,000
+📍South-Eastern Europe / Balkans (Romania, Serbia, Bulgaria): €56,000 – €100,000
+Your Home Destination: 🛫 Local market rates and cost of living vary. Your specific range within this band depends on where you’re based, and there’s room to discuss what’s right for the person and the role. We’ll walk through your range together on your first call with our Talent team so we’re aligned for takeoff! 🎒✨
+If you are interested in this position, please apply via the link.
+ Why People Join Us 
+ We started Airalo to make staying connected effortless, wherever you are in the world. Today, millions of travelers rely on our eSIMs, and many of the people building the product were customers first.
+Our team spans 60+ countries, united by a shared belief that great work happens when people are trusted to own what they do. There's trust to own what you do, space to focus without constant layers of process, and a clear sense of what you're responsible for from day one.
+As Airalo continues to grow, so do the opportunities to learn, take on new challenges, and make a real impact - from anywhere in the world.
+ Before You Hit Apply 
+ By applying, you acknowledge and agree that, in case of successful application, Airalo may request to run background checks as a condition for entering into an agreement with you. Rest assured that these checks will only occur upon your prior consent and at the end of the selection process, and will be strictly limited to what is allowed under the laws that are applicable to you. All data that you share or that we collect in connection with such checks will be processed in accordance with our Privacy Policy, available here: www.airalo.com/more-info/privacy-policy?srsltid=AfmBOooBT0rXAj1FaNelZ3VfN0wvhwzvAoxdtHnOKSVETpiSjiXVuycy
+We sincerely thank all applicants in advance for submitting their interest in this opportunity. Airalo is an equal-opportunity employer and values diversity, equity & inclusion. We do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We are committed to providing reasonable accommodations upon request for individuals with disabilities throughout our job interview process.
+At Airalo, we use AI-assisted tools as part of our recruitment process. Your application will be reviewed using tools that help our recruiters analyze and organize CV information. These tools support, but do not replace, human judgment; all hiring decisions are made by humans. If you progress to an interview, we may use tools to generate AI-assisted notes - you can opt out of these. For more information on how we handle your data, please see our Privacy Policy: https://www.airalo.com/more-info/privacy-policy.

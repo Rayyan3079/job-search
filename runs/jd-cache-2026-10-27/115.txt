@@ -1,0 +1,34 @@
+URL: https://www.linkedin.com/jobs/view/4481403368
+TITLE: Werkstudent Software Entwicklung für komplexe Systeme (m/w/d)
+COMPANY: Knowtion GmbH
+LOC: Karlsruhe, Baden-Württemberg, Germany
+POSTED: 2026-10-25
+title: Werkstudent Software Entwicklung für komplexe Systeme (m/w/d)
+company: Knowtion GmbH
+posted: 1 day ago
+applicants: 55 applicants
+apply_offsite: 
+---
+Wir suchen eine/n Werkstudent/in zur Umsetzung mathematisch anspruchsvoller Algorithmen in verschiedenen Anwendungsprojekten zur automatisierten Analyse und Verarbeitung von Daten. 
+ Wir sind ein innovatives Software-Engineering-Unternehmen, das 2011 als Spin-off des Karlsruher Instituts für Technologie (KIT) gegründet wurde. Seitdem entwickeln wir in enger Zusammenarbeit mit unseren Kunden aus verschiedenen Branchen maßgeschneiderte Softwarelösungen – von fehlertoleranten Embedded-Systemen bis hin zu Anwendungen im Verteidigungs- und Luftfahrtbereich.
+ Aufgaben 
+ Mitarbeit bei der Analyse und Entwicklung von KI-Methoden hinsichtlich Ihrer Eignung für konkrete Anwendungen
+ Mitarbeit bei der Implementierung und den Tests unterschiedlicher KI-Methoden an vorhandenen Datensätzen
+ Anpassung und Erweiterung bestehender Software um neuartige Funktionen
+ Mitarbeit bei der Anbindung der KI-Modelle an die Gesamtsystemsoftware
+ Qualifikation 
+ Laufendes Masterstudium der technischen Kybernetik, Automatisierungstechnik, Regelungstechnik, Elektrotechnik, Informatik (Uni/FH) oder vergleichbarer Studiengang bzw. eine entsprechende Schwerpunktwahl
+ Praktische Erfahrung in der Programmierung mit Java, Python und/oder C++
+ Fundierte theoretische Kenntnisse in Algorithmen der Sensorfusion (z.B. Kalman-Filter, UKF) oder maschinellen Lernverfahren (z.B. neuronale Netze)
+ Strukturierter und lösungsorientierter Arbeitsstil, ausgeprägte analytische Fähigkeiten und Teamfähigkeit
+ Zuverlässigkeit und hohes Qualitätsbewusstsein
+ Verhandlungssichere Deutsch- und Englischkenntnisse
+ Benefits 
+ Abwechslungsreiches Aufgabenfeld: Interessante und abwechslungsreiche Tätigkeit in spannenden technisch geprägten Themen
+ Intensives Onboarding: Optimale Einarbeitung und Übernahme abwechslungsreicher Aufgaben mit viel Gestaltungsspielraum
+ Kollaboratives Umfeld: Erlebe flache Hierarchien, Zusammenarbeit auf Augenhöhe und Raum für neue Ideen mit regelmäßigen Teamevents
+ Persönliche Entwicklung: Entfaltungsmöglichkeiten durch eigenverantwortliches Arbeiten, vielfältige Feedback- und Networking-Möglichkeiten, soziale Verantwortung und nachhaltiges Handeln
+ Modernes Arbeitsumfeld: Attraktiver, moderner Arbeitsplatz in einem stark wachsenden Unternehmen mit ausgezeichneter Erreichbarkeit über den öffentlichen Nahverkehr in Karlsruhe 
+ Getränkeversorgung : Genieße Kostenlose Getränke wie Wasser, Tee und Kaffee
+ Flexibilität: Modernes Arbeiten mit der Möglichkeit zum flexiblen Wechsel zwischen Homeoffice und Präsenz
+ Wir freuen uns auf deine Bewerbung bestehend aus Lebenslauf und den relevanten Zeugnissen.
