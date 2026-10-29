@@ -1,0 +1,49 @@
+URL: https://www.linkedin.com/jobs/view/4482204624
+TITLE: Working Student (f/m/d) AI Agent for Automated Test Case Generation
+COMPANY: Siemens Healthineers
+LOC: Kemnath, Bavaria, Germany
+POSTED: 2026-10-27
+title: Working Student (f/m/d) AI Agent for Automated Test Case Generation
+company: Siemens Healthineers
+posted: 1 day ago
+applicants: 93 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-f-m-d-ai-agent-for-automated-test-case-generation-at-siemens-healthineers-4482204624&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Requirements
+ Do you want to help create the future of healthcare? Our name, Siemens Healthineers, was selected to honor our people who dedicate their energy and passion to this cause. It reflects their pioneering spirit combined with our long history of engineering in the ever-evolving healthcare industry.
+We offer you a flexible and dynamic environment with opportunities to go beyond your comfort zone in order to grow personally and professionally. Sounds interesting?
+ Then come and join our global team as Working Student (f/m/d) to support us in the field of AI agents for automated test case generation.
+ This position is part-time with 20h/week.
+Job location: Roentgenstr. 19-21, 95478 Kemnath
+ Your Tasks And Responsibilities
+ You support the development and further improvement of an AI agent for the automated generation of test cases from requirements and relevant system data
+ You help with the analysis and evaluation of innovative technologies as well as conducting feasibility studies and proofs of concept
+ You assist with connecting and integrating ALM/PLM tools for requirements and test management
+ You help in building Retrieval-Augmented Generation (RAG) solutions as well as using ontologies and knowledge graphs
+ You contribute to the development of prototypes and near-production solutions in the field of generative AI and large language models
+ You support the preparation, structuring, and quality assurance of requirements and test cases, as well as documenting results and presenting solution approaches and prototypes
+ There’s also the possibility to work on this topic as part of a master’s thesis
+ To find out more about the specific business, have a look at: https://www.healthcare.siemens.de/products-services
+ Your Qualifications And Experience
+ You are currently studying a technical subject, preferably computer science, business informatics, electrical engineering, or a similar field
+ Some practical experience in software development, ideally with Python, is important
+ You are very interested in the field of Artificial Intelligence, Generative AI, and Large Language Models 
+ Ideally, you already have knowledge of AI frameworks like LangChain or similar frameworks and experience with ALM/PLM systems as well as requirements and test management
+ Knowledge of RAG, vector databases, ontologies, or knowledge graphs is a plus
+ Experience with Docker, REST APIs, Git, SQL, and cloud technologies like Microsoft Azure is a plus too
+ Your Attributes And Skills
+ You have very good German and good English skills, both spoken and written
+ You enjoy trying out new technologies and developing innovative solutions and quickly get up to speed on new topics
+ Teamwork is one of your strengths, you can drive projects forward independently, and you have a structured, analytical way of thinking
+ You work carefully and have high standards for the quality of your results
+ Do you have up to 20 hours per week available and ideally want to support us long-term? Then we look forward to your application!
+ Our Global Team
+ Siemens Healthineers is a leading global medical technology company. 74,000 dedicated colleagues in over 70 countries are driven to shape the future of healthcare. An estimated 5 million patients across the globe benefit every day from our innovative technologies and services in the areas of diagnostic and therapeutic imaging, laboratory diagnostics and molecular medicine, as well as digital health and enterprise services.
+ Our Culture
+ Our culture embraces different perspectives, open debate, and the will to challenge convention. Change is a constant aspect of our work. We aspire to lead the change in our industry rather than just react to it. That’s why we invite you to take on new challenges, test your ideas, and celebrate success.
+Check our Careers Site at https://careers.siemens-healthineers.com/global/en
+As an equal opportunity employer, we welcome applications from individuals with disabilities.
+Wish to find out more before applying? Contact us: students.func@siemens-healthineers.com, if you wish to discuss any initial questions with our recruitment team.
+We care about your data privacy and take compliance with GDPR as well as other data protection legislation seriously. For this reason, we ask you not to send us your CV or resume by email. We ask instead that you create a profile in our talent community where you can upload your CV. Setting up a profile lets us know you are interested in career opportunities with us and makes it easy for us to send you an alert when relevant positions become open. Click here to get started.
+ To All Recruitment Agencies
+ Siemens Healthineers' recruitment is internally managed, with external support permitted only when a qualified supplier has established a formal contract with us. Unsolicited candidate submissions and referrals, absent a current supplier contract, do not establish consent and are ineligible for fees. We delete and destroy unsolicited information, thus, would recommend you refrain from any such practices. Your adherence to our policies is appreciated.

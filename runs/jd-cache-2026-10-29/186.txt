@@ -1,0 +1,41 @@
+URL: https://www.linkedin.com/jobs/view/4481844813
+TITLE: Studentische Hilfskraft (SHK) (gn*) Bioinformatik
+COMPANY: Universitätsklinikum Münster
+LOC: Münster, North Rhine-Westphalia, Germany
+POSTED: 2026-10-27
+title: Studentische Hilfskraft (SHK) (gn*) Bioinformatik
+company: Universitätsklinikum Münster
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fstudentische-hilfskraft-shk-gn-bioinformatik-at-universit%25C3%25A4tsklinikum-m%25C3%25BCnster-4481844813&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Befristet auf 12 Monate | In Teilzeit mit bis zu 9 Wochenstunden | Vergütung nach Absprache | Institut für Medizinische Informatik
+ Wir sind das UKM. Wir haben einen klaren gesellschaftlichen Auftrag und mit der Verbindung von Krankenversorgung, Forschung und Lehre eine besondere Verantwortung.
+Während Deiner Tätigkeit neben dem Studium im Institut für Medizinische Informatik profitierst Du von individueller Betreuung, attraktiven Rahmenbedingungen und vielen Möglichkeiten zu wachsen und Dich einzubringen. Gemeinsam wollen wir erfolgreich in die Zukunft starten – am besten mit Dir!
+ In unserer Arbeitsgruppe Algorithmics and Data Visualization beschäftigen wir uns mit maschinellem Lernen und datengetriebenen Methoden zur Bearbeitung biomedizinischer Fragestellungen mit hoher klinischer Relevanz. Im Forschungsprojekt CGRinTime entwickeln wir Machine-Learning-Methoden zur Vorhersage von SARS-CoV-2-Varianten und untersuchen die Zuverlässigkeit der Modelle im zeitlichen Verlauf. Dabei verbindest Du Programmierung, genomische Daten und moderne KI-Methoden und gewinnst Einblicke in die aktuelle biomedizinische Forschung.
+ Verantwortungsvolle Aufgaben
+ Entwicklung und Automatisierung von Datenverarbeitungs- und Analysepipelines für genomische Daten
+ Unterstützung beim Aufbau und bei der Pflege von Datenbanken sowie bei der Aufbereitung von Trainings- und Testdatensätzen
+ Mitarbeit beim Training und bei der Evaluation von Machine-Learning-Modellen auf Servern
+ Testen von Softwarekomponenten, Analyse von Modellresultaten und Unterstützung bei der Behebung technischer Probleme
+ Mitarbeit an wissenschaftlicher Software im Bereich Machine Learning und Explainable AI
+ Anforderungen
+ Gültige Immatrikulation in Informatik, Bioinformatik, Data Science oder einem verwandten Studiengang
+ Gute Programmierkenntnisse in Python
+ Grundkenntnisse in Machine Learning und/oder Deep Learning
+ Interesse an biologischen Daten, künstlicher Intelligenz und wissenschaftlicher Softwareentwicklung
+ Idealerweise Grundkenntnisse im Umgang mit Git und Linux
+ Strukturierte und sorgfältige Arbeitsweise
+ Gute Deutsch- und Englischkenntnisse
+ Wir Bieten
+ Mitarbeit an einem aktuellen Forschungsprojekt an der Schnittstelle von Bioinformatik, künstlicher Intelligenz und Virologie
+ Praktische Erfahrung mit modernen Machine-Learning- und Explainable-AI-Methoden
+ Persönliche Betreuung und Einarbeitung durch ein interdisziplinäres Team
+ Flexible Arbeitszeiten und die Möglichkeit zum Homeoffice
+ Raum für eigene Ideen und die Möglichkeit, eine Bachelor- oder Masterarbeit im Themenbereich des Projekts anzufertigen
+ Vielfältige Fort- und Weiterbildungsmöglichkeiten für Deine Entwicklung
+ Respektvolles Miteinander und wertschätzende Zusammenarbeit in einem vielfältigen Team
+ Zahlreiche Unterstützungs- und Beratungsangebote
+ Viele weitere Vorteile wie Sportangebote, Jobticket, Betriebsfeste und Kantine
+ Rückfragen an: Dr. Hannah Franziska Löchel, hannahfranziska.loechel@uni-muenster.de
+ Jetzt bewerben über unser Karriereportal.

@@ -155,4 +155,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4977964652-S | DIS AG Germany | Werkstudent (m/w/d) Recruiting Research & Arbeitsmarktanalyse | Erfurt
 - [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/20290-2364443-S | DEG-Deutsche Investitions- und Entwicklungsgesellschaft mbH | Werkstudent (d/w/m) / KYC & Payment /Accounting-Services | Köln
 
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/17838-AG1JC000397_P050174-S | AUTO1 Group AG | Werkstudent Kundenberatung und Fahrzeugankauf (m/w/d) | Erfurt
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002918297-S | Saller Dienstleistungs GmbH | Werkstudent/Aushilfe für Research und Datenverwaltung (m/w/d) | Weimar, Thüringen
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/15939-BB-635766-7878-4237-S | Rheinmetall AG | Werkstudent Qualität (m/w/d) | Flensburg
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/20390-979413063-S | Delivery Hero SE | Working Student, Central Controlling
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/15939-BB-635769-7878-8180-S | Rheinmetall AG | Werkstudent BID (m/w/d) | Kassel, Hessen
+
 ## Processed

@@ -1,0 +1,35 @@
+URL: https://www.linkedin.com/jobs/view/4482710399
+TITLE: Machine Learning Intern, Generative SI Applications (m/f/d) - Gigafactory Berlin-Brandenburg
+COMPANY: Tesla
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-10-22
+title: Machine Learning Intern, Generative SI Applications  (m/f/d) - Gigafactory Berlin-Brandenburg
+company: Tesla
+posted: 6 days ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fmachine-learning-intern-generative-si-applications-m-f-d-gigafactory-berlin-brandenburg-at-tesla-4482710399&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+What To Expect
+ Location: Gigafactory Berlin-Brandenburg
+Duration: 6 months
+Time Type: Full time
+Application: Please upload a portfolio of your projects with your CV.
+We're looking for a Machine Learning Intern to build SI-powered tools that transform how HR works at Tesla. You'll work independently on high-impact projects, move fast, and see your code in production —used by thousands of employees across the company.
+ What You'll Do
+ Design, develop, and ship AI-powered software solving real HR problems with measurable impact
+ Own your projects end-to-end: from understanding the problem from HR stakeholders, to writing the code, to deploying and maintaining the solution
+ Extend existing systems with modern LLM capabilities to solve complex business problems
+ Work with HR partners, data engineers, and recruiting teams to understand problems and build solutions
+ Apply software engineering best practices including version control, CI/CD, and containerization
+ What You'll Bring
+ You've built and deployed something that other people actually used — in any stack. A live side project, a tool for your student org, freelance work, an open source contribution. Show us.
+ Strong programming fundamentals and the ability to pick up new technologies quickly
+ Genuine curiosity about SI — you experiment with new models and tools as they come out and can separate what's working from what's hype
+ Good instincts for what's worth building. You think about impact, not just implementation.
+ Self-starter with a strong bias for action — you take initiative and drive projects forward independently.
+ Excellent English. German is a plus.
+ Experience with web development stacks
+ Experience with Node.js, TypeScript, and React is a big plus
+ Familiarity with Docker, Kubernetes, and PostgreSQL is a plus
+ Degree in Computer Science or a related field is a plus
+, Tesla

@@ -1,0 +1,57 @@
+URL: https://www.linkedin.com/jobs/view/4481843507
+TITLE: Data Engineer - Mid Level
+COMPANY: USAA
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-27
+title: Data Engineer - Mid Level
+company: USAA
+posted: 2 days ago
+applicants: 74 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fdata-engineer-mid-level-at-usaa-4481843507&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Why USAA?
+ At USAA, our mission is to empower our members to achieve financial security through highly competitive products, exceptional service and trusted advice. We seek to be the #1 choice for the military community and their families.
+Embrace a fulfilling career at USAA, where our core values – honesty, integrity, loyalty and service – define how we treat each other and our members. Be part of what truly makes us special and impactful.
+We are proud to support active-duty military spouses. USAA roles may offer remote or hybrid flexibility for active-duty military spouses consistent with applicable policy and business needs.
+ The Opportunity
+ As a dedicated Data Engineer – Mid Level , you will be engaged in all phases of the data management lifecycle. This includes gathering and analyzing requirements, collecting, processing, storing, securing, and archiving data. You will develop and maintain technical systems for data reporting and technical solutions utilizing emerging technologies. You will partner with the business to ensure data management solutions aligned to business objectives.
+ What You Will Do
+ Independently conducts work on the full life cycle of data engineering to include analysis, solution design, data pipeline engineering, testing, deployment, scheduling, and production support.
+ Designs and implements complex technical solutions for data engineering and analytic systems.
+ Identifies and solves significant technical problems and architecture deficiencies to include design, security, and performance.
+ Collaborates on design reviews by providing feedback on trends and makes recommendations for solutions.
+ Breaks down business features and into technical stories and approaches.
+ Influences stakeholders in technical adoption for best solutions.
+ Creates proof of concepts and prototypes that drive the vision and the outcome for complex initiatives to be delivered.
+ Collaborates with the team and other engineers on new technologies and alternatives to plan and execute complex assignments and tasks.
+ Helps on-board entry level engineers. May begin mentoring junior engineers.
+ Acquires data from multiple data sources and maintains resulting databases, data warehouses, and/or data lakes.
+ Assists to develop, maintain, and enforce the company's data development tools and standards.
+ Conducts code reviews on a regular basis to improve quality and ensure compliance.
+ Ensures risks associated with business activities are effectively identified, measured, monitored, and controlled in accordance with risk and compliance policies and procedures.
+ What You Will Have
+ Bachelor's degree; OR 4 years of relevant education and/or experience.:
+ 4 years of data engineering, data analysis or software development experience implementing data solutions with at least 1 year of data engineering or data management experience.
+ Extensive knowledge and working experience in SQL and Relational Databases.
+ Understands the Agile methodology practice.
+ Strong analytical and problem-solving skills.
+ Proficient in working in Cloud technologies and tools.
+ What Sets You Apart
+ Snowflake
+ DBT
+ SQL
+ Kafka
+ APIs
+ Python
+ Data Modeling
+ Fivetran
+ Git/version control
+ Compensation range: The salary range for this position is: $103,450 - $197,730
+ USAA does not provide visa sponsorship for this role. Please do not apply for this role if at any time (now or in the future) you will need immigration support (i.e., H-1B, TN, STEM OPT Training Plans, etc.).
+ Compensation: USAA has an effective process for assessing market data and establishing ranges to ensure we remain competitive. You are paid within the salary range based on your experience and market data of the position. The actual salary for this role may vary by location.
+Employees may be eligible for pay incentives based on overall corporate and individual performance and at the discretion of the USAA Board of Directors.
+The above description reflects the details considered necessary to describe the principal functions of the job and should not be construed as a detailed description of all the work requirements that may be performed in the job.
+ Benefits: At USAA our employees enjoy best-in-class benefits to support their physical, financial, and emotional wellness. These benefits include comprehensive medical, dental and vision plans, 401(k), pension, life insurance, parental benefits, adoption assistance, paid time off program with paid holidays plus 16 paid volunteer hours, and various wellness programs. Additionally, our career path planning and continuing education assists employees with their professional goals.
+For more details on our outstanding benefits, visit our benefits page on USAAjobs.com.
+ Applications for this position are accepted on an ongoing basis, this posting will remain open until the position is filled. Thus, interested candidates are encouraged to apply the same day they view this posting. 
+ USAA is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.

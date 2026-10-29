@@ -1,0 +1,35 @@
+URL: https://www.linkedin.com/jobs/view/4481895514
+TITLE: Intern – Data Analytics (m/f/d)
+COMPANY: Idealworks
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-10-27
+title: Intern – Data Analytics (m/f/d)
+company: Idealworks
+posted: 1 day ago
+applicants: 146 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fintern-%25E2%2580%2593-data-analytics-m-f-d-at-idealworks-4481895514&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Role Responsibilities: What you will do
+ Design and implement data pipelines that integrate data from robotics fleet management, CRM tools, and other business systems.
+ Develop new features for our data platform, supporting data collection, processing, storage, and access.
+ Create and maintain data lakes and databases that handle large volumes of data with diverse and evolving schemas.
+ Build and maintain APIs and backend services using tools such as FastAPI to make data accessible across applications.
+ Support data quality, reliability, and documentation, helping teams work with consistent and trustworthy data.
+ Explore and work with AWS services to support our data infrastructure and workflows.
+ Role Requirements: What you need to succeed
+ You are at an advanced stage of your studies in computer science, data engineering, data science, robotics, or a related field.
+ Proficiency in Python, Git and Docker.
+ Working knowledge of SQL and an understanding of databases and data processing fundamentals.
+ An interest in building data systems and infrastructure, from integrating sources to making data available for different use cases.
+ A proactive, problem-solving approach and the ability to work effectively in a team.
+ Ideally, familiarity with FastAPI, AWS, & workflow orchestration tools such as Apache Airflow.
+ Why idealworks
+ At idealworks, you will find an international working environment and become part of an experienced, open team where mutual trust counts. You will feel at home from the very first second!
+ Experience a first-hand start-up feeling and flat hierarchies with varied and responsible tasks that you work on independently.
+ Benefit from flexible working hours with a 35-hour workweek, helping you maintain a healthy work-life balance.
+ Whether you’re looking for a voluntary internship or a mandatory internship, we offer attractive compensation.
+ We offer exciting corporate benefits and monthly team events.
+ Our modern office is easily accessible by public transport, bike and car and offers numerous catering options for relaxed lunch breaks with your team.
+ Driven by our unique corporate culture, the five values "passion for results", "wellbeing", "personal growth", "trust" and "being and acting as one team" determine our daily actions and cooperation.
+ About Us
+ Idealworks transforms industrial operations into efficient, fully automated environments where logistics, robotics, software, and people work seamlessly together. Founded in 2020 as a BMW Group subsidiary, the company helps businesses optimize and automate workflows across warehouses, production facilities, and logistics operations. At the core of its offering is the Idealworks Orchestration System (Idealworks OS), the control layer that integrates simulation technology and connects heterogeneous robots for different applications, peripheral devices, and IT systems through a single operational logic. Headquartered in Munich, Idealworks collaborates closely with partners and customers worldwide to advance the next generation of industrial automation.

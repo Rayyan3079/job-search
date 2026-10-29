@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Technical Data Analytics Intern",
+    "company": "Atlas Copco Group",
+    "city": "Cologne",
+    "greeting": "Dear Atlas Copco hiring team,",
+    "opening": "I am applying for the Technical Data Analytics Intern position. Turning machine and production data into insights engineers can act on is what I did when I rebuilt an OEE and downtime dashboard for a manufacturer, and I would like to do the same with data from connected vacuum systems.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence. Before my Master's I worked in SAP data and analytics at TallyMarks Consulting and as a Business Analyst at Tapal Tea.",
+    "achievements": [
+      {
+        "lead": "Industrial data",
+        "impact": "I independently rebuilt a textile manufacturer's spinning dashboard end to end, covering OEE, machine efficiency and utilization, downtime and yield"
+      },
+      {
+        "lead": "Data quality",
+        "impact": "I used SQL analysis, validation and reconciliation to make sure reported numbers were correct"
+      },
+      {
+        "lead": "Python",
+        "impact": "I built Python pipelines and trained PyTorch models in my thesis and projects, including a classifier with 94.11% test accuracy"
+      }
+    ],
+    "problems_section": "I would analyse the sensor data, check its quality, build benchmarking and prioritization views with Python and SQL, and document methods and results clearly for the engineering team. I have not used Databricks yet, but I learned SAP Datasphere quickly during a migration project and expect the same here.",
+    "closing": "I am willing to relocate to Cologne and can start immediately. As a non-EU student I will confirm the internship schedule against my permit's work-day limits with you. I would be glad to discuss the role.",
+    "date": "2026-10-29",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-10-29/atlas-copco-technical-data-analytics-intern/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

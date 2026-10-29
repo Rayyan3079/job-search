@@ -1,0 +1,47 @@
+URL: https://www.linkedin.com/jobs/view/4476403750
+TITLE: Data engineer (F/H) - Niort
+COMPANY: Aubay
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-26
+title: Data engineer (F/H) - Niort
+company: Aubay
+posted: 2 days ago
+applicants: 117 applicants
+apply_offsite: 
+---
+Nous accompagnons au quotidien des acteurs majeurs du secteur assurantiel sur des projets Data à fort enjeu, au sein d’environnements grands comptes.
+ Dans ce cadre, nous recherchons un Data Engineer pour intervenir sur des projets de structuration et de valorisation de la donnée, au cœur des systèmes d’information de nos clients basés à Niort.
+ 🧬 Notre ADN : 🔹 Expertise 🔹 Innovation 🔹 Collaboration 🔹 Engagement 🔹 Éthique
+ 📍 Localisation : Niort et périphérie
+ 🏠 Télétravail : 2 jours par semaine
+ 🔁 Tes activités : 
+ Concevoir et faire évoluer les architectures data (data lake, data warehouse, data platform)
+ Mettre en place des pipelines de données robustes et scalables (batch, streaming)
+ Collecter, transformer et fiabiliser des données issues de sources multiples (structurées ou non)
+ Garantir la qualité, la cohérence et la disponibilité des données pour les équipes métiers et data
+ Développer et maintenir des flux d’ingestion et de transformation (ETL / ELT)
+ Exposer les données via des APIs ou des couches de restitution adaptées
+ Collaborer avec les Data Scientists pour industrialiser les modèles et faciliter leur mise en production
+ Échanger avec les équipes métiers pour comprendre les besoins et proposer des solutions adaptées
+ ✅ Ce que nous attendons de toi : 
+ Une première expérience significative (2 ans minimum) en Data Engineering
+ Une bonne maîtrise des environnements data (ETL, pipelines, modélisation)
+ Une maîtrise d’au moins un langage de programmation (Python et/ou Java)
+ Une expérience sur des environnements Big Data ou Cloud (AWS, Azure, GCP…)
+ Une pratique des environnements Agile
+ Une expérience avec des outils type Talend, Dataiku, NiFi ou équivalent est appréciée
+ Une expérience en environnement assurantiel ou grands comptes est un plus
+ Le processus de recrutement ? Rapide et efficace ! 🤝 
+ Un premier échange avec un chargé de recrutement, suivi d’un entretien avec l’équipe commerciale, puis d’un dernier rendez-vous avec notre Directrice d’Agence.
+ Tu peux compter sur un retour dans un délai maximum de deux semaines.
+ 🌟 Avantages Aubay Solutec en quelques mots 
+ - Mode de travail hybride
+ - Intégrer et participer à l’animation d’une communauté d’experts
+ - Une politique de formations pour accompagner la montée en compétences de nos collaborateurs
+ - Package avantages pouvant atteindre 4 000 € net /an (Participation, PERECO, prime cooptation, prime naissance / Mariage, CSE attractif, …)
+ - Culture d’entreprise axée autour du bien-être des collaborateurs (Cellule d’écoute, Mission Handicap, évènements internes, …)
+ - Fort engagement RSE (labels Numérique Responsable NR1, EcoVadis, Gaïa, de nombreuses collectes en interne, partenaires ESAT, Partenariat sportif paralympique, Mécénats…)
+ 🎥 Les retours d’expérience de nos collaborateurs AUBAYTV : 
+ https://www.youtube.com/watchv=XfIAKG3AYMA&list=PLssb_Lgq3XTBnb8OD22Z3q08_W9qIsR01&ab_channel=AubayTV
+ 📺 Nos experts Aubay décryptent l’actualité IT : https://blog.aubay.com/
+ Aubay encourage la diversité sous toutes ses formes et garantit l'égalité des chances à tous les candidats. Tous nos postes sont ouverts aux personnes en situation de handicap et nous proposons tous les aménagements nécessaires.

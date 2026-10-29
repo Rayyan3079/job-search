@@ -1,0 +1,38 @@
+URL: https://www.linkedin.com/jobs/view/4483826244
+TITLE: Software Engineering Intern, AI Agents & Backend Infrastructure – 2027
+COMPANY: NVIDIA
+LOC: Hamburg, Hamburg, Germany
+POSTED: 2026-10-28
+title: Software Engineering Intern, AI Agents & Backend Infrastructure – 2027
+company: NVIDIA
+posted: 1 day ago
+applicants: 88 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fsoftware-engineering-intern-ai-agents-backend-infrastructure-%25E2%2580%2593-2027-at-nvidia-4483826244&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+NVIDIA is looking for a Software Engineering Intern to join a team that builds infrastructure and agentic AI services for teams across the company. Our job is to remove other teams' bottlenecks: we build and run core internal services that power large geo-distributed infrastructure, and a growing share of what we ship is driven by AI agents. As an intern, you will work alongside senior engineers to design, build, and ship production systems – from backend services that run automated workflows at massive scale to AI agents that take routine work off engineers' plates. This is an excellent opportunity to gain hands-on experience with agentic AI and modern infrastructure while contributing to real products used by teams across NVIDIA.
+ What You'll Be Doing
+ Work with senior engineers to design, build, and improve backend services and APIs for internal platforms that run automated workflows at massive scale
+ Build AI agents and agentic workflows that connect LLMs to tools and internal services, and integrate them into production systems
+ Help make agents reliable and safe in production – from access control and guardrails to evaluating agent quality
+ Assist in building data pipelines and GPU job orchestration for synthetic data generation and model evaluation at scale
+ Implement and improve observability (tracing, metrics, logging) for distributed services and agents
+ Participate in code reviews, testing, and debugging, and apply software engineering best practices in a production environment
+ Work in a product-minded way: talk to internal users, prototype quickly, collect feedback, and iterate
+ What We Need To See
+ Currently pursuing a Bachelor's or Master's degree in Computer Science, Engineering, or related field
+ Strong programming fundamentals in at least one of: Go (preferred), Python, or C#
+ Solid understanding of data structures and algorithms
+ Basic knowledge of software design patterns and API design concepts
+ Hands-on experience building with LLMs – for example, a project, prototype, or coursework that uses LLM APIs
+ Familiarity with version control systems (Git)
+ Understanding of database concepts and SQL
+ Strong problem-solving skills and eagerness to learn new technologies
+ Excellent communication skills and ability to work effectively in a team environment
+ Ways To Stand Out From The Crowd
+ Experience building AI agents or LLM-powered applications: tool/function calling, MCP, RAG, or agent frameworks (e.g., LangGraph, NVIDIA NeMo Agent Toolkit)
+ Experience with distributed systems concepts (REST APIs, microservices architecture) and containerization (Docker)
+ Knowledge of cloud platforms (AWS, GCP, Azure), GPU workloads, and infrastructure automation
+ Familiarity with CI/CD pipelines, DevOps practices, observability tools (OpenTelemetry, Prometheus, Grafana), and orchestration platforms (Kubernetes)
+ Experience with database technologies (MySQL, MongoDB, Redis, Elasticsearch)
+ With competitive salaries and a generous benefits package, NVIDIA is widely considered to be one of the most desirable employers in the world. We have some of the most brilliant and talented people in the world working for us. If you are creative, autonomous and love a challenge, we want to hear from you. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+, , JR2027942

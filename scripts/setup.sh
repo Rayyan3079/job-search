@@ -4,8 +4,13 @@
 set -e
 JS_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 CO_ROOT="${CO_ROOT:-$(dirname "$JS_ROOT")/career-ops}"
+# Pinned: upstream after this commit has a stricter fact-checker that rejects our classic-sap layout.
+CO_PIN="9e07130d905370c79b978797fff286a8ac695886"
 if [ ! -d "$CO_ROOT/.git" ]; then
   GIT_LFS_SKIP_SMUDGE=1 git clone --depth 1 https://github.com/career-ops-hq/career-ops "$CO_ROOT"
+fi
+if [ "$(git -C "$CO_ROOT" rev-parse HEAD)" != "$CO_PIN" ]; then
+  (cd "$CO_ROOT" && GIT_LFS_SKIP_SMUDGE=1 git fetch -q --depth 1 origin "$CO_PIN" && GIT_LFS_SKIP_SMUDGE=1 git checkout -q "$CO_PIN")
 fi
 (cd "$CO_ROOT" && (npm ci --no-audit --no-fund >/dev/null 2>&1 || npm install --no-audit --no-fund >/dev/null 2>&1))
 

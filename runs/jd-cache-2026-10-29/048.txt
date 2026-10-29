@@ -1,0 +1,32 @@
+URL: https://www.linkedin.com/jobs/view/4484906210
+TITLE: Werkstudent:in Business Intelligence ETCS-Diagnose
+COMPANY: Deutsche Bahn
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-10-29
+title: Werkstudent:in Business Intelligence ETCS-Diagnose
+company: Deutsche Bahn
+posted: 43 minutes ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-in-business-intelligence-etcs-diagnose-at-deutsche-bahn-4484906210&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Die Deutsche Bahn bietet deutschlandweit über 500 Berufe und vielfältige Einstiegsmöglichkeiten für Studierende und Absolvent:innen. Ca. 2.000 Praktikant:innen, Werkstudent:innen, Direkteinsteiger:innen und Trainees lernen uns jährlich als dynamische und innovative Arbeitgeberin kennen. Sei dabei und hilf uns, die DB nach vorne zu bringen – und deine Karriere gleich mit.
+Zum nächstmöglichen Zeitpunkt suchen wir dich als Werkstudent:in Business Intelligence ETCS-Diagnose (w/m/d) für die DB InfraGO AG am Standort Berlin oder Frankfurt am Main.
+Deine Aufgaben:
+ In deiner Rolle übernimmst du das Auslesen und die Aufbereitung der ETCS-Diagnosedaten, die aus dem Bahnbetrieb resultieren im Rahmen eines Monitorings und bist erste:r Ansprechpartner:in für das Thema
+ Mittels Excel basierten Tools wie Skripten und Makros wertest du erfasste Daten aus und überführst deine Ergebnisse in Berichts- sowie Auswertungsformate für unser Reporting
+ Im Kontext des ETCS-Fehlermanagements hast du alles im Blick: Du identifizierst Abweichungen und dokumentierst diese in Form von Jira Tickets, führst diese einer Analyse zu, betrachtest Zusammenhänge und führst Statistiken
+ Mit deiner Expertise unterstützt du das Rollout-Management für ein neues Analysesystem, indem du neue Ideen einbringst, das Testmanagement begleitest und Auswertealgorithmen weiterentwickelst
+ Dein Profil:
+ Du studierst Elektrotechnik, Informationstechnik, Wirtschaftsinformatik, Data Science oder in einem vergleichbaren Studiengang
+ Idealerweise verfügst du über erste Erfahrungen im Bereich Datenanalyse, Reporting oder Qualitätsmanagement technischer Daten
+ Mit Tools zur Datenerfassung oder -analyse hattest du erste Berührungspunkte
+ Dich zeichnen Teamfähigkeit für die Zusammenarbeit mit unterschiedlichen Schnittstellen sowie eine aufgeschlossene Art und deine analytische Arbeitsweise aus
+ Fließende Deutsch- (C1) und Englischkenntnisse (B2) runden dein Profil ab
+ Für deine Bewerbung benötigen wir kein Anschreiben.
+Das ist uns wichtig:
+Unser Anspruch ist es, allen Kandidat:innen bei gleicher Eignung die gleichen Chancen für den Einstieg bei uns zu bieten. Wir fördern aktiv die Vielfalt und das Miteinander in unseren Teams. Wir schätzen jede Bewerbung, unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion, Weltanschauung, Behinderung, Alter, Dauer der Arbeitslosigkeit sowie sexueller Orientierung und Identität.
+Benefits:
+ Über Teamgrenzen hinweg: Der Austausch mit anderen Studierenden, z.B. durch unser vielfältiges Event- und Vernetzungsangebot, verschafft dir konzernweit hilfreiche Kontakte.
+ Woran wir arbeiten, was wir besser machen wollen – das wirst du schnell herausfinden. Denn bei uns erlebst du einen Großkonzern auf Augenhöhe und arbeitest an spannenden und aktuellen Projekten.
+ Auch über die Grenzen deines Teams hinaus kannst du dich vernetzen. Wir bieten dir viele Möglichkeiten, dich mit anderen Kolleg:innen auszutauschen. So kannst du dir ein hilfreiches Netzwerk aufbauen, das dich durch den gesamten Konzern begleitet.
+ Chancengleichheit und selbstbestimmte Teilhabe Schwerbehinderter und Gleichgestellter sowie eine respektvolle Zusammenarbeit sind innerhalb des DB Konzerns fest verankerte Grundsätze. Deshalb werden schwerbehinderte und gleichgestellte Bewerber:innen bei gleicher Eignung bevorzugt berücksichtigt.

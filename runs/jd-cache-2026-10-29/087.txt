@@ -1,0 +1,55 @@
+URL: https://www.linkedin.com/jobs/view/4265324568
+TITLE: Data Analyst Power BI confirmé (H/F)
+COMPANY: Sibylone
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-28
+title: Data Analyst Power BI confirmé (H/F)
+company: Sibylone
+posted: 20 hours ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fjobs%2Fview%2Fdata-analyst-power-bi-confirm%25C3%25A9-h-f-at-sibylone-4265324568&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+CDI
+ SIBYLONE , société de conseil spécialisée dans les systèmes d’information de synthèse et de pilotage, aide ses clients à tirer toute la valeur de leur patrimoine de données, levier stratégique majeur de développement et de rentabilité.
+Notre ambition : rendre les différents acteurs de l’entreprise autonomes dans l’exploitation des données, libérer les usages Métier, pour qu’ils soient en mesure de relever les défis de performance, de couverture de risque, de financement, de conquête client, de RSE… qui s’imposent à eux.
+Spécialistes reconnus, nos consultants s’appuient pour cela sur une connaissance approfondie de l’activité business de nos clients, en lien avec nos trois piliers que sont le Métier, la Data et le Projet.
+ SIBYLONE emploie environ 200 salariés et réalise un chiffre d’affaires de 30 millions d’euros en fournissant des services de haute qualité à de grandes entreprises.
+ SIBYLONE est une Filiale du Groupe Smart 4 Engineering : Créé en 2020, le groupe compte aujourd’hui 12 marques en France, en Italie, en Espagne et au Portugal dans le domaine de l’ingénierie et de l’IT. Avec près de 3 500 ingénieurs et consultants hautement qualifiés, nous offrons des services dans des domaines porteurs comme le Digital, la Data, l’Intelligence Artificielle, la Cybersécurité, le Cloud et le Software.
+Avec nos 3,000 ingénieurs / consultants hautement qualifiés, le Groupe offre ses services dans les domaines très porteurs du Digital, de la Data, de l’Intelligence Artificielle, de la Cybersécurité, du Cloud et des Logiciels.
+ Contexte
+ Vous interviendrez en tant que Data Analyst Power BI dans le cadre d’un programme de transformation digitale de la Direction Financière. Notre client grand groupe du secteur bancaire souhaite renforcer son équipe Data pour optimiser le pilotage de la performance financière.
+L’objectif est de moderniser les outils de reporting, fiabiliser les données et accompagner les métiers dans une meilleure exploitation des indicateurs clés (KPI). Vous interviendrez au sein d’une équipe dynamique, en lien direct avec les contrôleurs de gestion, les responsables financiers et les équipes IT/Data.
+Vos missions
+En tant que Data Analyst Power BI , vous interviendrez en proximité avec la Direction Financière pour :
+ Comprendre les enjeux métiers et l’environnement fonctionnel Finance
+ Prendre en main et faire évoluer les dashboards existants
+ Repenser le design et la visualisation des KPI financiers
+ Participer à la collecte, la transformation et la gouvernance des données
+ Animer des ateliers avec les sponsors pour recueillir les besoins
+ Automatiser les traitements et garantir la qualité des livrables
+ Former et accompagner les utilisateurs dans la prise en main des outils
+ Compétences techniques attendues
+ Power BI : expertise en visualisation, storytelling et modélisation
+ SQL : maîtrise des requêtes complexes
+ Azure : bonne connaissance de Synapse, SSAS
+ Google Cloud Platform (BigQuery) : un plus apprécié
+ Git : pour le versioning et le delivery
+ Bonne culture BI et sensibilité aux évolutions technologiques
+ Pourquoi pas vous ?
+ Profil recherché :
+ Diplômé d’un bac+5 (école d’ingénieur, Miage, …)
+ +9 ans d’expérience en tant que Data Analyst ou Consultant BI
+ Forte appétence pour les métiers de la Finance
+ Excellent relationnel, esprit d’analyse et sens du service
+ Autonomie, rigueur et capacité à vulgariser les sujets techniques
+ Les  Sibylone !
+ Ce Que Nous Offrons !
+ Une culture d’excellence : Nous exigeons le meilleur de nos collaborateurs tout en cultivant la cohésion et l’esprit d’équipe.
+ Moments de convivialité : Séminaires, afterworks, conférences, petits déjeuners…
+ Actions solidaires : Partenariat avec la start-up spécialisée en RSE Vendredi pour permettre à nos collaborateurs de réaliser des missions auprès d’associations.
+ Formation continue : Une offre de formation innovante adaptée à nos métiers et expertises (Data, Métier, Projet)
+ Télétravail : Accord de télétravail en vigueur pour une meilleure flexibilité.
+ Prêt à Relever le Défi ?
+ Vous vous reconnaissez dans cette description et souhaitez travailler dans un environnement stimulant et dynamique ? Vous souhaitez rejoindre une société ambitieuse ?
+ Postulez dès maintenant et rejoignez l’aventure Sibylone !
+ Poste ouvert aux personnes en situation de handicap.

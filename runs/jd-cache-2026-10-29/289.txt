@@ -1,0 +1,21 @@
+URL: https://www.xing.com/jobs/ingolstadt-werkstudent-ki-automotive-testing-158853019
+TITLE: Werkstudent KI im Automotive Testing (m/w/d)
+COMPANY: EDAG Engineering GmbH
+LOC: Ingolstadt
+POSTED: 2026-10-28
+title: Werkstudent KI im Automotive Testing (m/w/d)
+company: EDAG Engineering GmbH
+posted: 2026-10-28T14:20:07Z
+location: Ingolstadt | remote: 
+---
+Werkstudent KI im Automotive Testing (m/w/d)
+ Hohe Kompetenz und die Leidenschaft für neue Herausforderungen machen unseren Bereich Electrics/Electronics zum Wegweiser in der automobilen Zukunft. Gehen auch Sie den nächsten Schritt und unterstützen Sie unser Team.
+ Daran werden Sie wachsen: Entwicklung und Integration von LLM‑basierten Anwendungen sowie Mitarbeit an Computer‑Vision‑Projekten (z. B. Bild‑/Videoverarbeitung, Objekterkennung, Klassifikation) Unterstützung bei Prototypen, Automatisierungen und Proof‑of‑Concepts Integration von KI‑Ansätzen in bestehende Tools, Prozesse und Testumgebungen Analyse, Aufbereitung und Auswertung von Daten aus technischen Systemen, Tests oder Prozessen inkl. Bewertung der Modellqualität Dokumentation und Präsentation der Ergebnisse sowie enge Zusammenarbeit mit Entwickler‑, Ingenieur‑ und Projektteams Damit bringen Sie uns voran: Eingeschriebener Student* im Bereich Informatik, Data Science, Künstliche Intelligenz oder einer vergleichbaren Fachrichtung Sicherer Umgang mit mindestens einer Programmiersprache (Java, C#, C++, usw.) Praxiserfahrung aus Projekten in mindestens einem der folgenden Bereiche: Machine Learning / Deep Learning / LLMs (z. B. Transformer‑Modelle, Prompting, Fine‑Tuning) / Computer Vision (z. B. OpenCV, CNNs) Erste Erfahrung mit gängigen Frameworks wie PyTorch, TensorFlow, Hugging Face oder OpenCV Analytische Denkweise sowie strukturierte und selbstständige Arbeitsweise, Zuverlässigkeit, Teamfähigkeit und Eigeninitiative Sehr gute Deutsch‑ und Englischkenntnisse 
+ Deine Benefits:
+ Ergonomischer Arbeitsplatz
+ Betriebsveranstaltungen
+ Onboarding
+ Weiterentwicklung
+ Kantinen oder Partnerrestaurants*
+ Gratis Wasser und Kaffee
+ Weitere Benefits

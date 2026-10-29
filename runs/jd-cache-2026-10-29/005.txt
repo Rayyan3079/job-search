@@ -1,0 +1,59 @@
+URL: https://www.stepstone.de/stellenangebote--SAP-Senior-Consultant-Data-AI-Engineer-w-m-d-Berlin-Stuttgart-Koeln-Hamburg-Frankfurt-Nuernberg-Hannover-Erfurt-Muenchen-Duesseldorf-Capgemini-Deutschland-GmbH--14659612-inline.html
+TITLE: SAP Senior Consultant / Data & AI Engineer (w/m/d)
+COMPANY: Capgemini Deutschland GmbH
+LOC: Berlin, Stuttgart, Köln, Hamburg, Frankfurt, Nürnberg, Hannover, Erfurt, München, Düsseldorf
+POSTED: stepstone
+title: SAP Senior Consultant / Data & AI Engineer (w/m/d)
+company: Capgemini Deutschland GmbH
+posted: 2026-10-19T09:50:08.503Z
+location: Berlin | remote: 
+---
+Einleitung
+ Capgemini ist ein globaler Partner für die KI-gestützte Geschäfts- sowie Technologietransformation. Das Unternehmen schafft messbaren Mehrwert für seine Kunden, indem es die Zukunft von Organisationen gestaltet und im Zusammenspiel von KI, Technologie sowie dem Mensch Realität werden lässt. Seit fast 60 Jahren steht Capgemini für Verantwortung wie auch Vielfalt und beschäftigt über 420.000 Mitarbeitende in mehr als 50 Ländern. Das End-to-End-Leistungsspektrum gründet auf einer umfangreichen Branchenexpertise, einem starken Partner-Ökosystem sowie Kompetenzen in den Bereichen Strategie, Technologie, Design, Engineering und Operations. Die Gruppe erzielte 2025 einen weltweiten Umsatz von 22,5 Milliarden Euro. 
+ Wenn du dich für Capgemini entscheidest, wählst du ein Unternehmen, in dem du die Möglichkeit hast, deinen Karriereweg selbst zu gestalten. Du wirst von einem kollaborativen Netzwerk von Kolleg*innen auf der ganzen Welt unterstützt und inspiriert und kannst neu definieren, was möglich ist. Schließe dich uns an und unterstütze die führenden Organisationen der Welt, den Wert von Technologie zu erschließen und eine nachhaltigere, inklusivere Welt zu gestalten.
+ Deine Rolle
+ Der Bereich SAP Data & Analytics bei Capgemini entwickelt sich weiter und richtet sich auf ganzheitliche daten- und KI‑getriebene System- und Datenarchitekturen aus. Im Fokus steht die Entwicklung und Umsetzung anbieterunabhängiger Lösungen entlang der gesamten Datenlandschaft.
+ Diese Stelle ist in Vollzeit sowie in Teilzeit zu besetzen. 
+ Mitwirkung an der Weiterentwicklung hin zu integrierten, daten- und KI‑getriebenen Architekturen.
+ Konzeption und Implementierung anbieterunabhängiger Datenarchitekturen unter Nutzung verschiedener Plattformen und Technologien (z.B. SAP, Databricks, Snowflake, Microsoft Fabric) .
+ Beratung von Kund*innen entlang des gesamten Lebenszyklus daten- und AI‑gestützter Systemlandschaften – von der Strategie bis zur Umsetzung.
+ Entwicklung von Analyse- und Planungslösungen unter Berücksichtigung technologischer Optionen und deren Einsatzmöglichkeiten.
+ Nutzung und Integration AI‑gestützter Ansätze zur Unterstützung von Entwicklung, Test und Bereitstellung sowie Zusammenarbeit in interdisziplinären Teams.
+ Dein Profil
+ Abgeschlossenes Studium in einem IT‑, Wirtschafts‑ oder technischen Bereich oder eine vergleichbare Qualifikation bzw. entsprechende Berufserfahrung.
+ Erfahrung im Bereich Data & Analytics in Projekt- oder Beratungskontexten.
+ Kenntnisse oder Bereitschaft zur Einarbeitung in AI‑Tools (z. B. generative AI‑Anwendungen).
+ Kenntnisse in Data Engineering (z.B. SQL, Python, Datenmodellierung, ETL/ELT) sowie Offenheit für verschiedene Technologien und Plattformen.
+ Fähigkeit zur adressatengerechten Kommunikation in Deutsch und Englisch; Kenntnisse in mindestens einem Themenfeld wie etwa SAP Data & Analytics (z.B. Datasphere, BW/4HANA, SAC), moderne Datenplattformen (z.B. Databricks, Snowflake, Fabric) oder Planung & EPM (z.B. SAC Planning, Anaplan) sind von Vorteil
+ Was du bei uns schätzen wirst
+ Deine Benefits 
+ Flexible Arbeitszeit- und Auszeitmodelle  
+ Mobiles Arbeiten – auch hybrid von Zuhause aus  
+ Jobfahrrad-Programm  
+ Mobilitätsbudget  
+ Vielfältiges Weiterbildungsangebot  
+ Internationales Netzwerk  
+ Kooperation mit dem pme Familienservice  
+ Deferred Compensation – im Alter gut abgesichert  
+ Verlängerte Entgeltfortzahlung im Krankheitsfall  
+ Gesundheitsangebote  
+ Attraktiver Arbeitsplatz für Menschen mit Handicap  
+ Kontakthalteprogramm fareWelcome!  
+ Work-life-balance  
+ Mitarbeiterrabatte   
+ Team- und Sportevents 
+ Wir legen großen Wert auf die Vereinbarkeit von Arbeit und Privatleben. Deshalb hast du bei uns die Möglichkeit, hybrid aus dem Office, von zu Hause oder an anderen Capgemini Standorten in Deutschland zu arbeiten. Gleichzeitig bietet Capgemini dir flexible Arbeitszeitmodelle. 
+ Wir bieten dir vielfältige Möglichkeiten zur Weiterentwicklung: Unser Karrieremodell ermöglicht es dir, deine Karriere so zu lenken, wie es für dich am besten ist und unsere Leadership Programme unterstützen dich dabei. Mit zahlreichen Angeboten auf unserer Lernplattform hast du zudem jederzeit die Möglichkeit, deine Skills auszubauen oder dir neue anzueignen. 
+ Unsere Communitys: Wir bieten dir aktive Mitarbeiternetzwerke, in denen du dich sowohl fachlich als auch persönlich mit Kolleg*innen aus aller Welt austauschen kannst. Zudem fördern unsere Communitys Vielfalt, Diversität und Inklusion am Arbeitsplatz. 
+ Sämtliche in der Anzeige genannten Nebenleistungen geben lediglich einen ersten Überblick ohne Anerkennung einer Rechtspflicht. Sie richten sich nach den jeweils gültigen Betriebsvereinbarungen, Policies, betrieblichen Regelungen und Anspruchsvoraussetzungen zum Zeitpunkt des Eintritts in das Unternehmen.  
+ Bewirb dich jetzt
+ Für den ersten Schritt in Richtung Zukunft brauchst du nur drei Minuten Zeit und deinen aktuellen Lebenslauf. 
+ Bitte sende keine Bewerbungen per E‑Mail. Bewerbungen werden ausschließlich über unser Online‑Bewerbungssystem entgegengenommen. Eingehende Bewerbungen per E‑Mail werden aus Datenschutzgründen ungelesen gelöscht. Bei Fragen steht dir Tobias Stryk unter career.de@capgemini.com zur Seite. 
+ Diese Anzeige ist online, solange die Stelle verfügbar ist. 
+ Capgemini lebt Vielfalt am Arbeitsplatz. Diversität sorgt in unserem Unternehmen für Inspiration und Innovation. Wir freuen uns besonders über Bewerbungen von qualifizierten Talenten, unabhängig von Herkunft, Nationalität, Geschlecht, Hautfarbe, ethnischer und sozialer Herkunft, Religion, Alter, Behinderung, sexueller Orientierung und Lebensphase. 
+ Mehr Infos 
+ Erfahre hier mehr zu unserem  Bewerbungsprozess  und erhalte Tipps für deine Bewerbung. Steig jetzt bei Capgemini ein und profitiere von unseren  zahlreichen Benefits . Mehr Informationen zu den  IT-Berufsfeldern  bei Capgemini und unseren  Standorten in Deutschland  findest du auf unserer Karriereseite:  capgemini.de/karriere   
+ Capgemini Deutschland GmbH 
+ Potsdamer Platz 5
+10785 Berlin
+ http://www.capgemini.com/de-de/karriere/

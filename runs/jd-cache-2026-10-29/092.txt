@@ -1,0 +1,78 @@
+URL: https://www.linkedin.com/jobs/view/4481873205
+TITLE: Business Intelligence Developer
+COMPANY: Tenth Revolution Group
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-27
+title: Business Intelligence Developer
+company: Tenth Revolution Group
+posted: 1 day ago
+applicants: 45 applicants
+apply_offsite: 
+---
+BI Developer - Power BI, Data & Business Insights
+ Stockholm | Hybrid | Power BI | Swedish-speaking 
+ What if your next BI role gave you the opportunity to do more than build dashboards?
+ We're working with a well-established, privately owned international business group that is investing in data and digitalisation to support its continued growth. With operations spanning multiple industrial markets, the organisation combines the stability and resources of a long-standing group with an entrepreneurial mindset and a genuinely long-term approach to building successful businesses.
+ They're now looking for a BI Developer to help turn data into meaningful insights, make information more accessible and enable better decision-making across the business.
+ This is a great opportunity for someone who enjoys the technical side of Business Intelligence but also wants to understand the bigger picture: how people use data, what decisions they're trying to make, and how the right reporting solutions can make a real difference.
+ You'll work closely with stakeholders, get involved in the full process from understanding requirements through to delivering and supporting BI solutions, and have the opportunity to help shape how data is used across the organisation.
+ And with data playing an increasingly important role in the group's development, there's plenty of scope to grow your skills and get involved in what comes next.
+ The role: 
+ Where data meets business 
+ You'll sit at the intersection of data, technology and business decision-making, developing reporting and analytical solutions that help people understand performance, identify opportunities and make more informed decisions.
+ Rather than simply receiving a specification and building a dashboard, you'll work directly with the people using the data. You'll understand their challenges, ask the right questions and translate business needs into practical, well-designed BI solutions.
+ Your work will involve developing dashboards and reports, creating meaningful data models and making sure the information being presented is clear, reliable and genuinely useful.
+ You'll also help users get the most out of the solutions you build, explaining insights, providing guidance and supporting people in becoming more confident working with data.
+ It's an opportunity to combine analytical thinking, technical development and stakeholder interaction in a role where you can see the value of what you deliver.
+ What you'll be working on
+ Developing Power BI solutions: Build intuitive, insightful dashboards and reports that help stakeholders understand business performance and make better decisions.
+ Turning business requirements into insights: Work directly with users to understand their needs, identify the right approach and translate requests into effective reporting solutions.
+ Building meaningful data models: Structure and organise data to support accurate, consistent reporting and make information easier to understand and use.
+ Working with DAX and analytics: Develop measures, calculations and analytical functionality to deliver the insights stakeholders need.
+ Improving how data is used: Identify opportunities to enhance existing reports, improve the accessibility of information and make reporting more efficient.
+ Supporting and empowering users: Explain technical concepts in an accessible way, provide training and help colleagues get more value from BI tools.
+ Collaborating across the business: Build relationships with different stakeholders, understand their challenges and help connect business needs with technical solutions.
+ Exploring new possibilities: With digitalisation an important focus for the wider group, there is scope to develop your understanding of modern analytics tools and emerging technologies, including AI.
+ You'll have the opportunity to work on practical business challenges rather than developing reports in isolation. The aim is to make data useful, accessible and actionable.
+ The technology
+ Power BI · DAX · Data Modelling · Business Intelligence · Reporting & Analytics · Microsoft Data Technologies 
+ Power BI experience would be particularly valuable, alongside an understanding of how data models, measures and reporting solutions fit together.
+ Experience with data warehousing, wider Microsoft analytics technologies or modern data and AI tools would also be beneficial, but you don't need to have worked with everything.
+ What's most important is that you have a solid grounding in BI, enjoy working with data and can translate analytical requirements into solutions that people can actually use.
+ Who are they looking for? 
+ This role would suit an early-career BI Developer or BI Analyst who's ready to build on their experience and take on more responsibility.
+ You might have:
+ At least 2 years of experience working in Business Intelligence, BI Development, Data Analytics or a closely related field.
+ Experience developing dashboards, reports or analytical solutions using Power BI or another modern BI platform.
+ A good understanding of data modelling, analytical thinking and how to present data clearly.
+ Familiarity with DAX and the development of interactive reporting solutions.
+ Strong communication skills and the confidence to work directly with stakeholders.
+ The ability to understand business requirements and explain technical concepts to non-technical users.
+ A proactive approach to problem-solving, with the confidence to ask questions and suggest improvements.
+ Fluency in both Swedish and English. 
+ Experience gained within a business-facing role, such as supply chain, procurement, operations or another commercial function, could be particularly useful. So could experience in consultancy or an internal BI team where you've worked closely with different departments.
+ Exposure to data warehousing, Microsoft analytics technologies, AI or machine learning would be a bonus.
+ You don't need to be an expert in every area. They're looking for someone with a solid foundation who is curious, commercially minded and keen to develop.
+ The sweet spot is someone who enjoys both the technical work and the conversations that help make that work valuable. 
+ Why consider this opportunity? 
+ Work somewhere that genuinely values data!
+ Data and digitalisation are important areas of focus for the wider group. You'll be joining an organisation that recognises the role technology can play in improving how businesses operate and grow.
+ Your work won't just be about producing reports for the sake of it. You'll help people access information, understand what's happening across the business and make better-informed decisions.
+ The backing of an established international group
+ The business is part of a substantial, privately owned group with a long history and a long-term approach to ownership.
+ That brings the opportunity to work within an established organisation with international reach, resources and ambitious plans for continued development, rather than a business focused solely on short-term results.
+ An entrepreneurial culture with a human approach
+ Despite the scale of the wider group, the organisation values entrepreneurial thinking, local decision-making and close collaboration.
+ There's an emphasis on taking responsibility, making things happen and building strong working relationships. It's an environment where you can contribute ideas, work closely with stakeholders and see how your work supports the wider business.
+ For someone looking to develop their BI career, it's an appealing combination of stability, business exposure and the opportunity to keep learning.
+ The practical details
+ Location: Stockholm, Sweden
+ Working model: Hybrid, with two days per week in the office, typically Tuesday and Thursday
+ Languages: Fluent Swedish and English required
+ Experience: 2+ years in BI, data analytics or a related field
+ Core technology: Power BI, DAX, data modelling and reporting
+ Salary: Up to approximately 55,000 SEK per month, depending on experience
+ Interested?
+ If you're a BI Developer who enjoys turning data into insights, working closely with the business and building solutions that make a genuine difference, this could be a great next step.
+ Whether you've spent the last few years developing Power BI dashboards, improving reporting processes or helping business teams make better use of their data, we'd love to hear about what you've been working on and where you'd like to take your career next.
+ If you're looking for a role where you can develop technically, work with people who value data and contribute to a business with a long-term vision, let's have a chat.

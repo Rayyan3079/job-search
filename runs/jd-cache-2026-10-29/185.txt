@@ -1,0 +1,91 @@
+URL: https://www.linkedin.com/jobs/view/4484464164
+TITLE: Werkstudent:in im Bereich Data Science und Advance Analytics für Energieanlagen
+COMPANY: BEW Berliner Energie und Wärme GmbH
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-10-28
+title: Werkstudent:in im Bereich Data Science und Advance Analytics für Energieanlagen
+company: BEW Berliner Energie und Wärme GmbH
+posted: 18 hours ago
+applicants: 41 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-in-im-bereich-data-science-und-advance-analytics-f%25C3%25BCr-energieanlagen-at-bew-berliner-energie-und-w%25C3%25A4rme-gmbh-4484464164&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Unternehmensbeschreibung
+ Wärme und Energie sind unser Beitrag zur Lebensqualität – jeden Tag aufs Neue.
+ Als BEW Berliner Energie und Wärme GmbH versorgen wir unsere Kund:innen mit Strom und Wärme. Unser Fernwärmenetz ist mit einer Länge von mehr als 2.000 Kilometern das größte Westeuropas. Wir beliefern etwa ein Drittel der Berliner Wohnungen mit Fernwärme.
+Mit dem Know-how unserer rund 2.400 Mitarbeitenden decken wir die gesamte Wertschöpfungskette der Fernwärme ab – von der Erzeugung über den Netzbetrieb und -ausbau bis hin zum Vertrieb. Parallel dazu arbeiten wir mit Hochdruck am Kohleausstieg bis 2030 und an einer klimaneutralen* Wärmeerzeugung ab 2045.
+Um dieses Ziel zu erreichen, werden wir den Anteil an erneuerbaren Energien und unvermeidbarer Abwärme** in unserem Fernwärmesystem schrittweise weiter ausbauen. Dieser Ausbau setzt einen grundlegenden Umbau vieler unserer Standorte und Anlagen voraus. Für diese Herausforderung und die damit verbundenen Aufgaben brauchen wir Menschen, die sich mit ganzer Kraft für unser gemeinsames Ziel einer lokalen Wärmewende engagieren – Menschen wie dich.
+Stellenbeschreibung
+Für die BEW Berliner Energie und Wärme GmbH suchen wir dich zum nächstmöglichen Zeitpunkt als Werkstudent:in im Bereich Data Science und Advance Analytics für Energieanlagen am Standort Berlin .
+ Entwickle mit uns das technische Monitoring von morgen!
+ Die Abteilung Monitoring Performance und Technik verbindet ingenieurwissenschaftliches Anlagenverständnis mit datengetriebenen Analyseverfahren. Unser Ziel ist es, technische Daten systematisch in belastbares Handlungswissen zu überführen und damit Risiken frühzeitig zu erkennen, die Anlagenverfügbarkeit zu sichern und Optimierungspotenziale nutzbar zu machen.
+Neben dem Betrieb bestehender Monitoringsysteme wollen wir neue Methoden, Technologien und Arbeitsweisen praktisch erproben. Dazu gehören beispielsweise Python-basierte Analysemodelle, automatisierte Datenvalidierung, Anomalieerkennung, datenbasierte Zustandsbewertung, technische Optimierungsmodelle und perspektivisch KI-gestützte Anwendungen. Die strategische Entwicklung zielt zudem auf besser verknüpfte Datenquellen, einen zentralen Asset Intelligence Hub und standardisierte, nachvollziehbare Prozesse.
+ Deine Aufgaben
+ Du unterstützt bei der Recherche, Bewertung und praktischen Erprobung neuer Monitoring- und Analysemethoden für Energieerzeugung und Fernwärme. 
+ Du bereitest Betriebs- und Zustandsdaten für Analysen und Modellentwicklungen auf und untersuchst unterschiedliche Daten- und Informationsquellen. 
+ Du entwickelst gemeinsam mit dem Team Datenanalyse- und Monitoringprototypen, z. B. mit Python, SQL, Power BI oder vergleichbaren Werkzeugen. 
+ Du wirkst bei der Entwicklung und Erprobung von Methoden für Anomalie- und Fehlerfrüherkennung, Zustands- und Degradationsbewertung sowie Performance- und Effizienzanalysen mit. 
+ Du untersuchst, wie KI und datenbasierte Modelle für technische Analysen, Prognosen und Entscheidungsunterstützung eingesetzt werden können. 
+ Du vergleichst neue methodische Ansätze hinsichtlich Aussagekraft, Datenbedarf, Interpretierbarkeit, Robustheit und praktischer Umsetzbarkeit. 
+ Du entwickelst Demonstratoren und prototypische Lösungen und wirkst bei deren Integration in Monitoring, Dashboards und bestehende Arbeitsabläufe mit. 
+ Du dokumentierst und präsentierst Vorgehensweisen, Ergebnisse und Erkenntnisse verständlich und unterstützt den fachlichen Austausch mit internen und externen Partnern. 
+ Was dich erwartet
+ Reale technische Anwendungsfälle an der Schnittstelle von Energietechnik, Data Science und Digitalisierung. 
+ Freiraum für methodische Erprobung, ohne den praktischen Nutzen aus dem Blick zu verlieren. 
+ Zugang zu Betriebsdaten, technischen Fragestellungen und dem Erfahrungswissen des Monitoringteams im jeweils zulässigen Rahmen. 
+ Die Möglichkeit, aus einem Prototyp einen dauerhaft nutzbaren Monitoringansatz mitzuentwickeln. 
+ Zusammenarbeit mit Fachleuten aus Anlagenbetrieb, Instandhaltung, Engineering, Datenmanagement, IT und Analytics. 
+ Mögliche Anknüpfungspunkte für eine spätere Studien- oder Abschlussarbeit, abhängig von Thema und betrieblicher Eignung. 
+ Qualifikationen
+ Dein Profil
+ Du bist immatrikulierte:r Student:in, vorzugsweise in einer der folgenden Fachrichtungen:
+ Data Science
+ Informatik
+ Computational Engineering
+ Energie- und Prozesstechnik
+ Verfahrenstechnik
+ Elektrotechnik
+ Automatisierungstechnik
+ Mathematik oder Physik
+ Wirtschaftsingenieurwesen mit technischer oder datenanalytischer Vertiefung
+ oder einer vergleichbaren Fachrichtung. 
+ Du hast Interesse daran, neue Methoden nicht nur theoretisch zu betrachten, sondern anhand realer technischer Fragestellungen praktisch zu erproben. 
+ Du verfügst über erste Programmiererfahrung, vorzugsweise mit Python. 
+ Idealerweise besitzt du Kenntnisse in einzelnen der folgenden Bereiche:
+ pandas, NumPy, SciPy oder scikit-learn
+ Zeitreihenanalyse
+ statistische Modellierung
+ Machine Learning
+ Datenvisualisierung
+ SQL und Datenbanken
+ Git oder Azure DevOps
+ Databricks oder vergleichbare Analyseplattformen
+ Power BI
+ OSIsoft beziehungsweise AVEVA PI System
+ thermodynamische oder physikalische Modellierung. 
+ Du besitzt ein gutes mathematisch-technisches Verständnis und kannst Analyseergebnisse kritisch hinterfragen. 
+ Du gehst methodisch vor und dokumentierst Datenbasis, Annahmen, Modelllogik, Validierung und Grenzen deiner Ergebnisse nachvollziehbar. 
+ Du hast Freude daran, dich eigenständig in neue Themen, Werkzeuge und technische Prozesse einzuarbeiten. 
+ Du kannst komplexe Sachverhalte verständlich darstellen und arbeitest gerne mit unterschiedlichen Fachdisziplinen zusammen. 
+ Sehr gute Deutschkenntnisse in Wort und Schrift, mindestens c1, sind erforderlich. Gute Englischkenntnisse sind von Vorteil. 
+ Kenntnisse über Kraftwerksprozesse, Energieanlagen oder Fernwärmesysteme sind hilfreich, aber keine zwingende Voraussetzung. 
+ Du hast für mindestens 6 Monate Zeit und kannst uns mit mindestens 20 Stunden pro Woche unterstützen. 
+ Zusätzliche Informationen
+ Deine Benefits
+ Flexible Gestaltung deines Arbeitsalltags mit der Möglichkeit im Home-Office zu arbeiten
+ Benötigte technische Ausstattung wird dir selbstverständlich zur Verfügung gestellt
+ Individuelle Entwicklung und Aufbau deines beruflichen Netzwerks
+ Verbesserte Einstiegschancen nach abgeschlossenem Studium
+ Bio-Betriebsrestaurant sowie kostenfreie Getränke (Wasser, Tee, Kaffee) und Obst an fast allen Standorten
+ Verschiedene Angebote zum Thema Gesundheit, z. B. Unterstützung durch PME-Familienservice
+ Deine Bewerbung
+ Wir freuen uns auf deine Bewerbung! Bitte sende uns deine vollständigen Bewerbungsunterlagen in deutscher Sprache und im PDF-Format (insb. ein Anschreiben , einen lückenlosen Lebenslauf sowie eine aktuelle Immatrikulationsbescheinigung ) bis spätestens 11.11.2026 zu!
+Für weitere Informationen zu dieser Position kannst du dich an die einstellende Managerin Tatiana van Tilburg Londono unter tatiana.vantilburglondono@bew.berlin wenden. Fragen zum Bewerbungsprozess beantwortet dir gern der zuständige Recruiter Shawn Sieber unter shawnphilipp.sieber@bew.berlin .
+Du hast Interesse an unserem Angebot und möchtest gemeinsam mit uns die Berliner Wärmewende gestalten? Dann freuen wir uns auf deine Bewerbung über unsere Karriereseite!
+ Hinweise
+ Wir sind davon überzeugt, dass Vielfalt dazu beiträgt, unser Unternehmen leistungsfähiger und attraktiver zu machen. Bewerbungen zum Beispiel von Personen jeglichen Alters, geschlechtlicher Identität, sexueller Orientierung oder ethnisch-kulturellen Hintergrunds sind herzlich willkommen. Schwerbehinderte Menschen werden bei gleicher fachlicher Eignung besonders berücksichtigt.
+Die Sicherheit der BEW und ihrer Beschäftigten ist von grundlegender Bedeutung. Aus diesem Grund ist ein Pre-Employment Screening Teil des Rekrutierungsprozesses. Der Umfang der Überprüfung variiert je nach Funktion und Einsatzbereich. Das Screening wird von einem Drittanbieter, Signum Consulting GmbH, DISA, durchgeführt.
+ Damit meinen wir eine Wärmeversorgung aus erneuerbaren Energien, aus unvermeidbarer Abwärme oder einer Kombination aus beidem im Sinne des
+ 31 i. v. m. 
+ 3 Abs. 1 Nr. 13, 15 und Abs. 4 Wärmeplanungsgesetz (WPG). Dieses Ziel wollen wir durch eine Reihe von Maßnahmen erreichen, welche wir in unserem Dekarbonisierungsfahrplan darstellen. 
+ Im Sinne des
+ 3 Abs. 1 Nr. 13 bzw. Abs. 4 Wärmeplanungsgesetz (WPG).

@@ -1,0 +1,26 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-KI-Unterstuetzung-Domain-Plan-m-w-d-Essen-E-ON-Grid-Solutions-GmbH--14692112-inline.html
+TITLE: Werkstudent KI-Unterstützung Domain Plan (m/w/d)
+COMPANY: E.ON Grid Solutions GmbH
+LOC: Essen
+POSTED: stepstone
+title: Werkstudent KI-Unterstützung Domain Plan (m/w/d)
+company: E.ON Grid Solutions GmbH
+posted: 2026-10-28T10:07:37.08Z
+location: Essen | remote: 
+---
+Die Energiewelt ist auf dem Weg in eine neue Zukunft: digital, erneuerbar, dezentral und innovativ. Intelligente Netze und Kundenlösungen sind das Zukunftsgeschäft für die Energiewende.
+ Als E.ON Grid Solutions entwickeln und betreiben wir IT-Plattformen, digitale Produkte und intelligente Services, die Energienetze smarter machen. Unsere Lösungen schaffen Mehrwert für Millionen von Menschen und leisten einen wichtigen Beitrag zur Energiezukunft Europas.
+ Du übernimmst gerne Verantwortung, bringst deine Ideen ins Team ein und verstehst Technologie als Chance? Dann bewirb dich bei uns.
+ Eine Aufgabe, die herausfordert
+ Produktentwicklung: Du wirst Teil eines agilen BizDevOps-Teams und unterstützt die Weiterentwicklung zentraler Produkte für die deutschen E.ON-Netzgesellschaften.
+ Wissensmanagement: Du hilfst dabei, Wissen sichtbar und zugänglich zu machen und entwickelst unsere Dokumentationslandschaft mithilfe von KI-Technologien weiter.
+ KI-Innovation: Du arbeitest gemeinsam mit unserem Team an innovativen Lösungen rund um Produktarchitekturen, Wissensmanagement und Generative AI.
+ Technologieeinsatz: Du evaluierst moderne KI-Technologien und unterstützt dabei, deren Potenziale für unsere Produkte, Prozesse und Arbeitsweisen nutzbar zu machen.
+ Ideenentwicklung: Du bringst eigene Ideen ein und unterstützt dabei, neue Ansätze und Anwendungsfälle für Künstliche Intelligenz zu identifizieren und umzusetzen.
+ Ein Background, der überzeugt
+ Studium: Du absolvierst ein Studium der (Wirtschafts-)Informatik, des Software Engineerings oder einer vergleichbaren Fachrichtung.
+ KI-Kenntnisse: Du hast bereits erste Erfahrungen mit KI-Technologien wie Microsoft Copilot, Claude oder vergleichbaren Werkzeugen gesammelt und interessierst Dich für deren Einsatz in modernen Entwicklungsumgebungen.
+ Technisches Verständnis: Idealerweise bringst Du erste Kenntnisse in Cloud-Technologien, beispielsweise Microsoft Azure, sowie im Umgang mit Git und Markdown mit.
+ Arbeitsweise: Du zeichnest Dich durch eine schnelle Auffassungsgabe sowie eine strukturierte und eigenständige Arbeitsweise aus.
+ Persönlichkeit: Du bist neugierig, lernbereit und bringst gerne eigene Ideen und Impulse in neue Themenfelder ein.
+ Kommunikation: Du arbeitest gerne im Team und verfügst über sehr gute Deutschkenntnisse (mindestens C1) sowie gute Englischkenntnisse (mindestens B2) in Wort und Schrift.

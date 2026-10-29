@@ -1,0 +1,49 @@
+URL: https://www.linkedin.com/jobs/view/4405110959
+TITLE: Praktikum Data Engineer im Bereich Advanced Analytics (m/w/d)
+COMPANY: Simon-Kucher
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-10-28
+title: Praktikum Data Engineer im Bereich Advanced Analytics (m/w/d)
+company: Simon-Kucher
+posted: 20 hours ago
+applicants: 145 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikum-data-engineer-im-bereich-advanced-analytics-m-w-d-at-simon-kucher-4405110959&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+In Deutschland - Berlin | Bonn | Frankfurt/Main | Hamburg | Köln | München
+Du willst Praxiserfahrung in einer internationalen Unternehmensberatung sammeln? Bei uns kannst du dein Interesse an Wirtschaftsthemen mit deinen analytischen Fähigkeiten verbinden! Werde für mindestens 10 Wochen Teil eines außergewöhnlichen Teams. Was uns besonders macht: ein starker Unternehmergeist und jede Menge Gestaltungsfreiheit.
+Der Advanced Analytics Bereich bei Simon-Kucher konzentriert sich auf die Entwicklung von Best-in-Class-Ansätzen und -Modellen, um mit Hilfe von Machine Learning und Advanced Analytics komplexe Geschäftsprobleme zu lösen. Bei uns wirst du ein integraler Bestandteil der Projektteams sein, die das Wachstum unserer Kunden vorantreiben. Während deines Praktikums wirst du von unseren erfahrenen Kolleg:innen unterstützt und sammelst themenbezogene praktische Erfahrung.
+Der frühestmögliche Starttermin ist ab April 2027.
+ Mehr Von Uns Für Dich
+ Von Anfang an mit dabei: als fester Bestandteil eines Projektteams arbeitest du an spannenden Fragestellungen und nachhaltigen Wachstumsstrategien für unsere Kunden. In einem schnell wachsenden internationalen Unternehmen mit Start-up-Atmosphäre kannst du eine steile Lernkurve erwarten.
+ Persönliche Weiterentwicklung: profitiere von regelmäßigen Feedbackgesprächen und bringe deine individuelle Perspektive in unsere Unternehmenskultur ein. Zusätzlich erhältst du einen einjährigen kostenfreien Zugang zu LinkedIn Learning, den du auch nach deinem Praktikum nutzen kannst.
+ Du hast die Wahl: entscheide dich für eines unserer deutschen Offices
+ Gut umsorgt: mit gesunden Snacks und Getränken in unseren Offices
+ Easy von A nach B: profitiere von unserem monatlichen Zuschuss für deine (private) Mobilität, nutzbar für Taxi, Bahn, Carsharing u.v.m.
+ Gemeinsam feiern: vernetze dich bei regelmäßigen Mitarbeitenden-Events mit unseren Kolleg:innen
+ Dein Praktikum als Karrierestart: Möglichkeiten zum Festeinstieg nach deinem Praktikum
+ Gemeinsam wachsen: Nachhaltig und langfristig! Darum dreht sich alles bei Simon-Kucher. Unsere Stärke: ein mitreißendes, hoch motiviertes und sympathisches Team. Und jetzt kommst du: mitten hinein in die offene, wertschätzende Start-up-Atmosphäre eines etablierten Unternehmens mit 40-jähriger Erfolgsgeschichte.
+ Hier Bewegst Du Was
+ Gemeinsam im Team entwickelst du datenbasierte Lösungen für vielfältige Fragestellungen und nutzt dabei großer Datenmengen als Grundlage.
+ Darüber hinaus bist du maßgeblich an der Implementierung datenbasierter Lösungen beteiligt, um unseren Kunden einen echten Mehrwert zu verschaffen.
+ Du arbeitest in unserem interdisziplinären Team aus Data Scientists und Data Engineers an der Entwicklung von Dashboards und Data Pipelines für interne und externe Kunden.
+ Du berätst unsere Kunden bei technologischen Entscheidungen (z.B. wie man robuste ETL-Prozesse und Datenvisualisierungen konzipiert, implementiert und automatisiert).
+ Du unterstützt unsere Kunden bei der Realisierung von Data Strategy, Data Governance und Data Processing Projekten.
+ Du arbeitest an aktuellen Fragestellungen im Zusammenhang mit Chatbots, GenAI und Machine Learning.
+ Hiermit Begeisterst Du
+ Du studierst z.B. (Wirtschafts-) Informatik, Ingenieurwesen, (Wirtschafts-) Mathematik oder ähnliches.
+ Der Umgang mit Python und/oder SQL bereitet dir keinerlei Schwierigkeiten.
+ Du hast bereits erste Erfahrung im Arbeiten mit großen Datenmengen gesammelt und bist in der Lage, komplexe Datenbanken aufzubauen und zu pflegen.
+ Idealerweise bringst du auch erste Erfahrungen in der Automatisierung von ETL-Prozessen mit.
+ Du verfügst über Grundkenntnisse im Umgang mit relationalen Datenbanken und BI-Software (PowerBI, Tableau).
+ Du lernst schnell, bist von Natur aus wissbegierig und besitzt die Fähigkeit, komplexe Sachverhalte einfach zu erklären.
+ Deine Englisch- und Deutschkenntnisse sind verhandlungssicher.
+ Du willst dich gleich bei uns bewerben? Dann schick deine Unterlagen über den „Apply now“-Button zu uns. Bitte beachte, dass wir aus Datenschutzgründen keine Bewerbungen per E-Mail annehmen können. Alle wichtigen Informationen rund um deine Bewerbung findest du in unseren FAQs .
+Du willst mehr über uns und unsere Unternehmenskultur erfahren? Hier geht’s zu unserem Recruiting Video .
+ Über Simon-Kucher  
+ Simon-Kucher ist eine globale Unternehmensberatung mit mehr als 2.200 Mitarbeitenden in über 30 Ländern. Unser Fokus liegt darauf, nachhaltiges und profitables Wachstum zu erschließen und für unsere Kunden messbare Umsatz- und Ergebnissteigerungen zu realisieren. Als verlässlicher Partner für Commercial Excellence verbinden wir tiefgehende Beratungsexpertise mit Spezialisierung auf Wachstumsstrategien und technologischer Expertise, um nachhaltige Wertsteigerung zu ermöglichen. Wir optimieren sämtliche Hebel der kommerziellen Strategie – von Produkt, Pricing und Innovation bis hin zu Marketing, Vertrieb und digitalen Geschäftsmodellen – auf Basis fundierter Erkenntnisse zu Kundennutzen und Zahlungsbereitschaft. Mit über 40 Jahren Erfahrung in der Monetarisierung gelten wir als weltweit führende Beratung für Commercial Growth und Pricing. simon-kucher.com
+Wir setzen uns für eine Unternehmenskultur ein, die Diversität, Gleichstellung und Inklusion fördert – und damit ein Umfeld der Anerkennung, das individuelle Entfaltung stärkt und den Beitrag eines jeden Einzelnen würdigt. So können wir weitreichende und positive Veränderungen bewirken. Wertschätzung und Anerkennung befähigen uns dazu, schneller zu wachsen, innovativer zu arbeiten und nachhaltigere Ergebnisse für alle zu erzielen – für unsere Teams, unsere Kunden und unser Unternehmen.
+ Deine Persönliche Ansprechpartnerin
+ Xenja Schweizer-Olcer
+recruitment.germany(at)simon-kucher.com
+Bitte reiche deine Bewerbung ausschließlich über den “Apply now”-Button ein! 
+ Better growth starts here. With you.

@@ -3,7 +3,7 @@ Supports LinkedIn (guest API) and arbeitsagentur.de job detail pages; falls back
 import sys, re, html, subprocess
 url = sys.argv[1]
 def get(u):
-    return subprocess.run(["curl", "-s", "-L", "-m", "25", "-A", "Mozilla/5.0", u], capture_output=True, text=True).stdout
+    return subprocess.run(["curl", "-s", "-L", "--compressed", "-m", "25", "-A", "Mozilla/5.0", u], capture_output=True).stdout.decode("utf-8", "replace")
 def text(h):
     h = re.sub(r"<script.*?</script>|<style.*?</style>", " ", h, flags=re.S)
     h = re.sub(r"<(br|/p|/li|/h\d|/div)[^>]*>", "\n", h)

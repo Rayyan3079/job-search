@@ -1,0 +1,56 @@
+URL: https://www.linkedin.com/jobs/view/4483867353
+TITLE: Werkstudententätigkeit im Advanced Automation / Physical AI ab Februar 2027
+COMPANY: Daimler Truck AG
+LOC: Leinfelden-Echterdingen, Baden-Württemberg, Germany
+POSTED: 2026-10-28
+title: Werkstudententätigkeit im Advanced Automation / Physical AI ab Februar 2027
+company: Daimler Truck AG
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudentent%25C3%25A4tigkeit-im-advanced-automation-physical-ai-ab-februar-2027-at-daimler-truck-ag-4483867353&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+"
+Aufgaben
+ ÜBER UNS
+ Bei Daimler Truck verändern wir das Transportwesen von heute und erzielen gemeinsam echte Wirkung. Wir übernehmen weltweit Verantwortung und arbeiten als ein globales Team zusammen. Wir treiben unseren Fortschritt und Erfolg gemeinsam voran – jede:r bei Daimler Truck macht den Unterschied.
+Gemeinsam wollen wir unseren CO2-Fußabdruck reduzieren, die Sicherheit auf und abseits der Straße erhöhen, intelligentere Technologien und attraktive Finanzlösungen entwickeln. All dies ist unerlässlich, um unser Ziel zu erreichen – für alle, die die Welt bewegen.
+Werde Teil unseres globalen Teams: Du machst den Unterschied – YOU MAKE US
+ Im Team „Advanced Automation and Physical AI“ der Daimler Truck AG entwickelst du KI-gestützte Vision- und Robotiklösungen für Intralogistik und Montage, mit Industrierobotern ebenso wie mit humanoiden Robotern. Dein Arbeitsplatz ist die Forschungsfabrik ARENA2036 in Vaihingen sowie unser Standort in Leinfelden-Echterdingen. Dabei arbeitest du eng mit Start-ups und Forschungspartnern zusammen.
+In unserem Robotik-Labor auf dem Forschungscampus ARENA2036 in Vaihingen arbeitest du mit Industrierobotern und humanoiden Robotern und entwickelst Computer-Vision- und Robotiklösungen von der ersten Idee bis zur Live-Demo.
+ DAS ERWARTET DICH
+ Entwicklung von Computer-Vision-Lösungen für Qualitätskontrolle und Anomalieerkennung, von der Datenerfassung bis zum Modell im Einsatz
+ Implementierung kamerabasierter Robotersteuerungen zur Objektverfolgung und -manipulation
+ Mitarbeit an Teleoperation und Datenaufnahme mit humanoiden Robotern
+ Evaluierung aktueller KI-Modelle für die Robotik, z. B. Vision-Language-Action-Modelle (VLA), in Simulation und am realen Roboter
+ Aufbau und Programmierung von Demonstratoren mit Industrierobotern (Universal Robots, FANUC) und humanoiden Robotern (Unitree)
+ Planung und Durchführung von Versuchen mit Robotersystemen, inkl. Dokumentation und Video-Reports (z. B. mit DaVinci Resolve)
+ Test, Validierung und Wartung der implementierten Systeme
+ Mitarbeit im Projektmanagement: Präsentationen, Protokolle und Reporting
+ Recherche und Bewertung von Technologie- und Start-up-Partnern
+ WIR BIETEN DIR
+ Eine spannende und abwechslungsreiche Tätigkeit in einem dynamischen Umfeld
+ Die Möglichkeit, eigenverantwortlich an Projekten mitzuwirken und deine Ideen einzubringen
+ Eine attraktive Vergütung und flexible Arbeitszeiten
+ Einblicke in die Arbeitswelt eines führenden Unternehmens der Nutzfahrzeugbranche
+ Teilnahme und Mitwirkung an spannenden Austausch- und Netzwerkeformaten des standortübergreifenden Students @ Daimler Truck Netzwerkes
+ Qualifikationen
+ DAS BRINGST DU MIT
+ Studium der Robotik, Informatik, Mechatronik, Elektrotechnik oder einer vergleichbaren Fachrichtung
+ Sichere Programmierkenntnisse in Python
+ Grundkenntnisse in Computer Vision und Robotik, z. B. aus Studienprojekten oder Abschlussarbeiten
+ Gute Englischkenntnisse in Wort und Schrift
+ Selbstständige, analytische Arbeitsweise und Freude an praktischer Arbeit im Labor
+ Erfahrung mit ROS 2 und Git
+ Kenntnisse in C++ und ML-Frameworks (z. B. PyTorch)
+ Erste Praxis mit Industrierobotern (z. B. UR, FANUC, KUKA) oder humanoiden Robotern
+ Erfahrung mit Linux
+ Zusätzliche Informationen:
+ Ganz ohne Formalitäten geht es natürlich auch bei uns nicht.
+Bewirb Dich bitte ausschließlich online und füge Deiner Bewerbung einen Lebenslauf, aktuelle Immatrikulationsbescheinigung mit Angabe des Fachsemesters, aktuellen Notenspiegel, relevante Zeugnisse, Nachweis über die Regelstudienzeit und bei einem Pflicht- oder Kombinationspraktikum einen Pflichtpraktikumsnachweis (max. Gesamtgröße der Anhänge 5 MB) bei.
+Bitte habe Verständnis dafür, dass wir keine Papierbewerbungen mehr entgegennehmen und es keinen Anspruch auf Rückversand gibt.
+Weiterführende Informationen zu den Einstellkriterien findest Du hier https://www.daimlertruck.com/karriere/studierende-absolventen
+Angehörige von Staaten außerhalb des europäischen Wirtschaftsraums schicken ggf. bitte ihre Aufenthalts-/Arbeitsgenehmigung mit.
+Wir freuen uns insbesondere über Onlinebewerbungen schwerbehinderter und ihnen gleichgestellter behinderter Menschen.
+Bei Fragen kannst Du Dich unter sbv-zentrale-truck@daimlertruck.com zudem an die Schwerbehindertenvertretung des Standorts wenden, die Dich gerne nach Deiner Bewerbung im weiteren Bewerbungsprozess unterstützt.
+Fragen zum Bewerbungsprozess beantwortet Dir gerne HR Services per Mail: hr-service@hr.daimlertruck.com
+"

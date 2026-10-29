@@ -1,0 +1,46 @@
+URL: https://www.stepstone.de/stellenangebote--Technical-Product-Owner-m-w-d-Konstanz-Berlin-oder-remote-Koeln-Konstanz-Berlin-Home-Office-SEITENBAU-GmbH--14495434-inline.html
+TITLE: Technical Product Owner (m/w/d) – Konstanz, Berlin oder remote
+COMPANY: SEITENBAU GmbH
+LOC: Köln, Konstanz, Berlin, Home-Office
+POSTED: stepstone
+title: Technical Product Owner (m/w/d) – Konstanz, Berlin oder remote
+company: SEITENBAU GmbH
+posted: 2026-10-27T03:03:45.69Z
+location: Köln | remote: 
+---
+Über uns
+ SEITENBAU ist ein inhabergeführtes Unternehmen, das es seit 1996 gibt. Bei SEITENBAU arbeiten mehr als 300 kreative Köpfe an verschiedensten Softwarelösungen in Scrum Teams. Offene Kommunikation, vertrauensvolle Zusammenarbeit und eine gesunde Mischung aus Praxisbewährtem und cutting edge - das ist das Credo, nach dem wir erfolgreich und mit Spaß arbeiten. Falls du noch mehr über SEITENBAU erfahren möchtest - und das aus Mitarbeitersicht- besuch doch mal unsere kununu Seite. 
+ Deine Aufgaben 
+ Du möchtest die Digitalisierung der Verwaltung mitgestalten und deine innovativen Ideen im Rahmen eines agilen Arbeitsumfelds einbringen? Als Technical Product Owner (m/w/d) mit Schwerpunkt auf technisch und fachlich komplexen Sachverhalten begleitest du zusammen mit deinem Team und unseren Kunden die Anforderungserhebung und Umsetzung bis hin zum Release und der Weiterentwicklung einer Softwareanwendung. 
+Mit einem Projekt zum Ausbau einer Kommunikations- und Kollaborationsplattform hilfst du dabei den digitalen Wandel in Bund, Ländern und Kommunen zu meistern und aktiv voranzutreiben.  
+•    Du verbindest dein Verständnis für Technologie mit einem Gespür für die Bedürfnisse unserer Kunden und deiner Teamkolleg und agierst dabei als leidenschaftliches Bindeglied und Übersetzer*in.
+•    Du erarbeitest zusammen mit deinem Team und den Kunden das Product Backlog mit vorwiegend technischen Inhalten, laufende Sprint Ziele und Releases. 
+•    Du analysierst neue Anforderungen und leitest daraus User Stories für unsere Java-, Spring-Boot und React-basierten Komponenten ab.
+•    Du überzeugst als Ansprechperson für unsere Kunden mit ausgeprägtem Kommunikationsgeschick.
+•    Du informierst über aktuelle Entwicklungen und stehst dabei im ständigen Austausch mit Kunden, Scrum Mastern, weiteren Product Ownern und Entwickler*innen.
+•    Du verantwortest zusammen mit deinem Team die kontinuierliche Qualitätssicherung und Auslieferung von neuen Softwarebestandteilen.
+ Das bringst du mit
+ •    Ein abgeschlossenes Studium oder eine vergleichbare Ausbildung im technischen Umfeld 
+•    Erfahrung in der Softwareentwicklung, als Technical Consultant oder als Product Owner, bevorzugt in agilen Softwareentwicklungsprojekten 
+•    Fundierte Kenntnisse in Anforderungsanalyse sowie fachlicher und technischer Konzeption von Softwaresystemen 
+•    Begeisterung für die Digitalisierung der Verwaltung und den Einsatz moderner Technologien im öffentlichen Sektor
+•    Begeisterung für die Arbeit an komplexen Themenfeldern in einem interdisziplinären Umfeld und analytisches Denken
+•    Ein hohes Qualitätsverständnis und Freude am Austausch mit internen und externen Stakeholdern
+•    Eine klare, verständliche und proaktive Kommunikation
+•    Reisebereitschaft und sehr gute Deutschkenntnisse (C2 oder Muttersprache)
+ Das bieten wir dir
+ •    Du bist Teil eines spannenden Projekts und kannst dich mit deinen Ideen einbringen.
+•    Dein Team arbeitet in enger Kooperation mit der öffentlichen Verwaltung an der Strategie und zukünftigen technischen Ausgestaltung eines modernen digitalen Staates.
+•    Als Teil eines selbstorganisierten Teams kannst du dich stetig weiterentwickeln.
+•    Du kannst eigenverantwortlich an deinen Aufgaben arbeiten und wachsen.
+•    Deine Arbeitszeiten und Urlaube kannst du in Abstimmung mit deinem Team flexibel gestalten.
+•    Du kannst eigene Ideen zur Gestaltung des Arbeitsalltags sowie der Weiterentwicklung der Organisation bei SEITENBAU in verschiedenen Boards einbringen.
+•    Du hast kurze Entscheidungswege und eine Zugehörigkeit: Bei SEITENBAU bist du kein Einzelkämpfer, sondern arbeitest im Team.
+•    Umfangreiche Benefits runden unser Angebot ab.
+ Kontakt
+ Andre Lämmlen , People & Recruiting Manager
+ karriere@seitenbau.com 
+ Jonas Moser , People & Recruiting Manager
+ karriere@seitenbau.com 
+ Marie Braun , People & Recruiting Manager
+ karriere@seitenbau.com

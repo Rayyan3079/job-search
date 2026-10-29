@@ -1,0 +1,46 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-m-w-d-Automation-Engineering-Intelligent-Automation-Hamburg-SIGNAL-IDUNA-Gruppe--14589548-inline.html
+TITLE: Werkstudent (m/w/d) Automation Engineering & Intelligent Automation
+COMPANY: SIGNAL IDUNA Gruppe
+LOC: Hamburg
+POSTED: stepstone
+title: Werkstudent (m/w/d) Automation Engineering & Intelligent Automation
+company: SIGNAL IDUNA Gruppe
+posted: 2026-10-23T11:03:07.51Z
+location: Hamburg | remote: 
+---
+Das sind wir
+ Wir verändern die Versicherungswelt – und suchen dich, um die Zukunft mitzugestalten. Als einer der größten deutschen Versicherer und Finanzdienstleister mit Hauptsitz in Hamburg und Dortmund haben wir uns in den letzten Jahren grundlegend transformiert. Unsere moderne und agile Arbeitswelt, in der wir nutzenzentriert arbeiten, ist von Offenheit und Mut geprägt. Dabei legen wir viel Wert auf gegenseitige Wertschätzung und Vertrauen. Wir heißen Vielfalt in all ihren Facetten willkommen und glauben, dass unterschiedliche Perspektiven und Erfahrungen entscheidend für Innovation sind. Werde Teil unseres Teams, bring deine Ideen ein und verändere mit uns das Jetzt.
+ Du willst nicht nur bestehende Prozesse automatisieren, sondern verstehen, wie moderne Automatisierung technisch funktioniert und sie selbst weiterentwickeln? In unserem Robotics & Automation Chapter gestalten wir die Automatisierung der Zukunft. Dabei verbinden wir klassische RPA-Technologien mit APIs, Softwareentwicklung, Cloud-Plattformen und Künstlicher Intelligenz. Du arbeitest an realen Lösungen für unsere Fachbereiche und bekommst die Möglichkeit, eigene Ideen einzubringen und moderne Technologien praktisch einzusetzen.
+ Dein Aufgabengebiet
+ Du entwickelst gemeinsam mit uns Automatisierungslösungen – von RPA über APIs bis zu Backend-Services und AI-gestützten Anwendungen
+ Du analysierst bestehende Prozesse, erkennst Automatisierungspotenziale und entwickelst technische Lösungsideen
+ Du verbindest Anwendungen und Plattformen über moderne Schnittstellen und entwickelst bestehende Automatisierungen weiter
+ Du testest deine Lösungen, analysierst Fehler und hilfst dabei, stabile und wartbare Automatisierungen aufzubauen
+ Du bekommst Raum, neue Technologien, Frameworks und Ansätze auszuprobieren und ihre Einsatzmöglichkeiten für unsere Automatisierungsplattform zu bewerten
+ Du arbeitest eng mit Entwicklern, Architekten und unseren Fachbereichen zusammen und übersetzt Anforderungen in technische Lösungen
+ Du
+ studierst Informatik, Wirtschaftsinformatik, Data Science oder einen vergleichbaren Studiengang
+ hast erste Erfahrung mit mindestens einer Programmiersprache wie Python, Java, JavaScript/TypeScript oder C#
+ hast vielleicht schon erste Berührungspunkte mit APIs, REST, JSON oder Backend-Entwicklung - wichtiger ist uns aber deine Lust, dich technisch weiterzuentwickeln
+ empfindest Docker, Kubernetes/OpenShift, Cloud, Git oder CI/CD als spannende Themen
+ interessierst dich für Automatisierung, RPA und Künstliche Intelligenz
+ denkst analytisch, arbeitest strukturiert und möchtest Verantwortung für eigene Themen übernehmen
+ hast bereits eigene Projekte gestartet – egal ob App, API, Bot, Homelab oder etwas ganz anderes
+ Bei uns
+ erhältst du Einblicke in modernste Automatisierungs- und KI-Themen und arbeitest an realen Projekten mit sichtbarem Erfolg
+ bekommst du von RPA über APIs und Backend bis Cloud und AI Einblick in unterschiedliche Bereiche moderner Automatisierung
+ unterstützen dich erfahrene Entwickler und Architekten bei deiner fachlichen Entwicklung
+ bekommst du Freiraum, Technologien auszuprobieren und eigene Lösungsideen einzubringen
+ möchten wir dich nicht nur für einen Studentenjob gewinnen, sondern dir die Möglichkeit geben, dich langfristig bei uns weiterzuentwickeln
+ kannst du bis zu 20 Stunden pro Woche während des Semesters arbeiten und mobiles Arbeiten im Rahmen unserer Regelungen ausschöpfen
+ Haben wir dein Interesse geweckt?
+ Dienstsitz/Einsatzort 
+Der gewöhnliche Einsatzort wäre Hamburg. Bitte sende uns deine vollständigen Bewerbungsunterlagen und gib deine Gehaltsvorstellung an. 
+ Hinweis zur Bewerbung 
+Bitte lade deine vollständigen Bewerbungsunterlagen (inkl. Zeugnisse und Zertifikate) über unser Bewerbermanagementsystem hoch. Nutze dazu gerne das Anschreiben-Feld und füge die Unterlagen in ein PDF zusammen. Alternativ kannst du auch erst dein Bewerberprofil anlegen und in einem zweiten Schritt weitere Dokumente hochladen. 
+ Bewerbungen per E-Mail können leider nicht berücksichtigt werden.
+ Die gesetzlich vorgesehenen Informationen im Zusammenhang mit der Verarbeitung von personenbezogenen Daten sowie die daraus resultierenden Rechte können unter https://www.signal-iduna.de/datenschutzinfo eingesehen werden.
+ SIGNAL IDUNA Gruppe 
+Neue Rabenstraße 15-19, 20354 Hamburg
+ Ansprechpartner: Aaron Luithle
+ Aus Gründen der leichteren Lesbarkeit wurde darauf verzichtet, die Formulierung jeweils geschlechtsspezifisch auszurichten. Die vollständige Gleichbehandlung aller Bewerber unabhängig von ihrer individuellen geschlechtlichen Zuordnung ist gewährleistet.

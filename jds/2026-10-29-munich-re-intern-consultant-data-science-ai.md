@@ -1,0 +1,46 @@
+URL: https://www.linkedin.com/jobs/view/4484475793
+Company: Munich Re
+Title: Intern Consultant Data Science and AI
+Found: 2026-10-29
+Posted: 2026-10-28
+
+URL: https://www.linkedin.com/jobs/view/4484475793
+TITLE: Intern Consultant Data Science and AI (m/f/d)*
+COMPANY: Munich Re
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-10-28
+title: Intern Consultant Data Science and AI (m/f/d)*
+company: Munich Re
+posted: 13 hours ago
+applicants: 51 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fintern-consultant-data-science-and-ai-m-f-d-at-munich-re-4484475793&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+The Data and Analytics division (DAA1) is Munich Re's hub for data, analytics, and AI-driven innovation. DAA1 leverages big data and artificial intelligence to drive decision-making and enhance operational efficiency.
+Within our division, the Insurance Analytics Platform team focuses on enabling and driving implementation of data, analytics, and AI solutions that turn complex tabular insurance data into reliable, business-relevant insights for internal and external clients. The team combines data engineering, data science, and analytics expertise to build scalable data products, analytical models, and reporting solutions that support data-driven decision-making across the business.
+ Your Job
+ Our department is looking for interns to support our highly motivated and ambitious team in driving the AI into the organization. Depending on your experience and preferences, various focus areas are possible
+ Participate in end-to-end data science projects, including the communication with shareholders, exploration of datasets, development of reports, and application of statistical or machine-learning methods to derive meaningful insights for business stakeholders
+ Implementation of use cases as part of our enablement support for business units – both “traditional data science” as well as generative AI
+ Collaborate with colleagues from business, analytics, and IT functions in an interdisciplinary environment, to contribute new ideas and perspectives on emerging topics in data, analytics, and artificial intelligence
+ Your Profile
+ Master’s studies (or final year of Bachelor's studies) with a strong academic record in a quantitative field like Computer Science, Data Science, Mathematics, Statistics, Engineering, or a related discipline incl. business administration/economics with a quantitative focus 
+ Passion for AI and Data Science with a solid theoretical foundation and methodology 
+ Strong analytical and problem-solving skills and an interest in working with complex datasets 
+ Structured, reliable and independent approach to work 
+ Good communication and presentation skills; consulting or project management experience is a plus
+ First experiences with putting AI and ML theory into practice, preferably in Python or R
+ Additional experience in software tools for data visualization, data engineering, data science and AI is a plus (tools such as PowerBI)
+ Highly motivated with a hands-on mentality 
+ Students from countries outside the EU require a German residence-/work permit. The first master's degree may not have been completed before/during the entire internship
+ About Us
+ As the world's leading reinsurance company with more than 16,000 employees at over 50 locations, Munich Re introduces a paradigm shift in the way you think about insurance. By turning uncertainty into a manageable risk we enable fundamental change. Join us working on topics today that will concern society tomorrow, whether that be climate change, major construction projects, medical risk assessment or even space travel.
+Together we embrace a culture where multiskilled teams dare to think big. We create the new and the different for our clients and cultivate innovation.
+Sounds like you? Push boundaries with us and be part of Munich Re. Our employees are our greatest strength. That’s why we offer them a wide range of benefits. You can find some examples below.
+ Unlock your potential
+ Diversity, Equity & Inclusion: we embrace the power of differences and are convinced that diversity fosters innovation and resilience and enables us to act braver and better.
+ Continuous Learning: we believe that continuous learning is a key differentiator and critical for building new skills and accelerating growth.
+ Career Mobility: we actively support career mobility, and our strong global and regional presence offers a wealth of career growth opportunities for you.
+ Münchener Rückversicherungs-Gesellschaft
+ Oksana Kern / Nina Hartmuth
+ Coordination Students Program
+ Munich Re not only stands for fairness with regard to its clients; it is also an equal opportunity employer. Severely disabled candidates will also be prioritised, if equally qualified.

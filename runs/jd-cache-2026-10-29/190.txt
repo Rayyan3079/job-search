@@ -1,0 +1,38 @@
+URL: https://www.linkedin.com/jobs/view/4279176986
+TITLE: Traineeprogramm Quantitative Models and Data Analytics (Mathematik, Physik, Statistik) (m/w/d)
+COMPANY: Bayerische Landesbank
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-10-22
+title: Traineeprogramm Quantitative Models and Data Analytics (Mathematik, Physik, Statistik) (m/w/d)
+company: Bayerische Landesbank
+posted: 6 days ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Ftraineeprogramm-quantitative-models-and-data-analytics-mathematik-physik-statistik-m-w-d-at-bayerische-landesbank-4279176986&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Wir alle haben als Kinder davon geträumt, Großes zu bewirken – ob als gute Feen, Stars im Rampenlicht oder Weltraumreisende im All. Höchste Zeit, dass diese Träume wahr werden!
+Dein Traumschiff? Die BayernLB! Bei uns steuern wir einer blühenden Zukunft entgegen und kämpfen als #Fortschrittsfinanzierer für die Welt von morgen. Unsere Feenflügel und Raumanzüge haben wir abgelegt. Nicht aber unsere Ziele. Denen sind wir näher denn je. Als Spezialbank fokussieren wir uns auf ausgesuchte Zukunftssektoren – national wie international. Wir verstehen unternehmerische Herausforderungen, finden optimale Lösungen und sind Partner auf Augenhöhe. Jeden Tag geben wir unser Bestes – für unsere Kunden und unsere Trainees.
+Du hast Dein Studium (bald) in der Tasche und bist bereit, Deinen Träumen nachzujagen? Mit unseren Traineeprogrammen geben wir Dir die Bühne, um Deine Karriere voranzutreiben. Worauf also noch warten? Bewirb Dich jetzt, komm an Bord und starte jeweils zu Beginn eines neuen Quartals in Deinen Traumjob.
+ Deine Mission
+ Tauche ein in die spannende Welt des Bankgeschäfts! Lerne fünf verschiedene Fachbereiche mit quantitativen Bezug unseres Hauses kennen - Du hast die freie Wahl!
+ Arbeite bei der (Weiter-)Entwicklung und Pflege von quantitativen Modellen der Banksteuerung (z.B. Kreditportfoliomodelle, VaR-Modelle für Marktpreisrisiken, XVA-Modelle, Pricing-Modell für Handelsprodukte, Liquiditätsrisiko-Modelle), der Konzeptionierung neuer Produkte sowie der zugehörigen Begleitung bei der Implementierung in den IT-Systemen der Bank mit
+ Beantworte mit quantitativen Modellen anspruchsvolle und komplexe Fragestellungen
+ Unterstütze bei der Prozessoptimierung bzw. Automatisierung des Regelbetriebs in den Gesamtbanksteuerungseinheiten (z.B. im Risikocontrolling oder im Treasury) oder im Handel sowie bei der strukturellen Analyse interner und externer Daten unter Nutzung moderner Analysesoftware (z.B. R, Python, Tableau, Ab Initio) sowie neuer fachlicher Methoden
+ Erhalte Einblicke in übergreifende Bankprojekte zur Harmonisierung der bankinternen Infrastruktur
+ Lerne eine unserer in- oder ausländischen Niederlassungen und/oder Konzerntochter (z.B. DKB AG) je nach Kapazität kennen
+ Baue umfassende Kenntnisse über das gesamte Bankengeschäft auf
+ Deine Superkräfte
+ Du hast einen überdurchschnittlichen Abschluss eines akademischen Hochschulstudiums (Bachelor oder Master) in Mathematik, Wirtschaftsmathematik, Statistik, Ökonometrie, Data Science, Physik, (Wirtschafts-) Informatik oder in einem vergleichbaren Studiengang
+ Du brennst für die Finanzbranche und bringst erste praktische quantitative Erfahrungen im Finanzsektor durch beispielsweise Praktika, Werkstudententätigkeiten, eine Berufsausbildung oder einschlägige Berufserfahrung mit
+ Du verfügst über gute Deutsch - und Englischkenntnisse (mind. B2 Niveau), weitere Fremdsprachenkenntnisse sind von Vorteil
+ Du bringst idealerweise Auslandserfahrung durch einen Auslandsaufenthalt oder ein Auslandspraktikum mit
+ Du begeisterst Dich für stetige Weiterentwicklung und Optimierung unserer Modelllandschaft unter modernen fachlichen und technischen Aspekten
+ Du bist eigeninitiativ und kommunikationsstark, hast Freude an der Teamarbeit und bringst Deine kreativen Ideen ein
+ Unser Antrieb: Dass Du Dich auf jeden neuen Arbeitstag freust
+ Unser Traumschiff Auf Kurs Zu Halten, Geht Nur Mit Glücklichen Mitarbeitenden. Sie Sind Unser Antrieb. Deshalb Bieten Wir Dir Unter Anderem
+ Eine individuelle Einsatzplanung unter Berücksichtigung Deiner Interessen
+ Einsatzmöglichkeiten in einer Niederlassung in Deutschland oder einem unserer Standorte im Ausland sowie unseren Konzerntöchtern
+ Auslandspraktikum über unsere Kooperation mit AIESEC
+ Möglichkeit an der Teilnahme an einem Mentoring Programm
+ Einen Sportclub am Englischen Garten
+ Und vieles mehr ...
+ Wir wertschätzen Vielfalt und setzen uns für Chancengleichheit ein. Daher begrüßen wir ausdrücklich alle Bewerbungen – unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion, Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität. Schwerbehinderte sowie diesen gleichgestellte Bewerbende werden bei im Wesentlichen gleicher Eignung sowie Befähigung unter Berücksichtigung aller Umstände besonders berücksichtigt.

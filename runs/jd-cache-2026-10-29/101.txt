@@ -1,0 +1,48 @@
+URL: https://www.linkedin.com/jobs/view/4477454397
+TITLE: Machine Learning Engineer
+COMPANY: RaySearch Laboratories
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-27
+title: Machine Learning Engineer
+company: RaySearch Laboratories
+posted: 1 day ago
+applicants: 151 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fse.linkedin.com%2Fjobs%2Fview%2Fmachine-learning-engineer-at-raysearch-laboratories-4477454397&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+RaySearch is expanding in the field of machine learning and is looking for a Machine Learning Engineer with strong software engineering skills to join our head office in Stockholm. In this role, you will have the opportunity to innovate and develop software that improves the lives of cancer patients around the world, while building the infrastructure, services, and developer tooling that enable machine learning solutions in the ML department to move efficiently from experimentation to clinical products used in cancer treatment worldwide.
+ About The Job
+ You will be part of an agile team developing machine learning solutions for radiation oncology. Our work spans areas such as image segmentation, image synthesis, treatment planning, dose prediction, and other deep learning applications within medical imaging and radiation therapy.
+You will
+Your day-to-day work will involve training, evaluating and operationalizing deep learning models. This includes analyzing results using clinical metrics and ensuring that predictions meet acceptance criteria. You will work with real clinical datasets and iterate closely with medical physicists and oncologists to validate model performance against clinical standards.
+The role combines machine learning research, experimentation and software development:
+ Develop state-of-the-art deep learning methods for medical imaging and radiation therapy. 
+ Work on problems involving 2D and 3D medical images, anatomical structures, treatment data, and multimodal clinical information
+ Design experiments, define appropriate evaluation methods, and analyze model behavior. 
+ Build and evaluate new architectures, training strategies, and research ideas and determine which approaches are worth bringing into our products
+ Work with large clinical datasets and develop reliable pipelines for training, validation, evaluation, and inference 
+ Collaborate closely with medical physicists, oncologists, researchers, product owners, and software engineers
+ Your profile
+You are someone who genuinely loves both ML and software engineering. You read papers, get excited about new architectures and training techniques, and have expertise in implementing them.
+You are autonomous and self-driven. Given a problem, you take ownership: you research the landscape, form a plan, and execute without needing to be guided through every step. You know when to dig deeper on your own and when to pull in a colleague. You are comfortable making decisions, and you communicate clearly about what you are doing and why.
+You contribute to a positive team atmosphere and take responsibility for your work. Above all, you care about building software that makes a meaningful impact for healthcare professionals and their patients.
+ Experience & Skills
+ Requierments
+ M.Sc. in Computer Science, Machine Learning, or equivalent 
+ Minimum 4 years of professional experience in software development, machine learning, or a related field 
+ Excellent understanding of machine learning techniques and algorithms 
+ Strong programming skills in Python with emphasis on writing clean, maintainable, production-quality code 
+ Solid software engineering practices: version control, code review, testing, CI/CD 
+ Experience using deep learning frameworks such as PyTorch 
+ Solid knowledge of data structures, algorithms, statistics, and applied mathematics 
+ Comfort working in large, collaborative code bases and contributing to shared architecture decisions 
+ Excellent spoken and written communication skills in English 
+ Meriting
+ Experience with medical image segmentation, registration, image synthesis, reconstruction, representation learning, or multimodal imaging. 
+ Contributions to open source projects 
+ Experience working in regulated or safety-critical software environments (e.g., medical devices, automotive)
+ Our Culture 
+At RaySearch, we share a passion for innovation and the fight against cancer. Our team consists of dedicated experts who strive to deliver exceptional results through collaboration, attention to detail, and cutting-edge technology. We take pride in our role as a leader in cancer treatment, developing solutions that truly make a difference for patients worldwide. 
+Our Offer 
+We offer a dynamic and inclusive work environment in Hagastaden, Stockholm’s Life Science Hub. Our modern office space includes an in-house gym, yoga classes, and social activities such as ping pong, table football, and after-work events. We also provide a fantastic lunch buffet, daily fika, and a stunning rooftop terrace with a 360-degree view of Stockholm. This comes with a competitive compensation and benefits package. 
+Application 
+Please apply for the position through the application form below. Selection and interviews will be ongoing. We do not accept applications via e-mail.

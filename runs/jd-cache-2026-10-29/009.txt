@@ -1,0 +1,48 @@
+URL: https://www.stepstone.de/stellenangebote--Customer-Data-Platform-Engineer-Salesforce-Data-Cloud-all-genders-Duesseldorf-Koeln-Hamburg-Frankfurt-Dortmund-Muenchen-Leipzig-Jena-Berlin-adesso-SE--13949326-inline.html
+TITLE: Customer Data Platform Engineer - Salesforce Data Cloud (all genders)
+COMPANY: adesso SE
+LOC: Düsseldorf, Köln, Hamburg, Frankfurt, Dortmund, München, Leipzig, Jena, Berlin
+POSTED: stepstone
+title: Customer Data Platform Engineer - Salesforce Data Cloud (all genders)
+company: adesso SE
+posted: 2026-10-28T23:38:36.627Z
+location: Düsseldorf | remote: 
+---
+Einleitung
+ Bei uns kommen AI-Kompetenz, Engineering-Exzellenz und fundiertes Branchenverständnis zusammen – getragen von Menschen, die gemeinsam etwas bewegen wollen. So entstehen zukunftsfähige Lösungen, die im Alltag unserer Kunden wirklich einen Unterschied machen. Das gelingt durch Menschen, die Verantwortung übernehmen, Chancen erkennen und technologische Möglichkeiten in greifbare Ergebnisse verwandeln. Dafür schaffen wir ein Umfeld, das von gegenseitiger Unterstützung geprägt ist: Raum für fachliche Weiterentwicklung, offene Communities, in denen Wissen gerne geteilt wird, Peer Groups und Trainingsangebote, die sich an dir orientieren. Vertrauen, Wertschätzung und gemeinsam gefeierte Erfolge prägen dabei unser Miteinander und machen Entwicklung zu etwas, das bei uns einfach dazugehört.
+ DEINE ROLLE
+ Beratung & Pre-Sales: Du begleitest Kunden bei der Einführung und Weiterentwicklung der Salesforce Data Cloud, du übersetzt Business-Ziele in Daten- und Aktivierungsstrategien und präsentierst Konzepte in Presales-Terminen.
+ Data Cloud Delivery & Implementierung: Du bist Expertin oder Experte in der Anbindung von Datenquellen und setzt Data Streams und Datenmodellierung um. Du veredelst Daten und lieferst sie bis zur Aktivierung in Zielsysteme.
+ Datenarchitektur & -integration: Du leitest Workshops zu Architektur und Datenmodellen, konzipierst ETL/ELT-Prozesse, harmonisierst Identitäten und stellst ein performantes Datenfundament sicher.
+ Identity & Consent Management: Du implementierst Identity Resolution und Matching-Regeln und gewährleistest eine datenschutzkonforme Verarbeitung und Governance.
+ Segmentierung & Activation: Du baust komplexe Kundensegmente, KPIs und Berechnungsfelder auf und aktivierst Daten für Journeys, Marketing Automation, Loyalty sowie externe Systeme.
+ Systemintegration, Betrieb & Innovation: Du integrierst die Data Cloud mit der Marketing Cloud, dem CRM, Data Lakes oder AdTech-Systemen. Außerdem etablierst du Monitoring-Prozesse und Maßnahmen zur Sicherung der Datenqualität. Du stellst einen stabilen Betrieb der Lösung sicher und bringst Best Practices sowie neue Features aktiv ins Team ein.
+ Ihr Profil
+ DEIN PROFIL 
+ Leidenschaft für Daten & Salesforce: Du brennst für Themen wie Datenintegration, Customer 360, Echtzeitdaten, Segmentierung und Activation und willst das volle Potenzial der Salesforce Data Cloud ausschöpfen.
+ Abgeschlossenes Hochschulstudium: Du bringst ein abgeschlossenes Studium in (Wirtschafts-)Informatik, Data Science oder einen vergleichbaren Abschluss mit.
+ Hands-on Salesforce-Erfahrung: Du hast praktische Projekterfahrung in der Salesforce Data Cloud oder vergleichbaren Technologien (z. B. CDP, Datenintegration, Data Warehousing). Alternativ bringst du fundierte Erfahrung mit Salesforce Core Cloud (Sales/Service Cloud, Custom Objects, Flows) mit und möchtest dich gezielt in Richtung Data Cloud entwickeln.
+ Technische Skills: Du kennst dich mit Datenmodellen, SQL, JSON, APIs und ETL-Prozessen aus; Erfahrung mit Salesforce Marketing Cloud oder Loyalty Cloud ist ein Plus.
+ Zertifizierungen : Erste Salesforce-Zertifizierungen (z. B. Data Cloud Consultant, Marketing Cloud, Platform App Builder) oder die Bereitschaft, diese zeitnah zu erwerben.
+ KI Kompetenz: Du setzt KI-Tools in deinem Fachgebiet souverän ein, bewertest die Ergebnisse kritisch und unterstützt Kunden und adessi dabei, Potenziale von KI zu nutzen.
+ Sprachkenntnisse: Sehr gute Deutsch- sowie gute Englischkenntnisse runden dein Profil ab.
+ DEINE BENEFITS
+ Bleib gesund und fit: Wir fördern die Gesundheit unserer adessi mit sportlichen Zuschüssen wie vergünstigten Fitnessmitgliedschaften, Übernahme Platzmiete für bspw. Badminton, Padel Tennis oder Fußball und regelmäßigen Vorsorgeuntersuchungen.
+ Finde deine Work-Life-Balance: Unser Auszeitprogramm und flexible Arbeitsmodelle helfen dir dabei, Beruf und Privatleben optimal in Einklang zu bringen.
+ Zeit für die Familie: Unser Ziel ist es, die beiden Welten – Familien- und Arbeitsleben – miteinander zu vereinen. Hierfür unterstützen wir unsere adessi bestmöglich mit zahlreichen Angeboten, wie z. B. Kinderferienbetreuung, Kita-Kooperationen, Eltern-Kind-Büros oder Events, bei denen die ganze Familie willkommen ist.
+ Lerne und wachse mit uns: Mit über 400 Trainingsangeboten und unserer digitalen Lernplattform unterstützen wir deine kontinuierliche Weiterentwicklung.
+ Erlebe echten Teamgeist: Gemeinsame Events, Welcome Days, Firmenläufe oder das Patensystem stärken unseren Zusammenhalt und lassen dich von Anfang an Teil des Teams sein.
+ Engagement, das belohnt wird: Dein Einsatz zahlt sich aus – mit Prämien für Empfehlungen, Vorträge, die Betreuung von Abschlussarbeiten sowie attraktiven Vergünstigungen über unser Corporate-Benefits-Portal.
+ Sei mobil und flexibel: JobRad-Angebote, Zuschüsse für das Deutschlandticket und die Möglichkeit, bis zu zwei Monate mobil aus dem EU-Ausland zu arbeiten, bieten dir maximale Flexibilität.
+ Sicher in deine Zukunft: Unser hauseigener, unabhängiger Versicherungsberater und -makler alleato hat für dich stets individuelle Lösungen für Altersvorsorge oder Krankenversicherung parat.
+ Weitere Informationen
+ Standort: 
+Düsseldorf, Köln, Hamburg, Frankfurt, Dortmund, Leipzig, München, Jena, Berlin
+ Flexibilität: 
+Hybrid, Vollzeit
+ Reisetätigkeit: 
+25 - 50%
+ Karrierelevel: 
+Professionals
+ Berufsfeld: 
+Salesforce, Cloud Technology

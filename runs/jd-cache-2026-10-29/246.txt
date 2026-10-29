@@ -1,0 +1,37 @@
+URL: https://www.xing.com/jobs/hamburg-werkstudent-bereich-it-administration-devops-153715401
+TITLE: Werkstudent im Bereich IT-Administration/DevOps (m/w/d)
+COMPANY: endios GmbH
+LOC: Hamburg
+POSTED: 2026-10-15
+title: Werkstudent im Bereich IT-Administration/DevOps (m/w/d)
+company: endios GmbH
+posted: 2026-10-15T20:38:54Z
+location: Hamburg | remote: 
+---
+Warum es die Rolle gibt
+ Die Unterstützung bei der Betreuung und Weiterentwicklung unserer Infrastruktur sowie bei operativen DevOps-Themen ist für einen stabilen und effizienten Betrieb essenziell. Um diese Aufgaben weiterhin zuverlässig abzudecken und unser Team nachhaltig zu entlasten, möchten wir die Stelle zeitnah neu besetzen. 
+ Das erwartet Dich bei uns
+ Du bist verantwortlich für die Büro IT-Infrastruktur von endios.
+ Installation, Konfiguration, Überwachung und Wartung von diverser Soft- und Hardware liegen in deiner Hand.
+ Du beteiligst Dich an der Verwaltung von Accounts und Benutzerrechten.
+ Du bist für die Mitarbeiter-Workstations (Apple) verantwortlich. Dies beinhaltet Einrichtung, Verwaltung, Wartung und Flotten-Management.
+ Du bist für die Gewährleistung der IT-Sicherheit unserer Büro-Infrastruktur mitverantwortlich.
+ Du fungierst als erste/-r Ansprechpartner/-in für Kollegen/-innen bezüglich technischer Fragen und Support.
+ Du hast ein Auge auf aktuelle Vorgänge in der Welt der IT – entsprechend informierst Du Deine Kollegen/-innen über relevante Entwicklungen und/oder Probleme.
+ Du beteiligst Dich in der Research-Phase beim Aufbau neuer Komponenten oder Erweiterungen in der technischen Infrastruktur
+ Du unterstützt das Backendteam bei DevOps Tätigkeiten.
+ Das bringst Du mit
+ Du studierst aktiv in einem Studiengang mit IT-Bezug (Informatik, Computer Science etc.).
+ Du bringst erste Erfahrungen im Bereich IT/ IT-Administration mit.
+ Du verfügst über ein grundlegendes Verständnis und Vokabular gängiger IT-Technik.
+ Du hast idealerweise bereits Erfahrung im Umgang mit macOS oder Linux und hast schon mal die Kommandozeile benutzt.
+ Du bringst optimalerweise erste Erfahrungen im Umgang mit Microsoft Office & Microsoft365, Rechnernetzwerken mit.
+ Du bist ein Teamplayer, zeichnest Dich durch sehr gute Kommunikationsfähigkeiten aus und bist neugierig darauf neue Dinge zu lernen.
+ Du bist verantwortungsbewusst und verfügst über eine eigenverantwortliche und lösungsorientierte Arbeitsweise.
+ Du verfügst über sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift.
+ Warum endios
+ Du hast die Möglichkeit, Dich in einem wachsenden Unternehmen in einer dynamischen Branche frei zu entfalten, die Zukunft mitzugestalten und Dich kontinuierlich weiterzuentwickeln.
+ Du übernimmst von ersten Tag an Verantwortung und nutzt unsere kurzen, schnellen Entscheidung um aktiv mitzugestalten.
+ Du bist Teil einer lebendigen Kultur, in der das "Wir" zählt. Ob im modernen Hamburger Office oder bei unseren regelmäßigen Team-Events – bei uns findest Du Kollegen, die Lust haben, gemeinsam etwas zu bewegen und dabei den Spaß nicht zu kurz kommen lassen.
+ Du arbeitest flexibel und selbstbestimmt. Mit flexiblen Arbeitszeiten und der freien Wahl zwischen Remote und Office gibst Du Deinem Leben den Takt vor.
+ Du profitierst von einem Paket, das Deine Leistung wertschätzt. Neben einer wettbewerbsfähigen Vergütung bieten wir Dir Benefits, die zählen und vor allem ein Umfeld, in dem Du Dich langfristig wohlfühlst und weiterentwickeln kannst.

@@ -1,0 +1,31 @@
+URL: https://www.linkedin.com/jobs/view/4476320360
+TITLE: SAP Analytics Cloud Anwendungsbetreuer | SAC, SAP Datasphere | bis 80T€, bis 80% Home-Office (mwd)
+COMPANY: Vesterling AG
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-27
+title: SAP Analytics Cloud Anwendungsbetreuer | SAC, SAP Datasphere | bis 80T€, bis 80% Home-Office (mwd)
+company: Vesterling AG
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fsap-analytics-cloud-anwendungsbetreuer-sac-sap-datasphere-bis-80t%25E2%2582%25AC-bis-80%2525-home-office-mwd-at-vesterling-ag-4476320360&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+SAP Analytics Cloud Anwendungsbetreuer (mwd)
+ Unterstützung der Logistik-Bereiche bei der Auswertung der umfangreichen Logistik-Daten. Sie bauen das Data Warehouse dazu auf und aus und erstellen komplexe Reportings. 
+ Standort: Bruchsal
+ Vertragsart: Unbefristete Festanstellung durch unseren Klienten
+ Aufgaben
+ Als SAP Analytics Cloud Anwendungsbetreuer gestalten und betreiben Sie moderne Datenlösungen auf Basis von SAC mit DWH-, BI- und Big-Data-Technologien.
+ Sie analysieren Anforderungen, entwickeln leistungsfähige ETL-Prozesse und realisieren Reporting-, Analyse- und Dashboard-Lösungen für unterschiedliche Unternehmensbereiche.
+ Dabei erstellen Sie Standard-, ad-hoc- und Analyse-Reports zu logistischen und betriebswirtschaftlichen Fragestellungen und beraten das Management bei datenbasierten Entscheidungen.
+ Darüber hinaus wirken Sie maßgeblich an der unternehmensweiten Einführung von SAP Datasphere sowie der Weiterentwicklung der SAP Analytics Cloud mit.
+ Ihr Profil
+ Mehrjährige Berufserfahrung im Umfeld SAC und SAP Datasphere
+ Erfahrung in Datenintegration und Datenvisualisierung
+ Gute Deutsch- und Englischkenntnisse
+ Benefits
+ In diesem Unternehmen wird auf die Eigenverantwortung der Mitarbeiter gesetzt und diese gefördert. Sie können selbst viel mitgestalten. Gefragt ist Pragmatismus und es gibt kaum Hierarchien.
+Sie werden von der echten Wertschätzung für Ihre Arbeit positiv überrascht sein!
+Unser Klient ist ein weltweit tätiger Logistikpartner mit jahrzehntelanger Geschichte. Mit einem enormen Wachstumspotenzial und den Zielsetzungen für Ökologie und Nachhaltigkeit wird sich diese noch lange fortsetzen.
+Machen Sie Ihren nächsten Karriereschritt und bewerben Sie sich gleich hier oder senden Sie uns Ihre vollständigen Bewerbungsunterlagen mit Angabe der Referenznummer 23719 , Ihrer Gehaltsvorstellungen sowie ggf. Ihrer Reise- und Umzugsbereitschaft (Ein Anschreiben ist nicht erforderlich).
+Ihre Daten werden von uns niemals ohne Ihre explizite Zustimmung für jeden Einzelfall weitergeleitet. Wir garantieren eine Rückmeldung innerhalb von 2 Arbeitstagen.
+Vesterling ist seit über 25 Jahren einer der führenden Personaldienstleister im Bereich Technologie. Schwerpunkte der Tätigkeit sind das Recruiting von Experten bis hin zum Executive Search auf Vorstandsebene sowie das Outplacement. Unsere Consultants, selbst erfahrene Informatiker und Ingenieure, beraten Sie in allen Karrierefragen und unterstützen Sie bei der Auswahl geeigneter Positionen.

@@ -1,0 +1,40 @@
+URL: https://www.linkedin.com/jobs/view/4448143027
+TITLE: Praktikant / Werkstudent Data Analytics - Innovation & Transformation (m/w/d) in München
+COMPANY: Deloitte
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-10-27
+title: Praktikant / Werkstudent Data Analytics - Innovation & Transformation (m/w/d) in München
+company: Deloitte
+posted: 1 day ago
+applicants: 171 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikant-werkstudent-data-analytics-innovation-transformation-m-w-d-in-m%25C3%25BCnchen-at-deloitte-4448143027&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Deloitte bietet führende Prüfungs- und Beratungsleistungen in Audit & Assurance, Tax & Legal, Consulting und Advisory - für nahezu 90 % der Fortune Global 500® und zahlreiche private Unternehmen. Wir liefern innovative Denkansätze, lösen komplexe Herausforderungen und fördern nachhaltiges Wachstum. Mit rund 470.000 Mitarbeitenden weltweit eröffnen wir hervorragende Karrierechancen - getragen von einem starken „Wir“ und einer Vielfalt an Perspektiven und Fähigkeiten.
+Du möchtest im Bereich Audit & Assurance – AI & Innovation Office mit innovativen Technologien und dem Einsatz Künstlicher Intelligenz die Zukunft unserer Prüfungs- und Beratungsleistungen aktiv mitgestalten? Unser Team entwickelt zukunftsweisende Lösungen, treibt die digitale Transformation voran und hebt die Qualität unserer Services auf ein neues Level. Sichere unseren gemeinsamen Erfolg und mach mit uns den Unterschied als Praktikant / Werkstudent Data Analytics – Innovation & Transformation (m/w/d) .
+Standorte: Frankfurt (Main) , Hamburg und München .
+ Dein Impact:
+ Als Praktikant / Werkstudent Data Analytics – Innovation & Transformation (m/w/d) unterstützt du unser Team bei der Entwicklung moderner Analytics- und BI-Lösungen und erhältst Einblicke in datengetriebene Transformationsprojekte.
+ BI-Lösungen: Du unterstützt bei Datenmodellierung, der Umsetzung von ETL-Prozessen sowie der Entwicklung erster BI-Komponenten – von der Datenquelle bis zum fertigen Reporting.
+ Visualisierung: Du arbeitest mit an der Entwicklung interaktiver Dashboards in Power BI mit und hilfst dabei, komplexe Sachverhalte klar und verständlich darzustellen.
+ Innovation: Du beobachtest aktuelle Trends und Entwicklungen zu Künstlicher Intelligenz, Cloud-Technologien und modernen Analyse-Tools und bringst neue Ideen ins Team ein.
+ Datenprozesse: Du wirkst bei der Aufbereitung, Bereinigung und Transformation von Daten (ETL) mit und trägst zu zuverlässigen Datenprozessen bei.
+ Qualitätssicherung: Du testest BI-Komponenten, validierst Analyseergebnisse und hilfst bei der strukturierten Dokumentation von Analyseergebnissen.
+ Dein Skillset:
+ Studium: (Wirtschafts-)Informatik, Data Science, Wirtschaftswissenschaften oder in einem ähnlichen Studienfach
+ Datenaffinität & BI-Interesse: Erste Kenntnisse in Python oder SQL, Power BI, Tableau o. Ä. sind von Vorteil
+ Analytisches Denken: Du arbeitest strukturiert und erkennst Muster in Daten
+ Agile Methoden: Du hast Interesse an agilen Arbeitsweisen
+ Kommunikationsstärke: Du kannst Inhalte klar aufbereiten und vermitteln – auf Deutsch und Englisch.
+ Deine Chance:
+ Echte Verantwortung für eigene Aufgabenpakete innerhalb unserer Projekte, die du selbständig bearbeitest
+ Persönliche:r Mentor:in in deinem Team, der/die dir mit Rat und Tat zur Seite steht und dich mit umfassendem Know-how unterstützt
+ Ein chancenreiches und internationales Umfeld, das dir einmalige Einblicke in die Arbeit des weltweit größten Prüfungs- und Beratungsunternehmens bietet
+ Work-Life-Balance in einem innovativen Unternehmensumfeld, das dir Gesundheitstage, Mitarbeiter:innen-Events und vieles mehr bietet
+ Bereichsübergreifendes Networking im Deloitte Student Network mit exklusiven Vorträgen und regelmäßigem Austausch beim Praktikant:innen-Stammtisch
+ Vielfältige Gestaltungsspielräume und aktive Förderung einer inklusiven Unternehmenskultur – u. a. durch unsere Diversity & Inclusion Mitarbeiter:innen-Netzwerke
+ Bist du bereit? Mach mit uns den Unterschied!
+ Unser Recruiting-Team freut sich auf deine Bewerbungsunterlagen (CV sowie Abitur-, Hochschul- und Arbeitszeugnisse) über unser Online-Formular. Ein Anschreiben und ein Bewerbungsfoto sind bei uns nicht erforderlich.
+ Gleiche Chancen für alle: Wir freuen uns über Bewerbungen von Menschen, die so vielfältig sind wie wir – unabhängig von Alter, Behinderung, ethnischer Herkunft und Nationalität, Geschlecht, Religion, sexueller Orientierung oder sozialer Herkunft. Noch Fragen? Alle Infos zu unserem Bewerbungsprozess findest du in unseren Bewerbungs-FAQs .
+ Dein Kontakt bei Fragen rund um Karrierethemen
+ Unser Team Talent Acquisition – Aleksandra, Anja, Julia, Lea, Lisa, Silja und ihre Teams – unterstützt dich gerne bei allen Fragen rund um deine Karriere bei Deloitte. Du erreichst uns per E-Mail unter career@deloitte.de oder telefonisch unter +49 211 87724111.
+Job-ID: 50313

@@ -1,0 +1,68 @@
+URL: https://www.linkedin.com/jobs/view/4474981888
+TITLE: Werkstudent / Praktikum (all genders) - Künstliche Intelligenz & Datenanalyse
+COMPANY: Philips
+LOC: Hamburg, Hamburg, Germany
+POSTED: 2026-10-28
+title: Werkstudent / Praktikum (all genders) - Künstliche Intelligenz & Datenanalyse
+company: Philips
+posted: 19 hours ago
+applicants: 189 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-praktikum-all-genders-k%25C3%25BCnstliche-intelligenz-datenanalyse-at-philips-4474981888&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Title
+Werkstudent / Praktikum (all genders) - Künstliche Intelligenz & Datenanalyse
+ Job Description
+ In dieser Rolle hast du die Möglichkeit
+ die digitale Transformation in einem innovativen Fertigungsumfeld aktiv mitzugestalten. Du unterstützt unsere Teams dabei, das Potenzial von Künstlicher Intelligenz für Analysen, Automatisierungen und datenbasierte Entscheidungen nutzbar zu machen. Dabei arbeitest Du an realen Anwendungsfällen und entwickelst Lösungen, die Informationen aus verschiedenen Quellen zusammenführen, Kennzahlen transparent darstellen und den Arbeitsalltag effizienter machen.
+ Deine Aufgaben
+ Entwicklung, Erprobung und Optimierung von KI-gestützten Anwendungen für operative und strategische Fragestellungen
+ Erstellung und Weiterentwicklung wirkungsvoller Prompts für verschiedene KI-Systeme und Anwendungsfälle
+ Analyse von Produktions-, Qualitäts- und Prozessdaten mithilfe geeigneter KI- und Analysetools
+ Verknüpfung mehrerer Tools und Datenquellen zur automatisierten Informationsbeschaffung und -aufbereitung
+ Entwicklung und Visualisierung aussagekräftiger KPIs, Dashboards und Management-Reports
+ Identifikation von Automatisierungs- und Verbesserungspotenzialen in bestehenden Prozessen
+ Unterstützung bei Pilotprojekten rund um Generative AI, digitale Assistenten, Agenten und automatisierte Workflows
+ Dokumentation von Lösungen, Best Practices und Prompts sowie Erstellung verständlicher Anleitungen für Anwender
+ Enge Zusammenarbeit mit Kolleginnen und Kollegen aus Fertigung, Digitalisierung und weiteren Fachbereichen
+ Super, wenn du Folgendes mitbringst
+ Laufendes Studium im Bereich Informatik, Data Science, Wirtschaftsinformatik, Künstliche Intelligenz, Ingenieurwissenschaften oder in einem vergleichbaren Studiengang
+ Erste praktische Erfahrungen mit KI-Systemen wie Microsoft Copilot, ChatGPT, Claude, Gemini oder vergleichbaren Anwendungen
+ Gutes Verständnis von Prompt Engineering
+ Erfahrung in der Erstellung agentischer Workflows
+ Erste Erfahrung in der Analyse, Aufbereitung und Visualisierung von Daten sowie im Umgang mit Kennzahlen
+ Grundkenntnisse in Power BI, Excel, Power Automate, Python, SQL oder vergleichbaren Analyse- und Automatisierungstools sind von Vorteil
+ Interesse an der Verknüpfung von Tools, Datenquellen, Schnittstellen und automatisierten Workflows
+ Fähigkeit, die Qualität und Plausibilität KI-generierter Ergebnisse kritisch zu prüfen
+ Grundverständnis für verantwortungsvollen KI-Einsatz, Datenschutz, Informationssicherheit und den sorgfältigen Umgang mit vertraulichen Daten
+ Analytische, strukturierte und lösungsorientierte Denkweise sowie Freude daran, komplexe Informationen verständlich aufzubereiten
+ Eigeninitiative, Lernbereitschaft und Neugier, neue Technologien selbstständig zu testen und weiterzuentwickeln
+ Kommunikationsfähigkeit und Freude an der Zusammenarbeit mit unterschiedlichen Fachbereichen
+ Sehr gute Deutsch- oder Englischkenntnisse
+ Idealerweise kannst du erste praktische KI-Projekte nachweisen, zum Beispiel aus Studienprojekten, Praktika, Hackathons, eigenen Anwendungen oder einem Projektportfolio.
+ Das bieten wir Dir
+ Gehalt Werkstudent*in: abhängig von Deiner beruflichen Erfahrung und Deinem aktuellen Studium liegt Dein Gehalt bei 15 €/h oder 17 €/h
+ Gehalt Praktikum: abhängig von der Art des Praktikums
+ Freiwilliges Praktikum länger als 3 Monate: 2.117€ für eine 35-Stunden-Woche
+ Pflichtpraktikum: das Gehalt liegt zwischen 
+ 900 € (Bachelorabschluss) 
+ 1.000 € (Masterabschluss)
+ Mobilität: Subventioniertes Deutschlandticket 
+ Jahresurlaubsanspruch: 30 Tage 
+ Philips Learning & Development: Breites Angebot an fachlichen Trainings und für die Persönlichkeitsentwicklung 
+ Flexibilität: Passe Deine Arbeitszeit optimal an Deine Vorlesungszeiten an 
+ Gesundheit: Diverse Angebote im Bereich physischer und mentaler Gesundheit (inkl. betriebsärztliche Betreuung) und Sportkurse 
+ Verpflegung: Kostenlose Getränke und günstige Preise in unserer Kantine und unserem Café  
+ Philips MyShop: vergünstigte Philips Produkte & Corporate Benefits
+ Purpose: Gemeinsam mit einem tollen Team sinnstiftend arbeiten 
+ Kultur: Duz-Kultur, diverse Team-/Kulturaktionen (zu Nachhaltigkeit, Vielfalt, …), etc. 
+ Wie wir zusammenarbeiten  
+Wir glauben, dass wir bessere Ergebnisse erzielen, wenn wir zusammen statt getrennt arbeiten. Für unsere Office-Teams bedeutet dies, mindestens 60 Prozent Deiner Arbeitszeit im Büro zu verbringen. 
+ Über Philips  
+Bei Philips steht das Wohl aller Menschen an erster Stelle. Als Unternehmen für Gesundheitstechnologie sind wir fest davon überzeugt, dass jeder Mensch eine erstklassige Gesundheitsversorgung verdient. Die Gewährleistung von Patientensicherheit und Qualität ist oberste Priorität in unserer täglichen Arbeit. Dieser Überzeugung folgen wir jeden Tag und engagieren uns leidenschaftlich dafür.  
+Möchtest auch Du den Job Deines Lebens machen und das Leben anderer verbessern? Dann komm zu uns.   
+ Mehr über unser Business erfährst du hier.  
+ Entdecke die Meilensteine unserer bewegten Geschichte.  
+ Erfahre mehr über unsere Vision. 
+ Wenn Du an diesem Job interessiert bist, bewirb Dich, auch wenn Du noch nicht alle Anforderungen erfüllst. Vielleicht bist gerade Du genau richtig für diesen oder einen anderen Job bei Philips.  
+Wir bei Philips fördern Chancengleichheit. Alle qualifizierten Kandidat*innen werden unabhängig von Hautfarbe, Religion, Alter, Geschlecht, sexueller Orientierung, nationaler Herkunft, Glaube, Staatsbürgerschaft, Behinderung oder Familienstand gleichermaßen in unserem Auswahlprozess berücksichtigt. Erfahre mehr über unser Engagement für Diversität und Inklusion. 
+ICE

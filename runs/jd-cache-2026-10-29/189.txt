@@ -1,0 +1,32 @@
+URL: https://www.linkedin.com/jobs/view/4481015343
+TITLE: Abschlussarbeit/Pflichtpraktikum im A-LAB im Bereich: Deep-Learning Performance Analyse eines KI-Systems (m/w/d)
+COMPANY: TKMS ATLAS ELEKTRONIK GmbH
+LOC: Bremen, Bremen, Germany
+POSTED: 2026-10-24
+title: Abschlussarbeit/Pflichtpraktikum im A-LAB im Bereich: Deep-Learning Performance Analyse eines KI-Systems (m/w/d)
+company: TKMS ATLAS ELEKTRONIK GmbH
+posted: 5 days ago
+applicants: 26 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fabschlussarbeit-pflichtpraktikum-im-a-lab-im-bereich-deep-learning-performance-analyse-eines-ki-systems-m-w-d-at-tkms-atlas-elektronik-gmbh-4481015343&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Aufgaben
+Du untersuchst systematisch mehrere Einflussfaktoren auf die Performance unseres KI-Modells:
+ Einfluss der Objektdichte: Wie wirkt sich die Anzahl der Objekte pro Bild auf die KI aus?
+ Sensor-spezifische Domain-Adaptation: Welchen Effekt hat der verwendete Sensor auf das Training?
+ Einfluss der Daten-Prozessierung: Wie verändert die Vorverarbeitung der Daten die Leistung der KI?
+ Deine Ergebnisse dokumentierst du im Rahmen deiner Abschlussarbeit/ Praktikumsbericht.
+Profil
+ Du belegst ein Studium einem MINT Fachgebiet, wie Informatik, Data Science, Maschinelles Lernen/KI, Mathematik, Physik oder vergleichbar.
+ Du verfügst über sehr gute Python Programmierkenntnisse und hast bereits erste Erfahrung im Bereich Machine Learning oder Deep Learning gesammelt.
+ Du kannst dich eigenständig in neue Themen einarbeiten.
+ Du hast eine hohe Bereitschaft dich in dem Team des A-LABs einzubringen und das Studierendenlabor in einem interdisziplinären Umfeld aktiv zu gestalten.
+ Du kommunizierst sehr gut in Deutsch und/oder Englisch in Wort und Schrift.
+ Das bieten wir
+Durch das A-LAB bietet TKMS ATLAS ELEKTRONIK Promovierenden und Studierenden die Chance, in einem agilen Umfeld mit einem interdisziplinären Team an wissenschaftlichen Themen mit hohem Anwendungsbezug zu arbeiten. Im Rahmen Ihrer Promotion bekommen Sie im A-LAB die Möglichkeit, gemeinsam mit Studierenden an Ihrem wissenschaftlichen Thema zu arbeiten. Durch das Promotionsprogramm der TKMS ATLAS ELEKTRONIK werden Sie sowohl technisch, fachlich als auch mit Expertise im Promotionsverfahren mit einer jeweils zu bestimmenden Universität unterstützt.
+TKMS ATLAS ELEKTRONIK bietet Ihnen ein beispielhaftes Weiterbildungsangebot. Darüber hinaus eröffnen sich Ihnen zahlreiche Chancen und hervorragende Karrieremöglichkeiten, nicht zuletzt durch die Anbindung an thyssenkrupp. Zeitgemäße Leistungen wie Sportangebote, Gesundheitsförderung und unser modernes und hochflexibles Arbeitszeitmodell sind weitere selbstverständliche Angebote - neben einem sicheren Arbeitsplatz.
+Unternehmen
+Das ATLAS-Labor (A-LAB) für Studierende und Promovenden beschäftigt sich mit maritimen Technologien von Morgen. In einem Team aus jungen motivierten Mitarbeiterinnen und Mitarbeitern bekommen Sie die Chance, durch Unterstützung und in enger Abstimmung mit unseren Experten, Ihr Forschungs- und Entwicklungsthema voran zu treiben.
+TKMS ATLAS ELEKTRONIK GmbH steht für maritime Sicherheit. Seit Jahrzehnten unterstützen wir als führendes Systemhaus für maritime Elektronik Marinen auf der ganzen Welt, die See sicherer zu machen. Unseren Kunden bieten wir ein breites Angebot u. a. an Sonaren und Sensoren, Führungssystemen für unbemannte Unterwasserfahrzeuge, U-Boote und Überwasserschiffe, Minenabwehrsystemen sowie Funk- und Kommunikationsanlage.
+Kontakt
+Alena Telch
+Talent Acquisition Partner

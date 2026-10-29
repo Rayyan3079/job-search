@@ -1,0 +1,50 @@
+URL: https://www.linkedin.com/jobs/view/4483671319
+TITLE: Business Intelligence (BI) Developer
+COMPANY: Amadeus
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-27
+title: Business Intelligence (BI) Developer
+company: Amadeus
+posted: 1 day ago
+applicants: 63 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fpt.linkedin.com%2Fjobs%2Fview%2Fbusiness-intelligence-bi-developer-at-amadeus-4483671319&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Title
+ Business Intelligence (BI) Developer
+ Summary
+ We are looking for a talented Business Intelligence (BI) Developer to join our team and help transform data into meaningful insights that support better business decisions. Working closely with business and technical stakeholders, you will develop reliable and user-friendly BI solutions, improve how data is integrated and accessed, and help turn complex information into clear, actionable insights.
+ Key Responsibilities
+ Design, develop and maintain dashboards and reports using Power BI and Qlik
+ Translate business requirements into effective BI and reporting solutions
+ Develop and optimize SQL queries, stored procedures and database structures
+ Create Python scripts for data transformation, automation and integration
+ Build and maintain ETL processes, ensuring data accuracy and consistency
+ Collaborate with business and technical stakeholders to understand reporting and analytical needs
+ Ensure the quality, reliability and performance of reporting solutions
+ Contribute to improvements in data architecture, BI standards and best practices
+ Identify opportunities to improve efficiency and automate data and reporting processes
+ About The Ideal Candidate
+ Strong experience with SQL and relational databases such as SQL Server, Oracle or PostgreSQL
+ Hands-on experience with Power BI, including DAX, Power Query and data modelling
+ Experience with QlikView and/or Qlik Sense, including scripting, data loading and dashboard development
+ Good knowledge of Python for data manipulation and automation
+ Experience with ETL and data integration processes
+ Strong analytical and problem-solving skills
+ Ability to translate business needs into effective technical solutions
+ Comfortable collaborating with both technical and non-technical stakeholders
+ Experience with cloud platforms such as Azure, AWS or Google Cloud Platform is a plus
+ Knowledge of data warehousing concepts is an advantage
+ Experience with Git or other version-control tools is a plus
+ What We Can Offer You
+ 🌎 A truly global DNA - Everything at Amadeus is global, from our people to our business, which translates into our footprint, processes, and culture.
+🎓 Great opportunities to learn - Learning happens all the time and in many ways at Amadeus, through on-the-job training, formal learning activities, and day-to-day interactions with colleagues.
+🤗 A caring environment - Amadeus fosters a caring environment, nurturing both a fulfilling career and personal and family life. We care about our employees and strive to provide a supportive work environment.
+🌟 A hybrid working model - We want our employees to do their best work, however the hybrid model works best for them.
+🌈 A diverse and inclusive community - We are committed to leveraging our uniquely diverse population to drive innovation, creativity, and collaboration across our organization.
+📈 A Reliable Company - Trust and reliability are fundamental values that drive our actions and shape long-lasting relationships with our customers, partners, and employees.
+🎯 A critical mission and purpose - At Amadeus, you will be powering the future of travel and pursuing a critical mission and extraordinary purpose.
+ Diversity & Inclusion
+ Amadeus aspires to be a leader in Diversity and Inclusion in the tech industry, enabling every employee to reach their full potential by fostering a culture of belonging and fair treatment, attracting the best talent from all backgrounds, and as a role model for an inclusive employee experience. 
+Amadeus is an equal opportunity employer and committed to an accessible recruitment process. All qualified applicants will receive consideration for employment without regard to gender, race, ethnicity, sexual orientation, age, beliefs, disability or any other characteristics protected by law.
+ Be aware of recruitment scams
+ Amadeus Group never charges fees, requests payment, or asks for financial information during recruitment. All legitimate opportunities are communicated solely through official Amadeus channels, including our careers website. Any payment request or outreach via unofficial platforms (e.g., WhatsApp, Telegram) should be treated as fraudulent.

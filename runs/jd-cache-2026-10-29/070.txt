@@ -1,0 +1,71 @@
+URL: https://www.stepstone.de/stellenangebote--Quereinstieg-SAP-Developer-m-w-d-bundesweit-Home-Office-Academic-Work-Germany-GmbH-Muenchen--14688624-inline.html
+TITLE: Quereinstieg SAP Developer (m/w/d)
+COMPANY: Academic Work Germany GmbH München
+LOC: bundesweit, Home-Office
+POSTED: stepstone
+title: Quereinstieg SAP Developer (m/w/d)
+company: Academic Work Germany GmbH München
+posted: 2026-10-27T09:45:00.56Z
+location: bundesweit | remote: 
+---
+Einleitung
+ Entwickle Lösungen. Nicht nur Codes. SAP ist die führende Software, mit der Unternehmen weltweit ihre zentralen Geschäftsprozesse steuern. Von Finanzen über Energieversorgung bis zur öffentlichen Verwaltung. Als SAP Developer (m/w/d) greifst du mit deinem Code direkt in diese Kernabläufe ein, entwickelst innovative Anwendungen und gestaltest die digitale Transformation aktiv mit.
+ Bereite dich auf deine Karriere vor - dein erfolgreicher Trainingsabschluss ist der direkte Türöffner für deinen Einstieg bei der Natuvion GmbH!
+ SAP-Vorerfahrung? Nicht nötig. Deine Motivation und dein Potential zählen! 
+ Über die Position 
+ Hierbei handelt es sich um ein Training basierend auf dem Prinzip des Accelerated Learning – einer intensiven, praxisnahen Lernmethode mit hohem Tempo, kurzen Theorieeinheiten und starkem Fokus auf Feedback und praktische Anwendungen.
+ Dein Trainingsverlauf: Gemeinsame Basis & drei individuelle SAP-Spezialisierungen. 
+Das Training vermittelt essenzielle SAP-Kenntnisse und praxisnahe Development Fähigkeiten:
+ Das SAP System – Kernprozesse & Systemarchitektur
+ Backend-Developmen t: SAP ABAP OO Programmierung
+ SAP ABAP Test Driven Development
+ Frontend-Development : SAP Fiori
+ Entwicklungsumgebungen, Schnittstellen & Erweiterungen
+ Vertiefung in einem der Schwerpunktbereiche:
+ –  SAP FI/CO (Finanzwesen) 
+ –  SAP IS-U (Energiewirtschaft) 
+ –  SAP PSCD (Öffentlicher Sektor) 
+ Du entscheidest bereits im Rekrutierungsprozess, welches Vertiefungsmodul du absolvieren möchtest. 
+ Das Training umfasst  3,5 Wochen Prestudies und 14 intensive Wochen Training . Nach erfolgreichem Abschluss erwartet dich eine  feste Anstellung  bei Academic Work und ein direkter Einsatz bei unserem Partnerunternehmen Natuvion .
+ Wichtig: Während der Ausbildung (01.02.27 - 31.05.27) wird kein Gehalt gezahlt. Dafür übernehmen wir deine gesamten Trainingskosten. Bitte mache dir frühzeitig Gedanken zu der Finanzierung deiner Lebensunterhaltskosten während des Trainings. 
+  Deine Vorteile auf einen Blick 
+ Übernahme der Trainingskosten: Das gesamte Intensivtraining ist für dich kostenfrei.
+ Attraktive Einstiegschance: Unbefristeter Arbeitsvertrag mit Academic Work und direkter Kundeneinsatz bei Natuvion.
+ Garantiertes Gehalt: während dem ersten Jahr beim Kundeneinsatz 42.000 Euro Jahresbrutto (zzgl. Urlaubs- u. Weihnachtsgeld).
+ Volle Flexibilität: 100 % Homeoffice möglich oder Arbeiten vor Ort in den modernen Büros von Natuvion (München, Berlin, Walldorf, Leipzig).
+ Persönliches Mentoring: Dein Consultant Manager von Academic Work begleitet, coacht und unterstützt dich sowohl während des Trainings als auch bei deinem Quereinstieg in den Berufsalltag.
+ Deine Aufgaben
+    Nach erfolgreich absolviertem Programm ... 
+ entwickelst und erweiterst du maßgeschneiderte SAP-Lösungen und Anwendungen (Backend mit ABAP OO / Frontend mit Fiori) in deinem gewählten Schwerpunkt ( FI/CO , IS-U oder PSCD ).
+ begleitest du spannende Kundenprojekte rund um Datenmigration, Reorganisation und die Transformation auf moderne Systeme wie SAP S/4HANA.
+ analysierst du bestehende Unternehmensprozesse, behebst Fehler im Code und optimierst Schnittstellen für einen reibungslosen Ablauf.
+ bringst du eigene Ideen ein und entwickelst interne Produkte weiter.
+ arbeitest du eng mit erfahrenen Consultants und Entwicklerteams zusammen und wächst Schritt für Schritt in anspruchsvolle Entwickleraufgaben hinein.
+ Anforderungen
+ Gewissenhafte, verantwortungsbewusste Arbeitsweise , ein ausgeprägtes logisch-analytisches Denkvermögen sowie echte Lern- und Veränderungsbereitschaft
+ Fließende Deutsch- und Englischkenntnisse (min. C1)
+ Ca. 20–30 % Reisebereitschaft (für gelegentliche Team- oder Kundenmeetings)
+ Eine gültige Arbeitserlaubnis 
+ Hohe Motivation für die IT-Welt und großes Interesse an SAP-Technologien 
+ Für die Vertiefungen FI/CO und PSCD: Erste Vorkenntnisse oder ein grundlegendes Verständnis im Bereich Finanzen.
+ Vorerfahrung oder Berufserfahrung ist von Vorteil, aber keine Voraussetzung für die Teilnahme am Training. Wir schätzen Vielfalt - bei uns zählen deine Motivation und dein Potenzial .
+ Unser Rekrutierungsprozess
+ Nach Zusenden deines Lebenslaufs und den erfolgreich bestandenen Online-Tests folgt im Anschluss ein telefonisches sowie persönliches Interview mit Academic Work sowie ein Kennenlernen mit der Natuvion GmbH.
+ Über Academic Work Academy
+ Academic Work Academy ist ein Konzept der Academic Work Germany GmbH und bietet gemeinsam mit unserem Trainingsanbieter Brights Intensivausbildungen auf Basis der Trainingsmethode Accelerated Learning an. Ziel ist die Vorbereitung und Ausbildung von Menschen mit den richtigen Skills und Ambitionen im Hinblick auf neue Herausforderungen und Karrieren.
+ Kontakt: 
+ Mail: frag.academy@academicwork.de 
+ Weitere Informationen: 
+ Pre-Studies : 01.02. - 23.02.2027 (Selbststudium)
+ Training: 24.02. – 31.05.2027
+ Umfang: 18 Wochen, Vollzeit
+ Dein erster Tag bei Natuvion: 01.06.2027
+ Möglicher Arbeitsort: 100% remote oder an einer der Standorte von Natuvion (München, Berlin, Walldorf, Leipzig)
+ Ausbildungsort und -sprache: Remote (DE), Deutsch
+ Natuvion GmbH
+ Einsatzort: deutschlandweit (München, Berlin, Walldorf, Leipzig) oder remote (DE)
+ Natuvion ist ein international agierendes IT‑ und Beratungshaus mit rund  500 Mitarbeitenden an 12 Standorten in 6 Ländern. Als SAP‑Partner mit Fokus auf Datenmigration und digitale Transformation unterstützt Natuvion insbesondere Energie‑ und Versorgungsunternehmen bei der sicheren Migration in moderne SAP‑Plattformen.
+ Academic Work Germany GmbH München   
+ Seidlstraße 8
+80335 München
+ https://www.academicwork.de/

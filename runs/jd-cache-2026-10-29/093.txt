@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4481868789
+TITLE: Data Engineer - Big Query - EY GDS Spain - Hybrid
+COMPANY: EY
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-27
+title: Data Engineer - Big Query - EY GDS Spain - Hybrid
+company: EY
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fes.linkedin.com%2Fjobs%2Fview%2Fdata-engineer-big-query-ey-gds-spain-hybrid-at-ey-4481868789&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Data Engineer
+ As a Data Engineer you will be responsible for developing robust data pipelines, implementing data models, ensuring data quality, and enabling analytics and reporting use cases across large and complex datasets. You will collaborate with AI & Data team to achieve project and client goals on a very dynamic environment.
+ The opportunity
+ As a member of our team in GDS office in Malaga, Spain, you’ll have a chance to extend your knowledge & experience by working on the interesting projects with the newest technologies and approaches. You’ll support clients in choosing the most suitable business solution and take part in digital transformation.
+ Your Key Responsibilities
+ As a Data Engineer, you will work on the design of end-to-end pipelines for enterprise data loading from different sources, deployment of ML/IA solutions for predictive analysis and improvements on quality of data.
+You will also collaborate with the product development teams (business analysts, product owners, developers) to deliver high quality solutions for our customers.
+ To qualify for the role, you must have
+ Degree on Statistics, Maths, Informatics or similar.
+ 3+ years of experience as Data Engineer
+ Build and optimize data solutions using BigQuery, including tables, views, partitioning, clustering, and SQL-based transformations.
+ Database knowledge, SQL, OLTP/OLAP
+ Very good communication skills in terms of capturing requirements, describing architecture, data flows, etc.
+ Ideally, you’ll also have
+ Knowledge of cloud solutions
+ Experience of Big Data (i.e Spark, Hadoop)
+ Experience on Agile and SCRUM methodology.
+ What We Look For
+ We are a dynamic team of passionate specialists, working in international teams all over the world. As part of the Data team, we look for “out of the box thinking" professionals that will build good relationships with our clients. If you want to be a part of this journey, we are looking forward to seeing you on board!
+ What We Offer
+ EY Global Delivery Services (GDS) is a dynamic and truly global delivery network. We work across eight locations – Argentina, China, India, Philippines, Poland, UK, Hungary and Spain – and with teams from all EY service lines, geographies and sectors, playing a vital role in the delivery of the EY growth strategy. From accountants to coders to advisory consultants, we offer a wide variety of fulfilling career opportunities that span all business disciplines. In GDS, you will collaborate with EY teams on exciting projects and work with well-known brands from across the globe. We’ll introduce you to an ever-expanding ecosystem of people, learning, skills and insights that will stay with you throughout your career.
+ Continuous learning: You’ll develop the mindset and skills to navigate whatever comes next. 
+ Success as defined by you: We’ll provide the tools and flexibility, so you can make a meaningful impact, your way.
+ Transformative leadership: We’ll give you the insights, coaching and confidence to be the leader the world needs.
+ Diverse and inclusive culture: You’ll be embraced for who you are and empowered to use your voice to help others find theirs.
+ About EY
+ EY | Building a better working world
+ EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.
+If you can demonstrate that you meet the criteria above, please contact us as soon as possible.
+The exceptional EY experience. It’s yours to build.

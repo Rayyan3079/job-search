@@ -1,0 +1,31 @@
+URL: https://www.linkedin.com/jobs/view/4480678707
+TITLE: HiWi im Bereich KI-gestützte Digitale Zwillinge
+COMPANY: SFB 1313 | University of Stuttgart
+LOC: Stuttgart, Baden-Württemberg, Germany
+POSTED: 2026-10-23
+title: HiWi im Bereich KI-gestützte Digitale Zwillinge
+company: SFB 1313 | University of Stuttgart
+posted: 5 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fhiwi-im-bereich-ki-gest%25C3%25BCtzte-digitale-zwillinge-at-sfb-1313-university-of-stuttgart-4480678707&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Studentische Hilfskraft (m/w/d) für KI-gestützte Digitale Zwillinge
+ Digitale Zwillinge bilden reale Systeme virtuell ab und ermöglichen deren Analyse, Überwachung und Optimierung über den gesamten Lebenszyklus hinweg. In einem innovativen Forschungsprojekt beschäftigen wir uns mit der Modellierung, Umsetzung und intelligenten Nutzung von Digitalen Zwillingen auf Basis der Asset Administration Shell. Ein besonderer Schwerpunkt liegt auf dem Einsatz künstlicher Intelligenz, um Daten aus industriellen Systemen automatisiert auszuwerten, Zusammenhänge zu erkennen und Entscheidungsprozesse zu unterstützen. Die entwickelten Konzepte werden gemeinsam mit Partnern aus Forschung und Industrie praxisnah umgesetzt und erprobt.
+ Wir Bieten Dir
+ Abwechslungsreiche und interessante Tätigkeiten
+ Flexible Arbeitszeiten
+ Freundliches Arbeitsklima
+ Teilnahme an ISW internen Veranstaltungen
+ Deine Zukünftigen Themenschwerpunkte
+ Mitarbeit bei der Konzeption und Modellierung von Digitalen Zwillingen
+ Unterstützung bei der Entwicklung AAS-basierter Datenmodelle
+ Einsatz von KI-Methoden zur Analyse, Prognose und Optimierung von Systemzuständen
+ Implementierung von Software-Prototypen
+ Dein Profil
+ Ein laufendes Studium an der Universität Stuttgart (Informatik, Softwaretechnik, Kybernetik, Mechatronik, o. ä.)
+ Du hast technisches Interesse
+ Du hast ein hohes Maß an Eigeninitiative, Einsatzbereitschaft und Organisationsfähigkeiten
+ Gute Programmierkenntnisse (Python, Java, C,...)
+ Gute Kenntnisse in Deutsch oder Englisch
+ Die Universität Stuttgart möchte den Anteil der Frauen im wissenschaftlichen Bereich erhöhen und ist daher an Bewerbungen von Frauen besonders interessiert. Schwerbehinderte werden bei gleicher Eignung vorrangig eingestellt.
+null

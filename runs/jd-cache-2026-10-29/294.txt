@@ -1,0 +1,40 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-m-w-d-Informationssicherheit-IT-Digitalisierung-Automatisierung-KI-Hamburg-LAIQON-AG--14693505-inline.html
+TITLE: Werkstudent (m/w/d) Informationssicherheit & IT – Digitalisierung, Automatisierung & KI
+COMPANY: LAIQON AG
+LOC: Hamburg
+POSTED: stepstone
+title: Werkstudent (m/w/d) Informationssicherheit & IT – Digitalisierung, Automatisierung & KI
+company: LAIQON AG
+posted: 2026-10-28T15:39:37.09Z
+location: Hamburg | remote: 
+---
+Einleitung
+ Die LAIQON AG ist ein innovatives, börsennotiertes Finanzhaus, das mit aktiven nachhaltigen und digitalen Investmentlösungen Rendite für seine Kunden und Partner erzielt. Unser Geschäftsmodell stützt sich auf drei Säulen. Im Geschäftsfeld LAIQON Asset Management erfolgt eine Positionierung als Spezialanbieter benchmarkfreier Aktien-, Renten- und Mischfonds. Alle Fonds berücksichtigen einen integrierten Nachhaltigkeitsansatz im Investmentprozess. Im Geschäftsfeld LAIQON Wealth Management erfolgt eine proaktive, ganzheitliche 360° Umsetzung der individuellen Ziele von vermögenden Kunden in einer persönlichen Vermögensverwaltung. Im Geschäftsfeld LAIQON Digital Wealth werden über das WealthTech LAIC und dem FinTech growney digitale und risikooptimierte Anlagelösungen für Privatanleger und institutionelle Kunden angeboten.  
+ Ihre Aufgaben
+  Als Werkstudent (m/w/d) unterstützen Sie unser Technology- & Security-Team dabei, Informationssicherheit und IT effizienter zu gestalten. Dafür setzen Sie auf Digitalisierung, Automatisierung und KI. Zu Ihren Aufgaben gehören u. a.:
+ Mitarbeit bei der weiteren Digitalisierung und Automatisierung von ISMS- und IT-Prozessen mit Fokus auf Confluence und Jira, z. B. Risiko-, Service-, Asset- und Lieferantenmanagement
+ Aufbau und Weiterentwicklung strukturierter Vorlagen, Seiteneigenschaften und Workflows für die ISMS-Dokumentation in Confluence
+ Konzeption und Umsetzung KI-gestützter Automatisierungen, z. B. mit Jira- und Confluence-Automation, REST-APIs, Workflows und KI-Agenten
+ Aufbau von Dashboards und KPI-Reportings zum Stand der Informationssicherheit für Management und Audits
+ Identifikation von Optimierungspotenzialen in Prozessen und deren eigenständige Umsetzung in Abstimmung mit dem Team 
+ Ihr Profil
+ Sie studieren Informatik, Wirtschaftsinformatik, IT-Sicherheit, Data Science oder Vergleichbares und sind voraussichtlich noch mindestens ein Jahr immatrikuliert
+ Sie können uns bis zu 20 Stunden pro Woche vor Ort unterstützen
+ Sie interessieren sich für Informationssicherheit, IT-Management und Regulatorik; erste Kenntnisse in ISO 27001, DORA oder vergleichbaren Rahmenwerken sind ein Plus
+ Sie haben idealerweise erste Erfahrung mit Confluence und Jira sowie mit Skripting oder Programmierung, z. B. Python und REST-APIs
+ Sie haben ein grundlegendes Verständnis von LLMs und deren Einsatzmöglichkeiten, z. B. Prompt Engineering, KI-Agenten oder KI-Dienste per API
+ Sie arbeiten strukturiert, eigenständig und gewissenhaft und gehen kritisch mit KI-Ergebnissen sowie sensiblen Daten um
+ Sie kommunizieren sicher auf Deutsch und Englisch 
+ Wir bieten
+ E ine innovative Unternehmenskultur, Raum für Eigenverantwortung, individuellen Gestaltungsspielraum und schnelle Entscheidungen
+ Wir legen großen Wert auf nachhaltiges und verantwortungsvolles Handeln
+ Flexible Arbeitszeitgestaltung, attraktives Gehalt, sowie die Möglichkeit zum mobilen Arbeiten
+ Moderne, innovative Arbeitsumgebung in sehr zentraler und repräsentativer Lage an all unseren Standorten sowie neuste mobile Arbeitsgeräte
+ Zuschuss zum Deutschlandticket für bequemes und umweltfreundliches Pendeln
+ Essensgeldzuschuss (LunchIt) für die tägliche Mittagspause, kostenlose Getränke (Kaffee, Wasser, Tee) sowie kostenfreies Obst
+ Weitere Informationen
+ LAIQON AG 
+ An der Alster 42
+20099 Hamburg
+ https://www.laiqon.com/ 
+ ​​​​​​​

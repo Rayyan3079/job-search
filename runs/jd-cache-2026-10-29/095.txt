@@ -1,0 +1,75 @@
+URL: https://www.linkedin.com/jobs/view/4484472544
+TITLE: BI Developer
+COMPANY: Lottomatica
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-28
+title: BI Developer
+company: Lottomatica
+posted: 15 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fit.linkedin.com%2Fjobs%2Fview%2Fbi-developer-at-lottomatica-4484472544&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Siamo il Gruppo Lottomatica, leader nel settore del gioco regolamentato in Italia e uno dei maggiori operatori europei, in tutte le aree di attività: scommesse sportive, gioco online e macchine da intrattenimento.
+ Offriamo ai nostri clienti esperienze di gioco sicure e di qualità attraverso tutti i canali, investendo in tecnologia e qualità dei servizi Essere in Lottomatica è molto più che far parte di un'azienda: significa contribuire ad un progetto imprenditoriale caratterizzato da innovazione e crescita.
+ Siamo alla ricerca di un profilo che entrerà a far parte del Dipartimento Operations & Technology come BI Developer.
+ Responsabilità principali 
+ Progettare, sviluppare e manutenere l'architettura del Data Warehouse;
+ sviluppare i flussi di caricamento dei dati dai database sorgenti verso il DWH;
+ interfacciarsi con le diverse aree di prodotto interne per la raccolta e l'analisi dei requisiti;
+ sviluppare soluzioni di Business Intelligence in ambiente Microsoft;
+ sviluppare e ottimizzare query e procedure utilizzando SQL/T-SQL;
+ contribuire alle attività di Performance Tuning e all'ottimizzazione delle soluzioni BI;
+ collaborare in stretta sinergia con il gruppo di sviluppo BI interno.
+ Requisiti 
+ Conoscenza di Microsoft SQL Server, preferibilmente dalla versione 2016 in poi, e del linguaggio T-SQL;
+ esperienza nello sviluppo e nell'ottimizzazione di query e procedure e conoscenza delle tecniche di Performance Tuning;
+ conoscenza di SSIS, SSAS e SSRS;
+ conoscenza di Power BI, Modelli Tabular, MDX e DAX;
+ conoscenza di Python.
+ Cosa troverai in Lottomatica 
+ Opportunità di lavorare nella più grande azienda di scommesse e giochi in Italia e una delle più grandi al mondo;
+ Lavorare in un ambiente molto dinamico e migliorare le proprie competenze acquisendone di nuove;
+ Essere sfidati a fornire soluzioni d'impatto per grandi organizzazioni e avere un impatto diretto sui loro dipendenti;
+ Possibilità di partecipare a progetti di beneficenza, legalità e responsabilità attraverso l'impegno in Fondazione Lottomatica;
+ Un modello di DNA aziendale definito in cui Inclusione, Valore della Diversità, Eccellenza e Collaborazione sono i pilastri;
+ Far parte dell'azienda numero uno al mondo nel settore per impegno ESG;
+ Eccellenti opportunità di crescita.
+ Cosa offriamo 
+ Contratto a tempo indeterminato e opportunità di lavoro ibrido;
+ Ticket Restaurant e Polizza Sanitaria Integrativa;
+ Formazione continua su hard e soft skills;
+ Retribuzione annua lorda commisurata all'esperienza (38–43K).
+ Lottomatica attua una politica che garantisce pari opportunità e promuove diversità e inclusione, contro ogni forma di discriminazione. In Lottomatica crediamo che ogni persona sia unica e consideriamo la diversity come una fonte di arricchimento personale e organizzativo. Ci impegniamo a promuovere un ambiente di lavoro improntato al rispetto reciproco, dove ciascuno possa esprimere le proprie competenze e il proprio potenziale nel rispetto delle diversità individuali. 
+ ***
+ We are the Lottomatica Group, a leader in the regulated gaming sector in Italy and one of the largest operators in Europe, active across all areas of the business: sports betting, online gaming and gaming machines.
+ We offer our customers safe, high-quality gaming experiences across all channels, investing in technology and service quality.
+ Being part of Lottomatica means much more than being part of a company: it means contributing to an entrepreneurial project driven by innovation and growth.
+ We are looking for a profile to join the Operations & Technology Department as a BI Developer.
+ Main Responsibilities 
+ Design, develop and maintain the Data Warehouse architecture;
+ develop data loading flows from source databases to the DWH;
+ interact with the different internal product areas to gather and analyze requirements;
+ develop Business Intelligence solutions within a Microsoft environment;
+ develop and optimize queries and procedures using SQL/T-SQL;
+ contribute to Performance Tuning activities and the optimization of BI solutions;
+ work closely with the internal BI development team.
+ Requirements 
+ Knowledge of Microsoft SQL Server, preferably from version 2016 onwards, and of the T-SQL language;
+ experience in developing and optimizing queries and procedures, with knowledge of Performance Tuning techniques;
+ knowledge of SSIS, SSAS and SSRS;
+ knowledge of Power BI, Tabular Models, MDX and DAX;
+ knowledge of Python.
+ What You Will Find in Lottomatica 
+ Opportunity to work in the largest betting and gaming company in Italy and one of the largest in the world;
+ Work in a very dynamic environment and improve your skills while acquiring new ones;
+ Being challenged to provide impactful solutions for large organisations and have a direct impact on their employees;
+ Opportunity to participate in charity, legality and responsibility projects through engagement in Fondazione Lottomatica;
+ A defined corporate DNA model in which Inclusion, Value of Diversity, Excellence and Collaboration are the pillars;
+ Being part of the world's number one company in the industry for ESG commitment;
+ Excellent growth opportunities.
+ What We Offer 
+ Permanent contract and hybrid working opportunities;
+ Meal vouchers and supplementary health insurance;
+ Continuous training on both hard and soft skills;
+ Gross annual salary commensurate with experience (38–43K).
+ Lottomatica implements a policy that ensures equal opportunities and promotes diversity and inclusion, opposing all forms of discrimination. At Lottomatica, we believe that every person is unique and consider diversity a source of personal and organizational enrichment. We are committed to fostering a work environment based on mutual respect, where everyone can express their skills and potential while respecting individual differences.

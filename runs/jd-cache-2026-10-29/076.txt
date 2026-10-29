@@ -1,0 +1,59 @@
+URL: https://www.linkedin.com/jobs/view/4474698357
+TITLE: Business Intelligence Analyst
+COMPANY: Cummins India
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-27
+title: Business Intelligence Analyst
+company: Cummins India
+posted: 1 day ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fin.linkedin.com%2Fjobs%2Fview%2Fbusiness-intelligence-analyst-at-cummins-india-4474698357&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Summary:
+ Responsible for the preparation of Business Intelligence (BI) analyses and reports for key stakeholders.
+ Key Responsibilities:
+ Gathers reporting requirements and analyzes data to provide recurring reports. Performs quality assurance and tests conclusions to ensure validity of the analysis. Selects the right analysis methods for a given issue or problem, in order to provide the most accurate analysis. Delivers recurring reports and/or analyses to stakeholders on time. Extracts data from operational systems and reporting databases with the purpose of understanding or making conclusions from the data for decision making purposes. Uses globally standardized dashboards and best reporting practices to support BI needs. Works with Business Intelligence Analyst - Senior and the Business Intelligence Leader to understand the needs of end users. Collaborates with the Business Intelligence Analyst - Senior and Business Intelligence Leader to seek clarity on the intent and purpose of the assignment. Ensures effective communication with key stakeholders on analysis and reporting. Builds and sustains Cummins leadership culture by consistently demonstrating all Cummins Leadership Behaviors, not only those included in competencies supporting this role.
+ Competencies:
+ Communicates effectively - Developing and delivering multi-mode communications that convey a clear understanding of the unique needs of different audiences.
+Nimble learning - Actively learning through experimentation when tackling new problems, using both successes and failures as learning fodder.
+Self-development - Actively seeking new ways to grow and be challenged using both formal and informal development channels.
+Tech savvy - Anticipating and adopting innovations in business-building digital and technology applications.
+Data Analytics - Discovers, interprets and communicates qualitative and quantitative data; determines conclusions relying on knowledge of business or functional frameworks; simultaneously applies statistics, data validity, data visualization, and problem solving approaches to effectively extract meaningful patterns and business insights; presents conclusions and outcomes that enable data driven business decisions.
+Data Quality - Identifies, understands and corrects flaws in data that supports effective information governance across operational business processes and decision making.
+Values differences - Recognizing the value that different perspectives and cultures bring to an organization.
+Action oriented - Taking on new opportunities and tough challenges with a sense of urgency, high energy, and enthusiasm.
+Data Mining - Extracts insights from data by identifying relationships and patterns through use of a suite of data exploration and data visualization techniques to understand the underlying structure of the data and enable sound conclusions upon model building.
+ Education, Licenses, Certifications:
+ College, university, or equivalent bachelor’s degree in Data sciences, or in Economics, Computer Science, or Statistics / relevant field with a quantitative focus, or experience equivalent is required.
+This position may require licensing for compliance with export controls or sanctions regulations.
+ Experience:
+ Experience analyzing data and developing clear and accurate conclusions required. Experience supporting a customer-focused organization preferred.
+ Business Intelligence & Data Analytics
+ Data Visualization & Storytelling
+ Power BI Development
+ SQL & Data Modeling
+ Data Mining & Statistical Analysis
+ Data Quality & Governance
+ Critical Thinking & Problem Solving
+ Stakeholder Communication & Collaboration
+ Customer Focus
+ Continuous Learning & Innovation
+ Adaptability & Agility
+ Inclusion & Valuing Differences
+ Preferred Skills
+ Hand on Experinece on Power BI development & SQL knowledge is must
+ Knowledge of Python, ML & Data Science is added advantage
+ Experience with Microsoft Fabric, Snowflake, Databricks operations
+ Knowledge of advanced analytics and automation platforms
+ Microsoft Power BI Data Analyst (PL-300) certification or equivalent is preferred
+ Experience
+ Minimum 3-4 years of experience in Business Intelligence, Reporting, Data Analytics, or a related analytical field required.
+ Experience analyzing business data and developing clear, accurate, and actionable insights is required.
+ Experience developing dashboards, recurring reports, and business performance metrics is desirable.
+ Job Sales
+ Organization Cummins Inc.
+ Role Category On-site with Flexibility
+ Job Type Exempt - Experienced
+ ReqID 2438636
+ Relocation Package Yes
+ 100% On-Site No

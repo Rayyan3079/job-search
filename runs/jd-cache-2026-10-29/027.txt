@@ -1,0 +1,56 @@
+URL: https://www.linkedin.com/jobs/view/4474371320
+TITLE: Operations Engineer Intern (Field)
+COMPANY: Amazon
+LOC: Gera, Thuringia, Germany
+POSTED: 2026-10-23
+title: Operations Engineer Intern (Field)
+company: Amazon
+posted: 5 days ago
+applicants: 34 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Foperations-engineer-intern-field-at-amazon-4474371320&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Description
+ Job Summary
+This role can be based in: FRA3, DTM1, ERF1, BRE4, BER8, HAJ1, SCN2, HAJ8, LEJ5, HAM2, ERF3 OR DUS4
+Amazon Operations is the backbone of the Amazon customer experience. With over 50 fulfilment centres, hundreds of delivery stations, and tens of thousands of employees, the team works together to efficiently deliver items to customers. In the fulfilment centres, millions of items are picked and packed annually, while delivery teams work to get orders to customers on time. Safety is the top priority, and the operations culture is defined by teamwork, diversity, and a shared work ethic that keeps the business running smoothly. The team takes pride in delivering the quality service Amazon is known for globally.
+Note: You must have the right to work in the country of employment by the start date.
+Key job responsibilities
+Key Job Responsibilities
+An engineering internship in Amazon will provide you with an unforgettable experience in a dynamic and international environment. Our internships serve to be an educational experience, where you will put your skills and bias for action to the test, to complete a project that will support your own learning in the engineering field.
+The engineering team in Amazon maintain and optimize all technologies in the Global Amazon Warehouse & Delivery Network ranging from large, modern, purpose-built warehouses utilizing robotics and high-volume conveyance all the way through the value chain to small, high speed, delivery stations placed as close to our customers as possible.
+We provide professional growth, opportunities to solve for complex engineering challenges, Material Handling Equipment, and opportunities to build your skills working with various teams and stakeholders. Our Operations Engineering Interns must be comfortable interfacing with and driving various functional teams and all stakeholders at all levels of the organization.
+As an Engineering intern, you could have the opportunity to join one of the following teams: Project Management, Change Management, People Management, Planning, Contracting Management, Infrastructure, Reliability Maintenance and more. You will work on a project with real impact within Amazon. This could include:
+ Design, build, improve, and innovate order fulfilment infrastructure throughout the large-scale supply chain network.
+ Manage, design, and implement small to medium scope integrated automation projects with system elements such as high-speed sortation, multiple conveyors, package lines, and/or robotic work cells.
+ Working on a program to train technicians in the basics of control systems fault finding in order to raise the level of knowledge within the site.
+ Support within the EU Controls network on a project to enhance the capability to monitor MHE metrics and provide visualization and data to internal customers.
+ Develop alongside global teams to support the installation and commission of new equipment, including project managing implementation of new processes
+ Potential relocation to the designated work location.
+ A day in the life
+A Day in the Life
+Our internships are educational opportunities that allow you, our future managers, to discover how we lead and develop our teams. You'll immerse yourself in the fast-paced, complex world of operations, either from a corporate perspective or from our Fulfillment Centers, Sortation Hubs, and Delivery Stations, witnessing how our managers engage their teams to fulfill customer expectations.
+This internship will place you at the heart of our operations, enabling you to trace the journey of a customer order. You'll gain a realistic job preview of the full-time opportunities awaiting you within our organization.
+You'll learn how our managers cultivate a safe, productive environment, harnessing the full potential of their teams through effective engagement and performance management strategies. This is your chance to develop skills that will propel you towards a rewarding career with Amazon.
+ About The Team
+ Intern Community:
+ As an Amazon Intern, you'll be part of a vibrant, supportive community that empowers your growth and development. You'll collaborate with interns from around the world, networking and participating in social events to broaden your perspectives. You can also join specialized groups focused on areas like sustainability to explore your diverse interests.
+ Support
+ The internship program provides a robust support system, including weekly intern office hours, dedicated IT and HR support, and a program team committed to your success. This ensures you have the guidance and assistance needed to thrive.
+ Learning Sessions
+ Exclusive learning sessions will further enhance your skills, granting you access to Amazon's cutting-edge learning platforms and the expertise of industry leaders. These structured development opportunities will prepare you for the next step in your career.
+ Opportunities
+ Upon successful completion of the internship, you may be considered for a graduate role or a second internship, allowing you to continue your journey with Amazon. Additionally, you'll enjoy a competitive monthly salary, relocation support, and access to a range of employee benefits.
+ Internship Start Dates Across The Year
+ We are hiring interns to start anytime from January through September 2025. Each month, we'll hold 1-2 onboarding days for new hires.
+ Basic Qualifications
+ Speak, write, and read fluently in German
+ Speak, write, and read fluently in English, and have the ability to take direction in English
+ Work 40 hours/week minimum and commit to 3 to 6 month internship maximum
+ Currently in your penultimate or final year and working towards a university degree in Engineering (Mechanical, Chemical, Electrical, Automation, Industrial or Software), or a STEM subject
+ Preferred Qualifications
+ * Strong problem-solving and analytical skills, with the ability to identify process improvements and innovative solutions. * Excellent communication and teamwork skills, able to collaborate effectively with others. * Demonstrated curiosity, proactivity, and willingness to take on challenges in an ambiguous, fast-paced environment.
+ Amazon is an equal opportunities employer. We believe passionately that employing a diverse workforce is central to our success. We make recruiting decisions based on your experience and skills. We value your passion to discover, invent, simplify and build. Protecting your privacy and the security of your data is a longstanding top priority for Amazon. Please consult our Privacy Notice (https://www.amazon.jobs/en/privacy_page) to know more about how we collect, use and transfer the personal data of our candidates.
+m/w/d
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+ Company - Amazon Logistik GmbH
+Job ID: A10566344

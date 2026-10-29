@@ -1,0 +1,37 @@
+URL: https://www.linkedin.com/jobs/view/4361522784
+TITLE: Working Student Software Engineering Frontend (all genders)
+COMPANY: Avelios Medical
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-10-22
+title: Working Student Software Engineering Frontend (all genders)
+company: Avelios Medical
+posted: 6 days ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-software-engineering-frontend-all-genders-at-avelios-medical-4361522784&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+About Us
+ Our mission at Avelios is to unlock clinical data to power seamless healthcare operations for better patient care. To do so, we have built a modular software platform that digitizes and optimizes workflows in hospitals with cutting-edge technology in a user-friendly way. With our software, we enable hospitals, doctors & nurses to provide their patients with the best possible care.
+We are growing fast and want to keep expanding our team and business to fundamentally digitize healthcare for the better. We appreciate different backgrounds and see diversity as one of our strengths.
+ THE TEAM AND ROLE
+ As a Working Student in Frontend Engineering (all genders) , you will join our development team and gain hands-on experience building complex, large-scale software in a mission-critical environment. Working alongside experienced engineers, you’ll help shape the digital infrastructure that supports real-world clinical care — learning how to deliver secure, scalable, and high-quality code with real impact.
+ Your Responsibilities
+ Collaborate directly with our core development team on real product features
+ Design, test, deploy, and maintain backend or frontend components of Avelios services
+ Learn how to build and maintain large-scale clinical software infrastructure
+ Work with modern technologies in a high-impact healthcare setting
+ Learn and apply best practices in secure and efficient software engineering
+ Contribute ideas to improve performance, usability, and user experience
+ Your Qualifications
+ Currently enrolled in Informatics, Computer Science, Business Informatics, or a related field
+ Experience in at least one of the following: Swift, TypeScript or React
+ Demonstrated coding experience (e.g. GitHub contributions) is a plus
+ Passion for learning and exploring new technologies
+ Solution-oriented mindset with a strong focus on execution
+ Fluency in German and/or English
+ Your Benefits
+ Variety in your tasks and the opportunity to take ownership
+ Flexible working hours
+ Support for your personal development through continuous learning and feedback and high chances to transition into a full-time role if the collaboration is successful
+ An international, informal team structure in a motivating start-up atmosphere, allowing you to participate directly in our customer growth story and the overall success of Avelios
+ Ability to gain valuable hands-on experience in a startup backed by leading international VCs
+ A monthly meal allowance up to 75 euros, and Corporate Benefits that give you access to discounts from a wide range of providers in various areas

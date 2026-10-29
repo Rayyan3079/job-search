@@ -1,0 +1,38 @@
+URL: https://www.linkedin.com/jobs/view/4482665005
+TITLE: Werkstudent (m/w/d) / Praktikum Digitaler Agent & Prozessautomatisierung
+COMPANY: Wörner Automatisierungstechnik GmbH
+LOC: Hamburg, Hamburg, Germany
+POSTED: 2026-10-24
+title: Werkstudent (m/w/d) / Praktikum Digitaler Agent & Prozessautomatisierung
+company: Wörner Automatisierungstechnik GmbH
+posted: 4 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-m-w-d-praktikum-digitaler-agent-prozessautomatisierung-at-w%25C3%25B6rner-automatisierungstechnik-gmbh-4482665005&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+08.07.2026 Stellenangebote
+Ob als Werkstudent (m/w/d) oder im Rahmen eines Pflichtpraktikums – bei uns arbeitest du aktiv an KI-Automatisierungsprojekten mit und übernimmst von Anfang an verantwortungsvolle Aufgaben.
+Deine Aufgaben
+ Unterstützung beim Aufbau und der Weiterentwicklung von digitalen Agenten (z. B. mit Make oder n8n)
+ Erstellung und Pflege technischer Dokumentationen (Prozessbeschreibungen, Ablaufdiagramme, Wikis)
+ Analyse bestehender Geschäftsprozesse und Identifikation von Automatisierungspotenzialen
+ Testen, Debuggen und Optimieren bestehender Workflows
+ Enge Zusammenarbeit mit unserem Team bei der Entwicklung und Umsetzung neuer Automatisierungslösungen
+ Dein Profil
+ Studium der Informatik, Wirtschaftsinformatik, des Wirtschaftsingenieurwesens (Schwerpunkt Informatik) oder eines vergleichbaren Studiengangs
+ Erste Erfahrungen mit No-Code-/Low-Code-Tools (z. B. Make, n8n oder Zapier) sind von Vorteil, aber keine Voraussetzung
+ Kenntnisse im Umgang mit SQL-Datenbanken und Python sind wünschenswert
+ Grundverständnis von APIs, JSON und Webhooks
+ Strukturierte und sorgfältige Arbeitsweise
+ Eigeninitiative, Lernbereitschaft und Freude an der Lösung praktischer Herausforderungen
+ Gute Deutschkenntnisse, Englischkenntnisse sind von Vorteil
+ Das bieten wir dir
+ Mitarbeit an realen Projekten mit echtem Mehrwert
+ Flexible Arbeitszeiten mit Rücksicht auf Klausuren
+ Hybrides Arbeiten (remote und vor Ort)
+ Faire Vergütung (je nach Erfahrung)
+ Ein motiviertes Team mit kurzen Entscheidungswegen und viel Raum für eigene Ideen
+ Interesse geweckt?
+Dann freuen wir uns darauf, Dich kennenzulernen!
+ Deine Bewerbung Schreibst Du Bitte An Frau Hecker
+ personal@woerner-gmbh.com
+zurück

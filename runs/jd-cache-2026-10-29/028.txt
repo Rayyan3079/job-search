@@ -1,0 +1,24 @@
+URL: https://www.linkedin.com/jobs/view/4483862604
+TITLE: Werkstudent Microsoft Power Platform & Digitalisierung (m/w/d)
+COMPANY: EDAG Group
+LOC: Fulda, Hesse, Germany
+POSTED: 2026-10-28
+title: Werkstudent Microsoft Power Platform & Digitalisierung (m/w/d)
+company: EDAG Group
+posted: 13 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-microsoft-power-platform-digitalisierung-m-w-d-at-edag-group-4483862604&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Daran werden Sie wachsen:
+ Mitarbeit bei der Entwicklung und Weiterentwicklung digitaler Lösungen mit Microsoft Power Apps, Power Automate und Power BI
+ Unterstützung bei der Erstellung und Optimierung von SharePoint-basierten Anwendungen und deren Einbindung in die Microsoft-365-Umgebung
+ Mitwirkung bei der Erstellung von Power-BI-Reports und Dashboards sowie bei der Aufbereitung und Analyse von Daten
+ Unterstützung bei der Automatisierung und Optimierung bestehender Geschäftsprozesse sowie beim Testing und der Fehleranalyse vorhandener Anwendungen
+ Aktive Mitarbeit an Digitalisierungsthemen im After Sales, Einbringen eigener Ideen und enger Austausch innerhalb des Team
+ Damit bringen Sie uns voran:
+ Laufendes Studium im Bereich Informatik, Wirtschaftsinformatik, Data Science, Digitalisierung oder einer vergleichbaren Fachrichtung
+ Erste praktische Erfahrung oder Kenntnisse in der Microsoft Power Platform, idealerweise mit Power Apps, Power Automate oder Power BI
+ Grundkenntnisse in Microsoft 365 und SharePoint sowie Interesse an der Entwicklung und Automatisierung digitaler Lösungen
+ Gutes Daten- und Prozessverständnis; erste Kenntnisse in DAX, Power Query/M, SQL, REST APIs oder JSON sind von Vorteil
+ Strukturierte und eigenständige Arbeitsweise, Teamfähigkeit sowie Motivation, sich in neue Technologien und Themen einzuarbeiten
+ Sehr gute Deutschkenntnisse (C1) in Wort und Schrift

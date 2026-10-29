@@ -1,0 +1,55 @@
+URL: https://www.linkedin.com/jobs/view/4484712646
+TITLE: Business Intelligence Analyst - Barcelona
+COMPANY: Flight Centre Travel Group
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-28
+title: Business Intelligence Analyst - Barcelona
+company: Flight Centre Travel Group
+posted: 7 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fes.linkedin.com%2Fjobs%2Fview%2Fbusiness-intelligence-analyst-barcelona-at-flight-centre-travel-group-4484712646&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+About The Opportunity
+ Are you passionate about turning complex data into meaningful business insights? We're looking for a Business Intelligence Developer/Analyst to join a dedicated client-facing analytics team supporting one of our most strategic corporate travel clients. This role offers the opportunity to work at the cutting edge of Microsoft technologies, including Power BI, Microsoft Fabric, Copilot, and Claude, while partnering directly with stakeholders to shape business decisions through data. You'll join a globally distributed team led from the US, operating in a fast-paced environment where your expertise will have visible impact from day one.
+The salary for this role is €50,000.
+ What You'll Do
+ Design, develop, and optimise advanced dashboards and reports using Power BI and Microsoft Fabric.
+ Translate complex datasets into clear, actionable insights that support strategic decision-making.
+ Develop and maintain DAX measures, calculations, and data models to support reporting requirements.
+ Use SQL to query, manipulate, and manage data within relational databases.
+ Leverage AI tools such as Microsoft Copilot, Claude, and Claude Code to improve development efficiency and accelerate insight generation.
+ Apply prompt engineering techniques to enhance analytics workflows, reporting, and data interpretation.
+ Work closely with data engineering teams to ensure reporting requirements align with underlying data structures.
+ Partner directly with client stakeholders to understand business needs and deliver impactful reporting solutions.
+ Present findings, recommendations, and data-driven narratives confidently to technical and non-technical audiences.
+ Identify trends, opportunities, and risks through detailed analysis of large and complex datasets.
+ Build trusted relationships with internal teams and external stakeholders across multiple regions.
+ Operate independently while managing priorities and delivering high-quality outcomes in a fast-moving environment.
+ Support continuous improvement of reporting processes, data visualisation standards, and analytics capabilities.
+ Contribute to a safe, inclusive, and accessible work environment where all Flighties feel welcomed, respected, and supported to thrive.
+ What We're Looking For
+ Proven experience as a BI Developer, Business Intelligence Analyst, Data Analyst, or similar role.
+ Advanced Power BI development experience, including dashboard design, data modelling, and visualisation best practices.
+ Strong DAX development capabilities.
+ Experience working with Microsoft Fabric.
+ Solid SQL skills and experience working with relational databases.
+ Experience analysing large, complex, and fast-moving datasets.
+ Demonstrated ability to communicate technical concepts to non-technical stakeholders.
+ Experience presenting insights and recommendations to clients or senior stakeholders.
+ Exposure to AI productivity tools such as Microsoft Copilot, Claude, or Claude Code.
+ Understanding of prompt engineering concepts and practical application within analytics environments.
+ Strong analytical, problem-solving, and data storytelling skills.
+ Ability to work independently and manage stakeholder relationships effectively.
+ Bachelor's degree in Information Systems, Computer Science, Business Administration, or a related discipline.
+ Experience within corporate travel or another high-volume data environment is advantageous.
+ Consultative client engagement experience is desirable.
+ Our Award-winning Work Perks
+ Enjoy 25 Days Off per year plus 5 Compensation days!
+ Learn a new language with our free language learning platform.
+ Employee Retention Share Scheme.
+ Various social events to promote networking, the celebration of wins, and sometimes just for fun!
+ Enjoy our discounts with GymApp. 
+ Complimentary coffee, drinks, snacks and fruits at our Barcelona office location.
+ A strong focus on professional development to support you in the evolution of your career. 
+ Our number one philosophy is Our people. Flight Centre Travel Group's promise is to provide an environment with equality of respect, dignity and opportunity for all our employees. We value an inclusive and supportive workplace which reflects the diversity of our society.
+ We welcome accommodation requests to help make our hiring and onboarding experience as accessible as possible. Please advise us about accommodation needs at any point by contacting our Recruitment Team at RecruitmentUK@flightcentre.co.uk.

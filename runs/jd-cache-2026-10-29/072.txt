@@ -1,0 +1,46 @@
+URL: https://www.linkedin.com/jobs/view/4482781885
+TITLE: GyanSys - SAP Analytics Cloud Consultant
+COMPANY: GyanSys Inc.
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-23
+title: GyanSys - SAP Analytics Cloud Consultant
+company: GyanSys Inc.
+posted: 6 days ago
+applicants: 63 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fin.linkedin.com%2Fjobs%2Fview%2Fgyansys-sap-analytics-cloud-consultant-at-gyansys-inc-4482781885&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+About The Job
+ Role : SAP Analytics Cloud (SAC) Consultant : 
+ Total Experience : 8 - 10+ Years overall SAP experience
+ Relevant Experience : 3+ Years in SAP Analytics Cloud
+ Employment Type : Full-time
+ Role Overview
+ We are looking for an experienced SAP Analytics Cloud (SAC) Consultant with strong expertise in enterprise analytics, reporting and dashboard development. The role will focus on developing scalable analytics solutions using SAC and integrating them with SAP data platforms.
+ Key Responsibilities
+ Design and develop analytical solutions using SAP Analytics Cloud (SAC).
+ Develop interactive SAC Stories, dashboards and analytical applications.
+ Translate business reporting requirements into effective SAC solutions.
+ Build and maintain SAC analytical models.
+ Integrate SAC with SAP BW, SAP HANA, Datasphere and other relevant data sources.
+ Develop reporting solutions for business and operational requirements.
+ Optimise dashboards and analytical models for performance and usability.
+ Work with business stakeholders to understand reporting and analytics requirements.
+ Troubleshoot data connectivity, modelling and reporting issues.
+ Collaborate with BW, Datasphere, HANA and functional teams on end-to-end analytics solutions.
+ Support testing, deployment and production issues related to SAC.
+ Ensure analytics solutions follow SAP reporting and data governance standards.
+ Required Skills
+ 3+ years of hands-on SAP Analytics Cloud (SAC) development experience.
+ Strong experience with SAC Stories, dashboards and analytical reporting.
+ Experience with SAC analytical models.
+ Strong understanding of SAP BW/BI and enterprise data warehousing.
+ Experience integrating SAC with SAP data sources.
+ Understanding of SAP BW/4HANA, SAP HANA and/or SAP Datasphere.
+ Strong business requirement analysis and problem-solving skills.
+ Good To Have
+ Experience with SAP Datasphere and BW/4HANA.
+ Exposure to BEx Query Designer and Analysis for Office.
+ Experience with enterprise SAP reporting transformations.
+ Knowledge of SAP HANA Cloud.
+ Experience with large-scale SAP analytics implementations
+ (ref:hirist.tech)

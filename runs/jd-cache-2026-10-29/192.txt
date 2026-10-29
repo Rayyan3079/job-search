@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4484054721
+TITLE: Internship in AI & Machine Learning (f/m/x)
+COMPANY: ZEISS Group
+LOC: Eggenstein, Baden-Württemberg, Germany
+POSTED: 2026-10-27
+title: Internship in AI & Machine Learning (f/m/x)
+company: ZEISS Group
+posted: 1 day ago
+applicants: 106 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Finternship-in-ai-machine-learning-f-m-x-at-zeiss-group-4484054721&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Motivation of the Work 
+ Turning today’s research into tomorrow’s applications, together. At ZEISS, we focus on user-centric innovation to transform ideas into cutting-edge solutions. The ZEISS Innovation Hub @ KIT brings together students, researchers, and industry professionals to advance AI, computer vision, and machine learning in application-oriented projects.
+ Your Role
+ We are looking for highly motivated students to develop AI-based solutions for real-world vision tasks, including agricultural solutions, from data collection, simulation-based data generation, and model development to deployment on target devices. This internship provides hands-on experience across the full ML pipeline, including vision foundation models, data preprocessing and curation, quantization-aware training, edge-device deployment, and performance evaluation.
+ Develop an efficient and reproducible workflow for application-oriented machine learning solutions. 
+ Be involved in sample preparation and data acquisition in the laboratory for full data ownership 
+ Implement quantitative metrics to assess and optimize data preprocessing quality and guide relabeling efforts 
+ Curate, structure, and version datasets for reproducible experiments 
+ Build data preprocessing pipelines for AI and machine learning workflows 
+ Generate and evaluate simulation-based or synthetic data 
+ Run hyperparameter and model studies in a traceable environment. 
+ Automate embedded-device tests and optimize accuracy and speed. 
+ We Offer
+ A dynamic and interdisciplinary environment 
+ Hands-on experience with real-world image, sensor, and simulation-based data, foundation models, model quantization, and edge deployment 
+ Learn how to set up a full machine learning pipeline 
+ Close mentorship from experts in deep learning 
+ An agile work environment 
+ Your Profile
+ Enrolled in a Bachelor’s or Master’s program in computer science, mathematics, physics, AI, or related fields
+ Strong programming skills in Python and PyTorch
+ Solid understanding of software development principles
+ Fundamental knowledge of data preprocessing steps for computer vision and vision foundation models
+ Familiarity with AI/ML concepts (e.g., supervised learning, deep learning architectures) is a plus
+ Experience with edge-device deployment and model quantization is a plus
+ Creative, pragmatic, and self-motivated with strong analytical skills
+ Capable of working independently as well as in a team-oriented environment 
+ Excellent communication skills in English or German
+ Passion for innovation, enthusiasm for new technologies, and motivation to contribute to interdisciplinary projects
+ Sounds exciting? Then become part of #teamZEISS and help us shape the future! Please provide your complete application documents (CV, transcript of records, etc.).
+ Your ZEISS Recruiting Team
+ Selina Safradin

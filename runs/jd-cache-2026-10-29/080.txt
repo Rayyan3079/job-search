@@ -1,0 +1,61 @@
+URL: https://www.linkedin.com/jobs/view/4482579027
+TITLE: Database Developer (Oracle PL/SQL)
+COMPANY: ALS
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-28
+title: Database Developer (Oracle PL/SQL)
+company: ALS
+posted: 6 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fca.linkedin.com%2Fjobs%2Fview%2Fdatabase-developer-oracle-pl-sql-at-als-4482579027&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+At ALS, we encourage you to dream big.
+When you join us, you’ll be part of a global team harnessing the power of scientific testing and data-driven insights to build a healthier future.
+ About the Position:
+ We’re looking for a Database Developer with strong Oracle SQL and PL/SQL development skills to join our software and technology team.
+In this role, you will develop, enhance and maintain database driven applications and integrations that support our business systems and operational processes.
+You will work alongside software developers and business stakeholders to translate requirements into reliable technical solutions, troubleshoot complex issues, improve database performance and support the ongoing evolution of our applications. This is an opportunity for a hands on developer who enjoys solving problems, working with complex data and building practical solutions that connect databases, applications and business processes.
+ Specific Responsibilities:
+ Design, develop, test and maintain Oracle SQL queries, PL/SQL packages, stored procedures, functions, triggers and other database objects.
+ Build and enhance database driven application functionality, business logic and data processing workflows.
+ Develop and maintain database integrations with internal applications, external systems and services, ensuring reliable and accurate data exchange.
+ Analyze queries and execution plans, identify bottlenecks, and improve the performance, scalability and maintainability of database solutions.
+ Investigate application and data related issues, identify root causes, and implement effective fixes and preventative improvements.
+ Implement appropriate validation, error handling and transaction management to ensure data consistency and reliability.
+ Work with developers, analysts and business stakeholders to understand requirements, evaluate solutions and deliver enhancements that meet business needs.
+ Participate in code reviews, testing, documentation, version control and release processes to maintain high quality, maintainable code.
+ Required Knowledge, Skills & Abilities:
+ 3 to 5 or more years of professional experience in database development or a closely related software development role.
+ Oracle certification in SQL, PL/SQL or database development.
+ Strong hands on experience with Oracle SQL and PL/SQL, including the development and maintenance of complex queries, stored procedures, functions and packages.
+ Solid understanding of relational databases, data modelling concepts, transactions, indexing and query optimization.
+ Experience developing and maintaining application functionality that interacts with relational databases.
+ Experience integrating databases with applications, APIs, services or other data systems.
+ Demonstrated ability to troubleshoot complex technical issues and develop effective, maintainable solutions.
+ Familiarity with software development fundamentals, including source control, testing, debugging and technical documentation.
+ Strong analytical and problem solving skills, with the ability to manage priorities and work collaboratively.
+ Effective written and verbal communication skills.
+ Required Qualifications:
+ Scripting or automation using Python, PowerShell or similar languages.
+ Automated deployments, CI/CD pipelines or database change management.
+ Supporting enterprise business applications or data intensive operational systems.
+ Our benefits includes:
+ An estimated annual salary ranging from $90,000 - $110,000 at the time of posting. Individual compensation is determined by factors such as job-related skills, relevant experience, education and/or training.
+ Structured wage increases.
+ Comprehensive benefit package specific to your work status (including extended medical, dental, and vision coverage, access to company perks, life and disability insurance, retirement plan with company match, employee assistance and wellness programs).
+ Additional vacation days for years of service.
+ Business support for education or training after 9 months with the company.
+ Learning & development opportunities (unlimited access to e-learnings and more).
+ Working at ALS
+ The ALS team is a diverse and dedicated community united by our passion to make a difference in the world.
+Our values are important to us, and shape how we work, how we treat each other and how we recognise excellence.
+At ALS, you’ll be supported to develop new skills and reach your full potential. We invest in our people with programs and opportunities that help you build a diverse career with us.
+We want everyone to have a safe, flexible and rewarding career that makes a positive impact on our people, the planet and our communities.
+ Everyone Matters
+ ALS is proud to be an equal opportunity employer and is committed to fostering an inclusive work environment where the strengths and perspectives of each employee are both recognised and valued.
+Qualified candidates will be considered without regard to race, colour, religion, national origin, military or veteran status, gender, age, disabilities, sexual orientation, gender identity, pregnancy and pregnancy-related conditions, genetic information and any other characteristics protected by the law. We invite resumes from all interested parties, including women, First Nations, Metis and Inuit persons, members of minority groups, and persons living with disabilities.  
+ALS also welcomes applications from people with all levels of ability. Reasonable adjustments to support candidates throughout the recruitment process are available upon request. 
+ Eligibility
+ To be eligible to work at ALS you must be a Citizen or Permanent Resident of the country you are applying for, or either hold or be able to obtain, a valid working visa.
+ How To Apply
+ Please apply on-line and provide a resume & cover letter that best demonstrate your motivation and ability to meet the requirements of this role.

@@ -1,0 +1,43 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-Softwareentwicklung-m-w-d-Greenfield-KI-Fokus-InsurTech-Hamburg-CHECK24--14601447-inline.html
+TITLE: Werkstudent Softwareentwicklung (m/w/d) – Greenfield / KI Fokus, InsurTech
+COMPANY: CHECK24
+LOC: Hamburg
+POSTED: stepstone
+title: Werkstudent Softwareentwicklung (m/w/d) – Greenfield / KI Fokus, InsurTech
+company: CHECK24
+posted: 2026-10-28T11:03:10.56Z
+location: Hamburg | remote: 
+---
+Über diesen Job
+ Du codest, weil Du's liebst – nicht, weil ein Kurs es verlangt? Dann lies weiter.
+ Wir bauen bei CHECK24 ein Produkt komplett neu: kein Legacy-Code, keine gewachsenen Altlasten. Ein Greenfield-System für Millionen Nutzer – und Du bist von Tag eins an dabei, nicht am Rand, sondern mittendrin. 
+ Lust auf Greenfield? Dann bewirb Dich bei der CHECK24 Vergleichsportal für Krankenversicherungen GmbH. Wir arbeiten ausschließlich vor Ort in Hamburg – weil direkte Abstimmung, schnelles Feedback und echtes Teamgefühl für uns im Alltag den Unterschied machen. 
+ Zu Deinen Aufgaben zählen
+ Full-Stack-Verantwortung: Frontend, Backend, Infrastruktur, DevOps – keine künstlichen Grenzen. Eigene Aufgaben mit echtem Impact.
+ Architektur statt Tickets abarbeiten: Du sitzt mit im Whiteboard-Raum, wenn wir entscheiden, wie das System aufgebaut wird.
+ Ein persönlicher Mentor (m/w/d): Der Dir zeigt, was guten Code von Code, der "nur läuft", unterscheidet.
+ KI-Tools gehören bei uns zum Alltag:  Du nutzt sie, um schneller zu werden, verstehst aber, was dahintersteckt.
+ Was Du mitbringst
+ Laufendes Bachelor- oder Masterstudium: In Informatik, Computer Science oder vergleichbar z. B. an der Universität Hamburg, TUHH, HAW Hamburg oder FH Wedel.
+ Gute bis sehr gute akademische Leistungen: Deine Noten zeigen, dass Du Dinge wirklich durchdringst.
+ Deutsch auf C1-Niveau: Für Code-Reviews und technische Diskussionen.
+ Lust, Dich vor Ort in unserem Hamburger Office einzubringen: Wir arbeiten bewusst nicht remote, weil uns direkter Austausch wichtiger ist, als Flexibilität beim Arbeitsort.
+ Nice-to-have:
+ Eigene Projekte, Open-Source-Beiträge oder Side-Projects.
+ Erste Praxiserfahrung durch Nebenjob oder Praktikum z. B. mit TypeScript, PHP, React, Angular.
+ Kenntnisse in Design-Prinzipien wie SOLID oder Clean Architecture.
+ Was CHECK24 Dir bietet
+ Intensive und individuelle Einarbeitung durch Deinen persönlichen Mentor (m/w/d).  
+ Bei guter Leistung wartet nach dem Studium ein konkretes Jobangebot – egal, wie lange Deine Regelstudienzeit noch läuft.
+ Eigenverantwortung von Anfang an statt Zuarbeit.
+ Flexible Arbeitszeiten vor Ort in unserem wunderschönen Office. 
+ Du lernst jeden Tag dazu – Tech, Clean Code, Teamwork, Produktdenken und ausgezeichnete Entwicklungsperspektiven durch einen breiten Trainingskatalog und individuelle Coachings.
+ Die ganze Arbeitswoche kostenfreies Frühstück (Auswahl an verschiedenen Müslisorten), Office-Lunch, frisches Obst und Heiß- und Kaltgetränke zur freien Verfügung.
+ CHECKito Spirit: Lockeres Arbeitsumfeld mit Duz-Kultur und ohne Dresscode. Erfolge feiern wir gemeinsam auf Firmen- & Teamevents.
+ Moderne Arbeitsumgebung: Modernes Equipment (wie z. B. MacBook Pro und zusätzliche Bildschirme).
+ Zentrale Lage: Attraktiver und zentraler Standort.
+ Hast Du Fragen?
+ Felicitas Wörle
+ Felicitas.Woerle@check24.de 
+ Bitte sende uns Bewerbungen ausschließlich online über unser Bewerbungsformular.
+ Jetzt bewerben

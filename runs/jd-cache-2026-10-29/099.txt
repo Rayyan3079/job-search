@@ -1,0 +1,58 @@
+URL: https://www.linkedin.com/jobs/view/4481442671
+TITLE: Middle Data Analyst
+COMPANY: NextChallenge
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-26
+title: Middle Data Analyst
+company: NextChallenge
+posted: 2 days ago
+applicants: 69 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fpl.linkedin.com%2Fjobs%2Fview%2Fmiddle-data-analyst-at-nextchallenge-4481442671&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Role Overview: 
+ We’re looking for an experienced Middle Data Analyst to join the analytics team in the iGaming industry. You’ll take ownership of complex analytical tasks, drive data- informed decisions across multiple business functions, and serve as a go-to expert for data quality, player behaviour analytics, and reporting. If you have a solid background in gambling analytics and love working with large datasets, we want to hear from you. 
+ Key Responsibilities: 
+ Design and own end-to-end analytical workflows in Amazon Redshift — complex multi-step SQL: window functions, CTEs, large-scale joins, and performance tuning; 
+ Conduct deep-dive player behaviour analyses: segmentation, RFM modelling, cohort analysis, LTV forecasting, and churn prediction; 
+ Analyse A/B test results — interpret statistical significance, evaluate group comparability, identify confounding factors, and deliver clear recommendations to stakeholders; 
+ Track and analyse iGaming KPIs — GGR, NGR, bonus abuse index, deposit/withdrawal trends, player LTV, and churn — proactively flagging anomalies; 
+ Integrate and actively apply AI tools into day-to-day analytical work: prompt engineering, AI-assisted SQL generation, automated insight summarisation; 
+ Translate complex data findings into clear, actionable outputs for non- technical stakeholders via Excel reports and presentations; 
+ Learn and work in EasyMorph for reporting and data preparation tasks as part of team onboarding. 
+ Required Skills & Experience: 
+ Technical skills: 
+ 3–4 years of hands-on experience as a Data Analyst in iGaming or online gambling — mandatory; 
+ Advanced SQL in Amazon Redshift — window functions, CTEs, subqueries, query optimisation, and working with large-scale datasets; 
+ Experience with BI tools (Power BI, Tableau, Looker, or similar) — working with dashboards and using them to extract insights; 
+ Proficiency in Excel: advanced pivot tables, VLOOKUPs, and executive-level reporting; 
+ Strong command of iGaming KPIs: GGR, NGR, player LTV, churn rate, bonus abuse metrics, deposit/withdrawal volumes; 
+ Solid understanding of A/B test analysis — interpreting p-values, confidence intervals, and effect sizes; experience evaluating pre-test group balance and flagging randomisation issues; 
+ Practical use of AI tools in analytical workflows: LLMs for insight generation, AI-assisted querying, prompt engineering for data tasks; 
+ Strong data quality mindset — ability to sense-check numbers, investigate inconsistencies, and ensure analytical accuracy; 
+ Clear English communication, written and verbal (upper-intermediate+). 
+ Nice to Have: 
+ Familiarity with Amazon QuickSight: navigating dashboards, using built-in features (Q / flow), filters, and calculated fields; 
+ Exposure to EasyMorph or similar ETL/data preparation platforms. 
+ Soft Skills: 
+ High ownership and autonomy — you manage your tasks end-to-end without hand-holding; 
+ Structured analytical thinking — you break down ambiguous business questions into clear data problems; 
+ Proactive communication — flagging anomalies, pushing back on flawed assumptions, and keeping stakeholders aligned; 
+ Ability to manage multiple priorities and deliver under deadlines in a fast-paced environment; 
+ Collaborative mindset — comfortable working across teams and supporting junior colleagues. 
+ The company guarantees you the following benefits: 
+ A positive workplace atmosphere that creates a culture of collaboration and support, making it a place you'll love working in; 
+ Competitive compensation and regular career development reviews; 
+ Flexible working hours and remote working options, you'll enjoy the freedom that the company provides; 
+ A generous vacation and sick leave policy, allowing you to take time off and enjoy a work-life balance; 
+ Financial assistance for professional development, helping you stay ahead of the curve and love your career path; 
+ Educational Allowances that give you the opportunity to expand your knowledge and experience; 
+ You'll have a monthly allowance for personal activities, giving you the opportunity to pursue your interests and hobbies outside of work; 
+ A comprehensive health insurance plan, depending on your current location; 
+ Referral program with financial rewards for bringing top talent to the company; 
+ Engaging in team-building activities and corporate parties. 
+ Interview process: 
+ HR Interview with the Recruiter; 
+ 30-minute technical interview; 
+ 1.5-hour Final interview with the team; 
+ Final decision. 
+ If you find this opportunity right for you, don't hesitate to apply or get in touch with us if you have any questions!

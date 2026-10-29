@@ -1,0 +1,29 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-in-Data-Science-Unterstuetzung-im-Bereich-AI-Hattersheim-am-Main-Hilscher-Gesellschaft-fuer-Systemautomation-mbH--14690375-inline.html
+TITLE: Werkstudent:in Data Science – Unterstützung im Bereich AI
+COMPANY: Hattersheim am Main
+LOC: Hattersheim am Main
+POSTED: stepstone
+title: Werkstudent:in Data Science – Unterstützung im Bereich AI
+company: 
+posted: 2026-10-27T15:15:12.207Z
+location:  | remote: 
+---
+Einleitung
+ Ab dem 1. Januar 2027 suchen wir ein:e Student:in aus dem Bereich Data Science zur Unterstützung unserer AI-Aktivitäten. Du wirkst an der Weiterentwicklung von Workflows und Prozessen mit und hilfst dabei, den Einsatz von AI im Unternehmen praktisch und strukturiert voranzubringen.  
+ Ihre Aufgaben
+  Prozessautomation
+ Daten Management 
+ Aufbereitung von strukturierten/unstrukturierten Daten
+ Pflegen von RAG Systemen
+ Zu deinen Aufgaben gehören außerdem, aktuelle Entwicklungen und Themen im Bereich AI zu verfolgen und ihre Bedeutung für unser Unternehmen im Team einzuordnen. Du bereitest relevante Erkenntnisse verständlich auf und unterstützt dabei, daraus mögliche Anwendungsfälle und nächste Schritte abzuleiten.  
+ Ihr Profil
+  Du studierst Data Science oder ein verwandtes Fach, interessierst dich für aktuelle AI-Entwicklungen und arbeitest gerne strukturiert. Eigeninitiative, eine klare Kommunikation und die Fähigkeit, technische Themen verständlich aufzubereiten, sind von Vorteil.
+ Wir bieten
+  Du wirst Teil des AI Lab Teams.
+Wir kümmern uns darum, Infrastruktur für AI Anwendungen bereit zu stellen, Daten zugänglich zu machen und damit (langwierige) Prozesse zu automatisieren.
+Wir sind ein hybrides Team, das in Lemgo und in Hattersheim am Main (nähe Frankfurt) arbeitet. 
+ Weitere Informationen
+ Hilscher Gesellschaft für Systemautomation mbH 
+ Rheinstrasse 15
+65795 Hattersheim
+ http://www.hilscher.com

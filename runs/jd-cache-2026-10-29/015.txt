@@ -1,0 +1,46 @@
+URL: https://www.stepstone.de/stellenangebote--Senior-SAP-HCM-Consultant-Fokus-ILM-Datenschutz-m-w-d-bundesweit-Home-Office-Galahad-SNR-GmbH--14384963-inline.html
+TITLE: (Senior) SAP HCM Consultant - Fokus ILM & Datenschutz (m/w/d)
+COMPANY: Galahad SNR GmbH
+LOC: bundesweit, Home-Office
+POSTED: stepstone
+title: (Senior) SAP HCM Consultant - Fokus ILM & Datenschutz (m/w/d)
+company: Galahad SNR GmbH
+posted: 2026-10-27T14:03:09.323Z
+location: bundesweit | remote: 
+---
+Über die Rolle im Unternehmen
+ Als SAP HCM Berater mit Fokus ILM bist du die zentrale Schnittstelle zwischen unseren Kunden, den Fachabteilungen und der IT. Du vereinst tiefgehendes fachliches Know-how im Bereich Datenschutz, Datenlöschung und Archivierung mit starker Beratungskompetenz. Du begleitest den gesamten Lebenszyklus der Daten in SAP-HCM-Anwendungslandschaften, von der Anforderungsanalyse und Konzeption von ILM-Regelwerken bis hin zur Steuerung der Umsetzung und kontinuierlichen Betreuung. Deine Expertise ist entscheidend für die DSGVO-konforme Datenhaltung, die Erstellung tragfähiger Change-Konzepte sowie die Vorbereitung von HCM-Systemen auf S/4HANA-Transformationen. Du bist nicht nur operativ im Incident- und Request-Management tätig, sondern gestaltest auch aktiv kundenindividuelle Compliance- und Governance-Prozesse der Zukunft.
+ Deine Aufgaben
+ Beratung und Betreuung unserer Bestandskunden im Bereich SAP HCM mit spezialisiertem Schwerpunkt auf Information Lifecycle Management (ILM) und Datenschutz
+ Konzeption, Einrichtung und Pflege von ILM-Regelwerken (Retention Rules, Destruction Rules, Sperren und Löschen von Personendaten)
+ Unterstützung und Beratung bei der Anonymisierung und DSGVO-konformen Löschung von Stammdaten und Abrechnungsergebnissen
+ Bearbeitung und Lösung von Kundenanfragen und Tickets im Rahmen unseres Incident- und Request-Management-Systems
+ Erstellung, Umsetzung und Dokumentation von Change-Konzepten zur Vorbereitung von S/4HANA-Migrationen und Datenbereinigungen
+ Spezifikation, Aufwandsindikation und Erfassung kundenindividueller, fachlicher und betriebswirtschaftlicher Anforderungen
+ Durchführung von Kundenworkshops, Schulungen und die aktive Begleitung von Compliance-Audits
+ Dein Profil
+ Abgeschlossenes Studium der Wirtschaftsinformatik, Betriebswirtschaftslehre oder eine vergleichbare Ausbildung
+ Mindestens 3–5 Jahre fundierte Berufserfahrung in der SAP-HCM-Beratung
+ Vertiefte Kenntnisse und praktische Erfahrung im Umgang mit SAP NetWeaver ILM / SAP HCM ILM (u. a. Regelwerke, ILM-Objekte, Archivierung)
+ Fundierte Erfahrung mit den rechtlichen und technischen Anforderungen der DSGVO im SAP-HCM-Umfeld
+ Kenntnisse bezüglich Datenmigration, Datenbereinigung oder der Vorbereitung auf SAP HCM for S/4HANA (H4S4) von Vorteil
+ Selbstständige, strukturierte und lösungsorientierte Arbeitsweise
+ Ausgeprägte Kommunikationsstärke, Beraterpersönlichkeit und Teamfähigkeit
+ Sehr gute Deutsch- (C1/Muttersprache) und fließende Englischkenntnisse
+ Das erwartet dich
+ Arbeitszeit & Flexibilität: Flexible Arbeitszeiten, Vertrauensarbeitszeit und 100 % Home-Office-Möglichkeit
+ Work-Life-Balance: Sabbatical-Option, FlexWork (bis zu 3 Monate pro Jahr remote aus dem europäischen Ausland arbeiten) und 30 Tage Urlaub
+ Ausstattung: Modernes IT-Equipment (Firmenlaptop, Smartphone) sowie Firmenwagen-Option inkl. Tank-/Ladekarte
+ Entwicklung: Gezielte Aus- und Weiterbildung, individuelle Schulungsangebote und ein persönliches Mentorenprogramm
+ Benefits & Gesundheit: Monatliches Benefit-Budget
+ Vorsorge: Zuschüsse zur betrieblichen Altersvorsorge und vermögenswirksamen Leistungen
+ Unser Mindset: Echter Teamspirit, respektvolles Miteinander auf Augenhöhe, Duz-Kultur, gelebte Vielfalt und regelmäßige Mitarbeitendenevents
+ Weitere Informationen
+ Standort: Deutschlandweit (Remote)
+ Beschäftigungsart: Vollzeit (Unbefristet)
+ Start: Zum nächstmöglichen Zeitpunkt / Flexibel
+ Martin Kadur 
+ Recruitment Consultant
+ Galahad SNR GmbH 
+ Friedrichstraße 171
+10117 Berlin

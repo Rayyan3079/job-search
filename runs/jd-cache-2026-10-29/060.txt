@@ -1,0 +1,39 @@
+URL: https://www.linkedin.com/jobs/view/4483670324
+TITLE: Werkstudent Sales Data Architecture & Agentic AI (m/w/d/x)
+COMPANY: Mercedes-Benz Tech Innovation
+LOC: Ulm, Baden-Württemberg, Germany
+POSTED: 2026-10-27
+title: Werkstudent Sales Data Architecture & Agentic AI (m/w/d/x)
+company: Mercedes-Benz Tech Innovation
+posted: 1 day ago
+applicants: 28 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-sales-data-architecture-agentic-ai-m-w-d-x-at-mercedes-benz-tech-innovation-4483670324&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Jetzt bewerben!
+ Wir sind Mercedes-Benz Tech Innovation - doch wir bauen keine Autos: Wir definieren die Zukunft mit Technologie.
+ Als größte Tech Company der Mercedes-Benz Group AG arbeiten rund 2.500 Mitarbeitende in Ulm, im Raum Stuttgart, in Berlin und in Karlsruhe sowie in internationalen Tech Hubs an den Techniktrends der Mobilität von morgen.
+Uns verbindet die Begeisterung für Innovation und neueste Technologien – kombiniert mit der Überzeugung, dass individuelle Freiheit und Eigenverantwortung für echten Fortschritt entscheidend sind. Wir sind #techinnovators.
+ Mehr über uns erfahren Über uns Mercedes-Benz Tech Innovation GmbH
+ Welche Aufgaben erwarten dich?
+ Als Werkstudet Sales Data Architecture & Agentic AI (m/w/d/x) unterstützt du das Team bei der Analyse und Harmonisierung globaler Sales- und Master-Daten über verschiedene Märkte und Systeme hinweg.
+ Du wirkst bei der Entwicklung von Datenmodellen, semantischen Modellen und Ontologien mit, um ein einheitliches Verständnis von Sales-Daten zu schaffen.
+ Zudem unterstützt du bei der Konzeption und Entwicklung innovativer Talk-to-Data-Lösungen und AI Agents.
+ Du analysierst bestehende Datenstrukturen und untersuchst Zusammenhänge zwischen verschiedenen Geschäftsbegriffen und Daten.
+ Du dokumentierst Datenstrukturen, Geschäftsbegriffe und deren Beziehungen und bereitest komplexe Informationen verständlich auf.
+ Darüber hinaus arbeitest du eng mit Data Architects, Data Engineers und AI Engineers zusammen und unterstützt bei der Entwicklung innovativer Daten- und KI-Lösungen.
+ Wie passt du in unser Team?
+ Bereit, durchzustarten? Wenn du uns mit nachweislich hervorragenden Deutsch- und Englischkenntnissen überzeugst und deine vollständigen Bewerbungsunterlagen (Anschreiben, Lebenslauf, Notenübersicht, Immatrikulationsbescheinigung sowie ggf. Aufenthaltsgenehmigung/Arbeitserlaubnis) vorliegen, bist du nur noch einen Klick von deiner Chance entfernt.
+ Kleiner Tipp: Bei der Flut an Top-Bewerbungen, die wir bekommen, ist eine lückenlose Bewerbung dein einziges Ticket ins Spiel. Ohne das komplette Paket geht's für dich leider nicht weiter – no exceptions!
+ Du studierst Informatik, Wirtschaftsinformatik, Data Science, Künstliche Intelligenz oder einen vergleichbaren Studiengang.
+ Du interessierst dich für Datenarchitekturen, Datenmodellierung und Künstliche Intelligenz und hast Freude daran, dich mit innovativen Technologien auseinanderzusetzen.
+ Du bringst erste praktische Erfahrungen mit Python und SQL mit.
+ Idealerweise verfügst du bereits über Kenntnisse in den Bereichen Master Data Management, semantische Modellierung, Ontologien, Knowledge Graphs oder AI Agents.
+ Du arbeitest selbstständig und analytisch und hast Freude daran, komplexe Zusammenhänge zu erkennen und strukturiert aufzubereiten.
+ Gute Deutsch- und Englischkenntnisse in Wort und Schrift runden dein Profil ab.
+ Benefits
+ Flexible Arbeitsgestaltung
+ Damit neben Studium und Arbeit noch genügend Freizeit bleibt, bekommst du bei uns anteilig 30 Urlaubstage sowie die Möglichkeit, deine Arbeitszeiten flexibel zu planen. In Abstimmung mit deinem Team und deinem Ansprechpartner hast du auch die Möglichkeit, remote zu arbeiten . Zudem sind nahezu alle unsere Stellen geeignet, um in Teilzeit ausgeführt zu werden.
+ Mittendrin statt nur dabei
+ Du begleitest innovative Projekte am Puls der Zeit und übernimmst verantwortungsvolle Aufgaben, so bist du von Beginn an ein vollwertiges Mitglied unseres Teams! Natürlich profitierst du hierbei von einem attraktiven Gehalt .
+ Begegnung auf Augenhöhe
+ Bei Mercedes-Benz Tech Innovation sind wir ein Team! Unsere Zusammenarbeit basiert auf gegenseitigem Vertrauen und Respekt. Flache Hierarchien , eine wertschätzende Atmosphäre , Offenheit und Aufgeschlossenheit gehören bei uns zum Arbeitsalltag. Damit dein Start bei uns gelingt, erhältst du eine individuelle Einarbeitung und einen direkten Ansprechpartner .

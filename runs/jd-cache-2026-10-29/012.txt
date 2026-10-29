@@ -1,0 +1,45 @@
+URL: https://www.stepstone.de/stellenangebote--IT-Consultant-Public-Sector-w-m-d-Berlin-Erfurt-Muenchen-Frankfurt-am-Main-Fabasoft-International-Services-GmbH--14429994-inline.html
+TITLE: IT Consultant – Public Sector (w/m/d)
+COMPANY: Fabasoft International Services GmbH
+LOC: Berlin, Erfurt, München, Frankfurt am Main
+POSTED: stepstone
+title: IT Consultant – Public Sector (w/m/d)
+company: Fabasoft International Services GmbH
+posted: 2026-10-29T01:08:33.217Z
+location: Berlin | remote: 
+---
+Einleitung
+ Fabasoft ist ein führender Anbieter innovativer Softwareprodukte, die Unternehmen stärken und deren digitale Transformation vorantreiben. Unser Erfolg basiert auf einem ambitionierten Team, das mit Leidenschaft und Tatkraft neue Maßstäbe setzt, stets höchste Exzellenz anstrebt und Verantwortung für nachhaltiges Wachstum übernimmt. Wir glauben an kontinuierliche Weiterentwicklung und schaffen ein Umfeld, in dem deine Ideen zählen und du aktiv zur Unternehmensstrategie beitragen kannst.
+ Die öffentliche Verwaltung arbeitet mit Millionen von Dokumenten, komplexen Verfahren und hohen Anforderungen an Sicherheit und Nachvollziehbarkeit. Mit unseren Government Solutions in der Fabasphere unterstützen wir Behörden dabei, ihre Akten- und Geschäftsprozesse digital, souverän und KI-gestützt weiterzuentwickeln.
+ So sieht dein neuer Job aus:
+ Als IT-Consultant realisierst du unsere Government Solutions beim Kunden und machst digitale Verwaltungsprozesse nutzbar. Du überführst fachliche Anforderungen und Lösungskonzepte in konkrete technische Lösungen, konfigurierst digitale Akten- und Geschäftsprozesse und begleitest die technische Umsetzung bis zum erfolgreichen Produktivbetrieb. Dabei arbeitest du eng mit Beratung, Projektleitung und Kunden-IT zusammen – von der technischen Vorbereitung und Datenmigration bis zum Rollout.
+Wir sind auf der Suche nach weiterer Unterstützung!
+ Du übersetzt fachliche Konzepte und Spezifikationen in konkrete Umsetzungsschritte, schätzt die Aufwände für deine Arbeitspakete und begleitest die technische Einführung unserer Government Solutions beim Kunden.
+ Du bereitest gemeinsam mit der Kunden-IT die benötigte Infrastruktur vor, installierst und konfigurierst unser Standardprodukt und integrierst es in bestehende IT-Landschaften. Dabei stimmst du Systemvoraussetzungen, Schnittstellen und technische Erweiterungsbedarfe mit unserer Softwareentwicklung ab.
+ Du modellierst und konfigurierst digitale Akten- und Geschäftsprozesse mit unseren Low-Code/No-Code-Werkzeugen und setzt Rollen, Berechtigungen, Metadaten, Ablagestrukturen, Workflows sowie Integrationen zu Fachverfahren und Drittsystemen um.
+ Du planst und begleitest Datenmigrationen – von der Analyse der Quelldaten über die Definition von Mappings und Testmigrationen bis zur produktiven Übernahme.
+ Du setzt dokumentenbezogene KI-Use-Cases technisch um und integrierst Funktionen wie Dokumentenklassifikation, Information Extraction, RAG-basierte Recherche oder Vollständigkeitsprüfungen in bestehende Prozesse.
+ Du führst Funktions-, Integrations- und Migrationstests durch, analysierst Fehler und arbeitest gemeinsam mit Entwicklung, Betrieb und Projektteam an nachhaltigen Lösungen.
+ Du begleitest Abnahmen, Produktivsetzungen und Rollouts, dokumentierst die umgesetzte Lösung und stellst eine strukturierte Übergabe an Betrieb und Support sicher. Zudem unterstützt du durch Einführungs- und Administrationsworkshops den nachhaltigen Betrieb.
+ So stellen wir uns dich vor:
+ Du verfügst über eine abgeschlossene IT-Ausbildung (z. B. Wirtschaftsinformatik/Informatik oder vergleichbare Qualifikation) und bringst erste Berufserfahrungen im Bereich Technical Consulting, Systemintegration oder in einem vergleichbaren techni-schen Umfeld mit – idealerweise im Public Sector oder in regulierten Umgebungen.
+ Du arbeitest hands-on und überführst technische Konzepte in stabile, nachvollziehbar konfigurierte Lösungen. Dabei kennst du Windows-/Linux-Umgebungen, Grundlagen von Webanwendungen und Netzwerken sowie Themen wie Softwarebereitstellung, Zertifikate und Identitätsmanagement.
+ Du bringst technische Kenntnisse in APIs, Datenbanken und Schnittstellen mit und kannst Datenstrukturen analysieren. Erfahrungen mit SQL sowie Skript- oder Programmiersprachen sind von Vorteil.
+ Du hast ein Verständnis für Datenmigrationen und Prozessdigitalisierung und kannst Datenstrukturen, Mappings und Migrationsergebnisse nachvollziehen und systematisch prüfen. Interesse oder Erfahrung mit Low-Code-/No-Code-Plattformen, Prozessautomatisierung und KI-Anwendungen ist ein Plus.
+ Du arbeitest strukturiert, dokumentierst sorgfältig und findest pragmatische Lösungen für technische Herausforderungen. Gleichzeitig kommunizierst du klar und arbeitest gerne mit Fachbereichen, IT, Informationssicherheit und Projektleitung zusammen.
+ Du verfügst über sehr gute Deutschkenntnisse sowie sehr gute Englischkenntnisse in Wort und Schrift.
+ We really care for experts – und das zeigen wir mit:
+ We really care for experts – und das zeigen wir mit 
+ einem inspirierenden Arbeitsumfeld mit modernstem Bürostandard
+ einer erstklassigen Verpflegung (Frühstück, Kaffee, Getränke, Obst uvm.) und tierisch gu-ten Teamevents
+ einem stressfreien Arbeitsweg (großzügige Unterstützung des Deutschlandtickets)
+ einem monatlichen Homeoffice-Kontingent
+ einem Umfeld, in dem du Verantwortung übernehmen und eigene Ideen einbringen kannst
+ … to be continued ( https://www.fabasoft.com/de/karriere/dein-idealer-lebensraum )
+ Wir leben Offenheit und Gleichbehandlung, daher wünschen wir uns ausdrücklich Bewerbungen aus allen Altersgruppen, unabhängig von Geschlecht, Behinderungen, Herkunft, sozialem und ethnischem Hintergrund, Religion, Weltanschauung oder sexueller Identität. 
+ Wir gestalten Geschäftsprozesse in einer digitalen Welt – so auch unseren Bewerbungsprozess. Deshalb akzeptieren wir ausschließlich Bewerbungen, die über das Formular auf unserer Website kommen.
+ Kontakt
+ Caroline Kocmann
+ People & Development Managerin 
+ E-Mail: job@fabasoft.com 
+Tel.: +43 732 606162-0

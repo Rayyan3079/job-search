@@ -1,0 +1,51 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-AI-Cybersecurity-m-w-d-x-Stuttgart-Mercedes-Benz-Tech-Innovation--14691214-inline.html
+TITLE: Werkstudent AI Cybersecurity (m/w/d/x)
+COMPANY: Mercedes-Benz Tech Innovation
+LOC: Stuttgart
+POSTED: stepstone
+title: Werkstudent AI Cybersecurity (m/w/d/x)
+company: Mercedes-Benz Tech Innovation
+posted: 2026-10-27T20:20:31.65Z
+location: Stuttgart | remote: 
+---
+Life is always about becoming… Im Leben geht es darum, sich auf eine Reise zu begeben, um die beste Version unseres zukünftigen Selbst zu werden. Während wir Neues entdecken, stellen wir uns Herausforderungen, meistern sie und wachsen über uns hinaus.
+Bewerben Sie sich bei Mercedes-Benz und finden Sie den Aufgabenbereich, in dem Sie Ihre Talente individuell entfalten können. Dabei werden Sie von visionären Kolleginnen und Kollegen unterstützt, die Ihren Pioniergeist teilen. Bei uns einzusteigen bedeutet, Teil eines globalen Teams zu werden, dessen Ziel es ist, die begehrenswertesten Automobile der Welt zu bauen. Together for excellence.
+Stellennummer: V000080414
+ Aufgaben
+ Welche Aufgaben erwarten dich?
+ Als Werkstudent im Bereich AI Cybersecurity (m/w/d/x) unterstützt du unser Team bei der Erforschung und Absicherung von KI-Systemen — die konkreten Schwerpunkte entwickeln sich mit dem Feld weiter.
+ Je nach aktuellem Fokus arbeitest du z.B. an Security-Evaluierungen, baust Testing-Pipelines auf, entwickelst interne Tools oder hilfst beim Aufbau von Benchmark-Katalogen.
+ Du nutzt moderne Entwicklungswerkzeuge einschließlich Agentic Coding Tools und AI-gestützter Entwicklungsumgebungen, um effizient Prototypen und Lösungen umzusetzen.
+ Du hältst dich über aktuelle Angriffstechniken, Verteidigungsstrategien und neue Tools im AI-Security-Umfeld auf dem Laufenden und bringst dein Wissen aktiv ins Team ein.
+ Qualifikationen
+ Wie passt du in unser Team?
+ Bereit, durchzustarten? Wenn du uns mit nachweislich hervorragenden Deutsch- und Englischkenntnissen überzeugst und deine vollständigen Bewerbungsunterlagen (Anschreiben, Lebenslauf, Notenübersicht, Immatrikulationsbescheinigung sowie ggf. Aufenthaltsgenehmigung/Arbeitserlaubnis) vorliegen, bist du nur noch einen Klick von deiner Chance entfernt.
+ Kleiner Tipp: Bei der Flut an Top-Bewerbungen, die wir bekommen, ist eine lückenlose Bewerbung dein einziges Ticket ins Spiel. Ohne das komplette Paket geht's für dich leider nicht weiter – no exceptions!
+ Du bist immatrikulierter Student (m/w/d/x) der (Wirtschafts-)Informatik oder eines vergleichbaren Studiengangs und interessierst dich für IT-Sicherheit und Künstliche Intelligenz.
+ Erfahrung mit Python und Linux-Umgebungen ist essenziell; Kenntnisse in Cloud-Technologien (Terraform, Docker) sind ein Plus.
+ Idealerweise hast du bereits mit Sprachmodellen, Agentic Tools (z.B. Claude Code, Cursor, Copilot) oder AI-Security-Themen (z.B. OWASP LLM Top 10) gearbeitet.
+ Du bringst Neugier und die Bereitschaft mit, dich schnell in wechselnde Themenfelder einzuarbeiten.
+ Eigeninitiative, analytisches Denkvermögen und Teamfähigkeit runden dein Profil ab.
+ Benefits
+ Hybrides Arbeiten möglich 
+ Mit­arbeiter­handy möglich 
+ Gesund­heits­maß­nahmen 
+ Mit­arbeiter­rabatte möglich 
+ Mit­arbeiter Events 
+ Essens­zulagen 
+ Lebens­langes Lernen 
+ Mobilitäts­angebote 
+ Mit­arbeiter­beteili­gung möglich 
+ Coaching 
+ Betrieb­liche Alters­ver­sorgung 
+ Flexible Arbeits­zeit möglich 
+ Park­platz 
+ Kantine, Café 
+ Gute An­bindung 
+ Barriere­frei­heit 
+ Kontakt
+Mercedes-Benz Tech Innovation GmbH
+Email: mbti-career@mercedes-benz.com 
+Mercedes-Benz Tech Innovation GmbH, Stuttgart
+Gropiusplatz 10
+70563 Stuttgart

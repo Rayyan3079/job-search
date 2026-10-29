@@ -1,0 +1,49 @@
+URL: https://www.linkedin.com/jobs/view/4481425715
+TITLE: Value Analyst (f/m/d) - Working Student
+COMPANY: One Data
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-10-26
+title: Value Analyst (f/m/d) - Working Student
+company: One Data
+posted: 2 days ago
+applicants: 102 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fvalue-analyst-f-m-d-working-student-at-one-data-4481425715&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+How You Can Contribute To Our Shared Success
+ Join the Value Engineering team at One Data and help customers understand the business value of our software for them. Our team covers presales and the initial phase of W2V projects, our paid presales engagements. Working alongside experienced Value Engineers, you help translate customer requirements into relevant demos, first results, and quantifiable value, for example in SAP BW migration and data product management. Interested? Then we are looking for you to grow with us as a Value Analyst (f/m/d) - Working Student and become part of our team!
+ These tasks are waiting for you in our team
+ You help prepare and participate in customer meetings and discovery workshops, documenting business and technical requirements and identifying and quantifying relevant use cases.
+ You prepare demo data and support the setup, testing and presentation of customer demos with One Data; to do this, you help develop an Agentic AI framework for demo building.
+ You help to carry out complex analyses with the help of our One Data software and other tools. 
+ You support data analyses using One Data, SQL or Python within Datasphere, Databricks, and/or Snowflake to assess data quality and the technical feasibility of customer use cases.
+ You help build value arguments and business cases that make potential benefits tangible, such as time savings, reduced manual effort or improved data quality.
+ You turn findings into clear customer presentations and help maintain reusable demos, templates and documentation together with Sales and our technical teams.
+ Your Data - What We Are Looking Forward To
+ You are highly motivated to work in presales at the intersection of large enterprises, AI and data.
+ You have relevant experience or are currently studying a subject relevant to the position, e.g., computer science, business informatics, business administration, natural sciences, mathematics.
+ You are equally enthusiastic about presales and AI- or data-inspired work and are excited about solving problems with an analytical mindset.
+ You have already gained some experience with Python and have knowledge of databases and SQL.
+ Our team is the most important thing we have, so collaboration, learning from each other and communication should be important to you. 
+ Fluent German and a good command of English are required.
+ Why you´ll enjoy life at One Data**
+ Shareholding program: Our One Datas can share in the company’s success through virtual shares. 
+ Meal allowance: Monthly meal allowance for your lunch in cooperation with Circula. 
+ Company pension: Secure individual subsidies for your company pension plan. 
+ Childcare: We can offer solutions at short notice and subsidies for care andadditional holidays if your child should fall ill. 
+ Flexible working arrangements: Sabbatical, flexible working hours in full-time or part-time employment.
+ Workcation: Don’t think it’s possible to combine work and holiday? It is with us! 
+ Health: Bike leasing is part of our company health management policy. 
+ Referral bonus: Recommend optimal candidates for company vacancies and secure a nice bonus in the process. 
+ Home office equipment: You can choose between a Mac or Windows laptop. In addition to a monitor, we will also provide you with the equipment you need, such as a keyboard, headset, a company mobile phone and other items – so that you are well prepared for the Hackln* from home. 
+ Our corporate culture: Driven by the shared values of respect, authenticity and commitment, we practice a culture of mutual learning coupled with open and direct communication – regardless of position! We achieve this with direct communication channels and flat hierarchies, right up to our Founder and Managing Director Andi. 
+ Also on offer: Small Christmas and birthday gifts as well as complimentary drinks and snacks in the office. Table football, table tennis and other entertainment options in the offices as well as regular company and team events provide plenty of options for a variety of interactions alongside everyday work. And of course: awesome colleagues! 
+ **Our benefits are available to all permanent employees
+ Become part of our success story! 
+ Our One Data Recruiting Team (jobs@onedata.ai) is looking forward to hearing from you!
+ About Us
+ One Data is a German software company leading the category of Data Product Lifecycle Management. Its standard software solution is the Data Product Space, that is a collaborative software platform where business and data teams come together to define, build, and scale trusted, AI-ready data products.
+Founded in 2013 by Dr. Andreas Böhm in Passau, Germany, One Data enables organizations to transform fragmented data landscapes into structured, governed, and reusable data assets that deliver measurable business value. With deep expertise in data lifecycle management, the company helps enterprises accelerate time-to-insight, reduce costs, and lay the foundation for responsible AI adoption.
+Our steadily growing team of around 150 talented individuals from more than 20 nations works in Passau, Munich, Frankfurt and Berlin. Our colleagues are our top priority – our success is built on their know-how, creativity and commitment. Our working environment is based on mutual respect, authenticity and commitment. We give our One Datas the freedom to express their creativity and they receive our full support for their development – so that they can maximize their potential with us.
+For more impressions of who WE are and more info about One Data, and our solutions, visit www.onedata.ai.
+Got us on your radar now? Awesome! Then apply for one of our vacancies here and get to know us personally. We look forward to hearing from you.
+On our Kununu page you can also see for yourself why One Data is the perfect match for you.

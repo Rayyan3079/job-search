@@ -1,0 +1,28 @@
+URL: https://www.linkedin.com/jobs/view/4457838253
+TITLE: Data Scientist - Machine Learning
+COMPANY: United Airlines India Knowledge Center
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-27
+title: Data Scientist - Machine Learning
+company: United Airlines India Knowledge Center
+posted: 1 day ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fin.linkedin.com%2Fjobs%2Fview%2Fdata-scientist-machine-learning-at-united-airlines-india-knowledge-center-4457838253&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Achieving our goals starts with supporting yours. Grow your career, access top-tier health and wellness benefits, build lasting connections with your team and our customers, and travel the world using our extensive route network.
+Come join us to create what’s next. Let’s define tomorrow, together.
+ Description
+ Job overview and responsibilities
+ The Data Scientist designs, develops, and implements scalable AI and Generative AI solutions that improve customer experience, business efficiency, and decision-making. The role builds production-grade applications and workflows using Python, SQL, large language models, Retrieval-Augmented Generation, and agentic AI frameworks. It applies advanced analysis, prompt engineering, evaluation, and observability practices to deliver reliable and useful AI capabilities. The role partners with cross-functional teams to translate ambiguous business needs into practical solutions and clearly communicate findings and recommendations.
+ This position is offered on local terms and conditions. Expatriate assignments and sponsorship for employment visas, even on a time-limited visa status, will not be awarded.
+ Qualifications
+ What’s needed to succeed (Minimum Qualifications):
+ Master’s or Ph.D. degree. 
+ Data Science, Statistics, Engineering, Computer Science, Operations Research, or a related STEM field. 
+ 4–7+ years of industry experience in AI engineering, data science, machine learning, or applied advanced analytics, including production model deployment. 
+ Advanced proficiency in Python and SQL, with software engineering best practices including object-oriented programming, Git, and CI/CD; experience architecting data pipelines and working with large datasets in relational or distributed databases such as Snowflake, BigQuery, SQL Server, or Teradata; deep expertise in Generative AI, including prompt engineering, LLM fine-tuning, embeddings, RAG, vector databases, and Agentic AI frameworks; hands-on MLOps or LLMOps experience covering model monitoring, latency management, drift mitigation, and system reliability; 
+ Fluent in written and spoken English. 
+ What will help you propel from the pack (Preferred Qualifications):
+ Advanced coursework or specialization in machine learning, artificial intelligence, applied statistics, or cloud computing. 
+ Experience deploying and scaling enterprise Generative AI applications, particularly multi-agent frameworks or enterprise-scale Retrieval-Augmented Generation. 
+ Relevant cloud, machine learning, or MLOps certification.

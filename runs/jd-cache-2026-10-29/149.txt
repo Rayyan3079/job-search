@@ -1,0 +1,64 @@
+URL: https://www.linkedin.com/jobs/view/4480669891
+TITLE: Intern Technology Consultant - Data & AI
+COMPANY: Celonis
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-10-23
+title: Intern Technology Consultant - Data & AI
+company: Celonis
+posted: 5 days ago
+applicants: 68 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fintern-technology-consultant-data-ai-at-celonis-4480669891&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI's operational blind spots into operational clarity. World's leading companies trust Celonis and its global ecosystem of partners to make their AI agents, people, systems, and processes work together, achieving transformational outcomes. We believe there's a massive opportunity to unlock global productivity and sustainability by giving AI the context to understand how every business process really works. Join our mission to make processes work for people, companies, and the planet.
+ The Team
+ Celonis Services is the delivery engine of our Celonis Customer Organization, responsible for turning the Celonis platform into measurable, business-critical outcomes for our customers. In the AI era, our role has elevated: as AI agents like our own Apollo take on more of the technical build, our people focus on the work that drives real impact — understanding our customers' business-critical problems, designing the solutions that solve them, and quantifying the value delivered. Our team pairs deep domain and industry expertise with serious platform mastery and AI-augmented delivery, directing agentic systems while owning the judgment, architecture, and customer relationships that AI cannot replace. We deliver faster and smarter than ever, and we own the outcome: solution go-live, solution adoption, initial value realization support and the long-term success of our customers.
+ The Role
+ As an intern, you will have the unique opportunity to learn and grow through hands-on experiences. Your role will involve utilizing our cutting-edge AI deployment tools to develop innovative solutions for our customers, together with more experienced Deployment Engineers.
+This is not a traditional engineering role where you build everything manually. You will be introduced to AI-augmented and business-focused software delivery: helping specify what needs to be built, learning to direct AI agents to execute, and assisting in validating the results. Participation in team meetings and workshops will offer valuable insights into the decision-making process within the company.
+ The Work You’ll Do
+ Initiate and Connect
+ Conduct customer-facing sessions with experienced Deployment Engineers to discuss ongoing projects, translate strategic objectives into use cases, and receive guidance on best practices.
+ Assist in gathering and organizing relevant data from various sources, ensuring data accuracy and consistency for analysis.
+ Build
+ Learn to direct AI deployment agents (like Apollo) to build data models, process analyses, KPIs, and dashboards by helping to write clear specifications.
+ Conduct exploratory data analysis, utilizing Celonis and other tools to uncover trends, process inefficiencies, and root causes.
+ Assist in defining the initial solution design blueprint and configuring operational solutions across the platform.
+ Value & Rollout
+ Support the validation of AI-generated outputs for accuracy and business relevance alongside senior team members.
+ Help develop and maintain KPIs to track the success of project initiatives and quantify business impact.
+ Assist in documenting solution design decisions and configurations for future reference and customer handover.
+ What Makes This Role Different In The AI Era
+ You will learn to work with AI agents as your primary tools, focusing on validating and refining their output rather than writing every line of code manually.
+ You will develop foundational specification and context engineering skills to help translate business needs into precise AI instructions.
+ As you navigate a fast-paced environment, you will learn how to adapt quickly to changes and new approaches as AI capabilities evolve.
+ The Qualifications You Need
+ Student of Technology Management, Business (-Informatics), Computer Science, Engineering, Economics, or a comparable degree program with outstanding performance.
+ Know-how in Business Intelligence, data analytics, and a foundational understanding of enterprise business processes.
+ Experience in programming and working with databases; knowledge in SQL, Python, or related coding- and/or database query languages.
+ Curiosity and basic familiarity with AI-assisted development tools, coupled with an eagerness to learn prompt/context engineering.
+ Interest in working with customers, along with awesome presentation and communication skills.
+ Ability to demonstrate initiative, work independently, and think outside of the box.
+ Fluent in English and German (any additional language is a plus).
+ At least 5 months of full-time availability.
+ What Celonis can offer you:
+ Pioneer Innovation: Work with the global leader in Process Mining and the Process Intelligence Graph to shape the future of AI-driven business operations.
+ Ownership from Day 1: Every full-time Celonaut is an owner, receiving Restricted Stock Units (RSUs) and merit-based refresh grants.
+ Unrivaled Family Support: Benefit from our inclusive parental leave policy—24 weeks of fully paid leave for primary carers and 12 weeks for supporting carers, available from your first day of employment.
+ Work-Life Integration: Enjoy Unlimited PTO (in applicable regions) and generous PTO globally, as well as a flexible hybrid work model that balances remote focus with vibrant office collaboration.
+ Continuous Growth: Elevate your skills through our 70-20-10 learning framework, mentorship programs, and access to a dedicated learning platform.
+ Holistic Well-being: Prioritize your health with subsidized Wellhub memberships, mental health counseling, and dedicated Wellness Weeks that prioritize work/life balance.
+ Drive Sustainability: Participate in annual Impact Days, where you receive paid time off to volunteer for community and environmental causes with your local office, or virtually.
+ Global Inclusion & Belonging: Find community through our Inclusion Think Tank and participate in our annual Inclusion Days, ensuring every voice is heard and valued.
+ Value-Driven Impact: Join a mission-led organization where our core values—Live for Customer Value, The Best Team Wins, We Own It, and Earth Is Our Future—drive every decision.
+ About Us:
+ Celonis is the trusted platform to industrialize Enterprise AI, empowering organizations to analyze, design, and operate AI-driven processes. The Celonis Platform is powered by the Celonis Context Model, which combines process data, business knowledge, and intelligence to create a living digital twin of the enterprise that AI can understand — turning AI’s operational blind spots into operational clarity. Industry-leading companies around the world trust Celonis and its global ecosystem of partners to make their AI agents, people, systems, and processes work together, achieving transformational outcomes. Celonis is headquartered in Munich, Germany, and New York City, USA, with more than 20 offices worldwide.
+Get familiar with the Celonis Process Intelligence Platform by watching this video.
+ Celonis Inclusion Statement:
+ At Celonis, we believe our people make us who we are and that “The Best Team Wins”. We know that the best teams are made up of people who bring different perspectives to the table. And when everyone feels included, able to speak up and knows their voice is heard - that's when creativity and innovation happen.
+ Your Privacy:
+ Any information you submit to Celonis as part of your application will be processed in accordance with Celonis’ Accessibility and Candidate Notices
+By submitting this application, you confirm that you agree to the storing and processing of your personal data by Celonis as described in our Privacy Notice for the Application and Hiring Process.
+ Use of Artificial Intelligence Tools
+ We rely on an artificial intelligence tool to match the information from your resume to the relevant Celonis job descriptions. This processing is limited to the information provided in your resume or in your candidate profile. The tool produces a match score per candidate for a role, suggests preliminary ranking, and provides recommendations.
+The tool is only used for support in parts of the job application process, including to facilitate the identification of the relevant Celonis Jobs for candidates and recruiters. All final decisions are made by hiring managers and the Celonis talent acquisition team. Hiring managers and HR specialists use this tool responsibly, are aware of the risk of potential bias, and are equipped to mitigate it.
+Please be aware of common job offer scams, impersonators and frauds. Learn more here.

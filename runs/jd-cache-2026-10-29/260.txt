@@ -1,0 +1,11 @@
+URL: https://www.xing.com/jobs/duesseldorf-werkstudent-projektmanagement-commerce-156469509
+TITLE: Werkstudent (m/w/d) Projektmanagement E-Commerce
+COMPANY: RP Digital GmbH
+LOC: Düsseldorf
+POSTED: 2026-07-18
+title: Werkstudent (m/w/d) Projektmanagement E-Commerce
+company: RP Digital GmbH
+posted: 2026-07-18T00:07:54Z
+location: Düsseldorf | remote: 
+---
+Was wir zusammen vorhaben Onsite-Experiences umsetzen & pflegen :Du unterstützt beim Setup, der Konfiguration und der laufenden Pflege von Onsite-Experiences (z. B. Paywall-/Offer-Varianten, Checkout- und Journey-Logiken, Template-/Modul-Anpassungen nach Vorgaben) – in unseren entsprechenden Tools. Testing & Rollouts : Du setzt A/B-Tests und Experimente technisch/operativ auf, begleitest Releases und sorgst für saubere Dokumentation (Hypothese → Setup → Ergebnis → Learnings). Tracking-Checks & Datenqualität : Du prüfst, ob Events, Parameter und Messpunkte sauber laufen, findest Ursachen bei Abweichungen und unterstützt bei der Qualitätssicherung von Tracking/Measurement. Analyse & Monitoring : Du bereitest Kennzahlen zur Performance von Paywall/Offers auf (z. B. Conversion, Drop-offs, Funnel-Stufen) und leitest gemeinsam mit dem Team nächste Schritte ab. Schnittstelle zu Product & Tech : Du arbeitest eng mit Product, Data/BI und Entwicklung zusammen und hilfst, Anforderungen in umsetzbare Tickets/Setups zu übersetzen. Was uns überzeugt Du bist eingeschriebene:r Student:in (z. B. Informatik, Wirtschaftsinformatik, Data/Analytics, Medieninformatik, Digital Business o. ä.). Du hast idealerweise erste Praxiserfahrung (z. B. Praktikum, Werkstudentenjob, Uni-Projekte) in einem digitalen Produktumfeld – wichtig ist dein Umsetzungsdrive . Du denkst analytisch, arbeitest strukturiert und hast Spaß daran, Dinge zum Laufen zu bringen (Setup, QA, Debugging, saubere Dokumentation). Bestenfalls kennst du dich mit Web-/Tracking-Basics aus: HTML/CSS , JavaScript-Grundlagen, Tagging/Tracking, Consent-Themen. Idealerweise hast du bereits Erfahrung mit Analyse-Tools (z. B. Google Analytics ) oder BI/Reporting gemacht.

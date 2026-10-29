@@ -1,0 +1,42 @@
+URL: https://www.linkedin.com/jobs/view/4481863691
+TITLE: Werkstudent Data Management (m/w/d) Finanzmarktdaten
+COMPANY: FERI
+LOC: Bad Homburg, Hesse, Germany
+POSTED: 2026-10-27
+title: Werkstudent Data Management (m/w/d) Finanzmarktdaten
+company: FERI
+posted: 1 day ago
+applicants: 42 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-data-management-m-w-d-finanzmarktdaten-at-feri-4481863691&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Die FERI A G mit Hauptsitz in Bad Homburg zählt zu den führenden bankenunabhängigen Asset Managern in der DACH-Region. Mit mehr als 280 Mitarbeitenden verbinden wir aktives Asset Management mit persönlicher Beratung, um Vermögen langfristig zu schützen und nachhaltig weiterzuentwickeln. Seit 1987 bietet FERI für institutionelle Investoren, Familienvermögen und Stiftungen maßgeschneiderte Investmentlösungen, die aktives Vermögensmanagement und wissenschaftlich fundierte Analysen verbinden. Gemeinsam mit MLP betreut FERI derzeit ein Vermögen von über 68 Milliarden Euro, davon mehr als 18 Milliarden Euro in alternativen Investments.
+Die Abteilung Fonds Governance & Data Management bündelt die zentralen Governance-, Daten- und Schnittstellenthemen rund um unsere Fonds. Die Abteilung begleitet den Fondslebenszyklus von der Auflage und regulatorischen Betreuung bis zur laufenden Datenversorgung und Anbindung externer Plattformen. Dabei verbindet sie regulatorische Anforderungen mit einem effizienten und qualitativ hochwertigen Datenmanagement.
+ DEINE AUFGABEN
+ Als Werkstudent (m/w/d) unterstützt du unser Team bei der Arbeit mit Finanzmarkt- und Fondsdaten sowie bei der Digitalisierung und Automatisierung unserer Prozesse. Dabei erhältst du Einblicke in das Investmentumfeld und kannst dich aktiv in die Entwicklung neuer datenbasierter und digitaler Lösungen einbringen.
+Zu deinen Aufgaben gehören insbesondere:
+ Erstellung, Weiterentwicklung und Pflege von Dashboards, Reports und Auswertungen mit Power BI
+ Unterstützung bei der Analyse, Prüfung und Qualitätssicherung von Finanzmarkt-, Wertpapier-, Produkt- und Fondsdaten
+ Mitarbeit bei der Bereitstellung und Pflege von Produkt- und Fondsdaten für interne Systeme und externe Vertriebsplattformen
+ Mitwirkung bei der Weiterentwicklung von Datenqualitäts-, Kontroll- und Reporting-Prozessen
+ Identifikation und Umsetzung von Automatisierungspotenzialen, insbesondere mit Power Automate, Excel, SharePoint und weiteren Microsoft-Tools
+ Mitarbeit an innovativen Anwendungsfällen rund um Generative AI, Microsoft Copilot und die Microsoft Power Platform
+ Je nach Vorkenntnissen Entwicklung kleinerer Automatisierungs- und Datenlösungen, beispielsweise mit Python, VBA oder Power Query
+ DEIN PROFIL
+ Qualifikation: Eingeschriebener Student (m/w/d) der Wirtschaftsinformatik, Data Science, Informatik, Wirtschaftswissenschaften, Finance, Mathematik, Statistik oder einem verwandten Fachbereich
+ Erfahrung: Erste praktische Berührungspunkte mit Datenanalyse, Digitalisierung oder Prozessautomatisierung von Vorteil
+ Kompetenzen: Analytisches Denkvermögen sowie eine strukturierte und sorgfältige Arbeitsweise; Freude an der Einarbeitung in Daten und Prozesse sowie an der Einbringung eigener Verbesserungsideen
+ Kenntnisse: Interesse an Finanzmärkten, Datenmanagement, Digitalisierung und Prozessautomatisierung
+ EDV/IT: Gute bis sehr gute Excel-Kenntnisse; erste Kenntnisse in Power BI von Vorteil; Kenntnisse in Power Query, Power Automate, SQL, Python oder VBA sind ein Plus
+ KI: Interesse an AI-Anwendungen wie Microsoft Copilot, ChatGPT oder vergleichbaren Tools
+ Soft Skills: Eigeninitiative, Zuverlässigkeit und Teamfähigkeit
+ Sprachkenntnisse: Sehr gute Deutsch- und gute Englischkenntnisse
+ DEINE BENEFITS
+ Eine attraktive Studierendenvergütung ab 18 €/h
+ Ein vielseitiges, erfahrenes Team, das dich bei deiner beruflichen Entwicklung fördert
+ Studienfreundliche, flexible Arbeitszeiten
+ Tätigkeit bei einem der führenden Investmenthäuser im deutschsprachigen Raum
+ Ausgeprägter Teamspirit und kommunikative Hierarchien
+ Einbindung in ein kreatives und dynamisches Umfeld
+ Gute ÖPNV-Anbindung ins gesamte Rhein-Main-Gebiet
+ DEIN WEG ZU FERI
+ Bewirb Dich jetzt mit wenigen Klicks und lade Deine Bewerbungsunterlagen, mindestens einen aktuellen CV, in unser Bewerbertool hoch. Bitte teile uns auch mit, zu wann du frühestmöglich verfügbar bist. Deine fachliche Ansprechpartnerin ist Anette Ivanfy .

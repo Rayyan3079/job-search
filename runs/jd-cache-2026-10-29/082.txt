@@ -1,0 +1,40 @@
+URL: https://www.linkedin.com/jobs/view/4481905399
+TITLE: SQL Developer
+COMPANY: Tata Consultancy Services
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-23
+title: SQL Developer
+company: Tata Consultancy Services
+posted: 5 days ago
+applicants: 120 applicants
+apply_offsite: 
+---
+Inclusion without Exception 
+ Tata Consultancy Services (TCS) is an equal opportunity employer, and embraces diversity in race, nationality, ethnicity, gender, age, physical ability, neurodiversity, and sexual orientation, to create a workforce that reflects the societies we operate in. Our continued commitment to Culture and Diversity is reflected in our people stories across our workforce and implemented through equitable workplace policies and processes.
+ TCS has been serving the Canadian marketplace for more than 35 years and today is the technology partner of choice for many of the country's leading organizations. As one of the largest IT services providers in Canada and globally, TCS is aiming to become the world's largest AI-led technology services company and is enabling its clients to transform themselves across the full AI stack, from infrastructure to intelligence.
+ Rooted in the heritage and values of the Tata Group, TCS is focused on creating long-term value for its clients, investors, employees, and the communities it serves. With a highly skilled workforce supporting customers from coast to coast, TCS has consistently been recognized as a Top Employer by the Top Employers Institute, including a recent top ranking at the country level.
+ TCS also sponsors 14 of the world's most prestigious marathons and endurance events, including the TCS Toronto Waterfront Marathon, reflecting its commitment to health, sustainability, and community empowerment.
+ Key Responsibilities 
+ Design, develop, and maintain complex SQL queries, stored procedures, functions, and database objects.
+ Translate business requirements into efficient and scalable database solutions.
+ Optimize query performance and troubleshoot database-related issues.
+ Support ETL, data integration, and data validation activities.
+ Ensure data accuracy, integrity, and reliability through testing and quality checks.
+ Collaborate with development and business teams to deliver high-quality solutions.
+ Provide timely updates on technical tasks, risks, and issue resolution.
+ Required Skills 
+ SQL Server / Oracle / PostgreSQL
+ Advanced SQL Programming
+ Performance Tuning & Query Optimization
+ Data Modeling & Database Design
+ ETL and Data Integration
+ Agile Development Methodologies
+ Azure DB
+ Cosmo DB
+ Shell scripting
+ JSON query and data structure
+ Nice to Have 
+ Auto sys scheduling
+ Splunk monitoring tool
+ Tata Consultancy Services Canada Inc. is committed to meeting the accessibility needs of all individuals in accordance with the Accessibility for Ontarians with Disabilities Act (AODA) and the Ontario Human Rights Code (OHRC). Should you require accommodation during the recruitment and selection process, please inform Human Resources.
+ Thank you for your interest in TCS. Candidates that meet the qualifications for this position will be contacted within a 2-week period. We invite you to continue to apply for other opportunities that match your profile.

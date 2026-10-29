@@ -4,7 +4,8 @@ import sys, re, html, json, subprocess, urllib.parse, time
 UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36"
 MODE = sys.argv[1] if len(sys.argv) > 1 else "local"
 def get(u):
-    return subprocess.run(["curl", "-s", "-L", "-m", "25", "-A", UA, u], capture_output=True, text=True).stdout
+    r = subprocess.run(["curl", "-s", "-L", "--compressed", "-m", "25", "-A", UA, u], capture_output=True)
+    return r.stdout.decode("utf-8", "replace")
 KW = {"local": ["werkstudent", "studentische hilfskraft", "praktikum", "working student", "werkstudent data", "werkstudent it", "werkstudent sap", "werkstudent informatik"],
       "remote": ["werkstudent remote", "working student remote", "werkstudent homeoffice data", "werkstudent remote sap", "werkstudent remote data analyst"],
       "germany": ["working student", "working student it", "working student analyst", "working student digital", "werkstudent sap", "working student data", "werkstudent data analyst", "werkstudent business intelligence", "working student machine learning", "werkstudent data science"]}[MODE]

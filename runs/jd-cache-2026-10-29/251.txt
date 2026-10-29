@@ -1,0 +1,56 @@
+URL: https://www.stepstone.de/stellenangebote--Working-Student-Sales-Data-Architecture-Agentic-AI-m-w-d-x-Ulm-Stuttgart-Mercedes-Benz-Tech-Innovation--14691217-inline.html
+TITLE: Working Student Sales Data Architecture & Agentic AI (m/w/d/x)
+COMPANY: Mercedes-Benz Tech Innovation
+LOC: Ulm, Stuttgart
+POSTED: stepstone
+title: Working Student Sales Data Architecture & Agentic AI (m/w/d/x)
+company: Mercedes-Benz Tech Innovation
+posted: 2026-10-27T20:20:44.217Z
+location: Ulm | remote: 
+---
+Life is always about becoming… Becoming means going on a journey to be the best version of our future selves. While we discover new things, we will face challenges, master them and grow beyond our individual limits.
+Apply for a job at Mercedes-Benz and find your individual role and workspace to unleash your talents to the fullest. Empowered by visionary colleagues who share the same pioneering spirit. Joining us means becoming part of a global team that aims to build the most desirable cars in the world. Together for excellence.
+Job-ID: V000080416
+ Tasks
+ Your tasks?
+ As a Working Student in Sales Data Architecture & Agentic AI (m/f/d/x), you will support the team in analyzing and harmonizing global sales and master data across different markets and systems.
+ You will contribute to the development of data models, semantic models, and ontologies to create a unified understanding of sales data.
+ You will also support the design and development of innovative talk-to-data solutions and AI agents.
+ You will analyze existing data structures and explore relationships between different business terms and data.
+ You will document data structures, business terms, and their relationships, presenting complex information in a clear and understandable way.
+ In addition, you will work closely with Data Architects, Data Engineers, and AI Engineers and support the development of innovative data and AI solutions.
+ Qualifications
+ Your profile?
+ Ready to get started? If you impress us with proven excellent German and English language skills and submit your complete application documents (cover letter, CV, transcript of records, certificate of enrollment and, if applicable, residence permit/work permit), you are just one click away from your opportunity.
+ A little tip: With the high number of top applications we receive, a complete application is your only ticket into the game. Without the complete package, we unfortunately cannot proceed with your application. No exceptions!
+ You are studying Computer Science, Business Informatics, Data Science, Artificial Intelligence, or a comparable degree program.
+ You are interested in data architectures, data modeling, and Artificial Intelligence and enjoy working with innovative technologies.
+ You have initial practical experience with Python and SQL.
+ Ideally, you already have knowledge in the areas of Master Data Management, semantic modeling, ontologies, Knowledge Graphs, or AI Agents.
+ You work independently and analytically and enjoy identifying complex relationships and presenting them in a structured way.
+ Good written and spoken German and English skills round off your profile.
+ Benefits
+ Hybrid Work Possible 
+ Mobile Phone for Employees Possible 
+ Health Benefits 
+ Discounts for Employees Possible 
+ Events for Employees 
+ Meal-Discounts 
+ Lifelong Learning 
+ Mobility Offers 
+ Annual Profit Share Possible 
+ Coaching 
+ Company Retirement 
+ Flextime Possible 
+ Parking 
+ Canteen, Café 
+ Good Public Transport 
+ Barrier-Free Workplace 
+ Contact
+Mercedes-Benz Tech Innovation GmbH
+Email: mbti-career@mercedes-benz.com 
+Mercedes-Benz Tech Innovation GmbH, Ulm
+Wilhelm-Runge-Str. 11
+89081 Ulm
+Gropiusplatz 10
+70563 Stuttgart

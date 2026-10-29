@@ -1,0 +1,57 @@
+URL: https://www.linkedin.com/jobs/view/4482501864
+TITLE: SQL Developer
+COMPANY: KeysFin - Business Information & Credit Risk Management
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-28
+title: SQL Developer
+company: KeysFin - Business Information & Credit Risk Management
+posted: 17 hours ago
+applicants: 58 applicants
+apply_offsite: 
+---
+Keysfin is looking for a SQL Developer 
+ Location: Bucharest 
+ Our client is a product-driven software company with a web-based approach.
+ The company’s vision is to provide customers with a modern, dynamic user interface management solution, developed using the latest technologies, that will reduce implementation time by over 70%.
+ We are currently looking for a SQL Developer to join the team and contribute to the development, optimization, and maintenance of database solutions supporting web-based applications.
+ Responsibilities: 
+ Develop and maintain current databases, stored procedures, functions, views, and SQL queries using Microsoft SQL Server
+ Design, develop, document new modules of the application
+ Develop and maintain SSRS reports
+ Optimize queries and database performance using execution plans, indexes, statistics, and Query Store
+ Troubleshoot database and application-related issues and support deployments and maintenance activities
+ Work with development, QA, and business teams to translate technical and functional requirements into database solutions
+ Document technical solutions and take ownership of assigned modules
+ Ideal candidate: 
+ 2+ years of experience with Microsoft SQL Server
+ Good knowledge of SQL, relational databases, and database design
+ Hands-on experience with stored procedures, functions, views, indexes, and query optimization
+ Experience with SSRS, SSIS and ETL processes experience is a plus
+ Good analytical and troubleshooting skills, with the ability to work independently
+ Ability to understand technical requirements and collaborate effectively with development teams
+ University Degree in Computer Science, Informatics, Cybernetics, Telecommunications, or a related field
+ Good communication skills and team-player mindset.
+ Good English skills
+ Technical skills: 
+ SQL Server Management Studio (SSMS) and SQL Server Data Tools (SSDT)
+ SQL queries, Stored Procedures, Functions, Views, Triggers
+ Database design, indexing, execution plans, statistics, and Query Store
+ Transactions, locking, blocking, and database security
+ SQL Server Integration Services (SSIS) and ETL
+ SQL Server Reporting Services (SSRS)
+ SQL Server Agent
+ Git / TFS and source control
+ JSON / XML
+ Nice to have: 
+ Develop and maintain ETL processes and SSIS packages
+ Azure SQL Database / Azure SQL Managed Instance
+ Azure Data Factory
+ Database migration and upgrade experience
+ CI/CD and database DevOps practices
+ PowerShell scripting and automation
+ Backup, restore, high availability, and disaster recovery concepts
+ Benefits: 
+ We believe in the Homework principle – we’ll make you feel at home and give you the opportunity to grow while working on challenging technical solutions
+ Cozy office close to the city center, less than 2 minutes from Eroilor Opera Center, with a beautiful garden, fresh fruit, tea, and coffee
+ BBQ parties, team outings, and a friendly working environment
+ Paid medical subscription to a private healthcare clinic

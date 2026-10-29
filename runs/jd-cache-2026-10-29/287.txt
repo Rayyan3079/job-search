@@ -1,0 +1,55 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-Produktauffindbarkeit-Product-Management-w-m-d-Hamburg-Otto-GmbH-Co-KGaA--13922954-inline.html
+TITLE: Werkstudent Produktauffindbarkeit | Product Management (w/m/d)
+COMPANY: Otto GmbH & Co. KGaA
+LOC: Hamburg
+POSTED: stepstone
+title: Werkstudent Produktauffindbarkeit | Product Management (w/m/d)
+company: Otto GmbH & Co. KGaA
+posted: 2026-10-28T23:25:41.163Z
+location: Hamburg | remote: 
+---
+OTTO ist eines der erfolgreichsten E-Commerce-Unternehmen Europas. Mit mehr als 18 Millionen Artikeln und über 34.000 Marken gehört otto.de heute zu den führenden deutschen Onlineshopping-Plattformen. Als Marktplatz öffnen wir uns stetig für weitere Marken und Partner und wachsen so immer weiter. Ausruhen? Nicht unser Ding! Deins auch nicht? Dann komm an Board – und gestalte mit uns die Zukunft des E-Commerce. 
+Vielfalt gehört zu uns, wie die Elbe zu Hamburg: Wir stehen für Offenheit, Respekt und Toleranz, ohne Wenn und Aber. Lass uns gemeinsam die Segel setzen – unabhängig davon, woher du kommst, wen du liebst oder woran du glaubst. Denn du bist einmalig und genau das suchen wir. 
+Bei uns kannst du Ideen einbringen und Projekte vorantreiben, dich in Netzwerken für dein Herzensthema engagieren und unsere Unternehmenskultur aktiv mitgestalten. Dinge ausprobieren, neu denken, innovativ sein, über sich hinauswachsen – das ist unser Mindset. Lass uns gemeinsam etwas Großes erreichen. Egal ob du auf dem Campus oder zu Hause arbeitest. 
+ Werde Teil von Team Cortex – einem dynamischen und innovativen Team bei OTTO! Wir verantworten die Produktdatenarchitektur für die inhaltliche Konzeption, Gestaltung und Pflege von Kategorien und Filtern. Unser Ziel ist es, unsere Produktdaten so bereitzustellen, dass unsere Nutzer*innen die Produkte möglichst einfach und benutzerfreundlich über Filter, Navigation und Suche finden. Dabei setzen wir zunehmend auf KI-basierte Automatisierung und Machine-Learning-Modelle, um unsere Strukturen skalierbar, userzentriert und zukunftsfähig weiterzuentwickeln. Von der Konzeption bis zur Aussteuerung – genau hierfür brauchen wir dich! Es erwarten dich hilfsbereite und teamorientierte Kolleg*innen und die Möglichkeit, KI im Arbeitsumfeld auszuprobieren.
+ Viele sprechen von „Homeoffice“ – wir von „hybrid oder mobile Work“: Du kannst bis zu 50 % deiner monatlichen Arbeitszeit remote arbeiten. Unsere Teams entscheiden dabei gemeinsam mit ihrer Führungskraft, wie sie das Gleichgewicht aus Präsenzzeiten vor Ort und mobilem Arbeiten gestalten.
+ Dein Impact
+ Du optimierst und erweiterst die Produktdatenarchitektur für Navigation, Filter und Suche, einschließlich hierfür notwendiger manueller Konfigurationen.
+ Du unterstützt die Modellentwicklung durch Qualitätsanalysen automatisiert generierter Datenstrukturen.
+ Du führst Fehleranalysen durch und erarbeitest Lösungsansätze zur Optimierung der automatisierten Prozesse.
+ Du begleitest und unterstützt Produktmanager*innen im Tagesgeschäft und bei Projekten, insbesondere im Bereich der Automatisierung der Produktdatenarchitektur.
+ Du bearbeitest Fachbereichsanfragen und Fehlermeldungen sowie deren Klärung und Nachverfolgung.
+ Du bist dir nicht sicher, ob die Stelle zu dir passt? – Gerne stellen wir den Kontakt zu Laura Kuschmierz aus dem Team her.
+ Dein Profil
+ Must-have:      
+ Du bist eingeschriebene*r Vollzeitstudent*in in einem Studium der Informationswissenschaften, Medien- oder Wirtschaftsinformatik, Betriebswirtschaftslehre oder vergleichbar mit Schwerpunkt E-Commerce.
+ Du kannst uns ab sofort für mindestens 1 Jahr mit Aussicht auf Verlängerung für 16h bis 18h die Woche unterstützen.
+ Du bringst eine hohe Lernbereitschaft mit und kannst dir selbstständig neues Wissen aneignen.
+ Außerdem gehören Teamfähigkeit, Kommunikations- und Durchsetzungsstärke sowie Organisationsfähigkeit zu deinen Stärken.
+ Du hast sehr gute analytische Fähigkeiten und schreckst vor komplexen Prozessen nicht zurück.
+ Du bist offen, dich stärker mit AI-Tools zu beschäftigen und sie für deine Arbeit zu nutzen. 
+ Dein Sprachniveau : Deutsch C1 (fachkundige Sprachverwendung) und Englisch B2 (selbstständige Sprachverwendung).
+ Nice-to-have: 
+ Du hast bereits Erfahrungen mit der Struktur von Produktdaten und-attributen z. B. durch Praktika.
+ Du hast erste Erfahrungen mit Machine Learning oder eine Offenheit gegenüber Weiterentwicklungen durch KI.
+ Du hast bereits erste Erfahrungen in der Keywordrecherche gesammelt.
+ Deine Benefits
+ Fachliche   &   persönliche   Entwicklung 
+Weiterbildungsangebote wie z. B. die OTTO-Akademie, digitale Lernplattformen (u. a. Masterplan), Mentoring, Hospitationen, offene Feedbackkultur, Formate zur beruflichen Orientierung, Kooperation bei Abschlussarbeiten, feste*n Betreuer*in und direkte Ansprechpersonen im HR-Bereich
+ Kultur & Zusammenarbeit 
+Students@OTTO Community & Netzwerke, Coworking & Social Spaces, Führung auf Augenhöhe, flache Hierarchien, selbstständiges & eigenverantwortliches Arbeiten, regelmäßige Mitarbeiterbefragungen, Leading Principles, kostenfreie Heißgetränke und vielfältiges – auch veganes – Essensangebot
+ Vergütung   &   Zusatzleistungen 
+Attraktive Vergütung (ab 17,74 € pro Stunde), 15 % Personalrabatt (auf OTTO-Artikel) sowie zahlreiche Benefits & Mitarbeiterangebote (z. B. Events, Reisen), 30 Urlaubstage p. a., technische Grundausstattung
+ Students@OTTO   Onboarding 
+Einwöchiges Onboarding Programm für Studierende bestehend aus: Welcome Session, Impulsvorträgen, Get-Together & Vorstandstalk
+ Work-Life-Balance 
+Hybrides Arbeitsmodell mit bis zu 50 % remote work im Monat, flexible Arbeitszeiten (Gleitzeit) & Stundenaufteilung (bis zu 18 h pro Woche und volle 37,5 h in den Semesterferien möglich)
+ Gesundheit &   Wohlbefinden 
+Achtsamkeits- und Stressmanagementkurse, betriebsärztliche & psychosoziale Beratung
+ Mobilität 
+Zuschuss zum Deutschlandticket, kostenfreie Parkplätze, e-Ladesäulen, StadtRAD-Stationen
+ & viele  Benefits mehr!
+ Kontakt
+ Michelle Knutson
+HR Managerin
++49 40 6461-5419

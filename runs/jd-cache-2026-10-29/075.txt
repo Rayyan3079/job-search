@@ -1,0 +1,25 @@
+URL: https://www.linkedin.com/jobs/view/4482535726
+TITLE: Analista de BI
+COMPANY: Ewave do Brasil
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-28
+title: Analista de BI
+company: Ewave do Brasil
+posted: 12 hours ago
+applicants: 74 applicants
+apply_offsite: 
+---
+Responsabilidades: 
+ Configurar, gerenciar e atualizar aplicações de BI, criar integrações com ferramentas e serviços de bancos de dados e fazer a gestão dos acessos e permissões de usuários.
+ Coletar, transformar, analisar e interpretar dados e informações de diversas fontes, com o objetivo de criar diagnósticos estruturados de resultados, dando subsídios às áreas de negócios para traçar estratégias, visando alcançar bons resultados
+ Desenvolver dashboards estratégicos, táticos e operacionais, focando em obter insights para tomada de decisões
+ Estruturar e divulgar os resultados dos principais indicadores KPIs
+ nteragir com diversos stakeholders para garantir entendimento adequado dos problemas de negócio
+ Realizar extração e análises de dados pontuais, conforme necessidades da área
+ Requisitos obrigatórios: 
+ Escolaridade: Bacharelado em Matemática, Economia, Ciência da Computação, Gestão da Informação ou Estatística
+ Experiência em análise de dados
+ Bons conhecimentos em ferramentas de visualização de dados como Power BI
+ Conhecimento das arquiteturas dos projetos de Data Warehouse/Data Mart
+ Conhecimento de ferramentas de banco de dados SQL
+ Visão sistêmica

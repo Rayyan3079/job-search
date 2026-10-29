@@ -1,0 +1,29 @@
+URL: https://www.linkedin.com/jobs/view/4484735557
+TITLE: Praktikum Data Analytics
+COMPANY: STIHL
+LOC: Fellbach, Baden-Württemberg, Germany
+POSTED: 2026-10-28
+title: Praktikum Data Analytics
+company: STIHL
+posted: 8 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikum-data-analytics-at-stihl-4484735557&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Arbeiten bei STIHL heißt, von Anfang an etwas zu bewegen. Wir suchen Menschen, die Verantwortung übernehmen, ihre Ideen einbringen und gemeinsam wachsen wollen. Ob innovative Technologien, starke Produkte oder zukunftsweisende Projekte – bei uns findet man Raum, um Wirkung zu entfalten. Denn jeder Beitrag zählt – für unsere Kundinnen und Kunden, für die Umwelt und für unser Team. We are HERE FOR A REASON.
+ Das ist die Aufgabe
+ Mitwirken im innovativen Data & AI Team: Unterstütze verschiedene Fachbereiche mit deiner Expertise im Bereich Data Analytics und erhalte spannende Einblicke in Data Science, Data Engineering und Data Visualization, um datengetriebene Entscheidungen zu ermöglichen
+ Beteiligen an Analytics-Projekten: Arbeite interdisziplinär mit Fachbereichen zusammen, um Produkte, Prozesse und Geschäftsentscheidungen durch datenbasierte Erkenntnisse zu optimieren und reale Herausforderungen mit modernen Analyseverfahren zu lösen
+ Entwickeln von Data-Engineering- und Data-Science-Lösungen: Nutze moderne Technologien wie Databricks, PySpark und weitere Data-Science-Werkzeuge, um Datenpipelines aufzubauen, große Datenmengen zu verarbeiten, komplexe Fragestellungen zu analysieren und wertvolle Erkenntnisse zu gewinnen
+ Erstellen und Präsentieren von Reports und Dashboards: Gestalte mit Power BI aussagekräftige und visuell ansprechende Reports und Dashboards, die Analyseergebnisse verständlich aufbereiten und Entscheidungsprozesse unterstützen
+ Kommunizieren von Ergebnissen: Präsentiere Analyseergebnisse und Handlungsempfehlungen verständlich gegenüber internen Stakeholdern und stärke dabei deine Kommunikations- und Präsentationsfähigkeiten im datengetriebenen Umfeld
+ Das wünschen wir uns
+ Laufendes Studium der Fachrichtung Informatik, Wirtschaftsinformatik, Mathematik oder vergleichbare Studiengänge
+ Erste Erfahrungen in der Analyse, Transformation und Visualisierung von Daten von Vorteil
+ Gute Programmierkenntnisse in Python und SQL sowie idealerweise erste Kenntnisse im Bereich Cloud-Lösungen, vorzugsweise Microsoft Azure.
+ Selbstorganisierte, strukturierte und zielorientierte Arbeitsweise im Team
+ Ein hohes Maß an Neugierde, um neue Erkenntnisse aus Daten zu generieren
+ Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
+ Weitere Details zur Stelle
+ Gehalt: 2.223 €/Monat
+ Beginn: ab März 2027
+ Bitte füge deiner Bewerbung folgende Unterlagen bei: Lebenslauf, aktueller Notenspiegel und Immatrikulationsbescheinigung sowie wenn vorliegend Arbeitszeugnisse und deine gültige Arbeits- und Aufenthaltserlaubnis

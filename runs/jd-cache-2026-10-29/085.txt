@@ -1,0 +1,29 @@
+URL: https://www.linkedin.com/jobs/view/4484052637
+TITLE: Power BI Developer
+COMPANY: Winning
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-27
+title: Power BI Developer
+company: Winning
+posted: 1 day ago
+applicants: 61 applicants
+apply_offsite: 
+---
+Desde Winning Consulting estamos seleccionando a un PowerBI Developer , para formar parte del proyecto de uno de nuestros clientes multinacionales perteneciente al sector industrial y afincado en Madrid. Modelo de trabajo híbrido.
+ Funciones: 
+ Diseñar, desarrollar e implementar soluciones de reporting y visualización de datos.
+ Interactuar con negocio para identificar necesidades, analizar requerimientos y proponer soluciones analíticas.
+ Desarrollar modelos de datos y optimizar consultas SQL, medidas DAX y procesos de transformación. 
+ Implementar soluciones de Power BI que integren capacidades de IA en entornos productivos. 
+ Recomendar alternativas que mejoren la eficiencia y los resultados de negocio. 
+ Colaborar con equipos técnicos y funcionales, garantizando la calidad y el rendimiento de las soluciones. 
+ Requisitos: 
+ Experiencia sólida en desarrollo con Power BI y despliegue de soluciones en producción.
+ Conocimientos de Microsoft Fabric y Snowflake.
+ Experiencia integrando IA soluciones de PowerBI.
+ Conocimientos de SQL, DAX, Power Query y modelado de datos.
+ Capacidad para comprender arquitecturas de datos y ciclo de vida completo de una solución analítica. 
+ NIvel alto de inglés (C1).
+ Sobre Winning Consulting 
+ En Winning Consulting ofrecemos servicios de consultoría, formación, reclutamiento e investigación. Apoyamos a nuestros clientes en la búsqueda de soluciones innovadoras y sostenibles, desde la aplicación del conocimiento científico a la resolución de problemas complejos de gestión hasta la transformación digital y tecnológica dentro de las organizaciones.
+ Más información en: https://www.winning-consulting.com

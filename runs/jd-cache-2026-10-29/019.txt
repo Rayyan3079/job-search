@@ -1,0 +1,40 @@
+URL: https://www.linkedin.com/jobs/view/4484726282
+TITLE: Werkstudent Fullstack Software Developer (m/w/d)
+COMPANY: REWE digital
+LOC: Ilmenau, Thuringia, Germany
+POSTED: 2026-10-28
+title: Werkstudent Fullstack Software Developer (m/w/d)
+company: REWE digital
+posted: 11 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-fullstack-software-developer-m-w-d-at-rewe-digital-4484726282&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Ort: 98693 Illmenau | Vertragsart: Teilzeit, befristet | Job-ID: 985451
+ Willkommen im Home of IT: 
+ Als Teammitglied unseres Produktteams für Werbeartikelpool bist du direkt eingebunden in die Weiterentwicklung der vom Team verantworteten Anwendungen. In der Rolle des Software Engineers entwickelst du mit deinen Kolleg:innen neue Features oder findest und behebst du Auffälligkeiten aus dem laufenden Betrieb der Anwendungen.
+ Aufgaben, die dich weiterbringen:
+ Du bist mittendrin: Du bist aktiv beteiligt an der agilen Teamarbeit und in den Scrum Prozessen
+ Du zeigst Einsatz: Du unterstützt uns in der Kotlin-Backend- und Angular-Frontend-Entwicklung
+ Du packst mit an: Du arbeitest an Spring Boot Microservices mit
+ Dich erwarten außerdem spannende Themen im Bereich Dev-Ops 
+ Features, die dich ausmachen:
+ Zuallererst deine Persönlichkeit. Du bist Teamplayer:in, lernbegierig und zeigst Eigeninitiative
+ Du kommunizierst fließend auf Deutsch (B2-Niveau und höher)
+ Du arbeitest gerne mit aktuellen Technologien und hast eine Leidenschaft für die IT
+ Du studierst (Wirtschafts-) Informatik oder ein ähnliches naturwissenschaftliches Fach
+ Du beherrscht die Grundlagen der Softwareentwicklung und kennst die Objektorientierte Entwicklung
+ Idealerweise bringst du erste Erfahrungen in der Software-Entwicklung im Team, z.B. im Rahmen von Programmiermodulen / -pratiken mit 
+ Das Beste an deinem Home of IT:
+ Wir revolutionieren den digitalen Lebensmittelhandel für Millionen von Menschen. Dabei arbeiten wir mit einem Tech-Team aus IT- und Non-IT-Spezialist:innen an spannenden Projekten. Hier kannst du eigene Ideen einbringen und dich ausprobieren. Wir schaffen die für dich besten Voraussetzungen, damit du dein volles Potenzial entfalten kannst:
+ Attraktive Vergütung sowie vergünstigtes Essen in der Kantine.
+ Flexible Arbeitszeit ohne Kernzeiten und die Möglichkeit auf Mobiles Arbeiten passend zu deinem Studium.
+ Mitarbeitendenrabatt – 5% Einkaufsrabatt bei REWE und PENNY sowie weitere Rabatte beim toom Baumarkt und bei DERTOUR Group.
+ Eine vollkommene Integration in die Teams und die jeweiligen Arbeitsabläufe, eine intensive Einarbeitung begleitet durch (digitale) Onboarding-Programme, die Übernahme von verantwortungsvollen Aufgabenpaketen sowie das Lernen von und mit berufserfahrenen Kolleg: innen.
+ Mögliche Kooperationen für Abschlussarbeiten (in Abhängigkeit vom Bedarf des jeweiligen Fachbereichs).
+ Ein umfassendes Gesundheits- und Sportangebot.
+ Vernetzt: Unternehmensweite Netzwerke der REWE Group, wie z. B. unser LGBTIQ-Netzwerk „di.to. – different together“ und das Frauennetzwerk „f.ernetzt“ für den Austausch rund um Karriere und persönliche Weiterentwicklung.
+ Karriereeinstieg: Aufnahme in das Bindungsprogramm „future steps“ mit exklusiven Events und Talentpool. Ein anschließender Direkteinstieg ist ggf. möglich.
+ Weitere Informationen erhältst du unter rewe-digital.com.
+ Wir freuen uns auf deine Online-Bewerbung mit Angabe deiner Verfügbarkeit und Gehaltsvorstellung. Bewerbungsunterlagen in Papierform können wir leider nicht zurücksenden.
+ Du hast Fragen zu dieser Position (Job-ID: 985451)? Dann melde dich bei unserer Bewerbungshotline unter 0221 149-7110 .
+ Wir betonen ausdrücklich, dass bei uns alle Menschen - unabhängig von Geschlecht/geschlechtlicher Identität, Nationalität, ethnischer und sozialer Herkunft, Religion/Weltanschauung, Behinderung, Alter sowie sexueller Orientierung - gleichermaßen willkommen sind

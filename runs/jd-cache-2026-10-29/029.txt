@@ -1,0 +1,37 @@
+URL: https://www.linkedin.com/jobs/view/4484024634
+TITLE: Werkstudent (m/w/d) Industrial IoT & AI
+COMPANY: Syntax Systems Deutschland
+LOC: Germany
+POSTED: 2026-10-27
+title: Werkstudent (m/w/d) Industrial IoT & AI
+company: Syntax Systems Deutschland
+posted: 1 day ago
+applicants: 73 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-m-w-d-industrial-iot-ai-at-syntax-systems-deutschland-4484024634&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Wir sind SYNTAX. SAP-Partner der ersten Stunde. Internationaler IT-Dienstleister für die mittelständische Fertigungsindustrie. Mit allen Cloud-Wassern gewaschen - und auf Wachstumskurs. SYNTAX berät den Mittelstand zu Themen von Hosting bis hybriden Cloud Szenarien, von AWS über Microsoft bis SAP HANA, von IoT und Analytics bis zur Übernahme des Application Managements. Hauptsitz des 1972 gegründeten Unternehmens ist Montreal, Kanada.
+ Zur Verstärkung unseres Teams suchen wir einen Werkstudenten (m/w/d), der Interesse an Industrial IoT, Smart Manufacturing und modernen AI-Technologien mitbringt. 
+ Diese spannenden Aufgaben warten auf Dich: 
+ Unterstützung bei IoT- und Smart-Manufacturing-Projekten
+ Mitarbeit bei der Integration und Verarbeitung von Maschinen- und Produktionsdaten
+ Entwicklung kleiner Tools, Skripte und Automatisierungen
+ Analyse und Aufbereitung von Daten
+ Einsatz von AI-gestützten Werkzeugen zur Unterstützung von Entwicklung, Dokumentation und Automatisierung
+ Unterstützung bei projektbezogenen und organisatorischen Aufgaben
+ Das bringst Du mit: 
+ Laufendes Studium der Informatik, Wirtschaftsinformatik, Data Science, Elektrotechnik oder einer vergleichbaren Fachrichtung
+ Interesse an IoT, Digitalisierung und Künstlicher Intelligenz
+ Erste Erfahrungen mit Python oder einer vergleichbaren Programmiersprache
+ Analytische Denkweise und strukturierte Arbeitsweise
+ Gute Deutsch- und Englischkenntnisse
+ Von Vorteil: 
+ Kenntnisse in MQTT, OPC UA oder Industrial IoT
+ Erste Erfahrungen mit Cloud-Technologien (AWS oder Azure)
+ Grundkenntnisse in SQL
+ Erfahrung mit Git oder AI-gestützten Entwicklungswerkzeugen wie GitHub Copilot, Cursor oder Claude Code
+ Warum Syntax? 
+ Flexible Arbeitszeiten – abgestimmt auf dein Studium 
+ Ein Internationales, mehrsprachiges Team mit flachen Hierarchien, das offen für Innovation und neue Ideen ist
+ Mitarbeit in einem Unternehmen mit spannenden Innovationsprojekten, die branchenweit für Aufsehen sorgen
+ Neugierig geworden? Dann freuen wir uns auf deine Bewerbung und darauf, gemeinsam mit dir die Zukunft von Industrial IoT und AI zu gestalten.
+ Du hast die Chance auf eine spannende und interessante Werkstudententätigkeit. Du arbeitest praxisnah und lernst bei umfassender Betreuung das Tagesgeschäft sowie vielfältige Aufgaben in den Bereichen SAP, Cloud, Industrial IoT und Artificial Intelligence kennen. Für Fragen steht Dir Anne Müller gerne zur Verfügung.

@@ -1,0 +1,46 @@
+URL: https://www.linkedin.com/jobs/view/4482205679
+TITLE: Technical Data Analytics Intern
+COMPANY: Atlas Copco Group
+LOC: Cologne, North Rhine-Westphalia, Germany
+POSTED: 2026-10-27
+title: Technical Data Analytics Intern
+company: Atlas Copco Group
+posted: 1 day ago
+applicants: 97 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Ftechnical-data-analytics-intern-at-atlas-copco-group-4482205679&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Your role
+Bring your curiosity to work as our next Technical Data Analytics Intern. You will be part of our Engineering & Technical Support team reporting to our Service Development Engineer. The internship is limited to a maximum duration of six months.
+In this role, your mission is to turn data from connected industrial vacuum systems into actionable insights and support the development of scalable digital service solutions. You will contribute directly to how we create high‑quality products and solutions for our customers.
+Your day-to-day
+ Analyze data from connected industrial vacuum systems and identify relevant patterns and insights
+ Develop and improve analytics solutions using Python, SQL and Databricks
+ Create benchmarking and prioritization models to support data-driven decision-making
+ Ensure data quality and validate analytical results
+ Collaborate closely with engineers and technical experts to understand technical requirements and translate them into analytical approaches
+ Document analytical methods, results and recommendations in a clear and structured way
+ Your Skills And Experience
+ Currently pursuing a Bachelor’s or Master’s degree in Data Science, Computer Science, Engineering or a related technical field
+ First practical experience with programming, data analytics or software projects
+ Good knowledge of Python and basic knowledge of SQLStrong interest in Industrial IoT, digital services and data-driven decision-making
+ Strong analytical and problem-solving skillsStructured, independent and detail-oriented approach to work
+ Good communication skills and a collaborative mindset
+ Professional working proficiency in English; German language skills are a plus
+ We encourage you to apply even if you don't meet every single requirement. We value diverse experiences and perspectives and are excited to see what you bring to the role.
+ Your Compensation And Benefits
+ At Atlas Copco Group, we are committed to fair and equitable compensation. Compensation is determined based on the position and its responsibilities, without regard to gender, race, ethnicity, religion, physical ability, sexual orientation, marital status, or any other protected characteristic. Our compensation offering is designed to be locally relevant, competitive, and aligned with the expectations of current and future talent.
+Beyond compensation, we believe that a rewarding career is about having opportunities to learn, grow, contribute, and develop in an environment built on trust, collaboration, and continuous improvement. At Atlas Copco Group, we support our people in building long-term careers while making a meaningful impact through their work.
+ What Else You Can Expect
+ Culture of trust and accountability
+ Lifelong learning and career growth
+ Innovation powered by people
+ Comprehensive compensation and benefits
+ Health and well-being
+ Your job location
+This role offers a hybrid working arrangement, allowing you to split your time between working remotely and being on-site at our Location in Cologne, Germany (DE).
+Why it is great to work with us
+Your career grows through your skills, your curiosity, and the people you work with. You join a global network where we learn from each other and share knowledge openly. We focus on long‑term development and encourage you to explore new ideas that help us move forward. Innovation is part of how we think and act – we test, improve, and use what we learn to create solutions that matter. You can make a meaningful impact by contributing with your insights and taking ownership of your work, supported by flexible ways of working and leaders who empower you.
+Application process
+ About
+ Our selection process includes interviews and, for some roles, skills assessments that help us gain a deeper understanding of your profile. We look forward to getting to know you, learning about your strengths, and discussing how you can grow with us. If you have questions during the process or need support, please contact us:
+Talent Acquisition: Carla Kuttenkeuler

@@ -1,0 +1,36 @@
+URL: https://www.linkedin.com/jobs/view/4481455880
+TITLE: Data Analyst
+COMPANY: Tricog Health
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-26
+title: Data Analyst
+company: Tricog Health
+posted: 2 days ago
+applicants: Over 200 applicants
+apply_offsite: 
+---
+Job Title: Data Analyst
+ Experience: 1–2 years
+ About the Role 
+ We're looking for a Data Analyst to join the data=[lp\-m` team. You'll work closely with stakeholders across the business to turn data into actionable insights — writing SQL, building dashboards, and helping teams make data-informed decisions. This is a great role for someone early in their career who wants to build strong analytical fundamentals.
+ Responsibilities 
+ Write SQL queries and build data models that power dashboards used across the organization
+ Design and maintain reports and dashboards using BI tools (Tableau, Data Studio, or Power BI)
+ Optimize slow-running or high-compute queries for better performance and cost efficiency
+ Perform data analysis in collaboration with different stakeholders
+ Meet with stakeholders across geographies to identify problems that can be solved with data and gather requirements
+ Ensure data accuracy and consistency across reports and dashboards
+ Document report logic and data definitions for team reference
+ Requirements 
+ Non-Negotiable (Must-Have — disqualify if absent) 
+ Strong SQL skills — must be able to write and reason through joins, aggregations, window functions unaided (this is core to the role, not learnable on the job in this timeframe)
+ Strong communication skills — will be speaking directly with technical and non-technical stakeholders across different countries; no room to compromise here, since this is often where junior analysts fail even if technically capable
+ Requirement-gathering ability — comfortable asking clarifying questions and translating a vague business ask into a data problem
+ Negotiable (Nice-to-Have — don't disqualify, use for tie-breaking) 
+ Ability to optimize slow/high-compute queries — a strong plus signal (shows they understand data structures, not just syntax) but not a baseline expectation for 1–2 years experience
+ Hands-on BI tool experience (Tableau, Data Studio, or Power BI — any one is fine, but must have built real dashboards, not just "familiar with")
+ Python skills — good to have, but can be picked up on the job if SQL and analytical thinking are strong
+ Which specific BI tool — proficiency in one is enough; don't require multi-tool experience
+ Cloud data warehouse exposure (BigQuery, Redshift, Snowflake) — a plus, not required
+ Exact years of experience — 1–2 is a guideline; a strong 8-month candidate with sharp fundamentals shouldn't be auto-rejected, and someone at 3 years shouldn't be disqualified either
+ Knowledge about AI and experience is a plus. Personal projects with AI agents are encouraged.

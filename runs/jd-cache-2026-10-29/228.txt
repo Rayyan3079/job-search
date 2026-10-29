@@ -1,0 +1,32 @@
+URL: https://www.stepstone.de/stellenangebote--Industrial-Engineering-Working-Student-Hamburg-Nexperia-Germany-GmbH--14574233-inline.html
+TITLE: Industrial Engineering - Working Student
+COMPANY: Nexperia Germany GmbH
+LOC: Hamburg
+POSTED: stepstone
+title: Industrial Engineering - Working Student
+company: Nexperia Germany GmbH
+posted: 2026-10-18T07:03:08.747Z
+location: Hamburg | remote: 
+---
+Introduction
+ Nexperia is a world-class company in semiconductor development and in-house production. A proven global player with an entrepreneurial mentality. At our core is an 12,000+ strong international network with a singular focus. Built on passion and commitment to our work, belief in our goals and a drive to succeed regardless of the challenges we face. We support, reward and challenge individuals equally, in a dynamic and energetic environment.
+ Looking to push boundaries in a company where your talents can shine? Join TeamNexperia. 
+ This is your new job:
+ Data analysis on product final test yield
+ Automation of data crunching on final test yield from AWACS and EXTENSIO platforms covering Far East assembly sites production line data
+ Yield estimation on wafer level based on historical data and correlation of typical MOSFETs test parameters
+ Support test specification update and test program release
+ Data crunching on financial figures (e.g. wafer costs, die free package cost) of released products and future developments
+ This is you:
+ Student in electrical engineering or physics or similar with software programming skills.
+ Basic Knowledge of semiconductor/MOSFET technology is a plus.
+Fluent german or english speaker.
+ We offer
+ This is your department and colleagues: Small signal Mosfet industrial department, including industrial engineers, test engineers, product engineers, project leaders working in a international environment, including Germany, UK, Asia
+ This is what Nexperia offers: Studentship
+ Good to know: 
+no travel needed, job location is Hamburg
+ Talent acquisition based on Nexperia vacancies is not appreciated. Nexperia job adverts are Nexperia copyright © material and the word Nexperia® is a registered trademark. 
+ D&I Statement 
+ As an equal-opportunity employer, Nexperia values diversity not just because it is the right thing to do but because diverse teams perform better. We are dedicated to being inclusive, and a proof point of this dedication is that we were the main partner of the very first Dutch Paralympic Team NL House during the Paris 2024 Paralympic Games. Our recruitment process is inclusive and accessible to all, and we consider all applicants fairly, as well as providing a safe work environment and reasonable adjustments where requested.
+ In addition, we offer our colleagues the possibility to join employee resource groups such as the Pride Network Group or global and local Women's groups. Nexperia is committed to increasing women in management positions to 30% by 2030.

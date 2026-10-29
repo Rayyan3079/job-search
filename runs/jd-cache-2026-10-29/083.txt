@@ -1,0 +1,48 @@
+URL: https://www.linkedin.com/jobs/view/4484102226
+TITLE: Data Analyst
+COMPANY: eir business talent
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-28
+title: Data Analyst
+company: eir business talent
+posted: 13 hours ago
+applicants: 105 applicants
+apply_offsite: 
+---
+eir business talent is seeking a Data Analyst ; this is a permanent position located in Dublin 22.
+ Data Analyst 
+ Location : Dublin -  Role is initially onsite changing to hybrid.
+ Data Analyst with experience in Microsoft Fabric to join our clients growing data and analytics team. The successful candidate will be responsible for collecting, transforming, analysing, and visualising data to support strategic and operational decision-making. Working closely with business stakeholders, the Data Analyst will design scalable reporting solutions, develop semantic models, and ensure high standards of data quality and governance using the Microsoft Fabric platform.
+The ideal candidate will have strong analytical skills, experience with Power BI, SQL, and Microsoft Fabric technologies, and the ability to translate complex business requirements into meaningful insights.
+ Required Skills & Experience
+ Essential
+ Experience working as a Data Analyst or Business Intelligence Analyst.
+ Hands-on experience with Microsoft Fabric .
+ Strong Power BI report development experience.
+ Excellent SQL skills.
+ Experience developing semantic models.
+ Experience building ETL/ELT pipelines.
+ Strong understanding of relational databases and data modelling.
+ Experience working with large datasets.
+ Excellent analytical and problem-solving skills.
+ Strong communication and stakeholder management abilities.
+ Ability to manage multiple priorities and deadlines.
+ Technical Skills
+ Microsoft Fabric
+ Power BI
+ SQL Server / Azure SQL
+ Fabric Data Factory
+ Lakehouse architecture
+ Data Warehouses
+ Dataflows Gen2
+ DAX
+ Power Query (M)
+ Microsoft Excel
+ Git or Azure DevOps (desirable)
+ Python or Spark (desirable)
+  For more information please apply here or contact Agnes.Reena@eirbusiness.ie
+ Contact : 0858564199   
+ Ref: EET8350-1
+Candidates must be eligible to work full time and long term in the location specified or currently hold a valid appropriate long term work Visa to apply.
+ eir business talent , eir business and our clients are equal opportunity employers who seeks to recruit and appoint the best available person for a job regardless of marital / civil partnership status, sex (including pregnancy), age, religion, belief, race, nationality and ethnic or national origin, colour, sexual orientation or disability. eir business talent , eir business and our clients apply all relevant Data Protection laws when processing your Personal Data.
+If you choose to apply to this opportunity and share your CV or other personal information with eir business talent, eir business and our clients, these details will be held by us in accordance with our privacy policy used by our recruitment team to contact you regarding this or other relevant opportunities at eir business talent and eir business .

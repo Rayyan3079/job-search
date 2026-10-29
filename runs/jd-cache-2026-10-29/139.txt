@@ -1,0 +1,48 @@
+URL: https://www.linkedin.com/jobs/view/4482221151
+TITLE: Technical Data Analytics Intern (m/w/d)
+COMPANY: Atlas Copco Group
+LOC: Cologne, North Rhine-Westphalia, Germany
+POSTED: 2026-10-27
+title: Technical Data Analytics Intern (m/w/d)
+company: Atlas Copco Group
+posted: 1 day ago
+applicants: 48 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Ftechnical-data-analytics-intern-m-w-d-at-atlas-copco-group-4482221151&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Deine Rolle
+Bring deine Neugier mit zur Arbeit als unser nächster Technical Data Analytics Intern (m/w/d). Du wirst Teil unseres Engineering & Technical Support Teams und berichtest an Service Development Engineer. Das Praktikum ist auf eine Dauer von maximal sechs Monaten befristet.
+In dieser Rolle ist es deine Aufgabe, Daten aus vernetzten industriellen Vakuumsystemen in wertvolle Erkenntnisse zu verwandeln und die Entwicklung skalierbarer digitaler Servicelösungen zu unterstützen. Du trägst direkt dazu bei, wie wir hochwertige Produkte und Lösungen für unsere Kunden entwickeln.
+Dein Arbeitsalltag
+ Du analysierst Daten aus vernetzten industriellen Vakuumsystemen und identifizierst relevante Muster und Erkenntnisse
+ Du entwickelst und optimierst Analyselösungen mit Python, SQL und Databricks
+ Du erstellst Benchmarking- und Priorisierungsmodelle zur Unterstützung datenbasierter Entscheidungen
+ Du stellst die Datenqualität sicher und validierst Analyseergebnisse
+ Du arbeitest eng mit Ingenieur:innen und technischen Expert:innen zusammen
+ Du dokumentierst Methoden, Ergebnisse und Empfehlungen klar und strukturiert.
+ Deine Fähigkeiten und Erfahrungen
+ Du absolvierst aktuell ein Bachelor- oder Masterstudium in Data Science, Informatik, Ingenieurwissenschaften oder einem vergleichbaren technischen Studiengang
+ Du bringst erste Erfahrungen in den Bereichen Programmierung, Datenanalyse oder Softwareprojekte mit
+ Du verfügst über gute Kenntnisse in Python und Grundkenntnisse in SQL
+ Du interessierst dich für Industrial IoT, digitale Services und datenbasierte Entscheidungsfindung
+ Du bringst ausgeprägte analytische Fähigkeiten mit und hast Freude daran, komplexe Problemstellungen zu lösen
+ Du arbeitest strukturiert, selbstständig und detailorientiert
+ Du kommunizierst gerne und arbeitest gerne im Team
+ Du verfügst über gute Englischkenntnisse; Deutschkenntnisse sind von Vorteil.
+ Wir freuen uns auf deine Bewerbung, auch wenn du nicht jede einzelne Anforderung erfüllst. Unterschiedliche Erfahrungen und Perspektiven sind für uns wertvoll, und wir sind gespannt darauf, was du in die Rolle einbringst.
+Deine Vergütung und Zusatzleistungen
+In der Atlas Copco Group setzen wir uns für eine faire und gerechte Vergütung ein. Die Vergütung richtet sich nach der Position und ihren Verantwortlichkeiten – unabhängig von Geschlecht, ethnischer Herkunft, Religion, körperlichen Fähigkeiten, sexueller Orientierung, Familienstand oder anderen geschützten Merkmalen. Unser Vergütungsangebot ist darauf ausgerichtet, lokal relevant, wettbewerbsfähig und an den Erwartungen heutiger und zukünftiger Talente orientiert zu sein.
+Über die Vergütung hinaus sind wir überzeugt, dass eine erfüllende Karriere auch bedeutet, Möglichkeiten zum Lernen, Wachsen, Mitgestalten und Weiterentwickeln zu haben – in einem Umfeld, das auf Vertrauen, Zusammenarbeit und kontinuierlicher Verbesserung basiert. Bei der Atlas Copco Group unterstützen wir unsere Mitarbeitenden dabei, langfristige Karrieren aufzubauen und durch ihre Arbeit einen sinnvollen Beitrag zu leisten.
+ Das Erwartet Dich Außerdem
+ Vertrauen und Eigenverantwortung
+ Kontinuierliches Lernen und Entwicklung
+ Innovation durch Menschen
+ Attraktive Vergütung und Benefits
+ Gesundheit und Wohlbefinden
+ Dein Arbeitsort
+Diese Rolle bietet dir ein hybrides Arbeitsmodell, bei dem du deine Arbeitszeit zwischen mobilem Arbeiten und unserem Standort in Cologne, Deutschland (DE) aufteilst.
+Warum es sich lohnt, bei uns zu arbeiten
+Deine Karriere entwickelt sich durch deine Fähigkeiten, deine Neugier und die Menschen, mit denen du zusammenarbeitest. Du wirst Teil eines globalen Netzwerks, in dem wir voneinander lernen und Wissen offen teilen. Wir setzen auf langfristige Entwicklung und ermutigen dich, neue Ideen einzubringen, die uns gemeinsam voranbringen. Innovation ist ein zentraler Bestandteil unserer Arbeitsweise – wir testen, verbessern und nutzen unsere Erkenntnisse, um Lösungen mit echtem Mehrwert zu schaffen. Mit deinen Ideen und indem du Verantwortung übernimmst, kannst du einen echten Beitrag leisten – unterstützt durch flexible Arbeitsmodelle und Führungskräfte, die dich stärken und fördern.
+Bewerbungsprozess
+Unser Auswahlprozess umfasst Gespräche und – je nach Rolle – auch Assessments, damit wir ein umfassenderes Bild von deinem Profil gewinnen können. Wir freuen uns darauf, dich kennenzulernen, mehr über deine Stärken zu erfahren und gemeinsam darüber zu sprechen, wie du dich bei uns weiterentwickeln kannst.
+Wenn du während des Prozesses Fragen hast oder Unterstützung benötigst, kannst du dich jederzeit an uns wenden:
+Talent Acquisition: Carla Kuttenkeuler
