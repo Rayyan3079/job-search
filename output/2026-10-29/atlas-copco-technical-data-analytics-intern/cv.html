@@ -119,7 +119,7 @@ version: 1.0.0
   <!-- PROFESSIONAL SUMMARY -->
   <div class="section">
     <div class="section-title">Professional Summary</div>
-    <div class="summary-text">M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence, hands-on **PyTorch projects in computer vision**, and professional experience building **analytics dashboards and data models on SAP platforms**.</div>
+    <div class="summary-text">M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence. Built and evaluated a **RAG application with the Claude API**, has hands-on **PyTorch projects in computer vision**, and professional experience building **data models and analytics dashboards on SAP platforms**.</div>
   </div>
 
   <!-- SKILLS -->
@@ -128,7 +128,7 @@ version: 1.0.0
     <div class="skills-body"><div class="skills-grid">
 <div class="skill-item"><span class="skill-category">Programming &amp; ML: </span>Python · PyTorch · scikit-learn · OpenCV · Pandas · NumPy · Matplotlib</div>
 <div class="skill-item"><span class="skill-category">Data &amp; Analytics: </span>SQL · data modelling · ETL / data pipelines · SAP Analytics Cloud · SAP Datasphere · ABAP CDS views</div>
-<div class="skill-item"><span class="skill-category">Reporting &amp; Tools: </span>KPI reporting · Power BI (basic) · Excel (pivot tables, formulas) · PowerPoint</div>
+<div class="skill-item"><span class="skill-category">LLM apps (projects): </span>RAG · Claude API · ChromaDB · BM25 · FastAPI · Streamlit · pytest · Docker · Git/GitHub Actions</div>
 <div class="skill-item"><span class="skill-category">Languages: </span>English C1 (IELTS 8.0) · German A1 (currently learning)</div>
   </div></div>
   </div>
@@ -197,14 +197,14 @@ version: 1.0.0
     <div class="section-title">Projects</div>
     <div class="projects-body">
       <div class="project">
+  <div class="project-title">DocuMind: RAG Q&amp;A over technical PDF manuals<span class="project-badge">Personal project · github.com/Rayyan3079/documind-rag</span></div>
+  <div class="project-desc">Built a RAG system that answers questions about PDF manuals with page citations; **91% correct** on a 22-question test set, refused all 4 unanswerable questions, 3.3 s median latency. **Hybrid retrieval** (BM25 + semantic, Reciprocal Rank Fusion) raised MRR from 0.748 to 0.898. Evaluation harness with hit rate, MRR and an LLM judge; 37 offline unit tests, CI and Docker.</div>
+  <div class="project-tech">Python, FastAPI, Streamlit, ChromaDB, BM25, Claude API, pytest, Docker, GitHub Actions</div>
+</div>
+  <div class="project">
   <div class="project-title">Automated Cricket Highlights Generation<span class="project-badge">B.S. Thesis, team project</span></div>
   <div class="project-desc">Created training data and evaluated and tuned the EfficientNet-B0 model; tested EasyOCR configurations for scoreboard extraction; built the **video extraction and highlight assembly pipeline** aligning detected events with timestamps.</div>
   <div class="project-tech">Python, PyTorch, OpenCV, EasyOCR, FFmpeg</div>
-</div>
-  <div class="project">
-  <div class="project-title">Retinal OCT Scan Classification<span class="project-badge">Personal project</span></div>
-  <div class="project-desc">Fine-tuned a pretrained **EfficientNet-B0** as a 4-class classifier; **94.11% accuracy** on a 968-image test set. Preprocessing and augmentation: denoising, resizing, rotation, cropping, flipping.</div>
-  <div class="project-tech">Python, PyTorch, EfficientNet-B0, OpenCV</div>
 </div>
     </div>
   </div>

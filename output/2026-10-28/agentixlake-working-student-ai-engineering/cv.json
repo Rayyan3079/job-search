@@ -16,7 +16,7 @@
       "display": "kaggle.com/rayyan123z"
     }
   },
-  "summary": "M.Sc. Data Science student at TU Ilmenau with a **B.S. in Artificial Intelligence**, including coursework on how large language models work. Hands-on **Python and PyTorch** projects in computer vision and NLP, including **comparing BERT and GPT-2 embeddings** for text clustering, plus industry experience building **data pipelines, data models and validated reporting**. Careful about evaluation: knows when a model or pipeline works, when it fails, and why.",
+  "summary": "M.Sc. Data Science student at TU Ilmenau with a **B.S. in Artificial Intelligence**. Built and evaluated **DocuMind, a RAG application with the Claude API** (hybrid retrieval, LLM-as-judge evaluation, FastAPI, Docker, CI), plus industry experience building **data pipelines, data models and validated reporting**. Careful about evaluation: knows when a system works, when it fails, and why.",
   "experience": [
     {
       "company": "Tapal Tea (Pvt.) Ltd.",
@@ -109,8 +109,8 @@
       "items": "SQL · Pandas · NumPy · data pipelines · data modelling · data validation & reconciliation · SAP Datasphere"
     },
     {
-      "category": "Tools",
-      "items": "FFmpeg · NetworkX · Node2Vec · SAP Analytics Cloud · Excel · PowerPoint"
+      "category": "LLM apps (projects)",
+      "items": "RAG · Claude API · ChromaDB · BM25 · FastAPI · Streamlit · pytest · Docker · Git/GitHub Actions"
     },
     {
       "category": "Languages",
@@ -124,16 +124,16 @@
   },
   "projects": [
     {
+      "name": "DocuMind: RAG Q&A over technical PDF manuals",
+      "badge": "Personal project · github.com/Rayyan3079/documind-rag",
+      "tech": "Python, FastAPI, Streamlit, ChromaDB, BM25, Claude API, pytest, Docker, GitHub Actions",
+      "description": "Built a RAG system that answers questions about PDF manuals with page citations; **91% correct** on a 22-question test set, refused all 4 unanswerable questions, 3.3 s median latency. **Hybrid retrieval** (BM25 + semantic, Reciprocal Rank Fusion) raised MRR from 0.748 to 0.898. Evaluation harness with hit rate, MRR and an LLM judge; 37 offline unit tests, CI and Docker."
+    },
+    {
       "name": "Knowledge Graph Construction & Clustering from Reddit Text",
       "badge": "team project",
       "tech": "Python, spaCy, NetworkX, Node2Vec, BERT, GPT-2",
       "description": "Extracted subject-relation-object triples from unstructured text and **compared language-model embeddings (BERT, GPT-2) with graph embeddings (Node2Vec)** for clustering with K-Means and HDBSCAN."
-    },
-    {
-      "name": "Automated Cricket Highlights Generation",
-      "badge": "B.S. Thesis, team project",
-      "tech": "Python, PyTorch, OpenCV, EasyOCR, FFmpeg",
-      "description": "Created training data, **evaluated and tuned** an EfficientNet-B0 model, **tested EasyOCR configurations** for scoreboard extraction, and built the pipeline that assembles highlights from detected events."
     },
     {
       "name": "Retinal OCT Scan Classification",

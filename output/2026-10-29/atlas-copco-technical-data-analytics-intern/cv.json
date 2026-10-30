@@ -16,7 +16,7 @@
       "display": "kaggle.com/rayyan123z"
     }
   },
-  "summary": "M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence, hands-on **PyTorch projects in computer vision**, and professional experience building **analytics dashboards and data models on SAP platforms**.",
+  "summary": "M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence. Built and evaluated a **RAG application with the Claude API**, has hands-on **PyTorch projects in computer vision**, and professional experience building **data models and analytics dashboards on SAP platforms**.",
   "experience": [
     {
       "company": "Tapal Tea (Pvt.) Ltd.",
@@ -111,8 +111,8 @@
       "items": "SQL · data modelling · ETL / data pipelines · SAP Analytics Cloud · SAP Datasphere · ABAP CDS views"
     },
     {
-      "category": "Reporting & Tools",
-      "items": "KPI reporting · Power BI (basic) · Excel (pivot tables, formulas) · PowerPoint"
+      "category": "LLM apps (projects)",
+      "items": "RAG · Claude API · ChromaDB · BM25 · FastAPI · Streamlit · pytest · Docker · Git/GitHub Actions"
     },
     {
       "category": "Languages",
@@ -126,16 +126,16 @@
   },
   "projects": [
     {
+      "name": "DocuMind: RAG Q&A over technical PDF manuals",
+      "badge": "Personal project · github.com/Rayyan3079/documind-rag",
+      "tech": "Python, FastAPI, Streamlit, ChromaDB, BM25, Claude API, pytest, Docker, GitHub Actions",
+      "description": "Built a RAG system that answers questions about PDF manuals with page citations; **91% correct** on a 22-question test set, refused all 4 unanswerable questions, 3.3 s median latency. **Hybrid retrieval** (BM25 + semantic, Reciprocal Rank Fusion) raised MRR from 0.748 to 0.898. Evaluation harness with hit rate, MRR and an LLM judge; 37 offline unit tests, CI and Docker."
+    },
+    {
       "name": "Automated Cricket Highlights Generation",
       "badge": "B.S. Thesis, team project",
       "tech": "Python, PyTorch, OpenCV, EasyOCR, FFmpeg",
       "description": "Created training data and evaluated and tuned the EfficientNet-B0 model; tested EasyOCR configurations for scoreboard extraction; built the **video extraction and highlight assembly pipeline** aligning detected events with timestamps."
-    },
-    {
-      "name": "Retinal OCT Scan Classification",
-      "badge": "Personal project",
-      "tech": "Python, PyTorch, EfficientNet-B0, OpenCV",
-      "description": "Fine-tuned a pretrained **EfficientNet-B0** as a 4-class classifier; **94.11% accuracy** on a 968-image test set. Preprocessing and augmentation: denoising, resizing, rotation, cropping, flipping."
     }
   ]
 }

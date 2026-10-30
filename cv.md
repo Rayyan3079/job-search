@@ -59,6 +59,7 @@ Jun 2024 - Aug 2024
 
 ## Projects
 
+- **DocuMind: RAG Q&A over technical PDF manuals** (Python, FastAPI, Streamlit, ChromaDB, sentence-transformers, BM25, Claude API, pytest, Docker, GitHub Actions) -- Personal project, github.com/Rayyan3079/documind-rag. Built a retrieval-augmented generation system that answers questions about PDF manuals with page-level citations, served through a CLI, a FastAPI REST API and a Streamlit UI. Answered 20 of 22 answerable test questions correctly (91%) and refused all 4 unanswerable questions, at 3.3 s median latency. Implemented hybrid retrieval (BM25 + semantic search merged with Reciprocal Rank Fusion), raising MRR from 0.748 (semantic only) to 0.898 and evidence-page hit rate@5 from 91% to 100% (BM25 alone reached MRR 0.894, so most of the gain came from keyword search). Designed an evaluation harness with retrieval metrics (hit rate, MRR) and an LLM-as-judge; a full evaluation run cost $0.44. 37 offline unit tests, GitHub Actions CI, Docker. Used the evaluation to trace both wrong answers to chunk boundaries
 - **Retinal OCT Scan Classification** (PyTorch, EfficientNet-B0, OpenCV) -- 4-class classifier on a pretrained EfficientNet-B0; 94.11% accuracy on a 968-image test set. Preprocessing and augmentation: denoising, resizing, rotation, cropping, flipping
 - **Automated Cricket Highlights Generation** (PyTorch, OpenCV, EfficientNet-B0, EasyOCR, FFmpeg) -- B.S. final-year thesis, team project. My part: created training data, evaluated and tuned the EfficientNet-B0 model, tested EasyOCR configurations for scoreboard extraction, and built the video extraction and highlight assembly pipeline aligning detected events with timestamps
 - **Kaggle notebooks** (Python) -- Exploratory data analysis and visualization notebooks: Spotify Top Songs, Obesity EDA & Predictions, Heart Attack EDA & Prediction (kaggle.com/rayyan123z)
@@ -81,5 +82,6 @@ Jun 2024 - Aug 2024
 
 - **SAP & Analytics:** SAP Analytics Cloud, SAP Datasphere, ABAP CDS views, SAP Business Data Cloud, data modelling, ETL / data transformation, data pipelines, SQL
 - **Programming & ML:** Python, Pandas, NumPy, scikit-learn, PyTorch, OpenCV, EasyOCR, FFmpeg, spaCy, NetworkX, Node2Vec, BERT, GPT-2
+- **LLM apps & engineering (project experience):** RAG, Claude API, ChromaDB, sentence-transformers, BM25, FastAPI, Streamlit, pytest, Docker, Git/GitHub, GitHub Actions
 - **Visualization & Office:** SAP Analytics Cloud, Matplotlib, Power BI (basic), Excel (pivot tables, formulas), PowerPoint
 - **Languages:** English (fluent, IELTS 8.0 / C1), German (A1, currently learning)

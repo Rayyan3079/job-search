@@ -13,13 +13,27 @@
     "Four SAP",
     "one of 10",
     "10 participants",
-    "20 hours"
+    "20 hours",
+    "91%",
+    "20 of 22",
+    "22-question",
+    "22 questions",
+    "4 unanswerable",
+    "3.3 s",
+    "0.748",
+    "0.898",
+    "100%",
+    "$0.44",
+    "37 offline unit tests",
+    "37 unit tests",
+    "hit rate@5",
+    "2 of 22"
   ],
   "allow_facts": [
     "Tapal Tea",
     "TallyMarks Consulting",
     "TU Ilmenau",
-    "Technische Universit\u00e4t Ilmenau",
+    "Technische Universität Ilmenau",
     "FAST-NUCES",
     "SAP Young Professionals Program",
     "SAP Young Professionals Program",
@@ -46,8 +60,6 @@
     "Copilot"
   ],
   "warn_phrases": [
-    "automation",
-    "GitHub",
-    "Git"
+    "automation"
   ]
 }

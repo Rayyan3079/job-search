@@ -7,7 +7,9 @@
 | **A (strongest)** | SAP Data & Analytics, SAP BI / SAC / Datasphere / BW, BI & reporting, data analyst, SAP/IT consulting, SAP S/4HANA / integration | SAP experience (Tapal Tea BA + internship, TMC, SAP YPP), 4 SAP certifications | "M.Sc. Data Science student at TU Ilmenau with professional experience in SAP data modelling, SAP Datasphere, SAP Analytics Cloud and ABAP CDS views, and a background in Python and machine learning." |
 | **B (weaker evidence)** | Data science, ML, AI, computer vision, NLP, data analytics | Master's, PyTorch projects, Python; SAP analytics as supporting experience | "M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence, hands-on PyTorch projects in computer vision and NLP, and professional experience building analytics dashboards on SAP platforms." |
 
-Track B has only 3 projects, 2 collaborative. Knowledge Graph project is the weakest: include only for Track B when space allows.
+Track B projects, strongest first: **DocuMind RAG** (personal, solo, public GitHub repo, real evaluation numbers; lead with it for AI/LLM/GenAI, data science, data engineering and Python roles), Retinal OCT (computer vision), Cricket Highlights (thesis, team). Knowledge Graph is the weakest: include only when space allows.
+
+DocuMind may also be added to Track A CVs for data/analytics roles that mention Python, APIs, AI or GenAI (one project, 2 lines).
 
 ## Hard fact rules (never break)
 
@@ -19,8 +21,8 @@ Track B has only 3 projects, 2 collaborative. Knowledge Graph project is the wea
 - Power BI: one simple CEO sales-vs-plan dashboard (BA role) plus purchasing dashboards built in SAC and Power BI during the 2024 Tapal internship (user-stated). Never write "Power BI developer", "DAX", or "data modelling in Power BI". Do not use the "RSF" acronym.
 - Excel: only "pivot tables and formulas"; say "strong" only next to those named specifics.
 - PowerPoint: TMC client SAC presentation -> "the client subsequently purchased it". Never claim the presentation caused the sale.
-- Generative AI: used ChatGPT and Claude; understands LLMs from B.S. AI coursework. Never claim Copilot, prompt-engineering projects or built AI applications.
-- NOT claimable: Qlik (willing to learn), Power Automate / Power Apps / low-code, TensorFlow, DAX, Tableau, cloud platforms (AWS/Azure/GCP), Git/GitHub, Jira, Celonis, SharePoint. If a JD requires these, list them as gaps in the report; in a cover letter you may say "eager to learn X" only where natural.
+- Generative AI: used ChatGPT and Claude; understands LLMs from B.S. AI coursework. Built ONE LLM application: DocuMind (RAG with the Claude API, see cv.md). Claim RAG, retrieval, evaluation, FastAPI, Streamlit, ChromaDB, Docker, pytest and GitHub Actions only as project experience, never as professional/production experience. Never claim LangChain, LlamaIndex, fine-tuning LLMs, agents, Copilot or prompt-engineering as a skill.
+- NOT claimable: Qlik (willing to learn), Power Automate / Power Apps / low-code, TensorFlow, DAX, Tableau, cloud platforms (AWS/Azure/GCP), Jira, Celonis, SharePoint. If a JD requires these, list them as gaps in the report; in a cover letter you may say "eager to learn X" only where natural.
 - No GitHub profile: leave the GitHub field empty.
 - Certification exact titles/dates beyond what cv.md says: not provided.
 
@@ -42,3 +44,5 @@ Available immediately; up to 20 hours/week during the semester (more during seme
 - SAP YPP: "selected as one of 10 participants from Pakistan" is user-confirmed and may be used.
 - Tapal BA second dashboard is the employee expense reimbursement dashboard, built in SAP Analytics Cloud (user-confirmed). There is NO tea purchasing dashboard in the BA role.
 - **Projects section: OMIT by default.** Include Projects only for AI/ML-heavy roles (machine learning, data science with modelling, computer vision, NLP, AI). For those, Retinal OCT and Cricket Highlights first; Knowledge Graph only if space allows.
+
+- Git/GitHub: project-level use only (DocuMind repo with commit history and CI). Never claim team Git workflows in a job.

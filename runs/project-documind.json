@@ -1,0 +1,6 @@
+{
+  "name": "DocuMind: RAG Q&A over technical PDF manuals",
+  "badge": "Personal project · github.com/Rayyan3079/documind-rag",
+  "tech": "Python, FastAPI, Streamlit, ChromaDB, BM25, Claude API, pytest, Docker, GitHub Actions",
+  "description": "Built a RAG system that answers questions about PDF manuals with page citations; **91% correct** on a 22-question test set, refused all 4 unanswerable questions, 3.3 s median latency. **Hybrid retrieval** (BM25 + semantic, Reciprocal Rank Fusion) raised MRR from 0.748 to 0.898. Evaluation harness with hit rate, MRR and an LLM judge; 37 offline unit tests, CI and Docker."
+}
