@@ -76,7 +76,8 @@ For each job, slug = `company-role` (lowercase, hyphens). Folder: `output/$TODAY
    Payload `output/$TODAY/<slug>/cover.json` with `output_path` `output/$TODAY/<slug>/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf`, then
    `(cd $CO_ROOT && node generate-cover-letter.mjs --payload $JS_ROOT/output/$TODAY/<slug>/cover.json)`.
 4. Write `output/$TODAY/<slug>/README.md`: apply link, posting date, tier, fit score, why it fits, gaps,
-   and anything the user should check before submitting.
+   and anything the user should check before submitting. Add a **Contact** section per `modes/_custom.md`
+   (email from the posting + ready email text, or LinkedIn connection note + follow-up message).
 5. Open both PDFs as images (`pdftoppm -png -r 60`) and check the layout is clean.
 
 ## 4. Record
@@ -84,7 +85,7 @@ For each job, slug = `company-role` (lowercase, hyphens). Folder: `output/$TODAY
 - Append every job looked at to `data/seen.tsv` (url, date, company, role, tier, status: `packaged` / `listed` / `stale` / `closed`).
 - Add Tier 1/2 packaged jobs to `data/applications.md` with status `Evaluated` (never duplicate company+role).
 - Write `digests/$TODAY.md`: a table per tier (posted, company, role, location, German?, fit, apply link,
-  documents folder link), then source errors.
+  contact email or "LinkedIn", documents folder link), then source errors.
 - Replace the "Latest run" section of `README.md` with that run's Tier 1 and Tier 2 table and a link to the digest.
 
 ## 5. Save

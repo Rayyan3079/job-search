@@ -22,6 +22,10 @@ Cover letters for roles outside Ilmenau may say he is willing to relocate (true 
 - Cap: 12 application packages per run (Lane L first). Overflow goes to the digest as "not yet tailored".
 - Cover letters for Lane L roles say he lives and studies in Ilmenau. Lane R letters say he can work fully remote. Lane G letters may say he is willing to relocate.
 - Never submit anything. The user reviews and submits.
+- **Contact step (since 2026-10-30), for every packaged job:** search the full posting for an email address (`grep -oE '[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[a-z]{2,}'`; ignore privacy/data-protection, noreply and generic support addresses).
+  - **Email found:** put it in the package README under "Contact" with a ready-to-send email: subject line + body under 120 words (who he is, the role, one concrete match, DocuMind or SAP proof, CV and cover letter attached, availability). Also add the email to the digest table.
+  - **No email:** README gets a LinkedIn connection note (max 200 characters, names the role) for the recruiter or hiring manager, plus a follow-up message (under 500 characters) to send after they accept. If the posting names a contact person, address them by name.
+  - Contact texts follow the same fact rules as the CV. He sends them himself.
 
 ## Style
 
