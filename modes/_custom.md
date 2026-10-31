@@ -10,7 +10,7 @@ Lanes (all packaged; order = priority when the cap of 12 is reached):
 - **Lane L (near Ilmenau):** still first, because it is easiest to combine with studies.
 - **Lane G (anywhere in Germany, on-site or hybrid):** he is willing to relocate. Package English-friendly roles with fit >= 2.5.
 - **Lane R (remote in Germany):** fit >= 2.5.
-- **Lane W (worldwide remote part-time):** rules below unchanged.
+- **Lane W (worldwide remote part-time):** rules below unchanged. Freelance / independent-contractor / self-employed work is NOT allowed by his permit (Zusatzblatt: "Selbständige Tätigkeit nicht erlaubt"): never package it, list only with that note. Lane W jobs must be employment (Germany-based employer or Employer of Record).
 
 English rule (all lanes): package only when English is accepted (English posting, or German only "a plus" / not mentioned). Explicit fluent/very good German → list only.
 Cover letters for roles outside Ilmenau may say he is willing to relocate (true since 2026-10-28).
