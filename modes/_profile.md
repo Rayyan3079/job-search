@@ -46,3 +46,9 @@ Available immediately; up to 20 hours/week during the semester (more during seme
 - **Projects section: OMIT by default.** Include Projects only for AI/ML-heavy roles (machine learning, data science with modelling, computer vision, NLP, AI). For those, Retinal OCT and Cricket Highlights first; Knowledge Graph only if space allows.
 
 - Git/GitHub: project-level use only (DocuMind repo with commit history and CI). Never claim team Git workflows in a job.
+
+## Work permit (from the user's Zusatzblatt, 2026-10-31)
+- Residence title § 16b AufenthG (Studium, M.Sc. Data Science, TU Ilmenau).
+- Employment up to 140 days per year (§ 16b Abs. 3) plus studentische Nebentätigkeit allowed.
+- Selbständige Tätigkeit (self-employment / freelance) NOT allowed: never package freelance or independent-contractor jobs; list them only with this note.
+- Answer for forms: "Yes, permitted: residence permit § 16b AufenthG; employment up to 140 days/year and student jobs allowed."
