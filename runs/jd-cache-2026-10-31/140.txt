@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4466622150
+TITLE: Praktikant Industrial IoT, Cloud und Datenanalyse (w/m/x)
+COMPANY: BMW Group
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-10-30
+title: Praktikant Industrial IoT, Cloud und Datenanalyse (w/m/x)
+company: BMW Group
+posted: 17 hours ago
+applicants: 62 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikant-industrial-iot-cloud-und-datenanalyse-w-m-x-at-bmw-group-4466622150&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+THEORETISCH DIE BESTE ENTSCHEIDUNG. PRAKTISCH AUCH.
+ TEILE DEINE LEIDENSCHAFT.
+ Nur hochprofessionelle Abläufe in dynamischen Teams produzieren innovative Spitzentechnologie. Aber Fahrfreude wird bei uns von der Entwicklung bis zur Fertigung vor allem auch mit Spaß an der Arbeit und Begeisterung für das gemeinsame Projekt realisiert. Deshalb geben wir Studierenden bei uns nicht nur die Gelegenheit zum Zuhören, sondern auch zum Mitreden und Weiterdenken.
+Unser Data Science Team entwickelt in der Pilotlinie für Gen6 Batteriezellen die SmartFactory der Zukunft. Wir verarbeiten die Daten einer gesamten Produktionslinie, um Ursache-Wirkzusammenhänge in der Zellproduktion aufzudecken.
+ Was erwartet dich?
+ Du unterstützt bei der Analyse von Daten aus allen Bereichen des Produktionsprozesses.
+ Außerdem wirkst du mit bei der Überprüfung der Ergebnisse vor Ort an den Anlagen.
+ Darüber hinaus bringst du deine Ideen und dein Wissen proaktiv in die Visualisierung und Plausibilisierung der Daten ein.
+ Zudem unterstützt du bei Daten-Pipelines, die dein spannendes Aufgabengebiet abrunden.
+ Was bringst du mit?
+ Studium der Fachrichtungen Maschinenbau, Verfahrenstechnik, Informatik, Elektrotechnik, Data Science oder einem verwandten Bereich.
+ Interesse an innovativen Data Analytics Themen im Übergangsbereich zwischen Verfahrenstechnik, Maschinenbau und Cloud.
+ Programmiererfahrung, insbesondere in Python.
+ Vorkenntnisse in OPC-UA, IoT und Data Analytics von Vorteil.
+ Begeisterung für proaktives Mitgestalten und Einbringen eigener Ideen.
+ Kommunikations- und Teamfähigkeit.
+ Sehr gute Deutschkenntnisse.
+ Du bringst Begeisterung für neue Technologien und ein innovatives Umfeld mit? Dann bewirb dich jetzt!
+ Was bieten wir dir?
+ Umfassendes Mentoring & Onboarding.
+ Persönliche & fachliche Weiterentwicklung.
+ Flexible Arbeitszeiten.
+ Mobilarbeit.
+ Attraktive & faire Vergütung.
+ Apartments für Studierende (nach Verfügbarkeit & nur am Standort München).
+ Und vieles mehr siehe bmw.jobs/waswirbieten
+ Startdatum: frühestens ab 19.10.2026
+ Dauer: 6 Monate
+ Arbeitszeit: Vollzeit
+Hilfreiche Tipps zu deiner Bewerbung und dem Bewerbungsprozess findest du hier.
+Wir bei der BMW Group legen großen Wert auf Gleichbehandlung und Chancengleichheit. Unsere Recruiting-Entscheidungen basieren auf der Persönlichkeit, den Erfahrungen und Fähigkeiten der Bewerber:innen. Mehr dazu hier.
+Praktikant Industrial IoT, Cloud und Datenanalyse (w/m/x)

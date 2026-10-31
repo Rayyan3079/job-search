@@ -1,0 +1,44 @@
+URL: https://www.linkedin.com/jobs/view/4485304249
+TITLE: BI Analyst
+COMPANY: Sunshine Coast Council
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-30
+title: BI Analyst
+company: Sunshine Coast Council
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fau.linkedin.com%2Fjobs%2Fview%2Fbi-analyst-at-sunshine-coast-council-4485304249&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Why work with us?
+ At Council, we’re proud of our region. We collaborate with community to achieve truly sustainable outcomes, enhance our enviable lifestyle, and create award-winning places and spaces that are uniquely Sunshine Coast. So, if you love it here as much as we do, and you want to shape our region for the future – you’ll want to join our team!
+With the vision to be Australia’s most sustainable region - Connected. Liveable. Thriving, our region is a model of sustainability, where caring for our environment, creating vibrant communities and growing our local economy is a way of life.
+ About The Role
+ The Digital and Information Services Branch plays a critical role in enabling Sunshine Coast Council to deliver innovative, efficient and customer-focused services. As part of the Business Transformation & Performance Directorate, the branch provides agile technology and information solutions that support informed decision-making, continuous improvement and sustainable service delivery across the organisation.
+As a Business Intelligence Analyst, you will lead the development of data models, analytics solutions and interactive reporting that empower evidence-based decision-making across Council. Working closely with stakeholders from diverse business areas, you'll translate complex business requirements into meaningful insights, drive best-practice business intelligence governance and help shape the future of Council's enterprise reporting and analytics capability.
+This position is based at Sunshine Coast City Hall, in the heart of Maroochydore CBD. This state of the art and sustainable building is designed to achieve an innovative and collaborative workspace.
+ Key Responsibilities
+ Lead the development, maintenance and enhancement of enterprise data models and analytics solutions.
+ Deliver insightful Power BI dashboards, reports and visualisations to support business outcomes.
+ Collaborate with stakeholders to gather requirements and translate business needs into technical solutions.
+ Provide governance, technical advice and continuous improvement recommendations for Council's business intelligence platform.
+ About You
+ You hold a degree in Information Technology or a related discipline and bring substantial experience delivering business intelligence and reporting solutions within a large, complex organisation.
+ You are an expert in Power BI, with proven capability designing sophisticated dashboards, reports and visualisations that transform data into meaningful business insights.
+ You have strong technical expertise in SQL, ETL processes, data modelling and data warehousing principles, enabling you to build robust and scalable analytics solutions.
+ You are a collaborative communicator who can confidently engage stakeholders, understand business challenges and deliver solutions that create value across the organisation.
+ Our Culture & Employee Benefits
+ Council is committed to creating an inclusive, culturally diverse, healthy, skilled and dedicated workplace culture. As an employee you will enjoy a range of benefits and working styles to suit you:
+ Wellbeing: Your wellbeing is important to us therefore we offer several different initiatives such as discounted health related memberships, fitness passport, employee assistance program and development opportunities. 
+ Flexibility: We know it is important to balance life and work; therefore, we offer flexible working including a 9-day fortnight and a hybrid WFH model that help you be your best.
+ Extras: Those extras make a difference therefore we offer salary packaging options on novated leases, superannuation, smartphones and devices.
+ How To Apply
+ Your written application should include:
+ A 1-2 page cover letter demonstrating your ability to fulfil the mandatory and desirable requirements on the Position Profile. Keep the key responsibilities in mind when addressing these criteria; and
+ A current resume or curriculum vitae.
+ Once you have these two documents ready, click ‘Apply Now’ and follow the prompts to complete your application.
+ Further Information
+ Helpful information to assist you in completing your application is available on the Sunshine Coast Council website.
+To learn more about Council’s vision and projects, you can view the Corporate Plan 2025-2030.
+For specific enquiries contact Dean Derby during business hours on 0435 099 756.
+We're working hard to create an inclusive workplace that reflects the diverse community we serve. If you require adjustments at any stage of the recruitment process, please reach out to the Recruitment Team joinusnow@sunshinecoast.qld.gov.au.
+ At Sunshine Coast Council, we embrace differences in gender, age, ethnicity, race, cultural background including First Nations, disability, religion and sexual orientation. To deliver the best service to our region we want a workforce that reflects the diverse community that we serve. Sunshine Coast Council strongly encourages all suitable applicants to apply for this role.

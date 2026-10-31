@@ -1,0 +1,36 @@
+URL: https://www.linkedin.com/jobs/view/4474899293
+TITLE: Junior Data Engineer
+COMPANY: Littelfuse
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-30
+title: Junior Data Engineer
+company: Littelfuse
+posted: 13 hours ago
+applicants: 111 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Flt.linkedin.com%2Fjobs%2Fview%2Fjunior-data-engineer-at-littelfuse-4474899293&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Littelfuse (NASDAQ: LFUS) is a diversified industrial technology manufacturing company shaping solutions for the safe and efficient transfer of electrical energy. Headquartered in Chicago, Illinois, USA, we serve customers across industrial, transportation, and electronics markets worldwide. With approximately 16,000 employees we design and manufacture innovative technologies that support electrification, energy efficiency, and advanced automation. Our global reach is matched by a culture that empowers innovation and long-term growth. Guided by our principles We Care, We Succeed With Our Customers, and We Own the Outcome, we work collaboratively, think boldly, and deliver solutions that move industries forward.
+Littelfuse is seeking a motivated Junior Data Engineer to join our Analytics Team. In this role, you will help expand and enhance our analytics platform by integrating new data sources, adding and transforming data to meet evolving business needs, and ensuring information is accessible for reporting and analysis. You will work closely with business stakeholders and technical teams to understand data requirements, design scalable data solutions, and improve the quality and usability of enterprise data.
+This is an excellent opportunity for someone who is passionate about data, eager to develop technical expertise in data engineering, and ready to grow within a collaborative global team environment.
+This position offers a hybrid/remote work model, with occasional visits to our Kaunas office, and reports directly to the Business Intelligence Manager.
+ About The Job
+ Design, develop, test, and maintain ETL/ELT processes to integrate data from multiple source systems 
+ Collaborate with business stakeholders, analysts, and IT teams to deliver end-to-end data solutions 
+ Support the development and enhancement of Power BI datasets and reports 
+ Identify opportunities to automate processes and improve data quality, consistency, and management practices 
+ Create and maintain technical documentation and use Git for version control and collaboration
+ Stay current with emerging data engineering technologies, tools, and best practices
+ About You
+ Bachelor's degree in Data Science, Information Technology, Applied Mathematics, or a related field
+ Up to 1 year of professional or internship experience related to data engineering, analytics
+ Basic understanding of SQL and relational databases
+ Familiarity with ETL/ELT concepts and tools (Azure Data Factory, Microsoft Fabric, or similar) 
+ Basic understanding of Power BI and data visualization principles 
+ Familiarity with cloud data platforms (Microsoft Azure, Microsoft Fabric, or similar) is a plus 
+ Strong verbal and written communication skills in English 
+ Strong analytical and problem-solving skills with attention to detail 
+ Ability to work effectively with cross-functional teams and stakeholders 
+ Well-organized with the ability to manage multiple tasks and meet deadlines 
+ Quick learner with a proactive mindset and willingness to explore new technologies
+ The salary range for this position is 2000 EUR gross – 2400 EUR gross per month but the final offer will depend on the experience and competencies of the selected candidate.
+At Littelfuse, we support employee growth and development. Guided by our culture principles, our teams work together to deliver value for customers and make a positive impact in the communities where we operate. We are an equal opportunity employer committed to fostering an inclusive workplace where everyone has the opportunity to grow and contribute. We offer competitive compensation and benefits, performance-based incentives, flexible work arrangements, and development opportunities.

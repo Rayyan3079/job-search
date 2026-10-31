@@ -1,0 +1,60 @@
+URL: https://www.linkedin.com/jobs/view/4485252135
+TITLE: Student (m/w/d): Netlist Carpentry: Erweiterung eines interaktiven Schaltungsviewers
+COMPANY: IMMS Institut für Mikroelektronik- und Mechatronik-Systeme gemeinnützige GmbH (IMMS GmbH)
+LOC: Ilmenau, Thuringia, Germany
+POSTED: 2026-10-29
+title: Student (m/w/d): Netlist Carpentry: Erweiterung eines interaktiven Schaltungsviewers
+company: IMMS Institut für Mikroelektronik- und Mechatronik-Systeme gemeinnützige GmbH (IMMS GmbH)
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fstudent-m-w-d-netlist-carpentry-erweiterung-eines-interaktiven-schaltungsviewers-at-imms-institut-f%25C3%25BCr-mikroelektronik-und-mechatronik-systeme-gemeinn%25C3%25BCtzige-gmbh-imms-gmbh-4485252135&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Student (m/w/d): Netlist Carpentry: Erweiterung eines interaktiven Schaltungsviewers
+Während deines Studiums kannst du dich bei uns in laufende Forschungsprojekte einbringen. Geh mit uns an Grenzen des technisch Machbaren und sei dabei, wenn wir gemeinsam Neuland betreten. Wir bieten vielfältige herausfordernde und praxisorientierte Themen für Pflichtpraktika, Bachelor- bzw. Master-Arbeiten oder studentische Assistenztätigkeiten an. Du analysierst wichtige wissenschaftliche Vorlauffragestellungen und stehst den Projektteams mit unterstützenden Entwicklungstätigkeiten zur Seite.
+Arbeitsort: Erfurt
+Team: Mikroelektronik
+Karrierestufe: Pflichtpraktikum oder studentische Assistenz
+Forschungsfeld: Integrierte Sensorsysteme
+Umfang: nach Vereinbarung
+Beginn: ab sofort
+Bewerbungsfrist: 31.12.2026
+Kennziffer: IMMS_STUD_ME_1226
+Das Modifizieren von Netzlisten digitaler Schaltungen ermöglicht viele Analyse- und Optimierungsansätze. Am IMMS wurde dafür das Open-Source Python-Framework „Netlist Carpentry“ entwickelt, das Schaltungsnetzlisten automatisiert einliest, untersucht und modifiziert.
+Dafür werden die Zellen und Netze der Schaltung intern als Graph aus Knoten und Kanten gespeichert.
+Um die Analyse zu erleichtern, existiert ein interaktiver Graphviewer, der die Schaltung in einer für den Nutzer verständlichen Struktur anzeigt. Der Funktionsumfang des Viewers ist allerdings recht gering. Aktuell wird für einen ausgewählten Knoten lediglich eine rudimentäre Infobox angezeigt, die nur grundlegende Daten enthält.
+In dieser Arbeit soll der Viewer daher um verschiedene Funktionen erweitert werden. Dazu zählen eine Suchfunktion (mit interaktiver Suchleiste), das Nachverfolgen von Signalpfaden (woher ein Signal kommt, und wohin es geht) sowie das Markieren und Hervorheben von bestimmten Instanzen.
+Der gesamte Prozess soll gut dokumentiert und getestet werden, sodass sich die neuen Funktionen problemlos in die bestehende Dokumentation und Verifikationsumgebung eingliedern lassen.
+DAS IST ZU TUN:
+ Einarbeitung in die Struktur von Netlist Carpentry
+ Analyse des bestehenden Viewers für Schaltungsgraphen
+ Erweiterung des Viewers um hilfreiche Features, wie Markieren von Knoten, Signalpfadverfolgung, Suchfunktion und weitere Hilfsmittel zur Schaltungsanalyse
+ Test und Dokumentation der implementierten Features anhand von Beispielschaltungen
+ DAS BRINGST DU MIT:
+ Grundlegende Python-Kenntnisse
+ Grundlegende Kenntnisse im Umgang mit Git
+ Hilfreich, aber nicht zwingend erforderlich: grundsätzliche Kenntnisse über Netlist Carpentry
+ UND DAS SIND WIR:
+Wir am IMMS stärken Unternehmen mit anwendungsorientierter Forschung und Entwicklung in der Mikroelektronik, Systemtechnik und Mechatronik und transferieren Ergebnisse der Grundlagenforschung in Anwendungen. Wir unterstützen Unternehmen, international erfolgreiche Innovationen für Gesundheit, Umwelt und Industrie auf den Weg zu bringen und begleiten sie von der Machbarkeitsstudie bis zur Serienreife.
+WIR SIND GESPANNT AUF DICH!
+Wir freuen uns, wenn du mit uns arbeiten willst.
+Bewirb dich bitte nur einmal – für dein Lieblingsthema oder für das, das deinen Interessen am nächsten kommt. So können wir deine Bewerbung am schnellsten bearbeiten und auf dich zukommen. Wenn dich viele Themen interessieren, formuliere das gern in dein Anschreiben mit rein. Falls unsere aktuellen Vorschläge nicht passen sollten – schick uns bitte eine
+Initiativbewerbung
+mit deinem Themenwunsch.
+DAS HABEN WIR ZU BIETEN:
+ einen attraktiven Arbeitsplatz in einem modernen sehr gut ausgestatteten und industrienah agierenden Forschungsinstitut
+ Arbeit direkt an der Schnittstelle zwischen Universität und Industrie
+ Mitarbeit in einem flexiblen und kreativen Team und an innovativen herausfordernden Themen
+ Wir wertschätzen und fördern die Chancengleichheit und setzen uns für die Ziele der Gleichstellung und Diversität ein.
+Für die ausgeschriebenen Aufgaben und mit den vorhandenen Arbeitsbedingungen ist eine Bewerbung unabhängig vom Geschlecht und / oder von eventuellen körperlichen Behinderungen möglich.
+Das IMMS gewährleistet die berufliche Gleichstellung der Geschlechter und ist bestrebt, den Anteil des jeweils unterrepräsentierten Geschlechts zu erhöhen. Frauen sind in diesem Bereich unterrepräsentiert. Bewerbungen von Frauen sind daher ausdrücklich erwünscht.
+Schwerbehinderte Menschen werden bei gleicher Eignung, Befähigung und fachlicher Leistung bevorzugt berücksichtigt.
+Anschrift:
+IMMS Institut für Mikroelektronik- und Mechatronik-Systeme gemeinnützige GmbH (IMMS GmbH)
+Ehrenbergstraße 27
+98693 Ilmenau
+Deutschland
+ Kontakt: Eric Schäfer
+www.imms.de/angebote
+Was andere sagen:
+Folge uns:
+Drucken

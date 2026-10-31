@@ -1,0 +1,44 @@
+URL: https://www.linkedin.com/jobs/view/4475236070
+Company: Hilti Deutschland AG
+Title: Working Student Data Analysis in Battery Development
+Found: 2026-10-31
+Posted: 2026-10-30
+
+URL: https://www.linkedin.com/jobs/view/4475236070
+TITLE: Working Student Data Analysis in Battery Development (m/f/d)
+COMPANY: Hilti Deutschland
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-10-30
+title: Working Student Data Analysis in Battery Development (m/f/d)
+company: Hilti Deutschland
+posted: 12 hours ago
+applicants: 192 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-data-analysis-in-battery-development-m-f-d-at-hilti-deutschland-4475236070&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Turn battery data into smarter products.
+ As an interdisciplinary and international battery development team at Hilti, we offer you a varied working student position in the field of high-power batteries with a special focus on IoT data analytics for data-driven product development. We are looking for a motivated Master´s student with an engineering/science background who wishes to learn more about lithium-ion batteries by joining us analysing product use-case data and identifying advanced insights for the evaluation of high-performance batteries for power tools.
+ What You'll Do
+ As part of your job, you will support us in analyzing use case IoT data of batteries, tools and chargers for a variety of projects with the focus on supporting data-driven product development of lithium-ion batteries. 
+ Your area of responsibility includes understanding available parameters in the data from a use-case perspective as well as querying, pre-processing, analyzing and presenting relevant insights to enhance development processes.
+ You actively contribute your own ideas to optimize development workflows and data evaluation processes, driving continuous improvement and innovation. 
+ You will be involved in day-to-day operations and project-related work. 
+ The opportunity to actively support in a variety of technical projects (TP) and time-to-market (TTM) teams with respect to battery, tool and charger development.
+ What You’ll Bring
+ You are a team player. 
+ You are a master student in computer science, data science, electrical engineering, mechanical engineering, or comparable discipline. 
+ You are proficient in programming with Python/SQL/Pyspark.
+ You have experience/solid understanding of PowerBI and Microsoft Fabric.
+ You have foundational understanding and strong interest in the field of (lithium-ion) batteries systems and data-driven product development. 
+ You understand time-series data and related analysis methods. 
+ You can pay attention to detail, extract insights and communicate analytical results to cross-functional teams.
+ You are fluent in English (German is a plus).
+ You like working in an international team. 
+ You like to contribute with your own ideas.
+ You are self-going and strive for developing your skills and knowledge.
+ What’s In It for You
+ We offer you a unique place to work, in which you are part of a creative and interdisciplinary team. We will give you a lot of responsibility to develop yourself and we´ll support you in shaping your individual career path.
+In addition, we offer you innovative benefits, such as fitness and health programs.
+ Why Hilti
+ Hilti is a global leader in construction innovation, with more than 34,000 team members across 120 countries. Guided by our purpose, Making Construction Better, we’re driven to keep learning, growing, and finding new ways to make a lasting impact. Here, you’ll be empowered to use your strengths, work with a global and inclusive team, and take on meaningful challenges. At Hilti, you’ll have the chance to make your ideas, achievements, and growth real through purpose, passion, and teamwork.
+ Commitment to Inclusion
+ At Hilti, inclusion is a key focus in how we work, lead, and grow together. We are committed to embracing diversity of thought and creating an environment that is inclusive of everyone, everywhere. We continuously strive to ensure every voice is valued and every team member feels empowered to contribute. By building on this foundation, we strengthen our teams, our innovation, and our impact, making construction better together.

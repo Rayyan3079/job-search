@@ -1,0 +1,56 @@
+URL: https://www.linkedin.com/jobs/view/4473143296
+TITLE: Werkstudent:in Web Development – WordPress & AI
+COMPANY: zollsoft GmbH
+LOC: Jena, Thuringia, Germany
+POSTED: 2026-10-02
+title: Werkstudent:in Web Development – WordPress & AI
+company: zollsoft GmbH
+posted: 4 weeks ago
+applicants: 32 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-in-web-development-%25E2%2580%2593-wordpress-ai-at-zollsoft-gmbh-4473143296&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Vorrede
+ Du hast bereits mit WordPress gearbeitet und Lust, Deine Web-Development-Skills in echten Projekten weiterzuentwickeln? In unserem Marketing-Team arbeitest Du an Websites und Landingpages mit und findest gemeinsam mit uns heraus, wo KI den Entwicklungsalltag noch ein bisschen smarter machen kann.
+ Wo Du mit anpacken kannst
+ Du entwickelst und pflegst unsere WordPress-Websites und Landingpages und setzt kleinere Frontend-Anpassungen um.
+ Mit Tools wie Claude Code oder Codex holst Du Dir Unterstützung beim Coden, Troubleshooting und Lernen. Neue KI-Tools und Prompts probierst Du gerne aus. Was gut funktioniert, landet nicht in Deiner persönlichen Trickkiste, sondern direkt bei uns im Team.
+ Deine Code-Anpassungen hältst Du mit Git sauber auf Kurs.
+ Wenn irgendwo etwas hakt, gehst Du auf Fehlersuche und unterstützt bei kleineren Performance-Optimierungen.
+ Eigene Ideen für unsere Webauftritte sind ausdrücklich willkommen – schließlich sitzt Du nicht nur zum Zuschauen mit am Tisch.
+ Werkstudent:in bedeutet bei uns nicht nur zuschauen: Du bekommst echte Projekte, Raum zum Ausprobieren und eine Lernkurve, die Dich fordert, aber nicht ins kalte Wasser wirft.
+ Du arbeitest 20 Stunden pro Woche mit flexiblen Arbeitszeiten rund um Studium und Prüfungsphasen. Auch Homeoffice ist möglich, sodass sich der Job auch räumlich gut mit Deinem Studium verbinden lässt.
+ Was Du mitbringen solltest
+ WordPress ist für Dich kein Neuland: Du hast bereits praktische Erfahrung damit gesammelt und kannst bestehende Websites eigenständig bearbeiten. Auch HTML, CSS und JavaScript sind Dir vertraut.
+ Page Builder wie Bricks Builder kennst Du vielleicht schon. Erste Berührungspunkte mit PHP und MySQL sind ebenfalls ein Plus, aber kein Muss.
+ KI musst Du bei uns nicht heimlich im zweiten Tab öffnen. Claude Code, Codex & Co. nutzt Du bereits im Studium oder privat und hast Lust, mit Prompting und neuen KI-Workflows zu experimentieren.
+ Mit Git und den Grundlagen der Versionsverwaltung bist Du bereits vertraut.
+ Du packst gerne selbst mit an, stellst Fragen und hast Lust, Deine Ideen in unser Marketing-Team einzubringen.
+ Um bei uns richtig Fuß zu fassen, beherrschst Du Deutsch fließend auf mindestens C1-Niveau.
+ Warum wir?
+ Wir sind ein offenes und ambitioniertes Team von über 600 Mitarbeitern, das Kundenorientierung wirklich lebt und gleichzeitig Spaß hat. Bei uns herrscht auch nach über 10 Jahren eine Startup-Atmosphäre, die neben dem legendären Obstkorb auch vielseitige Perks wie eine steuerfreie Shoppingkarte, Dienstrad-Leasing und Gesundheitskurse (z.B. Yoga, Rückentraining und mental Health) anbietet - sowohl online als auch im Büro.
+Je nach Einsatzgebiet (und das sind mindestens 75% aller Unternehmensbereiche) bieten wir all unseren Kollegen flexible Arbeitszeiten und Home Office an. Wir verstehen uns als eng zusammenhaltendes Team mit Kooperations- statt Wettbewerbs-Atmosphäre. Außerhalb der Arbeit organisieren wir Events wie Beachvolleyball im Sommer, Grillfeste, Kochabende oder Paddeltouren.
+ Deine Vorteile bei uns:
+ Super Team und flache Hierarchien
+ Job Crafting/individuelle Arbeitsgestaltung
+ Flexible Arbeitszeiten
+ Weiterentwicklung
+ Homeoffice/Mobiles Arbeiten
+ Team Events
+ Förderung der physischen und psychischen Gesundheit
+ Betriebliche Altersvorsorge
+ Betriebliche Krankenversicherung
+ Dienstradleasing/Jobrad
+ Hardwareleasing
+ Mitarbeiterrabatte
+ Betreuungkostenzuschuss/ Kita-Zuschuss
+ Erholungsbeihilfe
+ Essenszuschuss
+ Fahrtkostenzuschuss
+ Auslandsarbeit
+ Überzeugt? Dann bewirb Dich jetzt bei uns!
+ Lade Deine aussagekräftige Bewerbung inklusive Anschreiben, Lebenslauf und der relevanten Zeugnisse (Schul-, Ausbildungs-, Uni- und Arbeitszeugnisse) ganz einfach online auf unserer Homepage hoch. Sobald Deine Bewerbung bei uns angekommen bist, erhältst Du eine automatisch Bestätigung per Mail.
+ Du hast noch Fragen? Dann wende Dich ganz einfach an unsere Personalabteilung. Unser Recruitingteam steht Dir gerne bei Rückfragen zur Verfügung. Du erreichst sie unter jobs@zollsoft.de. Weitere Informationen findest du auch auf unserer Website.
+ Über uns
+ Wir sind ein innovatives, kreatives und nicht mehr ganz so junges Familienunternehmen mit Sitz unweit des Paradieses in Jena. Gemeinsam als Team entwickeln wir tomedo®, unsere rasant wachsenden Apple-basierten Software für Arztpraxen, die in unabhängigen Umfragen die höchste Kundenzufriedenheit erzielte, immer weiter.
+Flache Hierarchienund ein kommunikatives Miteinander geben Deiner Kreativität und Deinen Ideen Spielraum zur Mitgestaltung spannender Projekte. Home Office und flexible Arbeitszeiten geben Dir außerdem die Chance, Deinen Alltag ganz nach Deinen Vorstellungen zu gestalten. Wir bieten Dir die Chance, Dich weiterzuentwickeln und das Wachstum der zollsoft GmbH aktiv voranzutreiben.
+Worauf wartest Du noch? Werde auch Du ein zollsoftie und wachse mit uns!

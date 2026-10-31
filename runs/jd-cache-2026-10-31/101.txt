@@ -1,0 +1,48 @@
+URL: https://www.linkedin.com/jobs/view/4484951963
+TITLE: Oracle PL/SQL Software Engineer
+COMPANY: MR HealthTech
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-29
+title: Oracle PL/SQL Software Engineer
+company: MR HealthTech
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fgr.linkedin.com%2Fjobs%2Fview%2Foracle-pl-sql-software-engineer-at-mr-healthtech-4484951963&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+We are looking for a Software Engineer to join us in elevating our software products which cover our customers critical needs.
+ The Software Engineer will be involved in the entire lifecycle of the development (design, programming, unit testing and documentation) of information systems from supplied specifications in accordance with agreed standards using Oracle technology. We have a team of highly skilled and experienced Software Engineers and a practice of mission-critical software solutions to be used in highly critical systems.
+ Main responsibilities 
+ • Design, programming and unit testing of business requirements in PL/SQL technology
+ • Documenting changes in code
+ • Collaborate with cross-functional teams to define, design, and implement new features
+ • Investigation and resolution of deployment and/or functional issues in internal and customer environments
+ • Participate in code reviews and ensure adherence to coding standards
+ Required Skills 
+ • University level degree (or higher education institute) in Computer Science, Information Technology or relevant field of study
+ • Hands-on experience in designing and developing complex backend business logic (packages, stored procedures, triggers, and functions)
+ • Very strong background/experience with Oracle Database and PL/SQL
+ • Knowledge of data modeling concepts, understanding of database design, data modeling, and normalization principles
+ • Experience with SQL query optimization and database performance analysis
+ • Excellent command of English language
+ • Strong teamwork skills
+ • Ability to analyze business requirements and translate them into technical solutions
+ • Ability to work independently and manage multiple priorities in a fast-paced environment
+ • Incentive to learn and improve technical development skills
+ Desired Skills 
+ • Experience in the development of Information Systems using various technologies
+ • Experience with software development lifecycle (SDLC) methodologies and best practices
+ • Experience with Oracle APEX
+ • Experience with REST APIs, web services, and system integrations
+ • Understanding of CI/CD practices and automated deployment processes
+ • Experience with report development software packages, such as Oracle Analytics OBIEE or Oracle BI Publisher will be considered a plus
+ • Experience in Source Control Tools (GIT)
+ We offer 
+ • Competitive salary and benefits, including but not limited to: life/health insurance, annual company bonus, hybrid work model
+ • Continuous hard and soft skills development through global platforms
+ • Diverse and inclusive culture
+ • International mobility withing the Munich Re Group
+ • Enjoyable and stable working environment
+ • Leading-edge technology
+ About Us 
+ Munich Re HealthTech S.A., a division of Munich Re, is a leading global specialist in digital solutions for the health insurance industry.
+ Munich Re HealthTech has been operating since 1995 and its solutions currently support 26 organizations in 19 countries in Europe, the Middle East, Africa and Latin America. Its software solutions decrease the complexity of creating and managing complicated health insurance products, enhance the customer experience throughout the claims process and provide the tools for successful portfolio management.

@@ -1,0 +1,50 @@
+URL: https://www.linkedin.com/jobs/view/4485135347
+TITLE: AI/ML Trainer (1-2 yrs)
+COMPANY: MindBrain
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-31
+title: AI/ML Trainer (1-2 yrs)
+company: MindBrain
+posted: 1 hour ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+Job Description: AI/ML Trainer
+ Experience: 1–2 Years
+ Work Location: Bhubaneswar, Odisha
+ Work Mode: Onsite
+ Employment Type: Full-Time
+ Role Overview
+ We are seeking a skilled and enthusiastic AI/ML Trainer with 1–2 years of experience in Artificial Intelligence, Machine Learning, model development, and/or technical training. The ideal candidate should have strong programming skills, practical knowledge of machine learning algorithms, and the ability to deliver structured, hands-on, industry-oriented training.
+ The candidate will be responsible for conducting technical sessions, mentoring learners, guiding them through real-world AI/ML projects, and developing their practical understanding of data preprocessing, model building, evaluation, and deployment.
+ Key Responsibilities
+ - Conduct structured training sessions on Artificial Intelligence, Machine Learning, and related technologies.
+ - Deliver hands-on sessions on Python programming, data analysis, and machine learning algorithms.
+ - Explain supervised and unsupervised learning concepts with practical examples.
+ - Guide trainees in data collection, preprocessing, feature engineering, model training, and evaluation.
+ - Demonstrate the use of AI/ML libraries and frameworks through practical exercises.
+ - Develop training materials, coding assignments, assessments, and project-based learning modules.
+ - Mentor trainees in developing real-world AI/ML applications and end-to-end projects.
+ - Evaluate trainee performance through coding assessments, assignments, and project reviews.
+ - Introduce learners to model optimization, deployment fundamentals, and industry use cases.
+ - Stay updated with emerging AI/ML technologies, tools, frameworks, and industry practices.
+ Required Technical Skills
+ - Strong proficiency in Python programming.
+ - Understanding of mathematics and statistics fundamentals relevant to machine learning.
+ - Practical knowledge of NumPy, Pandas, and Matplotlib.
+ - Understanding of supervised and unsupervised machine learning algorithms.
+ - Familiarity with Scikit-learn for model development and evaluation.
+ - Knowledge of data preprocessing, feature engineering, and exploratory data analysis (EDA).
+ - Understanding of model evaluation metrics, overfitting, underfitting, and cross-validation.
+ - Familiarity with Jupyter Notebook and Google Colab.
+ - Basic knowledge of SQL and data handling.
+ - Understanding of deep learning concepts and frameworks such as TensorFlow or PyTorch is an advantage.
+ - Familiarity with AI application development, model deployment, and Git/GitHub is preferred.
+ Eligibility Criteria
+ - 1–2 years of relevant experience in AI/ML development, data science, or technical training.
+ - Hands-on experience with Python and machine learning projects.
+ - Ability to explain complex technical concepts clearly and deliver practical training sessions.
+ - Strong analytical, problem-solving, communication, and presentation skills.
+ - Ability to mentor students and guide them through project-based learning.
+ - Willingness to work onsite at Bhubaneswar, Odisha.
+ Preferred Profile: Candidates with experience in AI/ML project development, academic or corporate training, data science projects, deep learning, or AI application development will be preferred. Relevant certifications and a demonstrable project portfolio will be an added advantage.

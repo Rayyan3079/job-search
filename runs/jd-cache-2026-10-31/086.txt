@@ -1,0 +1,83 @@
+URL: https://www.linkedin.com/jobs/view/4476711439
+TITLE: Business Intelligence Analyst
+COMPANY: Casumo
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-29
+title: Business Intelligence Analyst
+company: Casumo
+posted: 1 day ago
+applicants: 53 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fhr.linkedin.com%2Fjobs%2Fview%2Fbusiness-intelligence-analyst-at-casumo-4476711439&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Casumo is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+Join us at Casumo, where you are invited to be your authentic YOU-MO!
+ Company Overview
+ Welcome to Casumo, your passport to a world of fun, excitement, and responsible gaming. We're an international online casino company with a knack for creating unforgettable gaming experiences. Our secret sauce? A blend of innovation, security, and a dash of playful charm.
+Nowadays, we're on the hunt for a dynamic and strategic Business Intelligence Analyst!
+ Position Overview
+ The Business Intelligence Analyst is responsible for developing, maintaining, and improving reporting and analytics solutions that support business decision making across the organization. The role works closely with Business Intelligence Analyst Lead, Senior Business Analysts, Data Engineers and business stakeholders to deliver accurate, scalable, and user-friendly reports. The BI Analyst translates defined business requirements into dashboards, reports and analyses.
+ Responsibilities
+ Design, develop, and maintain dashboards, reports, and self-service reporting solutions primarily using Tableau.
+ Develop and maintain SQL queries, reporting views, calculations, and supporting reporting logic.
+ Validate reporting accuracy and ensure KPI logic is implemented correctly.
+ Apply dimensional modelling and reporting best practices in analytics solutions.
+ Ensure dashboards and reports are visually clear, user-friendly, and aligned with the best reporting practices.
+ Support the maintenance and enhancement of existing reporting solutions.
+ Perform ad-hoc analyses to support operational and tactical business decision-making.
+ Investigate data discrepancies, incidents, and reporting issues.
+ Analyze datasets to identify trends, anomalies, and actionable insights.
+ Collaborate with Business Analyst Lead and Senior Business Analysts to deliver reporting and analytics solutions based on defined business requirements.
+ Communicate with stakeholders regarding reporting functionality, enhancements, and issue resolution.
+ Provide support and guidance to end-users on reporting usage and available data sources.
+ Maintain documentation for reports, dashboards, and reporting logic.
+ Identify opportunities to automate and improve recurring reporting processes.
+ Requirements
+ A bachelor’s degree in business administration, finance, computer science, data science, economics, statistics, or a related field.
+ 2+ years of experience in data analysis, business analysis, or a related field.
+ Good knowledge of the iGaming industry including key operational business processes, metrics, and key performance indicators (KPIs).
+ Strong SQL skills including joins, aggregations, subqueries, and reporting logic development.
+ Experience developing dashboards and reports using Tableau.
+ Good understanding of data warehousing and dimensional modelling concepts.
+ Familiarity with ETL concepts and reporting-oriented data structures.
+ Strong analytical and problem-solving skills.
+ Ability to interpret data and provide actionable insights.
+ Good understanding of business KPIs and reporting requirements.
+ Strong communication skills with both technical and non-technical stakeholders.
+ Ability to manage multiple tasks and priorities in a fast-paced environment.
+ Experience working in SCRUM or agile environments is considered a plus.
+ Think we're a good match? Apply now!
+The Perks
+ Malta Office
+ Being a part of the Casumo group provides an unparalleled experience. You’ll find yourself surrounded by the brightest minds within the most inspiring and collaborative office spaces! In addition to that, you’ll enjoy:
+ Private health insurance
+ Wellness incentives, including a fitness allowance and mental well-being services
+ Flexible national holidays: public holidays mean more time off, choose how and when to enjoy them!
+ 2 weeks Work From Anywhere (10 days), increased to 4 weeks (20 days) after longer duration of employment within the Company: explore the world while working remotely
+ Gourmet lunches and healthy snacks prepared by our in-house chef
+ Variety of discounts from local vendors
+ Access to some of the greatest tools and platforms for developing your professional skills and building success within your role
+ A range of training courses, known as Casumo College, for continuous learning and growth
+ Social events for building strong relationships with colleagues from all across the organisation
+ Macedonia Office
+ Private health insurance
+ Wellness incentives, including a fitness allowance and mental well-being services
+ 2 weeks Work From Anywhere (10 days), increased to 4 weeks (20 days) after longer duration of employment within the Company: explore the world while working remotely
+ Office lunches - three times per week
+ Access to some of the greatest tools and platforms for developing your professional skills and building success within your role
+ A range of training courses, known as Casumo College, for continuous learning and growth
+ Social events for building strong relationships with colleagues from all across the organisation
+ Zagreb Office
+ Private health insurance
+ Wellness incentives, including a fitness allowance and mental well-being services
+ 2 weeks Work From Anywhere (10 days), increased to 4 weeks (20 days) after longer duration of employment within the Company: explore the world while working remotely
+ Food allowance
+ Access to some of the greatest tools and platforms for developing your professional skills and building success within your role
+ A range of training courses, known as Casumo College, for continuous learning and growth
+ Social events for building strong relationships with colleagues from all across the organisation
+ Our ABC Values
+ ASPIRE
+ At Casumo, "aspire" means pushing beyond the ordinary and transforming obstacles into stepping stones. Challenges are our breakfast of champions, and comfort zones are out of bounds. Mediocrity? Left behind. Our mantra? Dream big, aim high, and always be ready for the next adventure in innovation.
+ BELIEVE
+ Belief at Casumo isn't just a feel-good sticker; it's the glue that binds us. Turning "me" achievements into "we" victories, we're a tight-knit crew of dreamers, doers, and relentless supporters. With a high-five arsenal and a trusty cheerleading squad, we're on a mission to prove that together, we're not just strong; we're Casumo strong.
+ CARE
+ Care is our secret ingredient, the cherry on top of our game. It's not only about ensuring our players have a blast (responsibly, of course); it's about weaving a fabric of support so tight, even the toughest challenges can't tear us apart. From tailoring player experiences to being there for each other, we're all about creating memorable moments.

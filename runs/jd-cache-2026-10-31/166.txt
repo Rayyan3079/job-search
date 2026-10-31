@@ -1,0 +1,54 @@
+URL: https://www.linkedin.com/jobs/view/4483024125
+TITLE: Werkstudent:in Data Science (m/w/d) - Tegtmeier Internet Solutions
+COMPANY: Sinnkontor
+LOC: Hamburg, Hamburg, Germany
+POSTED: 2026-10-29
+title: Werkstudent:in Data Science (m/w/d) - Tegtmeier Internet Solutions
+company: Sinnkontor
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+Im Auftrag unseres Mandanten Tegtmeier Internet Solutions GmbH suchen wir – Sinnkontor GmbH – eine:n Werkstudent:in Data Science (m/w/d) 
+ Warum wir? 
+ Tegtmeier Internet Solutions: Qualität & Leidenschaft. Seit über 20 Jahren liefern wir zuverlässige Softwarelösungen – anything but ordinary.
+ Bei uns fühlen sich Entwickelnde wohl, die gerne in einem starken, enthusiastischen Team auf Augenhöhe gemeinsam wachsen und Leidenschaft für Technik teilen. Mit hanseatisch bodenständigem Geist bringst du dein Wissen ein und entdeckst gleichzeitig Neues – in einer offenen Unternehmenskultur, die Innovation, Nerdigkeit und Kreativität fördert.
+ Wir schaffen einen Raum, der ebenso fördernd und fordernd wie familiär ist – mit abwechslungsreichen Aufgaben und flachen Hierarchien. A Place That Benefits You.
+ Das erwartet dich: 
+ Gerade starten wir neue Projekte, bei denen wir von Anfang an AI-first denken – von der Entwicklung bis zur Produktidee. Themen wie Tourismus, mentale Gesundheit und Musikbranche treffen auf moderne Software-Stacks und KI-gestützte Entwicklung. Wenn du Lust hast, mit uns Dinge zu bauen, die nicht 
+nach 08/15-Enterprise riechen, sondern richtig was bewegen, dann suchen wir dich!
+ Aufgaben 
+ Du arbeitest mit KI-Agenten im Code (z. B. Claude Code, Codex) und prüfst ihre Ergebnisse selbst.
+ Du bereitest Daten auf und führst Quellen zusammen, etwa aus Datenbanken, Schnittstellen und Tracking.
+ Du beantwortest Fragen aus Produkt und Kundenprojekten mit Daten: Du formulierst Hypothesen, analysierst explorativ und prüfst Ergebnisse statistisch.
+ Du planst und wertest Experimente aus, z. B. A/B-Tests.
+ Du baust Auswertungen und Dashboards, mit denen Produkt und Kund:innen entscheiden können.
+ Du sicherst Datenqualität: Duplikate, fehlende Werte, Plausibilität.
+ Du bringst Lösungen mit dem Team vom Prototyp in den Betrieb, inklusive Deployment und Monitoring.
+ Du erklärst Ergebnisse verständlich und sagst offen, wo die Grenzen liegen.
+ Du gibst Wissen weiter, an Menschen und an KI-Agenten.
+ Du arbeitest eng mit Produkt, UX und Entwicklung zusammen. Fachlich führt dich unser KI-Beauftragter.
+ Du arbeitest mit Anleitung und übernimmst erste eigene Teilaufgaben.
+ Qualifikation 
+ Du bist eingeschrieben und studierst Informatik, Data Science, Wirtschaftsinformatik, Mathematik, Statistik oder ein verwandtes Fach. Eigene Projekte zählen genauso.
+ Du bist sicher in Python. Git und nachvollziehbarer Code gehören für dich dazu.
+ Du arbeitest mit Python und R und hast ein grundlegendes Verständnis von Datenbanken (SQL).
+ Du kennst dich mit Datenvisualisierung, dem Design von Experimenten und den Grundlagen der Statistik aus.
+ KI-gestützte Entwicklung (z. B. Claude Code, Codex) ist Teil deines Alltags.
+ Du fragst nach, wenn Daten und Anforderungen nicht zusammenpassen, und arbeitest sorgfältig mit vertraulichen Daten.
+ Du reflektierst deine Arbeit und gibst Wissen weiter. Erfahrung als Tutor:in ist ein Plus.
+ Du sprichst Deutsch auf C1- und Englisch auf B2-Niveau.
+ Berufsjahre brauchst du nicht.
+ Benefits 
+ Arbeitsplatz mit bester Ausstattung in modernem Büro nahe Hauptbahnhof
+ Regelmäßige IT-Konferenzen, Weiterbildungen, Hackathons und Team-Events
+ Kostenlose Getränke / Obst / Gemüse / Snacks im Büro
+ Zuschüsse zu ÖPNV, Mittagessen und EGYM-Wellpass
+ Vertragslaufzeit passen wir an deine Pläne an
+ Tegtmeier Internet Solutions GmbH 
+ Burchardstr. 14 
+ 20095 Hamburg 
+ Germany 
+ Eingetragen im Handelsregister: 
+Amtsgericht Hamburg HRB 137948 
+Vertretungsberechtigte Personen: Jan Tegtmeier

@@ -1,0 +1,49 @@
+URL: https://www.linkedin.com/jobs/view/4482585851
+TITLE: AI & Automation Intern / Working Student (m/w/d)
+COMPANY: branchly
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-10-29
+title: AI & Automation Intern / Working Student (m/w/d)
+company: branchly
+posted: 1 day ago
+applicants: 34 applicants
+apply_offsite: 
+---
+Wir sind branchly, ein KI-SaaS-Unternehmen aus München, und suchen eine*n motivierte*n AI & Automation Intern (m/w/d), der/die uns Founder mit Leidenschaft bei der Skalierung unterstützt. Die Stelle gibt es in zwei Varianten: als Praktikum in Vollzeit oder als Werkstudent*in mit flexiblen Arbeitszeiten neben dem Studium. Wir arbeiten hybrid, also vor Ort in München und von zu Hause. Nutze die Chance, Verantwortung in einem schnell wachsenden Early-Stage Startup zu übernehmen, deine Fähigkeiten weiter auszubauen und direkt an der Skalierung unseres Unternehmens mitzuwirken.
+ Aufgaben 
+ Operations: Ausbau unseres internen Operations-Systems durch Automatisierungen für effizientere interne Arbeitsabläufe mithilfe von KI und Automatisierungstools wie n8n, Notion, Hermes Agent, etc.
+ Kundenprojekte: Du arbeitest von Anfang an an echten branchly-Projekten mit. Du lernst unser Tool von innen kennen, übernimmst das Setup für neue Kunden und hältst danach den monatlichen Austausch mit ihnen. Du siehst, wie Kunden unsere Plattform nutzen, und arbeitest an der Optimierung ihrer Anwendungen.
+ Automatisierung: Du gehst in Kundenprojekte und findest dort die Abläufe, die sich automatisieren lassen. Daraus baust du konkrete Lösungen: Automation-Tools, Claude Skills, Workflows und Anbindungen über APIs. Du bringst selbst mit, was du kannst, und eignest dir an, was fehlt.
+ Allround Support: Unterstützung in diversen Bereichen, wie es in einem dynamischen Early-Stage Startup üblich ist.
+ Freiraum für eigene Themen: Du arbeitest an Themen, die uns voranbringen und zu deinen Stärken passen. Du suchst dir einen Bereich, der dir liegt und bringst ihn über deine Zeit bei uns ein Stück nach vorn.
+ Qualifikation 
+ Eingeschriebener Student (Bachelor/Master) mindestens 6 Monaten Zeit vor Studienabschluss. Mindestdauer des Praktikums sind 3 Monate.
+ Arbeitsweise: Eigenständige, strukturierte und zielorientierte Arbeitsweise sowie hohe Eigenmotivation.
+ Erfahrung: Erste Berufserfahrung (Praktika, Vollzeit), idealerweise in einem Tech-Startup.
+ Technikaffin: Sicherer Umgang mit modernen KI-Tools (ChatGPT, Claude, Gemini) und Prompting-Fähigkeiten.
+ Kommunikationsstärke: Hervorragende schriftliche und mündliche Kommunikationsfähigkeiten in Deutsch (Muttersprache) und Englisch (verhandlungssicher).
+ Bonus Skills and Experience 
+ Technische Kenntnisse oder Programmiererfahrung (Python, Javascript, SQL etc.)
+ Erfahrung mit Automatisierungstools (z.B. n8n, Hermes Agent), Agentic Coding und APIs.
+ Benefits 
+ Flexible Arbeitszeiten
+ Gutscheine und Ermäßigungen via Corporate Benefits
+ Homeoffice
+ Faire Vergütung
+ Fitnessabo via EGYM Wellpass
+ 50 € steuerfreier Sachbezug pro Monat – flexibel als Gutschein
+ Essenszuschuss
+ Internetpauschale
+ Mobilitätsbudget
+ Fitnessabo via EGYM Wellpass
+ Kita-Zuschuss – steuerfreie Übernahme von Betreuungskosten
+ Erholungsbeihilfe plus Familienzuschüsse
+ Aufmerksamkeiten zu Geburtstagen & Jubiläen
+ Über branchly 
+ branchly ist ein in München ansässiges KI-SaaS-Unternehmen, das innovative, datengesteuerte und benutzerfreundliche Kommunikationslösungen bietet. Unsere Plattform vereint Chat-, Such-, Navigations- und Voice-Interaktionen zu einer ganzheitlichen Benutzeroberfläche, die es Endkunden ermöglicht, schnell und intuitiv Antworten zu finden und Anliegen zu lösen. Während Unternehmen dabei tiefe Einblicke in die Bedürfnisse ihrer Kunden gewinnen, steigern sie gleichzeitig ihre Conversion Rate und optimieren ihre Prozesse für noch bessere Ergebnisse.
+ Über den Bewerbungsprozess 
+ Erstes Kennenlernen (ca. 15 Minuten)
+ Case Study, Onsite-Day in München
+ Finales Angebot
+ Wir freuen uns auf deine aussagekräftige Bewerbung!
+ Das branchly Team

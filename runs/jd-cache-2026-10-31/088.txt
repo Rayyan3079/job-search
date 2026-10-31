@@ -1,0 +1,24 @@
+URL: https://www.linkedin.com/jobs/view/4483032118
+TITLE: Data Analyst (SQL/PowerBI/Tableau)
+COMPANY: SM Retail
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-29
+title: Data Analyst (SQL/PowerBI/Tableau)
+company: SM Retail
+posted: 1 day ago
+applicants: 25 applicants
+apply_offsite: 
+---
+Job Summary: 
+ The Data Analys t is responsible for enabling Business Users to make better business decisions, by transforming data into streams of actionable insights, and use these insights to design, create, execute, and monitor Loyalty marketing digital marketing campaigns and strategies.
+ Responsibilities: 
+ Analyze large data sets, using data analytic tools, to understand customer behavior, and identify opportunities for loyalty marketing campaigns.
+ Work in teams composed of Business, Marketing, and Customer Loyalty units/representatives, to collaboratively develop innovative and effective marketing campaigns.
+ Evaluate and interpret results of marketing Campaigns Research and develop data driven solutions, and appropriate algorithms as may be identified by the Business Units.
+ Provide feedback to Data Warehouse team, on the use of the data (Data quality, completeness, additional data requirements) to enable Data Warehouse team to improve Data Warehouse.
+ Qualifications: 
+ A bachelor’s degree in quantitative discipline: statistics, operations research, mathematics, economics, engineering is preferred. 
+ Knowledge of database platforms (MS SQL Server, MySQL, Oracle, Amazon Web Services, MS Azure, etc.) preferred 
+ Experience with the use of business intelligence tools like SQL, R and/or Python, and presentation tools such as Tableau, Qlikview, or MS PowerBI. 
+ Passionate about using data and analysis to make things happen. Ability to translate data analysis to actionable insights
+ Ability to work in teams, and able to explain complex technical material to non-technical or executive audiences.

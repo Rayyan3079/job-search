@@ -1,0 +1,60 @@
+URL: https://www.linkedin.com/jobs/view/4483410192
+TITLE: Working Student (d/f/m) Data Engineering, AI & Digital Dashboards
+COMPANY: Airbus Aircraft
+LOC: Hamburg, Hamburg, Germany
+POSTED: 2026-10-30
+title: Working Student (d/f/m) Data Engineering, AI & Digital Dashboards
+company: Airbus Aircraft
+posted: 1 day ago
+applicants: 64 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-d-f-m-data-engineering-ai-digital-dashboards-at-airbus-aircraft-4483410192&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Description:
+ In order to support our team within the A320 Family Quality Customer Line, Airbus Operations is looking for a
+ Working Student (d/f/m) Data Engineering, AI & Digital Dashboards 
+ Are you passionate about data analytics, interactive dashboards, Artificial Intelligence (AI), and modern digital tools? Do you want to apply your analytical mindset and technical curiosity directly within the dynamic environment of an international aerospace group? Then come on board to help us build innovative digital solutions, explore AI-driven capabilities, and streamline work processes across our global sites! We are looking for a motivated Master's student (d/f/m) to join our team for 15-18 hours per week.
+ Location: Hamburg-Finkenwerder 
+ Start Date: 15/January/2027 
+ Duration: 12 months 
+ You will receive a collectively agreed salary of at least €18.53 per hour, depending on the job. There are also special payments such as vacation pay.
+ Definition working student
+ Working students are students who are enrolled at a University or some other institution of higher education, and who are employed in a reasonably long, fixed-term position parallel to their studies. This position must not be confused with an internship or with the possibility of writing a final thesis.
+This employment usually takes place directly on the company's premises. A working student's main focus remains on their studies, which is why, during term-time, working students are not allowed to work more than 20 hours per week.
+Working students therefore usually work near their place of study, so as to conveniently combine studying and employment.
+ Your location: Hamburg Finkenwerder 
+ You will be working at the largest production site for civil aircraft situated in Hamburg. Its location on the southern banks of the river Elbe includes the option to commute by ferry. Experience the special flair of Hamburg in your spare time where vibrant cosmopolitan culture meets nautic legacy.
+Are you wondering how you actually get from university to Airbus? Your working student position is at the Finkenwerder plant and you can take the ferry from Teufelsbrück to the Airbus ferry terminal and back to the university in the morning and at noon. Alternatively, you can take the ferry to Finkenwerder and then ride your bike for about another 15 minutes to the main entrance.
+Your Role in the Team: Step right into the heartbeat of commercial aviation! As part of the transnational A320 Family Quality Customer Line, you operate directly where our end product meets the global customer interface across Hamburg, Toulouse, Mobile, and Tianjin. In this high-stakes environment, your work directly impacts the final delivery of world-class aircraft to international customers.
+You will be the catalyst driving our digital transformation roadmap-engineering robust data pipelines, building interactive quality dashboards, and leveraging AI and modern digital tools to support and automate workflows. If you want to see your digital solutions and automation tools directly shape operational routines and real aircraft delivery, this is your runway. We give you full ownership and autonomy to turn your ideas into live, high-visibility deliverables.
+ Your Benefits:
+ Attractive salary and work-life balance with an 18-hour week (flexitime). 
+ International environment with the opportunity to network globally. 
+ Work with modern/diversified technologies. 
+ Opportunity to participate in the Generation Airbus Community to expand your own network. 
+ Your Tasks and Responsibilities:
+ Build Dashboards & Data Guardianship: Build interactive Skywise applications (Workshop, Slate, Contour) and backend data models. Serve as a data guardian for the team by creating and maintaining clear documentation for the data architecture and analytics landscape. 
+ Streamline & Automate Workflows: Identify process optimization opportunities and transform them into modern, automated reporting and tools using Skywise, Google Workspace, and smart AI-assisted capabilities. 
+ Evaluate Digital Feasibility: Assess new feature requests for data availability and technical feasibility in Skywise to help prioritize the team’s development roadmap. 
+ Present Prototypes & Demo Solutions: Run live demonstrations of working Skywise tools in management reviews and capture user feedback to continuously improve usability. 
+ Drive Site Adoption: Coordinate pre-release trial runs and deliver hands-on user training to onboard teams across our global sites. 
+ Desired skills and qualifications:
+ Education: Currently enrolled fulltime as Master's student (d/f/m) in Computer Science, Business Informatics, Data Science, Data Engineering, or a comparable technical field. 
+ Language Skills: Fluent English skills (C1) are mandatory; German and/or French language skills are a plus. 
+ Core Technical Foundations: Practical experience in programming with SQL, Python, and Apps Script, combined with an interest in data modeling concepts and AI-assisted tools (e.g. Prompt Engineering). 
+ Google Workspace: Familiarity with Google Workspace tools for reporting and digital workflow integration. 
+ Familiarity with Skywise / Palantir Foundry-or experience in relevant data & UI modules (e.g. Contour, Workshop, Slate or SQL data modeling)-is a strong plus. 
+ Soft Skills: A proactive and structured self-starter with a helping-oriented mindset, dedicated to supporting end-users and solving real stakeholder needs. Excellent communication skills, critical thinking, and a sharp eye for high data quality. 
+ Are you interested and ready to take off with us? Please upload the following documents in English : cover letter, CV, relevant certificates, and current certificate of enrollmen t.
+This role requires an awareness of potential compliance risks and integrity in conduct. Both are essential prerequisites for the success, good reputation, and sustainable growth of our company.
+This job requires an awareness of any potential compliance risks and a commitment to act with integrity, as the foundation for the Company’s success, reputation and sustainable growth.
+ Company:
+ Airbus Operations GmbH
+ Employment Type:
+ GE - Werkstudent
+ Experience Level:
+ Student
+ Job Family:
+ By submitting your CV or application you are consenting to Airbus using and storing information about you for monitoring purposes relating to your application or future employment. This information will only be used by Airbus.
+Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief.
+Airbus is, and always has been, committed to equal opportunities for all. As such, we will never ask for any type of monetary exchange in the frame of a recruitment process. Any impersonation of Airbus to do so should be reported to emsom@airbus.com .
+At Airbus, we support you to work, connect and collaborate more easily and flexibly. Wherever possible, we foster flexible working arrangements to stimulate innovative thinking. #YESPOST

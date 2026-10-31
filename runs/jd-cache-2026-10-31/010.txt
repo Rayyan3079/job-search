@@ -1,0 +1,51 @@
+URL: https://www.stepstone.de/stellenangebote--IT-Architekt-Mobile-Apps-w-m-d-Coburg-HUK-COBURG-Versicherungsgruppe--14606790-inline.html
+TITLE: IT-Architekt Mobile Apps (w/m/d)
+COMPANY: HUK-COBURG Versicherungsgruppe
+LOC: Coburg
+POSTED: stepstone
+title: IT-Architekt Mobile Apps (w/m/d)
+company: HUK-COBURG Versicherungsgruppe
+posted: 2026-10-29T09:03:12.127Z
+location: Coburg | remote: 
+---
+Hallo, lass uns WIR sagen!
+Wir - die HUK-COBURG Versicherungsgruppe - zählen zu den 10 größten in Deutschland. Vor über 90 Jahren gegründet sind wir mit über 13 Millionen Kund:innen heute der große Versicherer für Privathaushalte und der größte deutsche Autoversicherer. Dass wir oft preisgünstiger sind als andere Versicherungen, hat bei uns schon Tradition. Genau wie unser Ruf als Arbeitgeberin, mit der DU wachsen und deine persönlichen Ziele erreichen kannst. Bei uns kannst du eine spannende Karriere machen. Mit viel Teamgeist und Wir-Gefühl. Wir – das sind über 10.000 DUs, 770 Jobprofile und 35 Abteilungen – macht zusammen: unzählige berufliche Möglichkeiten. Voller Chancen, aber auch Herausforderungen. Zeige, was du kannst, und werde, wer du sein willst.
+ IT-Architekt Mobile Apps (w/m/d) 
+Coburg, Bayern, Deutschland
+ Beschäftigungsart Vollzeit
+ Wochenarbeitszeit 38 Stunden
+ Befristungsart Unbefristet
+ Besetzungsstart ab sofort
+ Darauf kannst du dich freuen
+ Teamübergreifende Verantwortung für Entwurf, Ausgestaltung der Zielarchitektur und Umsetzung innovativer Lösungen
+ Mitarbeit in cross-funktionalen Teams unter Berücksichtigung von IT-Standards, IT-Strategie und wirtschaftlichen Rahmenbedingungen
+ Enge Abstimmung mit Digitalen Service Ownern und Stakeholdern bzgl. Lösungsfindung sowie Kommunikation 
+ Beratung zu technischen Lösungsmöglichkeiten und Umsetzung digitaler Innovationen
+ Analyse bestehender Systemlandschaften und Identifikation von Modernisierungsbedarfen
+ Unterstützung bei Steuerung externer Dienstleister:innen & interner Teams sowie Verantwortung für die technische Implementierung
+ Analyse von IT-Architekturtrends und aktiver Austausch mit internen & externen IT-Architekt:innen
+ Dein Profil
+ IT-Architektur-Skills und Persönlichkeit sind entscheidend - unabhängig von Studium oder Ausbildung im IT-Bereich
+ Mehrjährige Erfahrung in (agiler) App-Entwicklung und im Betrieb, wünschenswert in der Rolle als IT-Archtiekt:in 
+ Kenntnis und Anwendung von Architektur-Prinzipien (z. B. Clean Architecture), gängiger Architektur-Patterns und Anti-Patterns zur Entscheidungsfindung
+ Plattformübergreifende App-Kenntnisse, sehr gute Kenntnisse in Kotlin oder Swift (optional Java oder Objective-C)  
+ Praktische Kenntnisse moderner Frontend-Technologien wie Jetpack Compose oder SwiftUI
+ Erfahrung im Schnittstellendesign und fundierte Kenntnisse zu Protokollen und Kommunikationstechnologien (HTTP, TLS, REST, WebSockets, gRPC)
+ Fähigkeit zur Einarbeitung in neuen Technologien und verständliche Vermittlung komplexer Inhalte an nicht-technische Kolleg:innen
+ Verhandlungssichere Deutschkenntnisse (mind. C1-Niveau)
+ Unsere Benefits
+ Arbeitgeberzuschüsse: Dein Plus zum Gehalt – 13,3 Monatsgehälter, leistungsorientierte Vergütung, Mobilitätszuschüsse, vermögenswirksame Leistungen
+ Weiterentwicklung: Erreiche deine Ziele – Qualifizierungsmaßnahmen, Zuschüsse zu Selbstbildungsmaßnahmen, eigenes Schulungszentrum
+ Flexibilität: Gute Arbeit und ein gutes Leben gehen Hand in Hand - Möglichkeit bis zur Hälfte der monatlichen Arbeitszeit von Zuhause oder unterwegs zu arbeiten
+ Work-Life-Balance: Arbeite dann, wann es für dich am besten ist – flexible Arbeitszeitmodelle in Gleitzeit, 31,5 Tage Urlaubstage, Weihnachten und Silvester frei 
+ Beruf & Familie: Damit du dich bei uns wohlfühlst, schaffen wir die passenden Rahmenbedingungen - Unterstützung bei Kinder- und Ferienbetreuung sowie Angehörigenpflege und Teilzeit-Führungspositionen
+ Gesundheit & Wohlbefinden: Geht´s dir gut, geht`s uns gut – Angebote zu Bewegung, Ernährung und mentaler Gesundheit, Bezuschussung Mitgliedschaft in Fitnessstudios und von Präventionskursen
+ Altersvorsorge: Heute schon an morgen denken – betriebliche Altersvorsorge
+ Mitarbeitendenberatung: Manchmal ist es einfach gut, jemanden von außen mitdenken zu lassen - Mitarbeitendenberatung zur Unterstützung in sämtlichen Lebensphasen
+ Dienstfahrrad: Radeln statt rollen - Bezuschussung deines Dienstfahrrads
+ Haben wir dein Interesse geweckt?
+ Dann bewirb dich jetzt!
+ HIER BEWERBEN 
+ HUK-COBURG 
+ Haftpflicht-Unterstützungs-Kasse kraftfahrender Beamter Deutschlands auf Gegenseitigkeit in Coburg HUK-Coburg-Platz 1 | 96444 Coburg
+ www.huk.de

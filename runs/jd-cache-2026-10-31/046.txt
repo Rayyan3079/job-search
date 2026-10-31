@@ -1,0 +1,26 @@
+URL: https://www.linkedin.com/jobs/view/4484826935
+TITLE: Junior SAP Consultant
+COMPANY: Wert Group
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-10-30
+title: Junior SAP Consultant
+company: Wert Group
+posted: 18 hours ago
+applicants: 73 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fjunior-sap-consultant-at-wert-group-4484826935&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+The Opening:
+ When a client changes its operating model, the decisions we help make end up as settings in SAP: who approves a purchase, which cost center pays for it, how a sale is booked. Wert Group is adding a Junior SAP Consultant to carry those decisions into the system together with the client's IT team. You can do the job from home anywhere in Germany, full-time. You will work with our operating model consultants and an experienced SAP consultant who reviews your configuration before it goes to the client.
+ Management consulting: strategy, organization design, operating models, governance.
+ In Practice: Write down how finance, purchasing and sales work today in workshops with client staff.
+ Map the new processes to SAP S/4HANA and draft the functional specifications.
+ Set up and test configuration in FI, CO or MM with a senior SAP consultant.
+ Prepare test cases, run user acceptance tests and log defects.
+ Train key users and write short process guides.
+ Skills & Experience: A degree in business informatics, business administration or a related field.
+ First hands-on experience with SAP, from an internship, a working student job or a university project.
+ Knowledge of business processes, e.g. purchase to pay or order to cash.
+ What we offer: laptop and home office equipment; a monthly home office allowance; training budget each year, certification exams paid; company pension (bAV); flexible hours; and 30 days of paid holiday.
+ Bonus: SAP S/4HANA or SAP Fiori
+ An SAP certification, for example in FI or MM
+ Jira or another ticket tool

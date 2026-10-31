@@ -1,0 +1,36 @@
+URL: https://www.linkedin.com/jobs/view/4476089739
+TITLE: Werkstudent (m/w/d) Systementwicklung
+COMPANY: confovis
+LOC: Jena, Thuringia, Germany
+POSTED: 2026-10-13
+title: Werkstudent (m/w/d) Systementwicklung
+company: confovis
+posted: 2 weeks ago
+applicants: 41 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-m-w-d-systementwicklung-at-confovis-4476089739&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Unsere Inspektions- und Messsysteme sind bei Kunden mit sehr unterschiedlichen Anforderungen im Einsatz. Damit jedes System genau die Aufgabe löst, für die es gedacht ist, passen wir es über kundenspezifische Applikationen auf Basis unserer Softwareplattform an. Daran arbeitest du direkt mit: Du übersetzt technische Kundenanforderungen in Konfiguration und Programmierung und testest die Lösung, bis sie die Anforderungen erfüllt.
+ Zur Verstärkung unseres Teams suchen wir ab sofort einen
+ Werkstudenten (m/w/d) Systementwicklung:
+ Deine Aufgaben:
+ Du arbeitest dich in unsere bestehende Software-Plattform und deren Funktionsweise ein.
+ Du analysierst technische Kundenanforderungen und setzt sie durch Konfiguration, Anpassung und Programmierung in unserer bestehenden Softwareumgebung um.
+ Mit Funktions- und Anwendungstests prüfst du, ob die Umsetzung die spezifizierten Anforderungen erfüllt.
+ Treten Fehler oder technische Probleme innerhalb der Kundenapplikation auf, analysierst und behebst du diese.
+ Du arbeitest an der technischen Dokumentation der umgesetzten Lösungen mit.
+ Mit dem Vertrieb, Softwareentwicklung und weiteren technischen Fachbereichen arbeitest du eng zusammen.
+ Deine Qualifikation:
+ Du bist in einem Bachelor- oder Masterstudiengang der Physik, Mathematik, Ingenieurwissenschaften, Informatik oder einer vergleichbaren technischen bzw. naturwissenschaftlichen Fachrichtung eingeschrieben.
+ Du hast erste praktische Erfahrungen in der Programmierung.
+ Du verfügst über ein gutes technisches und analytisches Verständnis, denkst logisch und strukturiert und kannst aus komplexen Zusammenhängen nachvollziehbare Lösungswege ableiten.
+ Du bringst statistische und mathematische Grundkenntnisse sowie ein Verständnis grundlegender geometrischer Zusammenhänge mit.
+ Du hast eine hohe IT-Affinität und gehst sicher mit Computern um.
+ Du bist bereit, dich selbstständig in neue Software und technische Themen einzuarbeiten.
+ Du sprichst fließend Deutsch oder Englisch.
+ Was diese Stelle besonders macht:
+ Echte Kundenanforderungen statt reiner Theorie: Du arbeitest an Lösungen, die bei Kunden im Einsatz sind, und siehst, welche Mess- und Inspektionsaufgaben in der Praxis gelöst werden müssen.
+ Einblick in die Hightech-Anwendung: Du siehst, wie optische Inspektion und 3D-Messtechnik in der Halbleiterfertigung funktionieren und welche Anforderungen sie an eine Bedienoberfläche stellen.
+ Eigenverantwortung: Du bearbeitest deine Aufgaben selbstständig und bringst eigene Ideen zur Verbesserung ein.
+ Gut mit dem Studium vereinbar: Du arbeitest bis zu 20 Stunden pro Woche. Den genauen Umfang stimmen wir individuell mit dir ab, passend zu deinem Studium.
+ Haben wir dein Interesse geweckt?
+ Dann freuen wir uns auf deine Bewerbung! Für Fragen stehen wir dir gerne zur Verfügung.

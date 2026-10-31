@@ -1,0 +1,52 @@
+URL: https://www.linkedin.com/jobs/view/4483076009
+TITLE: Working Student (f/m/d) – AI no-code / low-code developer for enterprise data management at SAP IT
+COMPANY: SAP
+LOC: Walldorf, Baden-Württemberg, Germany
+POSTED: 2026-10-29
+title: Working Student (f/m/d) – AI no-code / low-code developer for enterprise data management at SAP IT
+company: SAP
+posted: 1 day ago
+applicants: 45 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-f-m-d-%25E2%2580%2593-ai-no-code-low-code-developer-for-enterprise-data-management-at-sap-it-at-sap-4483076009&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Description
+ What you bring
+ You're a student ready to contribute alongside your studies. You're curious, adapt quickly, and stay resilient as priorities evolve. You think creatively, communicate clearly, and collaborate well across teams. You're building your foundations in business and AI — and you take initiative to apply them. You bring emotional intelligence and cultural awareness to every interaction.
+ Currently enrolled student (f/m/d) at a university or a university of applied sciences, with a preferred focus in computer science, informatics, mathematics, science, or related fields.
+ Programming & Technical Skills: Solid understanding of software engineering fundamentals, complemented by hands-on experience in web development, API integration, and programming languages including JavaScript, TypeScript, Java, Python, and HTML/CSS.
+ AI & Advanced Technologies: Interest or initial experience in Generative AI, large language models, AI agents, and multi-agent systems, where familiarity with LLM tuning, prompting, evaluation, or RAG-based applications is a plus.
+ Additional IT & Professional Experience: Related IT, software development, and/or SAP experience is preferred.
+ Soft Skills & Working Style: Independent, structured, proactive, and self-starting way of working, paired with strong communication, teamwork skills, curiosity, and a willingness to learn new technologies quickly as a fast learner and team player.
+ Languages: Fluent in English, with German language skills preferred.
+ Working from the Walldorf office is required.
+ What You´ll Build
+ Develop and enhance web applications, internal tools, and AI-powered solutions. Implement features using JavaScript/TypeScript, Java, Python, HTML/CSS, and APIs. Build and integrate LLM-based applications and AI agents. Work on agent-to-agent communication and multi-agent workflows. Support LLM tuning, prompt optimization, evaluation, and model performance improvement.
+ Integrate external services, APIs, and AI models into existing applications
+ Support testing, debugging, and quality assurance
+ Work with Git and modern software development practices
+ Contribute to dashboards, analytics, and reporting solutions such as Power BI
+ Translate technical requirements into practical solutions
+ Take ownership of smaller development tasks and collaborate with developers and project teams
+ Role Setup
+ Part-time position alongside studies. Intended for a student who already has practical technical experience.
+ Opportunity to work on real software and AI use cases
+ Strong focus on hands-on development, experimentation, and ownership
+ Where you belong
+ The role is in the SAP COO board area, Corporate Processes & IT (CPIT) and the unit AI, Data & Platform (AIPD). Our vision is to bring the Autonomous Enterprise to life at SAP and act as Customer Zero to SAP.
+SAP’s Intelligent Data Management (IDM) unit owns SAP’s enterprise data management and runs product management for master data, and within IDM, one team drives various strategic topics, especially leveraging AI for automation.
+They are a team of Project Management and Subject Matter Experts with knowledge and expertise on Intelligent Data Management Strategy Programs and Projects across AIPD, CPIT and SAP. Their core tasks include project management, stakeholder management and connected communications.
+Additional Information
+ Please use the free text field to write your cover letter and explain your motivation. After submitting your application, you will have the option to provide additional documents, such as university transcript of records, copies of any academic degrees earned, and references from former employers including internships. 
+ This is a SAP global, strategic, paid working student position that provides students with opportunities to find purpose in their careers. 
+ #Workingstudent #Werkstudent #Germany #Deutschland #Student #SAPGermanStudentsCareers #SAPNextGen
+ About SAP
+ With a global network of customers, partners, employees, and thought leaders, SAP helps the world run better and improves people’s lives.
+As a leader in enterprise applications and business AI, SAP stands at the nexus of business and technology. For over 50 years, organizations have trusted SAP to bring out their best by uniting business-critical operations spanning finance, procurement, HR, supply chain, and customer experience.
+We win with inclusion
+SAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.
+SAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team: Careers@sap.com.
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+Qualified applicants will receive consideration for employment without regard to their age, race, religion, national origin, ethnicity, gender (including pregnancy, childbirth, et al), sexual orientation, gender identity or expression, protected veteran status, or disability, in compliance with applicable federal, state, and local legal requirements.
+AI Usage in the Recruitment Process
+For information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.
+Please note that any violation of these guidelines may result in disqualification from the hiring process.

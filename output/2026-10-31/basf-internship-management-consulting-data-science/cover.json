@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Internship Management Consulting – Data Science/Data Analytics",
+    "company": "BASF SE",
+    "city": "Ludwigshafen am Rhein",
+    "greeting": "Dear Ms Höhn,",
+    "opening": "I am applying for the internship in BASF Management Consulting – Data Science/Data Analytics from January 2027. The role asks for Python, Streamlit-style frontends and experience with large language models, which is exactly what I used to build my latest project.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence. Before my Master's I worked in SAP data and analytics consulting at TallyMarks Consulting and as a Business Analyst at Tapal Tea.",
+    "achievements": [
+      {
+        "lead": "DocuMind",
+        "impact": "I built a RAG application with the Claude API, a Streamlit UI and a FastAPI REST API; it answered 91% of a 22-question test set correctly and refused all 4 unanswerable questions"
+      },
+      {
+        "lead": "Consulting",
+        "impact": "I prepared and presented an SAP Analytics Cloud presentation to a client, who subsequently purchased it"
+      },
+      {
+        "lead": "Analysis",
+        "impact": "I translated business requirements into KPI dashboards in SAP Analytics Cloud and documented sources and calculations for each one"
+      }
+    ],
+    "problems_section": "I would build analyses and small tools for the consultants, with Python, Streamlit and LLMs where they help, and present results clearly. My consulting experience is from a junior role, so I would learn the strategy side from your team.",
+    "closing": "I am willing to relocate to Ludwigshafen and can start in January 2027. As a non-EU student I will agree the internship length with you so it fits my permitted working days. I would be glad to discuss the role.",
+    "date": "2026-10-31",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-10-31/basf-internship-management-consulting-data-science/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

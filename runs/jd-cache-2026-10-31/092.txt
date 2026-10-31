@@ -1,0 +1,58 @@
+URL: https://www.linkedin.com/jobs/view/4477630587
+TITLE: BI Platform Developer
+COMPANY: Keypath Education
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-30
+title: BI Platform Developer
+company: Keypath Education
+posted: 15 hours ago
+applicants: 117 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fmy.linkedin.com%2Fjobs%2Fview%2Fbi-platform-developer-at-keypath-education-4477630587&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Make an Impact with Data That Drives Global Education 
+ Keypath Education is a leading EdTech company that partners with universities to design, launch, and manage high-quality online degree programs. Through data-driven decision-making and deep sector expertise, we help universities grow enrolments, improve student outcomes, and expand access to education worldwide.
+ Why Join Keypath? 
+ EdTech leader across Australia and SE Asia
+ Flexible “Work Anywhere in Malaysia” model (remote, hybrid or office)
+ High-growth environment with strong career development opportunities
+ Collaborative, innovative, people-first culture
+ Certified as a Great Place to Work in Australia & Malaysia
+ The Opportunity 
+ Do you love turning complex data into meaningful insights that enable smarter decisions?
+ At Keypath Education, we're on a mission to transform access to higher education around the world. As a BI Platform Developer, you'll play a pivotal role in delivering the reporting and analytics capabilities that empower our teams and university partners to thrive.
+ This is more than a reporting role. You'll help shape the future of our analytics ecosystem, building scalable BI solutions on modern technologies such as Microsoft Fabric and Power BI, while driving best practices, governance and innovation across the business. If you're passionate about data, enjoy solving complex challenges, and want your work to have a real-world impact, we'd love to hear from you.
+ What You’ll Be Doing 
+ Design and deliver impactful Power BI dashboards and reports that transform data into actionable business insights.
+ Build, optimise and maintain scalable semantic models that support trusted, self-service analytics across the organisation.
+ Partner with stakeholders across the business to understand challenges, uncover opportunities and deliver solutions that create value.
+ Help shape and enhance our enterprise BI platform, driving best practices in reporting design, usability, governance and performance.
+ Develop and improve deployment processes using Azure DevOps and CI/CD frameworks to increase efficiency and reliability.
+ Monitor platform performance, troubleshoot issues and continuously improve the user experience.
+ Support data governance, security and quality standards to ensure stakeholders can confidently rely on reporting and insights.
+ Contribute to a collaborative, high-performing data team that is constantly evolving, learning and innovating.
+ About You 
+ You're a curious and solutions-focused BI professional who enjoys bringing data to life. You combine strong technical capability with a passion for understanding business needs and delivering insights that drive action.
+ You'll Likely Bring 
+ Experience developing enterprise reporting and analytics solutions using Power BI.
+ Strong knowledge of data modelling, DAX, SQL and data visualisation best practices.
+ Experience working with modern cloud-based analytics platforms, ideally Microsoft Fabric.
+ An understanding of BI governance, security and performance optimisation principles.
+ Experience supporting deployment and release processes in environments that leverage CI/CD practices.
+ Excellent problem-solving skills and the ability to simplify complex concepts for a broad range of stakeholders.
+ A collaborative approach and a genuine passion for helping others use data to make better decisions.
+ A continuous improvement mindset and enthusiasm for learning new technologies and approaches.
+ Most importantly, you're excited by the opportunity to join a purpose-driven organisation where your work helps expand access to education and creates opportunities for learners around the world.
+ What We Offer 
+ Flexible working arrangements: office-based, hybrid, or fully remote
+ Company-provided laptop and essential equipment
+ Medical & Dental benefits, Health and wellbeing support
+ Continuous learning and career development: LinkedIn Learning, Career development programs & Internal learning labs
+ Employee-led initiatives, including Culture Club and more
+ Regular company events—both in-person and virtual
+ Make an Impact with Keypath 
+ Join a leading EdTech leader in a rapidly growing industry
+ Contribute to education access worldwide, supporting upskilling and reskilling at scale
+ Do meaningful work that addresses future social and economic challenges
+ At Keypath, we welcome applicants from diverse backgrounds and are committed to inclusive hiring practices. We provide support throughout the recruitment process to ensure everyone can show up as their best self.
+ Join Keypath and help shape the future of education.
+ Please note that only candidates residing in Malaysia with full working rights will be eligible for consideration.

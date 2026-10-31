@@ -1,0 +1,48 @@
+URL: https://www.linkedin.com/jobs/view/4483056744
+TITLE: Working Student (f/m/d) - SAP Enterprise Architect – AI Use Case Development
+COMPANY: SAP
+LOC: Ratingen, North Rhine-Westphalia, Germany
+POSTED: 2026-10-29
+title: Working Student (f/m/d) - SAP Enterprise Architect – AI Use Case Development
+company: SAP
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-f-m-d-sap-enterprise-architect-%25E2%2580%2593-ai-use-case-development-at-sap-4483056744&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Description
+ What you'll bring
+ You're studying Business Informatics, Computer Science, Business Administration, or Engineering — ideally with a digital focus — and want to explore how AI transforms enterprise business.
+ Currently enrolled as a Master's student at a German university, with a completed Bachelor's degree
+ A solid grounding in Business Informatics, Computer Science, Business Administration, or Engineering
+ Familiarity with GenAI concepts and tools such as Claude Code, Agentic AI, or RAG
+ Proficiency in MS Office (Word, Excel, PowerPoint) and programming experience, ideally in Python
+ A customer-oriented mindset with strong analytical and creative problem-solving skills
+ Fluency in German and English is required for this role.
+ Working from an SAP office in Germany is required
+ We also look for people who communicate clearly, keep the customer in mind, and enjoy finding smart solutions to problems — whatever stage of your career you're at.
+In addition to the role-specific skills above, all student and early talent positions at SAP look for candidates who are open to working with AI tools — including agentic AI — to automate everyday tasks, prototype ideas, and build confidence in AI-assisted ways of working from day one.
+ What You'll Build
+ You'll work at the intersection of AI and enterprise architecture, contributing to GenAI use cases that create real value for SAP clients.
+ Collaborate with GenAI experts to develop and explore AI-driven use cases for enterprise clients
+ Engage with clients, management consultants, and business leaders across industries and business units
+ Plan and deliver work packages in platform development, digital projects, and customer adoption scenarios
+ Research and share knowledge on GenAI trends and digital business developments
+ Apply Design Thinking and agile methods to structure and solve business problems
+ Prepare and present results to stakeholders across different functions
+ Where you belong
+ Business Transformation & Architecture (BT&A) is SAP's consulting unit for enterprise digital transformation. You'll work alongside consultants and architects applying GenAI, Agentic AI, and cloud technologies to real client challenges. This is a hands-on role — you'll contribute to real engagements from day one. When you join SAP, you'll be a part of SAP Next Gen — a global community of students and early professionals with access to mentors, development programmes, and peers.
+ Your set of application documents should contain a cover letter, a resume in table form, school leaving certificates, certificate of enrollment, current university transcript of records, copies of any academic degrees already earned, and if available, references from former employers (including internships). Please also describe your experience and skills in foreign languages and computer programs / programming languages.
+ This is a SAP global, strategic, paid working student position that provides students with opportunities to find purpose in their careers.
+ #Workingstudent #Werkstudent #Germany #Deutschland #Student 
+ Additional Information
+ About SAP
+ With a global network of customers, partners, employees, and thought leaders, SAP helps the world run better and improves people’s lives.
+As a leader in enterprise applications and business AI, SAP stands at the nexus of business and technology. For over 50 years, organizations have trusted SAP to bring out their best by uniting business-critical operations spanning finance, procurement, HR, supply chain, and customer experience.
+We win with inclusion
+SAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.
+SAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team: Careers@sap.com.
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+Qualified applicants will receive consideration for employment without regard to their age, race, religion, national origin, ethnicity, gender (including pregnancy, childbirth, et al), sexual orientation, gender identity or expression, protected veteran status, or disability, in compliance with applicable federal, state, and local legal requirements.
+AI Usage in the Recruitment Process
+For information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.
+Please note that any violation of these guidelines may result in disqualification from the hiring process.

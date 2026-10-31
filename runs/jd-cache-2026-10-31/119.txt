@@ -1,0 +1,46 @@
+URL: https://www.linkedin.com/jobs/view/4483033935
+TITLE: Werkstudent:in (m/w/d) IT Workplace Management & Deployment
+COMPANY: CargoBeamer
+LOC: Leipzig, Saxony, Germany
+POSTED: 2026-10-29
+title: Werkstudent:in (m/w/d) IT Workplace Management & Deployment
+company: CargoBeamer
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-in-m-w-d-it-workplace-management-deployment-at-cargobeamer-4483033935&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Deine Aufgaben, die dabei helfen, die Logistikbranche nachhaltiger zu machen
+ CargoBeamer wächst und mit uns wächst auch unsere digitale Arbeitswelt. Damit unsere Mitarbeitenden zuverlässig, sicher und effizient arbeiten können, unterstützt du unser IT-Team im Workplace Management.
+Du erhältst einen praxisnahen Einblick in die moderne IT-Arbeitsplatzbetreuung und hilfst dabei, neue Endgeräte bereitzustellen, Beschaffungsprozesse zu koordinieren und standardisierte Deployment-Prozesse weiterzuentwickeln. Dabei arbeitest du eng mit unseren Mitarbeitenden, externen IT-Dienstleistern und verschiedenen internen Teams zusammen.
+Deine Aufgaben:
+ Unterstützung bei der Installation, Konfiguration sowie Bereitstellung von Windows-Endgeräten für neue Mitarbeitende im Rahmen des Onboardings
+ Mitarbeit bei standardisierten Deployment- und Rollout-Prozessen
+ Pflege von Asset-, Lizenz- und Gerätedaten in den entsprechenden Systemen
+ Dokumentation von IT-Arbeitsplätzen sowie Unterstützung bei der Beschaffung, Inventarisierung und Ausgabe von Notebooks, Monitoren, Smartphones und weiterem IT-Equipment
+ Koordination von Rückgaben und Reparaturen
+ Unterstützung bei der Bearbeitung von IT-Serviceanfragen und Tickets
+ Mitarbeit bei der Optimierung und Standardisierung von IT-Workplace-Prozessen
+ Erstellung und Pflege von kurzen Anleitungen, Checklisten und How-tos
+ Abstimmung mit Mitarbeitenden, Fachbereichen, Einkauf und externen IT-Partnern
+ Das bringst Du mit
+ Eingeschriebene:r Student:in, idealerweise in (Wirtschafts-)Informatik, IT-Management, Wirtschaftswissenschaften oder einem vergleichbaren Studiengang
+ Idealerweise noch mindestens ein Jahr bis zum Studienabschluss
+ Du kannst uns langfristig ca. 15–20 Stunden pro Woche unterstützen (hybrid, 1 Mal die Woche vor Ort in Leipzig im Büro)
+ Interesse an IT-Arbeitsplätzen, Terminal-Arbeitsplätzen, Hardware, Software und digitalen Arbeitsprozessen 
+ Eine strukturierte, sorgfältige und zuverlässige Arbeitsweise
+ Spaß daran, technische Sachverhalte verständlich zu dokumentieren
+ Sicherer Umgang mit gängigen Microsoft-Office-Anwendungen
+ Gute Deutsch- und Englischkenntnisse in Wort und Schrift
+ Hohe Lernbereitschaft und Freude an der Zusammenarbeit mit unterschiedlichen Teams
+ Du punktest bei uns vor allem mit:
+ Ersten Erfahrungen mit Windows-Clients, Microsoft 365 oder Endpoint-Management
+ Grundkenntnissen in Microsoft Intune, Entra ID oder vergleichbaren Lösungen
+ Ersten Berührungspunkten mit IT-Service-Management oder Ticketsystemen
+ Erfahrungen mit Inventarisierung, Geräteverwaltung oder Beschaffungsprozessen
+ Grundverständnissen für Datenschutz und IT-Sicherheit
+ Wir freuen uns auf Deine Bewerbung und darauf, dich näher kennenzulernen !
+ Warum wir?
+ Teil von CargoBeamer zu sein bedeutet, Teil von etwas Großem zu sein. Es bedeutet, die Zukunft der Logistik zu gestalten, die unseres Unternehmens und gleichzeitig Deine eigene. Dich erwartet ein motivierendes Betriebsklima, in dem berufliche Herausforderungen mit unterschiedlichsten Entwicklungschancen an der Tagesordnung sind und Kommunikation auf Augenhöhe gelebt wird. Wir bieten Dir alle Vorteile eines international wachsenden und innovativen Unternehmens in einem starken Team sowie eine attraktive Vergütung für diesen zukunftsorientierten Arbeitsplatz, auch über Dein Studium hinaus.
+ Über uns
+ CargoBeamer ist ein Unternehmen, das ein europaweites Netz für den Transport von nichtkranbaren Sattelaufliegern im unbegleiteten kombinierten Verkehr aufbaut und vermarktet. Zu unseren Leitmotiven gehören Umweltschutz, Entlastung von Europas Straßen und die Unterstützung der Transportunternehmen, ihre CO2-Emissionen nachhaltig zu senken.
+Wir verstehen uns als "equal opportunity employer" und begrüßen Bewerbungen von allen qualifizierten Personen unabhängig von ethnischer Zugehörigkeit, Geschlecht, Alter, sexueller Orientierung, möglichen Behinderungen, Religion oder Glaube.

@@ -1,0 +1,41 @@
+URL: https://www.linkedin.com/jobs/view/4483664951
+TITLE: Praktikum Data Analytics & AI (w/m/d)
+COMPANY: Volkswagen Group
+LOC: Wolfsburg, Lower Saxony, Germany
+POSTED: 2026-10-27
+title: Praktikum Data Analytics & AI (w/m/d)
+company: Volkswagen Group
+posted: 3 days ago
+applicants: 34 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikum-data-analytics-ai-w-m-d-at-volkswagen-group-4483664951&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Arbeitsumfeld
+ Möchten Sie erleben, wie Künstliche Intelligenz im Vertrieb von Volkswagen Passenger Cars eingesetzt und weiterentwickelt wird? Werden Sie Teil unseres Teams Data Analytics & AI in der Vertriebs- und Produktsteuerung und gestalten Sie die AI-Transformation in Vertrieb und Marketing aktiv mit. Gemeinsam identifizieren, bewerten und strukturieren wir AI Use Cases sowie datengetriebene Lösungen für vertriebliche Fragestellungen. Dabei schaffen wir Transparenz über Projektportfolios, vernetzen relevante Stakeholder und unterstützen Management-Entscheidungen durch Analysen und Kommunikationsformate. Sie arbeiten an der Schnittstelle von Fachbereich, Daten, Technologie und Organisation eng mit IT, Datenexpert:innen, Marken und weiteren Konzernfunktionen zusammen.
+ Mögliche Aufgaben dieser Rolle
+ Koordinieren und Weiterentwickeln von AI Use Cases für Vertrieb und Marketing
+ Visualisieren, Auswerten und Pflegen des AI-Portfolios
+ Mitgestalten von Strukturen für AI Governance und Use-Case-Management
+ Planen und Durchführen von AI-Enablement-Maßnahmen wie Schulungen, Workshops und Hackathons
+ Anwenden von Copilot, Figma, Databricks und weiteren AI-Tools zur Umsetzung konkreter Projekte
+ Entwickeln von Copilot Skills, Agenten und AI-gestützten Markt- und Nutzerstudien
+ Erproben und Bewerten neuer AI-Lösungen und Einsatzmöglichkeiten
+ Erstellen von Managementunterlagen, Entscheidungsvorlagen, Präsentationen und Kommunikationsmaterialien sowie eigenständiges Bearbeiten von Arbeitspaketen und Projekten
+ Anforderungen an die Qualifikation
+ Studierende (auch im Gap Year) im Bereich Wirtschaftswissenschaften, Wirtschaftsinformatik, Data Science, Wirtschaftsingenieurwesen oder vergleichbare Studienrichtungen
+ Eigeninitiative, selbstständige Arbeitsweise, Teamfähigkeit sowie analytisches Denken
+ Gute Kenntnisse in Microsoft 365, insbesondere in PowerPoint, Excel, Teams und SharePoint
+ Erste praktische Erfahrungen mit Copilot, ChatGPT, Claude oder vergleichbaren AI-Tools
+ Von Vorteil sind erste Erfahrungen mit Power BI, Power Automate oder vergleichbaren Tools
+ Grundlegendes Verständnis von Künstlicher Intelligenz, Datenanalyse oder digitalen Geschäftsprozessen
+ Englisch Sprachniveau B2
+ Deutsch Sprachniveau C1
+ Folgende Dokumente sind mit der Bewerbung einzureichen
+ Lebenslauf
+ Immatrikulationsbescheinigung
+ Notenübersicht
+ Bei einem Pflichtpraktikum zusätzlich die Bescheinigung der Hochschule
+ ggf. Arbeits- und Aufenthaltserlaubnis inkl. Zusatzblatt
+ Keywords
+ Produktstrategie, Marktanalyse, Lifecycle-Management, Künstliche Intelligenz, KI, Datenanalyse, Digitale Geschäftsprozesse
+Der Bruttostundenlohn für Praktika (auch Pflichtpraktika) und Abschlussarbeiten entspricht der Höhe des aktuellen Mindestlohns.
+Kontakt für diese Ausschreibung: Sina Ede

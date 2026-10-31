@@ -1,0 +1,42 @@
+URL: https://www.linkedin.com/jobs/view/4482541340
+TITLE: Werkstudent*in (m/w/d) IT & RPA/Automation im KI-Umfeld
+COMPANY: AI.HAMBURG
+LOC: Hamburg, Hamburg, Germany
+POSTED: 2026-10-28
+title: Werkstudent*in (m/w/d) IT & RPA/Automation im KI-Umfeld
+company: AI.HAMBURG
+posted: 2 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+Die AI GROUP ist ein Unternehmen, das sich darauf spezialisiert hat, Künstliche Intelligenz in der Wirtschaft zu fördern und Unternehmen mit internationaler KI-Expertise zu unterstützen. Das Ziel ist es, die Einführung von KI zu beschleunigen und die Lücke zwischen Risikokapital, KI-Entwicklung und -Anwendung zu schließen.
+ Zur AI GROUP gehören AI HAMBURG , AI FUND und AI.IMPACT .
+ AI HAMBURG ist eine der größten KI-Communities in Norddeutschland und Gründerin der AI ACADEMY und AI HUB Hamburg und AI.STARTUP.HUB. 
+ Der AI FUND ist ein Venture Capital Fund, der in Europäische KI-Startups investiert.
+ AI.IMPACT unterstützt europäische Unternehmen bei der Einführung von AI, von der Beratung, Implementierung bis hin zur Venture-Ausgründung.
+ Zusätzlich organisiert die AI GROUP Veranstaltungen wie den AI.SUMMIT , der führende Experten und Unternehmen zusammenbringt, sowie das AI CENTER , das innovative KI-Unternehmen auf großen Branchenmessen vernetzt.
+ Aufgaben 
+ Als Teil unseres IT-Teams wirst Du aktiv an der Konzeption und Umsetzung von Automatisierungslösungen mitwirken, die oft im Kontext unserer KI-Initiativen stehen. Deine Hauptaufgaben umfassen:
+ Analyse bestehender Prozesse und Identifizierung von Automatisierungspotenzialen, insbesondere dort, wo KI-gestützte Lösungen zum Einsatz kommen können.
+ Entwicklung und Implementierung von Workflows und Robotic Process Automations (RPAs) zur Optimierung unserer Abläufe.
+ Entwicklung und Implementierung von KI-Agenten.
+ Arbeit mit verschiedenen No-Code/Low-Code-Tools und Plattformen wie Zapier, Make, N8N, Cursor, OpenClaw, Claude Cowork und ähnlichen, um Systeme wie Airtable, Attio und Wordpress zu integrieren und zu automatisieren.
+ Unterstützung bei der Wartung und Weiterentwicklung bestehender Automatisierungen, die auch KI-Komponenten umfassen können.
+ Dokumentation von Workflows und Prozessen.
+ Qualifikation 
+ Du bist eingeschriebene*r Student*in (m/w/d) in einem relevanten Studiengang (z.B. Informatik, Wirtschaftsinformatik, BWL mit IT-Schwerpunkt oder vergleichbar).
+ Du bringst erste praktische Erfahrungen und großes Interesse an der Erstellung von Workflows und RPAs mit.
+ Der Umgang mit Tools wie Claude Cowork/Code, Zapier, Make, Airtable, N8N, Cursor oder ähnlichen Plattformen ist Dir vertraut und Du hast Freude daran, Dich in neue Technologien und das Zusammenspiel mit KI-Anwendungen einzuarbeiten.
+ Du verfügst über eine analytische Denkweise und die Fähigkeit, komplexe Sachverhalte zu strukturieren.
+ Eine selbstständige, proaktive und lösungsorientierte Arbeitsweise zeichnet Dich aus.
+ Gute Deutsch (C1) - und Englischkenntnisse (C1) in Wort und Schrift sind ein MUSS!
+ Benefits 
+ Ein spannendes und dynamisches Arbeitsumfeld in einem zukunftsorientierten Unternehmen, das aktiv im Bereich Künstliche Intelligenz agiert.
+ Die Möglichkeit, aktiv an der Gestaltung und Optimierung unserer internen Prozesse mitzuwirken und dabei Einblicke in die Anwendung von KI in der Praxis zu erhalten.
+ Praktische Erfahrungen mit modernen Automatisierungstechnologien und -tools.
+ Eine offene Unternehmenskultur mit flachen Hierarchien und kurzen Entscheidungswegen.
+ Flexible Arbeitszeiten, die sich gut mit Deinem Studium vereinbaren lassen.
+ Eine faire Vergütung von 15 € pro Stunde oder auch mehr - je nach Vorkenntnissen.
+ Arbeitsplatz im Büro mit attraktiver Lage an der Binnenalster in Hamburg. Remote Work nur als Ausnahme. 
+ Werde Werkstudent*in im innovativen KI-Umfeld! Arbeite an spannenden IT & RPA/Automation-Projekten bei der AI GROUP in Hamburg.
+ Gestalte die Zukunft mit uns! Bewerbe dich jetzt und sei dabei!

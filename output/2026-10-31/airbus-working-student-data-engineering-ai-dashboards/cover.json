@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Working Student (d/f/m) Data Engineering, AI & Digital Dashboards",
+    "company": "Airbus Operations GmbH",
+    "city": "Hamburg",
+    "greeting": "Dear Airbus hiring team,",
+    "opening": "I am applying for the Working Student position in Data Engineering, AI & Digital Dashboards in the A320 Family Quality Customer Line. Building dashboards on solid data models, and recently AI applications, is what I have done so far, and I would like to apply it to aircraft quality data.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau (full-time) with a B.S. in Artificial Intelligence and C1 English (IELTS 8.0). I worked as a Business Analyst at Tapal Tea and in SAP data and analytics at TallyMarks Consulting.",
+    "achievements": [
+      {
+        "lead": "Quality dashboards",
+        "impact": "I built a quality inspection dashboard in SAP Analytics Cloud on an ABAP CDS view data model, replacing a manual per-material check across thousands of materials"
+      },
+      {
+        "lead": "Data pipelines",
+        "impact": "I designed SAP Datasphere data pipelines and rebuilt a manufacturer's spinning dashboard end to end during a 42-dashboard migration"
+      },
+      {
+        "lead": "DocuMind",
+        "impact": "I built a RAG system over PDF manuals with the Claude API that answered 91% of a 22-question test set correctly and refused all 4 unanswerable questions; hybrid BM25 and semantic retrieval raised MRR from 0.748 to 0.898"
+      }
+    ],
+    "problems_section": "I would build and maintain data models and dashboards in SQL and Python, help automate reporting steps and explore AI-assisted tools for the team. I have not used Google Apps Script or Google Workspace reporting yet; I learn new tools quickly, as I did when moving from SAP BW to SAP Datasphere.",
+    "closing": "I am willing to relocate to Hamburg and can work the stated part-time hours for the full contract period from January 2027. I would be glad to discuss the role.",
+    "date": "2026-10-31",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-10-31/airbus-working-student-data-engineering-ai-dashboards/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

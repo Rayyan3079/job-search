@@ -1,0 +1,40 @@
+URL: https://www.linkedin.com/jobs/view/4483044026
+TITLE: Data Analyst
+COMPANY: Rovio Entertainment
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-29
+title: Data Analyst
+company: Rovio Entertainment
+posted: 1 day ago
+applicants: 65 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Ffi.linkedin.com%2Fjobs%2Fview%2Fdata-analyst-at-rovio-entertainment-4483044026&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Rovio is part of the SEGA family and world famous for our flagship IP Angry Birds - want to know more about Rovio as an employer? Click here.
+We're looking for a Data Analyst to join our Central team and deliver high-quality analytics focusing on User Acquisition, Ads, Portfolio and Finance. You'll play an important role in providing campaign performance analysis, UA reporting and ad revenue breakdowns, turning complex data into clear insights that guide our strategic and operational choices.
+You'll thrive in this role if you enjoy connecting with people from different backgrounds and using quantitative methods to uncover opportunities that benefit the whole team. You'll take ownership of key metrics from day one with plenty of support to grow your autonomy over time.
+You will have impact and fun at work by:
+ Partnering with our UA and other stakeholders to understand their needs and provide actionable insights through analytical support. 
+ Designing intuitive dashboards and automated reports that give decision-makers clear, reliable data whenever they need it. 
+ Exploring datasets to uncover helpful trends across ad revenue, player acquisition, and overall game portfolio health. 
+ Improve existing processes and proposing efficient ways to work with data, including introducing automated workflows and modern AI-assisted tools. 
+ Spotting data quality issues early and ensuring our shared reporting stays accurate, dependable, and trustworthy. 
+ Experience and skills we are looking for:
+ Experience working as an analyst in a data-rich setting. 
+ A degree in a quantitative subject (such as Statistics or Mathematics) or equivalent practical experience gained through work or self-study. 
+ Solid SQL experience, with the ability to write, debug, and verify complex queries with care and precision. 
+ A background using Python or R to streamline analysis, build models, and automate routine tasks. 
+ A practical understanding of quantitative modeling, cohort analysis, and LTV forecasting approaches. 
+ Strong interpersonal and communication skills in English, both written and spoken, to connect comfortably with diverse teams. 
+ A genuine enthusiasm for mobile games and a supportive, team-first approach to solving problems. 
+ It would be nice if you also have the following skills:
+ Familiarity with A/B testing concepts and experiment design. 
+ Hands-on experience using AI-assisted coding tools to speed up workflows while thoughtfully validating the results. 
+ Exposure to modern databases and big data technologies, with a fast-learning mindset 
+ Prior experience supporting performance marketing, adtech, or e-commerce environments. 
+ You'll work in a hybrid setup with three days at the office per week. Kindly send us your CV in English. We look forward to speaking to you!
+ We welcome applicants to use the name they want to be addressed by in the application form, regardless of whether it is their legal name. 
+ At Rovio, we are also committed to providing reasonable accommodations for qualified individuals with disabilities or conditions in our working environment and job application procedures. We are committed to continuously improving workplace accessibility. If you have any questions before applying, please write to us at recruitment@rovio.com.
+ What to expect when you join us 
+ Candidate Hub
+ Meet the Rovians
+ Diversity, Equity and Inclusion at Rovio

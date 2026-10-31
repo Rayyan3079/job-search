@@ -161,4 +161,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/20390-979413063-S | Delivery Hero SE | Working Student, Central Controlling
 - [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/15939-BB-635769-7878-8180-S | Rheinmetall AG | Werkstudent BID (m/w/d) | Kassel, Hessen
 
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/18706-QUHQ8782Rdpnhn-S | ZV Komm. Verkehrssicherheit | Werkstudent (m/w/d) Social Media, Presse- und Öffentlichkeitsarbeit | Amberg, Oberpfalz
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/17751-44542798-1030-S | Die Autobahn GmbH des Bundes Niederlassung Nordwest (Hannover) | Werkstudentin oder Werkstudent Personalentwicklung (w/m/d) | Hannover
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/13348-1648271-1-S | Lufthansa Technik AG | Working Student Key Account Management EPAR (m/f/d) | Hamburg
+
 ## Processed

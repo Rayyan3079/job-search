@@ -1,0 +1,31 @@
+URL: https://www.linkedin.com/jobs/view/4485309838
+TITLE: Innovationsmanager:in
+COMPANY: Peersonal Choice GmbH
+LOC: Limburg an der Lahn, Hesse, Germany
+POSTED: 2026-10-30
+title: Innovationsmanager:in
+company: Peersonal Choice GmbH
+posted: 19 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+Laut deiner Familie machst du "irgendwas mit Computern". Wir wissen, dass es deutlich mehr ist.
+ Daher suchen wir dich als Werkstudent (m/w/d) zur Optimierung von KI & Automatisierung bei Peersonal Choice .
+ 🏡 Du arbeitest Remote und gelegentlich in Limburg oder Frankfurt – bei uns musst du nicht ins Büro kommen, nur um eine Quote zu erfüllen
+ ⏰ Geplant sind 10 - 20h, die du dir frei einteilen kannst
+ 🖊️ Im Fokus stehen KI-Agenten, Prozessautomatisierung und die intelligente Verknüpfung unserer Tools
+ ➡️ Wir wollen langfristig mit dir arbeiten und fördern deine Übernahme in Festanstellung!
+ 💰 15 € / Stunde 
+ So sieht dein Tag aus, wenn du gemeinsam mit uns wachsen möchtest: 
+ Du analysierst unsere internen Abläufe und findest heraus, welche Aufgaben sich mit KI vereinfachen oder vollständig automatisieren lassen
+ Mit Tools wie n8n, Make oder Power Automate entwickelst du Workflows, die unsere bestehenden Systeme miteinander verbinden
+ Eigene KI-Agenten konzipierst und entwickelst du für konkrete Anwendungsfälle
+ Über APIs bindest du verschiedene Anwendungen aneinander und sorgst dafür, dass Informationen automatisiert dort landen, wo sie gebraucht werden
+ Deine Lösungen testest und optimierst du, bis sie nicht nur in der Theorie funktionieren, sondern uns im Arbeitsalltag tatsächlich Zeit sparen
+ Auf was wir nicht verzichten können: 
+ Du studierst Informatik, Wirtschaftsinformatik, Data Science oder einen vergleichbaren technischen Studiengang
+ Mindestens einen Prozess hast du bereits mithilfe von KI automatisiert , egal ob privat, im Studium oder im Job. Entscheidend ist, dass du selbst etwas zum Laufen gebracht hast
+ Technische Zusammenhänge verstehst du und arbeitest dich eigenständig in neue Tools und Technologien ein
+ Statt dich mit halbfertigen Lösungen zufriedenzugeben, probierst du so lange weiter, bis deine Automatisierungen zuverlässig funktionieren
+ Du erkennst dich hier wieder und hast Bock auf den Job? Dann schreib mir. So einfach geht's. 😊 
+ Wir begrüßen Bewerbungen unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion/Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität.

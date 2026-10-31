@@ -1,0 +1,41 @@
+URL: https://www.linkedin.com/jobs/view/4482952197
+TITLE: Werkstudent*in im Bereich Tape-Out Engineering
+COMPANY: GlobalFoundries
+LOC: Dresden, Saxony, Germany
+POSTED: 2026-10-26
+title: Werkstudent*in im Bereich Tape-Out Engineering
+company: GlobalFoundries
+posted: 4 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-in-im-bereich-tape-out-engineering-at-globalfoundries-4482952197&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Über GlobalFoundries
+ GlobalFoundries (GF) ist ein führender Hersteller von Halbleitern, auf die sich die Welt zum Leben, Arbeiten und Vernetzen verlässt. Wir sind innovativ und arbeiten mit unseren Kunden zusammen, um energieeffizientere und leistungsfähigere Produkte für die Automobilindustrie, intelligente mobile Geräte, das Internet der Dinge, Kommunikationsinfrastrukturen und andere wachstumsstarke Märkte zu entwickeln. Mit seiner globalen Produktionsbasis, die sich über die USA, Europa und Asien erstreckt, ist GF eine vertrauenswürdige und zuverlässige Quelle für Kunden in aller Welt. Jeden Tag liefert unser talentiertes und vielfältiges Team Ergebnisse mit einem unnachgiebigen Fokus auf Sicherheit, Langlebigkeit und Nachhaltigkeit. GF beschäftigt rund 13.000 Mitarbeitende weltweit, davon rund 3.000 in Dresden. Weitere Informationen finden Sie unter www.gf.com.
+ Über den Bereich
+ Der Bereich Tapeout Operations bildet die entscheidende Schnittstelle zwischen IC‑Design und der Fertigung in den GlobalFoundries‑Fabs. Hier werden aus komplexen, physikalischen Entwürfen präzise Fotomaskendaten erzeugt, die die Grundlage für eine zuverlässige und qualitativ hochwertige Chipproduktion bilden. In enger Zusammenarbeit mit den Fabs, OPC‑Teams sowie globalen Tapeout‑Organisationen stellt das Team sicher, dass Daten fehlerfrei aufbereitet, Prozesse kontinuierlich optimiert und innovative Technologien vorangetrieben werden, um effiziente, kostengünstige und robuste Tapeout‑Abläufe zu ermöglichen.
+ Stellenprofil
+ Beteiligung an der Entwicklung zukünftiger Tapeout-Systeme, die aus physikalischen Entwürfen Fotomaskendaten generieren
+ Beteiligung an täglichen Tapeout-Operations-Aktivitäten wie DRC, Dataprep und Arbeitsübergabe zwischen verschiedenen Standorten
+ Enge Zusammenarbeit mit den Fabs, OPC-Teams, dem Tapeout Logistics & Integration Team und Tapeout Integration, um saubere Tapeouts an RTM zu ermöglichen
+ Zusammenarbeit mit Teams innerhalb der globalen Tapeout-Operations-Organisation, um Methoden zur Arbeitsverbesserung zu entwickeln und umzusetzen, um die Effizienz zu steigern, Kosten zu senken und Durchlaufzeiten zu verbessern
+ Erlernen und Erforschen neuer Technologien und dringende Bearbeitung sowohl taktischer als auch strategischer Probleme
+ Dokumentieren von Best Practices und Schulungsmaterialien, um die reibungslose Erfüllung der TOC-Mission sicherzustellen
+ Sicherstellen, dass Prozesse gut dokumentiert sind, dass Fehlermodi bewertet werden und dass Maßnahmen zur Risikominderung und Erkennung vorhanden sind
+ Erforderliche Qualifikationen
+ Du bist derzeit an einer deutschen Universität eingeschrieben und studierst Elektrotechnik, Informatik, Physik oder Chemie
+ Erste Erfahrungen im Bereich Submikron-IC-Design und -Fertigung, EDA-Tools (Calibre DRC/LVS, Cadence Virtuoso) und Skriptsprachen (TCL, Python, Perl Shell)
+ Linux-Anwender, in der Lage, in einer UNIX-Umgebung zu arbeiten
+ Fließendes Englisch in Wort und Schrift (mindestens C1)
+ Sicherer Umgang mit Microsoft Excel, Word und PowerPoint
+ Zeitraum
+ Die Stelle ist ab sofort für eine Dauer von mindestens 12 Monaten zu besetzen
+ Maximal 20 Stunden/Woche während des Semesters und maximal 40 Stunden/Woche während der Semesterferien
+ Bei uns erwartet dich 
+ Teil eines offenen und dynamischen Teams zu werden
+ Arbeit in Vertrauensgleitzeit sowie im Homeoffice
+ Nutzung von Weiterbildungsangeboten
+ Attraktive Vergütung
+ Betriebsinterne Kantine und Fitnessstudio 
+ Weitere attraktive Benefits wie Angebote zur Förderung deiner Gesundheit oder diverse Mitarbeiterrabatte
+ Deine vollständige Bewerbung umfasst deinen Lebenslauf, ein Anschreiben, deine Notenübersicht, relevante Arbeitszeugnisse sowie deine aktuelle Immatrikulationsbescheinigung.
+Information about our benefits you can find here: https://gf.com/careers/opportunities-in-europe/

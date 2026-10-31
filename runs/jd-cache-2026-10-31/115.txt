@@ -1,0 +1,28 @@
+URL: https://www.linkedin.com/jobs/view/4484883674
+TITLE: Working Student - Big Data (f/m/d)
+COMPANY: Deutsche Börse Group
+LOC: Frankfurt, Hesse, Germany
+POSTED: 2026-10-30
+title: Working Student - Big Data (f/m/d)
+company: Deutsche Börse Group
+posted: 11 hours ago
+applicants: 37 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-big-data-f-m-d-at-deutsche-b%25C3%25B6rse-group-4484883674&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Your career at Deutsche Börse Group
+ As one of the largest international exchange organisation and innovative market infrastructure provider, Deutsche Börse Group offers its customers a wide range of products, services and technologies covering the entire value chain of financial markets. It organises markets characterised by integrity, transparency and safety for investors who invest capital and for companies that raise capital. With around 6,700 employees, the company has its headquarters in the financial centre of Frankfurt/Rhine-Main, as well as a strong global presence in Luxembourg, Prague, Chicago, London, Cork, New York and at other locations for its customers all over the world.
+ Your area of work
+ StatistiX® is Data Platform of Deutsche Börse Group, which includes Data Warehouse and Data Lake. StatistiX® provides external and internal users worldwide with statistical information on financial markets. You will be part of StatistiX DEV Clearing Team. Main responsibility of this team is to support Clearing business and projects with Data Platform and reporting functionalities. Furthermore find an effective way to solve actual business problems with ETL/Oracle and new technologies based on Cloudera Stack (incl. HDFS, HBase, Kafka) starting from requirements analyses, implementation till installation in production.
+ Your responsibilities:
+ You will support with development and test of ETL processes, like data ingestion, report calculation and analytics.
+ You will help with development and extension of common components for ingestion and reporting in data platform using Apache Spark in Scala.
+ You will be also involved in functional requirements analyses in Eurex Clearing area (C7, OTC/Calypso, C7 SCS). 
+ Your profile:
+ You are enrolled during the entire period of activity at a state-recognized university as a regular student, and have completed at least 4 semesters with study focus in the field of Computer Science or other relevant fields
+ Ideally, you have already gained first practical experience in the fields of (Database concepts,Java or Scala development)
+ You have strong knowledge about different data structures and algorithms
+ You have a understanding of concepts of OOP
+ You have an affinity for analyses and problem solving is highly desirable
+ You have a strong willingness to learn and to adapt in a fast-changing environment
+ Furthermore, you are proficient in written and spoken English 
+ Start date: 01/01/2027

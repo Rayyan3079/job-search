@@ -1,0 +1,63 @@
+URL: https://www.linkedin.com/jobs/view/4484533495
+TITLE: Data Analyst, CWM Analytics, GWM
+COMPANY: Scotia Wealth Management
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-29
+title: Data Analyst, CWM Analytics, GWM
+company: Scotia Wealth Management
+posted: 1 day ago
+applicants: 131 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fca.linkedin.com%2Fjobs%2Fview%2Fdata-analyst-cwm-analytics-gwm-at-scotia-wealth-management-4484533495&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Requisition ID: 277891
+Join a purpose driven winning team, committed to results, in an inclusive and high-performing culture.
+ Purpose
+ The Data Analyst plays a key role in driving data-informed decision-making across Scotiabank by transforming complex data into meaningful insights that support business strategy, operational excellence, and customer outcomes. Working closely with business partners, data engineers, and analytics teams, you will leverage data to uncover opportunities, solve business challenges, and deliver actionable recommendations that create measurable impact.
+ Key Responsibilities
+ Data Analysis & Insights
+ Analyze large and complex datasets to identify trends, opportunities, and actionable business insights.
+ Develop and maintain dashboards, reports, and visualizations using Power BI, Tableau, Excel, or similar tools.
+ Translate data into clear recommendations that support strategic and operational decision-making.
+ Develop clear and professional PowerPoint presentations to communicate analytical findings, trends, and recommendations to business stakeholders.
+ Stakeholder Collaboration
+ Partner with business leaders across areas such as Retail Banking, Wealth Management, Risk, and Finance to understand business needs and objectives.
+ Translate business questions into analytical solutions and data-driven recommendations.
+ Present findings effectively to both technical and non-technical audiences.
+ Data Quality, Governance & Quality Assurance
+ Ensure the accuracy, integrity, and reliability of data used for reporting and analysis.
+ Perform quality assurance reviews to validate the accuracy and completeness of reports, dashboards, and analytical outputs.
+ Apply strong data governance practices to support appropriate data usage, documentation, controls, and adherence to enterprise standards.
+ Perform data validation, reconciliation, and quality assurance activities.
+ Support data governance initiatives and adherence to enterprise standards and best practices.
+ Advanced Analytics & Innovation
+ Support predictive analytics, customer segmentation, performance measurement, and business improvement initiatives.
+ Collaborate with data scientists and engineers on advanced analytics and innovation projects.
+ Identify opportunities to automate reporting and enhance data processes.
+ What You'll Bring
+ Technical Skills
+ Strong SQL and data querying skills.
+ Experience with data visualization tools such as Power BI, Tableau, or similar platforms.
+ Advanced Excel proficiency.
+ Strong proficiency in Microsoft PowerPoint, with the ability to translate data and insights into clear, professional presentations.
+ Knowledge of data quality, quality assurance, and data governance principles and practices.
+ Experience with Python or R is an asset.
+ Familiarity with cloud and data warehousing platforms such as Snowflake, Hadoop, GCP, or similar technologies.
+ Core Competencies
+ Strong analytical and problem-solving abilities.
+ Excellent communication and data storytelling skills.
+ High attention to detail and commitment to data accuracy.
+ Ability to manage competing priorities in a fast-paced environment.
+ Collaborative mindset with strong stakeholder relationship skills.
+ Education & Experience
+ Bachelor's degree in Data Analytics, Statistics, Mathematics, Computer Science, Finance, or a related field.
+ 2+ years of experience in data analytics, business intelligence, or a related field.
+ Experience working with large datasets and relational databases.
+ Financial services, banking, customer analytics, or risk analytics experience is considered an asset.
+ This role may be based in either Toronto or Ottawa, Ontario.
+ Why Join Scotiabank?
+ Work on high-impact projects that influence strategic business decisions.
+ Partner with diverse teams across one of Canada's leading financial institutions.
+ Gain exposure to modern analytics tools, cloud technologies, and enterprise-scale data environments.
+ Be part of a team that values innovation, collaboration, and continuous learning.
+ #SWM
+Location(s): Canada : Ontario : Ottawa

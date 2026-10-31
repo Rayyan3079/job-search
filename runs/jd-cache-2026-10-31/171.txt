@@ -1,0 +1,40 @@
+URL: https://www.linkedin.com/jobs/view/4484988568
+TITLE: Werkstudent Data (m/w/d)
+COMPANY: SMA Solar
+LOC: Kassel, Hesse, Germany
+POSTED: 2026-10-29
+title: Werkstudent Data (m/w/d)
+company: SMA Solar
+posted: 1 day ago
+applicants: 57 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-data-m-w-d-at-sma-solar-4484988568&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Warum SMA?
+ Du möchtest die Energieversorgung der Zukunft aktiv mitgestalten? Dann bist Du bei SMA richtig.
+Bei uns arbeitest Du an Lösungen, die den Wandel zu einer nachhaltigen Energieversorgung weltweit voranbringen. Dabei setzen wir auf Menschen, die Verantwortung übernehmen, Ideen einbringen und Veränderungen mitgestalten wollen.
+Erfahre mehr über SMA als Arbeitgeber, unsere Kultur und Deine Entwicklungsmöglichkeiten auf unsere Karriereseite unter https://www.SMA.de/karriere
+Unsere Steuerabteilung verantwortet alle steuerlichen Fragestellungen des Unternehmens – von Compliance und Deklaration bis hin zu Beratung und Projekten. Wir sichern steuerliche Risiken ab, optimieren Prozesse und begleiten Betriebsprüfungen sowie interne Stakeholder entlang der Finance‑Prozesse. Dabei arbeiten wir daten- und lösungsorientiert mit Fokus auf Qualität, Termineinhaltung und praktikable Umsetzung.
+ Deine Mission – Das Erwartet Dich Bei Uns
+ Datenanalyse – Daten aus unterschiedlichen Quellen aufbereiten, strukturieren und auswerten, um belastbare Erkenntnisse und Entscheidungsgrundlagen zu schaffen.
+ Machine Learning & KI – Bei der Entwicklung, Implementierung und Weiterentwicklung von Machine-Learning- und KI-Lösungen mitarbeiten und neue Anwendungsfälle identifizieren.
+ Reporting & Visualisierung – Dashboards, Reports und Kennzahlenlösungen erstellen, optimieren und automatisieren, insbesondere mit Microsoft Power BI.
+ Research & Innovation – Markt-, Technologie- und Trendentwicklungen im Umfeld Data Analytics, Künstliche Intelligenz und Innovationen im Energiesektor analysieren und bewerten.
+ Zusammenarbeit – Fachliche Anforderungen mit unterschiedlichen Stakeholdern abstimmen und datengetriebene Lösungen gemeinsam im Team voranbringen.
+ Dein Profil – das bringst du mit:
+ Laufendes Studium der Informatik, Data Science, Wirtschaftsinformatik, Mathematik oder eines vergleichbaren Studiengangs.
+ Sehr gute Kenntnisse in Python sowie praktische Erfahrung mit Datenanalyse-, Machine-Learning- oder KI-Bibliotheken.
+ Kenntnisse im Bereich Generative AI und Agentic AI sind wünschenswert.
+ Erfahrung mit Datenvisualisierung und Business-Intelligence-Tools, vorzugsweise Microsoft Power BI.
+ Analytische und strukturierte Arbeitsweise, ausgeprägtes Interesse an Daten, Künstlicher Intelligenz und innovativen Lösungen für die Energieversorgung sowie verhandlungssichere Deutsch- und/oder Englischkenntnisse.
+ Deine Checkliste
+ Du bist immatrikulierte r Student in an einer Hochschule oder Universität.
+ Für deine Werkstudierendentätigkeit stehen dir idealerweise rund 18 Stunden pro Woche zur Verfügung und du möchtest uns für mindestens 12 Monate unterstützen, gern auch darüber hinaus.
+ Dich erwartet eine faire Vergütung sowie zusätzliche Benefits, die deinen Arbeitsalltag bereichern.
+ Für deine Bewerbung benötigen wir ein Anschreiben, deinen aktuellen Lebenslauf und eine aktuelle Kurs- bzw. Notenübersicht. Sofern vorhanden, freuen wir uns außerdem über Abschluss- und Arbeitszeugnisse.
+ Bereit für deinen nächsten beruflichen Schritt?
+ Wir freuen uns auf deine Bewerbung!
+Du bist an dieser Stelle interessiert, erfüllst aber nicht alle Anforderungen? Wir freuen uns trotzdem auf deine Bewerbung mit Anschreiben und Lebenslauf!
+ Dein Kontakt Im Recruiting Ist
+ Britt Albrecht | SMA Solar Technology AG
+#SMA Solar Technology AG
+∗ SMA steht für Chancengleichheit und Vielfalt – unabhängig von Geschlecht, Alter, Herkunft, Religion, Behinderung oder sexueller Orientierung.

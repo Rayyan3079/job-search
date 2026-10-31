@@ -1,0 +1,25 @@
+Scanning 0 companies; 3 job boards; 0 local parser; 0 skipped — no provider matched via providers
+(node:259) [UNDICI-EHPA] Warning: EnvHttpProxyAgent is experimental, expect them to change at any time.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+::career-ops:scan-summary::
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Portal Scan — 2026-10-31
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Companies scanned:     0
+Job boards scanned:    3
+Total jobs found:      152
+Filtered by title:     5 removed
+Filtered by posted date: 0 removed
+Duplicates:            144 skipped
+New offers added:      3
+
+New offers:
+  + ZV Komm. Verkehrssicherheit | Werkstudent (m/w/d) Social Media, Presse- und Öffentlichkeitsarbeit | Amberg, Oberpfalz
+  + Die Autobahn GmbH des Bundes Niederlassung Nordwest (Hannover) | Werkstudentin oder Werkstudent Personalentwicklung (w/m/d) | Hannover
+  + Lufthansa Technik AG | Working Student Key Account Management EPAR (m/f/d) | Hamburg
+
+Results saved to /home/user/job-search/data/pipeline.md and /home/user/job-search/data/scan-history.tsv
+
+→ Run /career-ops pipeline to evaluate new offers.
+→ Share results and get help: https://discord.gg/8pRpHETxa4

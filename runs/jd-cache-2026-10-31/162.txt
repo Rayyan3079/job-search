@@ -1,0 +1,26 @@
+URL: https://www.linkedin.com/jobs/view/4484553700
+TITLE: Werkstudentin Datenanalyse & Power Plattform für DC-Links Infrastrukturprojekte (m/w/d)
+COMPANY: 50Hertz Transmission GmbH
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-10-29
+title: Werkstudentin Datenanalyse & Power Plattform für DC-Links Infrastrukturprojekte (m/w/d)
+company: 50Hertz Transmission GmbH
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudentin-datenanalyse-power-plattform-f%25C3%25BCr-dc-links-infrastrukturprojekte-m-w-d-at-50hertz-transmission-gmbh-4484553700&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Stellen-ID: 11657 / Befristet / Start: Zum nächstmöglichen Zeitpunkt
+ Gestalte gemeinsam mit unserem Team die datengetriebene Steuerung – sowohl für das Management als auch für die operative Steuerung bei 50Hertz! 
+ Deine Aufgaben
+ Aufbau, Weiterentwicklung und Pflege von Power-BI-Reports (Management Reporting, monatliches Reporting, operative Steuerungsdashboards), 
+ Unterstützung bei der Entwicklung und Weiterentwicklung von Power Apps (z.B. für Datenerfassung, Prozessunterstützung, Reporting),
+ Aufbereitung, Analyse und Modellierung von Daten aus unterschiedlichen Quellen für Power BI Reports (u. a. mit Power Query, Dataflows, Datenbank APIs), 
+ Unterstützung bei der Dokumentation, Tests- und Qualitätssicherung von Reports und Apps und der Analyse von Umsetzungspotentialen,
+ Enge Zusammenarbeit mit Fachbereichen und Stakeholdern von 50Hertz. 
+ Wir stellen uns vor, dass du... 
+ im fortgeschrittenen Bachelor oder im Master des Wirtschaftsingenieurwesens, der (Wirtschafts-) Informatik oder eines vergleichbaren Studiengangs bist,
+ erste Erfahrungen mit Power BI oder Power Apps hast oder großes Interesse daran mitbringst die Welt der Business Intelligence kennen zu lernen, 
+ strukturiert, selbstständig und zuverlässig arbeitest,
+ Interesse an Digitalisierung und Daten hast, 
+ sehr gute Deutsch- (B2) und gute Englischkenntnisse (B1) in Wort und Schrift aufweist.
+ Erste Erfahrungen bei der Projektsteuerung oder in der Softwareentwicklung sind ein Vorteil.

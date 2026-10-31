@@ -1,0 +1,31 @@
+URL: https://www.xing.com/jobs/karlsruhe-dataset-creator-152981572
+TITLE: Werkstudent:in Dataset Creator
+COMPANY: visioncheckout
+LOC: Karlsruhe
+POSTED: 2026-04-07
+title: Werkstudent:in Dataset Creator
+company: visioncheckout
+posted: 2026-04-07T11:17:28Z
+location: Karlsruhe | remote: 
+---
+Ab sofort | Werkstudent:in (m/w/d) | 15-20h/Woche | Karlsruhe/Remote 
+ Unsere vision checkouts weltweit generieren täglich große Mengen an Bilddaten. Diese nutzen wir, um unsere KI kontinuierlich zu verbessern und neue Funktionen für unsere Kunden zu entwickeln. Dafür brauchen wir dich!
+ Als Werkstudent:in unterstützt du unser Machine-Learning-Team bei der Erstellung hochwertiger Bilddatensätze, die als Grundlage für das Training unserer KI-Modelle dienen. Deine Arbeit hat direkten Einfluss auf die Erkennungsrate – und damit auf die User Experience von Millionen vision checkout -Nutzer:innen weltweit.
+ Du arbeitest flexibel, kannst remote tätig sein und dir deine Arbeitszeiten eigenständig einteilen.
+ Aufgaben
+ Zusammenstellung neuer Bilddatensätze 
+ Entwicklung und Optimierung von Annotationsrichtlinien 
+ Überwachung und Qualitätssicherung unserer Daten-Annotationsprozesse 
+ Review von Bilddatensätzen
+ Qualifikation
+ Eingeschriebene:r Student:in an einer deutschen Hochschule 
+ Strukturierte, sorgfältige und eigenständige Arbeitsweise 
+ Grundlegende technische Affinität und Interesse an Künstlicher Intelligenz 
+ Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
+ Benefits
+ Flexible Arbeitszeiten und Remote-Option 
+ Kostenloser Kaffee, Snacks und Getränke im Office 
+ Zuschuss zum Deutschlandticket oder zur Fitnessstudio-Mitgliedschaft 
+ Regelmäßige Teamevents
+ Haben wir Dein Interesse geweckt? Dann schicke uns Deine Bewerbung!
+ Wir freuen uns auf Dich!

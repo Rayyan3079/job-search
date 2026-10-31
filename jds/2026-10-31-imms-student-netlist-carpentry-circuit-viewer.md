@@ -1,0 +1,66 @@
+URL: https://www.linkedin.com/jobs/view/4485237481
+Company: IMMS GmbH
+Title: Student research assistant: Netlist Carpentry circuit viewer
+Found: 2026-10-31
+Posted: 2026-10-29
+
+URL: https://www.linkedin.com/jobs/view/4485237481
+TITLE: Student (m/f/d): Netlist Carpentry: Extending an interactive Circuit Viewer
+COMPANY: IMMS Institut für Mikroelektronik- und Mechatronik-Systeme gemeinnützige GmbH (IMMS GmbH)
+LOC: Ilmenau, Thuringia, Germany
+POSTED: 2026-10-29
+title: Student (m/f/d): Netlist Carpentry: Extending an interactive Circuit Viewer
+company: IMMS Institut für Mikroelektronik- und Mechatronik-Systeme gemeinnützige GmbH (IMMS GmbH)
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fstudent-m-f-d-netlist-carpentry-extending-an-interactive-circuit-viewer-at-imms-institut-f%25C3%25BCr-mikroelektronik-und-mechatronik-systeme-gemeinn%25C3%25BCtzige-gmbh-imms-gmbh-4485237481&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Student (m/f/d): Netlist Carpentry: Extending an interactive Circuit Viewer
+During your studies, you can contribute to our ongoing research projects. Join us in pushing the limits of what is technically feasible and be part of breaking new ground together. We offer a variety of challenging and practice-oriented topics for mandatory internships, Bachelor’s or Master’s theses or for student research assistants. You will analyse important scientific preliminary questions and support the project teams with development activities.
+Place of work: Erfurt
+Team: Microelectronics
+Career level:Mandatory Internship or Student Research Assistant
+Research field: Integrated sensor systems
+Time scope: By agreement
+Start: As soon as possible
+Application deadline: 2026-12-31
+Reference number: IMMS_STUD_ME_1226
+Modifying the netlists of digital circuits enables a wide range of analysis and optimization approaches.
+For this purpose, the open-source Python framework "Netlist Carpentry" was developed at IMMS. It automatically reads in, inspects, and modifies circuit netlists. To achieve this, the cells and nets of the circuit are stored internally as a graph consisting of nodes and edges. To facilitate analysis, an interactive Graph Viewer is available that displays the circuit in a structure that is comprehensible for the user.
+However, the Viewer's functionality is rather limited. Currently, a rudimentary info box is displayed for a selected node, containing only basic data.
+Therefore, this work aims to extend the Viewer with various new features. These include a search function (with an interactive search bar), tracing of signal paths (where a signal comes from and where it goes), as well as marking and highlighting of specific instances.
+The entire process must be well documented and tested, so that the new features can be seamlessly integrated into the existing documentation and verification suite.
+WHAT TO DO:
+ Familiarization with the structure of Netlist Carpentry
+ Analysis of the existing Circuit Graph Viewer
+ Expansion of the Viewers with useful features, like marking nodes, signal path tracing, a search bar, and other utilities for circuit analysis
+ Test and documentation of the implemented features based on example circuits
+ WHAT TO BRING WITH YOU:
+ Basic knowledge of Python
+ Basic knowledge of Git
+ Helpful, but not mandatory: basic knowledge of netlist carpentry
+ AND THIS IS US:
+We strengthen enterprises with application-oriented research and development in microelectronics, systems engineering and mechatronics and transfer the results of basic research into applications and products. We support companies in launching internationally successful innovations for health, the environment and industry and provide solutions from the feasibility study to series production.
+WE ARE LOOKING FORWARD TO MEETING YOU!
+We thank you for your interest in working with us.
+Please only apply once – for your favourite topic or for the one that comes closest to your interests. This is the quickest way for us to process your application and get back to you. If you are interested in more than one topic, please include this in your cover letter. In case our current suggestions are not suitable, please send us your
+speculative application
+with a topic you would like to work on.
+WHAT CAN WE OFFER YOU:
+ An attractive workplace in a modern, very well-equipped and industry-oriented research institute
+ Work directly at the interface between university and industry
+ Work in a flexible and creative team and on innovative and challenging topics
+ We value and promote equal opportunities and are committed to the goals of equality and diversity.
+Applications for the listed positions and existing working conditions are welcome regardless of gender and/or any physical disabilities.
+IMMS ensures gender equality in the workplace and strives to increase the proportion of the under-represented gender. Women are under-represented in this field. Applications from women are therefore expressly encouraged.
+People with severe disabilities will be given preference if they have the same qualifications, skills, and professional performance.
+Address:
+IMMS Institut für Mikroelektronik- und Mechatronik-Systeme gemeinnützige GmbH (IMMS GmbH)
+Ehrenbergstraße 27
+98693 Ilmenau
+Germany
+ Contact: Eric Schäfer
+www.imms.de/students
+What others say:
+Follow us:
+Print

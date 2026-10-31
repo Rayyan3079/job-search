@@ -20,11 +20,16 @@ Internships, thesis roles, full-time roles and German-required roles are listed 
 
 ## Latest run
 
-**2026-10-29**: 300 new jobs checked (LinkedIn, StepStone, XING, career sites, Arbeitsagentur, worldwide remote boards). 4 packages, all Lane G:
-[KWS Berlin – Working Student Master Data](output/2026-10-29/kws-working-student-master-data-management/) (3.5),
-[Munich Re – Intern Data Science & AI](output/2026-10-29/munich-re-intern-consultant-data-science-ai/) (3.5),
-[Atlas Copco Cologne – Technical Data Analytics Intern](output/2026-10-29/atlas-copco-technical-data-analytics-intern/) (3),
-[ZEISS – Internship AI & ML](output/2026-10-29/zeiss-internship-ai-machine-learning/) (3).
-Full report: [digests/2026-10-29.md](digests/2026-10-29.md).
+**2026-10-31**: 218 new jobs checked. 9 packages (1 near Ilmenau, 8 Germany-wide), each with a contact email or LinkedIn note:
+[IMMS GmbH – Student research assistant: Netlist Carpentry circuit viewer](output/2026-10-31/imms-student-netlist-carpentry-circuit-viewer/) (3.5),
+[SAP SE – Working Student – SAP Cloud ALM Operations Team](output/2026-10-31/sap-working-student-cloud-alm-operations/) (4),
+[SAP SE – Working Student – AI Engineering & Data Science](output/2026-10-31/sap-working-student-ai-engineering-data-science/) (3),
+[Airbus Operations GmbH – Working Student Data Engineering, AI & Digital Dashboards](output/2026-10-31/airbus-working-student-data-engineering-ai-dashboards/) (3.5),
+[BASF SE – Internship Management Consulting – Data Science/Data Analytics](output/2026-10-31/basf-internship-management-consulting-data-science/) (3.5),
+[Carnival Maritime GmbH – Working Student Safety Data Analyst](output/2026-10-31/carnival-maritime-working-student-safety-data-analyst/) (3),
+[Hilti Deutschland AG – Working Student Data Analysis in Battery Development](output/2026-10-31/hilti-working-student-data-analysis-battery/) (3),
+[Solactive AG – Working Student Data Engineering](output/2026-10-31/solactive-working-student-data-engineering/) (3),
+[Munich Re – Working Student IT Project Management, Business Solutions (Public Markets Back Office)](output/2026-10-31/munich-re-working-student-it-project-management/) (2.5).
+Full report: [digests/2026-10-31.md](digests/2026-10-31.md).
 
-Still open from earlier: [IGH Automation Ilmenau](output/2026-10-26/igh-automation-ilmenau-werkstudent/) (10-26), [AgentixLake Data Engineering](output/2026-10-25/agentixlake-working-student-data-engineering/) (10-25), [DLR Jena + Fraunhofer IDMT x2](digests/2026-10-23.md) (10-23).
+Applied and waiting: KWS, Munich Re (intern), Atlas Copco, ZEISS, AgentixLake (2 roles). See [data/applications.md](data/applications.md).

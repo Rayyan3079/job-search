@@ -1,0 +1,37 @@
+URL: https://www.linkedin.com/jobs/view/4481093526
+TITLE: Code Data Annotation Quality Specialist
+COMPANY: Mistral
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-25
+title: Code Data Annotation Quality Specialist
+company: Mistral
+posted: 5 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fjobs%2Fview%2Fcode-data-annotation-quality-specialist-at-mistral-4481093526&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+About Mistral
+ Mistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems across high-stakes industries like finance, manufacturing, defense, healthcare, and the public sector, co-creating customized AI systems that they can run on their terms.
+We are a dynamic, collaborative team passionate about AI and its potential to transform society. Our diverse workforce thrives in competitive environments and is committed to driving innovation. Our teams are distributed between Europe, North America, Asia and the Middle East. We are creative, low-ego and team-spirited.
+The Role
+As a Code Data Annotation Quality Specialist on the Human Data Annotation team, you will play a dual role in ensuring the quality of code annotations and maintaining the tools that support annotators. This role exists to uphold the highest standards for data used in training and evaluating AI models, while also improving the workflows and tools that enable efficient annotation. You will spend most of your time reviewing and auditing annotations against rubrics, with the remainder focused on building, maintaining, and troubleshooting internal tooling. Your collaboration with annotators, technical program managers, and engineers will help refine the guidelines and processes that shape how our data is produced.
+What You Will Do
+ Generate and validate high-quality data annotations based on guidelines and continuous feedback.
+ Surface systemic issues, edge cases, and gaps in guidelines to annotation operations and technical stakeholders.
+ Produce annotations yourself to model the quality bar expected of the team.
+ Build and maintain internal tools and automation to streamline annotator workflows, such as dashboards, scripts, and utilities.
+ Troubleshoot environment, tooling, and version control issues for annotators, liaising with IT and engineering as needed.
+ Collaborate with stakeholders to refine guidelines and processes for data production.
+ What We're Looking For
+ A degree in computer science, engineering, or a related field, or 2 to 5 years of professional experience in software engineering, technical support, or tool development.
+ Hands-on experience using code agents in your development workflow and a genuine interest in their evolution.
+ Proficiency in at least one programming language (e.g., Python, JavaScript), with the ability to read and reason about code across multiple languages.
+ Ability to apply consistent judgment against a rubric and identify edge cases, ambiguities, or gaps in guidelines.
+ Sustained focus and accuracy for detail-oriented, high-volume review work.
+ Comfort working in a Unix-like terminal, including shell basics, package managers, environment setup, and version control workflows.
+ Ability to troubleshoot local development environment issues across common operating systems.
+ Professional proficiency in English, with strong writing and comprehension skills.
+ What We Offer
+We offer a comprehensive benefits package designed to support your well-being, growth, and work-life balance. Benefits vary by country and may include healthcare coverage, parental leave, retirement plans, relocation support, wellness programs, meal and transportation allowances, and other location-specific perks.
+For the most up-to-date details on benefits available in your location, please refer to our Benefits page .
+Privacy Policy
+Your privacy matters to us. You can learn more about how we handle your personal data in our Applicant Privacy Policy .

@@ -1,0 +1,39 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-w-m-d-Data-Services-Montabaur-11--14699028-inline.html
+TITLE: Werkstudent (w/m/d) - Data Services
+COMPANY: 1&1
+LOC: Montabaur
+POSTED: stepstone
+title: Werkstudent (w/m/d) - Data Services
+company: 1&1
+posted: 2026-10-30T14:54:40.367Z
+location: Montabaur | remote: 
+---
+1&1 gehört mit über 3.100 Mitarbeitenden und fast 16 Millionen Kundenverträgen zu den führenden Telekommunikationsanbietern in Deutschland. Mit Pioniergeist, ungewöhnlichen Ideen und kreativen Teams haben wir eine führende Marktstellung im Mobilfunk und bei Breitband-Anschlüssen erobert. Durch die Kombination des über 67.000 km langen 1&1 Glasfasernetzes und regionalen Netzen schaffen wir das weitreichendste Glasfasernetz Deutschlands. Außerdem bauen wir das modernste 5G-Netz Europas, auf der Basis der neuartigen Open-RAN-Technologie. Mit offenen Schnittstellen und 5G-Funktionen in einer leistungsfähigen Cloud-Infrastruktur. Schreiben Sie die 1&1 Erfolgsgeschichte fort, indem Sie durch Einsatz und Entwicklung innovativer Technologien, die Zukunft gestalten. Werden Sie Teil von 1&1.
+ Ihre Aufgaben
+ Sie möchten Ihr Studium mit praktischer Erfahrung im Umfeld moderner Datenplattformen, Business Intelligence und Künstlicher Intelligenz verbinden? Im Team Data Services am Standort Montabaur unterstützen Sie unsere Data Platform bei der Umsetzung datengetriebener Projekte und sammeln wertvolle Praxiserfahrung mit Power BI, Databricks und modernen Analytics-Lösungen.
+ Unterstützung des Projektmanagements in Jira, insbesondere bei der Pflege und Nachverfolgung von Work Items
+ Tracking von Zielterminen sowie Unterstützung bei der Einhaltung von Projektmeilensteinen
+ Erstellung, Pflege und Weiterentwicklung von Power BI Reports und Dashboards in der Power BI Cloud
+ Testen und Validieren von Databricks Genie Agents
+ Bewertung, Dokumentation und Analyse von Consumer-Ergebnissen sowie Testerkenntnissen
+ Aufbereitung von Testergebnissen, Kennzahlen und Statusberichten für verschiedene Stakeholder
+ Unterstützung des Teams bei organisatorischen und administrativen Aufgaben im Projektumfeld
+ Das wünschen wir uns
+ Sie studieren mit Begeisterung an der Schnittstelle von Business und IT und möchten praktische Erfahrungen im Bereich Data & Analytics sammeln. Dabei arbeiten Sie strukturiert, selbstständig und haben Freude daran, neue Technologien kennenzulernen.
+ Laufendes Studium der Wirtschaftsinformatik, Digital Business Management oder eines vergleichbaren Studiengangs
+ Interesse an Daten, Analytics und modernen Cloud-Technologien
+ Erste praktische Erfahrungen mit Datenanalysen und Reporting
+ Grundkenntnisse in Power BI
+ Erste Berührungspunkte mit Databricks oder vergleichbaren Data-Analytics-Plattformen sind von Vorteil
+ Analytische Denkweise sowie eine strukturierte und sorgfältige Arbeitsweise
+ Sichere Deutsch- und Englischkenntnisse
+ Teamgeist, Eigeninitiative und Lernbereitschaft
+ Unsere Benefits
+ Attraktives Gehalt
+ Starke Gemeinschaft aus Teamplayern
+ Vertrauensarbeitszeit mit flexibler Einteilung und der Möglichkeit, bis zu 40% mobil zu arbeiten
+ Zahlreiche Weiterbildungsmöglichkeiten on- und offline
+ Rabatte auf 1&1 Produkte und für diverse Freizeitangebote
+ EGYM-Wellpass
+ Betriebseigenes Restaurant
+ Kostenlose Getränke und frisches Obst

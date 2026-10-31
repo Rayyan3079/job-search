@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4475434397
+TITLE: Data Analyst GCP H/F
+COMPANY: NEXTON
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-29
+title: Data Analyst GCP H/F
+company: NEXTON
+posted: 1 day ago
+applicants: 43 applicants
+apply_offsite: 
+---
+Qui sommes-nous ?
+ Rejoindre NEXTON, c'est intégrer une entreprise où convergent l'esprit d'un cabinet de conseil, la créativité d'une Factory et la dynamique d'une ESN ! Grâce à notre expertise, nous accompagnons des clients grands comptes et des pure players tels que SNCF, Orange, et BNP Paribas dans leurs stratégies d'évolution et d'innovation digitale.
+ Fondée en 2011, NEXTON réunit aujourd'hui une équipe de plus de 450 experts spécialisés dans le digital, le design, l'agilité, le produit et le développement. Ensemble, ils créent un écosystème riche en connaissances et en compétences diversifiées.
+ Description du poste
+ NEXTON recrute un Data Analyst GCP H/F , en CDI , à Paris !
+ Ton futur environnement de travail :
+ Dans le cadre du renforcement stratégique de l’Équipe Baromètre, tu interviendras sur des problématiques d'analyse à fort impact pour orienter les décisions clés. Intégré(e) au cœur d'un environnement exigeant, tu apporteras ton expertise de la donnée pour cadrer les besoins et structurer les indicateurs de performance. Ton leadership et ta rigueur seront déterminants pour challenger les enjeux métier et maximiser la valeur de la donnée.
+ Tes missions :
+ Cadrer, analyser et traduire les besoins stratégiques et opérationnels des équipes métier en indicateurs clés.
+ Modéliser, manipuler et analyser de grands volumes de données dans un environnement cloud GCP.
+ Concevoir des requêtes SQL complexes et développer des scripts Python pour automatiser et optimiser les traitements de données.
+ Construire des tableaux de bord et des supports d'analyse décisionnels pour piloter l'activité du Baromètre.
+ Challenger les demandes métier et apporter une posture conseil à fort impact lors des arbitrages stratégiques.
+ Assurer le suivi, la fiabilité et la qualité des données produites tout au long du cycle d'analyse.
+ Collaborer étroitement avec les différentes parties prenantes pour vulgariser les enseignements Data et guider la prise de décision.
+ Qualifications
+ Au moins 6 ans d'expérience avérée en tant que Data Analyst sur des projets complexes.
+ Excellente maîtrise de Google Cloud Platform (GCP) pour l'exploitation et l'analyse de données.
+ Expertise solide en SQL et maîtrise de Python pour la manipulation et la structuration des données.
+ Posture décisionnelle affirmed et leadership reconnu pour s'imposer, cadrer et challenger des interlocuteurs exigeants.
+ Grande aisance relationnelle, capacités de communication et rigueur exemplaire dans la gestion et le suivi des besoins métier.
+ Informations supplémentaires
+ Pourquoi choisir NEXTON ? 
+ Nous te proposons des avantages et des opportunités pour enrichir ton expérience professionnelle et personnelle tout au long de l'année :
+ ▶ Des communautés dynamiques pour t'accompagner dans ton parcours.
+ ▶ Des Meet Up pour développer tes compétences.
+ ▶ Des formations pour te réinventer et progresser.
+ ▶ Des événements sportifs et festifs pour t'épanouir.
+ ▶ Un forfait mobilité durable pour faciliter ton quotidien et encourager la mobilité douce.
+ ▶ Un téléphone de dernière génération pour rester connecté.
+ Prêt à nous rejoindre ? Rencontrons-nous !
+ NEXTON

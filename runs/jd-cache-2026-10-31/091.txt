@@ -1,0 +1,54 @@
+URL: https://www.linkedin.com/jobs/view/4466213617
+TITLE: Business Intelligence Analyst
+COMPANY: CAA Club Group
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-29
+title: Business Intelligence Analyst
+company: CAA Club Group
+posted: 1 day ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fca.linkedin.com%2Fjobs%2Fview%2Fbusiness-intelligence-analyst-at-caa-club-group-4466213617&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+About Us
+ At CAA Club Group, we are passionate about keeping our Members safe - whether they are on the road, at home, or travelling abroad. As a trusted Member-based organization, we provide products and services that are essential to Members’ safety and peace of mind. With over 2.6 million Members across Ontario and Manitoba, we advocate on issues such road safety and infrastructure, the environment, seniors’ mobility, and consumer protection. Associates share in each other’s successes, drive change and support each other while cultivating a great working environment to deliver on what is best for our Members. CAA SCO Systems & Services Inc is a member of the CAA Club Group of Companies.
+ Who We Are
+ Are you ready to join an award-winning, purpose-driven culture? Welcome to the CAA Club Group of Companies (CCG), where purpose leads to passion!
+At CCG, we are committed to delivering an exceptional Associate experience. We offer:
+ Work-life harmony with access to an award-winning holistic wellness program,
+ Continuous learning through our robust corporate curriculum and education reimbursement program,
+ Incredible rewards, travel incentives, and product and service discounts,
+ Pay-for-performance and best-in-class recognition programs, and
+ Competitive benefits that include a defined contribution plan, personal spending account, and so much more.
+ Join our growing team where everyone belongs!
+ Position Details
+ What You Will Do
+ Create comprehensive and automated BI & Reporting solutions, while focusing on the front-end interface in Power BI.
+ Participate in the stakeholder requirement workshops/meetings and ensure business requirements are adequately captured in SOW.
+ In collaboration with BI Developer, support development of data solutions, including data models, data lifecycle management, data access and reporting elements.
+ Analyze complex data sets from various database servers and systems to identify insights and trends shaping in each LOB, functional area, and CCG enterprise.
+ Translate analysis into self-serve Power BI dashboards, including visuals, slicers, and measures with a focus on storytelling and user experience.
+ In collaboration with BI Developer, create mockup reports for proof-of-concept reviews.
+ Support lines of business in a variety of analytical needs including development of robust analytical plans, statistical analysis, key performance indicators, benchmarking, data visualizations, routine, and ad hoc reporting.
+ Utilize machine learning techniques to proactively identify opportunities for transforming descriptive to predictive analytics.
+ Provide analytics support on key projects/initiatives aligned to business or organizational strategies.
+ Create technical documents for all newly built data/reporting solutions.
+ Serve as a subject matter expert across Finance and assist users with reporting and analysis activities and tools, including ad hoc reporting.
+ Support end-user training, testing, documentation, and roll-out of reports.
+ Maintain knowledge of business processes and application design and understand cross-functional business relationships and their use of information.
+ Work in conjunction with other internal teams on collaborative projects, including data analytics initiatives.
+ Keep current on emerging tools and techniques and grow knowledge of the business.
+ Who You Are
+ Undergraduate degree or post-secondary education in quantitative field (Computer Science, Finance, Mathematics, Analytics, Economics, etc.).
+ Microsoft Power BI or appropriate Analytics certification is desirable.
+ 3+ years of experience developing Power BI dashboards ensuring security, architecture, governance, and performance meets outlined objectives.
+ 3+ years of experience working with databases and warehouses, with hands-on expertise in SQL-Server (SSIS, SSRS, SSAS tabular models).
+ 3+ years of experience in analytical languages, including DAX, M, BEx, Power Query, etc.
+ Familiarity with ML concepts, frameworks, and libraries along with the ability to execute these in Python/R is considered a strong asset.
+ Experience working with SAP BI/BW/BPC is considered a strong plus.
+ Attention to detail with high aptitude for problem-solving.
+ Excellent communication skills, proven ability to discuss BI solutions at the appropriate level of detail with all levels of the organization.
+ Ability to adjust to changing priorities and participation in multiple projects.
+ Advanced knowledge of Microsoft Office products (Word, Excel, PowerPoint, and Access).
+ Please note that we may use AI tools to help us through the recruitment process.
+ Our Commitment
+ We are an equal opportunity employer and are committed to providing employment accommodation in accordance with all applicable Provincial Human Rights and Accessibility Legislation. CCG will provide accommodations to job applicants with disabilities throughout the recruitment process. If you require an accommodation, please notify us and we will work with you to meet your needs.

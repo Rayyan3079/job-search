@@ -1,0 +1,46 @@
+URL: https://www.linkedin.com/jobs/view/4482219116
+TITLE: Werkstudent Prozessautomatisierung und KI für ConnectedRide (w/m/x)
+COMPANY: BMW Group
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-10-27
+title: Werkstudent Prozessautomatisierung und KI für ConnectedRide (w/m/x)
+company: BMW Group
+posted: 3 days ago
+applicants: 34 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-prozessautomatisierung-und-ki-f%25C3%25BCr-connectedride-w-m-x-at-bmw-group-4482219116&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+EIN GUTES PRAKTIKUM IST PRAKTISCH NIE THEORETISCH.
+ TEILE DEINE LEIDENSCHAFT.
+ Erfolg ist Teamarbeit. Nur wenn Expert:innen ihr Fachwissen und ihre Begeisterung teilen, entsteht ein Workflow, in dem Ideen fließen. Das nennen wir Innovationskultur. Deshalb geben wir Studierenden bei uns nicht nur die Gelegenheit zum Zuhören, sondern vor allem auch zum Mitreden und Weiterdenken.
+Unser Team bei BMW Motorrad ConnectedRide treibt die kontinuierliche Verbesserung der Prozesse rund um unsere ConnectedRide Produkte voran. Ein zentraler Hebel ist dabei die Agentisierung und Automatisierung von End-to-End-Prozessen mit modernen Tools und KI – wir entwickeln uns zunehmend in Richtung AI Native, mit konkreten AI-Native-Setups, Ingest-Flows und dem Betrieb lokaler LLMs. Im Rahmen deines Werkstudiums unterstützt du als aktive Schnittstelle zwischen Fachbereichen und IT und trägst zur engen Zusammenarbeit mit Product Ownern sowie Business- und Operations-Teams bei.
+ Was erwartet dich?
+ Du unterstützt bei der Analyse und Optimierung bestehender Prozesse im ConnectedRide-Umfeld.
+ Außerdem wirkst du mit bei der Konzeption und Umsetzung von Agentisierungslösungen (z. B. n8n oder Power Automate) sowie bei konkreten AI-Native-Setups und Ingest-Flows.
+ Darüber hinaus unterstützt du beim Aufsetzen und Betrieb lokaler LLMs im Linux-Umfeld (Self-Hosting).
+ Zudem trägst du zum AI-Native-Resetup von Workflows bei, zum Beispiel bei Genehmigungsprozessen, Reporting und Datenflüssen.
+ Außerdem wirkst du mit bei der Schnittstellenarbeit zwischen Business Development, Operations und Product Ownern.
+ Ergänzend hilfst du bei der Identifikation von Effizienzpotenzialen durch den Einsatz von KI und Automatisierung.
+ Zudem unterstützt du bei der Strukturierung und Dokumentation von Prozessen.
+ Was bringst du mit?
+ Studium der (Wirtschafts-)Informatik, BWL mit IT-Bezug oder vergleichbar.
+ Interesse an Digitalisierung, Prozessmanagement und Automatisierung, insbesondere an AI-Native-Ansätzen und Agentisierung statt klassischer Digitalisierung.
+ Erste Erfahrungen mit Tools wie n8n oder Power Automate sowie mit AI-Native-Setups, Ingest-Flows oder lokalen LLMs im Linux-Umfeld von Vorteil.
+ Strukturierte und analytische Vorgehensweise.
+ Verständnis für organisatorische Abläufe und Schnittstellenarbeit.
+ Teamfähigkeit, Eigeninitiative und Anwesenheit vor Ort in München.
+ Sehr gute Deutsch- und Englischkenntnisse.
+ Du bringst Begeisterung für neue Technologien und ein innovatives Umfeld mit? Dann bewirb dich jetzt!
+ Was bieten wir dir?
+ Umfassendes Mentoring & Onboarding.
+ Persönliche & fachliche Weiterentwicklung.
+ Flexible Arbeitszeiten.
+ Mobilarbeit.
+ Attraktive & faire Vergütung.
+ Apartments für Studierende (nach Verfügbarkeit & nur am Standort München).
+ Und vieles mehr siehe bmw.jobs/waswirbieten.
+ Startdatum: ab frühestens 01.12.2026
+ Dauer: 12 Monate
+ Arbeitszeit: Teilzeit
+Hilfreiche Tipps zu deiner Bewerbung und dem Bewerbungsprozess findest du hier.
+Wir bei der BMW Group legen großen Wert auf Gleichbehandlung und Chancengleichheit. Unsere Recruiting-Entscheidungen basieren auf der Persönlichkeit, den Erfahrungen und Fähigkeiten der Bewerber:innen. Mehr dazu hier.
+Werkstudent Prozessautomatisierung und KI für ConnectedRide (w/m/x)

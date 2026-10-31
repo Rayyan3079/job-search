@@ -1,0 +1,42 @@
+URL: https://www.linkedin.com/jobs/view/4459783276
+TITLE: Master’s Internship Research & Development – Sports Medicine Software Engineering – 6 Months | Start April 2027
+COMPANY: Stryker
+LOC: Freiburg, Baden-Württemberg, Germany
+POSTED: 2026-10-30
+title: Master’s Internship Research & Development – Sports Medicine Software Engineering – 6 Months | Start April 2027
+company: Stryker
+posted: 20 hours ago
+applicants: 187 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fmaster%25E2%2580%2599s-internship-research-development-%25E2%2580%2593-sports-medicine-software-engineering-%25E2%2580%2593-6-months-start-april-2027-at-stryker-4459783276&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Your Mission
+ Join Stryker’s Sports Medicine Research & Development team in Freiburg and contribute to innovative patient-specific solutions that support clinical decision-making in minimally invasive joint surgery. During your internship, you will work with medical image data, advance AI/ML-based technologies, and help shape future medical device solutions.
+ What You'll Do
+ Support the advancement of image-based technologies for Sports Medicine applications, by applying computer vision and machine learning techniques to medical image data. 
+ Investigate, develop, and evaluate innovative AI/ML analysis methods. 
+ Contribute to data preparation, annotation, and labelling activities. 
+ Develop scripts and tools to automate analyses and enable efficient data processing workflows. 
+ Collaborate with an international R&D team on research and product development initiatives. 
+ What You'll Bring
+ Academic Pursuit: You are currently pursuing a master’s degree in computer science, software engineering or similar study and are actively seeking an internship for a 6-month duration. Ideally, you have previous experience with medical imaging and real-world AI/ML model development. 
+ Technical Drive: You are passionate about improving your technical expertise, especially in areas like AI/ML, software development, and medical imaging. 
+ Software Savvy: Ideally, you are proficient in Python development and have initial experience with deep learning and frameworks such as Tensorflow or PyTorch and/or computer vision libraries (e.g. OpenCV), enabling you to work independently. 
+ Effective Communication: Your strong spoken and written English skills (minimum B2) empower you to confidently engage in our international environment and successfully document your work in scientific English. 
+ What's In It For You
+ Paid six-month internship (voluntary internship alongside studies, mandatory internship, or a combination of both possible) 
+ Start date: April 2027 
+ Location: Freiburg (Breisgau, Germany) 
+ Flexible working hours and attractive holiday allowance 
+ Mentoring and training to support your growth 
+ Hands-on projects with real-world impact in an international environment 
+ Application Process
+ Please upload all application documents (short cover letter, CV/resume, and transcript of records) either as one combined file or as separate files in the Resume/CV section of the application form. Additional document uploads after this step are not possible.
+Our selection process is simple and transparent:
+ Application Review
+ Short Phone Interview with our University Talent Acquisition Team
+ One-Hour Video Interview with the Hiring Team
+ We value diversity and are committed to creating an inclusive workplace. We welcome applications from all qualified individuals, regardless of ethnic, national, or social background, gender, disability, age, or sexual identity.
+ Germany Pay Range:
+ Freiburg 39Std: €2.476,89 EUR Monthly
+ If you’d like to learn more about the compensation associated with this opportunity, your recruiter will be happy to walk you through the details as you progress through the hiring process.
+Stryker is a global leader in medical technologies and, together with its customers, is driven to make healthcare better. The company offers innovative products and services in MedSurg, Neurotechnology, Orthopaedics and Spine that help improve patient and healthcare outcomes. Alongside its customers around the world, Stryker impacts more than 150 million patients annually.

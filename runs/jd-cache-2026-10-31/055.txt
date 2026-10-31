@@ -1,0 +1,48 @@
+URL: https://www.linkedin.com/jobs/view/4484854859
+TITLE: Working Student (f/m/d) - SAP Cloud ALM Operations Team
+COMPANY: SAP
+LOC: Sankt Leon-Rot, Baden-Württemberg, Germany
+POSTED: 2026-10-30
+title: Working Student (f/m/d) - SAP Cloud ALM Operations Team
+company: SAP
+posted: 12 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-f-m-d-sap-cloud-alm-operations-team-at-sap-4484854859&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+We help the world run better
+ At SAP, we keep it simple: you bring your best to us, and we'll bring out the best in you. We're builders touching over 20 industries and 80% of global commerce, and we need your unique talents to help shape what's next. The work is challenging – but it matters. You'll find a place where you can be yourself, prioritize your wellbeing, and truly belong. What's in it for you? Constant learning, skill growth, great benefits, and a team that wants you to grow and succeed.
+ What You'll Build
+ How can we use AI and data analytics to make cloud operations smarter and more efficient? Join our SAP Cloud ALM Operations team to explore practical use cases, uncover valuable insights from operational data, and experiment with AI tools like Claude.
+You'll start by investigating how Real User Monitoring (RUM) data can help us better understand user behavior in cloud applications. Building on these findings, you'll explore how similar approaches can be applied to other operations scenarios, including AI-powered capabilities and integrations with SAP Joule.
+ Your Tasks Will Include
+ Instrument a sample cloud application with semantic descriptions of user action. 
+ Analyze Real User Monitoring data and compare it with actual application usage to identify gaps and evaluate how well the data reflects the user experience. 
+ Use Claude to generate business-relevant insights on application usage and user behavior such as task completion rates, time on task, task deviations, and most used features. 
+ Apply and extend your findings to additional AI-assisted analytics and operations use cases. 
+ Document your experiments, share insights with the team, and communicate your findings through technical blog posts.
+ What You Bring
+ Student (f/m/d) at a university or university of applied sciences, preferably in Computer Science, Information Systems, Data Science, or a related field.
+ Strong interest in AI and hands-on experience with tools like Claude, or similar technologies.
+ Curiosity about data analytics, cloud applications.
+ Basic technical understanding of web applications and APIs is beneficial; extensive programming experience is not required.
+ An analytical and structured mindset, combined with creativity and a willingness to experiment with new approaches.
+ Good English communication skills and an interest in presenting technical findings in a clear and understandable way.
+ A self-organized, collaborative working style.
+ At least 2 semesters of studies till graduation left
+ Where you belong
+ SAP Cloud ALM is SAP's cloud-native application lifecycle management solution. Our Operations team builds monitoring and observability capabilities that give customers deep visibility into how their applications and business processes perform and how they are used. We help several thousand SAP customers run their landscapes stably, efficiently, and with confidence.
+You'll join our Operations Product Management team, where we develop monitoring and observability capabilities and explore how AI can make cloud operations more intelligent and accessible.
+Working closely with product managers, developers, and UX experts, you'll have the opportunity to experiment with emerging technologies, contribute your own ideas, and help shape the next generation of intelligent operations capabilities.
+ Your set of application documents should contain a cover letter, a resume in table form, school leaving certificates, certificate of enrollment, current university transcript of records, copies of any academic degrees already earned, and if available, references from former employers (including internships). Please also describe your experience and skills in foreign languages and computer programs / programming languages.
+ This is a SAP global, strategic, paid working student position that provides students with opportunities to find purpose in their careers.
+ #Workingstudent #Werkstudent #Germany #Deutschland #Student #SAPGermanStudentsCareers #SAPNextGen
+ Bring out your best
+ SAP innovations help more than four hundred thousand customers worldwide work together more efficiently and use business insight more effectively. Originally known for leadership in enterprise resource planning (ERP) software, SAP has evolved to become a market leader in end-to-end business application software and related services for database, analytics, intelligent technologies, and experience management. As a cloud company with two hundred million users and more than one hundred thousand employees worldwide, we are purpose-driven and future-focused, with a highly collaborative team ethic and commitment to personal development. Whether connecting global industries, people, or platforms, we help ensure every challenge gets the solution it deserves. At SAP, you can bring out your best.
+ We win with inclusion
+ SAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.
+SAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team: Careers@sap.com.
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+ AI Usage in the Recruitment Process
+ For information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.
+Please note that any violation of these guidelines may result in disqualification from the hiring process.
+Requisition ID: 458242 | Work Area: Solution and Product Management | Expected Travel: 0 - 10% | Career Status: Student | Employment Type: Limited Part Time | Additional Locations:

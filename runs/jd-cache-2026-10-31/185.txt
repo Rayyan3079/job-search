@@ -1,0 +1,50 @@
+URL: https://www.linkedin.com/jobs/view/4466567825
+TITLE: Working Student (f/m/d) - Policy-as-Code Consultant in Hyperspace
+COMPANY: SAP
+LOC: Walldorf, Baden-Württemberg, Germany
+POSTED: 2026-10-29
+title: Working Student (f/m/d) - Policy-as-Code Consultant in Hyperspace
+company: SAP
+posted: 1 day ago
+applicants: 46 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-f-m-d-policy-as-code-consultant-in-hyperspace-at-sap-4466567825&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+We help the world run better
+ At SAP, we keep it simple: you bring your best to us, and we'll bring out the best in you. We're builders touching over 20 industries and 80% of global commerce, and we need your unique talents to help shape what's next. The work is challenging – but it matters. You'll find a place where you can be yourself, prioritize your wellbeing, and truly belong. What's in it for you? Constant learning, skill growth, great benefits, and a team that wants you to grow and succeed.
+ What you`ll do 
+ You'll empower Product Standard Owners and development teams to build secure, compliant software at scale—bridging technical depth with strategic impact. From designing evidence, schemas and enhancing policy workflows to providing CI/CD integration guidance, you'll shape how thousands of SAP developers experience compliance.
+This role offers the unique opportunity to influence both the technical architecture of our Policy as Code platform and the organizational processes that drive adoption across SAP. If you're energized by building tools that scale and making compliance seamless—this is your role.
+ The Role
+ Support Product Standard Owners in creating, adopting, and maintaining central policies that enforce corporate requirements
+ Design and document evidence schemas and policy evaluation workflows
+ Create measurements for evidence that can be generated and uploaded from SAP’s CI/CD pipeline library Piper or other workflows
+ Evaluate evidence using the Open Policy Agent and Rego
+ Provide guidance on policy execution in CI/CD pipelines and evidence collection automation
+ Bridge technical policy implementation with business requirements through documentation, training, and direct collaboration
+ Promote Policy as Code to increase adoption and effectiveness across the organization
+ What You Bring
+ Rego & OPA - Familiarity is a plus; we'll support your growth in policy-as-code
+ Go - Beginner level is fine
+ JSON & JSON Schema - Good understanding required
+ Communication skills - Clear and collaborative, fluent in written and verbal English, German language is a big plus 
+ Proactive & self-organized - Takes ownership and works independently
+ Git & GitHub - Comfortable with version control workflows
+ CI/CD fundamentals - Familiarity with GitHub Actions, Jenkins, or similar tools
+ Working from Walldorf office 2 times per week is required, if you are not living in commuting distance your application can not be considered
+ We would like to offer the candidate a long term cooperation therefore at least 2 semester of studies until graduation left are required
+ Where you belong 
+ The Cumulus team builds and operates Cumulus, SAP's internal compliance data store for CI/CD pipelines. The platform enables teams across SAP to verify that their software deliveries meet corporate requirements before going live. Cumulus processes audit-relevant artifacts—test results, scan reports, SBOMs—and offers OPA-based policy evaluations to aggregate compliance status. The team works closely with Product Standard Owners, Security Experts, and development teams across SAP.
+Cumulus is part of Hyperspace – SAPs internal development platform that provisions pipelines, manages credentials, orchestrates compliance workflows and much more.
+ Your set of application documents should contain a cover letter, a resume in table form, school leaving certificates, certificate of enrollment, current university transcript of records, copies of any academic degrees already earned, and if available, references from former employers (including internships). Please also describe your experience and skills in foreign languages and computer programs / programming languages.
+ This is a SAP global, strategic, paid working student position that provides students with opportunities to find purpose in their careers.
+ #Workingstudent #Werkstudent #Germany #Deutschland #Student #SAPGermanStudentsCareers #SAPNextGen 
+ Bring out your best
+ SAP innovations help more than four hundred thousand customers worldwide work together more efficiently and use business insight more effectively. Originally known for leadership in enterprise resource planning (ERP) software, SAP has evolved to become a market leader in end-to-end business application software and related services for database, analytics, intelligent technologies, and experience management. As a cloud company with two hundred million users and more than one hundred thousand employees worldwide, we are purpose-driven and future-focused, with a highly collaborative team ethic and commitment to personal development. Whether connecting global industries, people, or platforms, we help ensure every challenge gets the solution it deserves. At SAP, you can bring out your best.
+ We win with inclusion
+ SAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.
+SAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team: Careers@sap.com.
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+ AI Usage in the Recruitment Process
+ For information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.
+Please note that any violation of these guidelines may result in disqualification from the hiring process.
+Requisition ID: 455483 | Work Area: Administration | Expected Travel: 0 - 10% | Career Status: Student | Employment Type: Limited Full Time | Additional Locations:

@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4483059182
+TITLE: Werkstudent:in KI-Spezialist:in (m/w/d), Teilzeit
+COMPANY: Interaktiv GmbH
+LOC: Kerpen, North Rhine-Westphalia, Germany
+POSTED: 2026-10-29
+title: Werkstudent:in KI-Spezialist:in (m/w/d), Teilzeit
+company: Interaktiv GmbH
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+Gestalte mit uns die digitale Zukunft! Wir sind eine Digitalagentur, die KI nicht nur als Buzzword nutzt, sondern als Kernbestandteil moderner Softwarelösungen versteht. Unser Fokus: die Entwicklung intelligenter LLM-Anwendungen für echte Anwendungsfälle – von Chatbots über Agenten-Systeme bis hin zu komplexen RAG-Architekturen.
+ Du studierst, brennst für Künstliche Intelligenz und willst nicht nur darüber lesen, sondern damit arbeiten? Dann bist Du bei uns richtig.
+ Aufgaben 
+ Deine Mission 
+ Du arbeitest aktiv an der Entwicklung und dem Prototyping von KI-Anwendungen auf Basis aktueller Large Language Models mit.
+ Du testest und vergleichst LLM-APIs (z. B. OpenRouter, Groq, Google Vertex AI) und hilfst uns, die besten Lösungen für unsere Projekte zu finden.
+ Du unterstützt bei der Implementierung von RAG-Systemen und experimentierst mit lokalen Open-Source-Modellen (z. B. Mistral, Llama).
+ Du bringst KI-Wissen ins Team: durch Kurzpräsentationen, Demos oder interne Workshops zu neuen Tools und Entwicklungen.
+ Du arbeitest eng mit unserem Marketing- und Entwicklungsteam zusammen und bringst eigene Ideen in die Produktentwicklung ein.
+ Qualifikation 
+ Das bringst Du mit 
+ Was wir erwarten:
+ Laufendes Studium im Bereich Informatik, Data Science, KI oder einem verwandten Fachgebiet
+ Grundlegende Programmierkenntnisse, idealerweise in Python
+ Echte Begeisterung für Generative AI und die Bereitschaft, Dich schnell in neue Technologien einzuarbeiten
+ Selbstständige, strukturierte Arbeitsweise und Spaß an Teamarbeit
+ Gute Kommunikationsfähigkeiten – Du kannst technische Themen auch für Nicht-Techniker verständlich machen
+ Was ein Plus wäre (kein Muss):
+ Erste Erfahrungen mit LLM-Frameworks wie LangChain oder LangGraph
+ Verständnis für Konzepte wie Prompt Engineering, Function Calling oder Structured Output
+ Erfahrung mit No-Code-/Low-Code-Plattformen im KI-Bereich
+ Kenntnisse in Webtechnologien (HTML, CSS, JavaScript)
+ Benefits 
+ Das bieten wir 
+ Lernen am echten Projekt: Kein Kaffeekochen – Du arbeitest direkt an KI-Lösungen, die bei uns und unseren Kunden im Einsatz sind.
+ Zugang zu aktuellem Tech-Stack: Die neuesten Modelle, APIs und Frameworks stehen Dir zur Verfügung.
+ Flexible Arbeitszeiten: 15–20 Wochenstunden, abgestimmt auf Dein Studium und Deine Prüfungsphasen.
+ Kreatives Umfeld: Ein interdisziplinäres Team, das Ideen schätzt – egal ob von Senior-Entwicklern oder Werkstudierenden.
+ Perspektive: Die Möglichkeit zur Übernahme in ein Vollzeit-Arbeitsverhältnis nach Deinem Studium.Vor-Ort-Kultur: Wir arbeiten gemeinsam in unserem Büro in Kerpen, weil der direkte Austausch für uns den Unterschied macht. Flexibilität bei besonderen Anlässen ist selbstverständlich.
+ Klingt nach Dir? 
+ Dann sende Deinen Lebenslauf und ein kurzes Anschreiben. Kein perfekter Lebenslauf nötig – uns interessiert vor allem, was Dich an KI begeistert.
+ Wir freuen uns darauf, Dich kennenzulernen!

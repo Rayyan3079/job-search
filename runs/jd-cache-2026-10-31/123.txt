@@ -1,0 +1,46 @@
+URL: https://www.linkedin.com/jobs/view/4483046396
+TITLE: Werkstudent:in IT-Support & IT-Infrastruktur (m/w/d)
+COMPANY: AB IN DIE CLOUD GmbH
+LOC: Hamburg, Germany
+POSTED: 2026-10-29
+title: Werkstudent:in IT-Support & IT-Infrastruktur (m/w/d)
+company: AB IN DIE CLOUD GmbH
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+Du willst IT nicht nur studieren, sondern anfassen? 
+ Bei uns arbeitest du ab dem ersten Monat an echten Kundennetzen, echten Postfächern und echten Störungen. Kein Schulungssystem, keine Simulation.
+ Die AB IN DIE CLOUD GmbH ist IT-Dienstleister in der Hamburger Innenstadt. Wir betreuen mittelständische Unternehmen mit 20 bis 200 Mitarbeitenden in Deutschland und Italien: Microsoft 365 und Azure, Netzwerke als zertifizierter Cisco- und Meraki-Partner, IT-Sicherheit sowie ISO 27001 und NIS2.
+ Wir sind ein kleines Team. Das heißt für dich: kein Ticket-Fließband, kurze Wege, direkter Draht zur Geschäftsführung. Unsere Werkstudierenden führen eigene Projekte – nicht irgendwann, sondern nach der Einarbeitung.
+ Das machst du bei uns 
+ Arbeitsplätze aufsetzen: Notebooks, Drucker und Peripherie installieren, konfigurieren und beim Kunden in Betrieb nehmen
+ Anwender unterstützen: Störungen annehmen, eingrenzen und lösen – remote aus dem Büro und vor Ort bei unseren Kunden in und um Hamburg
+ Microsoft 365 administrieren: Benutzer, Gruppen, Lizenzen und Postfächer anlegen und pflegen, Geräte über Intune ausrollen
+ Netzwerke mit aufbauen: Switches und Access Points montieren, konfigurieren und dokumentieren, WLAN ausmessen
+ Sicherheit im Blick behalten: Meldungen aus Monitoring und Virenschutz vorqualifizieren und eskalieren, Updates nachhalten
+ Sauber dokumentieren: Netzpläne, Anleitungen und Nachweise für unsere Kundenprojekte und unser Qualitätsmanagement
+ Eigenes Projekt übernehmen: Sobald du sicher bist, bekommst du einen Themenbereich, der dir gehört
+ Das bekommst du dafür 
+ Verantwortung statt Zuschauen: Du arbeitest direkt mit unseren Technikern und der Geschäftsführung zusammen und sprichst selbst mit Kunden
+ Wissen, das im Lebenslauf zählt: Microsoft 365, Entra ID, Intune, Cisco-Netzwerke sowie Einblick in ISO 27001 und NIS2 – Themen, die viele erst nach dem Studium sehen
+ Planbar neben dem Studium: 10–20 Stunden pro Woche, flexibel gelegt, in der Klausurenphase fahren wir runter
+ Hybrid: Büro, Kundeneinsatz und Homeoffice im Wechsel – Vor-Ort-Termine stimmen wir frühzeitig ab
+ Lage: Büro in der Hamburger Innenstadt, Große Bleichen 21, mit dem HVV in Minuten erreichbar
+ Vergütung: 16€ pro Stunde
+ Perspektive: Wir bilden Werkstudierende aus, um sie nach dem Abschluss zu übernehmen – nicht, um Lücken zu stopfen
+ Das bringst du mit 
+ Du bist eingeschrieben – Informatik, Wirtschaftsinformatik, IT-Sicherheit oder ein anderes Fach mit echter IT-Begeisterung
+ Windows und Microsoft Office gehen dir leicht von der Hand, Netzwerkgrundlagen wie IP, DNS und WLAN sagen dir etwas
+ Du arbeitest selbständig, hältst Termine und schreibst auf, was du getan hast
+ Du bleibst freundlich und verständlich, auch wenn beim Kunden gerade nichts funktioniert
+ Deutsch sehr gut, Englisch solide. Italienisch ist bei uns ein echter Pluspunkt
+ Du gehst mit Kundendaten vertraulich um – Diskretion ist bei uns Teil des Produkts
+ Führerschein Klasse B [ist von Vorteil]
+ Du musst noch nicht alles können. Lernbereitschaft und Zuverlässigkeit wiegen bei uns schwerer als eine lange Liste.
+ So bewirbst du dich 
+ Ein Anschreiben brauchen wir nicht. Schick uns deinen Lebenslauf und drei Sätze dazu, was dich an IT reizt und ab wann du kannst. 
+ An: bewerbung@abindiecloud.com ·
+ Betreff: Werkstudent:in IT
+ So geht es weiter: Wir melden uns innerhalb von [drei] Werktagen. Danach ein kurzes Videogespräch, dann lernst du das Team im Büro kennen. Fragen vorab beantworten wir gern unter 040 82 21 27 740.
+ AB IN DIE CLOUD GmbH · Große Bleichen 21 · 20355 Hamburg

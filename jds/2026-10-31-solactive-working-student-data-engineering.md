@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4484130014
+Company: Solactive AG
+Title: Working Student Data Engineering
+Found: 2026-10-31
+Posted: 2026-10-28
+
+URL: https://www.linkedin.com/jobs/view/4484130014
+TITLE: Working Student Data Engineering
+COMPANY: Solactive
+LOC: Dresden, Saxony, Germany
+POSTED: 2026-10-28
+title: Working Student Data Engineering
+company: Solactive
+posted: 2 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-data-engineering-at-solactive-4484130014&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Company Description
+ Since its creation in 2007 in the financial city of Frankfurt am Main, Solactive AG has grown to one of the key players in the indexing space. The German multi-asset index provider focusses on tailor-made indices, offering to its clients a faster service, with greater flexibility and at a reasonable cost. Solactive AG and its subsidiaries have become one of the fastest growing index providers over the past few years and support the leading investment banks and asset managers across the globe. We have gained global recognition for our role in the Exchange Traded Fund (ETF) industry, where we rank among the top providers worldwide for underlying indices. We also excel in diverse areas such as Structured Products and investment mandates, showcasing the wide range of our capabilities. The impact and value we bring to the market is palpable, but also in the reputation we have proudly built by being close to our customers, solidifying Solactive AG as a trusted and reliable ally in the ever-evolving global financial landscape.
+ Job Overview
+ Are you passionate about clean code and modern infrastructure? Then you will very likely fit into our team! In this role, you will help modernize our Python applications and migrate them to Kubernetes using ArgoCD and Argo Workflows. You will work closely with experienced engineers, improve code quality through performance analysis, small features and refactorings, and support our documentation in Confluence, all in an international, fast-growing FinTech environment.
+Your Tasks
+ Modernize legacy applications, mainly in Python, by applying best practices
+ Migrate legacy applications to K8s using ArgoCD/Argo Workflows
+ Help with documentation and Confluence work
+ Contribute to Python applications, e.g. by analysing performance, contributing small features and improving the code quality through refactorings
+ Your Profile
+ Enrolled student in the field of Computer Science, or adequate
+ Experienced with Python, Git and Docker
+ Prior experience with Linux and Shell Scripting
+ Skilled on data exploration using SQL and/or Python
+ Innovative mindset and hands-on approach
+ Self-confidence and team-spirit
+ Good communication skills
+ Our Offer
+ Be part of the Solactive family an international FinTech environment with flat hierarchies, real ownership, and strong growth opportunities.
+ Enjoy attractive benefits, including team events, access to Corporate Benefits, a modern ergonomic office, and free beverages and fruit
+ Work on a real, high-impact production platform and contribute to architectural improvements not just feature tickets.
+ Build practical backend engineering skills that directly support your long-term career development
+ Your Application
+This role sounds like you? Then we look forward to receiving your application. Please make sure to also upload your CV, a cover letter is not compulsory. If you have any futher questions just drop us an email! Sonia Urusaro - careers@solactive.com
+ About Us
+ Solactive AG is a FinTech company operating globally and growing at a fast pace, headquartered in Frankfurt. Since 2007, we develop tailor-made and multi-asset class index solutions for ETFs and other index-linked investment products for the leading global investment banks and asset managers as our clients. Flexibility, efficiency and providing the highest quality are at the heart and soul of our business philosophy. We are now hiring!

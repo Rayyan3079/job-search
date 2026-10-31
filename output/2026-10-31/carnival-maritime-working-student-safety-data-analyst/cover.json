@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Working Student Safety Data Analyst",
+    "company": "Carnival Maritime GmbH",
+    "city": "Hamburg",
+    "greeting": "Dear Carnival Maritime hiring team,",
+    "opening": "I am applying for the Working Student position as Safety Data Analyst. Turning operational data into clear reports for decision-makers is what I did in my previous roles, and safety data is a field where getting the numbers right really matters.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence. I worked as a Business Analyst at Tapal Tea and in SAP data and analytics at TallyMarks Consulting.",
+    "achievements": [
+      {
+        "lead": "Data analysis",
+        "impact": "I built quality inspection and expense dashboards in SAP Analytics Cloud and supported around 30 dashboards across HR, finance and supply chain"
+      },
+      {
+        "lead": "Accuracy",
+        "impact": "I used SQL analysis, validation and reconciliation to make sure reported numbers were correct"
+      },
+      {
+        "lead": "Coordination",
+        "impact": "I collected requirements from business users and documented sources, calculations and results for every dashboard I built"
+      }
+    ],
+    "problems_section": "I would analyse safety data, build clear reports, support project coordination and use Microsoft 365 confidently. My Power BI is basic, but I have built many dashboards in SAP Analytics Cloud and expect to get up to speed quickly.",
+    "closing": "I am willing to relocate to Hamburg and can work up to 20 hours per week, starting immediately. I would be glad to discuss the role.",
+    "date": "2026-10-31",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-10-31/carnival-maritime-working-student-safety-data-analyst/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

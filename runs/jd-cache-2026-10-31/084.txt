@@ -1,0 +1,50 @@
+URL: https://www.linkedin.com/jobs/view/4484936439
+TITLE: Data Engineer with Microsoft Azure (f/m/x)
+COMPANY: Sii Poland
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-29
+title: Data Engineer with Microsoft Azure (f/m/x)
+company: Sii Poland
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fpl.linkedin.com%2Fjobs%2Fview%2Fdata-engineer-with-microsoft-azure-f-m-x-at-sii-poland-4484936439&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Join the Data & Analytics Competency Center and create solutions that help organizations effectively leverage the potential of data. You will work on projects based on Microsoft Azure technologies, utilizing Azure Databricks, Data Factory, Synapse, and Fabric, among others. This is also a space for knowledge exchange and expanding competencies in the areas of Data Science, Big Data, and Machine Learning.
+ Your tasks 
+ Designing, building, and developing scalable and high-performance data processing platforms in Data Lake / Data Platform architecture
+ Creating and maintaining ETL/ELT pipelines for data integration from various sources and processing them in the Azure Databricks environment
+ Data modeling and preparing data structures tailored to analytical and business needs
+ Implementing solutions for data processing (batch and/or near real-time)
+ Monitoring, optimizing, and developing existing pipelines and data processing processes
+ Collaborating with data analysts, BI teams, and Data Science on data preparation and sharing
+ Gathering business requirements and proposing optimal technological solutions
+ Creating and maintaining technical documentation for developed solutions
+ Supporting and mentoring less experienced team members, sharing knowledge and best practices
+ Requirements
+ Minimum 4 years of experience in projects related to processing and integrating large volumes of data
+ Strong knowledge of SQL and Python
+ Experience working with data processing frameworks such as Apache Spark / PySpark
+ Practical experience in designing and building Data Lake and Data Warehouse solutions
+ Ability to build and maintain ETL/ELT pipelines and work with data orchestration and integration tools
+ Commercial experience in cloud-based Microsoft Azure data processing projects (e.g., Databricks, Azure Data Factory, Synapse, Fabric)
+ Knowledge of data processing concepts in a distributed environment and optimization of data pipelines
+ Ability to communicate fluently in English
+ Fluent knowledge of Polish is required
+ Required to be located in Poland
+ Nice to have 
+ Experience in projects related to data migration from on-premise to cloud (databases: Oracle, PostgreSQL, MS SQL)
+ Job no. JOB-2LAAV
+Sii ensures that all hiring decisions are made solely on the basis of qualifications and competence. We are committed to equal and fair treatment of all, regardless of legally protected characteristics. At Sii, we promote a diverse and inclusive work environment, in full compliance with applicable anti-discrimination laws.
+ Benefits For You
+ Great Place to Work
+ Solid financial situation
+ Contracts with the biggest brands
+ Centre of internal trainings
+ Many experts you can learn from
+ Open and accessible management team
+ Profit sharing
+ Passion Sponsorship program
+ Regular integration events and trips
+ Comfortable and well-equipped offices
+ MySii app
+ Medical care

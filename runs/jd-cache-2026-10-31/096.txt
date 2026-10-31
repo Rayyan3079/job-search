@@ -1,0 +1,39 @@
+URL: https://www.linkedin.com/jobs/view/4485363801
+TITLE: BI-utvecklare med fokus på Power BI
+COMPANY: Sopra Steria
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-30
+title: BI-utvecklare med fokus på Power BI
+company: Sopra Steria
+posted: 7 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fse.linkedin.com%2Fjobs%2Fview%2Fbi-utvecklare-med-fokus-p%25C3%25A5-power-bi-at-sopra-steria-4485363801&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Jobbeskrivning
+ Sopra Steria fortsätter att växa inom Data & Analytics och nu söker vi fler kollegor till vårt Analytics-team i Stockholm. Vi söker dig som brinner för Business Intelligence och Power BI och vill vara med och skapa lösningar som hjälper våra kunder att fatta bättre beslut med hjälp av data.
+Hos oss får du arbeta i varierande kunduppdrag där du kombinerar teknik, analys och verksamhetsförståelse. Du får möjlighet att fördjupa din kompetens inom Power BI och samtidigt utvecklas vidare inom Microsoft Fabric, Azure och moderna data- och analysplattformar.
+ Om rollen 
+ Som BI-utvecklare hos oss arbetar du med att omvandla data till insikter och skapa lösningar som gör verklig skillnad för våra kunder. Det kan handla om allt från datamodellering och datatransformation till utveckling av rapporter, dashboards och visualiseringar i Power BI.
+Du arbetar nära både kundernas verksamhet och tekniska team. Beroende på uppdrag kan du vara involverad i hela processen – från att förstå behov och krav till att utveckla och vidareutveckla BI-lösningar.
+Vi söker dig som gillar att vara hands-on i Power BI och har förståelse för vad som krävs bakom en bra rapport, exempelvis genomtänkt datamodellering, effektiva transformationer och god prestanda.
+I våra uppdrag arbetar vi bland annat med Power BI, Power Query, SQL, Microsoft Fabric och Azure. Erfarenhet av Fabric och Azure är meriterande, men vi är också intresserade av dig som vill bredda din kompetens inom Microsofts data- och analysplattform.
+ Om dig 
+ Vi tror att du har minst 3-4 års erfarenhet inom Business Intelligence och trivs med kombinationen av data, teknik och verksamhet. Du är trygg i Power BI och tycker om att utveckla lösningar som inte bara fungerar tekniskt, utan också skapar värde för användarna.
+Som konsult är du nyfiken på kundernas verksamheter och tycker om att samarbeta för att hitta bra lösningar på deras utmaningar. Du är prestigelös, delar gärna med dig av din kunskap och vill fortsätta utvecklas tillsammans med andra.
+ Vi tror att du har 
+ Minst tre års erfarenhet inom Business Intelligence eller BI-utveckling. 
+ God praktisk erfarenhet av Power BI. 
+ Förståelse för kedjan från datahantering och transformation till rapportering och visualisering. 
+ Förmåga att förstå verksamhetsbehov och omsätta dem till tekniska lösningar. 
+ Goda kunskaper i svenska och engelska, både i tal och skrift. 
+ Det är extra intressant om du har erfarenhet av: 
+ Microsoft Fabric och Azure
+ Power BI Service
+ Data Warehouse- och Lakehouse-lösningar
+ Kunddialog, kravställning och workshops 
+ Konsultrollen eller andra kundnära roller 
+ Att jobba på Sopra Steria 
+ Hos oss blir du en del av ett kompetent och engagerat team där vi gärna delar erfarenheter och lär av varandra. Du får arbeta med spännande kunder och uppdrag, samtidigt som du får goda möjligheter att utvecklas genom utbildningar, certifieringar och erfarenhetsutbyte med kollegor.
+Vi erbjuder en flexibel arbetsvardag, bra förmåner och en arbetsmiljö där vi värdesätter både samarbete och individuell utveckling.
+Läs mer om hur det är att jobba hos oss.
+Vill du utveckla smartare sätt att använda data och skapa BI-lösningar som gör skillnad? Då ser vi fram emot att höra från dig!

@@ -1,0 +1,39 @@
+URL: https://www.linkedin.com/jobs/view/4484057549
+TITLE: Praktikum Audit Analytics (m/w/d)
+COMPANY: REWE GROUP
+LOC: Cologne, North Rhine-Westphalia, Germany
+POSTED: 2026-10-27
+title: Praktikum Audit Analytics (m/w/d)
+company: REWE GROUP
+posted: 3 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikum-audit-analytics-m-w-d-at-rewe-group-4484057549&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Ort: 50668 Köln | Vertragsart: Vollzeit, befristet | Start: ab 01.03.2027 | Job-ID: 985150
+ Was wir zusammen vorhaben: 
+ Wir als Corporate Audit unterstützen als Teil der Corporate Governance den Vorstand der REWE Group/REWE International AG in seiner Führungs- und Aufsichtsfunktion. Dabei tragen wir durch umfassende Reviews, Analysen und Maßnahmenvorschläge dazu bei, die Wettbewerbsfähigkeit sowie die Erreichung der Unternehmensziele sicherzustellen und damit den Unternehmenswert nachhaltig zu steigern.
+ Wir haben bei Corporate Audit Analytics ein Sachgebiet geschaffen, um insbesondere Prüfungsteams mit Datenanalysen zu unterstützen sowie die Digitalisierung von Corporate Audit voranzutreiben, z.B. durch Einsatz von KI-Modellen.
+ Wir möchten mit Deiner Hilfe Corporate Audit Analytics zu einem schlagkräftigen Team weiterentwickeln.
+ Was du bei uns bewegst: 
+ Du packst mit an: Mit deinem bisher erworbenen Fachwissen und Deinen Fähigkeiten unterstützt Du uns in Zusammenarbeit mit unserem Data Scientist bei der Konzeption und Entwicklung von KI-Agenten - von der Anbindung relevanter Datenquellen, der Umsetzung von Backend-Komponenten bis zur Gestaltung benutzerfreundlicher Oberflächen.
+ Du analysierst Daten: Bei der Analyse von Daten bist Du eine große Hilfe. Du bereitest Daten aus unterschiedlichen Quellen auf, untersuchst sie mit SQL, Python oder geeigneten BI-Werkzeugen und visualisierst die Ergebnisse. So hilfst Du uns dabei, aus Daten konkrete Erkenntnisse für unsere Prüfungsteams abzuleiten.
+ Du bist mittendrin: Du kannst interne Revisionsprüfungen begleiten und erhältst Einblicke in den Einsatz von Datenanalysen in einem unternehmerischen Umfeld.
+ Darüber hinaus kannst Du praktische Erfahrungen in der Anwendung von Business Intelligence-Tools, wie z.B. Power BI, und der Microsoft Power Plattform, wie z.B. Power Apps, Power Automate, Copilot Studio, sowie von weiteren Cloud-Technologien sammeln.
+ Was uns überzeugt: 
+ Zuallererst Deine Persönlichkeit: Du bist eine teamfähige und kommunikative Person. Du arbeitest dich gerne in neue Fragestellungen ein, löst Probleme mit Eigeninitiative und ziehst Motivation daraus, anderen bei ihrer Arbeit eine wichtige Unterstützung zu sein.
+ Du bringst erste Kenntnisse in der Datenanalyse (Datenmodellierung und Einsatz explorativer Methoden) mit und hast idealerweise bereits mit SQL, Python und BI-Tools gearbeitet.
+ Erste Erfahrungen mit KI-Agenten / Vektordatenbanken, APIs oder der Entwicklung von Benutzeroberflächen sind von Vorteil.
+ Du absolvierst oder hast bereits ein Bachelor- oder Masterstudium in Informatik, Wirtschaftsinformatik, Data Science, Statistik oder einen vergleichbaren Studiengang und stehst uns für einen Zeitraum von mindestens fünf Monaten als Praktikant:in zur Verfügung.
+ Abgerundet wird Dein Profil durch sehr gute Deutsch- und gute Englischkenntnisse.
+ Was wir bieten:
+ Die REWE Group, als einer der größten Handels- und Touristikkonzerne Europas, bietet einzigartige Voraussetzungen für alle, die etwas bewegen wollen. Entdecke einen lebensnahen Arbeitgeber, der dir Vertrauen schenkt, Gestaltungsfreiräume ermöglicht und durch flexible Strukturen Innovationen und frische Ideen fördert. Wer bei uns arbeitet und viel bewegt, darf auch viel erwarten:
+ Attraktive Vergütung sowie vergünstigtes Essen in der Kantine.
+ Flexible Arbeitszeit ohne Kernzeiten.
+ Ein umfassendes Gesundheits- und Sportangebot.
+ Vernetzt: Unternehmensweite Netzwerke der REWE Group, wie z. B. unser LGBTIQ-Netzwerk „DITO – different together“ und das Frauennetzwerk „f.ernetzt“ für den Austausch rund um Karriere und persönliche Weiterentwicklung.
+ Eine vollkommene Integration in die Teams und die jeweiligen Arbeitsabläufe, die Übernahme von verantwortungsvollen Aufgabenpaketen sowie das Lernen von und mit berufserfahrenen Kolleginnen und Kollegen.
+ Mögliche Kooperationen für Abschlussarbeiten (in Abhängigkeit vom Bedarf des jeweiligen Fachbereichs).
+ Karriereeinstieg: Aufnahme in das Bindungsprogramm „future steps“ mit exklusiven Events und Talentpool.
+ Weitere Informationen erhältst du unter jobs.rewe-group.com.
+ Du hast noch Fragen zu deiner Online-Bewerbung oder zu unserem Bewerbungsprozess? Dann schau auf unseren FAQ vorbei.
+ Wir betonen ausdrücklich, dass bei uns alle Menschen - unabhängig von Geschlecht/geschlechtlicher Identität, ethnischer Herkunft und Nationalität, sozialer Herkunft, Religion/Weltanschauung, körperlichen und geistigen Fähigkeiten, Alter sowie sexueller Orientierung oder weiteren individuellen Merkmalen - gleichermaßen willkommen sind.

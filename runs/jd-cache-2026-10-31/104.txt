@@ -1,0 +1,60 @@
+URL: https://www.linkedin.com/jobs/view/4457495060
+TITLE: Machine Learning Engineer Automated Driving (m/f/d)
+COMPANY: Mitsui Chemicals Group
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-30
+title: Machine Learning Engineer Automated Driving (m/f/d)
+company: Mitsui Chemicals Group
+posted: 18 hours ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fes.linkedin.com%2Fjobs%2Fview%2Fmachine-learning-engineer-automated-driving-m-f-d-at-mitsui-chemicals-group-4457495060&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+LOCATION
+Madrid
+ Company
+ ARRK Engineering Spain, Sucursal en España
+CONTRACT TYPE
+Full-time
+Form of Work
+Hybride
+ What To Expect
+ You will work with large‑scale sensor, vehicle, and fleet data to drive the development, validation, and optimization of automated driving functions. In this role, you will implement and advance innovative, data‑driven software solutions and directly contribute to shaping impactful projects. You will have the opportunity to grow your expertise while collaborating with a motivated, supportive, and highly skilled team.
+ Please send your documents in English.
+ YOUR TASKS
+ Develop and implement Machine Learning solutions for Automated Driving and Advanced Driver Assistance Systems (ADAS) 
+ Analyze and process multimodal sensor data from camera, radar, and LiDAR systems 
+ Develop, train, and optimize Deep Learning and Computer Vision models for perception, scene understanding, and prediction tasks 
+ Support the evaluation and integration of modern AI technologies, including Foundation Models, Vision-Language Models, Generative AI, and Edge AI 
+ Contribute to the development of sensor fusion, perception, and environment modeling solutions for automated driving functions 
+ Perform technology evaluations, benchmarking activities, and proof-of-concepts based on current scientific research and state-of-the-art methodologies 
+ Collaborate closely with software developers, systems engineers, and data scientists to integrate AI solutions into automotive applications 
+ Continuously optimize and validate algorithms with respect to performance, robustness, scalability, and real-time capability 
+ Improve algorithm performance, robustness, scalability, and real-time capabilities
+ Support innovation projects and help transfer emerging research concepts into practical customer solutions and industrial applications 
+ YOUR PROFILE
+ Successfully completed degree in Computer Science, Artificial Intelligence, Data Science, Robotics, Mathematics, Physics, or a comparable field 
+ Initial practical experience in Machine Learning, Deep Learning, Computer Vision, or AI through internships, research projects, theses, or working student positions 
+ Good knowledge of Python and ideally first experience with C++, Rust, or SQL 
+ Experience with modern AI frameworks and libraries such as PyTorch, Hugging Face, TensorFlow, OpenCV, NumPy, or Pandas 
+ Basic understanding of modern AI methods and architectures, including Computer Vision, Foundation Models, Vision Transformers, Vision-Language Models, Generative AI, or multimodal systems 
+ First experience in processing and analyzing camera, radar, or LiDAR data is a plus 
+ Familiarity with Linux, Git, Docker, cloud platforms, MLOps, Edge AI, or Embedded AI is a plus.
+ Passion for AI, Computer Vision, and Automated Driving technologie
+ Strong analytical mindset, proactive attitude, and willingness to learn 
+ German is a plus
+ Your Benefits
+ Exciting projects 
+ Flexible working hours 
+ Employee events 
+ Sports and wellness offers 
+ Pleasant working atmosphere 
+ Hybrid work 
+ Apply now
+CONTACT
+Iliana Morales Reyes
+career@arrk-engineering.com
+ 49 (0)89 / 31857-0
+ Privacy Policy
+ARRK Engineering is part of the international ARRK group of companies and specialized in product development. Within the ARRK group of companies we implement product developments from virtual development to prototypes and small series production.
+For reasons of simplification, only the masculine form is used in this job advertisement. However, persons of any gender and any orientation are always meant equally.
+Our job offer is equally directed at severely disabled persons and persons of equal status.

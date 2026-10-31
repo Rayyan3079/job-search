@@ -1,0 +1,62 @@
+URL: https://www.linkedin.com/jobs/view/4457606034
+TITLE: Working Student Software Engineer m/f/d
+COMPANY: ATOSS Software SE
+LOC: Hamburg, Hamburg, Germany
+POSTED: 2026-10-29
+title: Working Student Software Engineer m/f/d
+company: ATOSS Software SE
+posted: 1 day ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-software-engineer-m-f-d-at-atoss-software-se-4457606034&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+About ATOSS
+ ATOSS Software SE is one of Germany’s most successful tech growth stories. As the market leader in Workforce Management Software, we help companies work more intelligently, creatively, and humanely optimizing the balance between profitability and people.
+We’re a rare company: according to Handelsblatt (10/24), just 309 public companies worldwide achieved over 20% return on sales for ten consecutive years. Only two are based in Germany and ATOSS is one of them.
+With 19 years of record-breaking growth, over €2 billion market cap, and listings in SDAX and TecDAX, we’re scaling globally and we’re growing.
+If you’re ready to drive impact in a high-performing B2B SaaS environment, this is your chance to elevate your career.
+ Who You Are
+ At ATOSS, we hire for both character and skill , seeking individuals who embody resilience, a pioneering spirit, and the passion to grow.
+ We Value Those Who
+ Think like entrepreneurs – taking ownership, pushing boundaries, and driving impact.
+ Challenge the status quo – bringing fresh ideas and bold execution to the table.
+ Thrive in change – seeing growth as a lifelong journey, both professionally and personally.
+ The Role
+ As a Working Student in Software Engineering, you will join one of our Scrum teams and contribute to the development of our enterprise software products. Working students at ATOSS are treated as regular members of their teams. You will participate in team routines, work on relevant product topics, and contribute code that creates value for our customers. At the same time, your tasks and level of responsibility will be aligned with your experience, availability, and academic commitments.
+You will work alongside experienced software engineers and receive guidance while gradually taking on more independent tasks.
+ Why this role is exciting, impactful and challenging
+ This role goes beyond working on isolated student assignments. As a regular member of the team, you will contribute to a mature, mission-critical enterprise system with complex business logic, long-lived codebases, and high standards for correctness and stability.
+Your work will support processes that affect the daily work and incomes of hundreds of thousands of employees. This makes quality and reliability essential—and gives you the opportunity to create real, lasting value at scale from the beginning.
+ You Will
+ Contribute to real software used by customers across different markets and industries
+ Experience professional software development throughout the delivery lifecycle
+ Learn how technical quality, business requirements, and delivery objectives are balanced
+ Work on meaningful product topics with guidance from experienced engineers
+ Develop your engineering skills through collaboration, feedback, and code reviews
+ See how your contributions become part of a stable, business-critical product
+ Become a fully integrated member of an agile product team while taking on responsibilities appropriate to your experience
+ Team & Organization
+ You'll be part of a Scrum team of ~10 engineers.
+ Our Engineering department consists of 250+ professionals across multiple teams and fields.
+ Key Responsibilities
+ Support the design, implementation, testing, and maintenance of software components in an AI-supported development process
+ Develop product features and improvements together with experienced team members
+ Help analyze technical issues and identify suitable solutions
+ Contribute to technical discussions and share your ideas
+ Support improvements to development processes, tooling, and product quality
+ Collaborate openly with colleagues across technical and non-technical roles
+ Key Requirements
+ You are currently completing the final stage of a bachelor’s degree or have recently started a master’s degree in computer science, software engineering, or a related field
+ You intend to pursue and complete a master’s degree
+ Practical experience with software projects in some form—e.g. through internships, working student positions, university projects, open-source contributions, or personal projects
+ Exposure to Java or a comparable programming language
+ You are fluent in written and spoken English; German is a plus
+ Experience with AI development tools (e.g. Claude) is a plus
+ Our Benefits
+ Competitive Rewards: Including profit-sharing and employee stock program. 
+ Structured Onboarding & Continuous Leadership Development: Clear career paths onboarding through Expert & Leadership Tracks, plus access to ATOSS Academy. 
+ Flexible Work Culture: Hybrid options (remote within the EU), 30 days of vacation, and a strong commitment to diversity & inclusion. 
+ Engaging Team Environment: Seasonal company events, team retreats, and an in-house barista. 
+ Health & Wellbeing: Including regular check-ups, corporate wellness programs, and Wellhub membership. 
+ Stability & Growth: Company listed on SDAX & TecDAX, with 20 years of record-breaking revenue and a 30%+ EBIT margin. Certified Top Employer© for the 5th year in a row. 
+ At ATOSS, great talent knows no limits. We welcome professionals from all backgrounds and empower their growth through an inclusive, skill focused environment.
+Join us and be part of a high-growth, future-focused company!

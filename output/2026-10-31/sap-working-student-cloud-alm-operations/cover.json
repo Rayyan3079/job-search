@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Working Student – SAP Cloud ALM Operations Team",
+    "company": "SAP SE",
+    "city": "St. Leon-Rot",
+    "greeting": "Dear SAP Cloud ALM Operations team,",
+    "opening": "I am applying for the Working Student position in your SAP Cloud ALM Operations team. Using Claude to turn operational and usage data into business insights is exactly what I have been building: I recently built and evaluated a RAG application on the Claude API. As a Business Analyst I also worked with SAP data every day.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau (graduation expected September 2028) with a B.S. in Artificial Intelligence and four SAP Certified Associate certifications. I worked as a Business Analyst at Tapal Tea and in SAP data and analytics at TallyMarks Consulting.",
+    "achievements": [
+      {
+        "lead": "DocuMind",
+        "impact": "I built a RAG system over PDF manuals with the Claude API that answered 91% of a 22-question test set correctly and refused all 4 unanswerable questions; hybrid BM25 and semantic retrieval raised MRR from 0.748 to 0.898"
+      },
+      {
+        "lead": "Measuring, not guessing",
+        "impact": "I designed DocuMind's evaluation with hit rate, MRR and an LLM judge, which showed exactly where and why the system failed"
+      },
+      {
+        "lead": "Usage and user support",
+        "impact": "I handled daily tickets and user queries for around 30 SAP Analytics Cloud dashboards, so I know how differently users use an application from how it was designed"
+      }
+    ],
+    "problems_section": "I would compare real user monitoring data with actual usage, define clear metrics such as task completion and time on task, use Claude to generate insights and check them against the data, and write up the results as blog posts. Monitoring data and the newest SAP AI features are new to me, and I look forward to learning both.",
+    "closing": "I am willing to relocate to the Walldorf area and can work up to 20 hours per week, starting immediately. I would be glad to discuss the role.",
+    "date": "2026-10-31",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-10-31/sap-working-student-cloud-alm-operations/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

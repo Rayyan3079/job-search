@@ -1,0 +1,39 @@
+URL: https://www.linkedin.com/jobs/view/4484968694
+TITLE: Junior SAP BTP Consultant / Architect
+COMPANY: FORTIS IT-Services GmbH
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-10-29
+title: Junior SAP BTP Consultant / Architect
+company: FORTIS IT-Services GmbH
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fjunior-sap-btp-consultant-architect-at-fortis-it-services-gmbh-4484968694&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Deine Aufgaben
+Als Mitglied eines agilen Business Teams unterstützt Du unsere namhaften Kunden bei der gemeinsamen Erarbeitung innovativer und zukunftsfähiger Lösungskonzepte auf der SAP Business Technology Platform (BTP). Dabei wirkst Du als Teil unseres wachsenden BTP-Teams an der Umsetzung entlang des gesamten Lifecycles von Anforderungsaufnahme bis hin zu Auslieferung und Betrieb mit. Dabei wirst du von einem*r erfahrenen Mentor*in begleitet und bildest dich stets weiter.
+Dein Profil
+ Erste Erfahrung mit der SAP Business Technology Platform (BTP)
+ Du hast ein grundsätzliches Verständnis von Integration und hast Interesse an Konzepten der Architektur verteilter Systeme, Netzwerke und Web-Services-Technologien
+ Erfahrung mit mindestens einem der BTP-Entwicklungsmodelle (CAP, UI5, Node.js/Java, Kyma, RAP)
+ Du hast von DevOps, Git, CI/CD schon einmal gehört
+ Freude an lösungsorientierter Kommunikation mit Kunden und dem Team
+ Analytisches Denken und eine systematische Arbeitsweise
+ Freude am Arbeiten im Team und mit deinem*r Mentor*in sowie auf eigenverantwortlicher Basis
+ Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
+ Zertifizierungen im BTP-Umfeld sind ein Plus (z. B. SAP BTP Developer, Integration Architect, Extension Suite)
+ Nice to have, aber keine Voraussetzung: Kenntnisse in der SAP Integration Suite; Erfahrung in der RAP/CAP Entwicklung; Erfahrung mit AI auf der BTP
+ Warum wir?
+ Attraktives Vergütungspaket - mit betrieblicher Altersversorgung (bAV)
+ Sinnstiftende Tätigkeit - Bei uns kannst Du richtig was bewirken!
+ Spannendes Arbeitsumfeld durch abwechslungsreiche Kundenprojekte
+ Hohe Wertschätzung und regelmäßiges Feedback
+ Individuelle Weiterbildungsmöglichkeiten, ohne feste Budgetgrenzen
+ Wir leben Empowerment! D. h. extrem flache Hierarchien und kurze Kommunikationswege in selbststeuernder Teamorganisation
+ Auf Fairness, Familienfreundlichkeit und Nachhaltigkeit ausgerichtete Werte; ferner sind wir Unterzeichner der Charta der Vielfalt
+ Homeoffice oder Büro? - Freie Wahl des Arbeitsorts mit wöchentlichen Teamtreffen im Büro
+ Bei uns ist Work-Live-Balance kein trendiger Begriff, sondern Realität mit individuellen Arbeitszeitmodellen, die zu Dir passen
+ 30 Tage Urlaub plus: Bei uns legen wir noch Heiligabend und Silvester obendrauf
+ Tolle Events: Wir lieben es mit Euch zu feiern, Sport zu treiben oder andere Aktivitäten zu erleben und laden dazu gerne auch Eure Partner*innen/Familie ein!
+ Choose your own devices - auch zur privaten Nutzung
+ Monatlicher finanzieller Zuschuss für Gesundheit, Sport oder Mobilität (z. B. Deutschlandticket) sowie attraktive Vorteile durch Corporate Benefits
+ Möglichkeit auf ein tolles Job-Fahrrad, das Deinen Wünschen entspricht

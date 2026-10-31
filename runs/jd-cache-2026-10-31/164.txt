@@ -1,0 +1,33 @@
+URL: https://www.linkedin.com/jobs/view/4484545374
+TITLE: Werkstudent Projektportfoliomanagement & Analytics (w/m/d)
+COMPANY: KPMG IT Service GmbH
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-10-29
+title: Werkstudent Projektportfoliomanagement & Analytics (w/m/d)
+company: KPMG IT Service GmbH
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-projektportfoliomanagement-analytics-w-m-d-at-kpmg-it-service-gmbh-4484545374&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Begleite KPMG bei den zukünftigen Herausforderungen unserer Kunden und Kundinnen. Begeistere auch Du Dich für die Vielfalt unserer Fragestellungen - und mach gemeinsam mit uns den Unterschied. Die KPMG IT Service GmbH ist die IT-Beratung und -Dienstleistung der KPMG AG Wirtschaftsprüfungsgesellschaft. Du verantwortest gemeinsam mit Deinem Team die IT-Infrastruktur und unterstützt die Fachabteilungen bei der Bereitstellung von effizienz- und effektivitätssteigernder Business Software.
+ Deine Aufgaben
+ Du möchtest neue IT-Trends kennenlernen und Deine Expertise im IT-Bereich weiterentwickeln? Dann kannst Du Dich ab sofort hier einbringen:
+ Du unterstützt das Portfoliomanagement Team innerhalb der Abteilung IT-Service Management im Rahmen der Ausarbeitung regelmäßiger Reportings und im Ausbau der No-Code Infrastruktur.
+ Du identifizierst Anforderungen über die Modellierung von Analysen bis hin zur Visualisierung der Ergebnisse.
+ Eigenständig entwickelst Du KPI-Dashboards mithilfe der entsprechenden Reporting-Tools.
+ Bei der Automatisierung von Business Prozessen mithilfe von NoCode / LowCode-Anwendungen wirkst Du mit und unterstützt die Entwicklung.
+ Dein Profil
+ Werkstudent (w/m/d) Projektportfoliomanagement & Analytics wirst Du bei uns mit einem Studium der (Wirtschafts-)Informatik, Mathematik, Physik, Ingenieurwissenschaften oder einer vergleichbaren Studienrichtung.
+ Du bringst eine hohe IT-Affinität und erste Praxiserfahrung im IT-Umfeld mit.
+ Du verfügst über grundlegende Kenntnisse in Advanced-Analytics-Methoden sowie praktische Erfahrung mit entsprechenden Tools (z.B. Alteryx).
+ Idealerweise besitzt Du erste Erfahrungen mit Datenvisualisierungs- und Automatisierungs-Tools wie z.B. Tableau, Power BI, Microsoft Power Platform (App, Flow, Automate etc.).
+ Erfahrungen mit Webstandards und APIs wie z. B. REST, CSS, XML oder SQL kannst Du ebenfalls nachweisen.
+ Darüber hinaus bringst Du Grundkenntnisse in C#, Visual Studio und Python mit.
+ Analytisches Denkvermögen und methodisches Vorgehen zeichnen Dich aus.
+ Du verfügst über sehr gute Deutsch- und Englischkenntnisse.
+ Deine Benefits
+ Willkommen im Team Damit Du von Beginn an voll bei uns durchstarten kannst, begleiten wir Dich mit strukturierten Onboarding-Maßnahmen während der gesamten Orientierungsphase. Dabei steht Dir immer eine persönliche Ansprechperson zur Seite.
+ Flexibel & erfolgreich Bei uns kannst Du Studium und erste Praxiserfahrung bequem vereinbaren. Dabei erhältst Du intensive Einblicke in die Arbeitswelt bei KPMG. In Absprache mit Deinem Team kannst Du Deine Arbeitszeit flexibel gestalten. So kommt Dein Studium nicht zu kurz.
+ Feedback & Entwicklung Vom ersten Tag an bist Du fester Bestandteil des Teams und übernimmst Verantwortung in herausfordernden (Teil-) Projekten. Mit regelmäßigem Feedback fördern wir zudem Deine persönliche und fachliche Weiterentwicklung.
+ Wertvolles Karrierenetzwerk Bei unseren YOUnior .Network-Aktivitäten stehen Vernetzung und der gemeinsame Austausch zwischen Auszubildenden, Dual Studierenden, Praktikanten/Praktikantinnen und Werkstudenten/Werkstudentinnen im Fokus.
+ Die abgebildeten Leistungen können je nach Position und Standort leicht variieren.

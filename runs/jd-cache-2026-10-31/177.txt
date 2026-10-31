@@ -1,0 +1,58 @@
+URL: https://www.linkedin.com/jobs/view/4483098573
+TITLE: Werkstudent (d/m/w) im Bereich Agentic-AI-gestützte Softwareentwicklung
+COMPANY: Airbus Defence and Space
+LOC: Ulm, Baden-Württemberg, Germany
+POSTED: 2026-10-30
+title: Werkstudent (d/m/w) im Bereich Agentic-AI-gestützte Softwareentwicklung
+company: Airbus Defence and Space
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-d-m-w-im-bereich-agentic-ai-gest%25C3%25BCtzte-softwareentwicklung-at-airbus-defence-and-space-4483098573&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Description:
+ Zur Verstärkung unseres Software-Teams für sicherheitskritische Systeme, sucht Airbus Defence and Space einen
+ Werkstudenten im Bereich Agentic-AI-gestützte Softwareentwicklung (d/m/w)
+ Standort: Ulm 
+ Start: A b sofort 
+ Dauer: 12 Monate 
+ Sicherheitskritische Missionen dulden keine Fehler. Deshalb entwickeln wir bei Airbus Defence and Space in Ulm intelligente ISR-Systeme (Intelligence, Surveillance & Reconnaissance), die auch unter extremsten Bedingungen maximale Verlässlichkeit bieten.
+Durch den gezielten Einsatz von Agentic-AI befähigen wir unsere Kunden, aus riesigen Datenmengen in Sekundenbruchteilen die richtigen Schlüsse zu ziehen. Gleichzeitig treibst du den Wandel von innen heraus an: In deiner Rolle experimentierst du mit Agentic-AI Frameworks und integrierst Agentic-AI-Lösungen direkt in unseren Software-Engineering-Lifecycle , um Entwicklungsprozesse zu automatisieren, den Flow spürbar zu beschleunigen und KI-Driven Engineering auf das nächste Level zu heben.
+Du möchtest Praxiserfahrung in einem der führenden Unternehmen im Bereich Verteidigung und Sicherheit sammeln und Dich auf Deinen Berufseinstieg optimal vorbereiten? Dann bewirb dich jetzt bei uns als Werkstudent!
+Als Teil unseres Teams gestaltest du nicht nur innovative KI-Architekturen, sondern schaffst Lösungen, die gesellschaftlichen Schutz bieten.
+Bereit für Tech-Challenges mit echtem Mehrwert?
+ Dein Standort
+ Zwischen Stuttgart und München gelegen, ist Ulm eine Stadt, die ein breites Spektrum an Freizeit- und Kulturangeboten bietet. Hier kannst du die Lebensqualität unter dem Ulmer Münster genießen und Teil einer Stadt sein, die sowohl ihre historischen Sehenswürdigkeiten bewahrt, als auch die Zukunft entlang der Donau aktiv gestaltet.
+ Unsere Benefits für dich
+ Attraktive Vergütung und ausgeglichene Work-Life-Balance bei einer 18-Stunden-Woche (Gleitzeit). 
+ Eine Abschlussarbeit ist im Anschluss nach Rücksprache mit dem Fachbereich möglich. 
+ Internationales Umfeld mit der Möglichkeit, Kontakte in die ganze Welt zu knüpfen. 
+ Arbeit mit modernen/abwechslungsreichen Technologien. 
+ Wir bei Airbus sehen dich als vollwertiges Teammitglied und du bist nicht zum Kaffee kochen eingestellt, vielmehr stehst Du im regen Austausch mit deinen Ansprechpartnern und bist Teil unserer wöchentlichen Teamrunden. 
+ Deine Aufgaben und Verantwortlichkeiten
+ Architektur & Modellierung: Du lernst unsere bestehenden Software-Architekturen kennen und unterstützt bei der Konzeption und Anpassung von Software-Modellen. 
+ AI-Transformation & Agentic AI: Du beteiligst dich aktiv an der Weiterentwicklung unserer Agentic-AI-gestützten Softwareentwicklung und integrierst KI-Agenten in den Entwicklungsprozess . Mit deinen Ideen bringst du neue Perspektiven in das Team ein. 
+ Entwicklung & Lifecycle: Du entwickelst Software-Komponenten und begleitest den Entwicklungsprozess, AI-Driven - von der Spezifikation über die Implementierung und Integration bis hin zu Test und Abnahme. 
+ Qualitätssicherung: Du unterstützt bei der Konzeption und Umsetzung von Prüffällen zur Sicherstellung der Qualitätsstandards in allen Entwicklungsphasen. 
+ Globale Zusammenarbeit: Du arbeitest in hoch motivierten und agilen Teams. 
+ Erforderliche Kenntnisse und Qualifikationen
+ Akademischer Hintergrund & AI-Fokus: Eingeschriebener Vollzeitstudent (d/m/w) im Bereich der Informatik, Software Engineering oder vergleichbar - idealerweise mit Fokus Künstliche Intelligenz. 
+ Agentic-AI: Du hast grundlegende Kenntnisse in Agentic-AI und der AI-Transformation in der Softwareentwicklung. Erste praktische Erfahrungen oder Projekte im Umgang mit KI-Agenten (z. B. über eigene Studienprojekte) sind von Vorteil, aber keine Voraussetzung. 
+ Prozesskompetenz & Methodik: Du hast erste Erfahrungen mit agilen Entwicklungsmethoden (z. B. Scrum) und bist bereit, dir Prozessstandards wie das V-Modell oder branchenspezifische Normen anzueignen. 
+ Systemverständnis & Mindset: Du bringst ein grundlegendes Verständnis für technische Systeme mit und arbeitest strukturiert und selbstständig. Engagement, Motivation und Neugier treiben dich an Neues zu schaffen und bestehende Ansätze zu hinterfragen. 
+ Sprache: Du kommunizierst fließend in Deutsch und Englisch (Wort & Schrift). 
+ Bitte lade folgende Unterlagen hoch: Anschreiben, Lebenslauf, relevante Zeugnisse, Immatrikulationsbescheinigung.
+ Keine 100%ige Übereinstimmung? Kein Grund zur Sorge! Airbus unterstützt deine persönliche Entwicklung mit maßgeschneiderten Entwicklungslösungen.
+Bring deine Karriere auf ein neues Level und bewirb dich jetzt online !
+This job requires an awareness of any potential compliance risks and a commitment to act with integrity, as the foundation for the Company’s success, reputation and sustainable growth.
+ Company:
+ Airbus Defence and Space GmbH
+ Employment Type:
+ GE - Werkstudent
+ Experience Level:
+ Student
+ Job Family:
+ Software Engineering
+By submitting your CV or application you are consenting to Airbus using and storing information about you for monitoring purposes relating to your application or future employment. This information will only be used by Airbus.
+Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief.
+Airbus is, and always has been, committed to equal opportunities for all. As such, we will never ask for any type of monetary exchange in the frame of a recruitment process. Any impersonation of Airbus to do so should be reported to emsom@airbus.com .
+At Airbus, we support you to work, connect and collaborate more easily and flexibly. Wherever possible, we foster flexible working arrangements to stimulate innovative thinking. #YESPOST

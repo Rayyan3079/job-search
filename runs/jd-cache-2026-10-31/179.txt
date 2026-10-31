@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4483585804
+TITLE: Werkstudent Data Engineering (m/w/d)
+COMPANY: SMA Solar
+LOC: Kassel, Hesse, Germany
+POSTED: 2026-10-26
+title: Werkstudent Data Engineering (m/w/d)
+company: SMA Solar
+posted: 4 days ago
+applicants: 41 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-data-engineering-m-w-d-at-sma-solar-4483585804&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Warum SMA?
+ Du möchtest die Energieversorgung der Zukunft aktiv mitgestalten? Dann bist Du bei SMA richtig.
+Bei uns arbeitest Du an Lösungen, die den Wandel zu einer nachhaltigen Energieversorgung weltweit voranbringen. Dabei setzen wir auf Menschen, die Verantwortung übernehmen, Ideen einbringen und Veränderungen mitgestalten wollen.
+Erfahre mehr über SMA als Arbeitgeber, unsere Kultur und Deine Entwicklungsmöglichkeiten auf unsere Karriereseite unter https://www.SMA.de/karriere
+Unsere Steuerabteilung verantwortet alle steuerlichen Fragestellungen des Unternehmens – von Compliance und Deklaration bis hin zu Beratung und Projekten. Wir sichern steuerliche Risiken ab, optimieren Prozesse und begleiten Betriebsprüfungen sowie interne Stakeholder entlang der Finance‑Prozesse. Dabei arbeiten wir daten- und lösungsorientiert mit Fokus auf Qualität, Termineinhaltung und praktikable Umsetzung.
+ Über unser Team
+ In der Abteilung Data Science & Monitoring entwickeln und betreiben wir datengetriebene Lösungen für die digitalen Produkte von SMA. Mit modernen Methoden aus Data Engineering, Analytics und Machine Learning schaffen wir intelligente Services, die Transparenz erhöhen, Anlagenverfügbarkeit verbessern und einen nachhaltigen Mehrwert für unsere Kund*innen schaffen.
+ Deine Mission – Das Erwartet Dich Bei Uns
+ Datenverarbeitung – Unterstützung bei der Aufbereitung, Strukturierung und Analyse von Daten aus unterschiedlichen Quellen, um eine verlässliche Datengrundlage für digitale Produkte und Services sicherzustellen.
+ Datenpipelines – Mitarbeit bei der Erstellung, Pflege und Weiterentwicklung von SQL-Abfragen sowie einfachen Datenpipelines im Umfeld moderner Datenplattformen.
+ Datenqualität – Analyse von Daten hinsichtlich Qualität, Vollständigkeit und Konsistenz sowie Unterstützung bei der Identifikation und Nachverfolgung von Optimierungspotenzialen.
+ Projektarbeit – Mitarbeit in Projekten rund um Datenintegration, Reporting-Lösungen und den Ausbau unserer Datenplattformen gemeinsam mit verschiedenen Fachbereichen.
+ Dokumentation & Austausch – Dokumentation technischer Zusammenhänge, Arbeitsergebnisse und Prozesse sowie enge Zusammenarbeit mit Kolleg*innen in einem Teamspirit auf Augenhöhe.
+ Bei SMA denken wir Energie neu. Deshalb setzen wir auf eine offene Zusammenarbeit, kurze Abstimmungswege und die Möglichkeit, Verantwortung zu übernehmen. Deine Ideen sind willkommen und können einen direkten Beitrag zur Weiterentwicklung unserer datengetriebenen Lösungen leisten.
+ Dein Profil – Das Bringst Du Mit
+ Grundlegende Kenntnisse in SQL.
+ Grundlegende Kenntnisse in Python.
+ Analytisches Denkvermögen sowie eine strukturierte und sorgfältige Arbeitsweise.
+ Erste praktische Erfahrungen mit Microsoft Fabric, Databricks und grundlegende Kenntnisse im Azure-Umfeld.
+ Interesse an Daten, technischen Zusammenhängen und teamübergreifender Zusammenarbeit sowie hohe Lernbereitschaft und Eigeninitiative.
+ Deine Checkliste
+ Du bist Student:in
+ Du bringst ca. 18 Stunden Zeit pro Woche mit und kannst uns für mindestens 12 Monate unterstützen, gern auch länger
+ Du erhältst eine faire Vergütung und profitierst von weiteren tollen Benefits
+ Passt alles - dann bewirb dich und füge neben deinem Anschreiben und deinem Lebenslauf auch eine aktuelle Kurs- und Notenübersicht bei, gerne auch Abschluss- und Arbeitszeugnisse, sofern vorhanden
+ Bereit für deinen nächsten beruflichen Schritt?
+ Wir freuen uns auf deine Bewerbung!
+Du bist an dieser Stelle interessiert, erfüllst aber nicht alle Anforderungen? Wir freuen uns trotzdem auf deine Bewerbung mit Anschreiben und Lebenslauf!
+ Dein Kontakt Im Recruiting Ist
+ Britt Albrecht | SMA Solar Technology AG
+#SMA Solar Technology AG
+∗ SMA steht für Chancengleichheit und Vielfalt – unabhängig von Geschlecht, Alter, Herkunft, Religion, Behinderung oder sexueller Orientierung.

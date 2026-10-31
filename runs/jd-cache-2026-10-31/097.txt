@@ -1,0 +1,36 @@
+URL: https://www.linkedin.com/jobs/view/4484521573
+TITLE: Data Analyst – BI Engineer
+COMPANY: Clavem Group
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-29
+title: Data Analyst – BI Engineer
+company: Clavem Group
+posted: 1 day ago
+applicants: 58 applicants
+apply_offsite: 
+---
+Dans le cadre du développement du pôle Data basé au Luxembourg, nous recherchons un(e) Data Analyst – BI Engineer (H/F) . Intégré(e) au sein d'une équipe dynamique, vous jouerez un rôle clé dans la transformation des données brutes en indicateurs stratégiques et tableaux de bord opérationnels, tout en apportant une réelle valeur ajoutée grâce à votre compréhension des enjeux métiers et financiers.
+ Responsibilities
+ Conception & Modélisation BI : Développer, maintenir et optimiser des tableaux de bord interactifs et des rapports de suivi de la performance.
+ Analyse de données & Restitution métier : Analyser les flux de données complexes pour en extraire des synthèses claires, directement exploitables par les directions opérationnelles et financières.
+ Traduction des enjeux métiers/comptables : Faire le lien entre les besoins fonctionnels (suivi d'activité, analyses comptables et financières) et les solutions techniques Data/BI.
+ Qualité & Contrôle des données : Veiller à l'exactitude, la fiabilité et la cohérence des indicateurs financiers et opérationnels produits.
+ Accompagnement & Restitution : Présenter les résultats, vulgariser les données pour aider les équipes de direction dans leurs prises de décision.
+ Qualifications
+ Formation : Diplôme Master (Bac+5) ou École de Commerce / d'Ingénieur en contrôle de gestion, finance, statistiques, informatique décisionnelle ou domaine équivalent.
+ Expérience : Entre 2 et 5 ans d'expérience sur des fonctions d'analyse de données (Data Analyst / BI Engineer).
+ Expertise métier indispensable : 
+ Bonnes connaissances théoriques et/ou pratiques du secteur de l'assurance .
+ Solides notions en comptabilité / finance pour comprendre et modéliser facilement les indicateurs métiers.
+ Compétences techniques requises : 
+ Maîtrise des outils de Business Intelligence (Tableau, Power BI, ou équivalent).
+ Très bonne maîtrise du langage SQL (requêtes complexes, extraction et manipulation de données) et d' Excel avancé.
+ Langues : Maîtrise parfaite du Français (obligatoire). La pratique de l' Anglais constitue un atout supplémentaire.
+ Soft Skills
+ Rigueur & Sens du détail : Exigence élevée sur la fiabilité des données chiffrées et comptables.
+ Aisance relationnelle & Vulgarisation : Capacité à échanger avec des interlocuteurs variés (équipes techniques, métiers et finance) et à rendre compréhensibles des données complexes.
+ Esprit d'analyse & Synthèse : Capacité à prendre du recul sur les chiffres pour formuler des recommandations pragmatiques.
+ Autonomie & Proactivité : Capacité à prendre des initiatives et à s'adapter rapidement à de nouveaux besoins métiers.
+ Informations pratiques
+ Disponibilité / Démarrage : Dès que possible (ASAP)
+ Localisation : Luxembourg

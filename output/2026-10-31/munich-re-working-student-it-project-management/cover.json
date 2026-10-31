@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Working Student IT Project Management in Business Solutions – Public Markets Back Office",
+    "company": "Munich Re",
+    "city": "Munich",
+    "greeting": "Dear Munich Re hiring team,",
+    "opening": "I am applying for the Working Student position in IT Project Management in Business Solutions. Supporting business systems and the people who use them is what I did every day in my previous role, and I would like to bring that to financial systems.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with four SAP Certified Associate certifications. I worked as a Business Analyst at Tapal Tea and in SAP data and analytics at TallyMarks Consulting.",
+    "achievements": [
+      {
+        "lead": "System support",
+        "impact": "I handled daily support tickets and user queries for around 30 SAP Analytics Cloud dashboards across HR, finance, supply chain and procurement"
+      },
+      {
+        "lead": "Project lifecycle",
+        "impact": "in the SAP Young Professionals Program I trained on SAP Activate methodology and Fit-to-Standard workshops"
+      },
+      {
+        "lead": "Migration project",
+        "impact": "I was part of a team migrating 42 dashboards from SAP BW to SAP Datasphere"
+      }
+    ],
+    "problems_section": "I would help track project tasks, coordinate with users and IT, prepare documentation and keep the team's Office tools organised. I have not used SimCorp Dimension, and I would learn it and your asset management processes quickly.",
+    "closing": "I am willing to relocate to Munich and can work 16 or 20 hours per week for the full period you need, starting immediately. I would be glad to discuss the role.",
+    "date": "2026-10-31",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-10-31/munich-re-working-student-it-project-management/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

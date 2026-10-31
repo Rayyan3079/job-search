@@ -1,0 +1,40 @@
+URL: https://www.linkedin.com/jobs/view/4484162376
+TITLE: Werkstudent IT (m/w/d)
+COMPANY: tracetronic GmbH
+LOC: Dresden, Saxony, Germany
+POSTED: 2026-10-29
+title: Werkstudent IT (m/w/d)
+company: tracetronic GmbH
+posted: 2 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-it-m-w-d-at-tracetronic-gmbh-4484162376&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Unser gemeinsames Projekt
+Bei uns ist IT noch echtes Handwerk: Wir betreiben eigene Serverräume mit eigener Virtualisierung, eigenem Netzwerk und weiteren Hardware-Systemen. Viele unserer Lösungen bauen wir selbst auf, statt nur Cloud-Dienste zusammenzuklicken. Als Werkstudent IT (m/w/d) im IT-Team bist du mittendrin: Du richtest neue Mitarbeiterrechner ein, deployst virtuelle Maschinen und betreust unsere Konferenzraum-Technik. Weil wir so viele verschiedene Systeme haben, lernst du die IT eines Technologieunternehmens in ihrer ganzen Breite kennen. Das ist ideal für alle, die Allrounder werden wollen.
+ Deine Aufgaben
+ Einrichtung, Konfiguration und Wartung von IT-Hardware
+ Notebook- und VM-Deployment
+ Aufbau, Einrichtung und Betreuung von Konferenzraum-Technik
+ Bearbeitung interner Nutzer- und Anwender-Anfragen im Team it-services
+ Mitwirkung bei der Optimierung und Weiterentwicklung von IT-Abläufen und -Systemen
+ Erstellung, Pflege und Weiterentwicklung von Dokumentationen
+ Was wir bieten, damit du durchstarten kannst
+ Echte Infrastruktur zum Anfassen: eigene Serverräume, Virtualisierung, Netzwerk und Hardware
+ Eigene Lösungen statt reiner Cloud-IT: Du siehst, wie IT-Systeme wirklich aufgebaut sind und betrieben werden
+ Hervorragende Betreuung (Patenprogramm)
+ Spannende Themen für Abschlussarbeiten
+ Spaß an der Arbeit
+ Das bringst du mit
+ Laufendes Studium im Bereich IT, MINT oder einer vergleichbaren Fachrichtung
+ Gutes technisches Verständnis und Erfahrung im Umgang mit Hardware
+ Grundkenntnisse in Betriebssystemen wie Windows und Ubuntu
+ Programmierkenntnisse sind kein Muss, Neugier auf Technik schon
+ Spaß an kniffligen Themen und den Willen an den eigenen Aufgaben zu wachsen
+ Die Fähigkeit, dich zu begeistern und in dem, was du tust, voll aufzugehen
+ Die Erkenntnis, dass man im Team einfach mehr erreicht
+ Your workplace
+ Dresden
+ Your contact person
+ Romy Heider
+ Skills zu dieser Stellenanzeige: Praktikum, IT Infrastructure, System Administration, Network Deployment, Hardware, IT Operations, Automation, Troubleshooting, Hands on, DevOps, Linux, Webservice, webservice, API und Virtualisierung
+ Wichtiger Hinweis Das ist eine Anzeige des Empfehlungsbund (EBND) über ITsax.de. Weitere wichtige Informationen zur Anzeige finden Sie unter https://www.itsax.de/jobs/308615/werkstudent-it-m-strich-w-strich-d-in-dresden

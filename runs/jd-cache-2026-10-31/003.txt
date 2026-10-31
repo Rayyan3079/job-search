@@ -1,0 +1,31 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-m-w-d-Elektrotechnik-Kronach-M-A-i-GmbH-Co-KG-innovative-Automations-und-Montagetechnik--14696807-inline.html
+TITLE: Werkstudent (m/w/d) Elektrotechnik
+COMPANY: M.A.i GmbH & Co. KG innovative Automations- und Montagetechnik
+LOC: Kronach
+POSTED: stepstone
+title: Werkstudent (m/w/d) Elektrotechnik
+company: M.A.i GmbH & Co. KG innovative Automations- und Montagetechnik
+posted: 2026-10-29T18:19:33.797Z
+location: Kronach | remote: 
+---
+Einleitung
+ Dein Studium ist dir zu theoretisch? Du willst dein Fachwissen in der Praxis einsetzen und so neue Impulse setzen? Dann bist du bei uns genau richtig! Typisch du? Dann komm zu uns!
+ Deine Aufgaben
+ Erstellung und Pflege von Schaltplänen sowie Stromlauf-, Klemmen- und Aufbauplänen mit EPLAN Electric P8
+ Generierung von Stücklisten, Pflege und Erweiterung der Artikelstammdaten
+ Mitwirken bei der Umsetzung und Dokumentation elektrotechnischer Lösungen unter Berücksichtigung der geltenden Normen und Richtlinien (z.?B. DIN EN 81346, VDE 0113 / EN 60204-1)
+ Mitwirkung bei der Standardisierung von EPLAN-Projektvorlagen, Makros und Artikeldaten zur Verbesserung der Projektqualität und Effizienz
+ Analyse und Optimierung bestehender EPLAN-Strukturen sowie Vorschläge zur Automatisierung wiederkehrender Tätigkeiten
+ Entwicklung von EPLAN-Skripten (C#) zur Automatisierung von Konstruktionsaufgaben, Menüerweiterung, Makrogenerierung oder Datenaufbereitung
+ Dein Profil
+ Immatrikulierter Student in einem technischen Studiengang, z.B. Elektrotechnik oder vergleichbar
+ Technisches Interesse
+ Schnelle Auffassungsgabe
+ Eigenständige Arbeitsweise
+ Englischkenntnisse
+ Wir bieten
+ Familiäre Teams
+ Spannende und vielseitige Aufgaben
+ Flexible Arbeitszeiten
+ Teilnahme an Firmenevents
+ und vieles mehr!

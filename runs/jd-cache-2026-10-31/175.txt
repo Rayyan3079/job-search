@@ -1,0 +1,46 @@
+URL: https://www.linkedin.com/jobs/view/4483481730
+TITLE: Bachelorand / Werkstudent / Praktikant (w/m/d) Generative KI & Digitalisierung
+COMPANY: PreussenElektra
+LOC: Hannover, Lower Saxony, Germany
+POSTED: 2026-10-30
+title: Bachelorand / Werkstudent / Praktikant (w/m/d) Generative KI & Digitalisierung
+company: PreussenElektra
+posted: 12 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fbachelorand-werkstudent-praktikant-w-m-d-generative-ki-digitalisierung-at-preussenelektra-4483481730&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Die PreussenElektra GmbH ist ein Unternehmen des E.ON-Konzerns und hat über Jahrzehnte hinweg erfolgreich Strom aus Kernenergie erzeugt. Damit hat sie einen maßgeblichen Beitrag zur sicheren und zuverlässigen Energieversorgung in Deutschland geleistet.
+Heute ist PreussenElektra verantwortlich für die Stilllegung und den Abbau von acht Kernkraftwerken in Deutschland, die sich in unterschiedlichen Phasen des Rückbaus befinden. Das Unternehmen ist dabei entlang der gesamten Wertschöpfungskette tätig – von der Planung über die Steuerung bis hin zur operativen Umsetzung des Rückbaus.
+Ziel der PreussenElektra ist es, den sicheren Rückbau ihrer Anlagen zuverlässig umzusetzen und dabei schon heute die Weichen für eine nachhaltige, zukunftsorientierte Nachnutzung der Kraftwerksgelände zu stellen.
+Zur Verstärkung unseres Teams der PreussenElektra GmbH am Standort Hannover suchen wir zum nächstmöglichen Zeitpunkt einen Bachelorand (w/m/d) Generative KI & Digitalisierung im Kernkraftwerksrückbau.
+ Die Aufgabe der beschriebenen Abschlussarbeit kann optional im Rahmen einer Werkstudententätigkeit oder eines Pflichtpraktikums bearbeitet werden.
+ Ziel der Abschlussarbeit:
+ Im Rahmen eines Digitalisierungsprojekts entwickeln wir einen KI-gestützten Verfahrensassistenten zur Unterstützung aufsichtlicher Verfahren im Kernkraftwerksrückbau. Das fachliche Konzept und erste technische Bausteine stehen bereits. Nun geht es darum, den Assistenten in einen belastbaren Pilotbetrieb zu überführen und die Grundlage für einen produktiven Einsatz zu schaffen.
+Du arbeitest nicht an einem Laborprototypen, sondern an einem realen KI-System mit direktem Anwendungsbezug und gestaltest dessen Weg in die Praxis aktiv mit. Die Arbeit verbindet KI, Prompt Engineering, Retrieval-Augmented Generation (RAG), Wissensmanagement, Systemintegration, Testmanagement und Produktivsetzung.
+ Deine Aufgaben:
+ Analyse realer Verfahrens- und Dokumentationsprozesse
+ Entwicklung und Durchführung von Anwendungs- und Testfällen
+ Mitwirkung bei Prompting-, Retrieval- und Orchestrierungskonzepten
+ Integration und Bewertung fachlicher Wissensquellen
+ Optimierung von Ergebnisqualität, Nachvollziehbarkeit und Robustheit
+ Abstimmung mit Fachbereich, Projektleitung und IT
+ Dokumentation der Ergebnisse sowie Bewertung der Einsatzreife
+ Dein Profil:
+ Studium der Informatik, Wirtschaftsinformatik, Data Science, Systems Engineering, Wirtschaftsingenieurwesen oder eines vergleichbaren Studiengangs
+ Interesse an Generativer KI, Wissensmanagement und digitalen Assistenzsystemen
+ Analytische und strukturierte Arbeitsweise
+ Freude daran, neue Technologien in die Praxis zu überführen
+ Interesse an komplexen technischen und regulatorischen Fragestellungen
+ Sehr gute Deutschkenntnisse in Wort und Schrift
+ Das bieten wir dir:
+ Möglichkeit zur Erstellung einer praxisnahen Bachelorarbeit mit direktem Unternehmensnutzen
+ Mitarbeit an einem innovativen KI-Projekt mit hoher Sichtbarkeit 
+ Flexible Arbeitszeiten, die sich gut mit dem Studium vereinbaren lassen
+ Vergünstigte Mitarbeiterangebote, z.B. für Freizeitparks oder Mobilfunkanbieter
+ Umfangreiches Gesundheitsangebot (Impfungen, Vorsorgeuntersuchungen, Massagen u.v.m.) 
+ Betriebskantine mit vergünstigten Essenspreisen
+ Hast du noch Fragen?
+ Für weitere Informationen wende dich bitte an Steffen Büscher unter +491605234999 . Oder du bist jetzt schon überzeugt, dass dies der nächste Schritt in deiner Karriere sein soll? Dann registriere dich jetzt und bewirb dich gleich online.
+ Bewerbungen sind ausschließlich online über unser Portal möglich. Bitte habe Verständnis dafür, dass wir Bewerbungen, die uns per E-Mail erreichen, nicht berücksichtigen können.
+ Du erfüllst nicht alle Anforderungen, hast aber Lust auf die Aufgabe und den nötigen Ehrgeiz? Dann freuen wir uns trotzdem auf deine Bewerbung! Wir lernen gerne Menschen kennen, die mit uns wachsen wollen.
+Wir heißen alle Menschen willkommen, die mit uns den Rückbau gestalten und Raum für Neues schaffen möchten. Vielfalt verstehen wir als Bereicherung – sie ist fester Bestandteil unserer Unternehmenskultur. Die Integration von Menschen mit Behinderung entspricht unserem Selbstverständnis und wir begrüßen daher deren Bewerbung.

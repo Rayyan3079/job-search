@@ -1,0 +1,36 @@
+URL: https://www.linkedin.com/jobs/view/4476288767
+TITLE: Business Intelligence Specialist
+COMPANY: Lenovo
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-30
+title: Business Intelligence Specialist
+company: Lenovo
+posted: 12 hours ago
+applicants: 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fmy.linkedin.com%2Fjobs%2Fview%2Fbusiness-intelligence-specialist-at-lenovo-4476288767&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+We are Lenovo. We do what we say. We own what we do. We WOW our customers.
+Lenovo is a US$83 billion revenue global technology powerhouse, ranked #153 in the Fortune Global 500, and serving millions of customers every day in 180 markets. Focused on a bold vision to deliver Smarter Technology for All, Lenovo has built on its success as the world’s largest PC company with a full-stack portfolio of AI-enabled, AI-ready, and AI-optimized devices (PCs, workstations, smartphones, tablets), infrastructure (server, storage, edge, high performance computing and software defined infrastructure), software, solutions, and services. Lenovo’s continued investment in world-changing innovation is building a more equitable, trustworthy, and smarter future for everyone, everywhere. Lenovo is listed on the Hong Kong stock exchange under Lenovo Group Limited (HKSE: 992) (ADR: LNVGY).
+This transformation together with Lenovo’s world-changing innovation is building a more inclusive, trustworthy, and smarter future for everyone, everywhere. To find out more visit www.lenovo.com, and read about the latest news via our StoryHub.
+Key Responsibilities
+ Dashboard Development: Design and build comprehensive business dashboards in Power BI to track key performance indicators (KPIs) and business metrics, enabling data-driven decision-making across the organization.
+ Data Extraction, Transformation, and Loading (ETL): Utilize Talend to extract, transform, and load data from multiple sources, ensuring high-quality data is available for reporting and analysis.
+ SQL Data Management: Perform advanced SQL queries to extract, clean, and manipulate data for reporting and analysis, ensuring data integrity and accuracy.
+ Reporting and Analysis: Generate regular and ad-hoc reports using SQL, Power BI, and Excel, presenting findings and insights to business stakeholders.
+ Excel and PowerPoint Proficiency: Develop complex Excel reports and present findings effectively through professional PowerPoint presentations tailored to different audiences.
+ Cross-functional Collaboration: Work closely with business units and stakeholders to understand data needs, provide insights, and offer recommendations based on analysis.
+ Communication Skills: Conduct effective, fluent communication in English, both written and verbal, to present complex data insights to non-technical stakeholders.
+ Continuous Improvement: Stay current with best practices in data analytics, suggesting improvements in data collection, processing, and visualization techniques.
+ Qualifications
+ Education: Bachelor’s degree in Data Science, Statistics, Computer Science, Business, or a related field.
+ Experience: experience in a data analysis, business intelligence, or similar role.
+ Technical Skills:
+ ⁠Power BI: Proficient in Power BI for creating interactive, visually appealing dashboards and reports to support business insights.
+ SQL: Advanced skills in SQL for extracting, cleaning, and manipulating data to generate insights and support data-driven decision-making.
+ Python: Practical experience in Python for data analysis, including libraries such as pandas and numpy for data processing and analysis.
+ Talend: Hands-on experience using Talend for ETL (Extract, Transform, Load) processes, enabling seamless integration and transformation of data from multiple sources.
+ Communication: Proficient in English, with the ability to clearly convey technical information to a diverse audience. Strong interpersonal skills and comfortable collaborating with cross-functional teams.
+ Problem-Solving: Analytical mindset with the ability to troubleshoot data issues and offer actionable insights.
+ Attention to Detail: Meticulous in data processing and reporting to ensure accuracy and reliability of information.
+ SSG2026Campus
+ We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, religion, sexual orientation, gender identity, national origin, status as a veteran, and basis of disability or any federal, state, or local protected class.

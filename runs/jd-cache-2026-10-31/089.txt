@@ -1,0 +1,54 @@
+URL: https://www.linkedin.com/jobs/view/4483484951
+TITLE: Payments Growth & Analytics Product Analyst
+COMPANY: Solidgate
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-30
+title: Payments Growth & Analytics Product Analyst
+company: Solidgate
+posted: 10 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fph.linkedin.com%2Fjobs%2Fview%2Fpayments-growth-analytics-product-analyst-at-solidgate-4483484951&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Our Mission and Vision
+At Solidgate, our mission is clear: to empower outstanding entrepreneurs to build exceptional internet companies. We exist to fuel the builders — the ones shaping the digital economy — with the financial infrastructure they deserve. To achieve that, we’re on a bold path: to become the #1 payments orchestration platform in the world.
+ About The Role
+ Solidgate is a product-driven FinTech company operating in a highly dynamic and regulated environment. Our platform processes millions of transactions daily, where data accuracy, real-time monitoring, and system reliability directly impact revenue and customer trust.
+We are seeking a
+Product Analyst
+to drive sustainable revenue growth for our product and merchants through advanced payment analytics and strategic performance optimization. You will take ownership of payment flow analysis, establish scalable frameworks for tracking and visualizing key payment metrics, and uncover high-impact opportunities to maximize approval rates, optimize payment costs, and drive overall transactional efficiency.
+What You Will Own
+Conduct deep-dive analysis across payment flow segments to uncover growth and optimization opportunities.
+Generate, validate, and prioritize hypotheses through full-cycle experimentation, including A/B testing.
+Build and maintain dashboards to track Feature Adoption and key payment domain metrics.
+You will focus on the most technical domains of our platform:
+Core, Integrations, and Orchestration , ensuring the seamless performance of our payment engine.
+Partner closely with Product Managers to drive data-informed decisions.
+Research and implement growth opportunities within
+Network Tokenization
+and scheme-specific features (Visa, Mastercard, American Express, etc.), collaborating with analysts, payment scheme representatives, and other PSPs.
+Document research findings and experiment results to support strategic payment initiatives.
+You Are a Great Fit If You Have
+2+ years in analytics, including at least 1 year in Product Analytics
+Solid foundation in mathematical statistics, strong SQL, Python for data analysis, and experience with Tableau or similar BI tools
+ Ownership Mindset
+ You don’t just wait for tasks; you proactively find anomalies and propose solutions
+English proficiency at an intermediate level or higher
+Critical thinking and structured problem-solving
+Experience in the payments domain will be a plus (for example, a background at a payment service provider or as a Payment Analyst within an e-commerce or product company).
+Why Join Solidgate?
+Build systems that matter.
+Your work will directly affect platform stability, business decisions, and customer trust.
+Real ownership.
+You’ll work with critical infrastructure, not dashboards for dashboards’ sake.
+Career trajectory.
+We are moving towards a Domain Ownership model, where you can eventually lead the analytical vision for a specific payment stream.
+Modern
+stack
+& innovation.
+Real-time analytics, AI automation, and scalable data systems.
+Growth without bureaucracy.
+Fast decisions, strong engineering culture, and room to experiment.
+Tomorrow’s fintech needs your mindset. Come build it with us.
+Know top talent? We’re always on the lookout.
+Refer someone
+for our role, and if they get hired, there’s a bonus waiting for you — simple as that.

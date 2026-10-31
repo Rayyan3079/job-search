@@ -1,0 +1,35 @@
+URL: https://www.linkedin.com/jobs/view/4475941019
+TITLE: Werkstudent / Working Student (m/w/d) – AI Agents for Experience-Ready Twin Generation
+COMPANY: Dassault Systèmes
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-10-29
+title: Werkstudent / Working Student (m/w/d) – AI Agents for Experience-Ready Twin Generation
+company: Dassault Systèmes
+posted: 1 day ago
+applicants: 137 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-working-student-m-w-d-%25E2%2580%2593-ai-agents-for-experience-ready-twin-generation-at-dassault-syst%25C3%25A8mes-4475941019&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Build AI agents that turn raw 3D data into Experience-Ready Twins
+ We are looking for a motivated student to help us bridge the gap between our high-performance 3D Data Preparation engine and the world of Generative AI. Our team is part of the 3DEXPERIENCE Platform R&D within Dassault Systèmes, focused on delivering infrastructure building blocks to enable the creation of interactive 3D experiences scenarizing multiple virtual twins.
+ Your mission: investigate how generative AI can streamline the transformation of raw product assets into high-quality, Experience-Ready Virtual Twins through automated workflows and smart decision-making.
+Munich | 15-20 h/week | Start: 1. Dezember| At least 12 months
+ Role Description And Responsibilities
+ You will analyze our existing C++ codebase to identify the best candidates for agentic tools and technical building blocks.
+ You will prototype integrations that expose our 3D data preparation operators and engine to AI agents via the Model Context Protocol (MCP).
+ You will implement and evaluate workflows where AI agents assist the preparation of 3D assets to suit the user's scenario and needs.
+ You will collaborate with a team of experienced software developers to guide you and review your work. 
+ Qualifications
+ You are enrolled at a German university (Computer Science or a related field)
+ You have hands-on C++ development experience and are familiar with software engineering best practices, including design patterns, version control (Git), and IDEs like Visual Studio.
+ You have practical experience or a deep interest in AI agent development, specifically regarding LLMs and the Model Context Protocol (MCP).
+ You have a genuine passion for 3D software, computer graphics, or mesh processing.
+ You are autonomous, curious, and a natural problem-solver who enjoys experimenting with emerging technologies.
+ You are fluent in English and capable of communicating technical concepts effectively within a diverse team. 
+ What's In It For You
+ Flexible working hours with the possibility to work partially outside the office
+ Learning from and working with highly qualified, dedicated and diverse teams
+ Possibility for professional development in many different domains within our 3DEXPERIENCE University and LinkedIn Learning programs
+ Additional benefits & perks such as Urban Sports Club membership (because who doesn't love staying fit while having fun?) and of course, unlimited coffee, fruit, and drinks at the office, we’ve got you covered ;)
+ Interested? Click on "Apply" to access the 3DS job portal and to upload your application documents.
+ Inclusion statement
+As a game-changer in sustainable technology and innovation, Dassault Systèmes is striving to build more inclusive and diverse teams across the globe. We believe that our people are our number one asset and we want all employees to feel empowered to bring their whole selves to work every day. It is our goal that our people feel a sense of pride and a passion for belonging. As a company leading change, it’s our responsibility to foster opportunities for all people to participate in a harmonized Workforce of the Future.

@@ -1,0 +1,33 @@
+URL: https://www.linkedin.com/jobs/view/4484892337
+TITLE: Data Analyst
+COMPANY: Phare Consulting Group
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-10-30
+title: Data Analyst
+company: Phare Consulting Group
+posted: 11 hours ago
+applicants: 99 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fdata-analyst-at-phare-consulting-group-4484892337&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+What This Job Is:
+ Several German clients have given Phare years of sales and pricing data so we can test their next price changes. The data has to be cleaned, checked and modelled by someone close to those clients, so Phare is hiring a Data Analyst in Germany. You work from home anywhere in the country; leadership sits in Miami, six hours behind, so a few calls land in your afternoon.
+ Your Tasks: Load client sales, price and customer data into our analysis database;
+ Find gaps and errors in it and agree fixes with the client;
+ Build price, volume and margin analyses in SQL and Python;
+ Create Power BI dashboards for the project teams;
+ Document each data source and every step applied to it;
+ Present what you find to the project team.
+ Requirements: A degree in economics, statistics, computer science or a related field
+ SQL and Excel, including pivot tables
+ Some experience analysing business data, from a job, an internship or a thesis
+ Python or R (bonus)
+ Power BI or Tableau (bonus)
+ Pricing, sales or customer data (bonus)
+ What's in it for You:
+ • Open-ended contract (unbefristet), full-time, remote within Germany
+ • Thirty days of annual leave, public holidays on top
+ • Phare pays into a company pension (bAV)
+ • Money for courses, certifications and books every year
+ • We provide your work computer and home desk setup
+ • Flexible working hours
+ Phare Consulting Group helps companies decide on prices, markets and investments with numbers that hold up. Clients include financial services, industrial, technology and healthcare firms.

@@ -1,0 +1,28 @@
+URL: https://www.linkedin.com/jobs/view/4484943704
+TITLE: Data Analyst (Saudi National)
+COMPANY: Talents Sea | تالنتس سي
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-29
+title: Data Analyst (Saudi National)
+company: Talents Sea | تالنتس سي
+posted: 1 day ago
+applicants: Over 200 applicants
+apply_offsite: 
+---
+Job Summary: 
+ We are seeking a Data Analyst to collect, analyze, and interpret data to support business decisions and improve operational performance. The ideal candidate should have hands-on experience in Power BI, data visualization, and report development.
+ Key Responsibilities: 
+ Collect, clean, validate, and analyze data from multiple sources.
+ Develop and maintain interactive dashboards and reports using Power BI.
+ Monitor Key Performance Indicators (KPIs) and identify trends and performance gaps.
+ Prepare regular reports and provide actionable insights to support decision-making.
+ Ensure data accuracy, consistency, and quality.
+ Collaborate with internal teams to understand reporting requirements and deliver analytical solutions.
+ Requirements: 
+ Bachelor’s degree in Data Analytics, Data Science, Statistics, Computer Science, Information Systems, or a related field.
+ 1–3 years of relevant experience in data analysis.
+ Proficiency in Power BI and dashboard development.
+ Good knowledge of Microsoft Excel and data analysis techniques.
+ Knowledge of SQL and DAX is preferred.
+ Strong analytical and problem-solving skills.
+ Good communication and reporting skills.

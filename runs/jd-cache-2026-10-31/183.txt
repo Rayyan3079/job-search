@@ -1,0 +1,37 @@
+URL: https://www.linkedin.com/jobs/view/4484538036
+TITLE: Working Student - Backend Development Product Creation & Assignment (m|w|d)
+COMPANY: idealo internet GmbH
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-10-29
+title: Working Student - Backend Development Product Creation & Assignment (m|w|d)
+company: idealo internet GmbH
+posted: 1 day ago
+applicants: 36 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-backend-development-product-creation-assignment-m-w-d-at-idealo-internet-gmbh-4484538036&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Description
+ Are you in your first year of your Master's degree and looking for a working student role where you can contribute to real production systems, learn from experienced engineers, and explore the intersection of backend development, data engineering and AI? Then this could be the right role for you.
+ About The Team
+ The Product Creation & Assignment team at idealo builds the systems behind the automated expansion of our product catalogue. Products are the comparable entities users see on our platform — pages where offers from different shops are grouped, enriched and made comparable. We build the systems that identify and create new products from various data sources, and assign incoming shop offers to the right existing or newly created products.
+We work on a modern, cloud-native stack combining JVM-based backend services with data-intensive AWS workflows: Java, Kotlin, Spring Boot, Kafka, MongoDB and EKS, as well as Python-based pipelines using MWAA, Lambda, Step Functions, DynamoDB, Glue Spark and S3. We integrate ML models and GenAI components into our production systems and actively use AI tools such as Claude Code in our daily development workflow.
+ About Your New Role
+ As a working student, you will contribute to meaningful work alongside a senior engineering team. Depending on your background and interests, your work may include:
+ Supporting the development and improvement of backend services and data workflows for automated catalogue expansion. 
+ Working on product data quality — helping improve matching logic, data completeness and pipeline reliability. 
+ Exploring how ML models and GenAI components (such as LLM-based matchers) can be integrated into production systems. 
+ Contributing to tooling, observability and automation that makes the team more effective. 
+ Participating in code reviews, pairing sessions and team rituals — learning how a production-grade engineering team operates. 
+ Job Requirements
+ Skills & Requirements
+ Currently enrolled in a Master's programme in Computer Science, Data Science, Software Engineering or a related field — ideally in your first year. 
+ Solid programming foundation, ideally in Java, Kotlin or Python. 
+ Some experience with backend development, data pipelines or cloud services — through coursework, personal projects or a prior internship. 
+ Curiosity about data-intensive systems, ML integration or AI-assisted development. 
+ Good communication skills and comfortable working in English and German. 
+ At idealo you can expect
+ You want to further your education? We take your personal development goals seriously and, in addition to our idealo Learning Hub, eLearning offerings (e.g., Udemy), coaching & mediation, we also offer you the opportunity to benefit individually from additional learning and development budget.
+ And what about the office? Our office in the heart of Berlin offers free organic breakfast, excellent free lunch (vegan and vegetarian), as well as free coffee, lemonades and after-work beer, in addition to the "standard foosball". It also has a fabulous rooftop terrace with view of the whole of berlin where you can network with colleagues from our group of companies.
+ In need of additional support in any areas of your life? We offer free counseling and support in all areas of life (professional, private, family, health, etc.) in cooperation with the pme-Familienservice.
+ You want full flexibility on your way to work and beyond? No problem with a job bike or Deutschlandticket - and it's environmentally friendly, too!
+ Want to keep yourself fit? We offer many different fitness and sports options, such as an Urban Sports or Gympass membership, to suit your personal needs.
+ And what else is there? Of course, success must be celebrated! In addition to team events, you can also expect big company events and other moments of organized connection with others in the company and your team throughout the year!

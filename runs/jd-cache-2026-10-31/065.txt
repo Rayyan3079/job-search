@@ -1,0 +1,41 @@
+URL: https://www.linkedin.com/jobs/view/4466207347
+TITLE: Werkstudent Motorrad Datenanalysen und Cloudarchitektur (w/m/x)
+COMPANY: BMW Group
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-10-30
+title: Werkstudent Motorrad Datenanalysen und Cloudarchitektur (w/m/x)
+company: BMW Group
+posted: 17 hours ago
+applicants: 75 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-motorrad-datenanalysen-und-cloudarchitektur-w-m-x-at-bmw-group-4466207347&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+THEORETISCH DIE BESTE ENTSCHEIDUNG. PRAKTISCH AUCH.
+ TEILE DEINE LEIDENSCHAFT.
+ Nur hochprofessionelle Abläufe in dynamischen Teams produzieren innovative Spitzentechnologie. Aber Fahrfreude wird bei uns von der Entwicklung bis zur Fertigung vor allem auch mit Spaß an der Arbeit und Begeisterung für das gemeinsame Projekt realisiert. Deshalb geben wir Studierenden bei uns nicht nur die Gelegenheit zum Zuhören, sondern auch zum Mitreden und Weiterdenken.
+Unser Team in der Entwicklung Motorrad bei der BMW Group widmet sich der Datenanalyse von Fahrzeugdaten und der Cloudarchitektur. Im Rahmen deines Werkstudiums unterstützt du uns bei innovativen Datenprojekten und lernst moderne Cloud-Technologien kennen.
+ Was erwartet dich?
+ Du wirkst mit bei der Entwicklung und Implementierung innovativer Cloud-Pipelines.
+ Außerdem unterstützt du bei der Pilotierung von Analysen gemeinsam mit den Fachstellen.
+ Darüber hinaus hilfst du bei der Optimierung und Automatisierung bestehender Use-Cases.
+ Zudem wirkst du mit bei der Visualisierung von Ergebnissen und dem Aufsetzen interaktiver Dashboards.
+ Was bringst du mit?
+ Studium der Informatik, Ingenieurwissenschaften, Physik oder eines vergleichbaren Studiengangs.
+ Grundkenntnisse in Cloud-Technologien, z.B. AWS oder Azure.
+ Erfahrung mit Datenbankstrukturen sowie Programmierkenntnisse, z.B. SQL, KQL, Python oder PySpark.
+ Erste Kenntnisse in der Visualisierung von Datenanalysen.
+ Gute Deutsch- und Englischkenntnisse.
+ Möchtest du innovative Cloud-Pipelines mitgestalten und unser Team bei der Datenanalyse unterstützen? Dann bewirb dich jetzt!
+ Was bieten wir dir?
+ Umfassendes Mentoring & Onboarding.
+ Persönliche & fachliche Weiterentwicklung.
+ Flexible Arbeitszeiten.
+ Mobilarbeit.
+ Attraktive & faire Vergütung.
+ Apartments für Studierende (nach Verfügbarkeit & nur am Standort München).
+ Und vieles mehr siehe bmw.jobs/waswirbieten
+ Startdatum: ab frühestens 01.11.2026
+ Dauer: 12 Monate
+ Arbeitszeit: Teilzeit
+Hilfreiche Tipps zu deiner Bewerbung und dem Bewerbungsprozess findest du hier.
+Wir bei der BMW Group legen großen Wert auf Gleichbehandlung und Chancengleichheit. Unsere Recruiting-Entscheidungen basieren auf der Persönlichkeit, den Erfahrungen und Fähigkeiten der Bewerber:innen. Mehr dazu hier.
+Werkstudent Motorrad Datenanalysen und Cloudarchitektur (w/m/x)

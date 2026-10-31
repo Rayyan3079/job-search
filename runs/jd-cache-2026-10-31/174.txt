@@ -1,0 +1,38 @@
+URL: https://www.linkedin.com/jobs/view/4485339248
+TITLE: Intern (m/f/d) – AI-Driven Optimization & Generative 3D MODSIM (Master's Thesis Option)
+COMPANY: Dassault Systèmes
+LOC: Karlsruhe, Baden-Württemberg, Germany
+POSTED: 2026-10-30
+title: Intern (m/f/d) – AI-Driven Optimization & Generative 3D MODSIM (Master's Thesis Option)
+company: Dassault Systèmes
+posted: 17 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fintern-m-f-d-%25E2%2580%2593-ai-driven-optimization-generative-3d-modsim-master-s-thesis-option-at-dassault-syst%25C3%25A8mes-4485339248&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+We are hiring an Intern (m/f/d) – AI-Driven Optimization to join our Generative 3D MODSIM R&D team.
+In this role, you will help shape the next generation of Generative Design technology within Dassault Systèmes. You will bridge cutting-edge AI techniques with finite element simulation and multiphysics optimization, driving innovation that redefines how engineers design the products of tomorrow.
+ Starting date for the internship is 01st of April 2027 in Karlsruhe.
+ Role Description And Responsibilities
+ Research and develop AI/ML multi-fidelity approaches for non-parametric optimization processes (e.g., enabling the generation of highly detailed structures based on coarser finite element meshes).
+ Participate in the development and implementation of structural optimization algorithms.
+ Prototype and test implementation of algorithmic routines in a C++ and Python environment.
+ Perform modeling within the context of the Finite Element Method (FEM).
+ Investigate, evaluate, and test cutting-edge methods in the fast-moving field of AI and Machine Learning.
+ Optionally, combine your internship with a subsequent Master's Thesis on advanced Generative Design topics.
+ Qualifications
+ Currently pursuing a Master's degree in Mechanical Engineering, Civil Engineering, Aerospace, Computational Engineering, or a related field.
+ First practical or theoretical experience with CAE (Computer-Aided Engineering) and FEM.
+ Initial experience with AI, Machine Learning, or related data science technologies is preferred.
+ Solid understanding of structural mechanics, mathematics, and numerical methods.
+ Programming skills in Python and/or C++ are advantageous.
+ Strong fascination for simulation-based optimization and generative engineering.
+ Self-motivated, goal-oriented mindset with high team spirit.
+ Very good communication skills in English and German (both written and spoken).
+ What’s In It For You
+ Deep insights and practical hands-on training with industry-leading CAE solutions, including 3DEXPERIENCE MODSIM, Tosca Structure, Abaqus, fe-safe, and CATIA.
+ Flexible working hours.
+ Collaborative environment working alongside highly qualified, dedicated, and diverse engineering teams.
+ Clear opportunities for professional development, including access to our 3DEXPERIENCE University and LinkedIn Learning programs.
+ Additional benefits & perks (e.g., Urban Sports Club membership discounts, fresh fruit, drinks, and coffee at the office).
+ Inclusion statement
+As a game-changer in sustainable technology and innovation, Dassault Systèmes is striving to build more inclusive and diverse teams across the globe. We believe that our people are our number one asset and we want all employees to feel empowered to bring their whole selves to work every day. It is our goal that our people feel a sense of pride and a passion for belonging. As a company leading change, it’s our responsibility to foster opportunities for all people to participate in a harmonized Workforce of the Future.

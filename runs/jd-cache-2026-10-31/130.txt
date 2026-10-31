@@ -1,0 +1,45 @@
+URL: https://www.linkedin.com/jobs/view/4483468374
+TITLE: Werkstudent Webentwicklung - Digitalhub (m/w/d)
+COMPANY: SpielundLern.de
+LOC: Neumarkt in der Oberpfalz, Bavaria, Germany
+POSTED: 2026-10-30
+title: Werkstudent Webentwicklung - Digitalhub (m/w/d)
+company: SpielundLern.de
+posted: 15 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+SpielundLern ist ein etablierter Online-Fachhandel rund um Lern- und Fördermaterial für Kinder, Eltern, Kitas und Schulen. Wir begleiten Familien und pädagogische Fachkräfte dabei, das Beste aus der Verbindung von Spielen und Lernen zu machen – mit einem sorgfältig kuratierten Sortiment, persönlicher Beratung und zukünftig auch einer wachsenden digitalen Plattform.
+ Unser Digitalhub ist das Herzstück unserer technologischen Weiterentwicklung: Hier entsteht die nächste Generation unserer Onlinepräsenz – von der Web-App bis zur mobilen Nutzung. Und genau dabei kannst du mitmachen. Wir stehen noch ganz am Anfang und haben noch vieles auszuprobieren.
+ Aufgaben 
+ Als Werkstudent (m/w/d) im Bereich Webentwicklung arbeitest du direkt am Aufbau unseres Digitalhubs mit. Du schreibst echten Code, der produktiv eingesetzt wird, und hast die Möglichkeit, die digitale Zukunft von SpielundLern aktiv mitzugestalten. Wir passen deine Aufgaben flexibel an deinen Kenntnisstand und Studienfortschritt an.
+ Deine Aufgaben
+ Mitarbeit an der Frontend-Entwicklung unseres Digitalhubs mit Angular und TypeScript 
+ Umsetzung neuer Features, Komponenten und UI-Elemente
+ Anbindung und Testen von REST-APIs
+ Nutzung moderner KI-Tools ( Cursor / Antigravity ) zur Effizienzsteigerung im Entwicklungsalltag
+ Unterstützung bei der App-Umwandlung mit Capacitor (iOS / Android)
+ Mitwirkung an Code Reviews und technischer Dokumentation
+ Qualifikation 
+ Das bringst du mit: 
+ Laufendes Studium der Informatik, Software Engineering, Wirtschaftsinformatik oder eines vergleichbaren Studiengangs
+ Erste praktische Erfahrung mit JavaScript / TypeScript – gerne auch aus Uni-Projekten oder eigenen Vorhaben
+ Interesse an modernen Web-Technologien, idealerweise erste Berührungspunkte mit Angular 
+ Selbstständige, lernbereite Arbeitsweise und Freude an technischen Herausforderungen
+ Sprachen: Deutsch fließend in Wort und Schrift (Arbeitssprache im Team), Englisch optional
+ Präsenz: Ein Tag pro Woche vor Ort in unserem Büro in Neumarkt i.d.Opf. erwünscht
+ Von Vorteil – aber kein Muss: 
+ Erste Erfahrungen mit Capacitor oder Cross-Platform-Entwicklung
+ Kenntnisse in der Arbeit mit KI-gestützten Entwicklungstools
+ Erfahrung mit Versionsverwaltung (z. B. Git)
+ Interesse an E-Commerce oder Bildungsthemen
+ Benefits 
+ Flexible Arbeitszeiten , die sich an deinen Vorlesungsplan anpassen
+ Homeoffice-Möglichkeit – wir sind pragmatisch, was Präsenz angeht
+ Direkter Einblick in echte Produktentwicklung mit modernem Tech-Stack (Angular, Capacitor, KI-Tools)
+ Ein motiviertes, kleines Team, das sich Zeit für dich nimmt
+ Sinnvolle Arbeit: Du entwickelst Produkte, die Familien und Bildungseinrichtungen im Alltag helfen
+ Möglichkeit zur Übernahme oder Abschlussarbeit nach dem Studium
+ Klingt nach dem richtigen Nebenjob?
+ Dann schick uns einfach deinen Lebenslauf – ein Anschreiben ist kein Muss, aber natürlich willkommen.
+ Ansprechpartner: Sandra Stephan

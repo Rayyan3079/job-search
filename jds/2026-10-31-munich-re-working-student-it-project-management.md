@@ -1,0 +1,55 @@
+URL: https://www.linkedin.com/jobs/view/4475185270
+Company: Munich Re
+Title: Working Student IT Project Management, Business Solutions (Public Markets Back Office)
+Found: 2026-10-31
+Posted: 2026-10-28
+
+URL: https://www.linkedin.com/jobs/view/4475185270
+TITLE: Working Student IT Project Management in Business Solutions - Public Markets Back (m/f/d)*
+COMPANY: Munich Re
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-10-28
+title: Working Student IT Project Management in Business Solutions - Public Markets Back (m/f/d)*
+company: Munich Re
+posted: 2 days ago
+applicants: 125 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-it-project-management-in-business-solutions-public-markets-back-m-f-d-at-munich-re-4475185270&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+The subsection ITM1.19.1.2 Business Solutions – Public Markets Back delivers value to asset management business through the execution of transformation projects, application development, management of IT products and consulting.
+ We are seeking a motivated and detail-oriented working student to join our team. This internship provides an excellent opportunity to gain hands-on experience in IT project and portfolio management, working closely with project managers, line managers and business stakeholders in a dynamic financial environment.
+ Your Job 
+ Support IT Project and Portfolio Management
+ Assist project managers in coordinating project activities, tracking milestones and monitoring progress
+ Help maintain the IT project portfolio and contribute to project status reporting and dashboards
+ Participate in project planning, scheduling and risk management activities
+ Project coordination and administration
+ Organize and document project meetings, including preparing agendas, capturing meeting minutes and following up on action items
+ Maintain and update project documentation such as project charters, issue logs and change requests
+ Support governance and compliance with internal project management frameworks and standards
+ Stakeholder engagement
+ Collaborate with IT and business teams involved in investment management, back-office operations and system support
+ Assist in preparing presentations and communication materials for internal stakeholders
+ Facilitate smooth information flow between IT, business users and external vendors
+ Your Profile 
+ Currently enrolled in a Bachelor’s or Master’s degree in Information Technology, Computer Science, Business Administration, Finance or a related field
+ Strong interest in project management, financial systems and asset management processes
+ Basic understanding of IT project lifecycle, software development and system operations
+ Excellent organizational and communication skills, with attention to detail
+ Proficiency in Microsoft Office 365 (Excel, PowerPoint, Word, SharePoint, Teams)
+ Experience or familiarity with SimCorp Dimension or financial systems is an advantage, but not required
+ Ability to work independently, learn quickly and collaborate in cross-functional teams
+ Fluency in English (working language); German is a plus
+ Option to work either 16 or 20 hours per week
+ Available for at least 6 months, longer availability would be preferred
+ Students from countries outside the EU require a German residence-/work permit. The first master's degree may not have been completed before/during the entire internship.
+ About Us 
+ As the world's leading reinsurance company with more than 16,000 employees at over 50 locations, Munich Re introduces a paradigm shift in the way you think about insurance. By turning uncertainty into a manageable risk we enable fundamental change. Join us working on topics today that will concern society tomorrow, whether that be climate change, major construction projects, medical risk assessment or even space travel.
+ Together we embrace a culture where multiskilled teams dare to think big. We create the new and the different for our clients and cultivate innovation.
+ Sounds like you? Push boundaries with us and be part of Munich Re. Our employees are our greatest strength. That’s why we offer them a wide range of benefits. You can find some examples below.
+ Unlock your potential 
+ Diversity, Equity & Inclusion: we embrace the power of differences and are convinced that diversity fosters innovation and resilience and enables us to act braver and better.
+ Continuous Learning: we believe that continuous learning is a key differentiator and critical for building new skills and accelerating growth.
+ Career Mobility: we actively support career mobility, and our strong global and regional presence offers a wealth of career growth opportunities for you.
+ Münchener Rückversicherungs-Gesellschaft 
+ Silke Rößler / Oksana Kern / Nina Hartmuth • Coordination Students Program
+ * Munich Re not only stands for fairness with regard to its clients; it is also an equal opportunity employer. Severely disabled candidates will also be prioritised, if equally qualified.

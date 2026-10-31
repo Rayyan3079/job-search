@@ -1,0 +1,52 @@
+URL: https://www.linkedin.com/jobs/view/4482201548
+TITLE: SAP Datasphere & SAP Analytics Cloud (SAC) Developer - FinOps Analytics - VOIS
+COMPANY: VOIS
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-27
+title: SAP Datasphere & SAP Analytics Cloud (SAC) Developer - FinOps Analytics - VOIS
+company: VOIS
+posted: 3 days ago
+applicants: 27 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fin.linkedin.com%2Fjobs%2Fview%2Fsap-datasphere-sap-analytics-cloud-sac-developer-finops-analytics-vois-at-vois-4482201548&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Who We Are
+ VOIS (Vodafone Intelligent Solutions) is a strategic arm of Vodafone Group Plc, creating value for customers by delivering intelligent solutions through Talent, Technology & Transformation.
+As the largest shared services organisation in the global telco industry with 30,000 FTE, our portfolio of next-generation solutions and services are designed in partnership with customers across Vodafone Group, local markets, and partner markets to simplify and drive growth. With our strategic partner Accenture, we work alongside our Vodafone customers, other Telco and tech companies to drive transformation, meet the challenges of our industry and ensure we stay relevant and resilient. This partnership is a unique, industry-first model which brings together the best of in-house and 3rd party capability.
+We work with customers across 28 countries from 10 VOIS locations: Albania, Egypt, Hungary, India, Romania, Spain, Turkey, UK, Germany, Ireland, and with a network of teams in Czech Republic, Italy, Greece, and Portugal.
+#VOIS #BeUnrivalled #CreateTheFuture
+ About This Role
+ We are seeking an experienced SAP Datasphere and SAP Analytics Cloud (SAC) Developer to design, develop, and deliver enterprise-grade analytics solutions that support data-driven decision-making within FinOps. Based in Pune EON and reporting to Mayuri Udgirkar, this role plays a key part in Vodafone’s enterprise analytics strategy by leveraging SAP Datasphere as the central data modelling and semantic layer and SAP Analytics Cloud as the unified analytics and visualisation platform.
+The successful candidate will translate complex business requirements into scalable analytics solutions, delivering trusted insights through robust data models, harmonised KPIs, and intuitive dashboards. The role offers the opportunity to work across FinOps, Supply Chain Management, and Logistics domains while collaborating with global stakeholders in an agile environment.
+ What You’ll Do
+ Design, develop, test, and maintain enterprise data and analytics solutions using SAP Datasphere, SAP Analytics Cloud (SAC), Google Cloud BigQuery, and PL/SQL.Develop and maintain Apache Airflow DAGs to orchestrate data workflows and processing pipelines.Apply DevOps practices to support reliable development, deployment, and ongoing maintenance of analytics solutions.Build data models and analytics solutions that enable process mining and business analytics use cases.Collaborate with business stakeholders and technical teams to translate requirements into scalable, business-ready solutions.Support analytics requirements across FinOps, Supply Chain Management (SCM), and Logistics functions where applicable.Contribute to solution quality through effective development, testing, troubleshooting, and performance optimisation.Work within SAP data and analytics landscapes, leveraging experience across SAP Datasphere, SAP Analytics Cloud, SAP BW/4HANA, and SAP S/4HANA environments where relevant.Enable both standardised reporting and self-service analytics capabilities for business stakeholders.Ensure consistency, accuracy, performance, and governance of analytics assets and KPI frameworks.
+ Who You Are
+ Bachelor’s degree in Engineering, Computer Science, Information Systems, Data Analytics, or a related discipline.Strong hands-on experience with SAP Analytics Cloud (SAC), including:
+ Story development
+ Dashboard and visualisation design
+ Calculated measures
+ Input controls
+ Performance optimisation
+ Security concepts
+ Proven hands-on experience with SAP Datasphere, including:
+ Data modelling
+ Semantic layer design
+ Calculated columns and measures
+ Data validation
+ Strong knowledge of SQL and experience working with complex datasets from SAP and non-SAP environments.Experience in delivering end-to-end analytics solutions from requirement gathering through development, UAT support, deployment, and hypercare.Practical experience with Google Cloud BigQuery, PL/SQL, and Apache Airflow.Understanding of FinOps business processes, including Procurement, Inventory, Order Fulfilment, Spend Analytics, and Supplier Analytics.Strong analytical and problem-solving skills with the ability to transform complex business requirements into scalable analytics solutions.Detail-oriented approach to data modelling, KPI design, and dashboard development.Ability to collaborate effectively with business users, product owners, and cross-functional teams.Ownership mindset with accountability for solution quality, documentation, and support.Experience working within agile delivery models and managing multiple priorities across global stakeholders.Commitment to continuous improvement, standardisation, reusability, and performance optimisation.
+ Not a perfect fit?
+ Concerned you may not meet every requirement? Vodafone is committed to creating an inclusive workplace where everyone can thrive. If you are excited about this role but your experience does not align exactly with every aspect of the job description, you are encouraged to apply. You may be the right candidate for this or another opportunity, and the recruitment team will support you in exploring where your skills fit best.
+ What's In It For You
+ Opportunity to contribute to Vodafone’s enterprise analytics transformation initiatives.Exposure to modern SAP analytics technologies and cloud-based data platforms.Collaboration with global FinOps, Supply Chain, and Data & Analytics teams.Experience working on large-scale enterprise data ecosystems and business-critical analytics solutions.Opportunity to shape trusted KPI frameworks and self-service analytics capabilities.Exposure to agile ways of working, DevOps practices, and global stakeholder engagement.Continuous learning within a highly collaborative analytics environment.
+ What Skills You Will Learn
+ Advanced SAP Datasphere data modelling and semantic layer design.Enterprise-scale SAP Analytics Cloud dashboarding and performance optimisation.Data orchestration using Apache Airflow and cloud-native data pipelines.Google Cloud BigQuery integration and advanced analytics development.Process mining analytics use cases and enterprise KPI framework design.DevOps practices for analytics solution deployment and lifecycle management.Cross-functional business knowledge across FinOps, Procurement, Inventory, and Supply Chain processes.Stakeholder management and delivery within a complex global enterprise environment.
+ VOIS Equal Opportunity Employer Commitment
+ Vodafone recognises and celebrates the value of diversity in building a workforce that reflects the customers and communities it serves. No form of discrimination is tolerated. This includes, but is not limited to, discrimination based on race, colour, age, veteran status, gender identity, gender expression, sexual orientation, pregnancy, maternity or parental status, ethnicity, disability, religion or belief, political affiliation, trade union membership, nationality, citizenship, indigenous status, medical condition, HIV status, neurodiversity, social origin, cultural background, marital or civil partnership status, or socio-economic background.
+ Join Us
+ At Vodafone, we’re working hard to build a better future. A more connected, inclusive and sustainable world. As a dynamic global community, it's our human spirit, together with technology, that empowers us to achieve this.
+We challenge and innovate in order to connect people, businesses, and communities across the world. Delighting our customers and earning their loyalty drive us, and we experiment, learn fast and get it done, together.
+With us, you can truly be yourself and belong, share inspiration, embrace new opportunities, thrive, and make a real difference.
+ Alert 
+ Apply for Vodafone jobs only through the official Vodafone Careers website to avoid job scams and fraud.
+#JDEnhancedByTARA
+ Follow us on social media
+ LinkedIn: https://www.linkedin.com/company/vois/Facebook: https://www.facebook.com/voisglobalInstagram: https://www.instagram.com/voisglobal/You can also chat with our employees to learn more about our projects: https://lnkd.in/dpkrcvR2

@@ -1,0 +1,52 @@
+URL: https://www.linkedin.com/jobs/view/4485209430
+TITLE: (Junior) Consultant SAP Business Data Cloud (m/w/d)
+COMPANY: x1F
+LOC: Stuttgart Region
+POSTED: 2026-10-29
+title: (Junior) Consultant SAP Business Data Cloud (m/w/d)
+company: x1F
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fjunior-consultant-sap-business-data-cloud-m-w-d-at-x1f-4485209430&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Dein Fokusthema
+ Fachlich stark. Technologisch vorn.
+ Wer heute mit Daten arbeitet, braucht Architekturen, die mitwachsen. Genau daran arbeiten wir mit der SAP Business Data Cloud (BDC), inklusive SAP Datasphere und SAC. Gemeinsam mit erfahrenen Kolleg*innen entstehen smarte, skalierbare Cloud-Integrations- und Reportinglösungen, vor allem für die Finanzbranche, aber auch für Industrieunternehmen. Dabei spielen SAP BW (7.5 on HANA oder /4HANA), Databricks und KI-Lösungen eine Rolle.
+Moderne Datenarchitekturen lernst du bei uns im Projekt, nicht aus Folien. Persönliches Mentoring begleitet dich dabei, für einen echten Karrierestart mit Projektbezug.
+ (Junior) Consultant SAP Business Data Cloud (m/w/d) im Team Data Management
+ Deutschland, Düsseldorf, Frankfurt, München, Münster, Stuttgart, hybrid
+ Unbefristet
+ ab sofort
+ Vollzeit
+ Early Career, Mid-Level
+ Deine Aufgaben bei x1F
+ Analyse: Gemeinsam mit deinem Projektteam unterstützt du bei der Analyse bestehender Datenlandschaften und lernst, wie Datenflüsse, Systeme und Prozesse bei unseren Kunden zusammenspielen.
+ Modellierung: Bei Datenmodellen und Transformationen in SAP BW oder SAP Datasphere wirkst du mit und lernst, analytische Anforderungen technisch umzusetzen.
+ Data Integration & BDC: Beim Aufbau und der Integration von Datenquellen sowie bei der Cloud-Migration des SAP BW in die SAP Business Data Cloud (BDC) hilfst du mit, strukturierte und verlässliche Datenprodukte bereitzustellen.
+ ETL & Reporting: Bei ETL- und ELT-Prozessen packst du mit an, führst Tests durch und unterstützt bei der Bereitstellung von Daten für Reporting und Analysen.
+ Cloud & Architektur: Einblicke in moderne SAP-Cloud-Architekturen erhältst du, und du wirkst bei der Weiterentwicklung von Data-Warehouse- und BDC-Lösungen sowie bei der Anbindung von Drittanbietern wie Databricks mit.
+ KI: Gemeinsam mit dem Team unterstützt du dabei, die Geschäftsprozesse unserer Kunden auf Basis moderner KI-Lösungen im Kontext SAP Data und Analytics effizienter zu gestalten.
+ Qualität & Betrieb: Bei Tests, Dokumentation und Qualitätssicherung sowie bei der Erstellung von Betriebs- und Berechtigungskonzepten bringst du dich ein.
+ Beratung: Erfahrene Consultants begleitest du in Kundenterminen, und Schritt für Schritt übernimmst du eigene Aufgabenbereiche im Projekt.
+ Diese Skills bringst du mit
+ Ausbildung: Abgeschlossenes Studium oder kurz vor dem Abschluss in Informatik, Wirtschaftsinformatik, Mathematik, Wirtschaft, Ingenieurwesen oder einem vergleichbaren Studiengang
+ Analytik und Technik: Freude am strukturierten Arbeiten mit Daten sowie Grundkenntnisse in SQL, Datenbanken oder Programmierung
+ Sprachen: Deutsch auf C1-Niveau und Englisch auf B2-Niveau
+ Reisebereitschaft: Projektbezogene Einsätze innerhalb Deutschlands, sofern Kunden es erfordern
+ Von Vorteil
+ SAP: Erste Berührungspunkte mit SAP BW, SAP BDC, SAP Datasphere, SAC oder anderen BI-Tools, etwa aus Studium, Praktikum oder Werkstudierendentätigkeit
+ Deine Persönlichkeit
+ Neugier: Cloud-Technologien und Datenarchitekturen interessieren dich, und du willst wissen, wie alles zusammenspielt.
+ Verantwortung: Eigene Themen übernimmst du Schritt für Schritt, sobald du bereit dafür bist.
+ Kundennähe: Im Kundenkontakt zählen Zuhören und die richtigen Fragen genauso wie Fachwissen, und Teamarbeit ist dabei selbstverständlich.
+ Wir bieten dir
+ Arbeiten & Flexibilität: Remote, hybrid oder im Büro - mit flexiblen Zeiten. Wir setzen auf Vertrauen. 
+ Benefits & Familie: Dein monatliches Benefit-Budget kannst du zum Beispiel für Jobrad, Deutschlandticket, EGYM Wellpass oder vermögenswirksame Leistungen nutzen. Zusätzlich gibt es für Mitarbeitende in Deutschland bis zu 250 € Kita-Zuschuss pro Kind und Monat. 
+ Freiraum & Freizeit: 30 Urlaubstage, Weihnachten und Silvester frei. Außerdem möglich: Workation und Sabbatical. 
+ Gesundheit & Absicherung: Mit unserer betrieblichen Altersvorsorge und einem Arbeitgeberzuschuss von 25 % unterstützen wir dich bei deiner persönlichen Vorsorge. 
+ Kontakt
+ Du bist nicht sicher, ob du fachlich alles mitbringst, was wir suchen? Kein Problem. Melde dich bei uns und wir schauen gemeinsam drauf. Ganz unkompliziert.
+ Sabrina Günzel
+ Senior Recruiter
++49 89 1895510206
+jobs@x1f.one Unsere Website

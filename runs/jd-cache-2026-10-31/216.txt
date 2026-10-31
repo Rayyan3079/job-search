@@ -1,0 +1,46 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-Python-Entwicklung-Strommarkt-Energiewirtschaft-w-m-d-Stuttgart-TransnetBW-GmbH--14694868-inline.html
+TITLE: Werkstudent Python Entwicklung – Strommarkt / Energiewirtschaft (w/m/d)
+COMPANY: TransnetBW GmbH
+LOC: Stuttgart
+POSTED: stepstone
+title: Werkstudent Python Entwicklung – Strommarkt / Energiewirtschaft (w/m/d)
+company: TransnetBW GmbH
+posted: 2026-10-29T07:56:07.523Z
+location: Stuttgart | remote: 
+---
+Einleitung
+ Als Übertragungsnetzbetreiber sichern wir die Stromversorgung für rund elf Millionen Menschen in Baden-Württemberg. Wir schaffen die Infrastruktur für die Energiewende, indem wir das Höchstspannungsnetz instand halten, optimieren und bedarfsgerecht ausbauen. Mit unserem Netz machen wir das Land nicht nur zur innovativen Stromdrehscheibe im Herzen Europas, sondern gestalten das Energiesystem der Zukunft maßgeblich mit.
+ Der Bereich Assetmanagement hat den Gesamtüberblick über den Zustand und die eingesetzten Technologien in unserem Übertragungsnetz. Mit einem tiefen Verständnis vom Energiesystem der Zukunft und den Wirkzusammenhängen werden konkrete
+Bedarfe ermittelt, um heute und in Zukunft die Systemstabilität und -sicherheit sicherzustellen. Die daraus resultierenden Netzmaßnahmen und technisch-wirtschaftlichen Vorgehensweisen begleitet das Assetmanagement von der Entwicklung bis zur Fertigstellung.
+ Aufgaben
+ Unser Team zählt auf dein Engagement und deine Fähigkeiten bei der Entwicklung und Optimierung verschiedener Python-Tools für den Strommarkt.
+ Konkret entwickelst du etwa ein Auswertetool zur Darstellung energiewirtschaftlicher Daten.
+ Des Weiteren entwickelst du Tools zur Umwandlung von Datenformaten und Ergebnissen des Strommarktmodells weiter.
+ Last, but not least verbesserst du die Performance und den Automatisierungsgrad unserer internen Toollandschaft rund um das Strommarktmodell.
+ Profil
+ Du studierst (Wirtschafts-)Informatik, Mathematik, Energietechnik, Naturwissenschaften oder einen vergleichbaren Studiengang.
+ Klar, dass du dich für die Energiewirtschaft und die Energiewende interessierst.
+ Wichtig sind in dieser Tätigkeit vor allem deine fortgeschrittenen, praxisbewährten Kenntnisse in Python.
+ Außerdem hast du idealerweise schon erste Erfahrung mit Datenhaltung und Datenbanken, beispielsweise SQL, gesammelt.
+ Du arbeitest selbstständig, behältst deine Ziele im Blick und beherrschst die deutsche und englische Sprache gut.
+ Das bieten wir Dir
+ Gestalte mit uns die Energiezukunft – und profitiere dabei von einem Arbeitgeber, der deine Leistung wertschätzt und dich als Person in den Mittelpunkt stellt. Bei TransnetBW erwartet dich mehr als nur ein Job – hier findest du ein Umfeld, das Sicherheit, Sinn und Entwicklung vereint.
+ Auszug aus unseren Arbeitgeberleistungen: 
+ Überdurchschnittliche Vergütung
+ Flexible Arbeitsmodelle und mobiles Arbeiten
+ Moderne IT-Ausstattung
+ Spannende Aufgaben mit viel Eigenverantwortung
+ Entwicklungschancen von der Abschlussarbeit bis zum Einstiegsjob
+ Interessiert?
+ Deine neue berufliche Herausforderung ist nur einen Klick entfernt. 
+ Du willst deine Energie für eine gute Sache einsetzen und Antworten auf eine der größten Herausforderungen unserer Zeit finden? Dann sollten wir uns kennenlernen. Wir freuen uns auf deine Bewerbung.
+ Wir legen großen Wert auf Vielfalt und Chancengleichheit und freuen uns über Bewerbungen aller Menschen. Die Bewerbung von Frauen begrüßen wir dabei ausdrücklich. Bewerbende mit Schwerbehinderung oder ihnen gleichgestellte Personen werden außerdem bei gleicher Eignung besonders berücksichtigt.
+ Sende uns bitte deine aussagekräftige Bewerbung über das Online-Formular .
+ Alle Arbeitgeberleistungen findest du auf unserer Karriereseite .
+ Dein Kontakt 
+TransnetBW GmbH
+Emanuel Salanitro
+Heilbronner Straße 51-55
+70191 Stuttgart
+T: +49 711 21858-3606
+ bewerbung@transnetbw.de

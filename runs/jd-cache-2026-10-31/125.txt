@@ -1,0 +1,47 @@
+URL: https://www.linkedin.com/jobs/view/4479090230
+TITLE: Werkstudent Operations & AI Automation (m/w/d)
+COMPANY: MYNE
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-10-30
+title: Werkstudent Operations & AI Automation (m/w/d)
+company: MYNE
+posted: 13 hours ago
+applicants: 34 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-operations-ai-automation-m-w-d-at-myne-4479090230&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+About MYNE
+ Wir sind MYNE Homes - der cleverste Weg in die eigenen Traum-Ferienimmobilie. Mit unserem innovativen Co-Ownership Angebot geben wir mehr Menschen die Möglichkeit, sich ihren Traum vom eigenen Ferienhaus zu erfüllen. Gegründet von Serial Entrepreneurs und unterstützt von einigen der renommiertesten Business Angels in Europa (Gründer von Auto1, Smava und Numa) wachsen wir schnell und suchen dich um uns zu unterstützen das nächste Proptech Unicorn aufzubauen!
+In deiner Rolle als Werkstudent Operations & AI Automation (m/w/d) bringst Du Dich aktiv in die Verwaltung unseres Co-Ownership-Konzepts ein und unterstützt unsere Teams bei laufenden Projekten und täglichen Operations Themen.
+Deine Aufgaben
+ KI & Automatisierung
+ Betreuung und Weiterentwicklung unserer KI-gestützten Workflows (n8n, Claude) für Rechnungseingang, Vorkontierung und Ablage in Odoo.
+ Monitoring und Fehleranalyse der Automatisierungen im Live-Betrieb.
+ Manuelle Prozesse erkennen, die sich automatisieren lassen, und Lösungen mitentwickeln.
+ ERP & Finance Operations:
+ Mitgestaltung von Odoo als zentralem ERP-System: Pflege der Produkte, Weiterentwicklung der Freigabe-Workflows, Onboarding von Kolleg:innen.
+ Kontierung von Rechnungen und Kreditkartenbelegen; Klärung offener Fragen mit dem Accounting.
+ Erstellung von Kontierungsleitfäden für unser Regional-Management-Team.
+ Billing & Co-Owner:
+ Monatliches Self-Billing über unser internes Tool sowie Ausgangs- und Aufenthaltsrechnungen an Co-Owner (inklusive Stripe).
+ Erstellung und Aktualisierung von Wirtschaftsplänen für unsere Immobilien.
+ Ansprechpartner:in für den Eigentümerservice bei Fragen zu Rechnungen, Zahlungen und App-Zugängen.
+ Anlage neuer Immobilien und Co-Owner-Zugänge im Admin-System; Betreuung des Operations- und Accounting-Postfachs.
+ Dein Profil
+ Eingeschriebenes Studium in BWL, Wirtschaftsinformatik, Wirtschaftsingenieurwesen, Immobilienwirtschaft, Finance oder einem ähnlichen Fach.
+ Du hast Lust auf KI und Automatisierung: Du hast schon mit Claude, ChatGPT, n8n, Make oder Zapier experimentiert oder willst genau das lernen. 
+ Du bist zahlenaffin und sorgfältig: Rechnungen, Kontierung und Excel schrecken dich nicht ab. Erste Erfahrung in Buchhaltung, Finance oder mit einem ERP-System ist ein Plus.
+ Du denkst in Prozessen: Wenn du einen manuellen Schritt siehst, fragst du dich, ob das nicht automatisch geht.
+ Du arbeitest selbstständig, übernimmst Verantwortung und hältst Deadlines ein.
+ Fließendes Deutsch und sehr gutes Englisch.
+ Warum wir?
+ Die Chance eines der führenden Proptech-Startups aktiv mit aufzubauen und zu gestalten.
+ Du arbeitest direkt mit erfahrenen Gründern und hochkarätigen Investoren aus der Technologie- und Immobilienwelt zusammen.
+ Verantwortungsvolle und abwechslungsreiche Aufgaben mit Freiraum für eigene Ideen.
+ Motiviertes und ergebnisorientiertes Team, flache Hierarchien und kurze Entscheidungswege.
+ Kompetitives Gehalt und die üblichen Startup Benefits.
+ Und natürlich: Aufenthalte in unseren Traum-Ferienimmobilien!
+ Über uns
+ Unsere Mission
+ Wir sind MYNE Homes - der cleverste Weg in die eigene Traum-Ferienimmobilie. Mit unserem innovativen Co-Ownership Angebot geben wir mehr Menschen die Möglichkeit, sich ihren Traum vom eigenen Ferienhaus zu erfüllen. Gegründet von Serial Entrepreneurs und unterstützt von einigen der renommiertesten Business Angels in Europa (Gründer von Auto1, Smava und Numa), wachsen wir schnell und suchen dich, um gemeinsam das nächste Proptech Unicorn aufzubauen!
+ Was treibt uns an
+ Wir wollen mehr Menschen die Möglichkeit geben, sich ihren Traum von der eigenen Ferienimmobilie zu erfüllen.

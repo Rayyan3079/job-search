@@ -1,0 +1,45 @@
+URL: https://www.linkedin.com/jobs/view/4484805565
+TITLE: Data Engineer - Microsoft BI Specialist
+COMPANY: knowmad mood
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-30
+title: Data Engineer - Microsoft BI Specialist
+company: knowmad mood
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fes.linkedin.com%2Fjobs%2Fview%2Fdata-engineer-microsoft-bi-specialist-at-knowmad-mood-4484805565&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+We are knowmad mood!
+We are a leading digital transformation company, constantly evolving and staying at the forefront of technology. We were founded to drive real change through innovation and sustainable development, with the mission of creating value for our clients and empowering our talent.
+Our organization is made up of more than 3,000 creative, digital, and innovative professionals united by a common purpose and capable of building meaningful connections with people around the world. We are a responsible, flexible, and highly adaptable team, able to respond to the needs of our clients and the market while delivering value, vision, creativity, expertise, professionalism, and a passion for technology in every project.
+The values that define our direction and guide us toward excellence are collaboration, innovation, commitment, enjoyment, and trust.
+ Main Responsibilities:
+ Develop and maintain Business Intelligence and Data Warehouse solutions.
+ Design and optimize SQL Server databases, including T-SQL, stored procedures, views, and indexes.
+ Develop and maintain ETL/ELT processes, OLAP cubes, and reporting solutions.
+ Integrate data from multiple sources and troubleshoot data quality, performance, and integration issues.
+ Develop reports and dashboards using SSRS and Tableau.
+ Manage deployments across development, integration, QA, and production environments.
+ Requirements:
+ Experience developing and maintaining BI and Data Warehouse solutions.
+ Strong knowledge of SQL Server, T-SQL, Oracle, and PL/SQL.
+ Hands-on experience with SSIS, SSAS, OLAP Cubes, SSRS, and ETL processes.
+ Fluent English.
+ Nice to Have:
+ C#/.NET and PostgreSQL
+ Apache Spark, Kafka, Parquet, and Hadoop
+ Experience with source control, release management, and deployment processes
+ Experience with Tableau
+ And with us, you’ll enjoy:
+ ✅ Hybrid work model (2 days per week in the Madrid office).
+✅ Internal training and access to professional certifications. Check out our training calendar here:
+https://www.knowmadmood.com/es/talento/formacion
+✅ Flexible benefits plan (private health insurance, transportation allowance, childcare vouchers, and meal vouchers)
+✅ Become a brand ambassador through our referral program
+Recommend your friends and earn extra rewards!
+✅ Events, meetups, Tech Days, talks, and much more!
+✅ 26 days off per year (22 vacation days, 2 personal days, plus December 24th and December 31st as company holidays by default)
+✅ Flexible working hours: 8-hour workday throughout the year
+To stay up to date with our latest news and opportunities, follow us here:
+knowmad mood – https://www.linkedin.com/company/knowmad-mood/
+At knowmad mood, we are committed to equal opportunities and respect for diversity. We apply our Equality Plan and the principle of non-discrimination throughout all our recruitment and selection processes.

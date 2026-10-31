@@ -1,0 +1,47 @@
+URL: https://www.linkedin.com/jobs/view/4473132553
+TITLE: BI/Reporting Specialist
+COMPANY: PwC Malta
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-30
+title: BI/Reporting Specialist
+company: PwC Malta
+posted: 14 hours ago
+applicants: 86 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fmt.linkedin.com%2Fjobs%2Fview%2Fbi-reporting-specialist-at-pwc-malta-4473132553&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+We’re looking for a BI / Reporting Specialist to join our Data & Transformation team. In this role, you’ll collaborate with experienced professionals who are committed to solving important challenges and delivering meaningful outcomes for our clients and communities. This position offers opportunities to apply your strengths, learn from others, and grow your career in a supportive and dynamic environment. 
+ Your Mission 
+ Your career with PwC is what you make it. As our new BI / Reporting Specialist, you will turn enterprise data into dashboards, semantic models and self-service products that stakeholders across the Firm rely on every day. You will: 
+ Partner with data stewards, data engineers and business experts across Marketing, HR, Finance and client engagements to deliver trusted reporting on top of our databases, IDH and Fabric data products. 
+ Design and deliver production BI solutions and semantic models – authoring dashboards, paginated reports and models in Power BI (Direct Lake / Import / DirectQuery) using DAX and Power Query, with role-level security and workspace governance. 
+ Translate ambiguous business questions into clear KPIs, well-modelled semantic layers and dashboards, aligned to a shared business glossary. 
+ Build and optimise analytics products on modern cloud platforms (Microsoft Fabric, Azure, Databricks), including lakehouse architectures and CI/CD via Git and Azure DevOps. 
+ Embed governance, data quality and GDPR-aware design – lineage, certified datasets and Purview-aligned classification – into every reporting product. 
+ Grow analytics literacy across PwC Malta, mentoring junior analysts and raising the bar on dashboard quality, performance and reliability. 
+ This is a role with room to grow: you’ll work on cross-industry problems at scale, collaborate across the PwC Network, and innovate with modern AI tooling such as Copilot in Power BI and Fabric. We value flexibility, continuous learning and the real impact your work has on the Firm and our clients. 
+ About You 
+ We’re looking for someone who: 
+ Holds a Bachelor’s degree in Computer Science, Information Systems, Business Analytics, Statistics, or a related quantitative discipline. 
+ Brings 3–5 years designing and delivering production BI solutions and semantic models across cross-functional domains (Finance, Marketing, HR, Risk, Engagement Delivery). 
+ Has advanced Power BI skills (dashboards, paginated reports, semantic models, DAX, Power Query, role-level security) and advanced SQL (querying, optimisation and dimensional modelling across engines such as Synapse, Fabric Warehouse, Snowflake or BigQuery). 
+ Understands modern analytics architecture (lakehouse, medallion, star-schema modelling) and BIOps practices (version control, deployment pipelines, dataset certification, usage monitoring). 
+ Has hands-on experience with cloud analytics platforms (Microsoft Fabric, Azure, Databricks) and with the Power Platform and Dataverse (Power Automate, Copilot Studio, Power Apps integration). 
+ Applies governance and data-quality principles, including lineage, certified datasets and GDPR-aware report design. 
+ Brings a unique perspective and values collaboration. 
+ Is eager to learn, adapt, and contribute to a diverse team. 
+ Demonstrates strong communication and problem-solving skills, translating data into clear, decision-ready conversations. 
+ Nice to have: exposure to Python or R for light ML and forecasting; familiarity with enterprise source systems (Oracle Fusion, SAP S/4HANA, Salesforce, Dynamics 365, Workday); experience with GenAI enablement and natural-language Q&A over semantic models; and certifications such as PL-300, DP-600, DP-500, PL-400, PL-500 or Tableau Desktop Specialist. 
+ Why PwC? Your Growth, Our Commitment 
+ At PwC, we’re dedicated to supporting your development and wellbeing. You’ll find: 
+ Continuous personal and professional development through our Learning and Development Program. 
+ A dedicated Career Coach to support you in defining your career path and achieving both your personal and professional goals. 
+ A comprehensive Wellbeing Program, including confidential Employee Assistance services and fitness initiatives. 
+ Annual performance reviews focused on growth and constructive feedback. 
+ A dynamic and diverse environment that values all perspectives and fosters collaboration. 
+ Opportunities to work on international projects and broaden your experience. 
+ An open-door culture where all voices are heard and respected. 
+ Social and sports activities designed to build connections and support a balanced lifestyle. 
+ Our Commitment to Diversity & Inclusion 
+ At PwC, diversity means recognising and valuing the wide range of experiences, perspectives, and backgrounds that make each of us unique – and that bring us together. Our differences in culture, identity, thinking, and approaches to problem-solving enrich the work we do and strengthen the outcomes for our clients. We are committed to fostering an environment where inclusion is embraced as a fundamental way of working, where every voice is welcomed, and where collaboration drives innovation. By respecting and celebrating individual differences, we unlock the full potential of our people and the impact we create together. 
+ Ready to Make an Impact? 
+ If this aligns with your values and aspirations, we’d love to hear from you! Apply now and join us on our journey to reimagine the possible.

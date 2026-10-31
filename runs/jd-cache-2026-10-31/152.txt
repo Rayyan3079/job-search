@@ -1,0 +1,39 @@
+URL: https://www.linkedin.com/jobs/view/4484893048
+TITLE: Werkstudent (w/m/d) Digitalisierung, Data & AI im Bereich Supply Chain Management
+COMPANY: Siemens
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-10-30
+title: Werkstudent (w/m/d) Digitalisierung, Data & AI im Bereich Supply Chain Management
+company: Siemens
+posted: 12 hours ago
+applicants: 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-w-m-d-digitalisierung-data-ai-im-bereich-supply-chain-management-at-siemens-4484893048&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Art der Anstellung: Befristet / Teilzeit; (15-20 Stunden / Woche)
+Starte als Werkstudent (w/m/d) Digitalisierung, Data & AI im Bereich Supply Chain Management am Standort Berlin und tauche ein in die Welt moderner Datenanalyse, innovativer KI-Lösungen und zukunftsweisender Reporting-Tools – gestalte mit uns die digitale Transformation von morgen! Werde Teil eines motivierten Teams und bring deine Ideen ein, um mit Power BI, Snowflake und KI-Technologien echte Mehrwerte für unsere Supply Chain zu schaffen.
+Werde Teil unseres Working Student Network – einer Community, die dir Austausch, Unterstützung und wertvolle Kontakte bei Siemens bietet.
+ Verändere die Welt von morgen:
+ Du unterstützt bei der Erstellung, Pflege und Weiterentwicklung von Power BI-Dashboards sowie Reporting-Lösungen und bringst dabei deine Begeisterung für Digitalisierung und Daten ein
+ Im Anschluss wirkst du aktiv an der Entwicklung datengetriebener, Cloud-basierter Lösungen mit, insbesondere unter Einsatz von Snowflake und dbt
+ Zudem analysierst, bereitest und visualisierst du Daten, um die Grundlage für operative und strategische Entscheidungen im Supply Chain Management zu schaffen
+ Darüber hinaus erprobst und wendest du moderne KI- und Generative-AI-Technologien an, beispielsweise zur Automatisierung von Prozessen oder zur Unterstützung wiederkehrender Aufgaben
+ Abschließend arbeitest du eng mit verschiedenen Schnittstellen im Unternehmen zusammen, um digitale und KI-basierte Lösungen praxisnah in bestehende Prozesse zu integrieren
+ So überzeugst du uns:
+ Ausbildung: Du studierst derzeit erfolgreich Informatik, Wirtschaftsinformatik, Data Science, Ingenieurwissenschaften oder einen vergleichbaren Studiengang
+ Erfahrungen und Kenntnisse:
+ Du hast Begeisterung für Digitalisierung, Daten und Künstliche Intelligenz
+ Idealerweise verfügst du über erste Erfahrungen mit Power BI, Python, SQL, Snowflake, dbt oder vergleichbaren Technologien
+ Du bringst eine Affinität zu digitalen Themen und Interesse an innovativen Lösungen sowie Gestaltungsaufgaben im Projektumfeld mit
+ Arbeitsweise: Analytisches Denken, Teamfähigkeit und eine eigenständige Arbeitsweise zeichnen dich aus
+ Sprachkenntnisse: Sehr gute Deutschkenntnisse
+ Du bist viel mehr als deine Qualifikationen und wir glauben an das Potential jeder einzelnen Person. Wir freuen uns darauf, dich kennenzulernen!
+Bei Siemens sind wir überzeugt: Wer sich wertgeschätzt und zugehörig fühlt, kann das eigene Potenzial voll entwickeln. Deshalb schaffen wir ein inklusives Arbeitsumfeld, in dem jede Person ein Gefühl der Zugehörigkeit erfährt und in dem individuelle Perspektiven und Erfahrungen geschätzt werden. Unser Engagement für Fairness und Respekt gilt für alle Bewerbenden.
+Wir legen Wert auf Chancengleichheit und freuen uns über Bewerbungen von Menschen mit unterschiedlichen Hintergründen, ausdrücklich auch von Menschen mit Behinderung.
+ Über Uns
+ Bist du bereit, die Energiewende voranzutreiben?
+Unsere Mission ist es, innovative und nachhaltige Lösungen zu entwickeln, die sowohl Energieeinsparungen ermöglichen als auch den CO₂-Fußabdruck von Gebäuden und Infrastrukturen reduzieren. Deshalb setzen wir bei Siemens im Bereich Smart Infrastructure Electrification & Automation alles daran, eine grünere Zukunft zu gestalten und unsere Lebens- und Arbeitsweise zu revolutionieren.
+Mehr Informationen zum Bereich und den Produkten findest du hier: https://www.siemens.com/de/de/unternehmen/themenfelder/smart-infrastructure.html
+www.siemens.de/karriere – wenn du mehr Informationen zu Jobs & Karriere bei Siemens erhalten möchtest.
+FAQ – wenn du eine Frage zum Thema Bewerbung bei Siemens hast.
+Wenn du darüber hinaus noch Fragen hast, wende dich gerne an uns: www.siemens.de/fragenzurbewerbung
+#sagworkingstudent

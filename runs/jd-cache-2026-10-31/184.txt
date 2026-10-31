@@ -1,0 +1,35 @@
+URL: https://www.linkedin.com/jobs/view/4484903936
+TITLE: Werkstudent:in Digitale Lösungen
+COMPANY: JKM consult GmbH
+LOC: Berlin, Germany
+POSTED: 2026-10-29
+title: Werkstudent:in Digitale Lösungen
+company: JKM consult GmbH
+posted: 1 day ago
+applicants: 39 applicants
+apply_offsite: 
+---
+Für unseren Standort Berlin suchen wir dich als Werkstudent:in, der/die uns im Team Digitale Lösungen für diverse Projekte unterstützt.
+ Dein Aufgabenbereich:
+ Unterstützung der (Senior) Consultants bei ihren Projekttätigkeiten rund um digitale Themen:
+ Entwicklung interner Werbeanwendungen zur Digitalisierung und Automatisierung von Geschäftsprozessen 
+ Mitarbeit in Frontend, Backend oder Datenbanken sowie Einblicke in APIs, Cloud und Deployment 
+ Analyse wiederkehrender Abläufe und Überführung in technische Lösungen 
+ Fehlerbehebung, Code-Optimierung und Weiterentwicklung von Anwendungen und Prozessen 
+ Mitarbeit an internen Teams:
+ Überarbeitung von PowerPoint Präsentationen gem. interner CI-Vorgaben
+ Social Media
+ Prozessmanagement
+ Deine Qualifikation:
+ Studium im Bereich (Wirtschafts-)Informatik, Data Science, Wirtschaftsingenieurwesen oder vergleichbar 
+ Sichere Programmierkenntnisse in mindestens einer relevanten Sprache (z. B. Python, JavaScript, TypeScript, C#) 
+ Ein technischer Schwerpunkt ist vorhanden, du möchtest dich aber nicht darauf beschränken und arbeitest dich schrittweise in den gesamten Technologie-Stack ein 
+ Erfahrung mit Git sowie idealerweise erste Berührungspunkte mit GitHub, Cloud-Plattformen oder CI/CD 
+ In neue Technologien und fachliche Problemstellungen arbeitest du dich selbstständig ein 
+ Analytische, strukturierte und eigenverantwortliche Arbeitsweise 
+ Sehr gute Deutschkenntnisse 
+ Das bieten wir dir
+ einen Job in entspannter Atmosphäre und top Lage
+ flexible Arbeitszeiten
+ spannende und herausfordernde Aufgaben, mit Eigenverantwortung und Gestaltungsspielraum
+ leistungsgerechte Vergütung

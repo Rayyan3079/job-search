@@ -1,0 +1,29 @@
+URL: https://www.linkedin.com/jobs/view/4484830748
+TITLE: Werkstudent/-in Digital Production / MES (all genders)
+COMPANY: adesso SE
+LOC: Nuremberg, Bavaria, Germany
+POSTED: 2026-10-30
+title: Werkstudent/-in Digital Production / MES (all genders)
+company: adesso SE
+posted: 18 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-in-digital-production-mes-all-genders-at-adesso-se-4484830748&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Wir gehören zu den Top-Adressen in der IT-Welt und fokussieren uns auf die Optimierung der Kerngeschäfts­prozesse unserer Kunden. Durch den smarten Einsatz maßgeschneiderter IT-Lösungen unterstützen wir unsere Kunden dabei, das Beste aus ihrem Business und aktuellen Technologien herauszuholen. Unseren Erfolg aber erreichen wir nur durch eins: die Menschen bei adesso! Sie bringen Ideen, fachliches Know how und Technologien zusammen. Gemeinsam programmieren wir (deine) Zukunft bei adesso.
+ DEINE ROLLE
+ Lösungen: Bei der Konzeption und Implementierung von Lösungen mit Siemens Opcenter unterstützt du das Team.
+ Prozessmodellierung: Du nimmst Produktionsprozesse auf, modellierst sie und bildest sie digital ab.
+ Tests & Integration: Bei Tests, der Datenintegration und der Analyse von Schnittstellen zwischen Information Technology (IT) und Operational Technology (OT) wirkst du mit.
+ Dokumentation: Du erstellst technische und fachliche Dokumentationen und bereitest Ergebnisse verständlich auf.
+ Kundenworkshops: Du unterstützt Workshops mit Kundinnen und Kunden sowie die Entwicklung von Prototypen und Proofs of Concept.
+ Eigenständigkeit: Schritt für Schritt übernimmst du eigene Aufgabenpakete und bringst deine Ideen ins Team ein.
+ DEIN PROFIL
+ Studium: Du studierst Informatik, Maschinenbau, Wirtschaftsingenieurwesen, Produktionstechnik oder einen vergleichbaren technischen Studiengang.
+ Interessen: Du interessierst dich für digitale Produktion, Industrie 4.0, Manufacturing Execution Systems (MES) sowie die Schnittstelle zwischen Geschäfts- und Technologiethemen.
+ Grundkenntnisse: Erste Kenntnisse in MES, Enterprise Resource Planning (ERP) oder Produktionsprozessen sind hilfreich.
+ Technologien: Idealerweise bringst du Berührungspunkte mit MES, Structured Query Language (SQL), Python, Prozessmodellierung oder IT-/OT-Schnittstellen mit.
+ Arbeitsweise: Neugierig und strukturiert arbeitest du dich in neue Themen ein und bringst dich gern ins Team sowie in die Zusammenarbeit mit Kundinnen und Kunden ein.
+ KI Kompetenz: Du bist neugierig auf Künstliche Intelligenz, setzt KI-gestützte Tools in deinem Arbeitsalltag ein und baust deine Kompetenzen dabei Schritt für Schritt aus.
+ Sprachkenntnisse: Deine sehr guten Deutsch- und guten Englischkenntnisse ermöglichen dir eine sichere Kommunikation.
+ Unser Versprechen: Du wirst dich bei uns wohlfühlen! Kollegial, familiär und auf Augenhöhe – wir leben Austausch, Teamgeist und einen respektvollen Umgang miteinander. Diversität und verschiedene Blickwinkel werden bei uns genauso geschätzt wie du als Mensch. Das und viel mehr steht für unser ganz besonderes Wir-Gefühl. Für das es sogar ein Wort gibt: adessi.
+Unsere Kultur und das Zusammenarbeiten sind geprägt von gegenseitiger Wertschätzung, Anerkennung und Unterstützung. Das verbindet uns hierarchieübergreifend – auch im Home-Office. So belegen wir zum wiederholten Mal den 1. Platz beim Wettbewerb „Deutschlands Beste Arbeitgeber in der ITK“!. Unser umfangreiches Trainingsangebot und ein transparentes Laufbahnstufenmodell für alle sorgen dafür, dass deine Entwicklung bei uns nicht stillsteht. Denn gemeinsam zu wachsen und Chancengeber zu sein, das ist programmiert in unserer DNA.

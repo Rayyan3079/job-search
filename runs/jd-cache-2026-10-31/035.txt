@@ -1,0 +1,42 @@
+URL: https://www.linkedin.com/jobs/view/4468663003
+TITLE: Working Student – AI & Operations
+COMPANY: Oviva
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-10-29
+title: Working Student – AI & Operations
+company: Oviva
+posted: 1 day ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-%25E2%2580%2593-ai-operations-at-oviva-4468663003&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+The Role
+ Are you eager to gain hands-on experience applying modern AI technologies to solve real-world operational challenges? We are looking for a Working Student – AI & Operations to join our Engineering team.
+In this role, you will act as a vital bridge between operational teams and technical implementation. You will work closely with Business Operations to understand day-to-day workflows and collaborate with Product Managers and Engineers to build, refine, and deploy a modern AI agent. By translating operational needs into capable AI solutions, you will reduce manual tasks and empower our teams to work smarter and faster—ultimately helping us better serve our patients.
+ Job Responsibilities
+ Translate operational needs: Act as the bridge between business workflows and technical implementation by translating requirements into clear specifications for AI solutions.
+ Design & refine AI workflows: Apply prompt engineering and modern AI techniques (e.g., structured prompting, iteration, and evaluation) to design, test, and improve AI agent capabilities continuously.
+ Build lightweight integrations: Create simple automations and connections that link the AI agent with the core data and tools our operational teams use daily.
+ Evaluate & document performance: Systematically test agent outputs, document findings, and measure improvements to guarantee reliability and accuracy over time.
+ Collaborate dynamically: Partner closely with Operations, Product, Data, and Platform colleagues to respond quickly to ad-hoc operational requests and shape ongoing process improvements.
+ About You
+ Essential Skills & Qualifications:
+ Fluent in German.
+ Currently enrolled as a student in Computer Science, Data Science, Engineering, or a related technical field.
+ Basic programming skills (e.g., Python) to build lightweight scripts or automations.
+ Practical interest and hands-on experimentation with large language models, AI tools, and prompt engineering.
+ Strong problem-solving mindset with the ability to break down real-world processes into clear, logical steps.
+ Clear communication skills with the confidence to talk to non-technical stakeholders and translate their feedback into requirements.
+ High curiosity, initiative, and an eagerness to learn, iterate, and experiment quickly
+ Preferred Skills:
+ Familiarity with AI/agent frameworks or platforms (such as OpenAI, Vertex AI, or similar tools).
+ Interest in process improvement, business operations, digital health, or healthcare environments.
+ What We Offer
+ The opportunity to make a meaningful impact in revolutionizing healthcare
+ Exciting and rewarding role in a high-growth environment
+ Training and development opportunities, with a personal learning allowance
+ We embrace flexibility & remote working
+ We provide a home working allowance to enable you to set up your workspace in a way which suits you
+ Having a culture that people want to work in, is very important to us. We do this by keeping our values at the forefront of everything we do:
+We put the patient first. We empower our teams. We make it happen
+Oviva is passionate about creating an inclusive culture that celebrates diverse voices and perspectives. We are proud to be a Disability Confident Employer and welcome applicants from all backgrounds and identities.
+Ready to help shape the future of digital healthcare? Apply today.

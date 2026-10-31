@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Student (m/f/d): Netlist Carpentry – Extending an interactive Circuit Viewer (IMMS_STUD_ME_1226)",
+    "company": "IMMS GmbH",
+    "city": "Erfurt",
+    "greeting": "Dear Mr Schäfer,",
+    "opening": "I am applying as a student research assistant for the Netlist Carpentry topic. Extending an open-source Python framework with search, signal-path tracing and highlighting in a graph viewer is a concrete, well-scoped task, and it combines two things I have done before: working with graphs in Python and shipping tested, documented code.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence. I live and study in Ilmenau, so Erfurt is an easy commute.",
+    "achievements": [
+      {
+        "lead": "Graphs in Python",
+        "impact": "in a team project I extracted subject-relation-object triples from text into a NetworkX graph and compared graph and language-model embeddings"
+      },
+      {
+        "lead": "Tested, documented code",
+        "impact": "my RAG project DocuMind has 37 offline unit tests, GitHub Actions CI, Docker and a README written for other users"
+      },
+      {
+        "lead": "Tracing problems",
+        "impact": "I used an evaluation harness to trace both wrong answers in DocuMind to chunk boundaries, the same habit I would use for signal-path tracing"
+      }
+    ],
+    "problems_section": "I would first learn the structure of Netlist Carpentry and the existing viewer, then add the search bar, signal-path tracing and node marking step by step, each with tests on example circuits and documentation that fits your existing suite. I have no microelectronics background, so I would rely on your circuits and team for the domain side and contribute the Python and graph work.",
+    "closing": "I can work up to 20 hours per week alongside my studies, starting immediately. I am also interested in your other Python topics, such as constant propagation for optimizing digital circuits. I would be glad to discuss the work.",
+    "date": "2026-10-31",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-10-31/imms-student-netlist-carpentry-circuit-viewer/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

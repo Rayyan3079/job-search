@@ -1,0 +1,39 @@
+URL: https://www.linkedin.com/jobs/view/4484566697
+TITLE: Desarrollador/a Oracle SQL y PL/SQL
+COMPANY: NETCheck
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-29
+title: Desarrollador/a Oracle SQL y PL/SQL
+company: NETCheck
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fes.linkedin.com%2Fjobs%2Fview%2Fdesarrollador-a-oracle-sql-y-pl-sql-at-netcheck-4484566697&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Buscamos Desarrolladores/as Oracle SQL y PL/SQL para incorporarse a un proyecto de la Administración Pública , con modalidad híbrida en Madrid, para participar en el desarrollo, mantenimiento y optimización de bases de datos Oracle.
+ ⚙️ Responsabilidades principales
+ Analizar y adaptar código SQL/PLSQL para migraciones.
+ Crear, modificar y optimizar objetos y consultas de bases de datos.
+ Preparar scripts y gestionar versiones del código con Git.
+ Colaborar en despliegues automatizados y realizar pruebas.
+ Corregir errores y mantener la documentación técnica.
+ ✅ Requisitos mínimos
+ Disponer de al menos:
+ Un grado superior oficial relacionada con Ingeniería Informática, Sistemas, Ingeniería Eléctrica, Electrónica, Telecomunicaciones o equivalente. 
+ Una certificación profesional oficial en SQL, PL/SQL, desarrollo o administración de Oracle Database.
+ Contar con conocimientos y/o experiencia en:
+ Desarrollo con Oracle SQL y PL/SQL, mantenimiento de bases de datos y optimización de consultas y rendimiento.
+ Control de versiones con Git, pruebas de software e integración en procesos CI/CD.
+ Adaptación de código y migración de componentes entre PostgreSQL y Oracle.
+ Diseño y ejecución de pruebas unitarias, de integración y regresión.
+ Desarrollo en arquitectura Multitenant (PDB). 
+ 🧠 Competencias personales
+ Capacidad de análisis y resolución de problemas.
+ Atención al detalle y orientación a la calidad del código.
+ Capacidad para documentar el trabajo realizado y trabajar en equipo.
+ 🎯 Qué ofrecemos
+ Proyecto estable con un cliente de la Administración Pública.
+ Entorno profesional dinámico con proyectos variados que te desafían y motivan.
+ Oportunidades de formación continua y desarrollo profesional.
+ Paquete salarial competitivo, flexibilidad laboral y beneficios adaptados a tu experiencia.
+ Un equipo que valora la comunicación efectiva, la innovación y tu crecimiento dentro de la empresa.
+ Si quieres formar parte de un equipo donde tu talento cuenta, tus ideas importan y tu desarrollo profesional es prioritario , envía tu CV y carta de presentación destacando tus proyectos y certificaciones.

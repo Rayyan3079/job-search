@@ -1,0 +1,64 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudentin-Datenanalyse-Power-Plattform-fuer-DC-Links-Infrastrukturprojekte-m-w-d-Berlin-50Hertz-Transmission-GmbH--14696513-inline.html
+TITLE: Werkstudentin Datenanalyse & Power Plattform für DC-Links Infrastrukturprojekte (m/w/d)
+COMPANY: 50Hertz Transmission GmbH
+LOC: Berlin
+POSTED: stepstone
+title: Werkstudentin Datenanalyse & Power Plattform für DC-Links Infrastrukturprojekte (m/w/d)
+company: 50Hertz Transmission GmbH
+posted: 2026-10-29T15:44:48.327Z
+location: Berlin | remote: 
+---
+Wer wir sind?
+ Wir sind 50Hertz – einer der vier Übertragungsnetzbetreiber (ÜNB) in Deutschland. Zusammen mit dem belgischen Stromnetzbetreiber Elia (Brüssel) bilden wir die international tätige Elia Group. Bei 50Hertz arbeiten über 2.500 Menschen daran, dass Strom über große Entfernungen jederzeit zuverlässig, verlustarm und optimal gesteuert fließt. Als ÜNB übernehmen wir in gesellschaftlicher, technischer und wirtschaftlicher Hinsicht eine zentrale Moderatorenrolle bei der Verwirklichung der Energiewende. Unser Ziel: Bis zum Jahr 2032 wollen wir 100 Prozent erneuerbare Energien sicher und bezahlbar in Netz und System integrieren.
+ Innovativ 
+Wir treiben die Energie­wende mit zukunfts­weisenden Technologien und kreativen Lösungen voran. Dabei denken wir heute schon an über­morgen und sind bereit, neue Wege zu gehen. 
+ Divers 
+Bei uns arbeiten Menschen aus unterschied­lichen Kulturen und mit viel­fältigen Talenten zusammen, um gemeinsam Großes zu erreichen. Dabei sehen wir Vielfalt in jeder Dimension immer als Chance. 
+ Verantwortungsvoll 
+Wir tragen Verantwortung für eine zuverlässige Stromversorgung und den nachhaltigen Ausbau des Stromnetzes. Um diese Aufgabe zu meistern, ist es für uns selbstverständlich, auch füreinander Verant­wortung zu übernehmen. 
+ Gemeinschaftlich 
+Unsere starke Gemein­schaft und wert­schätzende Zusammenarbeit sichern den Erfolg unserer Mission. Deshalb fördern wir aktiv die individuellen Stärken und Interessen unserer Mitarbeitenden und unterstützen die persön­liche Weiterentwicklung. 
+ Werkstudentin Datenanalyse & Power Plattform für DC-Links Infrastrukturprojekte (m/w/d) 
+ Teilzeit
+ Heidestraße 2, 10557 Berlin
+ Zum nächstmöglichen Zeitpunkt
+ Stellen-ID: 11657
+ Gestalte gemeinsam mit unserem Team die datengetriebene Steuerung – sowohl für das Management als auch für die operative Steuerung bei 50Hertz!
+ Deine Aufgaben 
+ Aufbau, Weiterentwicklung und Pflege von Power-BI-Reports (Management Reporting, monatliches Reporting, operative Steuerungsdashboards),
+ Unterstützung bei der Entwicklung und Weiterentwicklung von Power Apps (z.B. für Datenerfassung, Prozessunterstützung, Reporting),
+ Aufbereitung, Analyse und Modellierung von Daten aus unterschiedlichen Quellen für Power BI Reports (u. a. mit Power Query, Dataflows, Datenbank APIs),
+ Unterstützung bei der Dokumentation, Tests- und Qualitätssicherung von Reports und Apps und der Analyse von Umsetzungspotentialen,
+ Enge Zusammenarbeit mit Fachbereichen und Stakeholdern von 50Hertz.
+ Wir stellen uns vor, dass du ...
+ im fortgeschrittenen Bachelor oder im Master des Wirtschaftsingenieurwesens, der (Wirtschafts-)Informatik oder eines vergleichbaren Studiengangs bist,
+ erste Erfahrungen mit Power BI oder Power Apps hast oder großes Interesse daran mitbringst die Welt der Business Intelligence kennen zu lernen,
+ strukturiert, selbstständig und zuverlässig arbeitest,
+ Interesse an Digitalisierung und Daten hast,
+ sehr gute Deutsch- (B2) und gute Englischkenntnisse (B1) in Wort und Schrift aufweist.
+ Erste Erfahrungen in der Projektsteuerung oder in der Softwareentwicklung sind ein Vorteil.
+ Was macht 50Hertz für mich interessant?
+ Interessante und fordernde Aufgaben mit Verantwortung
+ Kostenfreie Getränke (Kaffee, Kakao, Tee, Wasser)
+ Wertvolle Praxiserfahrung sammeln
+ Mobiles Arbeiten
+ Nach Absprache die Möglichkeit, eine Abschluss­arbeit vorzubereiten und zu schreiben
+ Wöchentliche Arbeitszeit von 10 bis zu 20 Stunden (37 Stunden bei einem Praktikum)
+ Kollegiales Umfeld, das deine Stärken fördert
+ Flexibel aktiv bleiben – mit Urban Sports Club bzw. Hansefit
+ Faire Vergütung und Sonderleistungen
+ Ausstattung mit Laptop
+ Volle Flexibilität im Hinblick auf deine Studien- und Prüfungspläne
+ Ansprechpartner*in
+ Tatjana Schwappach 
+Bei E-Mail-Anfragen zu diesem Job bitte im E-Mail-Betreff die Stellen-ID nennen. Bewerbungsunterlagen bitte ausschließlich über das Bewerbungsformular versenden (Button „Ich bin interessiert“). Wähle hier gern die Option „Weiter als Gast“. Bitte schicke uns keine Bewerbungsunterlagen per E-Mail, auch keine Initiativbewerbungen, da wir diese leider nicht berücksichtigen können. 
+ E-Mail schreiben 
+ 50Hertz Transmission GmbH – ein Unternehmen der europäischen Elia Group 
+ Heidestraße 2 | 10557 Berlin
+ www.50hertz.com 
+ Für eine erfolgreiche Energiewende in einer nachhaltigen Welt 
+ Als einer von vier Über­tragungs­netzbetreibern in Deutschland ist 50Hertz für den Stromtransport auf höchster Spannungsebene verant­wortlich; auf der Ebene, von der alles abhängt, wenn es um Netzstabilität und Versorgungs­sicherheit in Deutschland und Europa geht. Wir sind Teil eines europäischen Netzverbundes und kooperieren unmittelbar mit Kolleginnen und Kollegen in ganz Europa. Mit dem belgischen Netzbetreiber Elia bildet 50Hertz ein europäisches Unter­nehmen: die Elia Group. Dabei arbeiten wir an den entscheidenden Themen intensiv zusammen. Einzelne Bereiche wie IT oder Einkauf sind Gruppen­funktionen, d. h. hier sind Elia- und 50Hertz-Kolleg*innen in einem gemeinsamen Team tätig auf Arbeitsplätzen, die sich auf Berlin und Brüssel verteilen.
+ Bewerbung jetzt 
+ Bitte bewirb dich, auch wenn du (noch) nicht in allen Punkten dem Kompetenzprofil entsprichst.
+ Aktive Unterstützung 
+Wir freuen uns über Bewerbungen von Menschen mit Behinderungen. Die 50Hertz-Schwerbehindertenvertretung (SBV) ( sbv@50hertz.com ) berät dich gern und vertraulich, auch zur Barrierefreiheit unserer Standorte. Wenn du bereits im Bewerbungsformular und/oder deiner Bewerbung auf deine (Schwer-)Behinderung aufmerksam machen möchtest, leiten wir deine Bewerbung an die SBV weiter, damit sie deine Bewerbung von Beginn an aktiv unterstützen kann.
