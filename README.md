@@ -22,4 +22,4 @@ Internships, thesis roles, full-time roles and German-required roles are listed 
 
 **2026-11-01**: 55 new jobs (one day after the last run). 1 package: [Haleon Munich – Working Student Supply & Demand Planning](output/2026-11-01/haleon-working-student-supply-demand-planning/) (3). Report: [digests/2026-11-01.md](digests/2026-11-01.md). Previous run with 9 packages: [digests/2026-10-31.md](digests/2026-10-31.md).
 
-Applied and waiting: 14 applications (KWS, Munich Re x2, Atlas Copco, ZEISS, AgentixLake x2, IMMS, SAP x2, Airbus, BASF, Hilti, Carnival Maritime, Solactive). See [data/applications.md](data/applications.md).
+Applied and waiting: 15 applications (KWS, Munich Re x2, Atlas Copco, ZEISS, AgentixLake x2, IMMS, SAP x2, Airbus, BASF, Hilti, Carnival Maritime, Solactive). See [data/applications.md](data/applications.md).
