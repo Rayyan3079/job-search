@@ -165,4 +165,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/17751-44542798-1030-S | Die Autobahn GmbH des Bundes Niederlassung Nordwest (Hannover) | Werkstudentin oder Werkstudent Personalentwicklung (w/m/d) | Hannover
 - [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/13348-1648271-1-S | Lufthansa Technik AG | Working Student Key Account Management EPAR (m/f/d) | Hamburg
 
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003943695-S | Clarius.Services GmbH | Werkstudent (w/m/d) Business Excellence & Transformation | Eschborn, Taunus
+
 ## Processed

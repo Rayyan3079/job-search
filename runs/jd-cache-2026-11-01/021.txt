@@ -1,0 +1,24 @@
+URL: https://www.linkedin.com/jobs/view/4301905800
+TITLE: Werkstudent/-in Softwareentwicklung SAP (all genders)
+COMPANY: adesso business consulting AG
+LOC: Paderborn, North Rhine-Westphalia, Germany
+POSTED: 2026-10-31
+title: Werkstudent/-in Softwareentwicklung SAP (all genders)
+company: adesso business consulting AG
+posted: 18 hours ago
+applicants: 156 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-in-softwareentwicklung-sap-all-genders-at-adesso-business-consulting-ag-4301905800&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+DEINE ROLLE
+ SAP-Ausbildung: Wir bringen dir ABAP, ABAP OO und UI5 näher.
+ Innovative Technologien: Du sammelst Erfahrung im Umgang mit neuen Technologien, wie z.B. SAP und IoT, Maschinensteuerung, Kundenportale, HANA Datenbanken oder SAP Cloud-Lösungen.
+ Vielfältige Module: Fachlich hast du die Möglichkeit in die verschiedenen ERP Module (z.B. Logistik, Finance, Sales) und neue Lösungen (z.B. Hybris Billing, Analytics, mobile Anwendungen) einzusteigen.
+ Mittendrin statt nur dabei: Du unterstützt uns in unseren Projekten mit Prozessmodellierung, Testdurchführung und Softwareentwicklung.
+ DEIN PROFIL
+ Studium: Mit deinem Studium in Informatik, Wirtschaftsinformatik, (Wirtschafts-)Mathematik, Elektrotechnik oder einem ähnlichen Fachgebiet bist du auf dem besten Weg, die digitale Welt zu erobern.
+ Programmierkenntnisse: Darüber hinaus verfügst du über fundierte Kenntnisse in einer oder mehreren objektorientierten Programmiersprachen.
+ SAP-Begeisterung: Du besitzt eine hohe Motivation und Selbstvertrauen dich zügig in die SAP-Welt einarbeiten zu können - idealerweise hast du hier schon erste Erfahrungen als Anwenderin bzw. Anwender oder im Studium machen können.
+ Hands on: Du bist interessiert daran, neue Technologien zu erlernen, spannende Projekte umzusetzen und Verantwortung zu übernehmen.
+ Kommunikationstalent: Du kommunizierst sicher auf Deutsch und Englisch, intern sowie extern. 
+ Unser Versprechen: Du wirst dich bei uns wohlfühlen! Kollegial, familiär und auf Augenhöhe – wir leben Austausch, Teamgeist und einen respektvollen Umgang miteinander. Diversität und verschiedene Blickwinkel werden bei uns genauso geschätzt wie du als Mensch. Das und viel mehr steht für unser ganz besonderes Wir-Gefühl. Für das es sogar ein Wort gibt: adessi.
+Unsere Kultur und das Zusammenarbeiten sind geprägt von gegenseitiger Wertschätzung, Anerkennung und Unterstützung. Das verbindet uns hierarchieübergreifend – auch im Home-Office. So belegen wir zum wiederholten Mal den 1. Platz beim Wettbewerb „Deutschlands Beste Arbeitgeber in der ITK“!. Unser umfangreiches Trainingsangebot und ein transparentes Laufbahnstufenmodell für alle sorgen dafür, dass deine Entwicklung bei uns nicht stillsteht. Denn gemeinsam zu wachsen und Chancengeber zu sein, das ist programmiert in unserer DNA.

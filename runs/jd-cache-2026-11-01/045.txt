@@ -1,0 +1,70 @@
+URL: https://www.linkedin.com/jobs/view/4485197046
+TITLE: Intern in the CAVES & PANGAEA Team - Machine Learning Development
+COMPANY: European Space Agency - ESA
+LOC: Neunkirchen-Seelscheid, North Rhine-Westphalia, Germany
+POSTED: 2026-11-01
+title: Intern in the CAVES & PANGAEA Team - Machine Learning Development
+company: European Space Agency - ESA
+posted: 1 hour ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fintern-in-the-caves-pangaea-team-machine-learning-development-at-european-space-agency-esa-4485197046&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Intern in the CAVES & PANGAEA Team - Machine Learning Development
+Job Requisition ID: 21138
+Date Posted: 1 November 2026
+Closing Date: 30 November 2026 23:59 CET/CEST
+Publication Method: External Only
+Type of Appointment (learn more):
+Directorate: Human and Robotic Exploration
+Workplace:
+Porz-Wahn, DE
+ Location
+ EAC, Porz-Wahn, Germany
+ Our team and mission
+ The CAVES and PANGAEA team specialises in training programmes that equip astronauts and mission developers with scientific, expeditionary and behavioural skills. The group’s primary output is focused around two training programmes, CAVES, a course that uses natural cave systems for expeditionary and human behavioural and performance training, and PANGAEA, a course for geological and astrobiological field training. Complementary to their training goals, these programmes are used as research and development platforms to advance several of ESA’s technological, scientific and operational areas.
+One such tool developed for PANGAEA and future missions is the PANGAEA Analytical Toolset. This comprises the Mineralogical Database (MinDB), a curated collection of information on all the minerals found on the Moon, Mars and in meteorites, and the Machine Learning (ML) software that combines deep learning multi-class and multi-label classification algorithms analysing fused multi-modal spectroscopic measurements, enabling a significant accuracy increase of mineral and rock recognition.
+Further information on PANGAEA and CAVES programmes can be found on the following websites:
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/CAVES_and_Pangaea/What_is_PANGAEA
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/CAVES_and_Pangaea/What_is_CAVES
+We are looking for internships to start throughout 2027. Candidates are invited to state their preferred starting date in the cover letter.
+Candidates interested are encouraged to visit the ESA website: http://www.esa.int
+ Field(s) of activity for the internship
+ Topic of the Internship: Machine Learning, Software Development, Spectroscopic Analysis, Planetary Mineralogical Characterisation 
+ Interns are sought to contribute to the ongoing enhancement, integration and deployment of the PANGAEA analytical toolset. Depending on the primary specialization, the intern will join one of three complementary streams: Machine Learning (ML) Development and Operations, Applied Software Development or Mineralogical & Spectroscopic Data Curation.
+The activities will include:
+ developing and testing ML classifiers for multi-method spectroscopic data, including signal unmixing, multi-modal data fusion, hierarchical classification, incremental few-shot learning, conformal prediction and uncertainty estimation; 
+ building, maintaining and optimising the PANGAEA Analytical Toolset software applications; 
+ evaluating ML outputs against ground-truth multi-spectral MinDB reference archives and petrographic databases, and expanding and curating the datasets.
+ For detailed information on this internship position, please click here: https://www.esa.int/About_Us/EAC/Space_training_team_Planetary_Mineral_Database_Development_and_Validation_of_Spectra_Classification_Methods 
+ Behavioural competencies
+ Result Orientation
+Operational Efficiency
+Fostering Cooperation
+Relationship Management
+Continuous Improvement
+Forward Thinking
+For more information, please refer to ESA Core Behavioural Competencies guidebook
+ Education
+ You must be a university student, preferably in your final or second-to-last year of university course at Master's level. In addition, you must be able to prove that you will be enrolled at your university for the entire duration of the internship.
+ Additional Requirements
+ The working languages of the Agency are English and French. A good knowledge of one of these is required. Knowledge of another ESA Member State language is an asset.
+During the interview, your motivation for applying to this role will be explored.
+Candidates should possess practical experience in classification techniques, particularly those based on Machine Learning supervised hierarchical classification and regression. Relevant experience includes, but is not limited to, Data mining, Data fusion, Statistics, Clustering, Signal decomposition/unmixing, Incremental few-shot learning, Conformal prediction, CNN or KAN ML architectures. Practical experience in processing and analysing data derived from analytical instrumentation, or working with databases, is also valuable.
+Academic or professional proficiency with the Python programming and core scientific computing/ML libraries: NumPy, JAX, TensorFlow, Keras, CatBoost, Scikit-learn.
+Additional skills and experience in one or more of the following key areas will be considered a valuable asset:
+ accelerating Python code using Cython, JAX or similar performance optimisation tools;
+ practical experience with analysis and visualisation of scientific data (Matplotlib);
+ familiarity with MLOps workflows and dataset integration;
+ for applied ML, experience with modern web application development, user interface design for applications and web frontend integration, and backend services using FastAPI.
+ Diversity, Equity and Inclusiveness 
+ ESA is an equal opportunity employer, committed to achieving diversity within the workforce and creating an inclusive working environment. We therefore welcome applications from all qualified candidates irrespective of gender, sexual orientation, ethnicity, religious beliefs, age, disability or other characteristics.
+At the Agency we value diversity, and we welcome people with disabilities. Whenever possible, we seek to accommodate individuals with disabilities by providing the necessary support at the workplace. The Human Resources Department can also provide assistance during the recruitment process. If you would like to discuss this further, please contact us via email at ESA.Student.Internships@esa.int.
+ Important Information and Disclaimer
+ During the recruitment process, the Agency may request applicants to undergo selection tests.
+Applicants must be eligible to access information, technology, and hardware which is subject to European or US export control and sanctions regulations.
+The information published on ESA’s careers website regarding internship conditions is correct at the time of publication. It is not intended to be exhaustive and may not address all questions you would have.
+ Nationality 
+ Please note that applications are only considered from nationals of one of the following States: Austria, Belgium, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, the Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, and the United Kingdom.
+Find your path with ESA »
+Internship Programme »
+FAQ »

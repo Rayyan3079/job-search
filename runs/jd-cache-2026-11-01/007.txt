@@ -1,0 +1,32 @@
+URL: https://www.linkedin.com/jobs/view/4478041630
+TITLE: Werkstudent (m/w/d) AI & Process Automation
+COMPANY: KOCH Pac-Systeme GmbH
+LOC: Pfalzgrafenweiler, Baden-Württemberg, Germany
+POSTED: 2026-10-31
+title: Werkstudent (m/w/d) AI & Process Automation
+company: KOCH Pac-Systeme GmbH
+posted: 17 hours ago
+applicants: 124 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-m-w-d-ai-process-automation-at-koch-pac-systeme-gmbh-4478041630&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+KOCH Pac-Systeme ist ein international agierender Maschinenbauer und Beratungspartner für ganzheitliche Turnkey-Lösungen. Über 400 Mitarbeitende entwickeln bei uns gemeinsam Maschinen und Prozesse für Montage, Abfüllung und Verpackung und begleiten Projekte in den Branchen Konsumgüter, Healthcare und Kontaktlinsen von der Idee bis zur Umsetzung.
+ Diese Aufgaben Warten Auf Sie
+ Sie analysieren reale Arbeitsabläufe gemeinsam mit den Fachbereichen und identifizieren wirkungsvolle Automatisierungspotenziale entlang kompletter Prozessketten
+ Entwicklung von z. B. KI-gestützten Workflows, Assistenzlösungen und Agenten, die Informationen verarbeiten, Entscheidungen vorbereiten und definierte Aufgaben selbstständig ausführen
+ Dabei kombinieren Sie Prozesswissen der Organisation mit Automatisierungsplattformen, KI und Daten
+ Sie testen neue KI- und Automatisierungstechnologien und probieren aus, setzen in kurzer Zeit einen MVP auf und prüfen auf eine mögliche Skalierung
+ Sie dokumentieren Lösungen so, dass sie sicher betrieben und weiterentwickelt werden können
+ Damit Überzeugen Sie
+ Sie sind Studierender der (Wirtschafts-) Informatik, Data Science, Wirtschaftsingenieurwesen, Maschinenbau oder einem vergleichbaren Bereich
+ Eine hohe Affinität zu Prozessoptimierung und Technologie zeichnet Sie aus
+ Sie sind ein Entwicklergeist mit Umsetzungsstärke und Interesse an realen Unternehmensprozessen
+ Die Begeisterung für KI, Automatisierung und digitale Prozesse merkt man Ihnen an
+ Sie denken logisch und analytisch und haben Lust, Dinge selbst zu entwickeln
+ Erste Erfahrungen mit LLMs, n8n, Power Automate, Python, SQL oder APIs sind von Vorteil
+ Davon Profitieren Sie
+ Eine verantwortungsvolle Position mit der Möglichkeit, aktiv bei der Unternehmensentwicklung mitzuwirken
+ Flexible Arbeitszeiten und die Möglichkeit zum mobilen Arbeiten
+ Mitarbeit in einem dynamischen, motivierten und engagierten Team
+ Modernes und ergonomisches Arbeitsumfeld
+ Mitarbeiterparkplätze und Ladestationen für E-Bikes
+ Flache Hierarchien, Du-Kultur und kurze Entscheidungswege

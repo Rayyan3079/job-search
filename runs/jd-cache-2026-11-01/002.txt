@@ -1,0 +1,48 @@
+URL: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003943695-S
+TITLE: Werkstudent (w/m/d) Business Excellence & Transformation
+COMPANY: Clarius.Services GmbH
+LOC: Eschborn, Taunus
+POSTED: AA
+title: Werkstudent (w/m/d) Business Excellence & Transformation
+company: Clarius.Services GmbH
+posted: 2026-10-31
+location: Eschborn | remote: 
+---
+Chance
+Technologie schafft Möglichkeiten. Menschen machen den Unterschied.
+Bei Clarius Group verbinden wir intelligente Technologie mit menschlicher Expertise, um komplexe Aufgaben einfacher und Prozesse effizienter zu gestalten.
+Wir denken voraus, entwickeln Lösungen und schaffen echten Mehrwert – für unsere Kunden und für das, was wir gemeinsam erreichen wollen.
+Dafür suchen wir Menschen, die ihr Wissen einbringen, neue Perspektiven eröffnen und Verantwortung übernehmen wollen. Menschen, die gemeinsam mit uns Lösungen gestalten und etwas bewegen möchten.
+Rahmen: Befristung: ein Jahr
+Aufgaben
+Neben dem Studium mitten rein in Organisation, Analyse & Automatisierung:
+Als Werkstudent (w/m/d) im Team Business Excellence & Transformation unterstützt Du unsere interne Initiative für mehr Effizienz. Viele Prozesse sind bereits analysiert, erste Automatisierungen laufen, und mit jeder Analyse entstehen neue Fragen. Du hilfst uns, den Überblick zu behalten, Zusammenhänge zu verstehen und aus Erkenntnissen konkrete Lösungen zu machen – eng begleitet von erfahrenen Kollegen (w/m/d) und mit Raum für eigene Ideen.
+Organisieren & Projekte voranbringen:
+Du unterstützt uns bei der Steuerung laufender Automatisierungs- und Optimierungsprojekte. Du bereitest Abstimmungen und Workshops mit den Fachbereichen vor, hältst Aufgaben, Entscheidungen und offene Punkte nach und sorgst dafür, dass Projekte nicht ins Stocken geraten. Mit der Zeit übernimmst du eigene Arbeitspakete.
+Analysieren & Potenziale erkennen:
+Du schaust dir Abläufe, Reports, Dashboards, Datenquellen und Schnittstellen genau an und klärst mit den Fachbereichen, wie sie heute genutzt werden. Dabei erkennst du, wo es Lücken, Doppelarbeit oder Automatisierungspotenzial gibt, und bringst deine Beobachtungen aktiv ins Team ein.
+Lösungen mitentwickeln:
+Du arbeitest an Projekten, die unsere Abläufe spürbar verbessern, und siehst Deine Ergebnisse direkt. Aus Analysen werden bei uns konkrete Maßnahmen. Du ordnest bestehende Automatisierungsprojekte ein, entwickelst gemeinsam mit dem Team Lösungsvorschläge und hilfst dabei, neue Ideen rund um KI und Automatisierung so aufzusetzen, dass sie im Alltag wirklich funktionieren. Mitdenken ist ausdrücklich erwünscht.
+Struktur schaffen & Wissen sichern:
+Du modellierst Prozesse in BPMN 2.0, dem gängigen Standard für Prozessdarstellung, mit unserem selbst entwickelten Process Builder. Dabei testest du das Tool intensiv und dein Feedback fließt direkt in die Weiterentwicklung. Außerdem hilfst du, unsere Dokumentation in Confluence zu vereinheitlichen, damit Wissen auffindbar und anschlussfähig bleibt.
+Profil
+Ein laufendes Studium der Betriebswirtschaftslehre oder eines vergleichbaren Fachs, z. B. Wirtschaftsinformatik oder Wirtschaftsingenieurwesen
+Erste praktische Erfahrung durch Praktika, eine Werkstudierendentätigkeit oder Uni-Projekte, etwa in Projektarbeit, Organisation oder Analyse, ist schön – aber kein Muss
+Technische Affinität und echtes Interesse an KI, Daten und Automatisierung: Du arbeitest dich gern in neue Tools ein und willst verstehen, wie Dinge zusammenhängen
+Eine strukturierte, selbstständige und ergebnisorientierte Arbeitsweise: Du bringst Aufgaben zu Ende und bleibst dran, bis offene Punkte geklärt sind
+Lösungsorientiertes Denken und Kommunikationsstärke: Du gehst offen auf Menschen zu, stellst die richtigen Fragen und fasst Ergebnisse verständlich zusammen
+Du wohnst im Raum Frankfurt und kannst regelmäßig ins Office kommen, z. B. für Workshops
+Sehr gutes Deutsch in Wort und Schrift ist ein Muss, gutes Englisch rundet Dein Profil ab
+Erste Berührungspunkte mit Projektmanagement-Methoden, Prozessmodellierung oder Tools wie Confluence, Jira, Power BI und KI-Assistenten sind ein großes Plus
+Noten sind uns weniger wichtig als deine Motivation:
+ Vorkenntnisse in Prozessmodellierung oder BPMN brauchst Du nicht – wir arbeiten Dich ein. Wichtiger sind uns Neugier, Eigeninitiative und die Lust, Dinge wirklich zu Ende zu bringen.
+Warum wir?
+Als wachsendes Unternehmen mit Start-up-Spirit verbinden wir bei Clarius Group kurze Entscheidungswege mit einer offenen Unternehmenskultur und dem Blick für das Wesentliche.
+Wir schaffen ein Umfeld, in dem Menschen ihre Stärken einbringen, sich weiterentwickeln und gemeinsam etwas bewegen können. Dabei setzen wir auf moderne Arbeitsbedingungen, eine Zusammenarbeit auf Augenhöhe und den Freiraum, eigene Ideen einzubringen und Verantwortung zu übernehmen.
+Klingt nach Dir?
+Dann freuen wir uns darauf, Dich kennenzulernen!
+Sende uns Deine vollständigen Bewerbungsunterlagen inklusive Gehaltsvorstellung & frühestmöglichem Eintrittstermin ganz einfach über unser Online-Formular.
+Gleichstellung und Chancengleichheit
+Bei Clarius Group setzen wir uns für Chancengleichheit, Vielfalt und ein respektvolles Miteinander ein. Wir begrüßen Bewerbungen unabhängig von Geschlecht, Geschlechtsidentität, sexueller Identität, Alter, ethnischer Herkunft, Nationalität, Religion oder Weltanschauung sowie einer Behinderung oder anderen gesetzlich geschützten Merkmalen.
+Maßgeblich für unsere Auswahlentscheidung sind ausschließlich die fachliche Qualifikation, die berufliche Erfahrung, die persönlichen Kompetenzen und die Anforderungen der ausgeschriebenen Stelle.
+Wir gewährleisten ein diskriminierungsfreies Bewerbungsverfahren im Rahmen der geltenden gesetzlichen Bestimmungen und begrüßen Bewerbungen von Menschen mit unterschiedlichen Lebensläufen und Erfahrungen.

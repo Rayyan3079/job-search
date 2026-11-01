@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4482287773
+TITLE: Data Engineer DataLake
+COMPANY: FERCHAU Spain S.L.U.
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-28
+title: Data Engineer DataLake
+company: FERCHAU Spain S.L.U.
+posted: 3 days ago
+applicants: 80 applicants
+apply_offsite: 
+---
+🚀 Data Engineer DataLake | 100% Remoto 
+ ¿Te apasiona la ingeniería de datos y trabajar con grandes volúmenes de información en entornos Data Lake? En FERCHAU España buscamos un/a Data Engineer DataLake para incorporarse a un proyecto internacional de larga duración, trabajando en remoto desde cualquier punto de España.
+ 📍 Modalidad: 100% Remoto
+ ¿Qué harás? 
+ ✅ Diseñar y desarrollar pipelines y flujos de procesamiento de datos en entornos Data Lake.
+ ✅ Realizar la ingesta, transformación y preparación de datos desde múltiples fuentes.
+ ✅ Diseñar e implementar modelos de datos y datasets para consumo analítico.
+ ✅ Optimizar el rendimiento, la escalabilidad y el consumo de recursos de las soluciones de datos.
+ ✅ Gestionar dependencias y orquestación de procesos.
+ ✅ Participar en pruebas, despliegues y pases a producción.
+ ✅ Elaborar documentación técnica y aplicar buenas prácticas de Data Engineering.
+ Requisitos imprescindibles 
+ ✔️ Más de 3 años de experiencia en Data Engineering o entornos Big Data.
+ ✔️ Experiencia trabajando con Data Lake .
+ ✔️ Dominio avanzado de SQL Server .
+ ✔️ Experiencia en ingesta y transformación de datos .
+ ✔️ Desarrollo y mantenimiento de Data Pipelines .
+ ✔️ Procesamiento de grandes volúmenes de datos.
+ ✔️ Experiencia en entornos Cloud .
+ ✔️ Conocimientos avanzados de Cloudera Ecosystem .
+ ✔️ Experiencia con APIs REST .
+ Valorable 
+ ➕ Experiencia con Atoti / ActiveViam .
+ ➕ Conocimientos en microservicios.
+ ➕ Experiencia con Control-M .
+ ➕ Manejo de Jira y Confluence .
+ ¿Qué te ofrecemos? 
+ 🌍 Proyecto internacional
+ 🏠 Trabajo 100% remoto desde España.
+ 📈 Entorno tecnológico innovador y orientado al dato.
+ 🤝 Desarrollo profesional y acompañamiento continuo por parte de FERCHAU.
+ 📩 Si estás buscando un nuevo reto en el ámbito de los datos y quieres formar parte de proyectos de alto impacto, ¡nos encantaría conocerte!

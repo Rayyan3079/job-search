@@ -1,0 +1,52 @@
+URL: https://www.linkedin.com/jobs/view/4467845467
+TITLE: Werkstudent IT (m/w/d)
+COMPANY: Refresco
+LOC: Mönchengladbach, North Rhine-Westphalia, Germany
+POSTED: 2026-10-31
+title: Werkstudent IT (m/w/d)
+company: Refresco
+posted: 16 hours ago
+applicants: 80 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-it-m-w-d-at-refresco-4467845467&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Die Refresco Deutschland GmbH mit Hauptsitz in Mönchengladbach gehört als Hersteller von Fruchtsäften und Erfrischungsgetränken für Industrie- und Handelskunden zu den führenden Anbietern von Getränkelösungen in Deutschland.
+Das Unternehmen beschäftigt deutschlandweit rund 1.600 Mitarbeiterinnen und Mitarbeiter an elf Produktions- und zwei Verwaltungsstandorten.
+Kerngeschäfte sind die Herstellung von Handelsmarken für den Lebensmittelhandel sowie die Getränkeabfüllung für viele Markenunternehmen.
+Darüber hinaus produziert Refresco Deutschland namhafte Mineralwassermarken wie Fürst Bismarck, hella, Märkisch Kristall und St. Michaelis.
+Das Unternehmen ist Teil der Refresco Gruppe, einem global unabhängigen Anbieter von Getränkelösungen für Handelsmarken und Marken mit mehr als 75 Standorten in Europa, Australien, den USA, Kanada und Mexiko.
+Die Refresco Gruppe mit ihrem zentralen Firmensitz in Rotterdam produziert jährlich ein Volumen von rund 14 Mrd. Litern und beschäftigt über 14,000 Mitarbeitende.
+Zur Unterstützung unseres Teams in der Local IT in der Hauptverwaltung in Mönchengladbach suchen wir zum nächstmöglichen Zeitpunkt einen
+ Werkstudent IT (m/w/d) 
+ Du berichtetst an den Teamlead IT Business Processes & Applications.
+ Deine Aufgaben
+ Du unterstützt bei der Anforderungsaufnahme mit den Fachbereichen und übersetzt fachliche Fragestellungen in konkrete Reporting-Lösungen.
+ Du konzipierst, gestaltest und entwickelst Power BI Reports und Dashboards von der ersten Idee bis zum fertigen Bericht.
+ Für eine saubere, performante und wartbare Datengrundlage modellierst du die Daten in Snowflake.
+ Du erstellst und optimierst Datenmodelle in Power BI (Sternschema, Beziehungen) sowie DAX-Measures und -Berechnungen.
+ Eine hohe Datenqualität stellst du sicher und arbeitest dabei eng mit dem Data-Engineering-Team sowie den Fachbereichen zusammen.
+ Du dokumentierst deine Berichte und Datenmodelle und unterstützt die Anwender im Umgang mit den bereitgestellten Reports.
+ Dein Profil
+ Du befindest dich in einem laufendem Studium im Bereich (Wirtschafts-)Informatik, BWL mit IT-Schwerpunkt oder oder einem vergleichbaren Studiengang. 
+ Fundierte Erfahrung in der Erstellung von Power BI Reports (Datenmodellierung, DAX, Power Query) bringst du mit. 
+ Mit SQL arbeitest du sicher und bringst idealerweise bereits Erfahrung mit Snowflake oder vergleichbaren Cloud-Data-Warehouse-Lösungen mit.
+ Ein gutes Verständnis für Datenmodellierung und Data-Warehouse-Konzepte wie Sternschema und dimensionale Modellierung zeichnet dich aus.
+ Du hast Erfahrung in der Anforderungsaufnahme und im Umgang mit Fachbereichen sowie die Fähigkeit, komplexe Sachverhalte verständlich aufzubereiten.
+ Analytische, strukturierte und selbstständige Arbeitsweise gepaart mit ausgeprägter Kommunikationsstärke.
+ Sehr gute Deutsch- und gute Englischkenntnisse.
+ Dein Einsatz lohnt sich. Wir bieten Dir:
+ Einen sicheren Arbeitsplatz mit flachen Hierarchien und einer fairen Vergütung
+ Sonderzahlungen ( wie Urlaub, Weihnachten, Jubiläum, u.v.m.)
+ Bis zu 30 Tage Urlaub für deine ErholungZugang zu einer betrieblichen Altersvorsorge
+ Fahrradleasing – nachhaltig und bezuschusst
+ Interne Schulungs- und Weiterbildungsplattform auch zur privaten Nutzung
+ Vielfältige Mitarbeiterrabatte über Corporate Benefits
+ Kostenlose Getränke am Arbeitsplatz
+ Erfrischung inklusive: Unser Haustrunk wartet auf dich!
+ Füll dein Leben – mit einem Job, der mehr bietet. Bewirb dich noch heute!
+ Deine Bewerbung
+ Wenn du Interesse an dieser verantwortungsvollen Aufgabe hast, freuen wir uns auf deine aussagekräftigen Bewerbungsunterlagen einschließlich deines frühestmöglichen Eintrittstermins.
+Bitte stelle uns deine vollständigen Unterlagen (Anschreiben, Lebenslauf und relevante Zeugnisse) über unser Karriereportal: www.refresco.de zur Verfügung.
+ Ansprechpartner
+ Lena Sturm
+People & Culture
+Kontakt für Fragen zum Bewerbungsprozess: bewerbung@refresco.com

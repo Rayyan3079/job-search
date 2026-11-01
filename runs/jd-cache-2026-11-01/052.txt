@@ -1,0 +1,23 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-AI-Consulting-m-w-d-Osnabrueck-Strategion-GmbH--14346850-inline.html
+TITLE: Werkstudent AI Consulting (m/w/d)
+COMPANY: Strategion GmbH
+LOC: Osnabrück
+POSTED: stepstone
+title: Werkstudent AI Consulting (m/w/d)
+company: Strategion GmbH
+posted: 2026-11-01T00:45:03.907Z
+location: Osnabrück | remote: 
+---
+Deine Verantwortung
+ Als Werkstudent im AI Consulting unterstützt du unser Team direkt im Projektalltag und erhältst echte Einblicke in Beratungsprojekte an der Schnittstelle von Strategie, Technologie und Künstlicher Intelligenz. Du recherchierst zu KI-Themen, bereitest Inhalte und Präsentationen auf, hilfst beim Aufbau von Prototypen und bekommst echten Einblick in Beratungsprojekte über verschiedene Branchen hinweg. Du arbeitest nicht „nebenher“, sondern an realen Themen mit – mit Raum, eigene Ideen einzubringen.
+ Du unterstützt unser Team in laufenden Kundenprojekten an der Schnittstelle von Strategie, Technologie und Künstlicher Intelligenz. Dabei recherchierst du zu aktuellen KI-Themen, analysierst Anwendungsfälle und bereitest Ergebnisse adressatengerecht für Kunden und interne Teams auf. Gemeinsam mit unseren Consultants arbeitest du an der Entwicklung von KI-Konzepten, Prototypen und ersten Lösungen. Moderne Technologien wie Large Language Models, AI Agents und aktuelle AI-Tools gehören dabei zu deinem täglichen Arbeitsumfeld. Von Beginn an übernimmst du Verantwortung für eigene Aufgaben, bringst eigene Ideen ein und sammelst praktische Erfahrungen in Projekten unterschiedlicher Branchen und Geschäftsmodelle.
+ Was wir erwarten
+ Du befindest dich in einem laufenden Studium der Wirtschaftsinformatik, Informatik, Wirtschaftswissenschaften, Künstlichen Intelligenz oder eines vergleichbaren Studiengangs und begeisterst dich für die praktische Anwendung von KI-Technologien. Du verfügst über ein grundlegendes Verständnis von Künstlicher Intelligenz, Machine Learning, Large Language Models und AI Agents. Sehr gute PowerPoint-Kenntnisse setzen wir voraus – du kannst komplexe Inhalte klar, strukturiert und überzeugend aufbereiten. Idealerweise bringst du Programmierkenntnisse in Python sowie erste Erfahrungen mit Git und Docker mit. Kenntnisse im Bereich DevOps sind von Vorteil. Darüber hinaus nutzt du moderne AI-Tools wie Claude Cowork, Claude Code oder vergleichbare Lösungen, um effizient und produktiv zu arbeiten. Du überzeugst durch eine strukturierte, eigenverantwortliche und zuverlässige Arbeitsweise, kommunizierst sicher im Team und übernimmst gerne Verantwortung für deine Aufgaben. Sehr gute Deutsch- und gute Englischkenntnisse runden dein Profil ab.
+ AI First
+ AI First bedeutet hier operative Exzellenz. Du nutzt KI produktiv in deiner eigenen Arbeit, verstehst aktuelle Entwicklungen kritisch und bewertest Technologien strukturiert. Technologischer Hype ohne methodische Fundierung ist für uns kein Qualitätsmerkmal.
+ Wir bieten
+ KI-Beratung erleben und Transformation mitgestalten
+ Standort: 
+ Bewerbung
+ Wir verzichten bewusst auf ein klassisches Anschreiben. Bitte sende uns deinen Lebenslauf oder dein LinkedIn-Profil, eine kurze Darstellung deiner produktiven KI-Nutzung sowie eine strukturierte Antwort von maximal 300 Wörtern auf folgende Frage:
+ Welche konkreten Aufgaben in einem Unternehmen würdest du trotz technischer Möglichkeit bewusst nicht durch KI automatisieren – und warum?Uns interessiert deine Argumentation im Hinblick auf Verantwortung, Entscheidungsqualität und strategische Auswirkungen von KI.

@@ -1,0 +1,85 @@
+URL: https://www.linkedin.com/jobs/view/4485187200
+TITLE: Intern in the Ground Systems Engineering & Innovation Department - AI, Data & Digital Twins
+COMPANY: European Space Agency - ESA
+LOC: Darmstadt, Hesse, Germany
+POSTED: 2026-11-01
+title: Intern in the Ground Systems Engineering & Innovation Department - AI, Data & Digital Twins
+company: European Space Agency - ESA
+posted: 1 hour ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fintern-in-the-ground-systems-engineering-innovation-department-ai-data-digital-twins-at-european-space-agency-esa-4485187200&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Intern in the Ground Systems Engineering & Innovation Department - AI, Data & Digital Twins
+Job Requisition ID: 21137
+Date Posted: 1 November 2026
+Closing Date: 30 November 2026 23:59 CET/CEST
+Publication Method: External Only
+Type of Appointment (learn more):
+Directorate: Operations
+Workplace:
+Darmstadt, DE
+ Location
+ ESOC, Darmstadt, Germany
+ Our team and mission
+ The Ground Systems Engineering and Innovation Department is responsible for all the ground systems engineering and support activities required to support mission operations and implement innovation.  
+The Department maintains and manages a full level of competences, technologies and services in all engineering disciplines related to ground systems, infrastructure, technology evolution and Engineering R&T and innovation.  
+The Department provides expert support in these areas to the Directorate of Operations for all current and potential missions and leads, in the role of architect, ground systems evolution and innovation implementation in the infrastructure and to other ESA programmes.  
+The Department is furthermore responsible for the overall technical innovation and technical standardisation coordination for the ground segment.  
+The Department is relying on the following domains of expertise:  
+ Ground Station Engineering;    
+ Flight Dynamics and Mission Analysis;   
+ Mission Operations Data Systems Engineering;  
+ Navigation Support;    
+ Multi-Mission Infrastructure – Ground Segment Integration and Testing.   
+For further details, interested candidates are encouraged to visit:   
+http://www.esa.int/Our_Activities/Operations/gse/Building_infrastructure_on_Earth_to_support_satellites_in_space   
+Candidates interested are encouraged to visit the ESA website: http://www.esa.int
+ Field(s) of activity for the internship
+ You can choose among the following topics:
+ Topic 1: Data Foundation Platform Adoption for Missions Operations 
+ Spacecraft and their associated ground data systems generate vast amounts of data during the monitoring and control process. This data is stored, processed, and analysed within the mission operations ground segment to ensure spacecraft health, correlate events, and support the development of artificial intelligence (AI) algorithms. The Data Foundation Platform is a key initiative supporting the digital transformation of mission operations through trusted, governed, and accessible data. As the platform continues to evolve, increasing awareness, user engagement, and adoption across mission teams is critical to ensuring that its capabilities deliver value to the organisation.
+In this topic, you will explore the Agency's data foundations and structures, focusing on how governed and accessible data can enable advanced mission operations, analytics, and AI. You will contribute to data governance activities related to data ownership, quality, lineage, accessibility, and compliance, while supporting the adoption of the Data Foundation Platform. Collaborating closely with operational teams and stakeholders, you will identify new use cases, help onboard data products and datasets, and assess how data-driven solutions can address operational challenges. Through this experience, you will gain hands-on experience with modern data platform concepts, stakeholder engagement, data engineering practices, and the promotion of data-driven innovation within mission operations.
+You are invited to express your interest in specific areas of the topic.
+ Topic 2: Artificial Intelligence for Space Operations 
+ Artificial Intelligence (AI) is becoming a key technology in modern spacecraft operations applications. It is highly relevant to support automation, correlate data and execute pattern recognition and even enable digital assistants for operators, helping them operate the spacecraft and ground systems, including ground stations.
+As part of this topic, you will contribute to the AI programme of the Directorate.
+Spacecraft and ground segment operations still depend heavily on manual expert effort: interpreting telemetry, judging when something needs attention, working out what to do about it, and writing up the outcome. AI offers a way to support each of these steps and, more importantly, to connect them.
+A system able to recognise unusual or degrading behaviour in telemetry can pass that insight downstream to planning and scheduling tools, which propose and sequence candidate actions; those actions, in turn, can be tested and refined against simulation engines (whose fidelity and representativeness can themselves have been enhanced with AI and digital twin solutions), closing the loop back to a sharper read on system state and better-informed decisions. None of this is useful, though, if it stays locked inside modelling pipelines that only specialists can query: generative AI, spanning text, code, and other modalities, can turn telemetry, engineering documentation, and analysis outputs alike into structured knowledge that operators interact with directly: asking questions in natural language, generating reports and summaries, or even drafting supporting code or configuration, rather than assembling insights by hand across disconnected tools.
+The internship will explore how these strands (monitoring and diagnostics, decision support, enhanced simulation, and generative, multi-modal interaction with data) reinforce one another as parts of a single operational picture. The project will build on and extend existing operational tools, based on frequent inputs and feedback from end-users.
+You will prototype and assess one such integrated approach, or a representative slice of it, on operational telemetry and documentation, leveraging agentic coding approaches and including automatic benchmarking against existing and synthetically generated benchmarks.
+You are invited to express your interest in specific areas of the topic.
+ Topic 3: Agentic software engineering for Space Mission Operations Systems
+ Artificial Intelligence (AI) is becoming a key technology in modern spacecraft operations applications. It is highly relevant to support automation, correlate data, and execute pattern recognition and even enable digital assistants for operators, helping them operate the spacecraft and ground systems, including ground stations.  
+As part of this topic, you will contribute to the AI programme of the Directorate.  
+The topic is related to investigating and implementing agentic AI approaches for software engineering in the space operations domain, covering two complementary scenarios:
+ Agentic development for existing software systems. This direction will investigate how AI agents can understand an existing codebase and support software evolution through tasks such as feature implementation, bug fixing, refactoring, testing, documentation and maintenance. PULSE, as the next generation Mission Control System, will be used as a representative existing operational software system.
+ Agentic development of new software components. This direction will investigate how agentic workflows can generate new software components for space applications from requirements and frequent interactions with end-users, including design, implementation, testing, documentation and iterative verification.
+ You are invited to express your interest in specific areas of the topic.  
+ Topic 4: Digital Twins, AI-Enhanced Simulation Models and Machine Learning for spacecraft operations and health monitoring 
+Spacecraft health monitoring and control still rely largely on limit checking and expert interpretation of telemetry. Digital twins, physics-based or hybrid models kept synchronised with the live asset, offer a way to reason about system state beyond what raw telemetry shows: estimating unobservable parameters, simulating what-if scenarios, and predicting degradation before it becomes an anomaly. Combining these models with machine learning and, increasingly, with LLM-based reasoning over engineering documentation opens the way to end-to-end prognostics and health management. In this light, advancements in simulation technologies include the integration of Digital Twins concepts and the use of Machine Learning algorithms to process signals (time-series) and enhance the modelling of the complex spacecraft systems, predicting their behaviour under various operational conditions and helping support and address resolution of operational issue.   
+You will investigate how digital twins, AI models and advanced simulation can be combined to support detection, diagnosis, prognosis and control of spacecraft subsystems, and will prototype and assess one such approach on representative telemetry.
+ Behavioural competencies
+ Result Orientation
+Operational Efficiency
+Fostering Cooperation
+Relationship Management
+Continuous Improvement
+Forward Thinking
+For more information, please refer to ESA Core Behavioural Competencies guidebook
+ Education
+ You must be a university student, preferably in your final or second-to-last year of university course at Master's level. In addition, you must be able to prove that you will be enrolled at your university for the entire duration of the internship.
+ Additional Requirements
+ The working languages of the Agency are English and French. A good knowledge of one of these is required. Knowledge of another ESA Member State language is an asset.
+During the interview, your motivation for applying to this role will be explored.
+Knowledge or academic specialisation in data-centric architectures and engineering, data science and artificial intelligence solutions, digital twins, time-series forecasting, machine learning or simulation technology to complex systems is an asset. 
+ Diversity, Equity and Inclusiveness 
+ ESA is an equal opportunity employer, committed to achieving diversity within the workforce and creating an inclusive working environment. We therefore welcome applications from all qualified candidates irrespective of gender, sexual orientation, ethnicity, religious beliefs, age, disability or other characteristics.
+At the Agency we value diversity, and we welcome people with disabilities. Whenever possible, we seek to accommodate individuals with disabilities by providing the necessary support at the workplace. The Human Resources Department can also provide assistance during the recruitment process. If you would like to discuss this further, please contact us via email at ESA.Student.Internships@esa.int.
+ Important Information and Disclaimer
+ During the recruitment process, the Agency may request applicants to undergo selection tests.
+The information published on ESA’s careers website regarding internship conditions is correct at the time of publication. It is not intended to be exhaustive and may not address all questions you would have.
+ Nationality 
+ Please note that applications are only considered from nationals of one of the following States: Austria, Belgium, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, the Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, and the United Kingdom. Applicants from Canada as a Cooperating State can apply as well as those from Bulgaria, Croatia and Malta as European Cooperating States (ECS).
+Find your path with ESA »
+Internship Programme »
+FAQ »

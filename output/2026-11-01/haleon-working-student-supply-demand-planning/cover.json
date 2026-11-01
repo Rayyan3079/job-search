@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Working Student Supply & Demand Planning",
+    "company": "Haleon",
+    "city": "Munich",
+    "date": "2026-11-01",
+    "greeting": "Dear Haleon hiring team,",
+    "opening": "I am applying for the Working Student position in your Supply & Demand Planning team. Analysing purchasing and supply chain data and turning it into clear reports is where I started my career, and I would like to build on it in demand planning.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence. I worked as a Business Analyst at Tapal Tea, a consumer goods company, and in SAP data and analytics at TallyMarks Consulting.",
+    "achievements": [
+      {
+        "lead": "Supply chain data",
+        "impact": "as an intern at Tapal Tea I analysed company purchase data from SAP reports to find trends and support procurement decisions"
+      },
+      {
+        "lead": "Reporting",
+        "impact": "I supported around 30 SAP Analytics Cloud dashboards across HR, finance, supply chain and procurement and translated business requirements into KPI reporting"
+      },
+      {
+        "lead": "Data quality",
+        "impact": "I used SQL analysis, validation and reconciliation to keep reported numbers accurate"
+      }
+    ],
+    "problems_section": "I would support the forecasting cycles, analyse sales, trends and seasonality, monitor inventory and supply risks, and prepare analyses and presentations in Excel. My Power BI is basic, and demand planning itself is new to me, but I learn tools and processes quickly.",
+    "closing": "I am willing to relocate to Munich and can work up to 20 hours per week, starting immediately. I would be glad to discuss the role.",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-11-01/haleon-working-student-supply-demand-planning/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

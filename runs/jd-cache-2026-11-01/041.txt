@@ -1,0 +1,38 @@
+URL: https://www.linkedin.com/jobs/view/4485921812
+TITLE: Werkstudent (w/m/d) Data & Analytics – TRUMPF Factory Insights Web App (SS27)
+COMPANY: TRUMPF
+LOC: Ditzingen, Baden-Württemberg, Germany
+POSTED: 2026-11-01
+title: Werkstudent (w/m/d) Data & Analytics – TRUMPF Factory Insights Web App (SS27)
+company: TRUMPF
+posted: 5 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-w-m-d-data-analytics-%25E2%2580%2593-trumpf-factory-insights-web-app-ss27-at-trumpf-4485921812&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+As a family-run, high-tech company with nearly 19,000 employees at 71 locations worldwide, we are looking for forward thinkers with unconventional ideas and drive to join our team. Our company culture, which values collaboration and mutual trust, creates the ideal framework for boldly trying new things and questioning the status quo. Our technologies inspire people to develop and produce things that are currently unimaginable. Whether lasers, machine tools, EUV or electronics - TRUMPF is building technological worlds for future generations. Are you ready for new challenges?
+ Während des Studiums bei TRUMPF durchstarten – Innovation entdecken und Technik gestalten!
+ Übernehmen Sie spannende Projekte, bringen Sie Ihre Ideen aktiv ein und arbeiten Sie eng mit erfahrenen Kolleginnen und Kollegen zusammen. Neben individueller Betreuung erwarten Sie zahlreiche Angebote speziell für Studierende, die Ihre persönliche und fachliche Entwicklung fördern. Sammeln Sie wertvolle praktische Erfahrungen, erweitern Sie Ihr Netzwerk und gestalten Sie mit uns die Technologien von morgen!
+Das erwartet Sie bei uns
+ Als Teil des Teams wirken Sie an Konzeption und Umsetzung eines konkreten Analytics-Use-Cases in der TRUMPF Factory Insights Web App mit, etwa zu Maschinen-KPIs, Alarm-Analysen oder Produktionskennzahlen
+ Durch die Abstimmung von Anforderungen mit Produktmanagement, UX und dem Data-Engineering-Team übersetzen Sie diese in umsetzbare technische Aufgaben
+ Relevante Datenquellen binden Sie an und bereiten sie für die Nutzung in der Web App auf
+ Auswertungen, Visualisierungen und Kennzahlen für die Darstellung in der Factory Insights Web App erstellen und optimieren Sie
+ Bei Tests und der Validierung der Use Cases unterstützen Sie das Team zuverlässig
+ Das bringen Sie mi t
+ Ein Studium der Fachrichtung Informatik, Data Science, Softwaretechnik, Medieninformatik oder einer vergleichbaren Fachrichtung bildet Ihre fachliche Grundlage
+ Erste Erfahrungen in Datenanalyse oder Web-Technologien, zum Beispiel aus Projekten, einem Praktikum oder einer Werkstudententätigkeit, bringen Sie mit
+ Gute Kenntnisse in Python sowie Grundkenntnisse in SQL und ein sicherer Umgang mit git runden Ihr technisches Profil ab; Kenntnisse in Python Dash sind von Vorteil
+ Gute Deutsch- und Englischkenntnisse in Wort und Schrift bringen Sie ebenfalls mit
+ Mit einer selbstständigen und strukturierten Arbeitsweise gehen Sie neue Aufgaben an und zeigen dabei hohe Lernbereitschaft und Eigeninitiative
+ Das bieten wir Ihnen
+ Attraktive Vergütung
+ Flexible Arbeitszeiten (Gleitzeit)
+ Vor Ort oder teilweise mobil nach Absprache
+ Netzwerkmöglichkeiten mit anderen Studierenden
+ Vergünstigtes Essen im Betriebsrestaurant
+ TRUMPF Fitnessstudio und verschiedene Sportgruppen
+ Gute Anbindung an öffentliche Verkehrsmittel
+ Ort: Ditzingen
+ Beginn: Sommersemester 2027
+ Dauer: 6 Monate
+ Haben wir Sie überzeugt? Für Rückfragen steht Ihnen Ihre Ansprechpartnerin Sinem Ergin gerne per E-Mail unter Sinem.Ergin.external@trumpf.com zur Verfügung. Bitte beachten Sie, dass wir aus datenschutzrechtlichen Gründen keine Bewerbungen per E-Mail annehmen dürfen. Alle unsere ausgeschriebenen Stellen sind aktuell noch zu besetzen. Auf unserer Karriereseite finden Sie alle FAQs rund um Ihre Bewerbung bei uns.

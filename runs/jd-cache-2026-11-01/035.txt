@@ -1,0 +1,33 @@
+URL: https://www.linkedin.com/jobs/view/4466670201
+TITLE: Werkstudent (m/w/d) Digitalisierung & Data Analytics im Bereich General Service
+COMPANY: Knorr-Bremse AG
+LOC: Berlin, Germany
+POSTED: 2026-10-31
+title: Werkstudent (m/w/d) Digitalisierung & Data Analytics im Bereich General Service
+company: Knorr-Bremse AG
+posted: 12 hours ago
+applicants: 111 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-m-w-d-digitalisierung-data-analytics-im-bereich-general-service-at-knorr-bremse-ag-4466670201&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+We believe that a change towards a better, more sustainable future of transportation is possible. That’s why we are so dedicated to developing safer, more efficient and innovative solutions that make our visions come to life. Who are we? More than 30,000 team-players from all around the world who drive progress through technical excellence and social responsibility.
+Als Werkstudent (m/w/d) unterstützen Sie die Digitalisierung unserer Fertigungs- und Logistikprozesse. Sie arbeiten an innovativen Lösungen in den Bereichen Data Analytics, Industrial IoT und Automatisierung und erhalten Einblicke in die gesamte Wertschöpfungskette eines internationalen Industrieunternehmens.
+Zu Ihren Aufgaben gehören:
+ Entwicklung und Weiterentwicklung von Business-Intelligence-Anwendungen auf Basis von Qlik Sense
+ Konzeption und Umsetzung von Webanwendungen für interne Anwender
+ Mitarbeit an Digitalisierungs-, Datenanalyse- und IoT-Projekten im Produktionsumfeld
+ Analyse, Aufbereitung und Visualisierung von Produktions- und Logistikdaten
+ Entwicklung und Optimierung von Schnittstellen zwischen Maschinen, Datenbanken und IT-Systemen
+ Umsetzung von Automatisierungs- und Digitalisierungslösungen mit der Microsoft Power Platform
+ Unterstützung bei der Anbindung und Integration von Maschinen sowie Shopfloor-Systemen
+ Mitarbeit in Datenintegrations- und Analytics-Projekten
+ Aufnahme fachlicher Anforderungen sowie Umsetzung bis zur erfolgreichen Produktivsetzung
+ Analyse und Behebung von Fehlern sowie kontinuierliche Optimierung bestehender Anwendungen und Datenmodelle
+ Ihr Profil:
+ Laufendes Studium im Bereich Informatik, Wirtschaftsinformatik, Maschinenbau, Wirtschaftsingenieurwesen, Data Science oder einer vergleichbaren Fachrichtung
+ Interesse an Digitalisierung, Datenanalyse und Produktionsprozessen
+ Gute Kenntnisse in MS Excel und PowerPoint
+ Erste Erfahrungen mit Analyse- und Reporting-Tools wie Qlik Sense, Power BI oder SAP sind von Vorteil
+ Erste Kenntnisse in SQL, Python oder JavaScript sind wünschenswert
+ Sehr gute Deutsch- und gute Englischkenntnisse in Wort und Schrift
+ Strukturierte, analytische und selbstständige Arbeitsweise
+ Hohe Eigeninitiative, Zuverlässigkeit und Teamfähigkeit

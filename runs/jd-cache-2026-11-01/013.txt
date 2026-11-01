@@ -1,0 +1,42 @@
+URL: https://www.linkedin.com/jobs/view/4484814728
+TITLE: Business Intelligence & Data Analytics Reporting Officer
+COMPANY: Confidential Careers
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-30
+title: Business Intelligence & Data Analytics Reporting Officer
+company: Confidential Careers
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+Senior Data Analyst – End User Transformation Services (EUTS) – Business Intelligence & Reporting
+ Team: End User Transformation Services (EUTS) | End User Services
+ Position Summary
+ The Senior Data Analyst (EUTS) is a hands-on analytics leader responsible for designing, building, and operationalizing Power BI–based dashboards, reports, and data products that illuminate trends across End User Services (Service Desk, Deskside/Field, EUC engineering, collaboration, and device management). The role blends data engineering (SQL, APIs, scripting) with data visualization and storytelling, turning diverse operational data into actionable insights that improve front-line IT support, elevate the employee experience, and standardize contractual reporting (SLAs/KPIs). Success requires deep Business Intelligence expertise, strong stakeholder engagement, and a passion for transforming the end-user landscape through data-driven decisions.
+ Key Responsibilities
+ Design and deliver BI solutions: Build scalable Power BI semantic models, datasets, and interactive dashboards (DAX/M, row-level security) that provide real-time visibility into ticket volumes, backlog, MTTR, first-contact resolution, CSAT, SLA adherence, and overall operational performance across End User Services.
+ Operational reporting and standardization: Establish a single, governed reporting framework for contractual commitments—SLAs, OLAs, KPIs—and produce consistent monthly/quarterly executive and vendor reports, including variance analysis and trend diagnostics.
+ Data engineering and integration: Create robust data pipelines using SQL and scripting (PowerShell/Python) to ingest and transform data from systems such as ServiceNow/Jira, Microsoft 365, Intune/Endpoint analytics, SCCM/MECM, Azure Log Analytics, and other operational tools via REST/Graph APIs.
+ Decision support for front-line IT: Translate findings into practical recommendations that improve front-end IT support (knowledge gaps, training opportunities, shift-left opportunities, automation candidates, problem management themes) and track the impact of those actions.
+ Quality, governance, and reliability: Implement data quality checks, documentation, and version control; define source-of-truth datasets and KPIs with clear business definitions; ensure access, security, and RLS align with company policy.
+ Self-service enablement: Publish certified datasets, Power BI apps, and report templates; coach End User Services teams on interpreting visuals and using insights in daily stand-ups and service reviews.
+ Automation and scale: Automate refresh, distribution, and alerts (e.g., SLA breach notifications, anomaly detection, threshold exceptions) to reduce manual reporting time.
+ Executive storytelling: Craft concise narratives for senior leadership, connecting metrics to outcomes (experience, productivity, cost, risk), and present insights in QBRs/MBRs.
+ Collaboration: Partner with Service Desk & Deskside leads, EUC engineering, Collaboration/M365, Vendor Management, Finance, PMO, and InfoSec to align data definitions, priorities, and roadmaps.
+ Required Qualifications
+ 5–8+ years in Data Analytics/BI with measurable impact in IT service management or end-user computing environments.
+ Expert with Power BI (data modeling, DAX, Power Query/M, row-level security, Power BI Service/Apps, deployment pipelines).
+ Advanced SQL across enterprise platforms (e.g., SQL Server/Azure SQL) and strong Excel (Power Query, Power Pivot, advanced formulas).
+ Proficiency in scripting (PowerShell and/or Python) to automate data ingestion, transformation, and report operations.
+ Demonstrated experience consuming REST/Graph APIs for data extraction (e.g., ServiceNow, Microsoft Graph, Intune, Microsoft 365, Jira).
+ Proven track record building SLA/KPI frameworks and operational dashboards that drive behavior change in IT support organizations.
+ Strong data visualization best practices and the ability to translate complex analysis into clear, compelling stories for technical and non-technical audiences.
+ Familiarity with ITIL concepts (Incident, Problem, Change) and metrics such as MTTA/MTTR, first contact resolution, backlog aging, ticket deflection, and CSAT.
+ Excellent communication, stakeholder management, and a continuous-improvement mindset.
+ Preferred Skills & Certifications
+ Microsoft Certified: Power BI Data Analyst Associate (PL-300); plus nice-to-have: DP-900/DP-203 or Azure data certifications.
+ ITIL® Foundation certification.
+ Experience with ServiceNow reporting, Power Platform (Power Automate), and scheduled/parameterized content (subscriptions, paginated reports).
+ Exposure to Azure Log Analytics/KQL, Defender/M365 usage analytics, or device telemetry for experience scores and proactive support.
+ Knowledge of data governance (e.g., Microsoft Purview), data quality frameworks, and enterprise cataloging.
+ Background in vendor/contract reporting and QBR/MBR cycles, including SLA compliance and service credit methodologies.

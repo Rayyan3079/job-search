@@ -1,0 +1,39 @@
+URL: https://www.linkedin.com/jobs/view/4468015469
+TITLE: Werkstudent (m/w/d) Künstliche Intelligenz & Digitalisierung
+COMPANY: Orise
+LOC: Hannover, Lower Saxony, Germany
+POSTED: 2026-10-31
+title: Werkstudent (m/w/d) Künstliche Intelligenz & Digitalisierung
+company: Orise
+posted: 13 hours ago
+applicants: 95 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-m-w-d-k%25C3%25BCnstliche-intelligenz-digitalisierung-at-orise-4468015469&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Die Gestaltung einer nachhaltigen Zukunft, aktive Mitgestaltung beim Ziel Klimaneutralität und CO2-neutraler Produktion, das Jahrhundertprojekt Energiewende – all das können wir dir bieten! Du suchst eine anspruchsvolle und eigenverantwortliche Tätigkeit in einem internationalen Unternehmen mit Zukunftsperspektive? Dann unterstütze unser junges und innovatives Team in Hannover bei spannenden Projekten in der Chemie- und Energiebranche
+ Deine Aufgaben
+ Identifikation von Einsatzmöglichkeiten für KI im Engineering, Projektmanagement und operativen Geschäft
+ Entwicklung, Test und Optimierung von KI-gestützten Lösungen und Automatisierungen
+ Erstellung von Prompts, Workflows und Anwendungsrichtlinien für unterschiedliche Fachbereiche
+ Analyse von Daten und Geschäftsprozessen zur Ermittlung von Digitalisierungspotenzialen
+ Entwicklung von Prototypen und Proof-of-Concepts für neue KI-Anwendungen
+ Unterstützung bei der Schulung und Begleitung von Mitarbeitenden bei der Nutzung von KI-Werkzeugen
+ Mitarbeit an unternehmensweiten Digitalisierungsinitiativen
+ Dein Profil
+ Studium der Informatik, Wirtschaftsinformatik, Automatisierungstechnik, Elektrotechnik oder eines vergleichbaren Studiengangs
+ Begeisterung für Künstliche Intelligenz und digitale Technologien
+ Erste Erfahrungen mit generativer KI
+ Grundkenntnisse in Python, Datenanalyse oder Automatisierung sind von Vorteil
+ Strukturierte und eigenständige Arbeitsweise
+ C1 Deutsch- und Englischkenntnisse
+ Dein Benefit
+ Aussicht auf weiterführende Abschlussarbeit (Bachelor/ Master)
+ Interessantes und vielfältiges Aufgabengebiet
+ Flexible Arbeitszeiten
+ Vertrauen und Wertschätzung gegenüber unseren Kollegen
+ Attraktiver Arbeitsplatz in freundlicher, sympathischer Atmosphäre
+ Ausgeprägter Teamspirit
+ Onboarding für Neueinsteiger und individuelle Weiterbildungsmöglichkeiten
+ Über Orise 
+ Orise ist einer der führenden herstellerunabhängigen Anbieter von Automatisierungs- und Digitalisierungslösungen für die Prozess- und Fertigungsindustrie. Das Unternehmen beschäftigt derzeit mehr als 1.400 Mitarbeitende und ist in Europa, Nord- und Südamerika sowie Asien vertreten. Unsere Aktivitäten konzentrieren sich auf die Entwicklung von Prozessleitsystemen und deren vertikale Integration in den gesamten Geschäftsprozess. Wir bieten umfassende Dienstleistungen von der Konzeption bis zur Inbetriebnahme, von der Feldebene über die Prozessleitebene bis hin zur Unternehmensebene. Orise ist ein Unternehmen der ATS Automation Tooling Systems Inc.
+Haben Sie Fragen zu Ihrer Bewerbung bei Orise?
+Weitere Informationen zu unserem Unternehmen finden Sie auf unserer Website: www.orise.com

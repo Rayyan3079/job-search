@@ -1,0 +1,29 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-Software-Development-w-m-d-Bochum-Volkswagen-Infotainment-GmbH--14631612-inline.html
+TITLE: Werkstudent Software Development (w/m/d)
+COMPANY: Volkswagen Infotainment GmbH
+LOC: Bochum
+POSTED: stepstone
+title: Werkstudent Software Development (w/m/d)
+company: Volkswagen Infotainment GmbH
+posted: 2026-10-31T16:03:13.7Z
+location: Bochum | remote: 
+---
+Volkswagen Infotainment leistet mit einem Team von mehr als 1150 Menschen an den Standorten Bochum und Wolfsburg Pionierarbeit in den Bereichen Konnektivität und automotive Software. Unter dem Dach des Software-Unternehmens CARIAD bündelt der Volkswagen Konzern erfahrene Unternehmen, die an Zukunftstechnologien wie der Fahrzeugvernetzung mit Hard- und Softwarelösungen für die Marken des Konzerns arbeiten.
+ Your tasks
+ Als Student führen Sie eigenständige Forschung durch, um Wissen in Ihrem Fachgebiet voranzubringen. Ihre Rolle umfasst den Aufbau von Expertise durch Selbststudium, Experimente und die Zusammenarbeit mit akademischen Betreuern sowie Branchenexperten. Sie veröffentlichen Forschungsergebnisse, präsentieren auf Konferenzen und tragen zur wissenschaftlichen Community bei. Die Position verbindet theoretisches Wissen mit praktischer Problemlösung und fördert Innovation sowie analytisches Denken.
+ Der Stundenlohn eines Werkstudierenden beträgt 17,50 €.
+ Your profile
+ Mögliche Aufgaben dieser Rolle 
+ Tools entwickeln, die unsere Prozesse automatisieren und beschleunigen
+ Software entwickeln: vom Design bis hin zu Unit und Integration Tests
+ Verantwortung innerhalb eines agilen Teams nehmen und Scrum lernen und erleben
+ Anforderungen an die Qualifikation 
+ Studium in Informatik, Softwaretechnik oder vergleichbares
+ Gute Kenntnisse in objektorientierter Programmierung.
+ Erfahrung mit verschiedenen Programmiersprachen, wie Python, Java, Kotlin
+ Wissen über Methoden zu SW Entwicklung , Designspezifikationen und Tools inklusive Nutzung von AI
+ Proaktives und Team-orientiertes Arbeiten
+ Gute Englisch- und Deutschkenntnisse
+ What we offer
+ Hast Du Fragen zu einer Schwerbehinderung oder Gleichstellung?
+ Dann ist unsere Schwerbehindertenvertretung gerne für Dich da: schwerbehindertenvertretung@volkswagen-infotainment.com

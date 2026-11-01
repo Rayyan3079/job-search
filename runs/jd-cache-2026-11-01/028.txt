@@ -1,0 +1,37 @@
+URL: https://www.linkedin.com/jobs/view/4484976661
+TITLE: Praktikum - KI Lösungen für Digitalisierung (d/m/w)
+COMPANY: Schaeffler
+LOC: Regensburg, Bavaria, Germany
+POSTED: 2026-10-29
+title: Praktikum - KI Lösungen für Digitalisierung (d/m/w)
+company: Schaeffler
+posted: 2 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikum-ki-l%25C3%25B6sungen-f%25C3%25BCr-digitalisierung-d-m-w-at-schaeffler-4484976661&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Schaeffler – das ist die Faszination eines internationalen Technologie-Konzerns, verbunden mit der Kultur eines Familienunternehmens. Als Partner aller bedeutenden Automobilhersteller sowie zahlreicher Kunden im Industriebereich bieten wir Ihnen viel Raum für Ihre persönliche Entfaltung.
+Allgemeine Informationen
+Die Abteilung Innovation Digitalization gestaltet die Zukunft des Engineerings durch den Einsatz innovativer digitaler Technologien. Unser Ziel ist es, Entwicklungsprozesse intelligenter, schneller und effizienter zu machen. Dafür entwickeln wir Lösungen in den Bereichen Künstliche Intelligenz, Virtual Testing, Digital Twin, Workflow Automation, Knowledge Management und datengetriebenes Engineering.
+Wir verbinden Expertenwissen, Daten und moderne Softwaretechnologien, um neue Arbeitsweisen zu ermöglichen, manuelle Tätigkeiten zu automatisieren und virtuelle Entwicklungs- und Testmethoden zu etablieren. So leisten wir einen wesentlichen Beitrag zur Verkürzung von Entwicklungszeiten, zur Erhöhung der Produktqualität und zur digitalen Transformation der Produktentwicklung von morgen.
+Grundvoraussetzung eines Praktikums bei Schaeffler ist der Nachweis der Immatrikulation zum Zeitpunkt des Praktikums. Diese Stelle ist ab 01.02.2027 für eine Dauer von 6 Monaten zu besetzen.
+Deine Aufgaben
+ Evaluieren aktueller Entwicklungsprozesse und Identifizieren von Optimierungspotenzialen, die sich mit digitalen Methoden wie KI-Agenten erschließen lassen
+ Analysieren großer Datenmengen mithilfe von Machine Learning und weiteren Methoden der Künstlichen Intelligenz
+ Entwickeln von KI-Modellen zur Verbesserung virtueller Testmöglichkeiten
+ Zusammenarbeiten mit interdisziplinären Team
+ Dein Profil
+ Studium im Bereich Künstliche Intelligenz, Elektrotechnik, Data Science oder einer vergleichbaren Studienrichtung
+ Sicherer Umgang mit den MS Office-Anwendungen
+ Grundlegendes Verständnis für Digitalisierungsthemen ist wünschenswert
+ Gute Programmierkenntnisse in Python
+ Erfahrung mit MATLAB und MATLAB Simulink ist wünschenswert
+ Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
+ Analytische und strukturierte Arbeitsweise
+ Interesse an neuen Technologien und Innovationsprojekten
+ Proaktive Arbeitsweise und Teamfähigkeit
+ Als globales Unternehmen beschäftigen wir Mitarbeitende auf der ganzen Welt. Es ist uns wichtig, dass wir einander mit Respekt begegnen und allen Ideen und Perspektiven offen, positiv und vorurteilslos gegenüber stehen. Indem wir unsere Unterschiede wertschätzen, stärken wir unser Kreativität und fördern wir Innovationen. Auf diese Weise tragen wir zu einer nachhaltigen Wertschöpfung für unsere Kunden, Geschäftspartner und die Gesellschaft als Ganzes bei. Together, we advance how the world moves.
+Wir legen großen Wert darauf, eine Arbeitsumgebung zu schaffen, die Vielfalt und Inklusion fördert und aktiv unterstützt. Wir freuen uns auf Bewerbungen von allen interessierten Menschen, denn für uns zählt Ihr Potenzial!
+www.schaeffler.com/careers
+Ihr Kontakt
+Vitesco Technologies AG & Co. KG
+Katarzyna Bogdanowicz

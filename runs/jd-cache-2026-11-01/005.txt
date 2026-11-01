@@ -1,0 +1,26 @@
+URL: https://www.linkedin.com/jobs/view/4485159744
+TITLE: SAP Support Specialist
+COMPANY: ResolveOps
+LOC: Hamburg, Hamburg, Germany
+POSTED: 2026-10-31
+title: SAP Support Specialist
+company: ResolveOps
+posted: 11 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fsap-support-specialist-at-resolveops-4485159744&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+WHAT THIS JOB IS:
+ Many of the processes we fix for clients in Germany end in SAP: purchase orders, invoices, cost center postings. When a request from our workflow does not arrive there correctly, someone has to find out why. We are hiring an SAP Support Specialist in Germany for that. Full-time and remote anywhere in Germany. The Chicago team is online from your afternoon.
+ YOUR PART IN IT: Investigate why records from our workflows fail or arrive incomplete in SAP
+ Check IDocs, interface logs and master data with client SAP teams
+ Fix mapping and master data problems or hand them over with a clear description
+ Test interface changes before go-live
+ Document recurring errors and their fixes
+ REQUIREMENTS: A degree in business informatics or economics, IT training, or comparable experience
+ First experience with SAP as a key user, in support or in a project (internships count)
+ Basic understanding of purchasing or accounting processes
+ Knowledge of SAP MM or FI (bonus)
+ Experience with S/4HANA (bonus)
+ WHAT'S IN IT FOR YOU:
+ On the benefits side: open-ended full-time contract, remote in Germany; hours you can arrange around your day; thirty days of annual leave, public holidays on top; ResolveOps pays into a company pension; training and certification budget every year; and laptop and equipment for your desk at home.
+ ResolveOps fixes the processes a business runs on, from the request form to the report at the end. Every assignment is agreed in writing first and finishes with operating instructions.

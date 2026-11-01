@@ -1,0 +1,84 @@
+URL: https://www.linkedin.com/jobs/view/4475263435
+TITLE: PS Technical Consultant III-PL/SQL Dev Cum DBA
+COMPANY: NCR Atleos
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-31
+title: PS Technical Consultant III-PL/SQL Dev Cum DBA
+company: NCR Atleos
+posted: 12 hours ago
+applicants: 68 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fin.linkedin.com%2Fjobs%2Fview%2Fps-technical-consultant-iii-pl-sql-dev-cum-dba-at-ncr-atleos-4475263435&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+About NCR Atleos
+ NCR Atleos, headquartered in Atlanta, is a leader in expanding financial access. Our dedicated 20,000 employees optimize the branch, improve operational efficiency and maximize self-service availability for financial institutions and retailers across the globe.
+ Job Summary
+ We are seeking a highly skilled Database (Oracle and/or Postgress) DBA & PL/SQL Developer to join our Professional Services team supporting mission-critical EFT Switch and Payment Processing platforms.
+ This Is a Hybrid Role With Equal Responsibility For
+ Database Administration (40%)
+ PL/SQL(pgSQL) Development (60%)
+ The ideal candidate will have strong experience managing databases while also developing high-performance PL/SQL solutions.
+Prior exposure to EFT Switching applications such as Authentic, Base24, Postilion, IST Switch, or similar payment platforms is highly desirable.
+ Key Responsibilities
+ Database Administration (80%)
+ Install, configure, upgrade, and maintain Oracle 11g/12c/19c databases. 
+ Manage RAC, Data Guard, RMAN Backup & Recovery environments. 
+ Monitor database performance using OEM, AWR, ASH, and ADDM reports. 
+ Perform database patching, upgrades, and security hardening. 
+ Manage users, roles, schemas, privileges, and tablespaces. 
+ Implement backup, recovery, and disaster recovery procedures. 
+ Conduct performance tuning and capacity planning. 
+ Troubleshoot production database issues and support critical incidents. 
+ PL/SQL(pgSQL) Development (20%)
+ Design and develop packages, procedures, functions, triggers, and views. 
+ Write and optimize complex SQL queries for high-volume transaction systems. 
+ Support payment transaction processing workflows. 
+ Develop database interfaces and backend business logic. 
+ Perform SQL performance tuning. 
+ Create data migration and ETL scripts. 
+ Conduct code reviews and maintain technical documentation. 
+ Support QA, UAT, and production releases. 
+ EFT Switch & Payment Processing
+ Support database components of EFT Switch and payment applications. 
+ Analyze transaction failures and reconciliation issues. 
+ Maintain transaction routing and configuration tables. 
+ Support settlement and authorization processing. 
+ Work closely with application support teams and clients. 
+ Participate in supporting client implementations and production deployments. 
+ Required Qualifications
+ Core Database Skills
+ 4+ years of DBA experience. 
+ Strong experience with Oracle and/or Postgress
+ HA & Replication tools
+ RMAN Backup & Recovery. 
+ Database Monitoring. 
+ Database Performance Tuning. 
+ Development Skills
+ Advanced PL/SQL (pgSQL) development. 
+ Stored Procedures. 
+ Packages. 
+ Triggers. 
+ Functions. 
+ Complex SQL Query Development. 
+ Query Optimization. 
+ Payment Domain
+ Experience supporting & implementing EFT Switch or payment processing systems. 
+ Nice to Have
+ Authentic Switch. 
+ Base24. 
+ Postilion. 
+ IST Switch. 
+ ISO 8583. 
+ UPI/NPCI. 
+ PostgreSQL exposure. 
+ Liquibase/Flyway. 
+ Shell scripting (Bash). 
+ Preferred Candidate Profile
+ We are looking for candidates currently working as:
+ DBA & PL/SQL Developer
+ Senior DB Developer with DBA responsibilities
+ DB Production Support Engineer
+ Offers of employment are conditional upon passage of screening criteria applicable to the job.
+ EEO Statement
+ NCR Atleos is an equal-opportunity employer. It is NCR Atleos policy to hire, train, promote, and pay associates based on their job-related qualifications, ability, and performance, without regard to race, color, creed, religion, national origin, citizenship status, sex, sexual orientation, gender identity/expression, pregnancy, marital status, age, mental or physical disability, genetic information, medical condition, military or veteran status, or any other factor protected by law.
+ Statement to Third Party Agencies
+ To ALL recruitment agencies: NCR Atleos only accepts resumes from agencies on the NCR Atleos preferred supplier list. Please do not forward resumes to our applicant tracking system, NCR Atleos employees, or any NCR Atleos facility. NCR Atleos is not responsible for any fees or charges associated with unsolicited resumes.

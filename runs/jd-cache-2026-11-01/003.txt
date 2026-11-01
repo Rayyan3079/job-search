@@ -1,0 +1,31 @@
+URL: https://www.linkedin.com/jobs/view/4485148881
+TITLE: Reporting Analyst
+COMPANY: ResolveOps
+LOC: Hamburg, Hamburg, Germany
+POSTED: 2026-10-31
+title: Reporting Analyst
+company: ResolveOps
+posted: 19 hours ago
+applicants: 139 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Freporting-analyst-at-resolveops-4485148881&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Our German clients want to see whether a new workflow actually made things faster: how many requests, how long approvals take, where they get stuck. We are hiring a Reporting Analyst in Germany to build those reports from the systems we connect. It is a full-time job from home anywhere in Germany. Our Chicago team starts work in your afternoon.
+ What you need
+ - A degree in business informatics, economics, statistics or a related field
+ - SQL and Excel.
+ - First experience building reports or dashboards (internships count)
+ What fills your week Build Power BI reports on request volumes, approval times and backlogs
+ Pull and clean data from workflow tools, SAP and spreadsheets
+ Agree definitions and targets with client process owners
+ Check reports against source data before each release
+ Explain results to client managers in short review meetings
+ Nice to have: Power BI with DAX; or experience with controlling or operational KPIs.
+ terms Permanent full-time contract, worked from home anywhere in Germany
+ Flexible hours
+ 30 days of leave a year on top of public holidays
+ A company pension that ResolveOps pays into
+ Money each year for training and certifications
+ Laptop and home office equipment from us
+ About us
+ Chicago, operations and technology consulting. Workflows, integrations, reporting.
+ If this sounds like your kind of work, apply below.
