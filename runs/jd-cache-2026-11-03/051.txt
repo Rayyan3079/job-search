@@ -1,0 +1,58 @@
+URL: https://www.linkedin.com/jobs/view/4475430482
+TITLE: Data Analyst Confirmé F/H
+COMPANY: CRIT France
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-01
+title: Data Analyst Confirmé F/H
+company: CRIT France
+posted: 1 day ago
+applicants: 191 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fjobs%2Fview%2Fdata-analyst-confirm%25C3%25A9-f-h-at-crit-france-4475430482&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Plongez au cœur de l'Innovation avec CRIT et rejoignez-nous en tant que Data Analyst Confirmé H/F !
+ Passionné(e) par la data, l’intelligence artificielle et la transformation des métiers par la donnée ? CRIT, acteur majeur du recrutement et du travail temporaire en France, recherche son/sa futur(e) Data Analyst Confirmé(e) pour accompagner l’accélération de sa stratégie Data & IA au sein de son pôle innovation.
+Au sein d’une équipe Data en pleine structuration, vous jouerez un rôle central dans la valorisation des données de l’entreprise. À la croisée des enjeux techniques et métier, vous travaillerez main dans la main avec les différentes feature Teams, les product managers et les équipes métiers afin de transformer la donnée en levier de performance et d’innovation.
+ Votre Mission, Si Vous L'acceptez
+ En tant que Data Analyst Confirmé , vous serez responsable de l’analyse, de la structuration et de la valorisation des données afin d’accompagner la prise de décision stratégique de l’entreprise.
+Vous interviendrez sur l’ensemble de la chaîne de valeur Data : de l’exploration des données jusqu’à la production d’insights exploitables, en passant par la conception de modèles analytiques et l'accompagnement des métiers.
+Dans le cadre de notre ambition autour de la Data et de l’Intelligence Artificielle, vous participerez également à l’identification et au développement de nouveaux cas d’usage exploitant les agents IA et l'IA générative afin d'améliorer la productivité, la connaissance client et l'efficacité opérationnelle.
+ Vos Super-Pouvoirs
+ Collecter, consolider et exploiter des données issues de multiples sources internes et externes.
+ Monitorer la qualité, la cohérence et la fiabilité des données utilisées par les équipes métiers.
+ Concevoir et maintenir des jeux de données et indicateurs de référence pour les différentes directions.
+ Travailler au sein de l'écosystème Databricks et contribuer à l'exploitation du Lakehouse de l'entreprise.
+ Rédiger des requêtes SQL performantes, analyses et traitements de données complexes.
+ Identifier des tendances, corrélations et opportunités d'amélioration business.
+ Produire des tableaux de bord, reportings et visualisations interactives à destination des équipes métiers et des instances de pilotage.
+ Accompagner les métiers dans l'interprétation des données et la prise de décision basée sur les faits.
+ Identifier les opportunités d'automatisation des analyses et des reportings.
+ Participer à la mise en place de bonnes pratiques de gouvernance, de documentation et de structuration de la donnée.
+ Concevoir et expérimenter des assistants et agents IA capables d'automatiser des tâches d'analyse, de recherche d'information ou de pilotage de la performance.
+ Évaluer la valeur métier des solutions IA, mesurer leur impact et accompagner leur adoption au sein des équipes.
+ Assurer une veille continue sur les évolutions de la Data, de l'Analytics et de l'Intelligence Artificielle.
+ Ce Que Nous Recherchons
+ Expériences significatives en tant que Data Analyst dans un environnement Data moderne.
+ Excellente maîtrise de SQL et bonne maîtrise de Python pour l'analyse et la transformation de données.
+ Expérience confirmée sur Databricks
+ Bonne connaissance des modèles de données, des problématiques de qualité, de gouvernance et de structuration de la donnée.
+ Solides compétences analytiques et statistiques permettant de transformer les données en recommandations opérationnelles.
+ Capacité à comprendre rapidement les enjeux métier et à dialoguer avec des interlocuteurs variés.
+ Appétence forte pour l'intelligence artificielle et les usages liés aux LLM, à l'IA générative et aux systèmes agentiques.
+ Expérience dans l'utilisation ou l'intégration de solutions IA au travers d'API ou de plateformes spécialisées.
+ Compréhension des enjeux liés à la qualité et la confidentialité ainsi que des notions sur la sécurité et la gouvernance des données.
+ Curiosité, esprit d'innovation et volonté de faire progresser les pratiques Data et IA de l'entreprise.
+ Excellentes capacités de communication, de vulgarisation et d'accompagnement au changement.
+ Pourquoi nous rejoindre ?
+ Impact et Innovation
+ Un rôle clé dans la structuration de la stratégie Data & IA du Groupe, avec une forte visibilité auprès des directions métiers et digitales.
+ Technologies modernes
+ Évoluez dans un environnement en pleine transformation s'appuyant sur Databricks , les architectures Data modernes et les solutions d'intelligence artificielle de nouvelle génération.
+ Flexibilité
+ Télétravail flexible pour favoriser l'équilibre entre vie professionnelle et personnelle.
+ Avantages sociaux
+ CSE (chèques cadeaux, CESU...), RTT, Action Logement, carte restaurant de 10 € avec prise en charge à 60 %.
+ Un projet stimulant
+ Rejoindre un projet innovant dès ses premières phases de structuration tout en bénéficiant de la solidité et des moyens d'un grand groupe.
+Prêt(e) à construire les futurs usages Data & IA du Groupe CRIT ? Rejoignez-nous et participez à la transformation de nos métiers par la donnée et l'intelligence artificielle.
+ Groupe Crit, un acteur majeur du travail temporaire et de l’assistance aéroportuaire
+ Le Groupe Crit est l'un des leaders du travail temporaire et du recrutement en France et à l'international. Il est numéro 1 de l'assistance aéroportuaire en France. Il est également partenaire des projets de grandes industries en matière d'ingénierie et de maintenance.

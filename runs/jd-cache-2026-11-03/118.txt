@@ -1,0 +1,49 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-m-w-d-im-Bereich-Cloud-Governance-Hamburg-SIGNAL-IDUNA-Gruppe--14696058-inline.html
+TITLE: Werkstudent (m/w/d) im Bereich Cloud Governance
+COMPANY: SIGNAL IDUNA Gruppe
+LOC: Hamburg
+POSTED: stepstone
+title: Werkstudent (m/w/d) im Bereich Cloud Governance
+company: SIGNAL IDUNA Gruppe
+posted: 2026-11-02T09:22:35.093Z
+location: Hamburg | remote: 
+---
+Das sind wir
+ Wir verändern die Versicherungswelt – und suchen dich, um die Zukunft mitzugestalten. Als einer der größten deutschen Versicherer und Finanzdienstleister mit Hauptsitz in Hamburg und Dortmund haben wir uns in den letzten Jahren grundlegend transformiert. Unsere moderne und agile Arbeitswelt, in der wir nutzenzentriert arbeiten, ist von Offenheit und Mut geprägt. Dabei legen wir viel Wert auf gegenseitige Wertschätzung und Vertrauen. Wir heißen Vielfalt in all ihren Facetten willkommen und glauben, dass unterschiedliche Perspektiven und Erfahrungen entscheidend für Innovation sind. Werde Teil unseres Teams, bring deine Ideen ein und verändere mit uns das Jetzt.
+ Die digitale Transformation ist einer der Grundpfeiler unserer Zukunftsstrategie bei der SIGNAL IDUNA. Wir setzen auf innovative Technologien und moderne Infrastrukturen, um unseren Kund:innen den bestmöglichen Service zu bieten. Ein zentraler Baustein dabei ist unsere Multi-Cloud-Strategie – und dabei ganz besonders unsere strategische Partnerschaft mit Google. Um diesen Weg sicher, effizient und compliant zu gestalten, suchen wir dich als engagierte Verstärkung für unser Team im Bereich Cloud Governance und Informationssicherheit.
+ Werde Teil unseres Teams und gestalte die Cloud-Zukunft eines der führenden deutschen Versicherer aktiv mit!
+ Dein Aufgabengebiet
+ Gestaltung des Cloud Governance Frameworks: Du unterstützt aktiv bei der Konzeption, Dokumentation und Weiterentwicklung unserer zentralen Cloud-Governance-Richtlinien.
+ Prozessoptimierung und Dokumentation: Du analysierst bestehende Prozesse, identifizierst Verbesserungspotenziale und dokumentierst diese verständlich und nachvollziehbar in Jira und Confluence.
+ Unterstützung im Tagesgeschäft: Du arbeitest eng mit unseren Cloud-Security-Experten zusammen, pflegst das Aufgaben-Backlog in Jira und unterstützt bei der Nachverfolgung von Security-Maßnahmen.
+ Analyse und Reporting: Du hilfst bei der Analyse von Sicherheits- und Compliance-Daten aus unseren Cloud-Umgebungen und bereitest die Ergebnisse für das Management auf.
+ Wissensmanagement: Du trägst aktiv dazu bei, eine Wissensdatenbank aufzubauen und so die „Security Awareness“ im gesamten Unternehmen zu fördern.
+ Du
+ bist immatrikulierte/r Student:in in einem relevanten Studiengang (z. B. Wirtschaftsinformatik, Informatik, IT-Sicherheit, Wirtschaftsingenieurwesen oder vergleichbar) 
+ bringst erste praktische Erfahrungen im Umgang mit den Atlassian-Tools Jira und Confluence mit
+ besitzt eine stark ausgeprägte analytische Denkweise, arbeitest dich schnell in komplexe Sachverhalte ein und hast Freude daran, strukturierte Lösungen zu entwickeln
+ kannst komplexe technische Themen verständlich aufbereiten und kommunizierst sicher in Deutsch (Wort und Schrift)
+ arbeitest selbstständig, proaktiv und bist ein/e echte/r Teamplayer:in
+ hast idealerweise ein starkes Interesse an den Themen Cloud Computing (z. B. GCP, Azure, AWS) und Informationssicherheit. Erste Berührungspunkte sind von Vorteil, aber kein Muss – deine Lernbereitschaft zählt!
+ Bei uns
+ erhältst du tiefe Einblicke in die Cloud- und Sicherheitsstrategie eines Top-Versicherers und sammelst wertvolle, praktische Erfahrungen
+ arbeitest du an zukunftsweisenden Themen und trägst sichtbar zum Erfolg der digitalen Transformation bei
+ profitierst du von flexiblen Arbeitszeiten, die sich ideal mit deinem Studium vereinbaren lassen, sowie der Möglichkeit zum mobilen Arbeiten
+ kannst du kommen wie du dich wohlfühlst - egal ob in Turnschuhen oder im Anzug
+ erhältst du eine attraktive Vergütung 
+ ist deine Verpflegung durch Betriebsrestaurant, Cafeteria oder Spätverpflegung sichergestellt
+ bieten wir dir eine offene und kollegiale Arbeitsatmosphäre sowie eine intensive Einarbeitung und Betreuung durch erfahrene Kollegen
+ Bist du bereit, mit uns die Cloud zu gestalten?
+ Dienstsitz/Einsatzort 
+Der gewöhnliche Einsatzort ist in Hamburg. 
+ Hinweis zur Bewerbung 
+Bitte lade deine vollständigen Bewerbungsunterlagen (inkl. Immatrikulationsbescheinigung, Zeugnisse und Zertifikate) über unser Bewerbermanagementsystem hoch. Nutze dazu gerne das Anschreiben-Feld und füge die Unterlagen in ein PDF zusammen. Alternativ kannst du auch erst dein Bewerberprofil anlegen und in einem zweiten Schritt weitere Dokumente hochladen. 
+ Bewerbungen per E-Mail können leider nicht berücksichtigt werden.
+ Die gesetzlich vorgesehenen Informationen im Zusammenhang mit der Verarbeitung von personenbezogenen Daten sowie die daraus resultierenden Rechte können unter https://www.signal-iduna.de/datenschutzinfo eingesehen werden.
+ SIGNAL IDUNA Gruppe 
+Neue Rabenstraße 15-19, 20354 Hamburg
+ Ansprechpartnerin: Aylin Sari 
+ Wir freuen uns auf deine Bewerbung. 
+ Hinweis für Personalvermittler 
+Bitte beachten Sie, dass die SIGNAL IDUNA Gruppe keine unaufgefordert durch Personalvermittlerzugesandten Profile akzeptiert. Kommt es zur Berücksichtigung oder Einstellung von Kandidaten, deren Profiledurch Personalvermittler mit denen kein Vertragsverhältnis besteht, übersandt wurden, besteht daher kein Vergütungsanspruch.
+ Aus Gründen der leichteren Lesbarkeit wurde darauf verzichtet, die Formulierung jeweils geschlechtsspezifisch auszurichten. Die vollständige Gleichbehandlung aller Bewerber unabhängig von ihrer individuellen geschlechtlichen Zuordnung ist gewährleistet.

@@ -1,0 +1,37 @@
+URL: https://www.linkedin.com/jobs/view/4485936113
+TITLE: Werkstudent (m/w/d) im Bereich Data Engineering und Data Science (SS27)
+COMPANY: TRUMPF
+LOC: Ditzingen, Baden-Württemberg, Germany
+POSTED: 2026-11-01
+title: Werkstudent (m/w/d) im Bereich Data Engineering und Data Science (SS27)
+company: TRUMPF
+posted: 2 days ago
+applicants: 27 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-m-w-d-im-bereich-data-engineering-und-data-science-ss27-at-trumpf-4485936113&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+As a family-run, high-tech company with nearly 19,000 employees at 71 locations worldwide, we are looking for forward thinkers with unconventional ideas and drive to join our team. Our company culture, which values collaboration and mutual trust, creates the ideal framework for boldly trying new things and questioning the status quo. Our technologies inspire people to develop and produce things that are currently unimaginable. Whether lasers, machine tools, EUV or electronics - TRUMPF is building technological worlds for future generations. Are you ready for new challenges?
+ Während des Studiums bei TRUMPF durchstarten – Innovation entdecken und Technik gestalten! Übernehmen Sie spannende Projekte, bringen Sie Ihre Ideen aktiv ein und arbeiten Sie eng mit erfahrenen Kolleginnen und Kollegen zusammen. Neben individueller Betreuung erwarten Sie zahlreiche Angebote speziell für Studierende, die Ihre persönliche und fachliche Entwicklung fördern. Sammeln Sie wertvolle praktische Erfahrungen, erweitern Sie Ihr Netzwerk und gestalten Sie mit uns die Technologien von morgen!
+ Das erwartet Sie bei uns
+ In der Azure Cloud unterstützen Sie die Entwicklung und Implementierung von Datenpipelines und ETL-Prozessen für datenbasierte Lösungen
+ Bei der Analyse und Verarbeitung großer Datenmengen bringen Sie sich aktiv ein und wenden dabei statistische Analysen sowie Data-Mining-Techniken an
+ Mit Ihrer Unterstützung entwickeln und implementieren Sie Machine-Learning- und KI-Modelle zur Lösung komplexer Problemstellungen
+ Durch die Erstellung von Dashboards visualisieren Sie Analyseergebnisse und machen diese für unterschiedliche Zielgruppen greifbar
+ Als Teil des Teams übernehmen Sie angewandtes Data-Lifecycle-Management und arbeiten eng mit verschiedenen Abteilungen zusammen, um datengetriebene Lösungen zu identifizieren und umzusetzen
+ Das bringen Sie mit
+ In Ihrem Studium der Informatik, Physik, Mathematik, des Maschinenbaus oder einer vergleichbaren Fachrichtung oder vergleichbaren Qualifikation setzen Sie idealerweise einen Schwerpunkt auf Data Engineering oder Data Science / Analytics
+ Mit guten bis sehr guten Kenntnissen in Programmiersprachen wie Python, SQL oder MATLAB bringen Sie eine solide technische Basis mit
+ Erste Erfahrungen mit Datenbanken sowie Datenverarbeitungs- und Visualisierungstools wie PySpark, pandas, Databricks oder Power BI runden Ihr Profil ebenso ab wie Kenntnisse in Machine-Learning-Algorithmen und -Tools wie scikit-learn oder TensorFlow
+ Eine strukturierte und selbstständige Arbeitsweise sowie analytisches und konzeptionelles Denken helfen Ihnen, sich schnell in neue Themen einzuarbeiten, während gute Kommunikationsfähigkeiten und Teamfähigkeit den Dialog mit Kolleginnen und Kollegen bereichern
+ Mit hoher Motivation und Lernbereitschaft sowie sehr guten Deutsch- und guten Englischkenntnissen in Wort und Schrift runden Sie Ihr Profil ab
+ Das bieten wir Ihnen
+ Attraktive Vergütung
+ Flexible Arbeitszeiten (Gleitzeit)
+ Vor Ort oder teilweise mobil nach Absprache
+ Netzwerkmöglichkeiten mit anderen Studierenden
+ Vergünstigtes Essen im Betriebsrestaurant
+ TRUMPF Fitnessstudio und verschiedene Sportgruppen
+ Gute Anbindung an öffentliche Verkehrsmittel
+ Ort: Ditzingen
+ Beginn: Sommersemester 2027
+ Dauer: 6 Monate
+ Haben wir Sie überzeugt? Für Rückfragen steht Ihnen Ihre Ansprechpartnerin Sinem Ergin gerne per E-Mail unter Sinem.Ergin.external@trumpf.com zur Verfügung. Bitte beachten Sie, dass wir aus datenschutzrechtlichen Gründen keine Bewerbungen per E-Mail annehmen dürfen. Alle unsere ausgeschriebenen Stellen sind aktuell noch zu besetzen. Auf unserer Karriereseite finden Sie alle FAQs rund um Ihre Bewerbung bei uns.

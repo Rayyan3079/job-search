@@ -1,0 +1,45 @@
+URL: https://www.xing.com/jobs/darmstadt-werkstudent-it-support-158509236
+TITLE: Werkstudent IT-Support (m/w/d)
+COMPANY: univativ
+LOC: Darmstadt
+POSTED: 2026-11-01
+title: Werkstudent IT-Support (m/w/d)
+company: univativ
+posted: 2026-11-01T09:16:38Z
+location: Darmstadt | remote: 
+---
+Die Stelle 
+ Als Karrierebegleiter unterstützt univativ Studierende, Absolventen und Young Professionals bei ihrer beruflichen Weiterentwicklung. Deutschlandweit vermitteln wir spannende Jobs bei renommierten Unternehmen und ermöglichen Dir wertvolle Praxiserfahrung. Dabei setzen wir auf eine persönliche und individuelle Betreuung, Kommunikation auf Augenhöhe und Jobs, die wirklich zu Dir passen 
+ Deine Aufgaben 
+ Zu Deinen Hauptaufgaben zählen die Annahme und Bearbeitung von Incidents und Service Requests im 1st- und 2nd-Level-Support
+ sowie die Anwenderbetreuung im Client-Bereich (remote und onsite) 
+ Ein wesentlicher Bestandteil Deiner Tätigkeit ist die Fehleranalyse sowie die Lösung von Störungen im Microsoft-Umfeld (Windows, MS Office, Hardware, Netzwerk)
+ Die Betreuung der SAP-Benutzerverwaltung und SAP CRM ist ein wesentlicher Bestandteil Deiner Tätigkeit
+ Dein Aufgabenbereich umfasst außerdem den Aufbau, die Installation und Konfiguration von Endgeräten (PCs, Notebooks, mobile Devices)
+ Du bist verantwortlich für die Verwaltung und Betreuung mobiler Endgeräte - einschließlich Herstelleranfragen (Apple, Blackberry)
+ Die Unterstützung bei IT-Projekten wie Rollouts, Upgrades und Testaktivitäten liegt ebenfalls in Deinem Verantwortungsbereich
+ Zudem übernimmst Du die Dokumentation aller Vorgänge im Helpdesk-System
+ Ein weiterer Schwerpunkt Deiner Tätigkeit liegt in der Betreuung von Remote-Zugängen (RAS/VPN)
+ Zu Deinen Aufgaben gehören außerdem Qualitätssicherung und User-Support bei neuen Anwendungen
+ Callannahme, Priorisierung und Weiterleitung von Tickets gehört zu Deinen täglichen Aufgaben
+ Du übernimmst die Kommunikation mit Anwendern als Single-Point-of-Contact
+ Mit Deinem serviceorientierten Auftreten trägst Du dazu bei, dass Anwender schnell und kompetent Unterstützung erhalten
+ Du sorgst für eine reibungslose IT-Unterstützung und hohe Nutzerzufriedenheit
+ Abgerundet wird Dein Aufgabenprofil durch die Mitarbeit im Schichtbetrieb bei Bedarf
+ Das bringst Du mit 
+ Studium der Informatik, Ausbildung zum Fachinformatiker für Systemintegration oder eine vergleichbare Qualifikation
+ Mehrjährige Berufserfahrung im IT-Support, idealerweise im 2nd-Level-Support
+ Fundierte Kenntnisse in Microsoft Windows Betriebssystemen und Microsoft 365 / Office 365
+ Erfahrung im Umgang mit ITIL-Prozessen (Incident, Problem, Change Management)
+ Routine im Einsatz von Remote-Support-Tools und Ticketing-Systemen (z. B. ServiceNow, Jira)
+ Selbständige Fehleranalyse und strukturierte Bereitstellung von Lösungen
+ Ausgeprägte Service- und Kundenorientierung sowie Kommunikationsstärke
+ Analytisches Denkvermögen und hohe Problemlösungskompetenz
+ Teamfähigkeit kombiniert mit eigenständigem und verantwortungsbewusstem Arbeiten
+ Belastbarkeit und Stressresistenz - auch bei hohem Ticketaufkommen
+ Sehr gutes Deutsch in Wort und Schrift sowie gutes Englisch
+ Deine Benefits 
+ Hochwertig ausgestattete Arbeitsplätze in zentraler Lage 
+ Darüber hinaus arbeitest Du in einem flexiblen Arbeitszeitmodell
+ Während Deines Einsatzes hast Du einen persönlichen Ansprechpartner, der als Dein Karrierebegleiter für Dich da ist
+ Wir geben Dir innerhalb von 48 Stunden eine Rückmeldung auf Deine Bewerbung

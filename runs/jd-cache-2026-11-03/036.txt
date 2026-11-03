@@ -1,0 +1,60 @@
+URL: https://www.linkedin.com/jobs/view/4474610754
+TITLE: Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools) (f/m/d)
+COMPANY: Intel
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-10-27
+title: Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools) (f/m/d)
+company: Intel
+posted: 6 days ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fundergraduate-intern-technical-openvino-neural-network-compression-tools-f-m-d-at-intel-4474610754&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Details
+ Job Description:
+ Join Intel's OpenVINO Team and Shape the Future of AI
+ Are you passionate about Artificial Intelligence, Deep Learning, and Software Engineering? Do you want to work on cutting-edge AI technologies that help neural networks run faster and more efficiently on real-world devices?
+Join the Neural Network Compression Tools Team within Intel's OpenVINO organization and gain hands-on experience developing technologies used to optimize state-of-the-art AI models.
+What You'll Do
+As an AI & Deep Learning Intern, you will contribute to the development of the Neural Network Compression Framework (NNCF) , a key technology used to improve the performance and efficiency of deep learning models.
+ During Your Internship, You Will
+ Explore and evaluate state-of-the-art machine learning and neural network optimization techniques
+ Contribute to the development of compression algorithms that improve AI inference performance
+ Work with modern deep learning frameworks such as PyTorch, TensorFlow, and OpenVINO
+ Collaborate with experienced AI engineers and researchers
+ Learn about the latest neural network architectures and industry-leading AI technologies
+ Gain exposure to Intel hardware platforms and AI software ecosystems
+ What You'll Gain
+ Hands-on experience with real-world AI products and technologies
+ Mentorship from experts in Deep Learning and Software Engineering
+ Exposure to state-of-the-art AI models, frameworks, and optimization techniques
+ An opportunity to contribute to open-source and production-ready software
+ Flexible working hours that fit your academic schedule
+ Valuable industry experience at one of the world's leading technology companies
+ Qualifications
+ Minimum Qualifications
+ Currently pursuing a Bachelor's or Master's degree in: Computer ScienceMathematicsPhysicsSoftware Engineering or a related field
+ Undergraduate student in the 3rd year or above
+ Programming experience in Python
+ Availability to work at least 20 hours per week
+ Preferred Qualifications
+ Knowledge of Machine Learning or Deep Learning concepts
+ Understanding of Computer Vision or Image Processing
+ Experience with PyTorch, TensorFlow, or OpenVINO
+ Curiosity, problem-solving mindset, and eagerness to learn
+ If you're excited about AI, eager to learn, and ready to make an impact, we'd love to hear from you. Apply and help us build the future of intelligent computing.
+ Job Type
+ Student / Intern
+ Shift
+ Shift 1 (Germany)
+Primary Location:
+Germany, Munich
+Additional Locations:
+ Posting Statement
+ All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+Position of Trust
+N/A
+EU Salary
+We offer a total compensation package that ranks among the best in the industry.
+The minimum Annual Salary for this job which could be performed in Germany is: 11 870,00 € The job posting reflects the minimum base compensation for this role. Our standard internship rates are aligned with the specific job role and degree level. As part of our total compensation approach, the final offer may also include additional pay components and benefits. Your recruiting team will provide the confirmed base salary along with any applicable total compensation elements upon employment offer delivery.
+ Work Model for this Role
+ This role will be eligible for our hybrid work model which allows employees to split their time between working on-site at their assigned Intel site and off-site. * Job posting details (such as work model, location or time type) are subject to change.

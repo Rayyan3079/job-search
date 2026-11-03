@@ -1,0 +1,48 @@
+URL: https://www.linkedin.com/jobs/view/4486165038
+TITLE: Especialista IA/ML - Cliente Final (M/F/D)
+COMPANY: Talenter
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-02
+title: Especialista IA/ML - Cliente Final (M/F/D)
+company: Talenter
+posted: 18 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+A Talenter Recrutamento Especializado encontra-se a recrutar um(a) Especialista IA/ML (M/F/D) para integrar um projeto tecnológico inovador na área da Inteligência Artificial e Automação Inteligente. 
+ Se procura um desafio profissional que lhe permita desenvolver e otimizar modelos de Inteligência Artificial, transformar dados em soluções inteligentes e contribuir para a evolução de sistemas baseados em Machine Learning e IA Generativa, esta poderá ser a oportunidade certa para si.
+ Principais Responsabilidades 
+ Desenvolver, treinar e validar modelos de Inteligência Artificial e Machine Learning;
+ Implementar soluções de IA Generativa aplicadas à interpretação de linguagem natural e automação de processos;
+ Criar e otimizar modelos de classificação e geração inteligente de respostas;
+ Preparar, tratar e validar datasets para suporte ao treino e evolução contínua dos modelos;
+ Ajustar parâmetros e otimizar algoritmos para maximizar o desempenho das soluções;
+ Avaliar métricas de desempenho e implementar melhorias contínuas;
+ Desenvolver mecanismos de aprendizagem contínua com base em dados reais e feedback operacional;
+ Apoiar a criação de relatórios automáticos de desempenho e indicadores de eficiência;
+ Colaborar com equipas multidisciplinares na identificação de oportunidades de melhoria e inovação;
+ Contribuir para a evolução contínua das capacidades de Inteligência Artificial da plataforma.
+ O que procuramos 
+ Licenciatura ou Mestrado em Engenharia Informática, Inteligência Artificial, Ciência de Dados, Matemática ou área equivalente;
+ Experiência em desenvolvimento, treino e validação de modelos de Machine Learning;
+ Conhecimentos sólidos de Python e frameworks de IA/ML;
+ Experiência em Processamento de Linguagem Natural (NLP) e/ou Inteligência Artificial Generativa;
+ Conhecimentos em preparação, tratamento e análise de dados;
+ Capacidade de interpretar métricas de desempenho e identificar oportunidades de otimização;
+ Forte capacidade analítica e orientação para a resolução de problemas complexos;
+ Autonomia, proatividade e espírito de iniciativa;
+ Boa capacidade de comunicação e trabalho em equipa;
+ Bons conhecimentos de inglês.
+ O que oferecemos 
+ Integração num projeto tecnológico inovador e de elevado impacto;
+ Participação ativa no desenvolvimento de soluções avançadas de Inteligência Artificial;
+ Contacto com tecnologias emergentes e desafios técnicos diferenciadores;
+ Ambiente colaborativo, dinâmico e orientado para a inovação;
+ Oportunidades de desenvolvimento profissional e aprendizagem contínua;
+ Condições ajustadas à experiência e competências demonstradas.
+ Local de Trabalho: Grande Lisboa 
+ Se procura uma oportunidade para desenvolver a sua carreira num projeto tecnológico desafiante e contribuir para a criação de soluções inovadoras baseadas em Inteligência Artificial, envie-nos a sua candidatura. 
+ Todas as candidaturas serão tratadas com confidencialidade, de acordo com a legislação de proteção de dados.
+ A oferta está aberta a todas as pessoas, sem discriminação. Procuramos que o nosso processo de recrutamento e seleção seja inclusivo e respeite a individualidade de cada pessoa.
+ TALENTER, o nosso maior talento é descobrir o seu! 
+ Conhece mais sobre o nosso compromisso em www.wellownetwork.com

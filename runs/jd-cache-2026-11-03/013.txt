@@ -1,0 +1,38 @@
+URL: https://www.linkedin.com/jobs/view/4483867586
+TITLE: Mandatory Internship - Simulation, Calculation & Experimentation
+COMPANY: Siemens Energy
+LOC: Erfurt, Thuringia, Germany
+POSTED: 2026-10-28
+title: Mandatory Internship - Simulation, Calculation & Experimentation
+company: Siemens Energy
+posted: 5 days ago
+applicants: 82 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fmandatory-internship-simulation-calculation-experimentation-at-siemens-energy-4483867586&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Location: ERF W
+ Mode of Employment: Full-time / Fixed Term
+ A Snapshot of Your Day 
+ To support the expanding research and development activities within Siemens Energy's Generator Engineering division, specifically focusing on synchronous machine development, this student internship or thesis position offers a unique opportunity to contribute to advanced technical calculations and simulations. Located in Erfurt within the Technical Integration and Performance team, the role directly aids in driving innovative solutions for industrial electrical machines. To address these R&D objectives, this role focuses on executing numerical simulations and analyzing electromagnetic data. These core areas directly support the verification and optimization of electrical machines under realistic operating conditions. Given the focus on advanced engineering simulations, the ideal candidate will be an enrolled student in electrical engineering, mechatronics, physics, or a related field with foundational knowledge of simulation tools. Analytical skills, a proactive approach to solving complex technical problems, and the ability to work collaboratively in a team are essential for success.
+ How You’ll Make An Impact
+ 100% Simulation, Calculation & Experimentation
+ Set up and execute numerical simulations (e.g., FEM, CFD) for electrical machines and components
+ Perform electromagnetic calculations to evaluate component integrity
+ Simulate transient behavior
+ Conduct experimental validation
+ What You Bring
+ Enrolled student in electrical engineering, mechatronics, physics, or a comparable engineering discipline
+ German or English at B2 level
+ About The Team
+ Our Transformation of Industry division is decarbonizing the industrial sector. Increasing electrification and efficiency are key and demand for green H2 and derivative fuels will rise. We enable decarbonization of the industrial sector and the transition to sustainable processes, building on a strong industrial customer base, a global network, diverse technologies, and integrated execution capabilities.
+ Who is Siemens Energy? 
+ At Siemens Energy, we are more than just an energy technology company. With ~100.000 dedicated employees in more than 90 countries, we develop the energy systems of the future, ensuring that the growing energy demand of the global community is met reliably and sustainably. The technologies created in our research departments and factories drive the energy transition and provide the base for one sixth of the world's electricity generation.
+Our global team is committed to making sustainable, reliable, and affordable energy a reality by pushing the boundaries of what is possible. We uphold a 150-year legacy of innovation that encourages our search for people who will support our focus on decarbonization, new technologies, and energy transformation.
+Find out how you can make a difference at Siemens Energy: https://www.siemens-energy.com/employeevideo
+ Our Commitment to Diversity
+ Lucky for us, we are not all the same. Through diversity we generate power. We run on inclusion and our combined creative energy is fueled by over 130 nationalities. Siemens Energy celebrates character – no matter what ethnic background, gender, age, religion, identity, or disability. We energize society, all of society, and we do not discriminate based on our differences.
+ Rewards/Benefits
+ Exciting insights into an international company 
+ Lay the foundation for your career with us 
+ We value equal opportunities and welcome applications from people with disabilities.
+https://jobs.siemens-energy.com/jobs
+#RPO

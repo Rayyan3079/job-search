@@ -1,0 +1,48 @@
+URL: https://www.linkedin.com/jobs/view/4486441906
+TITLE: Werkstudent AI & Machine Learning (m/w/d)
+COMPANY: LivEye
+LOC: Föhren, Rhineland-Palatinate, Germany
+POSTED: 2026-11-02
+title: Werkstudent AI & Machine Learning (m/w/d)
+company: LivEye
+posted: 7 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-ai-machine-learning-m-w-d-at-liveye-4486441906&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Davon profitierst Du / Benefits
+ Dynamisches Arbeitsumfeld: Dich erwartet ein innovatives, stetig wachsendes Unternehmen mit kurzen Entscheidungswegen, in dem neue Ideen schnell in die Praxis finden.
+ Wirklich etwas mitgestalten: Du arbeitest an echten Produkten statt an Übungsaufgaben. Deine Ideen sind ausdrücklich erwünscht und fließen direkt in unsere Lösungen ein.
+ Tatkräftig unterstützen und wertvolle Beiträge leisten: Du bist vom ersten Tag an vollwertiger Teil des Teams, übernimmst Verantwortung und siehst, wie Deine Ergebnisse in unseren Produkten ankommen.
+ Echte Entwicklungs- und Übernahmechancen: Wir fördern Dich fachlich und persönlich und bieten Dir nach dem Studium echte Perspektiven für einen Einstieg bei LivEye.
+ Studium und Job im Einklang: Deine Arbeitszeiten stimmen wir flexibel mit Deinem Studium und Deinen Prüfungsphasen ab.
+ Mehr als nur ein Arbeitsplatz: Freue Dich auf kostenfreie Getränke, frisches Obst, regelmäßige Mitarbeiterevents und einen einzigartigen Team-Spirit!
+ Deine Aufgaben
+Zur Unterstützung unseres IT-Softwareteams suchen wir zum nächstmöglichen Zeitpunkt einen engagierten Werkstudenten (m/w/d) im Bereich AI und Machine Learning für unseren Standort in Föhren . Die Position ist in flexibler Teilzeit (16–20 h/Woche), projektbezogen oder während der Semesterferien möglich. Die Einsatzzeiten stimmen wir flexibel mit Deinem Studium ab.
+Du arbeitest an intelligenten Funktionen für unsere mobilen Videoüberwachungsanlagen und Softwareprodukte – mit direktem Bezug zu Systemen, die täglich im Einsatz sind.
+ Dein Fokus: Du unterstützt unser Team dabei, KI- und Machine-Learning-Lösungen von der ersten Idee über den Prototyp bis in unsere Produkte zu bringen.
+ Intelligente Systeme auf Basis von KI und Machine Learning mit konzipieren, entwickeln und verbessern
+ Anforderungen gemeinsam mit dem Team in erste Prototypen und anschließend in Lösungen und Tools für neue Produktfunktionen überführen
+ Daten aufbereiten, KI-Modelle trainieren und ihre Ergebnisse anhand geeigneter Qualitätsmetriken bewerten
+ KI-Lösungen in bestehende Softwareprodukte integrieren
+ Die Modellleistung im Betrieb überwachen und die Qualität der Modelle kontinuierlich verbessern
+ Eng mit Produkt-, Daten- und Softwareteams zusammenarbeiten
+ Ergebnisse, Experimente und Modellstände nachvollziehbar dokumentieren
+ Das bringst Du mit
+ Laufendes Studium in Künstliche Intelligenz, Data Science, Informatik oder einem vergleichbaren Studiengang
+ Erste Programmierkenntnisse in Python
+ Grundlegendes Verständnis von Machine Learning und Datenaufbereitung, z. B. aus Lehrveranstaltungen oder eigenen Projekten
+ Selbstständige, strukturierte Arbeitsweise und Freude an Teamarbeit
+ Neugier darauf, neue Technologien auszuprobieren und Dich schnell einzuarbeiten
+ Wen wir suchen
+ Studierende aus KI, Data Science oder Informatik, die KI nicht nur im Studium kennenlernen, sondern in der Praxis mitgestalten wollen: Neugier, Lernbereitschaft und Freude am Ausprobieren zählen mehr als bereits umgesetzte Großprojekte.
+Zwingend notwendige Qualifikationen
+Als Anbieter von Sicherheitsdienstleistungen setzen wir ein einwandfreies Führungszeugnis voraus.
+Vorteilhafte Qualifikationen
+ pandas / scikit-learn
+ PyTorch oder TensorFlow
+ Git
+ Eigene KI- oder Datenprojekte (Portfolio, GitHub-Profil oder Beispiele aus dem Studium)
+ Über uns
+Die LivEye GmbH hat sich auf die Bewachung von temporären Risikozonen mit mobilen Videoüberwachungsanlagen spezialisiert. Wir stehen für individuelle Sicherheitskonzepte rund um Videoüberwachung. Für jedes Gelände und jede Anforderung bieten wir die optimale Lösung: ob Baustellen, Gewerbeflächen oder Veranstaltungsgelände. Unter dem Markennamen LivEye werden hoch moderne Videoüberwachungsanlagen entwickelt und produziert. Dazu unterhält LivEye neben einer Forschungs- und Entwicklungseinheit auch eine eigene Produktion.
+Seit unserer Gründung haben wir uns zum Ziel gesetzt, die Zukunft sicherer zu gestalten. Wir sind ein innovatives und weltweit agierendes Unternehmen mit Standorten in Deutschland, der Schweiz und Polen. Wir sind auf Expansionskurs und suchen zur Verstärkung unseres motivierten Teams nach engagierten und qualifizierten Mitarbeitenden. Überzeuge uns mit Deinem Fachwissen und Deiner Leidenschaft für den Beruf. Bei uns erwartet Dich eine wertschätzende und offene Unternehmenskultur in einem spannenden Arbeitsumfeld.
+TEAM ORANGE

@@ -1,0 +1,49 @@
+URL: https://www.linkedin.com/jobs/view/4476032132
+TITLE: WORKING STUDENT SOFTWARE TEST AUTOMATION (f/m/d)
+COMPANY: 360T
+LOC: Frankfurt am Main, Hesse, Germany
+POSTED: 2026-11-02
+title: WORKING STUDENT SOFTWARE TEST AUTOMATION (f/m/d)
+company: 360T
+posted: 14 hours ago
+applicants: 132 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-software-test-automation-f-m-d-at-360t-4476032132&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Your Role
+Are you passionate about software quality and eager to gain hands-on experience in automation testing?
+Join 360T’s Quality Assurance team and play a key role in evolving a leading global fintech platform driven by innovation and excellence.
+As an Intern / Working Student, you will collaborate with experienced professionals, expand test coverage through automation, and ensure the reliability of our trading platform. This is your chance to apply your technical skills, learn industry best practices, and develop a strong foundation in software testing.
+Your Responsibilities
+ Develop, execute, and maintain automated test scripts while enhancing test automation frameworks
+ Support the implementation of automated regression tests to reduce reliance on manual testing
+ Monitor and analyze automation test executions, investigate failures, and report defects
+ Assist in integrating automated tests into CI/CD pipelines
+ Document test strategies, findings, and best practices
+ Your Profile
+ Ideally you are studying at university with focus on IT
+ Good Experience of programming with JAVA
+ Basic knowledge of Automation Testing
+ Basic Knowledge of one or more automation frameworks (Junit, TestNG, Selenium, Playwright)
+ Analytical and systematic working approach with strong problem-solving skills.
+ Willingness to work independently with a proactive mindset.
+ Self-confident with strong commitment and collaboration skills.
+ High proficiency in spoken and written English is a must.
+ Our Offer
+ Bachelor / Master Thesis in consultation with the team
+ Possibility for permanent employment after successful graduation
+ Performance appraisals on a regular basis
+ 360T Academy
+ Frankfurt office located directly in the city center
+ Social gatherings
+ We offer an outstanding opportunity for a highly motivated individual to participate in the growth of a successful technology company in the financial sector. The position is based in Frankfurt am Main and is available immediately
+How to Apply
+If your background and qualifications meet these specifications, please forward your application including your salary expectation and the earliest starting date by clicking the “Apply” button.
+Contact
+Irune Del Buey
+People & Culture Manager
+Send email
+Grüneburgweg 16-18
+60322 Frankfurt am Main
+ About Us
+ 360T is one of the globally leading trading platforms for Foreign Exchange (FX). As Deutsche Börse Group’s powerhouse for FX, 360T provides a web-based trading technology for over-the-counter (OTC) instruments, integration solutions and related services. Since its inception in 2000, the company has developed and maintained a state-of-the-art multi-bank portal for foreign exchange, crypto assets, cash and money market products. With over 3,000 Buy-Side customers and more than 200 liquidity providers across 80 different countries, 360T is uniquely positioned to connect the global FX and Crypto industry.
+Headquartered in Frankfurt am Main, Germany, 360T maintains subsidiaries in London (360 Trading Networks UK Limited), New York (360 Trading Networks Inc), Singapore (360T Asia Pacific Pte. Ltd.), Mumbai (ThreeSixty Trading Networks (India) Pvt Ltd), Kuala Lumpur (360 Trading Networks Sdn Bhd) and Dubai (360 Trading Networks (DIFC) Limited).

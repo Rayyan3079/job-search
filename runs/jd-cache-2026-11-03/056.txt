@@ -1,0 +1,39 @@
+URL: https://www.linkedin.com/jobs/view/4382290424
+TITLE: Telecom Sector | Data Engineer (Azure & Microsoft Fabric)
+COMPANY: Devoteam
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-02
+title: Telecom Sector | Data Engineer (Azure & Microsoft Fabric)
+company: Devoteam
+posted: 11 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+At Devoteam, we believe that technology with strong human values can actively drive change for the better. Discover how Tech for People unlocks the future, creating a positive impact on the people and the world around us. We are a global leading player in Digital Transformation for leading organisations across EMEA, with a revenue of €1B. We believe in transforming technology to create value for our clients, partners and employees in a world where technology is developed for people. We are proud of the culture we have built together. We are proud of our people at the service of technology. We are proud of our diverse environment. Because we are #TechforPeople. Join our multidisciplinary team of Cloud experts, Designers, Business consultants, Security experts, Engineers, Developers and other extraordinary talents, spread across more than 20 EMEA countries. Become one of our +10.000 tech and business leaders on cloud, data and cyber security. Let’s fuse creativity with technology together and build innovative solutions that actively change things for the better.
+ Job Description
+ Design and implement scalable data pipelines and data processing solutions using Azure and Microsoft Fabric
+ Develop and optimize ETL/ELT processes for large-scale datasets
+ Work with Lakehouse architectures (Medallion – Bronze, Silver, Gold) using Fabric or Azure Databricks
+ Integrate data from multiple sources using Azure Data Factory / Fabric Data Pipelines
+ Build and maintain data models and Lakehouse structures in OneLake
+ Ensure data quality, reliability, and performance across the platform
+ Optimize Spark workloads and data transformations using PySpark and SQL
+ Collaborate with Data Architects, BI teams and Data Scientists to enable analytics and reporting
+ Contribute to DataOps practices, CI/CD pipelines and automation
+ Support data governance and security best practices across the platform
+ Qualifications
+ Experience as a Data Engineer (3+ years)
+ Hands-on experience with Microsoft Azure data services
+ Experience with Microsoft Fabric (Lakehouse, pipelines, notebooks)
+ Strong knowledge of PySpark / Spark SQL
+ Experience with Azure Data Factory or Fabric Data Pipelines, Azure Data Lake Storage / OneLake
+ SQL skills and experience working with large datasets
+ Familiarity with Delta Lake / Lakehouse architectures
+ Experience with CI/CD and DataOps practices (Azure DevOps or GitHub)
+ Nice to have
+ Experience with Azure Databricks
+ Knowledge of Terraform or Bicep
+ Experience with Microsoft Purview or data governance tools
+ Azure Data certifications (DP-203, DP-600, DP-700)
+ Additional Information
+ The Devoteam Group works for equal opportunities, promoting its employees based on merit and actively fights against all forms of discrimination. We are convinced that diversity contributes to the creativity, dynamism and excellence of our organization. All of our vacancies are open to people with disabilities.

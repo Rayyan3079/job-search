@@ -1,0 +1,36 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-Praktikant-m-w-d-Data-Science-Data-Analytics-70771-Leinfelden-Echterdingen-IFAKT-GmbH--14629174-inline.html
+TITLE: Werkstudent / Praktikant (m/w/d) Data Science / Data Analytics
+COMPANY: IFAKT GmbH
+LOC: 70771 Leinfelden-Echterdingen
+POSTED: stepstone
+title: Werkstudent / Praktikant (m/w/d) Data Science / Data Analytics
+company: IFAKT GmbH
+posted: 2026-10-31T14:03:22.253Z
+location: 70771 Leinfelden-Echterdingen | remote: 
+---
+Mach mit uns den Unterschied!
+ Du hast kreative Ideen, die Du mit Leidenschaft umsetzen und teilen möchtest? Dann bist Du bei uns genau richtig! Wir von iFAKT sind ein Softwareunternehmen, das sich mit Themen wie Value Stream Mapping, Simulation, Prozessoptimierung und Line Balancing beschäftigt. Mit einem Blick auf das große Ganze und der Zusammenarbeit mit vielen verschiedenen Branchen arbeiten wir daran, eine Balance zwischen guten Arbeitsbedingungen, Nachhaltigkeit und Wettbewerbsfähigkeit zu finden – und das mit digitalen Lösungen. Unser Ziel ist es, Dich von Beginn an zu begeistern.
+ Deine Aufgaben:
+ Als Werkstudent / Praktikant (m/w/d) wirst Du unser Research and Technology Team in den Bereichen Data Engineering / Data Analytics oder Advanced Data Analytics / Data Science unterstützen. Dabei erfasst und analysierst Du Daten, aus dem Bereich der Industrie 4.0. Des Weiteren bringst Du Dich mit deiner innovativen und motivierenden Einstellung in Forschungsprojekte mit ein und arbeitest Dich mit Geschick in neue Aufgaben ein. Unser Ziel ist, uns und unsere Softwarelösungen gemeinsam auf zukünftige Herausforderungen vorzubereiten.
+ Was brauchst Du, um Teil unseres Teams zu werden?
+ Du bist aktuell in einem Bachelor- oder Masterstudium im Bereich (Wirtschafts-) Informatik, Mathematik, Data Science oder einen vergleichbaren Studiengang eingeschrieben
+ Programmierkenntnisse in Python sind von Vorteil, idealerweise ergänzt durch Erfahrungen mit Bibliotheken wie Pandas, numPy und scikit
+ Zudem hast Du bereits erste Erfahrungen in Sprachen wie C#, JavaScript, JSON, SQL und / oder R
+ Erste Kenntnisse in der Konfiguration, Design und Auswertungen von Datenbanken insbesondere von times series databases (u.a. MongoDB, Influx) sollten vorhanden sein
+ Im Bereich Data Analytics unterstützt Du uns von der Datenerhebung (Data Sourcing) über die Datenbereinigung (Data Cleansing) und die Aufbereitung von Datensätzen (Data Preparation) bis hin zur Datenabfrage (Data Queries) und bei der Analyse von Datenquellen
+ Für den Bereich Data Science bringts Du Kentnisse in Machine Learning, LLM, Künstliche Intelligenz und Algorithmen mit. Hierbei unterstützt Du uns aktiv bei der Selektion, Erprobung und praxisnahen Anwendung innovativer Verfahren und Modelle, die unsere zukünftige Software ergänzen und neue Möglichkeiten eröffnen.
+ Fließende Deutsch- und Englischkenntnisse in Wort und Schrift runden Dein Profil ab.
+ Deine Benefits:
+ Du hast die Chance, in einem dynamischen Team zu arbeiten
+ Professionelle Einarbeitung und Mentoring mit flachen Hierarchien und kurzen Entscheidungswegen
+ Volldigitales Arbeitsumfeld mit modernster Hard- und Software
+ Verschiedenste Home-Office-Modelle
+ Vertrauensarbeitszeit, welche es Dir problemlos ermöglicht Deinen Alltag nach Bedarf zu gestalten
+ Jährliche Sommer- und Winterevents
+ Unterjährliche Team Events in kleineren Kreisen
+ Sämtliche Vergünstigungen durch Corporate Benefits
+ Vielfältige Weiterbildungsmöglichkeiten nach individuellen Bedürfnissen
+ Sehr gute Verkehrsanbindung (ÖPNV) und kostenfreie Parkplätze
+ Kostenfreie Getränke wie Kaffee, Tee, Wasser und Softgetränke
+ Du hast noch Fragen?
+ Dann ruf uns gerne unter folgender Nummer an: +49 (0) 711 794189 15 oder schreib uns eine E-Mail an: hr@ifakt.de .

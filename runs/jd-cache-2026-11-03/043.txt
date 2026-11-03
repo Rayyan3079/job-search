@@ -1,0 +1,35 @@
+URL: https://www.linkedin.com/jobs/view/4485416959
+TITLE: Data Analyst
+COMPANY: Namaa Partners
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-01
+title: Data Analyst
+company: Namaa Partners
+posted: 1 day ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fsa.linkedin.com%2Fjobs%2Fview%2Fdata-analyst-at-namaa-partners-4485416959&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Location: Riyadh, Saudi Arabia (remote, work from home)
+ Employment type: Full-time
+ Experience level: Entry level
+ Namaa Partners has started an operating performance project with a corporate group in Saudi Arabia and is hiring a Data Analyst in the Kingdom for it and for the engagements that follow. You will turn client data on sales, costs, staffing and operations into clean tables, dashboards and short findings that our consultants take to management. The job is full-time and remote, done from home anywhere in Saudi Arabia. The rest of the team works from Oklahoma City, eight to nine hours behind Riyadh, so expect some calls at the end of your working day.
+ In practice you will:
+ - Collect extracts from clients' finance, HR and operations systems and check them for gaps and errors.
+ - Clean, join and reshape the data in Excel, SQL or Python so business units and years can be compared.
+ - Build Power BI dashboards that show the performance measures agreed for each engagement.
+ - Write short notes that explain what changed in the numbers and why.
+ - Record every source, assumption and adjustment so the work can be checked.
+ To do this well you need:
+ A bachelor's in statistics, mathematics, economics, engineering, computer science or a related field.
+ Excel, including pivot tables and XLOOKUP or INDEX/MATCH.
+ Basic SQL: SELECT queries with joins and aggregations.
+ At least one dashboard you built, at university, in an internship or at work.
+ Also useful: Python with pandas; or Tableau, or the Microsoft PL-300 Power BI certificate.
+ Working with us comes with:
+ Paid monthly in Saudi riyals, with GOSI registration
+ Family medical insurance
+ Twenty-five days of annual leave, public holidays on top
+ End-of-service award under Saudi Labor Law
+ Yearly training budget for courses and professional certificates
+ We send the laptop and the equipment for your home office
+ We are a consulting firm in Oklahoma City with a growing share of work in Saudi Arabia. Our clients are corporate groups and family enterprises, and the questions are usually about strategy, organization, performance and how authority is split between a group and its companies.

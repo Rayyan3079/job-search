@@ -1,0 +1,38 @@
+URL: https://www.xing.com/jobs/ottobrunn-muenchen-werkstudent-hands-on-mentalitaet-it-asset-management-158650748
+TITLE: Werkstudent mit Hands-on-Mentalität (m/w/d) IT-Asset Management
+COMPANY: univativ
+LOC: Ottobrunn bei München
+POSTED: 2026-11-01
+title: Werkstudent mit Hands-on-Mentalität (m/w/d) IT-Asset Management
+company: univativ
+posted: 2026-11-01T09:16:36Z
+location: Ottobrunn bei München | remote: 
+---
+Die Stelle 
+ Als Karrierebegleiter unterstützt univativ Studierende, Absolventen und Young Professionals bei ihrer beruflichen Weiterentwicklung. Deutschlandweit vermitteln wir spannende Jobs bei renommierten Unternehmen und ermöglichen Dir wertvolle Praxiserfahrung. Dabei setzen wir auf eine persönliche und individuelle Betreuung, Kommunikation auf Augenhöhe und Jobs, die wirklich zu Dir passen. 
+Du interessierst dich für Automatisierung und Asset Management? Außerdem packst du gerne selbst mit an und möchtest dein technisches Verständnis nicht nur theoretisch, sondern auch praktisch einsetzen? Du studierst aktuell im Bereich Informatik oder einer vergleichbaren Fachrichtung und möchtest wertvolle Praxiserfahrung sammeln? Dann bring deine Kenntnisse in einem technisch anspruchsvollen Umfeld ein und gestalte moderne IT- und Asset-Management-Prozesse aktiv mit.
+Unser Kunde ist ein unabhängiger Hightech-Dienstleister, der innovative Lösungen für komplexe und sicherheitskritische Systeme entwickelt. Mit langjähriger Erfahrung und technologischer Expertise unterstützt das Unternehmen namhafte Kunden aus Industrie und öffentlichem Sektor bei der sicheren Umsetzung zukunftsweisender Technologien.
+ Deine Aufgaben 
+ Unterstützung im Bereich Asset Management, Inventarisierung und Lagerverwaltung
+ Einrichtung und Weiterentwicklung barcodegestützter Prozesse und Scanlösungen
+ Mitarbeit an der Automatisierung von Bestands-, Prüf- und Dokumentationsprozessen
+ Unterstützung bei der Entwicklung kleiner Softwarelösungen mit Python (z. B. Datenverarbeitung mit Pandas oder Polars)
+ Kommissionierung, Prüfung und Zuordnung von IT-Assets und Baugruppen
+ Erstellung von Lieferscheinen, Stücklisten sowie technischer Dokumentation
+ Unterstützung bei Aufbau, Verkabelung und Vorbereitung von 19-Zoll-Racks und IT-Komponenten
+ Mitarbeit bei technischen Standardaufgaben im Umfeld IT-Infrastruktur und Systemaufbau
+ Das bringst Du mit 
+ Laufendes Studium im Bereich Informatik, Wirtschaftsinformatik, Elektrotechnik oder einer vergleichbaren Fachrichtung
+ Erste praktische Kenntnisse in Python sowie idealerweise Berührungspunkte mit Bibliotheken wie Pandas oder Polars
+ Grundverständnis für strukturierte Daten und technische Zusammenhänge
+ Sorgfältige, strukturierte und eigenständige Arbeitsweise
+ Hohe Hands-on-Mentalität sowie technisches Verständnis
+ Deutschkenntnisse mindestens auf C1-Niveau
+ Reisebereitschaft innerhalb Deutschlands (ca. 30 %)
+ Bereitschaft zur Durchführung einer Sicherheitsüberprüfung (Ü2)
+ Deine Benefits 
+ Flexible Arbeitszeiten, die sich optimal mit Deinem Studium vereinbaren lassen
+ Einblicke in spannende IT-Projekte bei einem namhaften Kunden
+ Persönliche Betreuung während Deines Einsatzes
+ Vielfältige Weiterbildungsmöglichkeiten in unserer e-Academy
+ Attraktive Vergütung: 16 € bis 19 € pro Stunde

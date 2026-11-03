@@ -1,0 +1,68 @@
+URL: https://www.linkedin.com/jobs/view/4468620585
+TITLE: Data Analyst (Power BI)
+COMPANY: Cooper Parry
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-31
+title: Data Analyst (Power BI)
+company: Cooper Parry
+posted: 2 days ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fuk.linkedin.com%2Fjobs%2Fview%2Fdata-analyst-power-bi-at-cooper-parry-4468620585&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+About The Role...
+ Are you an experienced Data Analyst with strong Power BI skills?
+ Do you want to play a key role in fueling our ambition to become the number one mid-market tech and data-led accountancy firm, redefining technology standards across our industry?
+ About The Team…
+ Cooper Parry's growth is booming, and we're looking for a new Data Analyst to join our Data & Analytics team. This is an exciting opportunity to help shape how data is used across the business, delivering meaningful insights that support strategic decision-making and enhance our customer value proposition.
+ About The Day To Day…
+ As a Data Analyst , you'll work closely with stakeholders across the business, helping teams understand their data, identify opportunities, and make informed decisions. You'll combine analytical thinking with Power BI development expertise to transform data into actionable insights.
+You'll be getting stuck into a diverse range of tasks and responsibilities, including;
+ Developing, maintaining and enhancing Power BI dashboards
+ Working closely with business stakeholders to understand reporting requirements, business objectives and key performance indicators.
+ Analysing data to identify trends, opportunities, risks and actionable insights.
+ Translating complex datasets into clear, engaging and easy-to-understand visualisations and reporting.
+ Supporting data-driven decision making across operational, commercial and strategic initiatives.
+ Extracting, transforming and validating data from multiple sources.
+ Optimising data models, Power Query transformations and reporting performance.
+ Ensuring data accuracy, consistency and adherence to reporting standards.
+ Presenting findings and recommendations to both technical and non-technical audiences.
+ Supporting the development of a data-driven culture by promoting best practices in reporting. 
+ If you're passionate about turning data into meaningful business outcomes and enjoy working with stakeholders to solve real business challenges, this could be the role for you.
+ About You...
+ At Cooper Parry, we’re in it together . All we ask of our people is that they play all in . You’ll continuously strive to keep learning – whether you’re a trainee or a Partner – and you’ll be brave , stepping out of your comfort zone to tackle new challenges. Above all, be nice . A simple notion, but an irreplaceable part of what makes CP, CP.
+In addition to those core values, as a Data Analyst you should;
+ At least 2 years of proven experience in a Data Analyst, BI Analyst, Reporting Analyst or similar analytics-focused role.
+ Strong Power BI development experience, including data modelling, DAX, Power Query and report design.
+ Experience working with integrating data from multiple systems.
+ Strong SQL skills and experience working with relational databases.
+ Understanding of ETL processes and data transformation techniques.
+ Experience with Microsoft Fabric, data warehousing technologies, or similar modern data platforms.
+ Strong understanding of data visualisation principles and best practices.
+ Ability to analyse complex datasets and communicate findings in a clear and compelling way.
+ Excellent stakeholder management, communication and collaboration skills.
+ Ability to work independently, manage competing priorities and deliver high-quality outputs.
+ The Following Skills And Experience Would Be Advantageous
+ Experience within a professional services, financial services or accountancy environment.
+ Experience building semantic models and supporting self-service reporting initiatives.
+ Knowledge of data governance, data quality and reporting standards.
+ Experience using Salesforce.
+ About Us...
+ We’ve been dubbed ‘the rebels of accountancy’. We’re straight-talking. Never afraid to share our opinions. We put people and relationships before products and services, and deliver a streamlined, client-focused service – free from unnecessary red tape.
+ Check Out Our Recent Achievements
+ Best Companies’ No.1 Accountancy Firm & No.30 Best Large Company to Work For in the UK 
+ Became B Corp Certified in 2023 and we’re still the UK’s largest accountancy B Corp, measuring and improving our impact beyond business for a brighter tomorrow 
+ Achieved 5 awards at the Inspiring Workplace Awards in 2025: winner in the Large Business category and best in class for inspiring People & Culture, Wellbeing, Inclusion and Employee Experience 
+ What's in it for you?
+Our people are the beating heart of our culture. We know that if you love working here, and you’re given the trust and autonomy to work in a way that best suits you, you’ll produce amazing results.
+ That’s Why We Offer Things Like
+ A flexible approach to work - balancing working from home, in office or with clients 
+ A generous holiday entitlement 
+ An enhanced parental leave policy 
+ An enhanced pension scheme 
+ No dress code – just “wear something!” 
+ A multi-award-winning wellbeing offering to support your physical, mental, spiritual, and financial health 
+ Volunteering opportunities to work closer with local communities and charities 
+ Cooper Parry social/sports clubs 
+ Feeling supported and welcomed is such a big part of bringing your whole self to work. As an equal opportunities employer, we’ll work with you to ensure you have everything you need to develop your skills and achieve your best.
+Get in touch if you have any questions about our commitment to Diversity & Inclusion or about accessibility/accommodations during your application process.
+For the attention of agencies - unsolicited CVs will not be honoured. We will only accept CV submissions for roles briefed to you by our Talent Acquisition team.

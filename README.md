@@ -20,6 +20,6 @@ Internships, thesis roles, full-time roles and German-required roles are listed 
 
 ## Latest run
 
-**2026-11-01**: 55 new jobs (one day after the last run). 1 package: [Haleon Munich – Working Student Supply & Demand Planning](output/2026-11-01/haleon-working-student-supply-demand-planning/) (3). Report: [digests/2026-11-01.md](digests/2026-11-01.md). Previous run with 9 packages: [digests/2026-10-31.md](digests/2026-10-31.md).
+**2026-11-03**: 120 new jobs checked. 2 packages: [DLR Institute of Data Science – Working Student ML: time-series analysis & anomaly detection](output/2026-11-03/dlr-jena-working-student-ml-time-series/) (3.5), [Maddox AI – Machine Learning Working Student](output/2026-11-03/maddox-ai-machine-learning-working-student/) (3). Report: [digests/2026-11-03.md](digests/2026-11-03.md).
 
 Applied and waiting: 15 applications (KWS, Munich Re x2, Atlas Copco, ZEISS, AgentixLake x2, IMMS, SAP x2, Airbus, BASF, Hilti, Carnival Maritime, Solactive). See [data/applications.md](data/applications.md).

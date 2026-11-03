@@ -167,4 +167,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003943695-S | Clarius.Services GmbH | Werkstudent (w/m/d) Business Excellence & Transformation | Eschborn, Taunus
 
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003947304-S | Hunkemöller Deutschland B.V. & Co. KG | Werkstudentin im Verkauf Weiterstadt | Weiterstadt
+
 ## Processed

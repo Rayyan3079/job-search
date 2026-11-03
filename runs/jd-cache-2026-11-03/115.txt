@@ -1,0 +1,64 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudentin-Software-Engineering-Analyse-KI-Tools-Sindelfingen-Mercedes-Benz-AG--14709733-inline.html
+TITLE: Werkstudent*in Software Engineering: Analyse- & KI-Tools
+COMPANY: Mercedes-Benz AG
+LOC: Sindelfingen
+POSTED: stepstone
+title: Werkstudent*in Software Engineering: Analyse- & KI-Tools
+company: Mercedes-Benz AG
+posted: 2026-11-02T21:04:45.487Z
+location: Sindelfingen | remote: 
+---
+Life is always about becoming… Im Leben geht es darum, sich auf eine Reise zu begeben, um die beste Version unseres zukünftigen Selbst zu werden. Während wir Neues entdecken, stellen wir uns Herausforderungen, meistern sie und wachsen über uns hinaus.
+Bewerben Sie sich bei Mercedes-Benz und finden Sie den Aufgabenbereich, in dem Sie Ihre Talente individuell entfalten können. Dabei werden Sie von visionären Kolleginnen und Kollegen unterstützt, die Ihren Pioniergeist teilen. Bei uns einzusteigen bedeutet, Teil eines globalen Teams zu werden, dessen Ziel es ist, die begehrenswertesten Automobile der Welt zu bauen. Together for excellence.
+Stellennummer: MER0004A23
+ Aufgaben
+ Die Mercedes-Benz Group AG ist eines der erfolgreichsten Automobilunternehmen der Welt. Mit der Mercedes-Benz AG gehört der Fahrzeughersteller zu den größten Anbietern von Premium- und Luxus-Pkw und Vans.
+ Die Plug-In-Hybridfahrzeuge (EQ Power) verbinden das elektrische Fahrerlebnis im Alltag mit der Langstreckentauglichkeit des Verbrennungsmotors - ein zentraler Baustein für nachhaltige Mobilität bei Mercedes-Benz.
+ Als Werkstudent*in wirst Du fester Bestandteil unseres Teams Betriebsstrategie. Wir entwickeln die Software, die das Zusammenspiel von Elektro- und Verbrennungsmotor intelligent steuert und so Effizienz, Komfort und Emissionen optimiert. Dabei arbeiten wir mit Prototypenfahrzeugen, Prüfständen und modernen Simulationstools, um neue Funktionen zu entwickeln, zu testen und zu validieren.
+ Der Schwerpunkt Deiner Tätigkeit liegt auf der Entwicklung und dem Betrieb von Software-, Analyse- und KI-Tools, die uns bei der Diagnose, Auswertung und Weiterentwicklung unserer Betriebsstrategie-Software unterstützen.
+ Diese Herausforderungen kommen u. a. auf Dich zu:
+ Durchführung und Auswertung von SiL-Messungen (Software-in-the-Loop) sowie Analyse von Fahrzeug- und Prüfstandsmessdaten
+ Entwicklung, Erweiterung und Pflege automatisierter Analyse- und Auswertungsroutinen (Python, MF4-/Messdatenformate)
+ Weiterentwicklung unserer KI-gestützten Ursachensuche und Defect-Analyse für Software-Defects
+ Aufbau und Pflege von CI/CD-nahen Testautomatisierungen im Zusammenspiel mit Jira/Xray
+ Mitgestaltung interner Web-Tools zur Visualisierung und Bewertung von Testergebnissen
+ Die Tätigkeit kann ab Dezember 2026 / Januar 2027 beginnen.
+ Qualifikationen
+ Studiengang Informatik, Embedded Systems, Elektrotechnik, Fahrzeugtechnik oder ein verwandter Software-/Technikstudiengang
+ Gute Kenntnisse in Python (insbesondere Datenverarbeitung, Scripting, Automatisierung)
+ Erfahrung im Umgang mit Messdatenformaten (z. B. MF4, CSV, ASAM-Standards) von Vorteil
+ Kenntnisse in Webentwicklung (HTML, JavaScript, TypeScript oder Python-basierte Frameworks) wünschenswert
+ Grundkenntnisse in MATLAB/Simulink von Vorteil
+ Erfahrung mit Testmanagement-Tools (z. B. Jira, Xray) oder Testautomatisierung von Vorteil
+ Interesse an KI-/LLM-gestützter Softwareentwicklung und Automatisierung
+ Führerschein der Klasse B
+ Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
+ Zusätzliche Informationen: 
+ Wir freuen uns auf Deine Online-Bewerbung mit Lebenslauf, Anschreiben, Zeugnissen, aktueller Immatrikulationsbescheinigung mit Angabe des Fachsemesters und Nachweis über die Regelstudienzeit. Bitte vergiss nicht im Online-Formular Deine Dokumente als "relevant für diese Bewerbung" zu markieren und beachte die maximale Dateigröße von 5 MB. 
+ Weiterführende Informationen zu den Einstellkriterien findest Du hier . 
+ Schwerbehinderte und gleichgestellte Bewerbende sind herzlich willkommen! Die Schwerbehindertenvertretung ( sbv-sindelfingen@mercedes-benz.com ) unterstützt Dich gerne im Bewerbungsprozess. 
+ People Solutions hilft Dir bei Fragen zum Bewerbungsprozess gerne weiter. Du erreichst uns per E-Mail über myhrservice@mercedes-benz.com oder telefonisch unter 0711/17-99000 (Mo-Fr 10-12 Uhr & 13-15 Uhr). 
+ Benefits
+ Essens­zulagen 
+ Mit­arbeiter­handy möglich 
+ Mit­arbeiter­rabatte möglich 
+ Mit­arbeiter­beteili­gung möglich 
+ Mit­arbeiter Events 
+ Coaching 
+ Flexible Arbeits­zeit möglich 
+ Hybrides Arbeiten möglich 
+ Gesund­heits­maß­nahmen 
+ Betrieb­liche Alters­ver­sorgung 
+ Mobilitäts­angebote 
+ Kantine, Café 
+ Betriebs­arzt 
+ Kinder­betreuung 
+ Park­platz 
+ Gute An­bindung 
+ Barriere­frei­heit 
+ Kontakt
+Marissa Eichhorn-Peter
+Email: marissa.eichhorn-peter@mercedes-benz.com 
+Mercedes-Benz Plant Sindelfingen, Sindelfingen
+Bela-Barenyi-Str Tor 14
+71063 Sindelfingen

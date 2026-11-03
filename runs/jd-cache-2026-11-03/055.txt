@@ -1,0 +1,49 @@
+URL: https://www.linkedin.com/jobs/view/4478517570
+TITLE: BI Developer in Solution Team
+COMPANY: Saab
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-02
+title: BI Developer in Solution Team
+company: Saab
+posted: 15 hours ago
+applicants: 104 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fse.linkedin.com%2Fjobs%2Fview%2Fbi-developer-in-solution-team-at-saab-4478517570&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Passionate about making ideas a reality? Join our welcoming world of tech and let your ideas soar. 
+ Your Role
+Join our Analytics & Data Solutions team and help transform data into insights, decisions, and intelligent solutions. You will work across the full analytics lifecycle, from data ingestion and engineering to modeling, visualization, and emerging AI-driven capabilities. As our analytics landscape evolves from Qlik to Microsoft Fabric and Power BI, you will have a key role in designing scalable data products and enabling data-driven decision-making across the business.
+ What You'll Do
+ Partner with business stakeholders to understand challenges and translate them into data, analytics, and AI-enabled solutions.
+ Create dashboards, reports, and self-service analytics experiences using Qlik Sense and Power BI.
+ Design, build, and maintain data products using Microsoft Fabric, including lakehouses, data pipelines, semantic models, and analytics solutions.
+ Explore and implement new capabilities within Microsoft Fabric, including automation, AI-powered analytics, copilots, and intelligent agents.
+ Ensure high standards for data quality, governance, documentation, and lifecycle management.
+ Work with data modeling, semantic layers, and business definitions to create consistent and reusable analytical assets.
+ Collaborate with architects, developers, analysts, and domain experts to deliver end-to-end analytics solutions.
+ Contribute to the continuous development of our analytics platform, standards, and ways of working.
+ The position can be based in Gothenburg, Stockholm, Karlstad, Malmö, Linköping or Karlskoga.
+Your profile
+We're looking for a curious and forward-thinking analytics professional who enjoys solving business problems with data and technology. You are comfortable working across both traditional BI development and modern cloud-based analytics platforms, and you are excited by the opportunities created by AI and data innovation.
+ We believe you have
+ More than 5 years of experience within Business Intelligence, Analytics Engineering, Data Engineering, or a similar field.
+ Experience developing analytics solutions in Qlik Sense.
+ Hands-on experience with Microsoft Fabric, including one or more of Data Factory, Lakehouse, Warehouse, Notebooks, Semantic Models, or Power BI.
+ Experience designing and maintaining data pipelines and data transformation processes.
+ Experience with Power BI and modern self-service analytics.
+ Knowledge of data warehousing, data lakes, and modern cloud data platforms.
+ Understanding of data governance, data quality, and analytics best practices.
+ Excellent communication skills and the ability to bridge business and technology.
+ Nice to Have
+ Experience with Python, Spark, or similar technologies is considered a merit.
+ Experience with AI-powered analytics.
+ Experience working with data products, semantic models, or domain-oriented analytics.
+ Experience from large and complex organizations.
+ Experience working within a regulated or security-sensitive environment.
+ This position requires that you pass a security vetting based on the current regulations around/of security protection. For positions requiring security clearance additional obligations on citizenship may apply.
+ What you will be part of
+Explore a wealth of possibilities. Take on challenges, create smart inventions, and grow beyond. This is a place for curious minds, brave pioneers, and everyone in between. Together, we achieve the extraordinary, each bringing our unique perspectives. Your part matters.
+Saab is a leading defense and security company with an enduring purpose, to help nations keep their people and society safe. Empowered by its 28,000 talented people, Saab constantly pushes the boundaries of technology to create a safer and more sustainable world.
+Saab designs, manufactures and maintains advanced systems in aeronautics, weapons, command and control, sensors and underwater systems. Saab is headquartered in Sweden. It has major operations all over the world and is part of the domestic defense capability of several nations. Read more about us here
+Why join us? At our company, you will own high-impact solutions that support service members, partners, and critical national infrastructure, making a real difference through your work. You will lead meaningful projects within a modern Digital Solutions organisation that enjoys strong executive sponsorship, providing ample opportunities for growth. We offer a flexible hybrid work model to ensure a healthy work-life balance. Additionally, you will be rewarded with a competitive salary and comprehensive benefits package.
+How to apply: Submit your CV along with a brief note highlighting a case you worked on, including the business problem you addressed and the outcomes achieved.
+ Kindly observe that this is an ongoing recruitment process and that the position might be filled before the closing date of the advertisement.

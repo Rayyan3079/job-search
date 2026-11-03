@@ -1,0 +1,33 @@
+URL: https://www.linkedin.com/jobs/view/4484333664
+TITLE: Werkstudent AI Automation & Agentic Engineering*
+COMPANY: PULS Group
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-11-02
+title: Werkstudent AI Automation & Agentic Engineering*
+company: PULS Group
+posted: 19 hours ago
+applicants: 66 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-ai-automation-agentic-engineering-at-puls-group-4484333664&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Als weltweit agierendes mittelständisches Unternehmen mit Hauptsitz in München ist PULS seit über 40 Jahren der globale Marktführer für DIN-Schienen-Stromversorgungen. Wir setzen kontinuierlich neue Maßstäbe in der industriellen Stromversorgung und bieten als Innovationstreiber für dezentrale Field Power Supplies und kabellose Ladesysteme herausragende Lösungen auch außerhalb des Schaltschrankes. Unsere führende Position auf dem globalen Markt verdanken wir unserem unermüdlichen Streben nach Exzellenz und Nachhaltigkeit. Unsere Unternehmenskultur und ein modernes Arbeitsumfeld fördern Kreativität und Zusammenarbeit. Modernste Technologien und Methoden sowie kontinuierliche Weiterbildung sorgen dafür, dass wir stets am Puls der Zeit bleiben. Bei PULS hast Du auch als Werkstudent bereits die Möglichkeit, Deine Ideen einzubringen und dein theoretisches Wissen praktisch anzuwenden. Überzeuge Dich selbst und werde Teil unseres Teams!
+ Aufgaben 
+ Aus AI Use Cases unterschiedlicher Unternehmensbereiche entwickelst Du zügig erste funktionsfähige Prototypen.
+ Du konzipierst und entwickelst AI Agents und Automatisierungen, die Informationen verarbeiten, Wissen erschließen und wiederkehrende Tätigkeiten intelligent unterstützen.
+ Bestehende Daten- und Wissensquellen verknüpfst Du mit AI-Lösungen und beschäftigst Dich dabei unter anderem mit RAG, Vector Search und Knowledge-Graph-Architekturen.
+ Unterschiedliche Lösungsansätze und AI Tools evaluierst Du anhand konkreter Anwendungsfälle und leitest daraus fundierte Empfehlungen für die weitere Entwicklung ab.
+ Gemeinsam mit unserem AI-Team entwickelst Du erfolgreiche Prototypen weiter und schaffst damit die Grundlage für langfristig tragfähige Lösungen.
+ Profil
+ Eine solide Grundlage bildet Dein Studium im Bereich Informatik, Wirtschaftsinformatik, Data Science oder einer vergleichbaren Fachrichtung.
+ Praktische KI-Erfahrung bringst Du bereits mit: Du hast eigenständig anspruchsvollere AI-Anwendungen oder Projekte realisiert.
+ Python und Git gehören zu Deinem technischen Repertoire. Idealerweise hast Du bereits mit AI Coding Assistants wie Claude Code, Codex oder Cursor gearbeitet.
+ AI Agents, RAG, APIs, Vector Search oder Knowledge Graphs sind Themen, mit denen Du Dich bereits beschäftigt hast oder tiefer auseinandersetzen möchtest.
+ Analytisches und logisches Denkvermögen hilft Dir dabei, auch für komplexe Anforderungen pragmatische Lösungen zu entwickeln.
+ Du schätzt den Austausch im Team, bringst Deine Ideen aktiv ein und entwickelst gemeinsam mit anderen innovative Lösungen.
+ Im internationalen Umfeld kommunizierst Du sicher auf Deutsch und Englisch und trittst unterschiedlichen Ansprechpartnern gegenüber souverän auf.
+ Wir bieten
+ Studieren, Geld verdienen und gleichzeitig an zukunftsweisenden AI-Themen arbeiten? Das geht! Bei PULS sammelst Du wertvolle Praxiserfahrung und gestaltest innovative Lösungen rund um Künstliche Intelligenz aktiv mit.
+Du gestaltest deine Arbeitszeit und deinen Arbeitsort flexibel und kannst so die Theorie im Studium optimal mit deiner praktischen Tätigkeit bei uns verbinden. Technisch wirst du natürlich bestens für deine Aufgaben aus-gestattet. Unsere Experten fördern und fordern stetig deine fachliche und persönliche Weiterentwicklung während deiner Tätigkeit bei PULS. Und wer weiß – vielleicht ergibt sich daraus noch die ein oder andere neue Perspektive für dich. Das klingt gut? Dann bist du bei uns genau richtig!
+ *Alle sind bei der PULS willkommen. Dieses Stellenangebot bezieht sich daher auf Alle, die gerne Teil unseres Unternehmens werden möchten. Unabhängig von kultureller & ethnischer Herkunft, Geschlecht, Religion, Weltanschauung, körperlicher Einschränkung oder Alter.
+ Important note
+ Please be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered. 
+ LNKD1_DE

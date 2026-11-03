@@ -1,0 +1,46 @@
+URL: https://www.linkedin.com/jobs/view/4485797402
+TITLE: SQL Developer & Analyst (Remote Opportunity)
+COMPANY: VetsEZ
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-02
+title: SQL Developer & Analyst (Remote Opportunity)
+company: VetsEZ
+posted: 6 hours ago
+applicants: 28 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fsql-developer-analyst-remote-opportunity-at-vetsez-4485797402&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+We are currently looking for a SQL Developer / Data Analyst for a 100% remote position supporting a large federal government healthcare modernization project. This role will support the Department of Veterans Affairs (VA) by providing SQL development, data analysis, reporting, and data quality monitoring for ongoing electronic health record (EHR) modernization initiatives. The developer will work with large clinical and operational datasets, supporting data migration, integration, validation, and business intelligence reporting using SQL Server, Power BI, and related technologies.
+The position operates within a remote, multidisciplinary Agile team, collaborating with software developers, data engineers, quality assurance personnel, and federal stakeholders. The developer will participate in data analysis, reporting, validation, and continuous improvement activities to ensure the accuracy, completeness, and reliability of healthcare data throughout modernization and migration efforts.
+The candidate must reside within the continental US.
+ Responsibilities
+ Develop, maintain, and optimize advanced SQL queries, scripts, and transformation logic to support data extraction, validation, reconciliation, and analysis across large clinical and operational datasets within SQL Server environments.
+ Analyze and interpret healthcare data from multiple systems, identify trends and anomalies, and develop reports, dashboards, and visualizations using Power BI, Tableau, Excel, and related business intelligence tools to support program reporting and decision-making.
+ Collaborate with developers, data engineers, and program stakeholders to evaluate data flows, source-to-target mappings, transformation requirements, and conceptual and physical data models supporting federal healthcare data warehouses and integration initiatives.
+ Develop and maintain data quality monitoring processes, validation routines, and reconciliation reports to assess data completeness, accuracy, consistency, and timeliness throughout migration and EHR modernization activities.
+ Investigate data discrepancies, perform exploratory data analysis and root cause investigations, document findings, and maintain technical documentation, including data dictionaries, mapping specifications, runbooks, and validation protocols.
+ Support recurring reporting deliverables and evaluate AI-assisted tools for SQL optimization, automated data quality checks, anomaly detection, and technical documentation while validating generated outputs and maintaining data security and quality standards.
+ Take on additional tasks and responsibilities as needed to support team objectives and ensure the success of the project.
+ Requirements
+ Bachelor's degree in Computer Science, Electronics Engineering, or another engineering or technical discipline, or eight (8) years of additional relevant experience in lieu of a degree, with a minimum of five (5) years of relevant professional experience.
+Strong hands-on experience developing advanced SQL queries, scripts, and data extraction processes using Microsoft SQL Server, including working with large, complex datasets and optimizing query performance.
+Experience analyzing healthcare or clinical datasets, including familiarity with healthcare data standards and systems such as HL7, FHIR, or VistA, and supporting data validation, transformation, and integration activities.
+Strong understanding of relational database structures, data modeling, indexing, normalization, and performance tuning, with experience developing reports and visualizations using Power BI, Tableau, or Microsoft Excel.
+Excellent analytical, troubleshooting, and problem-solving skills with strong attention to detail and the ability to identify data discrepancies, investigate root causes, and ensure data accuracy and integrity.
+Strong written and verbal communication, documentation, and collaboration skills with the ability to present technical findings to both technical and non-technical stakeholders and work effectively within multidisciplinary teams.
+ Additional Qualifications
+ Previous experience supporting Department of Veterans Affairs (VA) healthcare data systems, including VX130, Oracle Health Millennium, or the Corporate Data Warehouse (CDW), and familiarity with InterSystems IRIS, Caché, mirrored database architectures, or EHR data migration and cutover verification activities.
+ Experience working within Agile development environments using JIRA, Azure DevOps, or similar tools, with knowledge of healthcare data governance, metadata management, source-to-target mapping, data quality monitoring, and technical documentation practices.
+ Experience using AI-assisted tools such as GitHub Copilot to develop and optimize SQL queries, generate data validation and reconciliation scripts, identify anomalies, analyze trends, and produce technical documentation, with an understanding of AI output validation, PHI/PII protection, and responsible AI practices within federal healthcare environments.
+ Security Clearance Requirements
+ U.S. Citizenship is required.
+ All selected candidates must successfully complete a background check.
+ Ability to obtain and maintain a Government/Public Trust clearance, including required fingerprinting, when required for the position.
+ Benefits
+ Medical/Dental/Vision
+ 401k with Employer Match
+ PTO + Federal Holidays
+ Corporate Laptop
+ Training Opportunities
+ Remote Opportunity
+ VetsEZ is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability, or protected veteran status.
+Sorry, we are unable to offer sponsorship at this time.

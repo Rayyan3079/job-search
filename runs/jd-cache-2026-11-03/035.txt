@@ -1,0 +1,41 @@
+URL: https://www.linkedin.com/jobs/view/4484604177
+TITLE: Minijob IT Consulting & KI für Studierende (m/w/d)
+COMPANY: WhaleBrain
+LOC: Germany
+POSTED: 2026-11-02
+title: Minijob IT Consulting & KI für Studierende (m/w/d)
+company: WhaleBrain
+posted: 8 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+100 % remote (innerhalb Deutschlands) | ab 01.12.2026, Starttermin flexibel | Minijob, ca. 40 Stunden pro Monat | 15 € pro Stunde
+ Du programmierst gern, redest aber auch gern mit Menschen? Dann bist du bei uns richtig.
+ WhaleBrain ist eine Digitalagentur aus Potsdam. Wir entwickeln Websites, Software und KI-Lösungen für kleine und mittlere Unternehmen, Selbstständige und Teams. Bei uns bist du die Schnittstelle zwischen Kunden und Entwicklung: Du verstehst, was der Kunde braucht, und erklärst ihm am Ende, was wir gebaut haben.
+ Deine Aufgaben
+ • Du führst Kundengespräche auf Deutsch per Telefon und Video-Call und bist feste technische Ansprechperson.
+ • Du nimmst Anforderungen auf und stellst die richtigen technischen Rückfragen.
+ • Du übersetzt Kundenwünsche in klare technische Aufgaben für unsere Entwicklung.
+ • Du schätzt mit ein, was bei Web-Apps, APIs, Chat-Assistenten und Automatisierungen machbar ist.
+ • Du präsentierst fertige Ergebnisse und erklärst sie verständlich.
+ • Du dokumentierst Vereinbarungen und hältst Kunden über den Projektstand auf dem Laufenden.
+ Das bringst du mit
+ • Du studierst Informatik, Wirtschaftsinformatik oder ein ähnliches Fach und bist mindestens im 3. Fachsemester.
+ • Programmiererfahrung, z. B. mit JavaScript oder Python
+ • Verständnis von Webanwendungen, APIs und Datenbanken
+ • Erste Erfahrung mit LLMs, KI-Tools oder Automatisierungen
+ • Verhandlungssicheres Deutsch in Wort und Schrift (mindestens C1) und ein sicheres, professionelles Auftreten gegenüber Kunden
+ • Die Fähigkeit, Technik einfach zu erklären
+ • Eine strukturierte und selbstständige Arbeitsweise
+ • Wohnsitz in Deutschland und Erreichbarkeit zu vereinbarten Zeiten während der üblichen Geschäftszeiten
+ Von Vorteil
+ • Erfahrung im Kundenkontakt
+ • Erfahrung mit Tools wie n8n oder LangChain oder mit RAG-Systemen
+ • Gute Englischkenntnisse
+ Das bieten wir dir
+ • Ortsunabhängiges Arbeiten innerhalb Deutschlands
+ • Echte Kundenprojekte statt Nebenaufgaben
+ • Direkte Zusammenarbeit mit der Geschäftsführung
+ • Arbeitszeiten, die sich mit Studium und Prüfungen vereinbaren lassen
+ So bewirbst du dich
+ Schick deinen Lebenslauf, deine Immatrikulationsbescheinigung und zwei bis drei Sätze zu deiner Motivation an info@whalebrain.de, gern mit GitHub-Link oder eigenen Projekten. Danach lernen wir uns in einem etwa 30-minütigen Video-Call kennen.

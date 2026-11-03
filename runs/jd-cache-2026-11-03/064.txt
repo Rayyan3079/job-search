@@ -1,0 +1,37 @@
+URL: https://www.linkedin.com/jobs/view/4484341470
+TITLE: Werkstudent (m/w/d) Informationssicherheit & IT – Digitalisierung, Automatisierung & KI
+COMPANY: LAIQON
+LOC: Hamburg, Hamburg, Germany
+POSTED: 2026-11-02
+title: Werkstudent (m/w/d) Informationssicherheit & IT – Digitalisierung, Automatisierung & KI
+company: LAIQON
+posted: 19 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-m-w-d-informationssicherheit-it-%25E2%2580%2593-digitalisierung-automatisierung-ki-at-laiqon-4484341470&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Die LAIQON AG ist ein innovatives, börsennotiertes Finanzhaus, das mit aktiven nachhaltigen und digitalen Investmentlösungen Rendite für seine Kunden und Partner erzielt. Unser Geschäftsmodell stützt sich auf drei Säulen. Im Geschäftsfeld LAIQON Asset Management erfolgt eine Positionierung als Spezialanbieter benchmarkfreier Aktien-, Renten- und Mischfonds. Alle Fonds berücksichtigen einen integrierten Nachhaltigkeitsansatz im Investmentprozess. Im Geschäftsfeld LAIQON Wealth Management erfolgt eine proaktive, ganzheitliche 360° Umsetzung der individuellen Ziele von vermögenden Kunden in einer persönlichen Vermögensverwaltung. Im Geschäftsfeld LAIQON Digital Wealth werden über das WealthTech LAIC und dem FinTech growney digitale und risikooptimierte Anlagelösungen für Privatanleger und institutionelle Kunden angeboten. 
+ Aufgaben 
+ Als Werkstudent (m/w/d) unterstützen Sie unser Technology- & Security-Team dabei, Informationssicherheit und IT effizienter zu gestalten. Dafür setzen Sie auf Digitalisierung, Automatisierung und KI. Zu Ihren Aufgaben gehören u. a.:
+ Mitarbeit bei der weiteren Digitalisierung und Automatisierung von ISMS- und IT-Prozessen mit Fokus auf Confluence und Jira, z. B. Risiko-, Service-, Asset- und Lieferantenmanagement
+ Aufbau und Weiterentwicklung strukturierter Vorlagen, Seiteneigenschaften und Workflows für die ISMS-Dokumentation in Confluence
+ Konzeption und Umsetzung KI-gestützter Automatisierungen, z. B. mit Jira- und Confluence-Automation, REST-APIs, Workflows und KI-Agenten
+ Aufbau von Dashboards und KPI-Reportings zum Stand der Informationssicherheit für Management und Audits
+ Identifikation von Optimierungspotenzialen in Prozessen und deren eigenständige Umsetzung in Abstimmung mit dem Team 
+ Profil
+ Sie studieren Informatik, Wirtschaftsinformatik, IT-Sicherheit, Data Science oder Vergleichbares und sind voraussichtlich noch mindestens ein Jahr immatrikuliert
+ Sie können uns bis zu 20 Stunden pro Woche vor Ort unterstützen
+ Sie interessieren sich für Informationssicherheit, IT-Management und Regulatorik; erste Kenntnisse in ISO 27001, DORA oder vergleichbaren Rahmenwerken sind ein Plus
+ Sie haben idealerweise erste Erfahrung mit Confluence und Jira sowie mit Skripting oder Programmierung, z. B. Python und REST-APIs
+ Sie haben ein grundlegendes Verständnis von LLMs und deren Einsatzmöglichkeiten, z. B. Prompt Engineering, KI-Agenten oder KI-Dienste per API
+ Sie arbeiten strukturiert, eigenständig und gewissenhaft und gehen kritisch mit KI-Ergebnissen sowie sensiblen Daten um
+ Sie kommunizieren sicher auf Deutsch und Englisch 
+ Wir bieten
+ E ine innovative Unternehmenskultur, Raum für Eigenverantwortung, individuellen Gestaltungsspielraum und schnelle Entscheidungen
+ Wir legen großen Wert auf nachhaltiges und verantwortungsvolles Handeln
+ Flexible Arbeitszeitgestaltung, attraktives Gehalt, sowie die Möglichkeit zum mobilen Arbeiten
+ Moderne, innovative Arbeitsumgebung in sehr zentraler und repräsentativer Lage an all unseren Standorten sowie neuste mobile Arbeitsgeräte
+ Zuschuss zum Deutschlandticket für bequemes und umweltfreundliches Pendeln
+ Essensgeldzuschuss (LunchIt) für die tägliche Mittagspause, kostenlose Getränke (Kaffee, Wasser, Tee) sowie kostenfreies Obst
+ Important note
+ Please be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered. 
+ LNKD1_DE

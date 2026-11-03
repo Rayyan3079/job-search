@@ -1,0 +1,64 @@
+URL: https://www.linkedin.com/jobs/view/4485437029
+TITLE: Power BI & Data Analyst
+COMPANY: St John Ambulance Australia (NSW)
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-01
+title: Power BI & Data Analyst
+company: St John Ambulance Australia (NSW)
+posted: 1 day ago
+applicants: 91 applicants
+apply_offsite: 
+---
+Salary packaging benefits available – access up to $15,900 General benefits plus an additional $2,650 Meal & Entertainment card tax-free, helping you reduce your tax and increase your take-home pay.
+ Competitive Salary + Salary Packaging Benefit + Birthday Leave 
+ Join one of Australia's most trusted First Aid Organisations 
+ Hybrid work from head office, home and on site at various locations 
+ St John Ambulance NSW is a for purpose not-for-profit organisation committed to saving lives through first aid. Our voluntary first aid work is enabled through the delivery of first aid training, products and services that support communities across New South Wales. Driven by our values of Respect, Integrity, Leadership, Communication and Collaboration, we are one of Australia's most recognised and trusted brands. Every commercial partnership and revenue opportunity we secure helps fund programs that build safer, healthier and more resilient communities.
+ Turn our data into decisions. 
+ St John Ambulance NSW is looking for a hands-on Power BI specialist with strong analytical skills to own our reporting environment and help our leaders make better, data-informed decisions. You will build reliable, automated Power BI reports, turn financial and operational data into clear insight, and bring structure and discipline to how data is integrated, automated and governed across the organisation. It is a chance to help shape our data platform as our Microsoft environment evolves, including Microsoft Fabric.
+ About the Role 
+ Reporting to the Chief Financial Officer, you will be our go-to person for Power BI and data analysis. Our Power BI environment has grown over time to cover a wide range of needs, and some of it relies on manual effort to keep running. A big part of this role is helping us get that right: agreeing with the business what is genuinely needed, automating and documenting what we keep, and recommending where a source system’s own reporting would do the job better.
+ You will also work with our system owners and technology team on data quality, system changes and testing. Systems support is part of the role, but Power BI and analysis are at its core.
+ What You Will Do 
+ Design, build and maintain Power BI reports, dashboards and semantic models used across finance, operations and member services.
+ Write DAX, Power Query and SQL to bring together data from multiple systems.
+ Build data integration pipelines and dataflows, including in Microsoft Fabric as we adopt it, so data is modelled once and reused.
+ Automate data refreshes and routine tasks with Power Query, Fabric and Power Automate, removing manual, spreadsheet-based steps.
+ Build validation and reconciliation checks into reports so issues are caught before they reach users.
+ Manage our Power BI Service, including workspaces, refresh schedules, access and Row Level Security.
+ Analyse financial and operational data, explain what it means in plain language and recommend action.
+ Help set and apply data governance standards: definitions, ownership, certified datasets and access controls.
+ Keep a register of our reports, review it with the business and retire what is not adding value.
+ Document reports and processes so they do not depend on any one person, and train backup users.
+ Work with system owners and IT on data quality, system changes and testing, including data migration for our move to Business Central.
+ About You 
+ To be successful in this role, you will bring:
+ Proven commercial experience building and supporting Power BI solutions end to end.
+ Advanced DAX and Power Query skills, and sound data modelling (including star schema).
+ Solid SQL for querying, preparing and validating data.
+ Experience integrating data from multiple systems and automating data preparation.
+ Hands-on experience with the Power BI Service, including scheduled refresh, gateways and Row Level Security.
+ Strong analytical skills, with experience in financial or operational analysis and advanced Excel.
+ Close attention to detail and the habit of checking your numbers against the source.
+ The confidence to question requests and recommend the simplest solution that works.
+ Clear communication with non-technical people.
+ A tertiary qualification in a related field, or equivalent experience.
+ Highly regarded:
+ Experience with Microsoft Fabric (lakehouses, Dataflows Gen2 or pipelines) or Azure data services.
+ Experience with Power Automate.
+ Experience with Dynamics 365 Business Central or other ERP data, including ERP migrations.
+ Experience with CRM, contact centre, finance system data.
+ Microsoft Power BI Data Analyst (PL-300) certification.
+ Why Join Us? 
+ Own and shape Power BI, data integration and analytics at a well-known not-for-profit, as we modernise our Microsoft data platform.
+ Work directly with the key stakeholders including the Executive team, Sales and Operations teams, with real influence on how reporting is done.
+ Hybrid working, with a minimum of 3 days per week in our Macquarie Park office and the balance from home.
+ A chance to make a real difference to the community and to commercial outcomes.
+ If you enjoy turning complex data into reporting people trust, and can explain what the numbers mean, we would love to hear from you.
+ What’s next? 
+ If you’d like to express an interest, then click Apply Now with your cover letter and resume or email jobs@stjohnnsw.com.au . 
+ Applications will be reviewed as they are received so candidates are encouraged to get in early.
+ Please note that we require you to obtain a Working with Children's Check and Police Check. 
+ St John Ambulance (NSW) does not accept unsolicited calls from recruitment agencies. 
+ St John Ambulance (NSW) is committed to providing an inclusive workforce and encourages applications from people of culturally diverse backgrounds, including those who identify as part of the Australian Aboriginal and/or Torres Strait Islander Community
+ St John Ambulance (NSW) cares about keeping children and young people safe. Protecting and promoting the emotional, physical, cultural, and spiritual wellbeing of children and young people is central to all aspects of the operations and culture of St John Ambulance (NSW). St John Ambulance (NSW) commits to creating and maintaining an environment where members act in the best interest of children and young people and has zero tolerance to any form of abuse.

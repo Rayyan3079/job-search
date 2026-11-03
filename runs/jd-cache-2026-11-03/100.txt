@@ -1,0 +1,30 @@
+URL: https://www.linkedin.com/jobs/view/4484629670
+TITLE: Data Engineer Intern (Mandatory/Pflichtpraktikum) (w/m/d)
+COMPANY: Novo AI
+LOC: Hannover, Lower Saxony, Germany
+POSTED: 2026-11-03
+title: Data Engineer Intern (Mandatory/Pflichtpraktikum) (w/m/d)
+company: Novo AI
+posted: 23 minutes ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+Tasks 
+ We, at NOVO AI, are looking for a Data Engineer Intern to research and contribute to projects (concentrated in the field of Machine Learning ) at various scales. 
+ Your role is to support the engineering team in day-to-day tasks including data processing and maintenance, process reporting, and troubleshooting. 
+ You will analyze and optimize processes, suggest improvements, and learn industrial practices from a practiced team.
+ Requirements 
+ You have some experience in Software engineering, preferably data 
+engineering.
+ Good Python coding skills
+ Familiarity dealing with Linux
+ You are curious and have a ‘learn and grow’ mindset
+ Benefits 
+ Contribute to a start-up built on a widely researched and growing field
+ Hands-on experience with present-day cutting-edge technology
+ Direct exposure to the present technology advancements
+ Coaching in relevant entrepreneurial skills
+ Start-up learning environment where you can gain more experience within 3 months than in 1 year in a corporate environment
+ Structure your own working time
+ Increase your chances and stay close to our journey by following Novo AI on LinkedIn, so you always know what we are building and where you can grow with us.
+ https://www.linkedin.com/company/novo-ai/?viewAsMember=true

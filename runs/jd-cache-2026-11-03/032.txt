@@ -1,0 +1,52 @@
+URL: https://www.linkedin.com/jobs/view/4424362533
+TITLE: Werkstudent (w/m/d) - Agile Project Support within SAP Store
+COMPANY: SAP
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-11-01
+title: Werkstudent (w/m/d) - Agile Project Support within SAP Store
+company: SAP
+posted: 1 day ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-w-m-d-agile-project-support-within-sap-store-at-sap-4424362533&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Wir helfen die Welt zu verbessern
+ Bei SAP halten wir es einfach: Du bringst dein Bestes mit, und wir holen das Beste aus dir heraus.
+Wir sind Macher, die über 20 Branchen und 80 % des weltweiten Handels beeinflussen – und wir brauchen deine einzigartigen Talente, um die Zukunft mitzugestalten.
+Die Arbeit ist herausfordernd – aber sie zählt. Du findest bei uns einen Ort, an dem du du selbst sein kannst, dein Wohlbefinden an erster Stelle steht und du wirklich dazugehört.
+Was hast du davon? Ständiges Lernen, Weiterentwicklung deiner Fähigkeiten, großartige Zusatzleistungen und ein Team, das möchte, dass du wächst und erfolgreich bist.
+ Was du mitgestaltest
+ Scrum-Master-Tätigkeiten: Unterstützung bei der Implementierung und Sicherstellung agiler Prozesse über verschiedene Teams hinweg. Moderation der Stakeholder-Kommunikation, Koordination der Teams sowie Gewährleistung der Einhaltung agiler Methoden innerhalb sämtlicher Teamstrukturen
+ Test & Dokumentation: Durchführung von Funktionstests neuer Features mit systematischer Erfassung und Dokumentation von Fehlern in Tracking-Systemen sowie Erstellung aussagekräftiger Testprotokolle und Bug-Reports
+ Go-Live-Management: Planung, Koordination und Überwachung von Go-Live-Aktivitäten zur Sicherstellung eines erfolgreichen Übergangs in den Produktivbetrieb. Steuerung der Kommunikation sowie Umsetzung aller go-live-relevanten Maßnahmen
+ Prozessoptimierung: Analyse und Optimierung von Geschäftsprozessen mit Schwerpunkt auf Defect-Management, Go-Live-Orchestrierung sowie der Identifikation weiterer Verbesserungspotenziale zur Steigerung der operativen Effizienz
+ Was du mitbringst
+ Aktuell immatrikuliert in einem Bachelor- oder Masterstudiengang im Bereich Wirtschaftsinformatik, Informationstechnologie, Business Administration oder einem vergleichbaren Studiengang
+ Ausgeprägte Planungs- und Organisationsfähigkeiten mit nachweislicher Fähigkeit, komplexe Projekte zu strukturieren, Prioritäten effizient zu setzen sowie detaillierte Dokumentationen und Zeitpläne zu erstellen und zu pflegen
+ Stark ausgeprägtes konzeptionelles und analytisches Denkvermögen mit der Fähigkeit, komplexe Problemstellungen zu analysieren, Ursachen zu identifizieren und strategische Lösungsansätze zu entwickeln
+ Lösungsorientierte Denkweise mit der Fähigkeit, Prozessineffizienzen zu erkennen und praxisnahe Optimierungsmaßnahmen abzuleiten
+ Kenntnisse agiler Methoden sowie ein gutes Verständnis des Scrum-Frameworks und der Umsetzung agiler Prozesse
+ Sehr gute Kenntnisse in den Microsoft-Office-Anwendungen, insbesondere Excel, PowerPoint und Outlook
+ Praktische Erfahrungen mit Softwareentwicklung / Programmierung (z. B. Java, Python, C++) sowie Atlassian-Tools (JIRA, Confluence) sind von Vorteil
+ Sehr gute schriftliche und mündliche Englischkenntnisse
+ Die regelmäßige Arbeit am Standort Berlin ist erforderlich
+ Wo du hingehörst
+ Deal Execution steuert den gesamten „Opportunity-to-Close“-Prozess – von der Angebotserstellung und Deal-Freigabe bis hin zu Vertragsabschluss und Fulfillment. Durch die Anwendung von Prinzipien des Next-Generation Cloud Selling optimiert das Team nicht nur Prozesse, sondern beschleunigt auch Vertragsabschlüsse und steigert die Erfolgsquoten signifikant, wodurch das Umsatzwachstum von SAP nachhaltig gefördert wird. Mit einem klaren Fokus auf Präzision und Effizienz verantwortet Deal Execution zentrale Prozesse wie Deal-Qualifizierung, Preisgestaltung, Vertragsmanagement sowie die Abwicklung von Verlängerungen und stellt dabei eine fristgerechte Umsatzrealisierung sowie die Einhaltung der IFRS15-Standards sicher.
+Das E-Commerce Platforms Team als Teil von Deal Execution verantwortet das technische Design sowie die Implementierung sämtlicher Features und Funktionalitäten innerhalb unserer digitalen Commerce-Plattformen. Anwendungen wie der SAP Store (www.sap.com/store) und der Partner Store tragen gemeinsam zur digitalen Distribution umfassender Softwarelösungen bei und ermöglichen einen nahtlosen Zugang zu unseren Angeboten über unterschiedliche Kundensegmente und Märkte hinweg. Unsere Stores dienen als Online-Vertriebskanäle, über die Kunden SAP- und Partnerlösungen aus den Bereichen Application Cloud, Analytics, Datenbanken und Technologieportfolios in einem einfachen Click-through-Prozess erwerben können.
+ Deine Bewerbungsunterlagen sollten neben einem Anschreiben, tabellarischen Lebenslauf, aktuellen Notenspiegel und gültiger Immatrikulationsbescheinigung auch Kopien von Zwischen-, Schulabschluss- und, soweit vorhanden, Arbeitszeugnissen (Praktika) als Anlagen enthalten. Bitte beschreibe außerdem deine Erfahrungen und Kenntnisse in Fremdsprachen und Computerprogrammen/Programmiersprachen.
+ Dies ist eine globale, strategische und bezahlte Werkstudentenstelle, die Studenten und Studentinnen die Möglichkeit bietet, sich beruflich zu orientieren.
+ #Workingstudent #Werkstudent #Germany #Deutschland #Student #SAPGermanStudentsCareers #SAPNextGen
+ Gib dein Bestes
+ SAP-Innovationen helfen mehr als vierhunderttausend Kunden weltweit, effizienter zusammenzuarbeiten und Business Insight effektiver zu nutzen. SAP war ursprünglich für seine Führungsrolle in der ERP-Software (Enterprise Resource Planning) bekannt und hat sich zu einem Marktführer für End-to-End-Software für Geschäftsanwendungen und zugehörige Services für Datenbank, Analyse, intelligente Technologien und Erfahrungsmanagement entwickelt. Als Cloud-Unternehmen mit zweihundert Millionen Benutzern und mehr als einhunderttausend Mitarbeitern weltweit sind wir zielgerichtet und zukunftsorientiert, mit einer äußerst kollaborativen Teamethik und Engagement für die persönliche Entwicklung. Unabhängig davon, ob wir globale Branchen, Menschen oder Plattformen miteinander verbinden, stellen wir sicher, dass jede Herausforderung die Lösung erhält, die sie verdient. Bei SAP kannst du dein Bestes geben.
+ Wir gewinnen durch Inklusion
+ SAPs Kultur der Inklusion, der Fokus auf Gesundheit und Wohlbefinden sowie flexible Arbeitsmodelle stellen sicher, dass sich alle – unabhängig vom Hintergrund – einbezogen fühlt und ihr Bestes geben können.
+Bei SAP sind wir überzeugt davon, dass uns die einzigartigen Fähigkeiten und Eigenschaften, die jede Person mitbringt, stärker machen. Deshalb investieren wir in die Menschen bei SAP, um Selbstvertrauen zu stärken und allen zu helfen, ihr volles Potenzial zu entfalten.
+Unser Ziel ist es, alle Talente zu fördern und eine bessere Welt zu schaffen.
+ Chancengleichheit und Barrierefreiheit
+ SAP bekennt sich zu den Werten der Chancengleichheit am Arbeitsplatz und bietet im Fall von mit körperlichen und/oder geistigen Beeinträchtigungen barrierefreie Unterstützung bei der Bewerbung.
+Wenn du dich für eine Stelle bei SAP bewerben möchtest und Unterstützung oder besondere Hilfe beim Navigieren auf unserer Website oder beim Ausfüllen deiner Bewerbung benötigst, sende bitte eine E-Mail mit deiner Anfrage an das Recruiting Operations Team: Careers@sap.com.
+Anfragen auf angemessene Vorkehrungen werden im Einzelfall geprüft.
+Nur unbefristete Positionen sind gemäß den Teilnahmebedingungen in der SAP Referral Policy für das SAP-Mitarbeiterempfehlungsprogramm berechtigt. Für Positionen in der Berufsausbildung können besondere Bedingungen gelten.
+ Einsatz von KI im Rekrutierungsprozess
+ Weitere Informationen über den verantwortungsvollen Einsatz von KI in unserem Rekrutierungsprozess findest du in unseren Richtlinien zur ethischen Nutzung von KI im Rekrutierungsprozess.
+Bitte beachte, dass Verstöße gegen diese Richtlinien zum Ausschluss aus dem Bewerbungsprozess führen können.
+Requisition ID:453942 | Funktionsbereich:Information Technology | Reisetätigkeit:0 - 10% | Karrierestatus:Studenten | Anstellungsverhältnis:Teilzeit, befristet | Weitere Standorte:

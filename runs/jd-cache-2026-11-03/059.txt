@@ -1,0 +1,62 @@
+URL: https://www.linkedin.com/jobs/view/4485638753
+TITLE: BI Developer
+COMPANY: ISS A/S
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-10-31
+title: BI Developer
+company: ISS A/S
+posted: 3 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fpt.linkedin.com%2Fjobs%2Fview%2Fbi-developer-at-iss-a-s-4485638753&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Want to know how a leading workplace experience and facility management company is powered by technology?
+ At ISS Tech Team, we create smarter workplace experiences through technology. Our Global Technology Solutions team builds digital solutions, from sensors and IoT devices to data, analytics and AI-driven capabilities, that support our ISS A/S operations across Cleaning, Workplace, Food and Technical Services.
+With tech hubs in Copenhagen, Warsaw, and Porto, and teams collaborating across more than 30 countries, our ISS Tech team develops our digital solutions that have a real impact on both our customers and our people.
+ Location: Porto, Portugal
+ Work regime: Hybrid
+ The Job Role as BI Developer: 
+ In this role, you’ll help maintain and evolve the BI layer of our CRM, supporting sales performance monitoring, business development, customer analytics and senior leadership reporting across Group functions and countries. You’ll maintain and evolve CRM BI data flows and Power BI semantic models, troubleshoot technical issues affecting reporting and key business processes, and ensure reliable data is available for business reporting. You’ll also support the Principal CRM Developer with Dynamics 365 Sales and Power Platform improvements.
+Based in our Porto tech hub, you’ll work alongside the Product Owner and Principal CRM Developer, collaborating with the Commercial Analytics team and colleagues across Warsaw and Copenhagen. You’ll help maintain technical and operational documentation, build an understanding of the CRM BI architecture and its dependencies, and contribute to continuous improvement and future modernisation alongside technical specialists. Your work will strengthen the platform’s long-term maintainability.
+Your curiosity about how CRM data supports the business will help you understand reporting requests and the context behind requirements, and contribute to practical technical solutions that enable the Commercial Analytics team to deliver high-quality sales reporting. As you contribute to the team’s success, you’ll also have opportunities to grow personally and professionally with ISS.
+ What you’ll do:
+ In this role, you’ll help keep our CRM BI and Dynamics 365 Sales solutions running smoothly and evolving to meet business needs. Your key responsibilities will include:
+ Operate and support the end-to-end data flows between Microsoft Dataverse, Azure SQL and Power BI, monitoring scheduled refreshes and troubleshooting data availability, semantic model and reporting issues.
+ Maintain and evolve existing Power BI semantic models and supporting data structures in the SQL layer, and contribute to the development of new models based on changes in Dynamics 365 Sales and requirements from the Commercial Analytics team.
+ Administer CRM Power BI workspaces and deployment pipelines, maintain and support the analytics security model, and assist with the controlled release of BI changes.
+ Maintain CRM BI technical and operational documentation and contribute to continuous improvement and future architecture modernisation.
+ Contribute to new CRM initiatives by supporting technical analysis, solution development, testing, documentation and release activities, working closely with the Product Owner, Principal CRM Developer and relevant business and technical stakeholders.
+ Support the Principal CRM Developer with the configuration, development, testing, deployment and troubleshooting of Microsoft Dynamics 365 Sales and Power Platform solutions required for daily operations.
+ Collaborate with stakeholders across Group functions and countries to clarify data and reporting requirements, resolve technical issues and support recurring reporting exercises.
+ Key qualifications:
+ Must have :
+ At least 5 years of hands-on experience with Power BI, including data modelling, semantic models, Power Query, DAX and refresh processes.
+ Practical knowledge of SQL, including querying and troubleshooting data across tables and views, identifying inconsistencies and validating data transformations and model outputs.
+ Hands-on experience with Microsoft Dataverse and SQL-based reporting environments, including the ability to maintain data integrations and troubleshoot data flows and dependencies
+ Hands-on experience with Power BI workspaces, deployment pipelines, CI/CD practices and reporting security configuration.
+ English proficiency, both written and spoken. 
+ Nice have :
+ Foundational experience with Microsoft Dynamics 365 Sales and Power Platform configuration and development.
+ Knowledge of or hands-on experience with Microsoft Fabric, particularly its data warehousing and analytics capabilities.
+ Experience with Power BI report design and data visualisation.
+ Personal skills:
+ Strong analytical and problem-solving skills, with attention to detail and a structured approach to troubleshooting.
+ A team player mindset and effective communication within a multi-functional team. 
+ Good organisational skills, with the ability to prioritise tasks, manage competing demands and meet deadlines.
+ What ISS Offers You:
+ We focus on creating an environment where you can grow and perform at your best:
+ Permanent contract.
+ Competitive compensation package based on your experience, including private health insurance.
+ 22 days of annual leave + 3 additional company days to recharge.
+ Flexible working hours and a hybrid model that supports balance and collaboration.
+ Continuous learning opportunities (technical and behavioural development) to support your growth.
+ Modern, well-equipped office in the heart of Porto.
+ Free parking for your convenience.
+ Access to ISS Tech Communities to connect, learn and share knowledge.
+ Free access to the company gym to support your wellbeing.
+ Snacks and drinks available at the office. 
+ Why ISS
+ At ISS, we are more than just a service provider of cleaning, food, workplace and technical services, we are a partner in our customers’ success. By creating exceptional service moments and transforming workplaces into spaces where employees feel valued, engaged and productive, we enhance productivity and help our customers to attract talent and grow their businesses. This begins with our own people through training, career development, and a supportive culture – empowering them to deliver outstanding service. We know that when our people thrive, they create spaces where our customers’ employees and businesses thrive too.
+ ISS is a Place to Be You.
+ Be who you are. Become what you want. Be part of something bigger.
+Become more. Become ISS.
+ ISS seeks to BE a place of belonging and CREATE places where every person is welcomed, embraced, and valued for exactly who they are. Places where people feel safe, respected, represented, and supported as their authentic selves.

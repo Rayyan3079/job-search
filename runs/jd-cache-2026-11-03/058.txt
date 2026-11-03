@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4486136338
+TITLE: Data Engineer (Azure)
+COMPANY: Fyld
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-02
+title: Data Engineer (Azure)
+company: Fyld
+posted: 21 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fpt.linkedin.com%2Fjobs%2Fview%2Fdata-engineer-azure-at-fyld-4486136338&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Data Engineer (Azure):Fyld
+ Descrição Do Emprego
+ At Fyld, we believe the future is built with people, technology, and strong values.
+We are a Portuguese consulting company that operates with transparency, respect, and a focus on everyone’s growth.
+Here, every project is an opportunity to build real, lasting, and scalable solutions.
+Our philosophy? Code for Big Solutions — because we don’t just code to make things work, we code to transform.
+By joining Fyld, you’ll be part of a team where every member is challenged to innovate, collaborate and grow.
+ We Are Looking For Our Next Data Engineer
+ Bachelor's degree in Computer Science, Software Engineering, Data Engineering, or related;
+ Relevant certifications in Azure, such as Microsoft Certified: Azure Data Engineer Associate or Microsoft Certified: Azure Solutions Architect Expert;
+ Hands-on experience with Azure services, especially those related to data engineering and analytics, such as Azure SQL Database, Azure Data Lake, Azure Synapse Analytics, Azure Databricks, Azure Data Factory, among others;
+ Familiarity with Azure storage and compute services, including Azure Blob Storage, Azure SQL Data Warehouse, Azure HDInsight, and Azure Functions;
+ Proficiency in programming languages such as Python, SQL, or C# for developing data pipelines, data processing, and automation;
+ Knowledge of data manipulation and transformation techniques using tools like Azure Databricks or Apache Spark;
+ Experience in data modeling, data cleansing, and data transformation for analytics and reporting purposes;
+ Understanding of data architecture principles and best practices, including data lake architectures, data warehousing, and ETL/ELT processes;
+ Knowledge of security and compliance features offered by Azure, including data encryption, role-based access control (RBAC), and Azure Security Center;
+ Excellent communication skills, both verbal and written, to collaborate effectively with technical and non-technical teams;
+ Strong problem-solving skills and ability to troubleshoot issues related to data engineering solutions on Azure;
+ Fluent in English.
+ Our Values
+ Critical thinking and autonomy
+ Focus on meaningful solutions and real results
+ Respect, transparency, and continuous growth 
+ What You'll Find At Fyld
+ A collaborative team that values individual progress
+ Access to continuous training and certifications
+ A culture of proximity, respect, and recognition
+ Challenging, purpose-driven projects where your talent has real impact. 
+ Want to be part of it? Send your CV to
+ Competências
+ Fyld. Code for what really matters.

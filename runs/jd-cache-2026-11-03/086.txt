@@ -1,0 +1,28 @@
+URL: https://www.linkedin.com/jobs/view/4448783699
+TITLE: Praktikanten (m/w/d) Business Intelligence & Analytics
+COMPANY: Knorr-Bremse AG
+LOC: Aldersbach, Bavaria, Germany
+POSTED: 2026-11-02
+title: Praktikanten (m/w/d) Business Intelligence & Analytics
+company: Knorr-Bremse AG
+posted: 15 hours ago
+applicants: 89 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikanten-m-w-d-business-intelligence-analytics-at-knorr-bremse-ag-4448783699&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+We believe that a change towards a better, more sustainable future of transportation is possible. That’s why we are so dedicated to developing safer, more efficient and innovative solutions that make our visions come to life. Who are we? More than 30,000 team-players from all around the world who drive progress through technical excellence and social responsibility.
+Für die KNORR-BREMSE Systeme für Nutzfahrzeuge GmbH, Werk Aldersbach suchen wir innerhalb des Fachbereiches " Digital Operation" einen Praktikanten.
+Aufgaben:
+ Zusammenarbeit mit Fachbereichen, um Reporting-Anforderungen aufzunehmen und in technische Konzepte zu übersetzen.
+ Entwicklung und Pflege von Power BI Berichten inkl. semantischen Modellen, DAX und Visualisierungen.
+ Anbindung und Nutzung von Daten (aus Microsoft Fabric, Snowflake, Excel, SharePoint, APIs).
+ Sicherstellen von Datenqualität, Dokumentation und Versionierung.
+ Durchführung von ad‑hoc Analysen für verschiedene Business Units (Produktion, Qualität, Logistik, Finanzen etc.).
+ Anforderungen
+ Studium in einem relevanten oder vergleichbaren Bereich: Wirtschaftsinformatik, Data Science / Business Analytics, Information Systems, Wirtschaftsingenieurwesen mit Fokus auf Daten/Analytics.
+ Erste Erfahrung mit Fabric und Power BI (semantische Modelle, DAX, Visualisierungen).
+ Grundkenntnisse in SQL von Vorteil.
+ Kenntnisse in Datenmodellierung von Vorteil.
+ Analytisches Denken sowie strukturierte Arbeitsweise.
+ Grundkenntnisse zu Geschäftsprozessen.
+ Selbstständiges Arbeiten kombiniert mit Teamfähigkeit.
+ Sehr gute Deutsch‑ (min. C1) und Englischkenntnisse (min. B2) in Wort und Schrift.

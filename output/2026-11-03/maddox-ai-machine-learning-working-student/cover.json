@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Machine Learning Working Student",
+    "company": "Maddox AI",
+    "city": "Tübingen",
+    "greeting": "Dear Maddox AI team,",
+    "opening": "I am applying for the Machine Learning Working Student position. Detecting defects with vision models on real production lines is a direct step up from my computer vision projects, and I would like to learn it with a team that ships models to production.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence. My computer vision work is in Python, PyTorch and OpenCV, and I keep my code in Git with tests and CI.",
+    "achievements": [
+      {
+        "lead": "Computer vision",
+        "impact": "I fine-tuned a pretrained EfficientNet-B0 on retinal OCT scans, reaching 94.11% accuracy on a 968-image test set, with denoising and augmentation in preprocessing"
+      },
+      {
+        "lead": "OCR",
+        "impact": "for my B.S. thesis team I tested EasyOCR configurations for scoreboard extraction and tuned the event detection model"
+      },
+      {
+        "lead": "Engineering practice",
+        "impact": "my RAG project DocuMind has 37 offline unit tests, GitHub Actions CI and Docker"
+      }
+    ],
+    "problems_section": "I would help prototype vision models, evaluate them carefully and support getting them running on real lines. I have not yet trained diffusion models, used SAM or DINO, or optimised models with quantization or TensorRT, and these are exactly the skills I want to build with you.",
+    "closing": "I am willing to relocate to Tübingen and can work up to 20 hours per week, starting immediately. I would be glad to discuss the role.",
+    "date": "2026-11-03",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-11-03/maddox-ai-machine-learning-working-student/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

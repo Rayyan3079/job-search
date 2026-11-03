@@ -1,0 +1,39 @@
+URL: https://www.linkedin.com/jobs/view/4484616041
+TITLE: Data Analyst
+COMPANY: Reperio Human Capital
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-02
+title: Data Analyst
+company: Reperio Human Capital
+posted: 7 hours ago
+applicants: 56 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fie.linkedin.com%2Fjobs%2Fview%2Fdata-analyst-at-reperio-human-capital-4484616041&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Data Analyst - Dublin (Hybrid) 
+ Love finding the story in the numbers? This one's for you. 
+ We're working with a business in Dublin that's looking for a Data Analyst to join the data team. This is a role with real visibility: you'll partner with people right across the organisation, answer the questions that matter to them and help leaders make better calls. If you're as comfortable writing a query as you are walking a room through the results, you'll fit right in.
+ The role 
+ Pull together, clean and interrogate data from a range of sources, with SQL as your main tool
+ Design, build and look after dashboards and reporting in Power BI or Tableau
+ Partner with colleagues in different functions to get to the heart of what they need to know
+ Pick out patterns, risks and opportunities, and share them in a way that lands with any audience, technical or not
+ Raise the bar on data quality, reporting processes and documentation
+ About you 
+ 2+ years in an analytics or data-focused position
+ Confident, hands-on in SQL
+ Practical experience with Power BI, Tableau or a similar BI platform
+ Solid Excel ability
+ A knack for explaining findings simply and keeping stakeholder requests on track
+ Bonus points for Python or R, exposure to cloud data platforms such as Azure, AWS or Snowflake
+ Why join 
+ Competitive Salary
+ A hybrid set-up
+ Pension and Health Insurance
+ Room to grow your career as the data function expands
+ Interested? Apply now, or get in touch with Ashton Simms at Reperio Human Capital for a confidential chat about the role.
+ Reperio Human Capital acts as an Employment Agency and an Employment Business. 
+ Skills:
+ Data Analyst Python R Excel Power BI Tableau 
+ Benefits:
+ Work From Home 
+ LNKD1_IJ

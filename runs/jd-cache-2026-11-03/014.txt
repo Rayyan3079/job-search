@@ -1,0 +1,32 @@
+URL: https://www.linkedin.com/jobs/view/4484340057
+TITLE: Werkstudent (w/m/x) Softwareentwicklung
+COMPANY: opta data
+LOC: Germany
+POSTED: 2026-11-02
+title: Werkstudent (w/m/x) Softwareentwicklung
+company: opta data
+posted: 19 hours ago
+applicants: 48 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-w-m-x-softwareentwicklung-at-opta-data-4484340057&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Wir sind die opta data Gruppe, einer der führenden Anbieter für IT, Abrechnung und Services im Gesundheitswesen. Als familiengeführte Unternehmensgruppe mit einer offenen Duz-Kultur stehen wir für ein verantwortungsvolles und kollegiales Miteinander. Wir verbinden Tradition und mutige Innovation - mit rund 3000 Mitarbeiter:innen gestalten wir die Zukunft der Gesundheitsbranche!
+ Deine Aufgaben
+ Aufbau einer modernen Softwarelösung im Web und als App
+ 360° Rundumblick bei der Planung, Entwicklung, Test und Rollout neuer Features
+ Teil des circa zehnköpfigen Entwicklungsteams aus Frontend- und Backend-Entwicklern, Designer und Tester
+ Ein moderner Stack, keine Legacy Software
+ Direktes Kundenfeedback zu deinen entwickelten Features u.a. durch Usability-Test
+ Dein Profil
+ Hands-on-Mentalität und Erfahrung in agilen Teams
+ Leidenschaft bei der Einarbeitung in neue Technologien und neue Themen
+ Einige Jahre Erfahrung in der Web Entwicklung, vorzugsweise mit PHP und Angular
+ Containern ist für dich nicht vorrangig Lebensmittelbeschaffung
+ Geborener Tekkie, aber du magst auch Menschen
+ gute Deutschkenntnisse (C1)
+ Unsere Benefits
+ Flexibilität: Remote-first-Ansatz, ein zentrales Headquarter in Essen mit einem zweitägigen Teammeeting vor Ort alle drei Monate 
+ Vitalität: umfangreiches Sportprogramm (Wellpass) sowie Fitnessstudio im Campus Essen, Dienstradleasing sowie frisches Obst und Getränke
+ Weiterbildung: jährliches Entwicklungsbudget in Höhe von 1.000 Euro 
+ Erholung: 30 Tage verdienter Urlaub im Jahr
+ Vielseitigkeit: ganzheitliche Aufgaben, viel Eigenverantwortung, flache Hierarchien und kreative Mitgestaltungsmöglichkeiten
+ Unabhängig von den Texten in unseren Stellenanzeigen betonen wir, dass bei opta data alle Menschen gleichermaßen willkommen sind.

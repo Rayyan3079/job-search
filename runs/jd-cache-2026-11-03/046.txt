@@ -1,0 +1,38 @@
+URL: https://www.linkedin.com/jobs/view/4382453977
+TITLE: Database Developer (Oracle / MS SQL)
+COMPANY: Scotiabank
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-02
+title: Database Developer (Oracle / MS SQL)
+company: Scotiabank
+posted: 15 hours ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fca.linkedin.com%2Fjobs%2Fview%2Fdatabase-developer-oracle-ms-sql-at-scotiabank-4382453977&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Requisition ID: 253409
+Join a purpose driven winning team, committed to results, in an inclusive and high-performing culture.
+ In This Role You Will
+ Develop and maintain applications on Oracle / MS SQL database based on business requirements
+ Design and optimize data model, schemas, queries, and stored procedures for performance.
+ Support application teams by ensuring data integrity, security, and availability.
+ Troubleshoot database/application issues and implement fixes to support business-critical functions.
+ Collaborate with stakeholders to align database solutions with project needs.
+ Do you have the skills that will enable you to succeed in this role? 
+ 6-10 years of relevant professional experience.
+ Strong expertise in Oracle PL/SQL / MS T-SQL development.
+ Hands-on experience with database development and performance tuning for Oracle / MySQL
+ Proven ability to design, implement, and optimize database data models, schemas, procedures, and functions.
+ Exposure to financial applications
+ Experience with Data Warehouse and ETL in large scale setting.
+ Experience with advanced Reporting/Analytics
+ Experience with secure coding and data encryption.
+ Experience with of API and Web Application development.
+ What's in it for you? 
+ Diversity, Equity, Inclusion & Allyship - We strive to create an inclusive culture where every employee is empowered to reach their fullest potential, respected for who they are, and are embraced through bias-free practices and inclusive values across Scotiabank. We embrace diversity and provide opportunities for all employee to learn, grow & participate through our various Employee Resource Groups (ERGs) that span across diverse gender identities, ethnicity, race, age, ability & veterans. 
+ Accessibility and Workplace Accommodations - We value the unique skills and experiences each individual brings to the Bank and are committed to creating and maintaining an inclusive and accessible environment for everyone. Scotiabank continues to locate, remove, and prevent barriers so that we can build a diverse and inclusive environment while meeting accessibility requirements. 
+ Upskilling through online courses, cross-functional development opportunities, and tuition assistance. 
+ Competitive Rewards program including bonus, flexible vacation, personal, sick days, and benefits will start on day one. 
+ Community Engagement - no matter where you choose to work from; we offer opportunities for community engagement & belonging with our various programs such as hackathons, contests, cooking with friends, Humans of Digital and much more! 
+ Location(s): Canada : Ontario : Toronto
+Scotiabank is a leading bank in the Americas. Guided by our purpose: "for every future", we help our customers, their families and their communities achieve success through a broad range of advice, products and services, including personal and commercial banking, wealth management and private banking, corporate and investment banking, and capital markets.
+At Scotiabank, we value the unique skills and experiences each individual brings to the Bank, and are committed to creating and maintaining an inclusive and accessible environment for everyone. If you require accommodation (including, but not limited to, an accessible interview site, alternate format documents, ASL Interpreter, or Assistive Technology) during the recruitment and selection process, please let our Recruitment team know. If you require technical assistance, please click here. Candidates must apply directly online to be considered for this role. We thank all applicants for their interest in a career at Scotiabank; however, only those candidates who are selected for an interview will be contacted.

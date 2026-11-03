@@ -1,0 +1,41 @@
+URL: https://www.linkedin.com/jobs/view/4475586742
+Company: DLR Institute of Data Science
+Title: Working Student ML: time-series analysis & anomaly detection (glider flight data, Vacancy-ID 6404)
+Found: 2026-11-03
+Posted: 2026-10-07
+
+URL: https://www.linkedin.com/jobs/view/4475586742
+TITLE: Working Student (f/m/x) - Informatik, Mathematik, Physik oder verwandte Fachrichtungen
+COMPANY: German Aerospace Center (DLR)
+LOC: Jena, Thuringia, Germany
+POSTED: 2026-10-07
+title: Working Student (f/m/x) - Informatik, Mathematik, Physik oder verwandte Fachrichtungen
+company: German Aerospace Center (DLR)
+posted: 3 weeks ago
+applicants: 91 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-f-m-x-informatik-mathematik-physik-oder-verwandte-fachrichtungen-at-german-aerospace-center-dlr-4475586742&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+The DLR Institute of Data Science in Jena focuses on finding solutions to the new challenges of the digitalization era. Research concentrates on the areas of data management, data analysis and data acquisition. Three departments have been set up in line with the thematic focus of the institute.
+In the Data Analysis and Intelligence department, methods are developed and applied that enable the analysis of complex and large data sets. Here, methods of machine learning, causal inference and domain-specific process knowledge are used. To increase the technology transfer potential, human factors such as acceptance are considered during application development.
+In the "Machine Learning" working group, we research and develop innovative data-driven methods for data analysis and, in cooperation with other DLR institutes, find solutions for practical applications using machine learning methods. As part of our working group, we offer you the opportunity to write your thesis or work as a student in the field of machine learning, specifically on the topic of time series analysis, anomaly detection and algorithm development. As part of an international team, your task will be to help design, implement and evaluate new methods.
+As part of your student work, you will be responsible for up to 10 hours of work per week. The exact topic of a thesis will be defined together with you according to your specific qualifications and expectations.
+ Your tasks
+ Conduct a comprehensive literature review of relevant scientific methods, algorithms, and prior work related to wind direction estimation from glider flight data and time-series anomaly detection
+ Perform exploratory data analysis (EDA) to assess data quality, completeness, consistency, and identify potential preprocessing requirements
+ Develop robust data processing and analysis workflows for parsing, cleaning, synchronizing, and transforming flight and sensor data
+ Analyze the datasets to identify patterns, trends, anomalies, and relationships
+ Design, implement, and iteratively refine prototype algorithms and analysis methods based on experimental results
+ Validate and test the developed methodologies using available datasets, evaluate their accuracy and robustness
+ Documentation and presentation of results
+ What You Bring With You
+ Ongoing studies in computer science, mathematics, data science, or related subjects
+ Solid programming skills in Python and familiarity with scientific computing libraries (e.g., NumPy, Pandas, SciPy, Matplotlib)
+ First Knowledge about data analysis, statistics, and time-series analysis
+ Interest in scientific research and the ability to conduct structured literature reviews and evaluate research papers
+ First experience with exploratory data analysis, data preprocessing, and visualization
+ First experience with developing, testing, and documenting scientific software or data analysis pipelines
+ Good English knowledge
+ We look forward to getting to know you!
+If you have any questions about this position ( Vacancy-ID 6404 ) please contact:
+ Prof. Christian Thiel 
+ Tel.: +49 3641 30960 128

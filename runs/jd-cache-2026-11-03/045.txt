@@ -1,0 +1,44 @@
+URL: https://www.linkedin.com/jobs/view/4486183088
+TITLE: SAP Analytics Cloud Consultant
+COMPANY: LeverX
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-02
+title: SAP Analytics Cloud Consultant
+company: LeverX
+posted: 16 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+At LeverX, we have had the privilege of working on over 1,500+ SAP projects, including some with Fortune 500 companies. With 20+ years in the market, our team of 2,200+ is strong, reliable, and always evolving: learning, growing, and striving for excellence.
+ We are looking for an SAP Analytics Cloud Consultant to join us. Let’s see if we are a good fit for each other!
+ What we offer: 
+ 89% of projects use the newest SAP technologies and frameworks , e.g., S/4HANA Cloud, BTP, CPI, RAP, CDS, and OData.
+ 98% of active development projects , with rare short-term support contracts.
+ Expert communities and internal courses.
+ Market-based compensation and regular performance reviews.
+ Valuable perks to support your growth and well-being.
+ Responsibilities: 
+ Design and implement SAP Analytics Cloud Planning solutions .
+ Develop planning models, planning stories, input forms, dashboards and reports.
+ Support budgeting, forecasting and financial planning processes.
+ Design planning scenarios for production cost centers, planned costs, activity quantities, activity rates and settlement cycles.
+ Gather and analyze business requirements and translate them into SAC planning solutions .
+ Participate in Fit-to-Standard workshops with business stakeholders and SAP functional teams.
+ Work closely with SAP CO, FI, PP, CO-PA and Material Ledger consultants.
+ Define data integration and data flows between SAP S/4HANA and SAC.
+ Contribute to decisions on the target reporting and analytics architecture, including the roles of S/4HANA, SAC and data warehouse solutions.
+ Configure planning models, calculations, allocations and planning workflows as required by the business.
+ Support data validation, integration testing, UAT and defect resolution.
+ Prepare functional documentation and provide knowledge transfer to the project team and business users.
+ Required skills: 
+ 4+ years of hands-on experience with SAP Analytics Cloud.
+ Strong practical experience with SAC Planning , including planning models and planning applications.
+ Experience with budgeting, forecasting and management planning processes.
+ Good understanding of SAP S/4HANA and its integration with SAC .
+ Good knowledge of SAP CO and financial planning concepts.
+ Experience translating business requirements into functional designs and planning solutions.
+ Experience participating in SAP implementation or transformation projects.
+ Ability to lead workshops and communicate effectively with business stakeholders.
+ Strong analytical and problem-solving skills.
+ English: Upper-Intermediate+ 
+ Polish: Native or Upper-Intermediate+
