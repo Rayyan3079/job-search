@@ -1,0 +1,33 @@
+URL: https://www.linkedin.com/jobs/view/4485554281
+TITLE: Werkstudent - Machine Learning & datenbasierte Prozessmodellierung (m/w/x)
+COMPANY: ZEISS Group
+LOC: Ulm, Baden-Württemberg, Germany
+POSTED: 2026-11-04
+title: Werkstudent - Machine Learning & datenbasierte Prozessmodellierung (m/w/x)
+company: ZEISS Group
+posted: 7 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-machine-learning-datenbasierte-prozessmodellierung-m-w-x-at-zeiss-group-4485554281&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Als Student arbeitest Du mit Deinen Kolleginnen und Kollegen auf Augenhöhe und schaffst ideale Voraussetzungen für Deine spätere Karriere. Sich etwas Neues trauen, über sich hinauswachsen und dabei die Grenzen des Machbaren neu deﬁnieren. Genau das ist es, was unsere Mitarbeitenden täglich leben dürfen und sollen. Um mit unseren Innovationen das Tempo vorzugeben und Großartiges zu ermöglichen. Denn hinter jedem erfolgreichen Unternehmen stehen eine ganze Menge faszinierender Menschen. Die Mitarbeitenden von ZEISS arbeiten in einem offenen und modernen Umfeld mit zahlreichen Entwicklungs- und Weiterbildungsmöglichkeiten. Unsere Kultur ist geprägt von Expertenwissen und Teamgeist. All das wird getragen durch die besondere Eigentümerstruktur und das langfristige Ziel der Carl-Zeiss-Stiftung: Wissenschaft und Gesellschaft gemeinsam voranzubringen. Heute wagen. Morgen begeistern. Vielfalt ist ein Teil von ZEISS. Wir freuen uns unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion, Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität auf Ihre Bewerbung. Jetzt bewerben! In weniger als 10 Minuten.
+ Aufgaben 
+ Bei uns hast Du die Möglichkeit, Studium und Praxis optimal miteinander zu verbinden und aktiv an spannenden Projekten mitzuarbeiten. So sammelst Du wertvolle Erfahrungen, baust Dein Netzwerk auf und entwickelst Dich sowohl fachlich als auch persönlich weiter. 
+ Analyse, Aufbereitung und Visualisierung von Daten aus Metallbearbeitungsprozessen
+ Untersuchung von Zusammenhängen zwischen Prozessgrößen und Bearbeitungsergebnis
+ Entwicklung und Vergleich von datengetriebenen und physik-informierten Modellen
+ Integration von physikalischem Prozesswissen in Machine-Learning-Ansätze
+ Anwendung und Bewertung von Methoden des Physics-Informed Machine Learning
+ Validierung der entwickelten Modelle anhand experimenteller Daten sowie die Ausarbeitung und Durchführung geeigneter Versuchsreihen auf dem Shopfloor
+ Strukturierte Dokumentation, Bewertung und Präsentation der Ergebnisse
+ Profil
+ Studium im Bereich Maschinenbau, Produktionstechnik, Mechatronik, Physik oder einer vergleichbaren Fachrichtung
+ Interesse an CNC-Metallbearbeitung, Prozessmodellierung und datengetriebenen Methoden
+ Gute Kenntnisse in Python und im Umgang mit Daten
+ Kenntnisse in Physics-Informed Machine Learning, Scientific Machine Learning, Simulation oder physikalischer Modellierung sind ein Plus
+ Gutes analytisches Verständnis und Freude daran, physikalische und datenbasierte Betrachtungsweisen miteinander zu verbinden
+ Strukturierte und selbstständige Arbeitsweise
+ Klingt spannend? Dann werde Teil von #teamZEISS und gestalte mit uns die Zukunft! Reiche uns hierfür bitte Deine vollständigen Bewerbungsunterlagen (Lebenslauf, Zeugnisse etc.) ein.
+ Wir bieten
+ Important note
+ Please be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered. 
+ LNKD1_DE

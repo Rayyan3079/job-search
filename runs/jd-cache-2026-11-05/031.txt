@@ -1,0 +1,29 @@
+URL: https://www.linkedin.com/jobs/view/4485098154
+TITLE: Werkstudent Technology & Innovation (all genders)
+COMPANY: Wavestone
+LOC: Germany
+POSTED: 2026-11-04
+title: Werkstudent Technology & Innovation (all genders)
+company: Wavestone
+posted: 16 hours ago
+applicants: 36 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-technology-innovation-all-genders-at-wavestone-4485098154&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Deine Aufgaben
+ Du arbeitest aktiv in unseren Projektteams mit und erhältst einen praxisnahen Einblick in die Beratungs- und Projektarbeit bei Wavestone. 
+ Du unterstützt bei der Entwicklung und Weiterentwicklung moderner Softwarelösungen und wirkst wirkst an internen Projekten mit (primär Java, JavaScript, CSS und gängigen front- und backend Frameworks wie Spring Boot, Next.js, React.js, Angular und andere) 
+ Du analysierst und modellierst Geschäftsprozesse und lernst, fachliche Anforderungen in technische Lösungen zu übersetzen. 
+ Du arbeitest in interdisziplinären Teams in spannenden Kundenprojekten und sammelst wertvolle Praxiserfahrung. 
+ Du beschäftigst Dich mit aktuellen Technologietrends und bringst Dich aktiv bei Themen rund um Künstliche Intelligenz und deren Einsatz in Softwareentwicklung und Geschäftsprozessen ein. 
+ Dein Profil
+ Du befindest Dich im Studium der Informatik, Wirtschaftsinformatik oder eines vergleichbaren Studiengangs. 
+ Du bringst erste praktische Erfahrungen in der Softwareentwicklung mit, idealerweise im Umfeld von Java und/oder JavaScript und Open-Source-Technologien. 
+ Du hast Interesse an modernen Technologien, insbesondere an Künstlicher Intelligenz und datengetriebenen Lösungen. 
+ Idealerweise hast Du bereits erste Berührungspunkte mit AI-/ML-Themen, Datenanalyse oder entsprechenden Tools gesammelt. 
+ Du interessierst Dich für digitale Geschäftsprozesse und die Verbindung von IT und Business. 
+ Erste Erfahrungen im Projekt- oder Prozessmanagement sind von Vorteil. 
+ Du arbeitest strukturiert, lernst Dich schnell in neue Themen ein und bringst Eigeninitiative mit. 
+ Du verfügst über sehr gute Deutsch- und Englischkenntnisse. 
+ Deine Benefits
+ Karriere & Privatleben: Dank Mobile Work Policy kannst Du nach Absprache mit Deinem Lead bequem von zuhause oder in einem unserer Büros in Deutschland arbeiten. 
+ Wert-volle Unternehmenskultur: Unsere Werte verantwortungsbewusst, energiegeladen und gemeinsam sind zentrale Bestandteile unseres Alltags. Das spürst Du z. B. in unseren Netzwerken, wie dem Women’s Network oder unserer Mindfulness Gilde. Durch regelmäßige Befragungen unserer Mitarbeitenden über Great Place To Work. Bei unseren einmaligen Events, firmeninternen Fitnessgruppen, unserem Corporate Benefit Programm und vielem mehr.

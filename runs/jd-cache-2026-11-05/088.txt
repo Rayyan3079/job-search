@@ -1,0 +1,40 @@
+URL: https://www.linkedin.com/jobs/view/4486859698
+TITLE: Analista Business Intelligence
+COMPANY: FDS, A DXC Technology Company
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-03
+title: Analista Business Intelligence
+company: FDS, A DXC Technology Company
+posted: 1 day ago
+applicants: 79 applicants
+apply_offsite: 
+---
+🚀 ¡Buscamos Analista BI para unirse a nuestro equipo! 
+ En DXC Technology buscamos incorporar un/a Analista BI con experiencia en análisis, transformación y visualización de datos, capaz de convertir la información en insights que ayuden a tomar mejores decisiones de negocio .
+ Si disfrutas trabajando con datos, definiendo KPIs y creando cuadros de mando que realmente aporten valor, ¡queremos conocerte! 👇
+ 💻 ¿Qué harás?
+ Extraer información de diferentes fuentes, incluyendo bases de datos y APIs .
+ Limpiar, integrar y modelar datos mediante procesos ETL/ELT , garantizando su calidad, coherencia y trazabilidad.
+ Trabajar con las áreas de negocio para identificar y definir KPIs , estableciendo métricas claras y bien documentadas.
+ Analizar tendencias, patrones y desviaciones para detectar insights y oportunidades de mejora .
+ Diseñar dashboards intuitivos y accionables en Power BI , orientados a las necesidades del usuario.
+ Comunicar resultados mediante data storytelling , adaptando la información a diferentes audiencias, incluida dirección.
+ Colaborar con equipos de negocio, IT y Data para transformar sus necesidades en soluciones analíticas.
+ 🔎 ¿Qué buscamos?
+ Titulación universitaria en STEM .
+ Al menos 3 años de experiencia en Business Intelligence o análisis de datos.
+ Buen dominio de SQL .
+ Experiencia trabajando con Power BI .
+ Experiencia en procesos ETL y modelado dimensional de datos .
+ Capacidad para definir KPIs y transformar requisitos de negocio en soluciones analíticas.
+ Buenas habilidades de comunicación y presentación de resultados .
+ ⭐ Además, valoraremos
+ Python para análisis de datos.
+ Experiencia con Azure .
+ Conocimientos o experiencia con Snowflake .
+ Experiencia trabajando con grandes volúmenes de datos .
+ Conocimientos de DAX y/o Power Query .
+ 🌟 ¿Te interesa? 
+ Si buscas un nuevo reto en el ámbito de Business Intelligence y Data Analytics y quieres seguir desarrollándote en un entorno tecnológico, nos encantará conocerte.
+ 📩 ¡Inscríbete y hablamos! 
+ #DXCTechnology #Hiring #BusinessIntelligence #PowerBI #DataAnalytics #SQL #Data #Azure #Snowflake #Python

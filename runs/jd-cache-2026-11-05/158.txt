@@ -1,0 +1,44 @@
+URL: https://www.linkedin.com/jobs/view/4486169039
+TITLE: Werkstudent KI-Entwicklung für Multi-Agenten-Systeme in der Triebwerkserprobung (all genders)
+COMPANY: MTU Aero Engines
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-11-02
+title: Werkstudent KI-Entwicklung für Multi-Agenten-Systeme in der Triebwerkserprobung (all genders)
+company: MTU Aero Engines
+posted: 2 days ago
+applicants: 45 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-ki-entwicklung-f%25C3%25BCr-multi-agenten-systeme-in-der-triebwerkserprobung-all-genders-at-mtu-aero-engines-4486169039&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Wir sind über 14.000. An 20 Standorten weltweit. Jedes dritte Flugzeug fliegt mit unserer Technologie.
+Immer effizienter, leiser, nachhaltiger. Wir gestalten die Zukunft der Luftfahrt. Was wir noch brauchen? Dich.
+ MTU Aero Engines AG Werkstudent KI-Entwicklung für Multi-Agenten-Systeme in der Triebwerkserprobung (all genders)
+ Standort München 
+ Einstiegsbereich Montage und Testing 
+ Zielgruppe Student:innen 
+ Vertragsart Teilzeit 
+ Job-ID 2030 
+ In der Abteilung Testing & Validation für Luftfahrtantriebe validieren wir die Triebwerke der nächsten Generation. Bei einem Testlauf entstehen tausende Datenströme pro Sekunde. Um diese Komplexität zu beherrschen, setzen wir auf Agentic AI.
+Wir entwickeln ein System aus spezialisierten KI-Agenten, die unsere Ingenieure dabei unterstützen auf vorhandenes Wissen zuzugreifen, Testdaten zu analysieren und die Fehlersuche zu erleichtern.
+ STARKE AUFGABEN
+ Entwicklung und Implementierung von Multi-Agenten-Workflows (z. B. mit LangGraph oder LangChain) zur Übernahme spezifischer Rollen innerhalb des Testing-Prozesses
+ Konzeption und Entwicklung von Schnittstellen zur Anbindung von Testdatenbanken, Dokumentenmanagementsystemen sowie Spezifikationen und Konfigurationen
+ Evaluierung und Integration lokal betriebener Large Language Models unter Berücksichtigung von Datenschutz, Informationssicherheit, Leistungsfähigkeit und Betriebsanforderungen
+ Optimierung der agentenbasierten Entscheidungslogik zur Analyse komplexer physikalischer Zusammenhänge sowie zur Entwicklung logisch nachvollziehbarer Begründungen
+ Konzeption und Aufbau von Benchmarks zur Sicherstellung der Präzision, Zuverlässigkeit und Nachvollziehbarkeit der Agentenergebnisse in einer sicherheitskritischen Luftfahrtumgebung
+ BESTE VORAUSSETZUNGEN
+ Studium in Informatik, Luft- und Raumfahrttechnik, Maschinenbaus, Physik oder einer vergleichbaren Studienrichtung
+ Sehr gute Kenntnisse in Python sowie idealerweise praktische Erfahrung mit asynchroner Programmierung, KI-Frameworks (z. B. LangChain, MCP, OpenAI API) und Linux-Umgebungen
+ Hohe Affinität zur Luftfahrttechnik sowie ausgeprägtes Interesse an der Anwendung künstlicher Intelligenz zur Lösung physikalischer Problemstellungen
+ Strukturierte und analytische Arbeitsweise sowie Begeisterung für die Auseinandersetzung mit aktuellen Forschungspublikationen und deren Überführung in funktionsfähige Implementierungen
+ Sehr gute Deutsch- und Englischkenntnisse
+ AUSGEZEICHNETES UMFELD
+ Einblicke in die Luftfahrtbranche und Jobs mit Verantwortung
+ Teamspirit u.a. durch Studi-Netzwerk & Events
+ Mentoring und individuelle Betreuung
+ Flexible Arbeitszeitmodelle mit mobilem Arbeiten
+ Kantine, Cafébar und Verkaufsshops
+ Sportkooperation mit EGYM Wellpass & Betriebssportgruppen
+ Top-Anbindung durch Pendlerbus, Parkhaus, E-Ladestation
+ Startklar?
+ Dann gib Deiner Bewerbung Schub und schick uns Deine Unterlagen (Lebenslauf, Notenübersicht der Hochschule, Schulabschlusszeugnis sowie eine aktuelle Immatrikulation) online. Gleich jetzt, gleich hier.
+Wir freuen uns auf Dich!

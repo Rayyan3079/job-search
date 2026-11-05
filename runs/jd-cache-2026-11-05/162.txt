@@ -1,0 +1,56 @@
+URL: https://www.linkedin.com/jobs/view/4486350173
+TITLE: Intern, Data Engineer - People & Culture
+COMPANY: Delivery Hero
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-11-04
+title: Intern, Data Engineer - People & Culture
+company: Delivery Hero
+posted: 23 hours ago
+applicants: 108 applicants
+apply_offsite: 
+---
+As the world’s pioneering local delivery platform, our mission is to deliver an amazing experience, fast, easy, and to your door. We operate in around 65 countries worldwide, powered by tech, designed by people. As one of Europe’s largest tech platforms, headquartered in Berlin, Germany, Delivery Hero has been listed on the Frankfurt Stock Exchange since 2017 and is part of the MDAX stock market index. We push hard, learn quickly and stay human along the way. It’s this wonderful mix of high performance and real community that makes Delivery Hero a place where ambition and belonging grow side by side. If you’re curious, collaborative and ready to dive deep into meaningful work, you’ll fit right in.
+ Job Description
+ Deep analysis. Smarter systems. Real users. As a Data Engineering Intern, you'll help build the pipelines and data models that give People & Culture reliable data to make better decisions about how we hire, develop and support our teams. You'll own one workstream at a time, learn from experienced data engineers and data scientists, and see your work used by real stakeholders.
+People Data Engineering and Science is the team that turns People & Culture data into trusted, usable insight. Data engineers and data scientists work side by side to build the data foundations behind People analytics, from ingestion and modelling to quality and reporting. You'll join this team and learn how production data work is done at scale.
+Join the team that champions the employee experience at Delivery Hero. As part of the People & Culture Team, you'll help attract, develop, and retain top talent, creating a workplace where people feel valued, supported, and empowered to grow. With each initiative you support, you'll be building a positive culture that fuels innovation, teamwork, and a sense of belonging across our global organization.
+ Build and maintain data pipelines that bring People & Culture data from source systems into our data platform. 
+ Write SQL and Python transformations that turn raw data into clean, documented, analytics-ready datasets. 
+ Add data quality checks and monitoring so stakeholders can trust the numbers they use. 
+ Support data scientists by preparing and validating the datasets behind their analyses and models. 
+ Apply data privacy and access standards in all your work, working only with anonymised or approved data. 
+ Document your work and share progress and learnings with the team in regular reviews. 
+ Qualifications
+ Enrolled in, or recently graduated from, a Bachelor's or Master's degree in Computer Science, Data Engineering, Data Science or a related field. 
+ Working knowledge of SQL and Python, from coursework, personal projects or previous experience. 
+ Understanding of data basics such as relational databases, data modelling and ETL/ELT concepts. 
+ Curiosity and care about data accuracy: you check your work and ask when something looks off. 
+ Ability to pick up an unfamiliar problem and work out how to move it forward, asking for help when needed. 
+ Clear written and spoken English, so you can explain your work to technical and non-technical colleagues. 
+ Nice to have:
+ Experience with a cloud platform (GCP, AWS or Azure) or a data warehouse such as BigQuery or Snowflake. 
+ Familiarity with workflow orchestration tools such as Airflow, or with dbt. 
+ Experience with Git and version control in team projects. 
+ Interest in People analytics or HR data. 
+ Additional Information
+ Ensuring you and all our Heroes are looked after, happy, and healthy is always on the menu. Because if you’re in good shape, then we’re in good shape.
+ Make the most of our hybrid working model and join the team for face-to-face connection and collaboration in our beautiful Berlin campus 2 days a week
+ We offer 27 days holiday
+ We will support you in developing yourself and your career growth opportunities: 1.000 € Educational Budget, Language Courses, Parental Support, access to the Udemy Business platform to explore a variety of online courses
+ Get moving and release those wonderful, mind-boosting endorphins: Health Checkups, Mindfulness
+ The power of getting together over some food is unrivalled. Here are a few ways to help you do that. All the yum: Digital Meal Vouchers, Food Vouchers, Corporate Discounts. Courses and access to Internal Housing Hub
+ Ready to join our team? If you’re excited to grow, collaborate and be part of the world’s leading delivery platform, we’d love to hear from you. Apply today!
+Ensuring you and all our Heroes are looked after, happy, and healthy is always on the menu. Because if you’re in good shape, then we’re in good shape.
+ Make the most of our hybrid working model and join the team for face-to-face connection and collaboration in our beautiful Berlin campus 2 days a week
+ We offer 27 days holiday with an extra day on 2nd and 3rd year of service
+ We will support you in developing yourself and your career growth opportunities: 1.000 € Educational Budget, Language Courses, Parental Support and access to the Udemy Business platform to explore a variety of online courses. 
+ Get moving and release those wonderful, mind-boosting endorphins: Health Checkups, Meditation & Gym. 
+ Cash. Dough. Cheddar. Whatever you call it, we’ll help you with it: Employee Share Purchase Plan, Sabbatical Bank, Public Transportation Ticket Discount, Life & Accident Insurance, Corporate Pension Plan
+ The power of getting together over some food is unrivaled. Here are a few ways to help you do that. All the yum: Digital Meal Vouchers and Food Vouchers. 
+ Wondering what relocating to Berlin is like? In this article, we’ve put together 10 things you should know about moving to Berlin and how Delivery Hero can support you. You can also visit our relocation hub and check out more information about moving to Berlin. 
+ Ready to prepare for your interview? Check out the list of the 5 most common interview questions and answers created in collaboration with our recruiters. 
+ Heads up: exact benefits may look a little different for intern, working student, fixed-term, and part-time roles.
+ Ready to join our team? If you’re excited to grow, collaborate and be part of the world’s leading delivery platform, we’d love to hear from you. Apply today!
+We believe diversity and inclusion are key to creating not only an exciting product, but also an amazing customer and employee experience. Fostering this starts with hiring - therefore we do not discriminate on the basis of racial identities, religious beliefs, color, national origin, gender identities or expressions, sexual orientations, age, marital or disability statuses, or any other aspect that makes you, you.
+We encourage you to let us know if you need any accommodations or specific accessibility support to ensure a smooth interview experience—just let us know with an email to our Inclusion Officer at inclusion@deliveryhero.com.
+You're welcome to share your pronouns (he/she/they) right from the start so we can address you respectfully from our first contact.

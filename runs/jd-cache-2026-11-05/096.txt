@@ -1,0 +1,29 @@
+URL: https://www.linkedin.com/jobs/view/4485550797
+TITLE: Junior ORACLE PL/SQL Entwickler*in
+COMPANY: Agrarmarkt Austria
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-04
+title: Junior ORACLE PL/SQL Entwickler*in
+company: Agrarmarkt Austria
+posted: 6 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fat.linkedin.com%2Fjobs%2Fview%2Fjunior-oracle-pl-sql-entwickler-in-at-agrarmarkt-austria-4485550797&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+IT I Wien I Hybrid I 39 Stunden I Ab Jänner 2027
+Unsere Software Entwicklung umfasst viele unterschiedliche Software Produkte für unsere interne Nutzung sowie für unsere Kund*innen. Dazu gehören beispielsweise unsere Web Applikationen, Apps, große Datenbankensysteme für die Stammdatenerfassung, Berechnungen, Geospatialdaten und vieles mehr. Für die Software Entwicklung mit ORACLE PL/SQL suchen wir nun Unterstützung. Wenn du dich sowie unsere Produkte gerne voranbringen möchtest, dann freuen wir uns auf deine Bewerbung!
+ Aufgaben
+ Entwicklung und Erweiterung von Anwendungsoberflächen mit Oracle APEX sowie von Datenbanklogik mit SQL und PL/SQL 
+ Analyse und Bearbeitung der Anforderungen aus dem Fachbereich
+ Laufende Dokumentation der Software-Architektur nach ARC42
+ Enge Zusammenarbeit im Team und in anderen Projekten
+ Wonach wir suchen
+ Abgeschlossene IT-HTL-Ausbildung, IT-Studium oder vergleichbare Berufserfahrung
+ Grundkenntnisse in der Softwareentwicklung und im Umgang mit Datenbanken 
+ Kenntnisse in SQL und PL/SQL Programmierung von Vorteil
+ Optimalerweise Basiswissen in der Datenmodellierung relationaler Datenbanken
+ Freude daran, neue Technologien kennenzulernen und deine Fähigkeiten weiterzuentwickeln
+ Kommunikationsstärke und Teamplayermindset
+ Analytisches Denken und eine strukturierte, eigenverantwortliche Arbeitsweise
+ Sehr gute Deutschkenntnisse
+ Gehalt
+ Das Gehalt gemäß AMA Kollektivvertrag beträgt monatlich brutto € 4.002,80 für 39 Wochenstunden (kein All-In Vertrag).

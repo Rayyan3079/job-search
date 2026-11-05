@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Internship – Agentic AI and Test-Driven Development",
+    "company": "BSH Home Appliances Group",
+    "city": "Munich",
+    "greeting": "Dear BSH hiring team,",
+    "opening": "I am applying for the internship in Agentic AI and Test-Driven Development. Building with large language models and testing that the result really works are the two things my latest project is about.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence. I also have industry experience with data models and reporting on SAP platforms.",
+    "achievements": [
+      {
+        "lead": "DocuMind",
+        "impact": "I built a RAG system over PDF manuals with the Claude API that answered 91% of a 22-question test set correctly and refused all 4 unanswerable questions; hybrid BM25 and semantic retrieval raised MRR from 0.748 to 0.898"
+      },
+      {
+        "lead": "Testing and CI",
+        "impact": "DocuMind has 37 offline unit tests with a fake embedder and a mocked LLM client, GitHub Actions CI and a Docker image"
+      },
+      {
+        "lead": "Evaluation",
+        "impact": "I built an evaluation harness with retrieval metrics and an LLM judge, and used it to trace failures to their cause"
+      }
+    ],
+    "problems_section": "I would help build and test LLM-based tools, write tests first where it makes sense and keep CI pipelines green. I have not built AI agents yet; with my RAG and testing experience I can start contributing quickly and learn agent design from your team.",
+    "closing": "I am willing to relocate to Munich and can start immediately. As a non-EU student I will agree the internship length with you so it fits my permitted working days. I would be glad to discuss the role.",
+    "date": "2026-11-05",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-11-05/bsh-internship-agentic-ai-test-driven-development/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

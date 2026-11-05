@@ -1,0 +1,46 @@
+URL: https://www.linkedin.com/jobs/view/4486069777
+TITLE: Business Intelligence Analyst
+COMPANY: Continental Properties
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-03
+title: Business Intelligence Analyst
+company: Continental Properties
+posted: 1 day ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fbusiness-intelligence-analyst-at-continental-properties-4486069777&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Continental Properties is looking for a Business Intelligence Analyst to join our Data Management team at our home office in Menomonee Falls, WI.
+As a Business Intelligence Analyst, you’ll help Continental turn trusted data into decisions, whether through a Power BI dashboard, a governed dataset that business users can explore on their own, or a data product built to work with AI tools like Claude. You’ll partner with teams across the company to uncover insights, make data easier to find and understand, and ensure the numbers people rely on are accurate and consistent. This is a high-impact position that helps shape how Continental uses data to drive performance and growth. In this role, you will report to the Business Intelligence Analyst Manager.
+ Essential Responsibilities: 
+ Power BI Development - Design, maintain, and troubleshoot Power BI dashboards, reports, and datasets that follow best practices and meet business needs. Keep our team on the cutting edge by exploring new Power BI features and capabilities and bringing the best ones into our standards.
+ Self-Service Enablement: Contribute to reusable, governed datasets and data products that let business users answer their own questions. Promote awareness of available data and help teams find and correctly interpret it.
+ Data Analysis & Insights - Analyze data to uncover trends, anomalies, and key business drivers, providing actionable insights that inform decisions.
+ Stakeholder Collaboration - Partner with business users to gather requirements, clarify objectives, and deliver reporting solutions. Translate complex data into clear, actionable insights and promote awareness of available reports across the organization.
+ Data Quality, Governance & AI Readiness - Validate and monitor data sources for accuracy and consistency, and help define and document business terms and metrics so they’re used consistently across reports and AI tools. Support Continental’s AI initiatives by helping validate that AI-generated answers match certified business definitions.
+ Continuous Improvement - Proactively identify opportunities to enhance reporting efficiency, data storytelling, and adoption. Be curious and take initiative to stay ahead of new developments in Power BI, analytics tooling, and AI, and to bring what you learn back to the team.
+ Skills for Success: 
+ Education : Bachelor’s degree in Data Analytics, Statistics, Data Science, Business, Finance or similar quantitative field preferred
+ Experience: 2+ years in business intelligence, data analytics, or other analytical role
+ Strong experience developing reports and dashboards with an eye for creative, effective data visualization.
+ Experience using Power BI (strongly preferred), Tableau, Looker, or Qlik.
+ Experience or genuine interest in using AI tools, including Claude or Claude Code, to build data solutions.
+ Strong communication skills, including explaining data concepts to non-technical audiences.
+ Working knowledge of SQL and an understanding of data warehousing concepts, ETL/ELT processes, and structured/unstructured data. Experience with Snowflake or another cloud data warehouse is a plus.
+ Why You'll Love Life at Continental: 
+ Our award-winning culture fosters innovation and empowers our team members to lead. Here are some of the reasons that our team members continue to vote for us as a Top Workplace:
+ Career Growth : You'll have the tools, training, and opportunities for a meaningful career with long-term growth potential. We invest in your learning & development with paid professional memberships, certifications, and tuition reimbursement.
+ Mental Health & Wellness: Your well-being matters. We provide comprehensive mental health support including but not limited to 8-free counseling sessions per year and access to additional wellness resources.
+ Balance: We recognize that balance varies for everyone, and we support our team members with that in mind. Recharge with generous vacation time, 9-paid holidays, and half-days on Fridays during designated months.
+ Community & Connection: Build relationships through informal gatherings, lunches, community and company events, volunteer opportunities, and a vibrant social culture. Learn more about recent Continental events here!
+ Culture of Belonging: The Continental IDEA (Inclusion, Diversity, Equity, & Allies) is our commitment to evolving our culture where team members feel a sense of belongingness each day. Our You Belong Here Initiative and Business Resource Groups focus on fostering an inclusive and equitable work environment for all.
+ Performance Incentives: Participate in our Building Above and Beyond (BAAB) incentive program that rewards team members annually based on company goals and achievements.
+ Industry-Leading Benefits: Enjoy a comprehensive benefits package, including Medical, Dental, and Vision Plans, flexible spending accounts, 401(k) with company match, and company-paid life and disability insurance. 
+ Family Support: Support your growing family with 6-weeks paid parental leave and with family-forming & fertility resources (up to 12-weeks leave for birth mothers).
+ We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status. We are proud to be an equal opportunity workplace. 
+ We comply with the Americans with Disabilities Act (ADA), and all applicable state and local fair employment practices laws, and are committed to providing equal employment opportunities to qualified individuals with disabilities. 
+ For the benefit of our residents, the communities we serve, and our co-workers, all applicants are required to pass a post-offer criminal background check prior to joining the Continental team. 
+ We are committed to fair and equitable compensation practices. The posted salary range represents our good faith estimate of the base salary for this role at the time of posting. Final compensation is based on a variety of factors, including a candidate’s experience, skills, qualifications, and internal equity. This range does not include bonus potential or other forms of compensation and benefits.
+Salary: $67,000- $84,000 Per Year.
+Equal Opportunity Employer
+This employer is required to notify all applicants of their rights pursuant to federal employment laws.
+For further information, please review the Know Your Rights notice from the Department of Labor.

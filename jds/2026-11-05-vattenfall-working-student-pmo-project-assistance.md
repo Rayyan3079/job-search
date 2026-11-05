@@ -1,0 +1,63 @@
+URL: https://www.linkedin.com/jobs/view/4486049168
+Company: Vattenfall
+Title: Working Student – PMO & Project Assistance
+Found: 2026-11-05
+Posted: 2026-11-03
+
+URL: https://www.linkedin.com/jobs/view/4486049168
+TITLE: Working Student – PMO & Project Assistance (f/m/d)
+COMPANY: Vattenfall
+LOC: Hamburg, Hamburg, Germany
+POSTED: 2026-11-03
+title: Working Student – PMO & Project Assistance (f/m/d)
+company: Vattenfall
+posted: 1 day ago
+applicants: 88 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-%25E2%2580%2593-pmo-project-assistance-f-m-d-at-vattenfall-4486049168&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+In BA Markets the mission of the Unit OU Operations is to drive the digital transformation. OU Operations consists of diverse and highly skilled employees from more than 20 countries. We work internationally from our locations in Stockholm, Hamburg and Amsterdam.
+ Job Description
+ Would you like to gain practical experience while contributing to a reliable and future-oriented energy system?
+As a working student with us, you become part of a collaborative team where you can learn, contribute your ideas, and grow step by step. At Vattenfall, we believe “there is a way” — and together, we explore better ways of working every day.
+You will support our Agile Coaching & Initiative Management team in strengthening project portfolio execution & transparency, improving operational processes, and enabling better collaboration across BA Markets. In this role, you will contribute to PMO activities, reporting, stakeholder engagement, and continuous improvement initiatives — gaining hands-on experience in how projects and business initiatives are managed in an international energy company.
+You will help us turn information into insights, improve the quality of planning and reporting, and support initiatives that make cross-team collaboration easier and more effective.
+ What You Will Do
+ Support the team with PMO tasks such as preparing meetings, updating project overviews, tracking actions, and creating reports.
+ Help improve planning and reporting by structuring information and keeping data up to date.
+ Support the visibility of KPI:s and trends by collecting, checking, and presenting data in a clear way.
+ Prepare material for sponsors and stakeholders, such as presentations, summaries, and follow-ups.
+ Help organize workshops and formats that strengthen collaboration across teams.
+ Bring in your own ideas on how we can improve quality, transparency, and ways of working,
+ Explore further practical use cases for AI tools and help identify how they can improve reporting, coordination, knowledge sharing, and day-to-day ways of working.
+ Qualifications
+ You are curious, motivated to learn and enjoy working with others. You feel comfortable asking questions and sharing ideas, and you appreciate being part of a supportive team.
+ Qualifications
+ Enrolled at a university in Germany in business informatics, business administration, energy management, information technology, or a related field.
+ Interest in the energy sector, project management, and data-driven decision-making.
+ Structured and reliable way of working with an eye for improving processes and ways of working.
+ Good communication and collaboration skills in an international environment.
+ Proactive mindset and willingness to take ownership of tasks.
+ Good Microsoft Office skills, especially Excel and PowerPoint.
+ Experience with Power BI, SharePoint, Teams, or AI tools is a plus.
+ Fluent English (written and spoken); German is a plus.
+ If you do not meet every requirement but feel excited about the role, we still encourage you to apply — we value motivation and willingness to learn.
+Additional Information
+ What We Offer
+ Meaningful work that contributes to the energy transition
+ Practical experience in an international energy company
+ Support from experienced colleagues and opportunities to build your professional network
+ Modern office directly at Hamburg Elbbrücken station
+ More Information 
+ Start date: as soon as possible
+ Working time: Up to 20 hours per week during university term and up to 37.5 hours per week during semester breaks.
+ Hybrid working with regular office presence
+ Duration: 6-12 months 
+ We welcome your application in English. We kindly request that you do not send applications by any means other than via our website as we cannot guarantee that we will be able to process applications that are not made via our website. The following documents are needed: CV, enrolment certificate, and current overview of grades .
+For more detailed information regarding the recruitment process, please contact our recruiter Sabrina Parsons : sabrina.parsons@vattenfall.de
+At Vattenfall we are convinced that diversity contributes to building a more profitable and attractive company and we strive to be a good role model regarding diversity. Vattenfall works actively for all employees to have the same opportunities and rights regardless of gender, ethnicity, age, transgender identity or expression, religion or other belief, disability or sexual orientation. Click here for further information.
+The security of Vattenfall and its employees is essential. For that reason, a pre-employment screening will be part of your recruitment process. The screening is based on the role you will fulfill within Vattenfall and will be performed by a third party, DISA.
+Since Vattenfall is a part of the Swedish critical infrastructure, many of our services are security classed. If this position is security classified the final candidates might be subject to a security vetting process, according to Swedish legislation.
+ Company Description
+ Vattenfall is a European energy company with approximately 21.000 employees. For more than 100 years we have electrified industries, supplied energy to people’s homes and modernized our way of living through innovation and cooperation. We are looking for talented individuals who, in addition to their passion for their own role, also have strong team spirit and want to contribute to supporting a meaningful corporate mission.
+Right in the heart of Vattenfall, at Business Area (BA) Markets , you will find an inspiring international environment, with a culture of care and personal growth, enabling you to be who you are, having fun, building strong relationships and learning every day. Find out what our colleagues think about our culture: https://youtu.be/-9qGrDUCptA
+We employ around 500 professionals who are active across Europe with offices in Sweden, Germany, The Netherlands, and the United Kingdom to drive the energy transition together. Our role in Vattenfall is to maximize the value of the overall portfolio by optimizing and dispatching, hedging, and sourcing for Vattenfall's sales and generation volumes. We serve as Vattenfall’s single access to energy commodity markets and trade electricity, emissions, fuels, freight, and renewable certificates.

@@ -1,0 +1,70 @@
+URL: https://www.linkedin.com/jobs/view/4486550464
+TITLE: SAP Analytics Cloud (SAC) Planning & Datasphere Consultant
+COMPANY: Accenture
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-04
+title: SAP Analytics Cloud (SAC) Planning & Datasphere Consultant
+company: Accenture
+posted: 6 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fsap-analytics-cloud-sac-planning-datasphere-consultant-at-accenture-4486550464&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+We Are:
+ Accenture helps the world's leading enterprises reinvent by building their digital core and unleashing the power of AI to create value at speed for organizations across industries. Our strategy is to be the reinvention partner of choice for our clients and lead in the safe, widespread adoption of AI, and to be the most client-focused, AI-enabled, great place to work in the world. We bring together the talent of our approximately 814,000 people with proprietary assets and platforms, deep process and industry expertise, and leading ecosystem relationships to deliver end-to-end solutions and measurable outcomes at scale. Through our Reinvention Services, we offer broad expertise across Cybersecurity, Digital Core, Finance, Industry and Enterprise, Song, Supply Chain and Engineering, and Talent, with advanced capabilities in AI and Data, Industry and Process, and Technology. We serve approximately 9,000 clients and generated approximately $74 billion in FY26 revenue. Visit us at accenture.com.
+ You Are :A seasoned SAP data migration leader who thinks in blueprints and delivers at scale. You have the architectural vision to design enterprise-grade migration strategies and the hands-on depth to back it up. Whether you're defining migration frameworks for a global S/4HANA greenfield, leading complex brownfield conversions, or overseeing multi-wave data cutovers across heterogeneous landscapes, you bring the technical authority and executive presence to drive success. You are a trusted advisor to client leadership and a force multiplier for delivery teams—equally comfortable whiteboarding migration architecture and rolling up your sleeves to solve a stubborn data quality issue.
+ The Work:
+ Help clients modernize finance and planning by combining SAP Analytics Cloud (SAC) with SAP Datasphere. 
+ Design and deliver integrated planning, budgeting, forecasting, and reporting solutions that give clients a single, governed view of their business.
+ Work across the full project lifecycle, from discovery and solution design through build, testing, deployment, and support. 
+ Lead or help lead workstreams, manage client relationships, or run entire programs.
+ Travel may be required for this role. The amount of travel will vary from 0 to 100% depending on business need and client requirements.
+ Here's What you Need:
+ Minimum of 3 years of hands-on experience with SAP Analytics Cloud Planning, including model design, data actions, advanced formulas, and planning workflows.
+ Minimum of 1 year of experience with SAP Datasphere, including data modeling, data integration, and its role as the data foundation for SAC.
+ Minimum of 2 years of experience executing planning processes through SAC, including data entry, forecasting, allocations, version management, and write-back to source systems.
+ Experience with at least 2 full-cycle SAP analytics or planning implementations.
+ Minimum of 2 years of experience with financial planning concepts and finance processes, including budgeting, forecasting, consolidation, and reporting.
+ Minimum of 1 year of experience with SQL and data modeling principles.
+ Minimum of 2 years of experience working with business and technical stakeholders, including translating business requirements into technical solutions.
+ Bachelor's degree or equivalent (minimum 12 years' work experience). If Associate’s Degree, must have equivalent minimum 6-year work experience
+ Bonus Points If:
+ You have a SAP certification in SAP Analytics Cloud (Planning) and/or SAP Datasphere
+ You have experience with SAP BW/4HANA, S/4HANA embedded analytics, or SAP BPC
+ You have knowledge of SAC scripting (analytic applications), APIs, and custom widgets
+ You have experience with SAP Business Data Cloud or other SAP data and AI strategy components
+ You have exposure to Agile or hybrid delivery methods
+ You have experience in a consulting environment, with industry experience in areas such as consumer goods, utilities, financial services, or life sciences
+Compensation at Accenture varies depending on a wide array of factors, which may include but are not limited to the specific office location, role, skill set, and level of experience. As required by local law, Accenture provides a reasonable range of compensation for roles that may be hired as set forth below.
+ We anticipate this job posting will be posted until 12/18/2026.
+ Accenture offers a market competitive suite of benefits including medical, dental, vision, life, and long-term disability coverage, a 401(k) plan, bonus opportunities, paid holidays, and paid time off. See more information on our benefits here:
+U.S. Employee Benefits | Accenture
+ Role Location Annual Salary Rang e
+California $70,350 to $196,000
+Colorado $63,800 to $169,300
+Connecticut $63,800 to $169,300
+District of Columbia $68,000 to $180,300
+Illinois $59,100 to $169,300
+Maine $54,400 to $144,300
+Maryland $63,800 to $169,300
+Massachusetts $63,800 to $180,300
+Minnesota $63,800 to $169,300
+New York $66,300 to $196,000
+New Jersey $68,000 to $196,000
+Ohio $59,100 to $156,800
+Virginia $59,100 to $180,300
+Washington $80,200 to $180,300
+ Requesting an Accommodation
+ Accenture is committed to providing equal employment opportunities for persons with disabilities or religious observances, including reasonable accommodation when needed. If you are hired by Accenture and require accommodation to perform the essential functions of your role, you will be asked to participate in our reasonable accommodation process. Accommodations made to facilitate the recruiting process are not a guarantee of future or continued accommodations once hired.
+If you would like to be considered for employment opportunities with Accenture and have accommodation needs such as for a disability or religious observance, please call us toll free at 1 (877) 889-9009 or send us an email or speak with your recruiter.
+ Equal Employment Opportunity Statement
+ We believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities.
+For details, view a copy of the Accenture Equal Opportunity Statement
+Accenture is an EEO and Affirmative Action Employer of Veterans/Individuals with Disabilities.
+Accenture is committed to providing veteran employment opportunities to our service men and women.
+ Other Employment Statements
+ Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States.
+Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.
+Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process. Further, at Accenture a criminal conviction history is not an absolute bar to employment.
+The Company will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. Additionally, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the Company's legal duty to furnish information.
+California requires additional notifications for applicants and employees. If you are a California resident, live in or plan to work from Los Angeles County upon being hired for this position, please click here for additional important information.
+Please read Accenture’s Recruiting and Hiring Statement for more information on how we process your data during the Recruiting and Hiring process.

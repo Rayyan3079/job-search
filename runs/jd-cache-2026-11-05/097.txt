@@ -1,0 +1,33 @@
+URL: https://www.linkedin.com/jobs/view/4422966301
+TITLE: AI Data Annotation Specialist (human)
+COMPANY: NEURA Robotics
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-04
+title: AI Data Annotation Specialist (human)
+company: NEURA Robotics
+posted: 13 hours ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fai-data-annotation-specialist-human-at-neura-robotics-4422966301&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Your Mission & Challenges
+ As an AI Data Annotation Specialist, you will operate at the intersection of data ingestion, annotation workflow design, and machine learning — with a strong focus on building training datasets for multimodal foundation models that connect perception, language, and robot action. Your primary responsibility is to design and maintain scalable workflows for automated and human-in-the-loop annotation, ensuring that datasets are properly labeled, curated, validated, and formatted for efficient model training and evaluation.
+You play a critical role in enabling high-quality embodied AI systems by transforming raw multimodal robot data into structured, reliable, and semantically rich training datasets.
+ Design, build, and maintain pipelines for automated, semi-automated, and human-in-the-loop data annotation, with a focus on subtask labeling for long-horizon robot demonstrations
+ Develop annotation workflows for language-grounded robot learning and Visual Question Answering (VQA) datasets, including instruction generation, subtask decomposition, and grounding of natural language in visual and action data
+ Ingest and integrate multimodal data (video, depth, proprioception, gripper states, language instructions) into structured annotation workflows
+ Apply pre-labeling techniques using foundation models (e.g., vision-language models, LLMs) to accelerate annotation and reduce manual effort
+ Define and implement data quality checks: inter-annotator agreement, label consistency, coverage analysis, and detection of annotation drift
+ Drive data curation initiatives: dataset balancing, deduplication, failure-case mining, task diversity analysis, and targeted collection to close capability gaps
+ Identify and resolve data quality issues, labeling inconsistencies, distributional biases, and gaps in task/skill coverage
+ What We Can Look Forward To
+ Degree in Computer Science, Data Science, Engineering, or a related field
+ 4+ years of experience in machine learning operations, AI, or software engineering
+ Hands-on experience with data annotation tools and labeling workflows (e.g., Encord, CVAT, Label Studio, or comparable platforms)
+ Experience with subtask annotation, ontology/taxonomy design, and VQA-style labelling
+ Familiarity with robotics dataset formats and multimodal data structuring (e.g., LeRobot, RLDS, Open X-Embodiment)
+ Experience with cloud platforms (AWS, GCP, Azure) is a plus
+ Experience writing annotation guidelines / taxonomies (pairs with the responsibility above)
+ Familiarity with VLMs/LLMs for auto-labeling (e.g. open-vocabulary detectors, Gemini/GPT-class models)
+ Data engineering basics — comfortable with large-scale/streaming data and formats like ROS bags/MCAP, plus S3-style object storage
+ Experience building backend services and tooling (e.g. Node.js/TypeScript, REST APIs) to integrate annotation platforms with internal data infrastructure
+ Nice-to-have: direct exposure to embodied AI / teleoperation data

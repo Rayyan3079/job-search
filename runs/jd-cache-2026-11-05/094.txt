@@ -1,0 +1,57 @@
+URL: https://www.linkedin.com/jobs/view/4440458716
+TITLE: Data Engineer Expérimenté F/H
+COMPANY: EY
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-04
+title: Data Engineer Expérimenté F/H
+company: EY
+posted: 13 hours ago
+applicants: 141 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fjobs%2Fview%2Fdata-engineer-exp%25C3%25A9riment%25C3%25A9-f-h-at-ey-4440458716&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Chez EY, nous sommes « All in » pour façonner votre avenir en toute confiance. Ensemble, nous orienterons votre carrière selon vos aspirations. Rejoignez EY et contribuez à construire un monde meilleur.
+EY incarne des expertises pluridisciplinaires à la fois métiers et sectorielles avec des missions à fort impact sur la société, l’économie et l’environnement. Nous sommes aujourd’hui à la pointe de l’innovation grâce à nos investissements dans l’intelligence artificielle et le développement durable, et nos actions en faveur d’une croissance économique durable et inclusive.
+Membre du réseau EY en Europe, leader du conseil sur la région, EY Consulting accompagne ses clients dans la réussite de leurs transformations stratégiques et opérationnelles. Notre offre s’articule autour de quatre grands domaines d’expertise : Business Consulting, Technology Consulting, Risk Consulting et People Consulting, et s’appuie sur des expertises sectorielles fortes. Nous offrons à nos 1500 collaborateurs une multitude d’expériences à vivre, de nombreux secteurs à explorer, des rencontres hors du commun… Bienvenue dans notre monde en mouvement perpétuel !
+Avez-vous déjà entendu parler du smartworking chez EY ? Le smartworking est devenu un élément primordial de notre mode de fonctionnement. Il vous permet de choisir les modalités de travail les plus appropriées à la conduite de vos missions en conciliant mieux vos engagements personnels et nos services auprès de nos clients. Vous ne vivrez plus jamais le travail comme avant.
+Au sein d’EY Consulting, EY AI&Data est en charge d’accompagner nos clients sur les problématiques autour de la Data : de la stratégie à la mise en œuvre opérationnelle de projets (Analytics/IA, Business Intelligence…).
+EY AI&Data en France c’est :
+ une équipe de plus de 130 consultants data, aux profils très divers, permettant de couvrir l’ensemble des problématiques et de s’enrichir mutuellement
+ un Lab d'une surface de 600m² dédiée à l'innovation autour de la Data;
+ le leader mondial du conseil en innovation (rapport Forresters);
+ plus de 500 missions data driven;
+ une équipe expérimentée, gage d’excellence pour encadrer les projets et vous faire grandir
+ des projets d’une grande diversité, auprès des plus grands clients nationaux et internationaux
+ Pour renforcer celle-ci, EY recrute un Data Engineer (F/H). Vous rejoindrez une équipe dynamique, enthousiaste et multiculturelle et vous aurez l'occasion d'intervenir sur des projets transformatifs et innovants : concevoir, développer et industrialiser des solutions data cloud sur Google Cloud Platform (GCP) , au service des transformations technologiques et métiers de nos clients.
+Vous interviendrez sur toutes les étapes du cycle de vie des projets : architecture, ingestion, modélisation, déploiement et gouvernance des données, dans une logique DataOps et DevOps.
+ Vos missions
+ Concevoir et développer des pipelines ETL/ELT performants sur GCP (BigQuery, Dataflow, Dataproc, Pub/Sub, Composer).
+ Modéliser et maintenir des data warehouses et data lakes scalables et optimisés.
+ Définir et implémenter des architectures data cloud fiables et sécurisées, intégrant les meilleures pratiques DataOps.
+ Collaborer étroitement avec les équipes métiers et techniques pour co-construire des solutions data-driven.
+ Garantir la qualité, la sécurité et la gouvernance des données dans des environnements cloud complexes.
+ Participer à la veille technologique et à la diffusion des bonnes pratiques au sein de la communauté Data & AI.
+ Votre profil
+ H/F,
+ Bac+5 en informatique ou équivalent.
+ 3 à 5 ans d’expérience en Data Engineering sur Google Cloud Platform.
+ Maîtrise de BigQuery, Dataflow, Dataproc, Pub/Sub, Composer, SQL et Python.
+ Connaissance des architectures data modernes (Data Lake, Data Warehouse, Data Mesh).
+ Maîtrise des outils CI/CD, Git, Docker, Kubernetes, Terraform apprécié.
+ Anglais professionnel courant requis.
+ Soft skills : curiosité technologique, rigueur, esprit d’équipe, autonomie, orientation client et capacité à vulgariser des concepts techniques.
+ Les plus du poste
+ Un environnement à échelle humaine au sein d’un Big Four
+ Une équipe dynamique et en pleine croissance
+ Des enjeux techniques et métiers au cœur de l’activité de nos clients
+ Le processus de recrutement :
+ Le processus de recrutement est composé de 3 entretiens (RH et métier). Les entretiens, menés à distance et en présentiel, permettent d’échanger sur votre parcours, d’évaluer vos compétences et de répondre à vos questions.
+ Dans le cadre de sa politique Inclusion, EY étudie, à compétences égales, toutes candidatures dont celles de personnes en situation de handicap.
+ Vivez l’expérience EY Consulting, rejoignez-nous !
+ Et parce que nous savons qu’un job n’est pas juste un job, chez EY nous mettons un point d’honneur à offrir à nos collaborateurs une expérience qui les accompagnera à vie dans leur carrière. Vous aurez l’opportunité :
+ De travailler pour les plus grands clients internationaux leaders dans leurs secteurs, au sein d’équipes diverses et multiculturelles
+ De suivre un programme de formation complet et personnalisé, et d’avoir un mentor tout au long de votre carrière
+ D’appartenir à des communautés de compétences et sectorielles internationales, composées de professionnels parmi les meilleurs en Europe
+ De contribuer à un conseil zéro carbone. EY place la RSE au cœur de son projet stratégique avec pour ambition de faire évoluer ses pratiques internes (outil de calcul de l’impact de nos missions, zéro papier, usages numériques..)
+ De vivre des mobilités géographiques et de pouvoir découvrir d’autres cultures grâce à notre programme Mobility4U
+ De s’engager à travers nos réseaux internes autour de sujets liés à l’écologie, la diversité et l’inclusion, et de prendre part en tant que mécène aux initiatives de notre très active fondation sur des grandes causes à impact
+ D’être présent à de nombreux événements made in EY (prix de l’entrepreneur de l’année, Woman In, T-DAY, Sustainable Futures, etc.)

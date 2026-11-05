@@ -1,0 +1,35 @@
+URL: https://www.linkedin.com/jobs/view/4485080716
+TITLE: Analista BI (Power BI, Qlik Sense, SQL)
+COMPANY: HomeServe Iberia
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-04
+title: Analista BI (Power BI, Qlik Sense, SQL)
+company: HomeServe Iberia
+posted: 18 hours ago
+applicants: 96 applicants
+apply_offsite: 
+---
+Descripción del puesto 
+ Desde HomeServe buscamos personas analíticas, con experiencia en Power BI y Qlik Sense que quieran tener impacto real en negocio. Orientadas a resultados y con pasión por transformar datos en información de valor para el negocio.
+ Te incorporarás a un equipo en crecimiento donde tendrás un papel clave en la generación de insights, apoyando la toma de decisiones y contribuyendo a la mejora continua de nuestros procesos.
+ Funciones principales: 
+ 1.- Desarrollo de dashboards e informes en Power BI y Qlik Sense.
+ 2.- Construcción y mantenimiento de modelos de datos, definiendo KPIs y métricas de negocio.
+ 3.- Automatización de procesos de reporting.
+ 4.- Interacción directa con negocio para recogida de requisitos.
+ 5.- Análisis de datos y detección de oportunidades de mejora.
+ Requisitos mínimos: 
+ Experiencia en Power BI (nivel alto).
+ Experiencia en Qlik Sense.
+ Dominio de SQL.
+ Experiencia en análisis de datos.
+ Se valorará: 
+ Experiencia en modelado de datos.
+ Experiencia en entornos corporativos.
+ Conocimiento del sector seguros.
+ Ofrecemos: 
+ Contrato indefinido.
+ Modelo híbrido de trabajo.
+ Entorno dinámico y orientado a la innovación.
+ Participación en proyectos con impacto en negocio.
+ Desde HomeServe apostamos por las personas y su talento, siendo nuestro compromiso como empleador ofrecer igualdad de oportunidades en el empleo.

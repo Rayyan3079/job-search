@@ -1,0 +1,94 @@
+URL: https://jobicy.com/jobs/158715-data-analytics-engineer-3
+TITLE: Data Analytics Engineer
+COMPANY: Ruby Labs
+LOC: Europe | Contract
+POSTED: 2026-11-03
+title: Data Analytics Engineer
+company: Ruby Labs
+posted: 2026-11-03T15:21:35+00:00
+location:  | remote: TELECOMMUTE
+---
+About us
+Ruby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we’re always looking for passionate individuals to join us. Learn more about our story at: https://rubylabs.com/about-us/
+About the role
+We are looking for a Data Analytics Engineer to build, optimize, and maintain the analytical data layer that powers decision-making across the organization. You will transform business requirements into reliable, well-modeled datasets using dbt, SQL, and cloud data warehouses (BigQuery, ClickHouse). This role combines data modeling, documentation, data quality design, and close collaboration with analysts, engineers, and product teams to ensure consistent, trustworthy reporting.
+You will serve as the bridge between raw data ingestion and analytics — shaping how data is structured, validated, and delivered.
+Responsibilities
+• 
+Design, build, and maintain dbt models (staging, core, marts) based on business needs
+• 
+Develop scalable SQL transformations and ensure efficient, cost-effective query performance
+• 
+Implement data quality tests (dbt tests, custom checks, anomaly detection) and maintain high data reliability.
+• 
+Create and maintain documentation for datasets, data lineage, business logic, and transformation rules
+• 
+Collaborate with Data Engineers on improving raw data structures, ingestion patterns, and source readiness
+• 
+Partner with Data Analysts, Product Managers, and Marketing teams to translate business requirements into clean, reusable data models
+• 
+Monitor data pipelines and marts, resolve issues, and prevent inconsistencies in reporting
+• 
+Support governance initiatives: naming conventions, taxonomy, schemas, metric definitions, and standardization
+• 
+Contribute to continuous improvement of our data modeling frameworks, performance tuning, and technical decision-making
+Requirements
+• 
+Strong SQL experience with a deep understanding of analytical modeling concepts
+• 
+Hands-on experience with dbt (models, tests, docs, macros)
+• 
+Experience working with cloud data warehouses such as BigQuery or ClickHouse
+• 
+Understanding of data modeling patterns
+• 
+Familiarity with data engineering concepts (ELT/ETL, orchestration, version control, CI/CD)
+• 
+Experience with data quality frameworks or implementing validation logic
+• 
+Ability to translate complex business processes into clean analytical datasets.
+• 
+Strong documentation skills and attention to detail
+• 
+Experience collaborating with cross-functional teams and supporting analysts with reliable data
+• 
+Knowledge of Python is a plus (but not required)
+Nice To Haves
+• 
+Experience with orchestration tools (Airflow, Dagster)
+• 
+Experience working with marketing, product, or billing datasets
+• 
+Exposure to metric layers, semantic layer design, or BI governance
+• 
+Basic understanding of observability tooling (Grafana, Prometheus, … )
+• 
+Experience optimizing BigQuery costs or ClickHouse performance
+Location
+Ruby Labs operates within the CET (Central European Time) zone. Applicants from any country are welcome to apply for the position as long as they are located within approximately ± 4 hours of CET. This ensures optimal collaboration and communication during working hours.
+Benefits
+Discover the perks of being part of our vibrant team! We offer:
+• 
+Remote Work Environment: Embrace the freedom to work from anywhere, anytime, promoting a healthy work-life balance. 
+• 
+Unlimited PTO: Enjoy unlimited paid time off to recharge and prioritize your well-being, without counting days. 
+• 
+Paid National Holidays: Celebrate and relax on national holidays with paid time off to unwind and recharge. 
+• 
+Company-provided MacBook: Experience seamless productivity with top-notch Apple MacBooks provided to all employees who need them. 
+• 
+Flexible Independent Contractor Agreement: Unlock the benefits of flexibility, autonomy, and entrepreneurial opportunities. Benefit from tax advantages, networking opportunities, reduced employment obligations, and the freedom to work from anywhere. Read more about it here: https://docs.google.com/document/d/1nkrN76JlZkbKj9WSOhlT1_mni_CZeDkHdwfIjPXVwvk/preview?tab=t.0#heading=h.ndsdl4wapxtt
+Be part of our fast-growing team and seize this excellent opportunity for personal and professional growth!
+Interview Process
+After submitting your application, we conduct a thorough review which typically takes 3 to 5 days, but may occasionally take longer due to the volume of applications received. If we see a potential fit, we proceed with the following steps:
+• 
+Recruiter Screening (40 minutes)
+• 
+Technical Interview (90 minutes)
+• 
+Final Interview (60 minutes)
+Life at Ruby Labs
+At Ruby Labs, we move fast, aim high, and expect the same from our team. We’re not here to play small—we’re here to build, grow, and win. That means we look for people who are ambitious, driven, and ready to give their best every single day.
+This is a place for individuals who thrive under pressure, embrace challenges, and see opportunity in every obstacle. If you’re hungry to achieve, motivated by impact, and want to grow at the speed of your own ambition, Ruby Labs offers the platform to make it happen.
+Here, effort is matched with reward. We recognize those who go all in and deliver results, and we create space for people who want more—more responsibility, more growth, and more success.
+#LI-Remote

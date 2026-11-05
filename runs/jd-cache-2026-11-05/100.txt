@@ -1,0 +1,48 @@
+URL: https://www.linkedin.com/jobs/view/4485012451
+TITLE: Technical Solutions Engineer (Junior oder Werkstudent*in) (m/w/d)
+COMPANY: Linkster
+LOC: Essen, North Rhine-Westphalia, Germany
+POSTED: 2026-11-03
+title: Technical Solutions Engineer (Junior oder Werkstudent*in) (m/w/d)
+company: Linkster
+posted: 1 day ago
+applicants: 83 applicants
+apply_offsite: 
+---
+Hi, wir sind Linkster und wir freuen uns, dass Du den Weg zu dieser Stellenausschreibung gefunden hast.
+ Linksters Mission ist einfach und klar: Wir helfen D2C-Unternehmen Influencer Marketing zu einem profitablen Performance-Kanal auszubauen!
+ Dazu haben wir die Linkster Influencer Performance Cloud entwickelt, die von marktführenden Unternehmen wie SNOCKS, Junglück, Bears with Benefits, everdrop, KoRo, Calzedonia, Lillydoo, Purelei oder Kapten&Son seit Jahren erfolgreich genutzt wird und jährlich über 200 Mio. EUR-Influencer-Umsatz erfasst und analysiert.
+ Wenn Du Spaß daran hast, technische Probleme zu lösen, Dich gerne tief in Code einarbeitest und gleichzeitig keine Berührungsängste im Austausch mit Kunden und nicht-technischen Teams hast, dann bist Du bei uns genau richtig.
+ Aufgaben 
+ Als Junior Technical Solutions Engineer (oder Werkstudent:in) bei Linkster arbeitest du eng mit unserem CTO zusammen und übernimmst eine zentrale Rolle in der technischen Problemlösung rund um unser Produkt – die Linkster Influencer Performance Cloud.
+ Du bist die Schnittstelle zwischen Customer Success, Kunden und Engineering und sorgst dafür, dass technische Herausforderungen effizient und sauber gelöst werden.
+ Du analysierst und löst technische Tickets aus dem Customer Success Team (z. B. Bugs, Datenprobleme, Logikfragen).
+ Du arbeitest dich eigenständig in bestehende Codebases ein und identifizierst Ursachen für technische Probleme.
+ Du kommunizierst aktiv mit Customer Success und Kunden, um Anforderungen zu verstehen und Lösungen verständlich zu erklären.
+ Du einen modernen Development-Stack inklusive AI, um Lösungen effizient zu entwickeln und umzusetzen.
+ Du unterstützt bei Feature-Anpassungen und technischen Optimierungen unserer Plattform (Frontend: Angular, Backend: Ruby on Rails).
+ Du arbeitest eng mit unserem CTO zusammen und übernimmst schrittweise mehr Verantwortung in der technischen Umsetzung.
+ Die Aufgaben sind vielseitig und bieten dir die Möglichkeit, tief in ein reales SaaS-Produkt einzutauchen und schnell Erfahrungen zu sammeln und Verantwortung zu übernehmen. Du bekommst direkte Einblicke in Produkt, Kundenanforderungen und technische Entscheidungsprozesse.
+ Qualifikation 
+ Das Wichtigste: Du hast Drive und Lust, technische Probleme eigenständig zu lösen.
+ Du hast Erfahrung im Programmieren (z. B. durch Studium, Projekte oder Praktika). Idealerweise in Ruby (on Rails), JS Frontend Frameworks (wie Angular), RESTful APIs und SQL Datenbanken (wie Postgres).
+ Du bist kommunikationsstark und kannst auch mit nicht-technischen Stakeholdern (z. B. Kunden, Customer Success) klar und verständlich sprechen.
+ Du bist analytisch stark und gehst strukturiert an Probleme heran.
+ Du verfügst über eine hohe Eigenmotivation und Freude am selbstständigen Arbeiten.
+ Du beherrschst Deutsch und Englisch in Wort und Schrift.
+ Du hast als Werkstudent:in 15–20 Stunden pro Woche Zeit oder bist in einer Vollzeitrolle verfügbar.
+ Benefits 
+ Attraktive Vergütung: 16 €/Stunde als Werkstudent:in oder wettbewerbsfähiges Gehalt in Vollzeit.
+ Viel Verantwortung und Gestaltungsspielraum: übernehme von Anfang an Projekte und stelle dich Herausforderungen.
+ Flexible Arbeitszeiten – passend zu Studium oder persönlichem Alltag.
+ Möglichkeit zu Remote-Arbeit.
+ Schnelle Lernkurve durch direkte Zusammenarbeit mit unserem CTO und dem erfahrenen Dev-Team.
+ Entwicklungsperspektiven innerhalb der Organisation (z. B. Übergang in eine Vollzeitrolle oder Ausbau der technischen Verantwortung).
+ Dynamisches, wachsendes Team mit starkem Fokus auf Performance und Ownership.
+ Lass uns gemeinsam herausfinden, ob wir gut zueinanderpassen. 
+ In 5 einfachen Schritten kann dein Weg direkt in unser Team führen:
+ Bewirb dich auf eine unserer Stellenanzeigen. Einfach und digital: Ein Lebenslauf reicht uns für eine erste Bewertung.
+ Wir klären die wichtigsten Fragen bei einem kurzen Kennenlernen und checken, ob wir die gemeinsamen Werte teilen.
+ Mithilfe einer Arbeitsprobe finden wir heraus, ob du Feuer und Flamme für deine zukünftige Aufgabe bist.
+ In einem persönlichen Gespräch lernst du deine zukünftigen Teammitglieder und unsere Gründer kennen.
+ Herzlich willkommen! Zu deinem ersten Arbeitstag erhältst du alles was du benötigst und wir starten in dein persönliches Onboarding.

@@ -1,0 +1,23 @@
+URL: https://www.linkedin.com/jobs/view/4484693312
+TITLE: AI Agent Builder (Claude/OpenAI) - Intern
+COMPANY: Heidi Systems
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-11-03
+title: AI Agent Builder (Claude/OpenAI) - Intern
+company: Heidi Systems
+posted: 1 day ago
+applicants: 144 applicants
+apply_offsite: 
+---
+Über Heidi Systems 
+ Heidi Systems baut das Energy-OS für Real Estate und digitalisiert den analogen Markt der Messdienstbranche. Als Prop- und ClimateTech-Unternehmen machen wir Energie- und Verbrauchsdaten in Echtzeit verfügbar, um Transparenz für Mieter, Effizienz für Verwalter und weniger CO₂ für alle zu schaffen.
+ Deine Aufgaben 
+ Du hast Bock, wirklich was zu bewegen? 
+Du baust mit Claude Code und OpenAI Agents, die echten Mehrwert liefern und zum Gamechanger werden können? 
+Bei Heidi Systems bekommst du dafür volle Verantwortung ab Tag 1 und maximale Execution.
+ Als AI Agent Builder entwickelst und implementierst du gemeinsam mit dem Team KI-Agenten mit Claude und OpenAI.
+ Entwicklung und Testung von KI-Agenten für verschiedene Anwendungsfälle wie Content, Social Media, Traffic-Tracking und Lead-Scraping
+ Integration von Large Language Models in unsere bestehenden Systeme
+ Analyse und Optimierung von Prompt-Strukturen und Agenten-Workflows
+ Bewirb dich jetzt! 
+Office in Berlin-Mitte oder remote

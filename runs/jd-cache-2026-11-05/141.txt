@@ -1,0 +1,34 @@
+URL: https://www.linkedin.com/jobs/view/4476814705
+TITLE: Werkstudent:in Procurement Excellence (w/m/d)
+COMPANY: Eppendorf
+LOC: Greater Leipzig Area
+POSTED: 2026-10-31
+title: Werkstudent:in Procurement Excellence (w/m/d)
+company: Eppendorf
+posted: 4 days ago
+applicants: 51 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-in-procurement-excellence-w-m-d-at-eppendorf-4476814705&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Wie du dich einbringst
+ Im Bereich Procurement Excellence unterstützt du ein Team, das Einkaufsprozesse datenbasiert weiterentwickelt und die Schnittstelle zwischen Einkauf, Business Intelligence und Künstlicher Intelligenz bildet.
+ Du bereitest Einkaufs- und Lieferantendaten auf, bereinigst sie strukturiert und analysierst sie, um belastbare Entscheidungsgrundlagen für den Einkauf zu schaffen.
+ Durch die Zusammenführung und Strukturierung von Daten aus unterschiedlichen Systemen und Quellen sorgst du dafür, dass Informationen für Analysen und Reports konsistent und nutzbar sind.
+ Die Erstellung, Pflege und Weiterentwicklung von Power-BI-Dashboards und Reports übernimmst du mit dem Ziel, Kennzahlen im Einkauf transparent und verständlich sichtbar zu machen.
+ Beim Aufbau und der Weiterentwicklung von Kennzahlen, Datenmodellen und Reporting-Standards wirkst du mit und hilfst, eine einheitliche Datenbasis für Procurement Excellence zu etablieren.
+ Mit der Analyse großer Datenmengen identifizierst du Trends, Auffälligkeiten, Einsparpotenziale sowie Möglichkeiten zur Prozessoptimierung im Einkauf und bereitest Ergebnisse adressatengerecht auf.
+ An der Identifikation, Bewertung und Umsetzung von Anwendungsfällen für Künstliche Intelligenz im Procurement wirkst du mit, indem du Use Cases mit Daten unterfütterst und erste Analysen vorbereitest.
+ In Projekten zur Digitalisierung, Standardisierung und Automatisierung von Einkaufsprozessen arbeitest du aktiv mit, erstellst Dokumentationen, Präsentationen und Entscheidungsunterlagen und stimmst dich mit Procurement, IT und weiteren Fachbereichen ab.
+ Was dich auszeichnet
+ Du studierst aktuell im Bereich Wirtschaftswissenschaften, Wirtschaftsinformatik, Data Science, (Wirtschafts-)Ingenieurwesen oder in einem vergleichbaren Studiengang mit klarem Bezug zu Datenanalyse und/oder Procurement.
+ Erste Erfahrung im Umgang mit Datenanalysen, idealerweise durch Projekte, Praktika oder Hochschulprojekte, bringst du bereits mit und kannst größere Datenmengen strukturiert auswerten.
+ Power BI oder vergleichbare Business-Intelligence-Tools setzt du sicher oder lernst sie zügig ein, um Dashboards, Reports und Kennzahlenmodelle aufzubauen und weiterzuentwickeln.
+ Mit Excel bzw. Tabellenkalkulationen gehst du routiniert um, nutzt Formeln, Pivot-Tabellen und Visualisierungen, um Einkaufs- und Lieferantendaten übersichtlich aufzubereiten.
+ In der Zusammenarbeit mit Procurement, IT und weiteren Fachbereichen kommunizierst du klar, bereitest Ergebnisse verständlich auf und trägst dazu bei, dass datenbasierte Entscheidungen im Einkauf unterstützt werden.
+ Du hörst zu, um Anforderungen zu verstehen, bringst dich aktiv ein, teilst deine Ideen und gehst auch dann lösungsorientiert voran, wenn noch nicht alle Details definiert sind.
+ Was wir dir bieten
+ Sinn und Wirkung. Bei Eppendorf arbeitest du an Lösungen, die die Lebensbedingungen von Menschen weltweit verbessern. 
+ Wir sehen, was du leistest. Ein faires, attraktives Gehalt sowie Urlaubs- und Weihnachtsgeld zeigen, dass dein Beitrag zählt. 
+ Flexibel und verbunden. Unser hybrides Modell verbindet Freiheit im Alltag mit echter Teamnähe. 
+ Echte Balance, die wirklich passt. Als Werkstudent:in hast du bis zu 6 Wochen Urlaub im Jahr und unsere flexiblen Arbeitszeiten helfen dir, Studium, Job und Privatleben optimal zu vereinbaren. 
+ Ankommen leicht gemacht. Mit Deutschlandticket‑Zuschuss, Parkplätzen und E‑Ladesäulen kommst du flexibel und stressfrei durch den Tag. 
+ Lernen, das dich voranbringt. Mit der Eppendorf Academy, digitalen Lernplattformen, Sprachkursen, Workshops, Community‑Formaten, Coachings und Entwicklungsprogrammen wächst du kontinuierlich – fachlich wie persönlich.

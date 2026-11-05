@@ -1,0 +1,31 @@
+URL: https://www.linkedin.com/jobs/view/4480919038
+TITLE: IT & Automation Intern | Working Student (all genders)
+COMPANY: Lio
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-11-04
+title: IT & Automation Intern | Working Student (all genders)
+company: Lio
+posted: 18 hours ago
+applicants: 196 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fit-automation-intern-working-student-all-genders-at-lio-4480919038&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Your Role at Lio
+ At Lio, we’re building a fast-growing AI company and we want our internal operations to reflect the technology we build.
+As a an Intern or Working Student focused on IT & Automation, you’ll own our day-to-day IT operations and build the systems that help us scale. You’ll make sure people have the tools, access, and support they need, then look for ways to make those processes simpler, more reliable and increasingly automated.
+One day, you might be setting up laptops, onboarding a new colleague, or troubleshooting our office network. The next, you could be connecting systems through APIs, building an internal tool or creating an AI agent that saves the team hours of manual work.
+ Make it work. Make it better. Then automate it.
+ You’ll work closely with our CTO, own projects from problem to implementation and see the impact of your work across the company.
+ What You’ll Do
+ Everyday IT operations. Manage onboarding and offboarding, configure devices and accounts, resolve day-to-day IT issues, and keep our office network running reliably.
+ Build IT that scales. Improve how we manage SaaS tools, access permissions, and device security, creating clear processes that grow with the team.
+ Turn repetitive work into automated workflows. Find manual tasks across IT and business operations, identify where automation adds value, and build solutions that save time and reduce errors.
+ Build practical internal tools. Use AI-assisted coding, Python, APIs, and low-code platforms to solve real operational problems.
+ Connect our systems. Integrate Microsoft 365, Slack, and other SaaS platforms so information flows smoothly and teams spend less time switching between tools.
+ Put AI to work. Test AI agents and emerging automation tools, turning useful experiments into reliable solutions the team can use.
+ Drive improvements with the founders. Identify bottlenecks, propose a better approach, and take ownership of delivering it from the first idea through rollout and ongoing improvement.
+ Why Join Lio?
+ Lio is backed by Andreessen Horowitz (a16z) and built at Y Combinator . We're bringing Silicon Valley ambition and engineering culture to Munich.
+From day one, you'll work with Fortune 500 companies across Europe and the US, solving real-world technical challenges at the intersection of AI and enterprise software.
+We move fast, care deeply about execution, and give engineers ownership from day one. The solutions you build won't stay customer-specific and they'll shape the future of our platform.
+If you're excited about building with us, we'd love to hear from you.
+Any questions about the role? Feel free to reach out to Anika.

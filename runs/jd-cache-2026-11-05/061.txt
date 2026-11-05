@@ -1,0 +1,49 @@
+URL: https://www.linkedin.com/jobs/view/4483975617
+TITLE: AI Operations Associate (m/f/d)
+COMPANY: inca
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-11-01
+title: AI Operations Associate (m/f/d)
+company: inca
+posted: 3 days ago
+applicants: 140 applicants
+apply_offsite: 
+---
+The Role 👤
+ We deploy agentic AI systems that handle real insurance claims for DAX-listed insurers. Not demos. Not decks. Production.
+ We need an AI operator to get into the trenches - operate pilots hands-on, identify where AI replaces manual work, and build the systems that make it scalable. You will become our internal expert on frontier AI - and Claude specifically. That's not a side responsibility. It's a core part of the job.
+ You will work directly with the founders (ex-BCG PLs) and elite AI engineers (ex-Amazon, ex-Meta). You'll sit in rooms with C-level insurance executives, helping us deliver product excellence and scale accounts. But first, you'll process claims, fix edge cases, and ship, leveraging AI.
+ Aufgaben 
+ What You'll Do 💼 
+ Master the tools. You'll develop deep, hands-on proficiency with Claude: prompt engineering, context management, multi-step reasoning, structured outputs, agentic workflows. You'll know the difference between a prompt that works in a demo and one that holds up across 10,000 real claims. You'll track model releases, test new capabilities the week they drop, and form a clear-eyed view of what's actually better - and what's hype.
+ Deliver. Support enterprise pilot launches - from first claim to full operational rollout. You'll be in the room when things go wrong, and you'll be the one who fixes them. You'll learn what separates a pilot that converts into a multi-million € annual contract from one that stalls - and you'll build the operational muscle to make the former the default.
+ Build. Every manual process is a target. You'll map workflows, identify failure points, and design automated systems that don't need babysitting. That means writing SOPs, building review queues, configuring AI pipelines, and ensuring the output meets the quality bar of a DAX-listed insurer communicating with its customers. Quality here isn't a vibe - it's measurable, and you own the measurement.
+ Scale. Once something works, your job is to make it run without you. You'll identify bottlenecks, compress cycle times, and hand off systems that are documented, reliable, and ready for the next 10x of volume. The best outcome is that what you built keeps working after you've moved on to the next problem.
+ (Internship) → Year 1 → Year 2+ 📈 
+ (Internship): You start at the source. You won't learn our processes from a manual, but through hands-on execution: structuring data, analyzing client feedback, and automating your first sub-processes. You'll get real exposure to how a VC-backed AI startup operates - the decisions, the trade-offs, the pace. Your goal is to understand how the business breathes at its core, build a track record, and see if there's a long-term fit.
+ Year 1: You're in the details. Processing claims, supporting client reviews, building fully automated workflows. You'll deepen your AI expertise - mastering the tools inside-out, running experiments, iterating fast. You'll gain strategic context - C-level meetings, business model exposure, full pilot lifecycle - but you earn it through operational results. No shortcuts.
+ Year 2+: Paths open based on what you build.
+ Account Ownership - own a major enterprise account end-to-end: commercial relationship, delivery quality, expansion
+ AI Solutions - build the platform and own the delivery model across all clients
+ Back in the trenches - launch the next pilot, compress timelines further, reset the benchmark
+ Qualifikation 
+ What You Bring 📄
+ Top academic track record or equivalent proof of raw horsepower
+ 0-3 years of experience in high-intensity environments: consulting, banking, or a BizOps / strategy role at a VC-backed startup
+ Real proficiency with Claude or comparable frontier AI tools - you've used them extensively, you know how to prompt well, and you have an intuition for where they fail
+ Structured, analytical thinking; comfortable building models, interpreting data, and turning outputs into decisions
+ Strong project management instincts - you track what's moving, flag what's stuck, and close the loop without being asked
+ Exceptional written and verbal communication - you can write a crisp client memo and a clear internal Slack message with equal ease
+ German and English fluency
+ Non-Negotiables ❗
+ Client-first. The insurer is your client. Their success is your KPI. Their customer's experience is your quality standard.
+ Quality-obsessed. AI output going to a DAX insurer's customers must be flawless. Every edge case matters. You don't ship and hope - you verify.
+ Extreme ownership. You see a problem, you own it until it's solved. No hand-offs to nobody. No "that's not my job."
+ Benefits 
+ Why inca ⭐ 
+ Timing. We're at the earliest stage of a category-defining company. The people who join now shape what this becomes - the culture, the processes, the product. That window closes fast.
+ Learning curve. You'll learn enterprise service delivery from ex-BCG PLs who've managed 7-figure accounts. You'll learn AI engineering from builders who've shipped at Amazon and Meta. And you'll develop a rare, compounding skill set: frontier AI expertise applied inside a regulated, high-stakes industry - at a moment when almost nobody has it.
+ Real impact. No theater. No internal tools that nobody uses. Agentic AI handling real claims, at scale, for real customers. You'll see the output of your work in production within weeks.
+ Ownership culture. Build a scalable system → get promoted to build the next one. We don't reward people for being busy. We reward people for building things that last.
+ Compensation & Details 💰 
+ Competitive salary + meaningful equity | Berlin (on-site) | EU work authorization required

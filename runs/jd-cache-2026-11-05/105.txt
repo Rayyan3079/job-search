@@ -1,0 +1,56 @@
+URL: https://www.linkedin.com/jobs/view/4487237092
+TITLE: Werkstudent*in Software Engineering (m/w/d/x)
+COMPANY: Deutsche Telekom
+LOC: Darmstadt, Hesse, Germany
+POSTED: 2026-11-04
+title: Werkstudent*in Software Engineering (m/w/d/x)
+company: Deutsche Telekom
+posted: 22 hours ago
+applicants: 36 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-in-software-engineering-m-w-d-x-at-deutsche-telekom-4487237092&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Werkstudent*in bei der Telekom
+ Du willst die gelernte Theorie in die Praxis umsetzen und die digitale Welt von morgen schon heute erleben und mitgestalten? Dann bist du bei uns richtig! Kaffee kochen und kopieren können wir selbst. Wir suchen Werkstudent*innen wie dich, die täglich mit Teamgeist sowie Innovations- und Leistungsbereitschaft den Ausbau der vernetzten Welt voranbringen wollen!
+ Deutsche Telekom IT GmbH
+ Die Telekom IT ist integraler Bestandteil der Deutschen Telekom. Mit 9.500 IT-Spezialisten in sieben Ländern vereinfachen, digitalisieren und beschleunigen wir die Prozesse in unserem Großkonzern.
+In einer Zeit technologischen Wandels bewegt sich unser Fokus von internen Services hin zu einer cloud-basierten Infrastruktur. Agiler Spirit eines Start-Ups und etablierte Professionalität eines DAX-30 Unternehmens - geht nicht? Geht doch! Wir brechen alte Strukturen auf. Wir verfolgen ganzheitliche, integrierte Lösungen und können flexibel auf Kundenwünsche und Marktanforderungen reagieren. Wir arbeiten in agilen Strukturen, flachen Hierarchien und in einer Kultur des Vertrauens mit kurzen Entscheidungswegen. Dadurch ergibt sich viel Raum zur Entfaltung und Weiterentwicklung. Werden Sie Teil eines innovativen Teams, das gemeinsam den Telekommunikationsmarkt verändert.
+ Über die Position
+ Du möchtest Software nicht nur lernen, sondern echte Produkte und Lösungen mitentwickeln? Dann werde Teil unseres Teams und arbeite an innovativen Software- und Digitalisierungsprojekten in einem modernen Engineering-Umfeld.
+Als Werkstudierende:r Software Engineer erhältst du die Möglichkeit, praktische Erfahrungen in der Entwicklung moderner Anwendungen zu sammeln, neue Technologien kennenzulernen und aktiv Verantwortung für eigene Themen zu übernehmen.
+ Deine Aufgaben
+ Wir suchen immatrikulierte Studierende, die unser Team in Darmstadt ab dem 01.01.2027 für mindestens 6 und maximal 24 Monate mit bis zu 20 Stunden pro Woche bei folgenden Aufgaben unterstützen:
+ Unterstützung bei der Entwicklung moderner Softwarelösungen im B2B Umfeld
+ Mitarbeit an Frontend-, Backend- oder Cloud-Anwendungen
+ Implementierung neuer Features und Optimierung bestehender Funktionen
+ Mitarbeit bei der Automatisierung von Entwicklungs- und Deployment-Prozessen
+ Durchführung von Tests sowie Sicherstellung der Softwarequalität
+ Analyse technischer Anforderungen und Umsetzung gemeinsam mit dem Team
+ Eigenständige Bearbeitung eines Lern- und Entwicklungsassignments mit sichtbarem
+ Zusammenarbeit mit erfahrenen Software Engineers, Architekt:innen und Product Teams
+ Das bringst du mit
+ Laufendes Masterstudium der Informatik, Software Engineering oder eines vergleichbaren Studiengangs
+ Erste praktische Erfahrungen in der Softwareentwicklung
+ Kenntnisse in mindestens einer modernen Programmiersprache, z. B. Java, SQL, Python, JavaScript / TypeScript, C#
+ Grundkenntnisse in Git, CI/CD, CoPilot, VS-Code oder Cloud-Technologien sind von Vorteil
+ Analytisches Denkvermögen und Freude an technischen Herausforderungen
+ Eigeninitiative, Lernbereitschaft und Teamfähigkeit
+ Deutsch und Englisch auf gutem Niveau (B2)
+ Das erwartet dich
+ Mitarbeit an realen Produkten und Projekten mit modernen Technologien
+ Eigenverantwortung und Gestaltungsspielraum von Anfang an
+ Moderne Arbeitsmethoden und agile Zusammenarbeit
+ Zugang zu einem starken Netzwerk von Studierenden und Expert:innen
+ Flexible Arbeitszeiten, die sich mit deinem Studium vereinbaren lassen
+ Warum du zu uns kommen solltest
+ Wir bieten dir nicht nur einen Werkstudierendenjob, sondern die Chance, deine Fähigkeiten in einem professionellen Engineering-Umfeld weiterzuentwickeln. Du arbeitest mit aktuellen Technologien, erhältst regelmäßiges Feedback und kannst aktiv zur digitalen Transformation beitragen. Dabei bist du ein vollwertiges Teammitglied und nicht nur unterstützende Kraft.
+ Interesse geweckt?
+ Dann freuen wir uns auf deine Bewerbung mit:
+ Lebenslauf
+ Aktueller Immatrikulationsbescheinigung
+ Relevanten Zeugnissen
+ Optionalen Projekt- oder GitHub-Referenzen
+ Gemeinsam entwickeln wir die Lösungen von morgen.
+ Diese Stelle ist auch in Teilzeit möglich.
+Schwerbehinderte Menschen werden bei gleicher Eignung vorrangig berücksichtigt.
+https://www.xing.com/companies/deutschetelekomag
+Deutsche Telekom | LinkedIn

@@ -1,0 +1,38 @@
+URL: https://www.linkedin.com/jobs/view/4487279423
+TITLE: Data Engineer-Enterprise Data Product
+COMPANY: ALDI International IT Services (Hungary)
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-04
+title: Data Engineer-Enterprise Data Product
+company: ALDI International IT Services (Hungary)
+posted: 15 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fhu.linkedin.com%2Fjobs%2Fview%2Fdata-engineer-enterprise-data-product-at-aldi-international-it-services-hungary-4487279423&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+My responsibilities: 
+ Maintain, develop, and optimize the global datalake environment, ensuring high data quality, reliability, and overall performance
+ Design and implement high-performance data processing pipelines and workflows utilizing Python, Spark, and Databricks
+ Manage scalable and efficient data integration and processing solutions using Azure Data Factory, Databricks, and Event Hub
+ Establish robust data management processes and execute advanced data querying and quality control with SQL and big data technologies
+ Automate operational tasks and support infrastructure maintenance by leveraging shell scripting and foundational UNIX knowledge
+ Support data modeling initiatives for coherent structure design and document all technical processes to ensure operational continuity 
+ The knowledge I own: 
+ Strong background and understanding of database data management (general SQL knowledge, data querying, data quality control)
+ Strong programming knowledge in Python (pandas, numpy)
+ Advanced level Big Data / data lake framework (Spark, Databricks)
+ Strong cloud knowledge and handling of Azure Data Factory, Databricks, Event Hub
+ Basic familiarity with UNIX operating system, especially shell scripting
+ Basic understanding of network level problems and connectivity requirements 
+ Basic Understanding data modelling principes
+ Data-centric mindset
+ Structured, analytical thinking
+ Strong communication skills
+ Well-organized
+ Can work in a multi-shift operation (Monday to Friday, 07:00 AM - 22:00 PM) + on-call (weeknights, weekends and public holidays) 
+ The offer that would convince me: 
+ A constantly growing organization and increasing opportunities
+ Secure, long-term job opportunity
+ Varied and engaging job responsibilities
+ Outstanding salary
+ Flexible work arrangements
+ Home office possibility

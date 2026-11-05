@@ -1,0 +1,49 @@
+URL: https://www.linkedin.com/jobs/view/4485516082
+Company: X-FAB Semiconductor Foundries
+Title: Working Student in Opto Characterization
+Found: 2026-11-05
+Posted: 2026-11-04
+
+URL: https://www.linkedin.com/jobs/view/4485516082
+TITLE: Working Student in Opto Characterization (m/f/d)
+COMPANY: X-FAB Sarawak
+LOC: Erfurt, Thuringia, Germany
+POSTED: 2026-11-04
+title: Working Student in Opto Characterization (m/f/d)
+company: X-FAB Sarawak
+posted: 13 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-in-opto-characterization-m-f-d-at-x-fab-sarawak-4485516082&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Erfurt, Germany
+ Responsibilities
+ Support the electrical and optical characterization of SPAD and CIS devices
+ Analyze, visualize, and interpret measurement data
+ Develop and improve automation and data-processing tools using Python, LabVIEW, and VBA
+ Support measurement setup automation and laboratory infrastructure
+ Assist with PCB-based test setups and hardware integration
+ Create technical reports, presentations, and documentation using Microsoft Office tools
+ Explore and apply Generative AI solutions for engineering workflows, reporting, and data handling
+ Collaborate on development and optimization projects within the Opto & Sensors team
+ Profile
+ Currently enrolled in Electrical Engineering, Mechatronics, Computer Engineering, Computer Science, Technical Physics,
+ Microsystems Engineering, or a related technical field
+ Initial experience with Python, LabVIEW, VBA, or similar programming tools
+ Interest in data analysis, measurements, semiconductor technologies, and technical problem-solving
+ Basic understanding of electronics, PCB, or laboratory equipment is a plus
+ Curious, analytical, and self-driven working style
+ Team-oriented mindset with willingness to learn and explore new technologies
+ Good knowledge of Microsoft Office tools (Excel, PowerPoint, Outlook, etc.)
+ Good English communication skills
+ What We Offer
+ Hands-on experience with advanced sensor and semiconductor technologies
+ Participation in real development projects with direct technical impact
+ Opportunity to contribute your own ideas and take ownership of tasks
+ Collaboration with experienced engineers and international teams
+ Mentoring and the possibility to develop thesis topics or long-term opportunities within the team
+ Flexible working hours compatible with your studies
+ Modern working environment and supportive team culture
+ Please submit your application exclusively through our internal careers page (SAP SuccessFactors).
+Contact person : Marion Heidolf
+ Apply now 
+ Back to list

@@ -1,0 +1,39 @@
+URL: https://jobicy.com/jobs/158954-python-software-engineer-ubuntu-hardware-certification-team
+TITLE: Python Software Engineer - Ubuntu Hardware Certification Team
+COMPANY: Canonical
+LOC: EMEA | Full-Time
+POSTED: 2026-11-04
+title: Python Software Engineer &#8211; Ubuntu Hardware Certification Team
+company: Canonical
+posted: 2026-11-04T13:49:19+00:00
+location:  | remote: TELECOMMUTE
+---
+Canonical is hiring a Python Software Engineer to join the Certification team, who make the tools which enable us to know that a desktop, laptop, server or IoT device is working properly. We work at the interface of hardware and software, so the ideal candidate is a Python developer familiar with hardware.
+The Certification team develops the tools needed to certify hardware as working with Ubuntu Core as well as Ubuntu Desktop and Server: https://ubuntu.com/certified
+We design hardware which can be used to probe devices independently, and frameworks for software tests that check every aspect of Ubuntu on that hardware.
+This is an excellent opportunity for someone who wants to have a meaningful impact for adoption of Linux across multiple device categories and industries. Canonical offers a fun, fast-paced team environment and a career full of learning and development opportunities. This team is centered in EMEA time zones, and works with colleagues on related teams in both the Americas and APAC.
+We work together with silicon companies, OEMs, ODMs and teams within Canonical to ensure a smooth, secure out of the box Ubuntu experience, with success in this role leading to a great Ubuntu experience being offered on more and more devices.
+Role description
+We are looking for a self-motivated software engineer with experience developing in Python, to work on test automation tools or Linux based embedded hardware. This role offers an exciting opportunity to push the industry forward by enabling entirely new Linux based hardware testing capabilities, scaling up hardware certification efforts and allowing for deeper test coverage.
+The role involves the development and maintenance of Canonical’s open source certification tools, supporting the creation of hardware solutions for test automation, and automating our existing processes. We seek out continuous process and tooling improvements as part of expanding the certification test suites, ultimately to improve the quality of Linux experience felt by millions of Linux end users.
+Key responsibilities
+• Maintain and develop new features to our Python based test automation tools like Checkbox, used by both in-house teams and industry partners.
+• Invent new ways to enable remote, automated testing.
+• Help build the software counterpart to in-house designed testing hardware to help test device enablement (graphics, hotplug, bluetooth, etc).
+• Write functional and performance tests to support hardware enablement and to protect from regressions.
+• Participate in meetings involving international travel 2-3 times per year.
+Required skills and experience
+• Knowledge of Python programming language.
+• Quality oriented, pragmatic approach to software design and implementation.
+• Interest in test automation methodologies.
+• Previous experience working with Ubuntu or other Linux distributions.
+• Ability to be productive in a globally distributed team.
+Desired skills and experience
+• Passion for tinkering: you are a maker.
+• Experience working in an agile environment.
+• Hardware testing experience, for example in the IoT space.
+• Familiarity with the C programming language.
+What is Canonical?
+Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, “the world’s best free software platform”. Our services help businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.
+#LI-Remote #Stack

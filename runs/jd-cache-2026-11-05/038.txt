@@ -1,0 +1,68 @@
+URL: https://www.linkedin.com/jobs/view/4476099188
+TITLE: Junior Backend Developer (Python) (m/w/d) 20h Stellenbeschreibung READ DESCRIPTION before
+COMPANY: uNaice GmbH
+LOC: Germany
+POSTED: 2026-10-13
+title: Junior Backend Developer (Python) (m/w/d) 20h Stellenbeschreibung READ DESCRIPTION before
+company: uNaice GmbH
+posted: 3 weeks ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+uNaice ist Pionier im Bereich der automatisierten Contentproduktion und automatisierten Datenaufbereitung und -anreicherung.
+ Wir entwickeln Kunden, die sich auf der Welle der Digitalisierung befinden. Unsere Kunden sind u.A. Top-Player im E-Commerce wie adidas, Wago, TUI, C&A, aber auch Verlage wie Neue Westfälische Zeitung, Volksstimme und vor allem internationale Hersteller, mit sehr großen Datenmengen und Bedarf an internationalem Content.
+ Unsere Arbeit versetzt die Pioniere der Branche in die Lage, automatisiert Daten und/ooder Content zu normieren, zu glätten, zu strukurieren und anzureichern und dies alles vollautomatisch. Kurz gesagt: Wir können aus Texten Datensätze mit Attributen und Attributswerten machen, oder aus Daten auf Knopfdruck unique, conversionstarke und SEO-relevante Produktbeschreibungen und Kategorieseiten erstellen und publizieren. Und das in 110 Sprachen.
+ Zur Verstärkung unseres Teams suchen wir einen Entwickler/Developer für 20h in Festanstellung. 
+ Dein gemeldeter Wohnsitz ist in Deutschland. Du arbeitest auch in Deutschland. 
+ Dein Anschreiben wünschen wir uns in deutscher Sprache. 
+ Du sprichst Deutsch und Englisch fließend. 
+ Aufgaben 
+ Deine Aufgaben
+ Als Junior Backend Developer, mit gleichzeitigen Kenntnissen in React, wirkst du aktiv mit bei der Weiterentwicklung unseres Backends rund um DataContentNaicer. Zu deinen Aufgaben gehören:
+ Entwicklung und Wartung von Backend‑Services mit Python (z. B. REST / GraphQL APIs)
+ Integration und Verarbeitung von Datenquellen (verschiedene Formate wie JSON, CSV, XML etc.)
+ Aufbau und Optimierung von Datenpipelines & Datenmodellierung (Datenbereinigung, Attribut/Auswahl von Feature‑Parametern etc.)
+ Zusammenarbeit mit dem Frontend-Team: Sicherstellen, dass APIs performant, stabil und gut dokumentiert sind
+ Schreiben von Tests, Code Reviews und Mitarbeit in einem agilen Team
+ Deployment, Monitoring und Troubleshooting von Backend-Komponenten
+ Qualitätssicherung des Front-Ends in React
+ Qualifikation 
+ Dein Profil
+ Must-haves: 
+ Abgeschlossenes Informatik-Studium oder vergleichbar
+ Sehr gute Kenntnisse in Python (z. B. mit Frameworks wie Flask, FastAPI oder Django)
+ Gute Grundkenntnisse mit React 
+ Erfahrung mit API‑Design (REST oder GraphQL)
+ Vertrautheit mit Datenformaten wie JSON, CSV, XML
+ Grundkenntnisse in der Arbeit mit Datenbanken (relational oder NoSQL)
+ Gute Problemlösefähigkeit und Lust, in einem wachstumsorientierten Produktteam mitzuarbeiten
+ Gute Deutsch- und Englischkenntnisse in Wort und Schrift
+ Nice-to-haves: 
+ Erfahrung mit Datenverarbeitungslibraries wie Pandas, NumPy etc.
+ Erfahrung mit Automatisierung, Datenpipelines, ETL‑Prozessen
+ Kenntnisse in Cloud‑Technologien (z. B. AWS, Azure oder vergleichbares)
+ Erfahrung mit Versionierung (Git), CI/CD, Testing‑Frameworks
+ Interesse an Textautomatisierung, semantischen Daten / Ontologien etc.
+ Benefits 
+ Das bieten wir dir: 
+ Einflussreiche Rolle in einem zukunftsorientierten Produktteam bei einem innovationsgetriebenen Unternehmen 
+ Arbeiten an DataContentNaicer – einer Lösung, die echtes KI-Potential zur Datenoptimierung erschließt (bis zu 80 % Zeitersparnis, Attributerweiterungen, API‑Integration) 
+ Agile Arbeitsweise, offene Kommunikation und Raum für kreative Lösungen 
+ Flexible Arbeitsbedingungen und moderne Technologien 
+ Karriereperspektiven – Entwickle dich mit uns weiter und sammle wertvolle Erfahrungen für deine Zukunft.
+ Remote arbeiten zu 100% 
+ Zeitsouveränes arbeiten: Du planst deine Arbeiten & Zeit grundsätzlich selbst, sie müssen jedoch in der Zusammenarbeit mit Kunden und Kollegen harmonieren (Zeitfenster, aus Erfahrung Mo-Fr 7-18 Uhr)
+ Rahmenbedingungen & Vergütung 
+ Arbeitszeit: je nach Vereinbarung, idealerweise zwischen 20h, perspektifisch anwachsend.
+ Vergütung: abhängig von Erfahrung und Qualifikation, es wird gemeinsam eine faire Lösung gefunden
+ Vertrag: unbefristet, bezahlte Probearbeit mit Aufgabenpaketen möglich
+ So bewirbst du dich:
+ Deinen Lebenslauf
+ Ein kurzes Anschreiben, in dem du erklärst, warum du Backend‑Entwicklung und speziell Python spannend findest und was du bisher gemacht hast
+ Beispiele / Referenzen oder Codeprojekte, wenn vorhanden
+ Wir arbeiten ausschließlich remote. Unsere Mitarbeiter sind verteilt an unterschiedlichen Orten in Deutschland.
+ Remote bedeutet nicht unprofessionell. Wir setzen einen geeigneten Arbeitsraum voraus. Arbeiten “von der Bettkante” ist nicht unser Ding. 
+ Wir freuen uns auf Deine Bewerbung!
+ Los gehts.
+ Sende uns neben deinem aussagekräftigen Lebenslauf UND auch ein Anschreiben, das überzeugt.
+ Wir freuen uns, dich dann zügig zu einem Web-Interview einzuladen.

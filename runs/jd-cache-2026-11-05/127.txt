@@ -1,0 +1,39 @@
+URL: https://www.linkedin.com/jobs/view/4486032737
+TITLE: Pflichtpraktikum Data Management Fertigung
+COMPANY: Bosch
+LOC: Abstatt, Baden-Württemberg, Germany
+POSTED: 2026-11-03
+title: Pflichtpraktikum Data Management Fertigung
+company: Bosch
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpflichtpraktikum-data-management-fertigung-at-bosch-4486032737&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Unternehmensbeschreibung
+ Bei Bosch gestalten wir Zukunft mit hochwertigen Technologien und Dienstleistungen, die Begeisterung wecken und das Leben der Menschen verbessern. Unser Versprechen an unsere Mitarbeiterinnen und Mitarbeiter steht dabei felsenfest: Wir wachsen gemeinsam, haben Freude an unserer Arbeit und inspirieren uns gegenseitig. Willkommen bei Bosch.
+ Die Robert Bosch GmbH freut sich auf deine Bewerbung!
+ Stellenbeschreibung
+ In einer modernen Fertigung sind Daten der entscheidende Faktor für Qualität, Effizienz und Liefertreue. Unsere Datenprodukte werden direkt von Produktionssystemen, Analysen und KI-Anwendungen genutzt und müssen deshalb absolut verlässlich sein. Bei uns in VM/MFD1 hast du die Gelegenheit, in einer laufenden Serienfertigung mitzugestalten, wie aus Rohdaten belastbare Grundlagen für datengetriebene Operationen werden.
+ Während deines Praktikums unterstützt du unser Team bei der Aufbereitung, Bereinigung und Strukturierung von Daten aus verschiedenen Systemen und stellst deren Qualität sicher. 
+ Gemeinsam bauen wir Datenflüsse auf und du wirkst aktiv an der Entwicklung aussagekräftiger Berichte und Dashboards in Databricks und Power BI mit. 
+ Du hilfst bei der Entwicklung und Erprobung von KI-gestützten Ansätzen, um Datenanalysen zu optimieren, Prozesse zu automatisieren und Informationen effizient aufzubereiten. 
+ In enger Zusammenarbeit mit Data Stewards und Fachbereichen supportest du die strukturierte Nachverfolgung von Datenmanagement-Themen. 
+ Nicht zuletzt bringst du dich bei der inhaltlichen und organisatorischen Vorbereitung von Workshops, Konferenzen und weiteren Austauschformaten ein. 
+ Qualifikationen
+ Ausbildung: Studium im Bereich Informatik, Wirtschaftsinformatik, Data Science oder vergleichbar
+ Erfahrungen und Know-how: erste praktische Erfahrung mit Skript- oder Programmiersprachen (vorzugsweise SQL, M, DAX oder Python) und im Umgang mit Power BI; Vorkenntnisse in Databricks oder ähnlichen Systemen sind ein Plus
+ Persönlichkeit und Arbeitsweise: du gehst strukturiert vor, übernimmst gerne Verantwortung, hast Spaß an organisatorischen Aufgaben und arbeitest gerne sowie konstruktiv im Team
+ Arbeitsalltag: wir bieten dir die Möglichkeit, hybrid zu arbeiten (Präsenztage am gewählten Standort stimmen wir flexibel ab)
+ Sprachen: verhandlungssicheres Deutsch und sehr gutes Englisch
+ Zusätzliche Informationen
+ Beginn: nach Absprache
+ Dauer: 6 Monate (ausschließlich Pflichtpraktikum gem. SPO möglich)
+ Arbeitsort: flexibel entweder Abstatt oder Blaichach
+Voraussetzung für das Praktikum ist die Immatrikulation an einer Hochschule. Bitte füge deiner Bewerbung deinen Lebenslauf, deinen aktuellen Notenspiegel, eine aktuelle Immatrikulationsbescheinigung, deine Prüfungsordnung sowie ggf. eine gültige Arbeits- und Aufenthaltserlaubnis bei.
+Vielfalt und Inklusion sind für uns keine Trends, sondern fest verankert in unserer Unternehmenskultur. Daher freuen wir uns über alle Bewerbungen: unabhängig von Geschlecht, Alter, Behinderung, Religion, ethnischer Herkunft oder sexueller Identität.
+ Du hast fachliche Fragen zum Job?
+ Marco Keith (Fachabteilung)
++49 173 9154060
+Vanessa Schramm (Fachabteilung)
++49 172 5464178
+Work beginnt hier: Jetzt bewerben!

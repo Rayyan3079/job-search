@@ -1,0 +1,47 @@
+URL: https://www.linkedin.com/jobs/view/4470688398
+TITLE: Praktikum Marketing / Data Science (6 Monate)
+COMPANY: TARGOBANK
+LOC: Düsseldorf, North Rhine-Westphalia, Germany
+POSTED: 2026-11-04
+title: Praktikum Marketing / Data Science (6 Monate)
+company: TARGOBANK
+posted: 19 hours ago
+applicants: 81 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikum-marketing-data-science-6-monate-at-targobank-4470688398&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+TARGOBANK als Arbeitgeberin 
+ BANK.ECHT.ANDERS. Das ist unser Anspruch als Arbeitgeberin. Wir wollen zur besten Bank für alle unsere Kund*innen und Mitarbeiter*innen werden. Deshalb suchen wir Menschen, die Lösungsorientierung und Zusammenarbeit als Stärke verstehen. Als Teil unserer Hauptverwaltung schaffen Sie die Grundlagen, auf denen die ganze Bank aufbaut. Klare Strukturen und Prozesse bilden dabei den nötigen Rahmen für Ihre Flexibilität. Sie arbeiten in einem hochqualifizierten Umfeld, das sich durch echte Teamkultur und Zusammenhalt auszeichnet. Wir stärken Ihnen dabei den Rücken und verfolgen gemeinsam ein klares Ziel: unsere Kund*innen noch zufriedener zu machen.
+Ihre Aufgaben
+ Selbständige Entwicklung und Validierung von Produktaffinitätsmodellen durch Anwendung von KI Methoden (XGBoost, Random Forest)
+ Unterstützung bei regelmäßig zu erstellenden Reports 
+ Testing des Trackings und der Datenflüsse in App, Web & Onlinebanking 
+ Erstellung und Pflege von Dashboards als Entscheidungsgrundlage für das Management
+ Dokumentation der Data Science Prozesse 
+ Ihr Profil
+ Abgeschlossenes BA-Studium / Vordiplom mit dem Schwerpunkt Mathematik, Physik, Wirtschaftswissenschaften oder einer vergleichbaren Fachrichtung
+ Idealerweise erste Erfahrungen im Bankenbereich 
+ Sehr gutes analytisches und strukturiertes Denkvermögen und ausgeprägtes Zahlenverständnis 
+ Schnelle Auffassungsgabe sowie eigenverantwortliches und zielorientiertes Arbeiten 
+ Programmierkenntnisse in Python und idealerweise SAS 
+ Sicherer Umgang mit dem MS-Office Paket 
+ Sehr gute Deutschkenntnisse in Wort und Schrift
+ Dein Job? Echt.Anders. 
+ Das Bieten Wir Dir
+ Sie erhalten eine attraktive Vergütung : Ein Pflichtpraktikum vergüten wir mit 1.500 € , für ein freiwilliges Praktikum erhalten Sie monatlich 2.410 € .
+ Sie erwartet ein anspruchsvolles Praktikum, das Ihnen echte Einblicke in die Praxis bietet. 
+ Sie arbeiten direkt an realen Projekten im Tagesgeschäft mit.
+ Sie werden Teil eines starken Teams , in dem Teamgeist, Zusammenhalt und Kollegialität geschätzt werden.
+ Wir arbeiten Sie in alle Ihre Aufgaben und Tätigkeiten intensiv ein.
+ Du hast noch Fragen? 
+ So Erreichst Du Uns
+ Telefonisch
+ 0211/900 20 995
+Chiara Kunz
+ per Mail
+ Zum Kontaktformular 
+ Die ausgeschriebene Position ist bei der TARGOBANK AG angesiedelt. Ihre Bewerbung wird durch die Personalabteilung (TARGO Deutschland GmbH) bearbeitet.
+ Schreib uns an. Interesse oder Fragen? Wir melden uns bei dir.
+ Du willst zu uns? 
+ Dann freuen wir uns auf deine Bewerbung über unser Online-Bewerbungsformular.
+Die TARGOBANK steht für Chancengleichheit und Vielfalt .
+Daher ist uns jede Bewerbung unabhängig von Behinderung, Alter, Geschlecht, Religion oder Weltanschauung, sexueller Orientierung und Identität, ethnischer Herkunft oder Hautfarbe willkommen.

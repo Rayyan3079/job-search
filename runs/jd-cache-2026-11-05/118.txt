@@ -1,0 +1,54 @@
+URL: https://www.linkedin.com/jobs/view/4487245166
+TITLE: Werkstudent Softwareentwicklung Fullstack (m/w/d)
+COMPANY: Kartenliebe GmbH
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-11-04
+title: Werkstudent Softwareentwicklung Fullstack (m/w/d)
+company: Kartenliebe GmbH
+posted: 20 hours ago
+applicants: 39 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-softwareentwicklung-fullstack-m-w-d-at-kartenliebe-gmbh-4487245166&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+M/W/D
+Werkstudent Softwareentwicklung Fullstack
+In München
+ HEY DU!
+ Bewirb Dich bei uns als Werkstudent Softwareentwicklung Fullstack (m/w/d) an unserem Standort im Herzen von München ! Du brennst darauf, tief in die Architektur moderner E-Commerce Systeme einzutauchen und unter maximalem Einsatz von KI weiterzuentwickeln? Du hast Bock, im Team mit erfahrenen Entwicklern an den APIs und Services zu bauen, die unsere Onlineshops antreiben? Du willst richtig viel lernen und Deinen Code schon während des Studiums live sehen? Perfekt!
+Wir sind die ALL IN GROUP - ein führender Player im E-Commerce. Klingt groß? Ist es auch. Unter einem Dach vereinen wir starke Marken wie MYPOSTER, JUNIQE, Kartenliebe, ArtPhotoLimited und unsere Produktion die Printhouse . Alle mit eigener Identität, Zielgruppe und Produktwelt: von personalisierten Fotoprodukten über Wandkunst bis hin zu ikonischer Fotografie. Was uns verbindet, ist eine gemeinsame Haltung, echtes Teamplay und der Anspruch an so richtig gute Qualität. Technologie und Innovation sind in unserer DNA. Und ja: Wir bringen über ein Jahrzehnt Erfahrung im Produkt- und Printumfeld mit.
+DEINE AUFGABEN – HIERFÜR BRENNST DU
+ Du entwickelst neue Features über den gesamten Stack hinweg und bringst sie gemeinsam mit Deinem Team bis zum Go Live
+ Du entwickelst mit NestJS im Backend und Vue.js im Frontend neue Features für unsere Onlineshops und KI-Tools und sorgst für eine nahtlose Integration beider Welten
+ Du schreibst automatisierte Tests, gehst Bugs auf den Grund und sorgst dafür, dass unsere Shops auch bei Traffic Peaks stabil laufen
+ Du nutzt smarte Coding Tools und KI Agenten ganz selbstverständlich in Deinem Alltag, um komplexe Probleme effizient zu wuppen und Deine Workflows mit Vollgas zu beschleunigen
+ In enger Abstimmung mit Produkt, UX und erfahrenen Entwicklern bringst Du Deine eigenen Ideen ein und machst daraus saubere Lösungen für unsere Kunden
+ Unser Stack
+ Backend: TypeScript, NestJS, Prisma, PostgreSQL, AWS Lambda
+ Frontend: TypeScript, Vue 3, Nuxt, Pinia, Vite, Vitest, Playwright
+ AI / Agents: Multi-Agent + Tool-Use, Vercel AI SDK, AWS Bedrock
+ AI Workflow: Unlimited Claude (Code & Max), Coding-Agents im Daily Driver
+ Vision: ONNX Runtime, eigene CNN-Modelle, Sharp
+ Observability & Eval: Langfuse, OpenTelemetry, Datadog, Fullstory
+ DevOps: Docker, GitHub Actions, AWS, Terraform
+ Mehr zu unseren Technologien findest Du in unserem Tech Radar und in unserem Tech Stack
+ Wir sind stolz darauf, die Weiterentwicklung von Open Source Software über GitHub zu unterstützen.
+DAS BRINGST DU MIT
+ Du studierst Informatik, Computerwissenschaften, Wirtschaftsinformatik oder einen vergleichbaren Studiengang
+ Du hast erste praktische Erfahrung in der Softwareentwicklung mit JavaScript oder TypeScript, sei es aus einem Werkstudentenjob, einem Praktikum oder eigenen Projekten, die über das Pflichtprogramm im Studium hinausgehen
+ Du verstehst die Grundlagen von relationalen Datenbanken, APIs und sauberer Softwarearchitektur und hast Lust, Dich in neue Frameworks reinzufuchsen
+ Du willst verstehen, warum etwas funktioniert, und hast Lust, Verantwortung für Deinen Code zu übernehmen
+ Du arbeitest gerne im Team, bist organisiert und gehst proaktiv an Aufgaben heran
+ Du probierst gern neue KI-Tools aus und nutzt sie schon heute beim Coden, nicht nur zum Rumprobieren
+ Du sprichst fließend Deutsch (min. B2-Niveau)
+ WARUM MIT UNS DURCHSTARTEN?
+ Deine Rolle, Dein Impact
+ Deine Vorschläge landen nicht in der Schublade - im cross-funktionalen Team bringst Du Ideen ein und siehst sofort, wie sie Realität werden
+ Du arbeitest mit modernem Stack (NestJS, Vue 3, Nuxt, TypeScript & Co.) und sammelst wertvolle Erfahrung in einem echten E-Commerce-Setup
+ Deine Features gehen direkt live in unseren Webshop und beeinflussen das Erlebnis von tausenden Kund*innen - sichtbar und spürbar
+ Was Dich bei uns erwartet
+ Von Anfang an mittendrin: Du wirst Teil eines Teams, das Dich ernst nimmt - mit echten Aufgaben, Verantwortung und Raum für Deine Ideen
+ KI als Werkzeug: Du arbeitest mit den neuesten Tools und automatisierst, was geht
+ Studium first: Deine Arbeitszeiten passen sich Deinem Semesterplan an
+ Office-Präsenz für starken Teamspirit und Deinen vollen Lernerfolg
+ Entwicklung mit Perspektive: Regelmäßige Feedbackgespräche helfen Dir beim Wachsen und vielleicht wird mehr draus - viele starten bei uns durch
+ Teamevents mit Charakter: Sommerfest, Pub Quiz oder spontane Grillrunde - Du bist natürlich bei unseren Events dabei
+ Vergünstigungen & Goodies: Satte Rabatte auf unsere Produkte, Freigetränke, Kaffee, & Obst - für Dich natürlich auch inklusive

@@ -1,0 +1,74 @@
+URL: https://www.linkedin.com/jobs/view/4487025982
+TITLE: Werkstudent (mw/d) Power BI &amp; Data Analytics
+COMPANY: Swiss Life Lebensversicherung SE
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-11-03
+title: Werkstudent (mw/d) Power BI &amp; Data Analytics
+company: Swiss Life Lebensversicherung SE
+posted: 2 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-mw-d-power-bi-amp-data-analytics-at-swiss-life-lebensversicherung-se-4487025982&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Werkstudent (mw/d) Power BI & Data Analytics
+Garching b. München
+Du brennst für Daten, verstehst es, komplexe Zusammenhänge in aussagekräftige Visualisierungen zu verwandeln, und möchtest dein theoretisches Wissen direkt in der Praxis anwenden? In dieser Rolle übernimmst du eigenverantwortlich Aufgaben rund um den Aufbau, die Weiterentwicklung und Automatisierung moderner Reporting-Lösungen und Dashboards auf Basis von Microsoft Power BI für unsere strategischen Themen in der Lebensversicherung.
+Dein Verantwortungsbereich
+ Dashboard- & Report-Entwicklung: Du konzipierst, erstellst und pflegst interaktive Dashboards und Standardberichte in Power BI (z.B. zu Markttrends oder Geschäftspartner Intelligence) für unterschiedliche Fachbereiche und Entscheidungsträger
+ Datenmodellierung & ETL: Du bereitest strukturierte und unstrukturierte Daten mit Power Query auf und erstellst performante Datenmodelle
+ Datenanbindung: Du bindest neue interne und externe Datenquellen (relationale Datenbanken, APIs, Cloud-Dienste, Excel) an und unterstützt bei der Pflege bestehender Daten-Pipelines
+ Qualitätssicherung & Optimierung: Du prüfst Berichte kontinuierlich auf Performance, Datenkonsistenz und Nutzerfreundlichkeit (UI/UX) und optimierst bestehende Dataflows
+ Zusammenarbeit: Du stimmst fachliche Anforderungen in engem Austausch mit den Kollegen ab und hilfst dabei, datengestützte Entscheidungen im Unternehmen voranzutreiben
+ Deine Stärken
+ Studium: Du hast dein Bachelorstudium bereits erfolgreich abgeschlossen und bist aktuell eingeschriebene/r Masterstudent/in der Fachrichtung (Wirtschafts-)Informatik, Data Science, Wirtschaftswissenschaften, (Wirtschafts-)Mathematik, Statistik oder eines vergleichbaren Studiengangs
+ Power BI & Datenkompetenz: Du bringst fundierte praktische Erfahrungen mit Microsoft Power BI (Power Query, DAX, Datenmodellierung) mit
+ Datenbanken & SQL: Du besitzt gute Kenntnisse in SQL sowie im Verständnis relationaler Datenbanken und Datenarchitekturen
+ Arbeitsweise: Du zeichnest dich durch ein ausgeprägtes analytisches Denkvermögen, eine hohe Eigeninitiative und eine strukturierte, selbstständige Arbeitsweise aus
+ Sprachkenntnisse: Du verfügst über sehr gute Deutschkenntnisse in Wort und Schrift (mind. C1-Niveau)
+ Von Vorteil
+ Erste Erfahrungen mit Python/R oder Machine-Learning-Methoden 
+ Interesse an Fragestellungen der Lebensversicherung und Marktforschung 
+ Dein Arbeitsort
+Zeppelinstraße 1, 85748 Garching bei München
+Deine Benefits
+Kultur
+ Stärkung des Wir-Gefühls, u.a. mit Mittagsroulette, Walk and Talks, Studierenden-Teamskanal
+ Förderung einer diversen Arbeitswelt, z.B. mit dem Frauennetzwerk Female Careers
+ Studierende können nach Absprache ihre Abschlussarbeiten bei uns schreiben
+ Entwicklungsmöglichkeiten
+ Großes internes "Lernbar"-Angebot mit vielfältigen Themen zur persönlichen und fachlichen Weiterbildung
+ Digitale Lernplattform
+ Buddy
+ New Work
+ Flexible Arbeitszeiten
+ Mobile Working Quote von 60%
+ Bürokonzept Flex-Office
+ Gesundheit
+ Veranstaltungen und Kurse zum Thema Gesundheit, wie z.B. Gesundheitstage, Rückencheck-ups, Grippeschutzimpfungen und vieles mehr
+ Ergonomische Büroausstattung
+ 30 Urlaubstage 
+ Betriebsrestaurant
+ Nachhaltigkeit
+ Swiss Life Stiftung für Chancenreichtum und Zukunft
+ 100% Strom aus erneuerbaren Energie
+ Förderung des Jugend- und Behindertensports
+ Dein Kontakt
+Wir haben dein Interesse geweckt? Andreas Habel als verantwortliche Führungskraft und sein Team freuen sich auf deine Bewerbung. Dafür reichen uns dein Lebenslauf, deine Immatrikulationsbescheinigung sowie relevante Zeugnisse vollkommen aus.
+HR Managerin
+ Teresa Bös LinkedIn Kontaktformular
+ Für Personalvermittler
+ Swiss Life nimmt für diese Stelle keine unaufgefordert eingereichten Bewerbungen von Personalvermittlungen entgegen. Berücksichtigt werden ausschließlich Bewerbungen, welche nach vorheriger Absprache durch unsere Partner eingereicht werden.
+Für unaufgefordert eingereichte Bewerbungen sowie etwaige Gebühren/entstandene Kosten wird jegliche Verantwortung abgelehnt. Besten Dank für Ihr Verständnis.
+Über Swiss Life
+Bitte akzeptieren Sie die Marketing Cookies, damit Sie das Video anschauen können! Cookie-Einstellungen
+Swiss Life Deutschland ist ein führender Anbieter von Finanz- und Vorsorgelösungen und gehört zur Swiss Life Gruppe mit Sitz in Zürich. Auf dem deutschen Markt ist Swiss Life mit mehreren Marken präsent und bietet Privat- und Firmenkunden individuell zugeschnittene Lösungen rund um die Themen Versicherung, Vorsorge und Vermögen an. Du suchst eine Karriere mit Zukunft? Dann heißen wir dich herzlich willkommen bei Swiss Life!
+Mehr erfahren
+Folge uns
+Erklärung zum Datenschutz Impressum Cookie-Einstellungen
+Zur Karriereseite
+Drucken
+Teilen
+LinkedIn Facebook Twitter WhatsApp Weiterleiten
+Drucken
+Teilen
+LinkedIn Facebook Twitter WhatsApp Weiterleiten
+Jetzt bewerben

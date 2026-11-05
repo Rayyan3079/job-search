@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Intern, Data Engineer – People & Culture",
+    "company": "Delivery Hero",
+    "city": "Berlin",
+    "greeting": "Dear Delivery Hero hiring team,",
+    "opening": "I am applying for the Data Engineer internship in People & Culture. You ask for SQL, Python, data modelling and real care about data accuracy, and checking whether the numbers are right is what I did every day in my previous roles.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence. I worked in SAP data and analytics at TallyMarks Consulting and as a Business Analyst at Tapal Tea, including HR dashboards.",
+    "achievements": [
+      {
+        "lead": "Pipelines and models",
+        "impact": "I designed SAP Datasphere data pipelines and built data models from ABAP CDS view sources and joins"
+      },
+      {
+        "lead": "Data accuracy",
+        "impact": "I used SQL analysis, validation and reconciliation to keep reporting correct, and supported around 30 dashboards across HR, finance and supply chain"
+      },
+      {
+        "lead": "Python and Git",
+        "impact": "I built DocuMind, a RAG application with 37 offline unit tests, GitHub Actions CI and Docker"
+      }
+    ],
+    "problems_section": "I would build and test pipelines in SQL and Python, check data quality and document my work so others can rely on it. I have not used BigQuery, Airflow or dbt yet, but moving from SAP BW to SAP Datasphere showed me I can learn a new data platform quickly.",
+    "closing": "I am willing to relocate to Berlin and can start immediately. As a non-EU student I will agree the internship length and hours with you so they fit my permitted working days. I would be glad to discuss the role.",
+    "date": "2026-11-05",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-11-05/delivery-hero-intern-data-engineer-people-culture/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

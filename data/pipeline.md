@@ -169,4 +169,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003947304-S | Hunkemöller Deutschland B.V. & Co. KG | Werkstudentin im Verkauf Weiterstadt | Weiterstadt
 
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/14893-0068555257-S | Agaplesion Management und Beratungsgesellschaft mbH | Werkstudent Projektmanagement SAP (w/m/d) | Frankfurt am Main
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/16012-44551352-114-S | Jenoptik AG | Werkstudent*in (w/m/d) Kommunikation & Marketing | Jena
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/18207-44551078-114-S | Bundesgesellschaft für Endlag erung mbH (BGE) | Werkstudent (m/w/d) Künstliche Intelligenz/AI | Peine
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/18207-44551115-114-S | Bundesgesellschaft für Endlag erung mbH (BGE) | Werkstudent für Digitalisierung & Künstliche Intelligenz (m/w/d) | Peine
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003963074-S | Schneider Electric GmbH | Werkstudent:in Sales & Projektvorbereitung Gebäudeautomation (w/m/d) | Düsseldorf
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003960949-S | IONOS SE | Werkstudent (w/m/d) - Security Tooling / 1671 | Berlin
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12489-44549630-113-S | Fressnapf Holding SE | Werkstudent HR / Akademie (m/w/d) - 18 Std./Woche | Krefeld
+
 ## Processed

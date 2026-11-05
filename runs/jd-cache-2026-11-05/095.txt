@@ -1,0 +1,82 @@
+URL: https://www.linkedin.com/jobs/view/4487276779
+TITLE: SQL Developer
+COMPANY: Lottomatica
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-04
+title: SQL Developer
+company: Lottomatica
+posted: 15 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fit.linkedin.com%2Fjobs%2Fview%2Fsql-developer-at-lottomatica-4487276779&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Siamo il Gruppo Lottomatica, leader nel settore del gioco regolamentato in Italia e uno dei maggiori player europei nelle principali aree di attività: sports betting, gaming online e apparecchi da intrattenimento.
+ Offriamo ai nostri clienti esperienze di gioco attraverso i diversi canali di vendita, promuovendo i principi del Gioco Responsabile e investendo nell’innovazione, nella tecnologia e nella qualità dei servizi.
+ Essere in Lottomatica è molto più che far parte di un'azienda: significa contribuire a un progetto imprenditoriale caratterizzato da innovazione e crescita.
+ Siamo alla ricerca di un SQL Developer che entrerà a far parte del Dipartimento Technology& Operations .
+ La risorsa lavorerà a stretto contatto con il team di sviluppo interno per progettare, sviluppare, ottimizzare e manutenere l'architettura dei database e i processi ETL a supporto delle applicazioni aziendali.
+ Collaborerà inoltre con le diverse aree di prodotto per raccogliere e valutare i requisiti e realizzare soluzioni in linea con le esigenze di business.
+ Responsabilità principali 
+ Progettare e sviluppare strutture di database SQL Server e collection MongoDB.
+ Sviluppare e ottimizzare query SQL/T-SQL, stored procedure e operazioni massive su SQL Server e MongoDB.
+ Progettare, sviluppare e manutenere processi ETL complessi, integrando servizi e gestendo il recupero e il trasferimento di dati da sorgenti eterogenee.
+ Sviluppare script C# articolati tramite Script Task e applicazioni Console.
+ Elaborare report e analisi ad hoc a supporto delle esigenze aziendali.
+ Raccogliere e valutare i requisiti, interfacciandosi con i responsabili di prodotto e le diverse aree di Business Unit.
+ Produrre e aggiornare la documentazione tecnica relativa agli sviluppi realizzati.
+ Requisiti 
+ Esperienza nella progettazione e nello sviluppo di database SQL Server.
+ Conoscenza di MongoDB e capacità di progettare e gestire collection.
+ Esperienza nello sviluppo di processi ETL e nell'utilizzo di SSIS.
+ Conoscenza di C# per lo sviluppo di Script Task complessi e applicazioni Console.
+ Ottima conoscenza di SQL/T-SQL, con esperienza nell'ottimizzazione di query e stored procedure.
+ Familiarità con Visual Studio e i relativi Data Tools.
+ Capacità di raccogliere e analizzare requisiti tecnici e funzionali e di redigere documentazione tecnica.
+ Conoscenza di Python.
+ Cosa troverai in Lottomatica 
+ L’opportunità di lavorare in un Gruppo leader in Italia nel settore del gioco regolamentato e tra i principali operatori europei;
+ Un ambiente dinamico, con opportunità di sviluppare e ampliare le proprie competenze;
+ La possibilità di contribuire a progetti e iniziative rilevanti per l’organizzazione, collaborando con diverse funzioni aziendali;
+ Un modello di DNA aziendale che individua Inclusione, Valore della Diversità, Eccellenza e Collaborazione tra i propri principi di riferimento;
+ Opportunità di crescita e sviluppo professionale.
+ Cosa offriamo 
+ Contratto a tempo indeterminato e opportunità di lavoro ibrido.
+ Ticket Restaurant e Polizza Sanitaria Integrativa.
+ Formazione continua su hard e soft skills.
+ Stipendio annuo lordo commisurato all'esperienza (35K–40K).
+ Lottomatica adotta politiche volte a promuovere le pari opportunità, la diversità e l’inclusione e a contrastare ogni forma di discriminazione. In Lottomatica riconosciamo il valore delle diversità individuali e il contributo che possono apportare all’organizzazione. Ci impegniamo a promuovere un ambiente di lavoro improntato al rispetto reciproco, dove ciascuno possa esprimere le proprie competenze e il proprio potenziale. 
+ ***
+ We are the Lottomatica Group, a leader in the regulated gaming sector in Italy and one of the leading European players in the main areas of our business: sports betting, online gaming and gaming machines.
+ We offer our customers gaming experiences across different sales channels, promoting the principles of Responsible Gaming and investing in innovation, technology and service quality.
+ Being part of Lottomatica means much more than being part of a company: it means contributing to an entrepreneurial project driven by innovation and growth.
+ We are looking for a SQL Developer to join the Technology&Operations Department.
+ The successful candidate will work closely with the internal development team to design, develop, optimise and maintain database architectures and ETL processes supporting business applications.
+ They will also collaborate with different product areas to gather and assess requirements and deliver solutions aligned with business needs.
+ Main Responsibilities 
+ Design and develop SQL Server database structures and MongoDB collections.
+ Develop and optimise SQL/T-SQL queries, stored procedures and bulk operations on SQL Server and MongoDB.
+ Design, develop and maintain complex ETL processes, integrating services and managing data retrieval and transfer from heterogeneous sources.
+ Develop complex C# scripts using Script Tasks and Console applications.
+ Produce reports and ad hoc analyses to support business needs.
+ Gather and assess requirements, liaising with product owners and the various Business Unit areas.
+ Produce and maintain technical documentation relating to implemented developments.
+ Requirements 
+ Experience in SQL Server database design and development.
+ Knowledge of MongoDB and the ability to design and manage collections.
+ Experience in ETL development and use of SSIS.
+ Knowledge of C# for developing complex Script Tasks and Console applications.
+ Strong knowledge of SQL/T-SQL, with experience in query and stored procedure optimisation.
+ Familiarity with Visual Studio and its Data Tools.
+ Ability to gather and analyse technical and functional requirements and prepare technical documentation.
+ Knowledge of Python.
+ What You Will Find in Lottomatica 
+ The opportunity to work in a Group that is a leader in the regulated gaming sector in Italy and among the leading operators in Europe;
+ A dynamic environment, with opportunities to develop and expand your skills;
+ The opportunity to contribute to projects and initiatives that are important to the organisation, collaborating with different business functions;
+ A corporate DNA model that identifies Inclusion, Value of Diversity, Excellence and Collaboration as its guiding principles;
+ Opportunities for professional growth and development.
+ What We Offer 
+ Permanent contract and hybrid working opportunities.
+ Meal vouchers and supplementary health insurance.
+ Continuous training on both hard and soft skills.
+ Gross annual salary commensurate with experience (35K–40K)
+ Lottomatica adopts policies aimed at promoting equal opportunities, diversity and inclusion, and combating all forms of discrimination. At Lottomatica, we recognise the value of individual differences and the contribution they can make to our organisation. We are committed to fostering a work environment based on mutual respect, where everyone can express their skills and reach their full potential.

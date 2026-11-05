@@ -1,0 +1,28 @@
+URL: https://www.linkedin.com/jobs/view/4487250446
+TITLE: Azure Data Engineer (Remoto, Portugal)
+COMPANY: SHORE
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-04
+title: Azure Data Engineer (Remoto, Portugal)
+company: SHORE
+posted: 18 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fpt.linkedin.com%2Fjobs%2Fview%2Fazure-data-engineer-remoto-portugal-at-shore-4487250446&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Principais Responsabilidades
+ Colaborar com as equipas de negócio e técnicas no levantamento de requisitos e na definição das soluções de dados.
+ Desenvolver e manter pipelines ETL/ELT com Azure Databricks e PySpark, recorrendo a Azure Data Factory quando aplicável.
+ Implementar processos de ingestão, transformação e modelação de dados em arquiteturas lakehouse.
+ Preparar dados para treino de modelos, incluindo limpeza, tratamento de valores em falta e criação de variáveis (feature engineering).
+ Colaborar no treino, na validação e na avaliação de modelos de Machine Learning clássico, utilizando métricas adequadas ao problema de negócio.
+ Implementar pipelines de inferência em batch e integrar as previsões dos modelos nos fluxos de dados.
+ Acompanhar a qualidade dos dados e o desempenho dos modelos em produção, aplicando boas práticas de versionamento, testes e documentação.
+ Requisitos mínimos
+ 2+ anos de experiência em Engenharia de Dados, incluindo participação prática em projetos de Machine Learning clássico.
+ Experiência sólida com Azure Databricks e bons conhecimentos de Python, SQL e PySpark.
+ Experiência com Azure Data Lake Storage, Parquet e Delta Lake.
+ Experiência no ciclo completo de desenvolvimento de soluções de dados, da ingestão à disponibilização.
+ Experiência com bibliotecas de Machine Learning e conhecimentos de preparação de dados, treino, validação e avaliação de modelos.
+ Compreensão de conceitos como overfitting, data leakage, separação entre dados de treino e de teste e validação cruzada.
+ Experiência na integração de modelos em pipelines de processamento e inferência em batch.
+ Experiência com Git e capacidade de desenvolver soluções escaláveis, tendo em conta o desempenho e os custos de execução.

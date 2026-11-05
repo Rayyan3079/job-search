@@ -20,6 +20,6 @@ Internships, thesis roles, full-time roles and German-required roles are listed 
 
 ## Latest run
 
-**2026-11-03**: 120 new jobs checked. 2 packages: [DLR Institute of Data Science – Working Student ML: time-series analysis & anomaly detection](output/2026-11-03/dlr-jena-working-student-ml-time-series/) (3.5), [Maddox AI – Machine Learning Working Student](output/2026-11-03/maddox-ai-machine-learning-working-student/) (3). Report: [digests/2026-11-03.md](digests/2026-11-03.md).
+**2026-11-05**: 188 new jobs checked. 5 packages: [X-FAB Semiconductor Foundries – Working Student in Opto Characterization](output/2026-11-05/x-fab-working-student-opto-characterization/) (2.5), [NXP Semiconductors – Working Student – LLM Wiki & Agentic AI Knowledge Systems](output/2026-11-05/nxp-working-student-llm-wiki-agentic-ai/) (4), [Delivery Hero – Intern, Data Engineer – People & Culture](output/2026-11-05/delivery-hero-intern-data-engineer-people-culture/) (3.5), [BSH Home Appliances Group – Internship – Agentic AI and Test-Driven Development](output/2026-11-05/bsh-internship-agentic-ai-test-driven-development/) (3), [Vattenfall – Working Student – PMO & Project Assistance](output/2026-11-05/vattenfall-working-student-pmo-project-assistance/) (2.5). Report: [digests/2026-11-05.md](digests/2026-11-05.md).
 
 Applied and waiting: 15 applications (KWS, Munich Re x2, Atlas Copco, ZEISS, AgentixLake x2, IMMS, SAP x2, Airbus, BASF, Hilti, Carnival Maritime, Solactive). See [data/applications.md](data/applications.md).

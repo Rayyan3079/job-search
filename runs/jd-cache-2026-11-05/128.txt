@@ -1,0 +1,48 @@
+URL: https://www.linkedin.com/jobs/view/4485002211
+TITLE: Praktikum - Data Analytics & Technical Monitoring for X-Ray Systems
+COMPANY: Siemens Healthineers
+LOC: Forchheim, Bavaria, Germany
+POSTED: 2026-11-03
+title: Praktikum - Data Analytics & Technical Monitoring for X-Ray Systems
+company: Siemens Healthineers
+posted: 1 day ago
+applicants: 36 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikum-data-analytics-technical-monitoring-for-x-ray-systems-at-siemens-healthineers-4485002211&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Requirements
+ Willst Du die Zukunft des Gesundheitswesens mitgestalten? Wir bei Siemens Healthineers setzen auf Menschen, die ihre Energie und Leidenschaft diesem Ziel widmen – das sagt schon unser Unternehmensname. Siemens Healthineers steht für Pioniergeist unserer Mitarbeitenden, gepaart mit unserer langen Tradition als weltweit führender Technologiekonzern in der stets dynamischen Gesundheitsbranche.
+Wir bieten ein flexibles und dynamisches Umfeld voller Gelegenheiten, über sich hinaus zu wachsen, um sich persönlich und beruflich weiterzuentwickeln. Klingt das interessant für Dich?
+ Dann werde Teil unseres globalen Teams als Praktikant*in (w/m/d), um im Bereich Data Analytics & Technical Monitoring for X-Ray Systems zu unterstützen.
+ Wähle den besten Ort für Deine Arbeit - im Rahmen dieser Stelle ist es in Abstimmung mit Deiner Führungskraft möglich, bis zu einem durchschnittlichen Volumen von 60% der jeweiligen Arbeitszeit mobil (innerhalb Deutschlands) zu arbeiten.
+Diese Stelle ist in Vollzeit mit 35h/Woche zu besetzen.
+Arbeitsort: Siemensstr. 3, 91301 Forchheim
+ Deine Aufgaben Und Verantwortlichkeiten
+ Du gehst technischen und physikalischen Fragestellungen rund um unsere Systeme und Komponenten, wir Röntgenröhren, Detektoren etc., auf den Grund und nutzt Betriebs-, Log- und Felddaten, um deren Funktion und Verhalten unter realen Bedingungen besser zu verstehen
+ Du untersuchst Zusammenhänge zwischen Nutzung, Belastung, Verschleiß und Ausfällen, gemeinsam mit unseren Entwicklungsexperten entwickelst du Hypothesen und suchst in den verfügbaren Daten nach Möglichkeiten, diese zu überprüfen
+ Du analysierst Fehlermodi und technische Auffälligkeiten und untersuchst, wie sich diese in Fehlercodes, Systemereignissen oder anderen Datenmerkmalen widerspiegeln, daraus entwickelst du Ansätze, um Auffälligkeiten oder Verschleißzustände möglichst frühzeitig zu erkennen
+ Du entwickelst kreative Analyseansätze für reale, nicht immer perfekte Daten, bewertest, welche Informationen zur Beantwortung einer technischen Fragestellung nutzbar und valide sind, welche Daten fehlen und ob sich alternative Merkmale oder geeignete Indikatoren ableiten lassen
+ Du überführst gewonnene Erkenntnisse in nachhaltige Analyse- und Monitoringansätze, dazu gehören beispielsweise die Bewertung technischer Verbesserungsmaßnahmen, die Definition geeigneter Monitoring-Indikatoren sowie die Mitarbeit an Datenkatalogen und Monitoring-Konzepten
+ Mehr über dieses Geschäftsfeld erfährst Du unter: https://www.healthcare.siemens.de/products-services
+ Deine Qualifikationen Und Erfahrung
+ Du studierst derzeit Physik, Medizintechnik, Elektrotechnik, Mechatronik, Maschinenbau, Computational Engineering, Technische Informatik oder einen vergleichbaren technisch-naturwissenschaftlichen Studiengang
+ Du bringst ein ausgeprägtes technisches und physikalisches Verständnis mit und hast Freude daran, komplexen technischen Zusammenhängen auf den Grund zu gehen
+ Du hast eine hohe Datenaffinität und Kenntnisse in Python oder vergleichbaren Werkzeugen zur Datenanalyse und Visualisierung
+ Erfahrung mit Datenplattformen wie Databricks oder Snowflake ist von Vorteil
+ Ein physikalisch, technisches Verständnis und Programmierkenntnisse in Python sind obligatorisch
+ Dein Profil Und Deine Fähigkeiten
+ Du bringst sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift mit
+ Du denkst analytisch, hypothesengetrieben und kreativ: Du hinterfragst Daten und Zusammenhänge kritisch und findest auch bei unvollständigen oder nicht idealen Daten pragmatische Wege, technische Fragestellungen zu untersuchen
+ Du arbeitest eigenständig und strukturiert, bringst Deine Ideen aktiv ein und hast Freude daran, gemeinsam mit Entwicklungsexpert*innen aus Physik, Technik und Daten neue Erkenntnisse zu gewinnen
+ Ist ein Praktikum im Rahmen deiner Studienordnung vorgesehen und möchtest du praktische Erfahrung sammeln? Dann freuen wir uns auf deine Bewerbung!
+ Bitte lade neben deinem Lebenslauf auf deine Praktikumsrichtlinie/Studienordnung hoch!
+ Diese Stelle kann auch im Rahmen einer Werkstudierendentätigkeit oder als Bachelorarbeit in Abstimmung mit der Fachabteilung besetzt werden! 
+ Unser Globales Team
+ Siemens Healthineers ist ein weltweit führendes Medizintechnikunternehmen. Mit mehr als 74.000 engagierten Mitarbeitenden in über 70 Ländern gestalten wir die Zukunft des Gesundheitswesens. Jeden Tag profitieren etwa fünf Millionen Patient*innen weltweit von unseren innovativen Technologien und Dienstleistungen aus den Bereichen Diagnostik und therapeutische Bildgebung, Labordiagnostik und molekulare Medizin sowie von unseren digitalen Gesundheits- und Unternehmensdienstleistungen.
+ Unsere Kultur
+ Unsere Unternehmenskultur schätzt verschiedene Blickwinkel, offene Diskussionen und den Willen, Konventionen in Frage zu stellen. Ständiger Wandel gehört zu unserem Arbeitsalltag. Wir wollen in unserer Branche Veränderungen vorantreiben, statt nur darauf zu reagieren. Deswegen laden wir Dich ein, sich neuen Herausforderungen zu stellen, eigene Ideen auszutesten und Erfolge zu feiern.
+Besuche auch unsere Karriere-Seite unter https://careers.siemens-healthineers.com/de/de
+Wir legen Wert auf Diversität und Chancengleichheit und freuen uns über Bewerbungen mit vielfältigen Hintergründen und insbesondere von Menschen mit Behinderung.
+Du möchtest mehr erfahren und erste Fragen gern persönlich klären – Sprich uns an: students.func@siemens-healthineers.com.
+Wir nehmen den Schutz Deiner Daten und die Einhaltung der DSGVO und anderer Datenschutzgesetze ernst. Deshalb bitten wir Dich, uns Deinen Lebenslauf nicht per E-Mail zu schicken. Bitte lege ein Profil in unserer Talent Community an, um Deinen Lebenslauf hochzuladen. Daran erkennen wir, dass Du an Karrieremöglichkeiten bei uns interessiert bist und können Dich zu relevanten Stellen benachrichtigen. Klicke hier, um ein Profil anzulegen.
+ An Alle Personalvermittlungsagenturen
+ Die Personalbeschaffung bei Siemens Healthineers wird intern verwaltet. Externe Unterstützung ist nur dann gestattet, wenn eine qualifizierte Agentur einen formellen Vertrag mit uns abgeschlossen hat. Unaufgeforderte Bewerbungen und Empfehlungen von Kandidatenprofilen ohne aktuelle Lieferantenvereinbarung begründen keine Zustimmung und sind somit nicht gebührenpflichtig. Wir löschen und vernichten nicht angeforderte Informationen und empfehlen, von derartigen Praktiken abzusehen. Wir danken für die Einhaltung unserer Richtlinien.

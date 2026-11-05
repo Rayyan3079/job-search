@@ -1,0 +1,71 @@
+URL: https://www.linkedin.com/jobs/view/4487260508
+TITLE: Data Engineer (Databricks)
+COMPANY: Avanade
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-04
+title: Data Engineer (Databricks)
+company: Avanade
+posted: 16 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fes.linkedin.com%2Fjobs%2Fview%2Fdata-engineer-databricks-at-avanade-4487260508&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Our talented Data Engineering team is made up of globally recognized experts - and there’s room for more analytical and ambitious data professionals. If you’re passionate about helping clients make better data-driven decisions to tackle their most complex business issues, let’s talk. Take your skills to a new level and launch a career where you can truly do what matters.
+ Come Join Us
+ As a member of the Data Engineering team, you’ll have access to the research, knowledge, and tools to create leading-edge solutions across Avanade’s Business Intelligence practice. The role of Data Engineer is perfect for ambitious technologists passionate about working with the latest Microsoft cloud technology and Microsoft experts. Our clients look to us for innovation, which means you’ll have early access to the newest Microsoft technologies so you can master them and stay ahead of the curve.
+ Key Responsibilities
+ Together we do what matters. 
+ Design, develop, and maintain scalable data pipelines and ETL/ELT processes.
+ Build modern data solutions using Databricks and cloud technologies.
+ Develop and optimize data transformations using Python, PySpark and SQL.
+ Work with Delta Lake and lakehouse architectures to process large volumes of structured and unstructured data.
+ Implement data ingestion, transformation, integration, and quality processes.
+ Collaborate with Data Architects, Data Scientists, BI specialists, and business stakeholders.
+ Apply best practices around data quality, performance, governance, security, and maintainability.
+ Participate in international projects, communicating with clients and colleagues in English.
+ Qualifications
+ What we’re looking for
+ Professional experience working as a Data Engineer or in a similar role.
+ Hands-on experience with Databricks in production environments.
+ Strong knowledge of Python / PySpark and SQL.
+ Experience designing and implementing ETL/ELT pipelines.
+ Knowledge of Delta Lake, Lakehouse architectures, and data modelling.
+ Experience with cloud data platforms, ideally Microsoft Azure.
+ Familiarity with technologies such as Azure Data Factory, Azure Data Lake Storage, Synapse Analytics or Microsoft Fabric is a plus.
+ Understanding of CI/CD, Git and DevOps practices applied to data solutions.
+ Strong English communication skills, comfortable working in international environments and participating in technical conversations with clients.
+ Nice to have
+ Databricks certifications, such as Databricks Certified Data Engineer Associate or Professional.
+ Microsoft Azure data certifications. 
+ Experience with Unity Catalog and data governance.
+ Knowledge of streaming technologies and real-time data processing.
+ Previous experience in consulting or client-facing environments
+ Enjoy your career 
+ Some of the best things about working at Avanade
+ Opportunity to work for Microsoft’s Global Alliance Partner of the Year (14 years in a row), with exceptional development and training (minimum 80 hours per year for training and paid certifications) 
+ Real-time access to technical and skilled resources 
+ Collaborate with some of the brightest “Microsoft minds” 
+ Build your expertise, solve problems, learn, and develop 
+ Benefits
+ Find out more about some of our benefits here.
+ A great place to work 
+ As you bring your skills and abilities to Avanade, you’ll get distinctive experiences, limitless learning, and ambitious growth in return. As we continue to build our diverse and inclusive culture, we become even more innovative and creative, helping us better serve our clients and our communities. You’ll join a community of smart, supportive collaborators to lift, mentor, and guide you, and lean on your expertise. You get a company purpose-built for business-critical, leading-edge technology solutions, committed to improving the way humans work, interact, and live. It’s all here, so take a closer look!
+We work hard to provide an inclusive, diverse culture with a deep sense of belonging for all our employees. Visit our Inclusion & Diversity page.
+Create a future for our people that focuses on
+ Expanding your thinking
+ Experimenting courageously
+ Learning and pivoting
+ Inspire greatness in our people by
+ Empowering every voice
+ Encouraging boldness
+ Celebrating progress
+ Accelerate the impact of our people by
+ Amazing the client
+ Prioritizing what matters
+ Acting as one
+ Learn more
+ To learn more about the types of projects our Analytics team works on check out these case studies:
+ thyssenkrupp Materials Services uses data to help strike a delicate operational balance 
+ What matters to SSE Renewables is innovating for a sustainable future 
+ Interested in knowing what’s going on inside Avanade? Check out our blogs:
+ Avanade Insights – exchange ideas that drive tomorrow’s innovation 
+ Inside Avanade – explore what life is like working at Avanade

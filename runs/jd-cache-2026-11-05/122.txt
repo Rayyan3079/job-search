@@ -1,0 +1,38 @@
+URL: https://www.linkedin.com/jobs/view/4487019031
+TITLE: Working Student Product Structuring & Pricing (f/m/d)
+COMPANY: Uniper
+LOC: Düsseldorf, North Rhine-Westphalia, Germany
+POSTED: 2026-11-03
+title: Working Student Product Structuring & Pricing (f/m/d)
+company: Uniper
+posted: 1 day ago
+applicants: 48 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-product-structuring-pricing-f-m-d-at-uniper-4487019031&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Our Product Structuring & Pricing Team in Düsseldorf is looking for YOU!
+We are Uniper
+At Uniper, we are pro-actively transforming the world of energy whilst at the same time ensuring security of energy supply. As an internationally operating company, we work in very diverse teams with the greatest possible working time flexibility for our employees. Our corporate culture is characterized by equal opportunities, mutual appreciation, and respect. With us, you will be able to develop new business models, work on technological solutions for a modern, sustainable, and future-oriented energy supply as well as pro-actively help to shape changes. Interested? Then we will look forward to meeting you!
+Your responsibilities
+We are looking for a motivated and analytically minded individual to join our team as a working student in the Pricing & Structuring Team within the Commercial Power department.
+This position offers a unique opportunity to gain hands-on experience in pricing and valuing complex renewable power products such as power purchase agreements (PPAs) and battery energy storage systems (BESS). Your work involves supporting quantitative modelling, analysing contract value and risk, and developing your expertise in structured power products.
+What are we looking for
+ Support financial valuations of renewable power contracts related to wind, solar and other low-carbon assets, using existing pricing and valuation tools for structured power products such as PPA and BESS contracts. 
+ Support the enhancement and calibration of quantitative models and tools for pricing structured power products and analysing their exposure to market price risk. 
+ Conduct market and trend analysis on energy prices and renewable energy generation and support modelling and simulation activities to assess generation and market risk scenarios for renewable power assets. 
+ Assist in analysing and visualising valuation results using Python, Excel, Power BI, Databricks or similar tools. 
+ Work closely with senior analysts to interpret analytical results and help prepare presentations for various stakeholders including Portfolio Management, Quantitative Methods, Risk Management, Market Analytics, and IT/Digital Trading.
+ Your profile
+ Currently enrolled in a university degree programme in the following fields: Mathematics, Energy Economics, Energy Engineering or a related quantitative subject. 
+ Growth mindset with openness to new technologies and a willingness to continuously develop relevant skills and capabilities
+ Strong analytical and problem-solving skills and a quantitative mindset with attention to detail. 
+ Knowledge of and focus on power markets, renewable energy and structured power products. Basic knowledge of forward, day-ahead, intraday and balancing markets and familiarity with PPA and BESS contracts are an advantage. 
+ Familiarity with financial valuation and quantitative modelling. This includes methods such as NPV, IRR, or sensitivity analysis and mathematical optimisation and stochastic calculus. 
+ Basic to intermediate Python programming skills (e.g. data cleaning, visualisation, or statistical analysis) for supporting quantitative analysis and model development. Familiarity with packages such as NumPy, SciPy and pandas is an advantage. 
+ Basic to intermediate skills in Excel; familiarity with Power BI or similar tools is an advantage. 
+ Collaborative team player, eager to learn and proactive, comfortable working in a dynamic environment with a hands-on attitude. 
+ What We Offer
+ Hands-on experience in pricing and valuing PPA and BESS contracts. 
+ Exposure to real-world renewable energy projects and market analysis. 
+ Mentorship from experienced energy professionals. 
+ A collaborative and supportive environment fostering professional growth. 
+ The chance to contribute to the energy transition and sustainable development.

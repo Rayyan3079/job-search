@@ -1,0 +1,36 @@
+URL: https://www.linkedin.com/jobs/view/4487270805
+TITLE: Working Student IT Delivery
+COMPANY: Fidelity International
+LOC: Kronberg, Hesse, Germany
+POSTED: 2026-11-04
+title: Working Student IT Delivery
+company: Fidelity International
+posted: 15 hours ago
+applicants: 41 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-it-delivery-at-fidelity-international-4487270805&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+We share a commitment to making things better for clients and each other. We continually explore new technology and different ways of working to put our clients first. So bring your boldest ideas to our Software Development team and feel like you’re making progress.
+ About your team 
+ Be part of a growing team which is heading towards a technical modernization programme and bring in own ideas and experience. In this role you will be part of an agile cross-functional team and help delivering functional enhancements for mission critical enterprise web applications in the transactional area which serves hundreds of thousands of customers.
+ About your role 
+ As a Working Student, you will support our software engineering team in software development, maintenance, testing, and technical documentation. This role offers hands-on experience in modern software architecture, AI-supported software development, automation, quality assurance, and enterprise application delivery within a collaborative and innovative engineering environment.
+ Supporting our modular transformation initiatives through code analysis and API/interface design
+ Assisting with post-release activities, including incident analysis, ticket implementation, and test support
+ Contributing to AI-powered knowledge management solutions and support automation tools
+ Creating and maintaining automated tests to improve software quality and reduce regression risks
+ Supporting technical modernization efforts, including library upgrades and legacy code refactoring
+ Developing internal tools and AI-based utilities to automate recurring development and operational tasks
+ Maintaining technical documentation, architecture artifacts, API specifications, and process flow diagrams
+ About you 
+ Eager to grow your knowledge and your career, you’ll fit right in. You’ll succeed because you:
+ Bachelor's degree in Computer Science or a related field; currently pursuing a Master's degree is preferred
+ Solid understanding of modern software development practices, preferably with Java or other object-oriented programming languages, including Clean Code principles and API design
+ Theoretical and practical experience with Artificial Intelligence, Large Language Models (LLMs), and Natural Language Processing (NLP), including areas such as prompt engineering
+ Basic understanding of software architecture concepts, including monolithic and microservices-based architectures as well as Domain-Driven Design
+ Quality Assurance & Testing: Experience with, or willingness to learn, end-to-end testing frameworks, unit testing and performance testing tools such as JMeter and k6.
+ Strong analytical and problem-solving skills with a structured and self-driven approach to work
+ Ability to collaborate effectively across development, testing, and support teams.
+ Are comfortable to communicate effectively in German and English language (both written and oral)
+ Feel rewarded 
+ For starters, we’ll offer you a comprehensive benefits package. We’ll value your wellbeing and support your development. And we’ll be as flexible as we can about where and when you work – finding a balance that works for all of us. It’s all part of our commitment to making you feel motivated by the work you do and happy to be part of our team. For more about our work, our approach to dynamic working and how you could build your future here, visit careers.fidelityinternational.com.
+ For more about our work, our approach to dynamic working and how you could build your future here, visit careers.fidelityinternational.com.

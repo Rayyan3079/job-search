@@ -1,0 +1,56 @@
+URL: https://www.linkedin.com/jobs/view/4484102408
+TITLE: Data Analyst – Business Intelligence & Reporting
+COMPANY: ADENTIS Italia
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-03
+title: Data Analyst – Business Intelligence & Reporting
+company: ADENTIS Italia
+posted: 1 day ago
+applicants: 62 applicants
+apply_offsite: 
+---
+CHI SIAMO 
+ ADENTIS Italia è un gruppo europeo di consulenza ingegneristica e operativa facente parte del Gruppo MoOngy.
+ Presente in 14 paesi europei con oltre 9.000 dipendenti, abbiamo aperto, da quattro anni, la prima sede italiana a Milano e, vista la continua crescita, stiamo rafforzando e ampliando il nostro team con persone che condividano gli stessi valori della nostra società: AMBIZIONE, DINAMISMO e VOGLIA DI METTERSI IN GIOCO, il tutto in una realtà in continua evoluzione, nella quale le relazioni umane sono sempre al primo posto.
+ Ruolo: Data Analyst – Business Intelligence & Reporting 
+ Luogo: Milano 
+ Modalità: Ibrida (3gg in presenza) 
+ IL TUO RUOLO 
+ Per un'importante progettualità siamo alla ricerca di un Data Analyst – Business Intelligence & Reporting che si occupi di analisi quantitative, sviluppo e automazione della reportistica e realizzazione di dashboard a supporto delle decisioni strategiche del business.
+ La risorsa collaborerà con team di Business e Digital (IT), contribuendo alla valorizzazione dei dati e alla produzione di insight utili ai processi decisionali.
+ Attività: 
+ Svolgere analisi quantitative per identificare trend, fenomeni di mercato e opportunità di business.
+ Sviluppare e automatizzare report e dashboard per il monitoraggio dei principali KPI.
+ Realizzare analisi strategiche e Data Driven Insights a supporto delle decisioni aziendali.
+ Garantire l'aggiornamento periodico delle analisi e della reportistica, adattandole alle esigenze dei clienti interni.
+ Predisporre visualizzazioni e presentazioni dei dati per i SAL periodici.
+ Raccogliere e analizzare i requisiti di business, traducendoli in soluzioni tecniche e analitiche.
+ Collaborare con i referenti di progetto per sviluppare nuovi strumenti di reporting e proporre approfondimenti.
+ Requisiti: 
+ Python e R: esperienza nell'analisi, elaborazione e automazione dei dati.
+ SQL e Google BigQuery: capacità di interrogazione, estrazione e manipolazione di dataset.
+ Power BI: esperienza nella realizzazione di report, dashboard e visualizzazioni interattive.
+ Data Analysis & Data Visualization: solide capacità analitiche e di rappresentazione dei dati.
+ Reporting Automation: esperienza nell'automazione e nell'aggiornamento periodico della reportistica.
+ Capacità di interpretare i dati e tradurli in insight strategici per il business.
+ Ottime capacità comunicative e di presentazione dei risultati.
+ Capacità di interfacciarsi con stakeholder Business e IT a diversi livelli organizzativi.
+ Disponibilità a lavorare in presenza a Milano 2/3 giorni a settimana.
+ Nice to have: 
+ Esperienza nella definizione e nel monitoraggio di KPI di business.
+ Conoscenza di DAX e Power Query.
+ Esperienza nell'analisi di trend e fenomeni di mercato.
+ Familiarità con processi di ETL e Data Quality.
+ Esperienza nella raccolta requisiti e nella gestione di stakeholder interni.
+ Cosa offriamo? 
+ Contratto a tempo indeterminato.
+ Formazione continua su hard e soft skills.
+ Follow-up costante con HR e Business Manager.
+ Un percorso di crescita chiaro e strutturato in un ambiente innovativo, dinamico e internazionale.
+ La retribuzione annua lorda per questo ruolo è compresa tra 22.000 EUR e 26.000 EUR.
+ La posizione è inquadrata nell'ambito del CCNL del Commercio e Terziario applicato dalla nostra società.
+ Il posizionamento all'interno del range sarà definito in base alle competenze tecniche, all'esperienza specifica nel ruolo e agli esiti del processo di selezione, secondo criteri oggettivi e predefiniti. In presenza di profili con caratteristiche eccezionali rispetto al range indicato, una revisione potrà essere valutata previa approvazione interna. 
+ The world needs you 
+ ADENTIS Italia è un equal opportunities employer: crediamo che tutte le forme di diversità siano fonte di arricchimento reciproco. Ci impegniamo a garantire un ambiente di lavoro inclusivo, nel quale ogni singola risorsa possa apportare un valore unico alla nostra realtà. Pertanto, accogliamo candidature senza distinzione di età, genere, nazionalità, disabilità, orientamento sessuale, religione o stato civile.
+ Inoltre, teniamo fede ai nostri impegni prestando attenzione alle risorse appartenenti alle categorie protette ai sensi degli articoli 1 e 18 della Legge 68/99.
+ I dati personali saranno trattati in conformità alle disposizioni contenute nel regolamento UE 2016/679.

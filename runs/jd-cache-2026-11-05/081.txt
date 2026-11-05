@@ -1,0 +1,38 @@
+URL: https://www.linkedin.com/jobs/view/4486013437
+TITLE: Data Engineer [Foundational AI Platform Build | Greenfield Data Transformation]
+COMPANY: GRIT
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-03
+title: Data Engineer [Foundational AI Platform Build | Greenfield Data Transformation]
+company: GRIT
+posted: 2 days ago
+applicants: 50 applicants
+apply_offsite: 
+---
+Company Description 
+ Our client is a globalbusiness operating across supply, shipping, trading and distribution. With a highly international footprint and complex operational data environment, the business is now investing in a major data and AI transformation programme.
+ This is an opportunity to join at the beginning of a greenfield build, helping create the governed data foundations that will enable enterprise-wide analytics, business intelligence and future AI use cases. The role sits within a newly formed AI function and will work closely with senior stakeholders across commercial, operations, finance and technology.
+ For someone who wants more than a standard data engineering role, this is a chance to become one of the first hands-on builders of a modern data platform in a global, asset-heavy industry.
+ Responsibilities 
+ Build and maintain data ingestion pipelines from operational, transactional, business and third-party data sources into a central cloud data platform.
+ Design and develop reliable ETL/ELT pipelines across raw, cleansed and curated data layers.
+ Create scalable data models to support reporting, analytics, semantic layers and future AI-enabled data access.
+ Work closely with business teams to understand source systems, define key data entities, and establish trusted business metrics.
+ Support the development of a governed, enterprise-wide data foundation covering data quality, access control, lineage, cataloguing and documentation.
+ Apply best practices around data classification, role-based access, and row/column-level security.
+ Monitor pipeline performance, data quality, reliability and cloud cost on an ongoing basis.
+ Support early AI and analytics initiatives, including document intelligence, knowledge retrieval, and governed query access.
+ Help shape engineering standards, development practices and platform structure as the data function scales.
+ Requirements 
+ 5+ years’ experience in data engineering or equivalent hands-on experience building and operating production data pipelines.
+ Advanced SQL skills, with strong experience working with complex operational or transactional datasets.
+ Hands-on experience with Azure data services, ideally Azure Data Factory, Azure Synapse, Azure Data Lake, or Microsoft Fabric.
+ Experience building ETL/ELT pipelines from real-world source systems into a cloud data platform or data lakehouse.
+ Working proficiency in Python, with exposure to Spark or PySpark for larger-scale transformations.
+ Good understanding of dimensional modelling, star schema design, semantic layers, or medallion architecture.
+ Familiarity with Git, version control, CI/CD practices, and engineering standards for data pipelines.
+ Comfortable working in a greenfield environment where processes, standards and platform design are still being built.
+ Strong ownership mindset, with the ability to proactively monitor, troubleshoot and improve data pipelines.
+ Ability to work directly with business stakeholders and translate commercial or operational requirements into practical data solutions.
+ Experience in energy, commodities, shipping, logistics, supply chain, trading, or financial services would be advantageous.
+ Exposure to Microsoft Purview, Power BI, data governance, data catalogues, API-led data access, or AI-enabled analytics would be a plus.

@@ -1,0 +1,45 @@
+URL: https://www.linkedin.com/jobs/view/4484697501
+TITLE: Working Student (f/m/d) - Digital Value Advisory: Business Case & Financial Modeling
+COMPANY: SAP
+LOC: Walldorf, Baden-Württemberg, Germany
+POSTED: 2026-11-03
+title: Working Student (f/m/d) - Digital Value Advisory: Business Case & Financial Modeling
+company: SAP
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-f-m-d-digital-value-advisory-business-case-financial-modeling-at-sap-4484697501&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Description
+ What you'll bring
+ You're studying Industrial Engineering, Business Informatics, Business Administration, or a related field. You're drawn to the point where financial analysis meets strategic decisions.
+ A solid grasp of financial modeling: business cases, investment calculations, or Total Cost of Ownership analysis
+ Confidence with numbers - identifying patterns and translating complexity into clear recommendations
+ The ability to build presentations that communicate complex ideas simply to senior audiences
+ A customer-oriented approach: you consider the audience and the decision at hand in every deliverable
+ Hands-on experience with AI tools, especially AI-assisted development using Claude Code or comparable coding assistants, is a plus
+ Fluency in both German and English (both C1+), written and spoken, is required for this role
+ This role is based at SAP Deutschland SE & Co. KG, Hasso-Plattner-Ring 7, 69190 Walldorf, with regular on-site presence expected.
+We also look for people who communicate clearly, keep the customer in mind, and enjoy finding smart solutions to problems - whatever stage of your career you're at.
+In addition to the role-specific skills above, all student and early talent positions at SAP look for candidates who are open to working with AI tools - including agentic AI - to automate everyday tasks, prototype ideas, and build confidence in AI-assisted ways of working from day one.
+ What You'll Build
+ You'll produce real deliverables that reach decision-makers directly - not internal practice runs.
+ Build business cases and Total Cost of Ownership analyses for customers evaluating technology investments
+ Develop presentations for C-level audiences that turn data and analysis into actionable narratives
+ Participate in internal workshops and live customer engagements
+ Collaborate with sales teams and SAP partners on value-selling practices, tools, and the SAP value story
+ Develop industry-relevant enablement content to support the broader team
+ Where you belong
+ The Digital Value Advisory Team within SAP Corporate MEE turns technology impact into concrete numbers - business cases, TCO analyses, and value narratives for corporate customers. Your work will span independent project delivery and live customer engagements, with a direct line to boardroom decisions.
+When you join SAP, you'll be a part of SAP Next Gen - a global community of students and early professionals with access to mentors, development programmes, and peers.
+Additional Information
+ About SAP
+ With a global network of customers, partners, employees, and thought leaders, SAP helps the world run better and improves people’s lives.
+As a leader in enterprise applications and business AI, SAP stands at the nexus of business and technology. For over 50 years, organizations have trusted SAP to bring out their best by uniting business-critical operations spanning finance, procurement, HR, supply chain, and customer experience.
+We win with inclusion
+SAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.
+SAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team: Careers@sap.com.
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+Qualified applicants will receive consideration for employment without regard to their age, race, religion, national origin, ethnicity, gender (including pregnancy, childbirth, et al), sexual orientation, gender identity or expression, protected veteran status, or disability, in compliance with applicable federal, state, and local legal requirements.
+AI Usage in the Recruitment Process
+For information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.
+Please note that any violation of these guidelines may result in disqualification from the hiring process.

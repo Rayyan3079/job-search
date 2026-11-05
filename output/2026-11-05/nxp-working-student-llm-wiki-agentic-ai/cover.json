@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Working Student – LLM Wiki & Agentic AI Knowledge Systems",
+    "company": "NXP Semiconductors",
+    "city": "Hamburg",
+    "greeting": "Dear NXP hiring team,",
+    "opening": "I am applying for the Working Student position on your LLM Wiki. You ask applicants to describe what they built: I built DocuMind (github.com/Rayyan3079/documind-rag), a RAG system that answers questions about technical documents with page-level citations, and I measured where it works and where it fails.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence. I use Claude and ChatGPT daily, and before my Master's I worked with business data and documentation on SAP platforms.",
+    "achievements": [
+      {
+        "lead": "DocuMind",
+        "impact": "I built a RAG system over PDF manuals with the Claude API that answered 91% of a 22-question test set correctly and refused all 4 unanswerable questions; hybrid BM25 and semantic retrieval raised MRR from 0.748 to 0.898"
+      },
+      {
+        "lead": "Failure modes",
+        "impact": "the evaluation tested hallucination through 4 unanswerable questions, all correctly refused, and traced both wrong answers to chunk boundaries, not to the model"
+      },
+      {
+        "lead": "Knowledge structure",
+        "impact": "in a team project I extracted subject-relation-object triples from text into a knowledge graph and compared graph and language-model embeddings"
+      }
+    ],
+    "problems_section": "I would help structure knowledge so both people and AI can use it (metadata, references, templates), test retrieval and context set-ups, and check source traceability, outdated information and hallucinations with small evaluation sets. I have not yet built AI agents or worked with the Microsoft 365 integration side, and I am keen to learn both on a real production use case.",
+    "closing": "I am willing to relocate to Hamburg and can work up to 20 hours per week, starting immediately. I would be glad to show you DocuMind in an interview.",
+    "date": "2026-11-05",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-11-05/nxp-working-student-llm-wiki-agentic-ai/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

@@ -1,0 +1,86 @@
+URL: https://www.stepstone.de/stellenangebote--Guidewire-Technical-Architect-w-m-x-Berlin-Muenchen-Frankfurt-a-M-Stuttgart-Koeln-Hamburg-Ettlingen-Wolfsburg-Erfurt-Wien-NTT-DATA--14570621-inline.html
+TITLE: Guidewire Technical Architect (w/m/x)
+COMPANY: NTT DATA
+LOC: Berlin, München, Frankfurt a. M., Stuttgart, Köln, Hamburg, Ettlingen, Wolfsburg, Erfurt, Wien
+POSTED: stepstone
+title: Guidewire Technical Architect (w/m/x)
+company: NTT DATA
+posted: 2026-11-01T15:03:07.937Z
+location: Berlin | remote: 
+---
+Wir sind Teil von NTT DATA, einem führenden Anbieter von Unternehmens- und Technologiedienstleistungen, KI und digitaler Infrastruktur mit einem Umsatz von über 30 Mrd. $. Als Global Top Employer betreut NTT DATA 75 % der Fortune Global 100-Unternehmen und entwickelt mit Expert:innen in über 70 Ländern gemeinsam innovative Lösungen, die dazu inspirieren, Neues zu wagen und Erfolge sichtbar zu machen. In der DACH-Region sind wir an 15 Standorten in Deutschland, Österreich und der Schweiz vertreten.
+ Make this the place where you grow 
+ Du kennst Guidewire nicht nur aus der Implementierung, sondern denkst in tragfähigen Architekturen? Als Guidewire Technical Architect gestaltest du die technische Richtung anspruchsvoller Transformationsprojekte bei unseren Kunden in der Versicherungsbranche. Du verbindest tiefgehende Guidewire-Expertise mit strategischem Architekturverständnis, triffst richtungsweisende Architekturentscheidungen und berätst unsere deutschsprachigen Kunden auf Augenhöhe. Für diese intensive Zusammenarbeit sind Deutschkenntnisse mindestens auf C1-Niveau eine wichtige Voraussetzung.
+ Deine Mission
+ Deine Benefits 
+ Flexible Arbeitszeiten mit Gleitzeitregelung und Reisezeit ist Arbeitszeit 
+ 30 Tage Urlaub, zusätzlich sind der 24.12. und 31.12. arbeitsfreie Tage
+ Sabbatical bis zu einem Jahr möglich
+ Remote Work sowie mobiles Arbeiten im EU-Ausland möglich
+ Attraktive Benefit- und Entgeltoptimierungsprogramme: betriebliche Altersvorsorge, JobRad, Jobticket, exklusive Rabatte über Corporate Benefits und vieles mehr
+ Umfangreiche Gesundheits- und Vorsorgeangebote: verlängerte Entgeltfortzahlung im Krankheitsfall, Betriebsärztliche Betreuung, Unfallversicherung auch für Freizeitunfälle weltweit, Familienservice
+ Interne und externe Weiterbildungsmöglichkeiten in der NTT DATA Academy mit fachlichen Trainings, Zertifizierungsangeboten, Soft-Skill-Schulungen, Udemy Zugang
+ Abwechslungsreiche Corporate Volunteering Möglichkeiten, diverse Communities und Initiativen (zu Diversity, Equity & Inclusion, Sustainability und mehr) mit Wissensaustausch auf Augenhöhe
+ Teamorientierte Unternehmenskultur mit viel Gestaltungsspielraum
+ Deine Mission 
+ Du entwickelst und verantwortest technische Architekturen für Guidewire-Systeme und schaffst damit die Basis für skalierbare, zukunftsfähige Lösungen, die konsequent auf die Anforderungen unserer Kunden ausgerichtet sind. 
+ Du gestaltest Lösungen auf Basis der Guidewire Cloud Platform (GWCP) und InsuranceSuite und übersetzt fachliche sowie technische Anforderungen in tragfähige Architekturkonzepte, die auch in komplexen Transformationsvorhaben Orientierung geben.
+ Du übernimmst die technische Führung in komplexen Guidewire-Transformations- und Implementierungsprojekten, triffst zentrale Architekturentscheidungen und gibst Entwicklungsteams einen klaren technischen Rahmen.
+ Du bist technischer Sparringspartner für unsere Kunden und Stakeholder, vermittelst komplexe technische Zusammenhänge verständlich und entwickelst gemeinsam mit ihnen nachhaltige Lösungsstrategien.
+ Du etablierst Architekturstandards, Best Practices und Reviews, sicherst damit eine hohe technische Qualität und stärkst durch aktiven Wissenstransfer unser Guidewire-Team.
+ Dein Skillset 
+ Du bringst fundierte Erfahrung als Guidewire Technical Architect oder Lead Developer mit und hast bereits Verantwortung für die Architektur und Implementierung komplexer Guidewire-Lösungen übernommen.
+ Du verfügst über umfassende Kenntnisse der Guidewire Cloud Platform (GWCP) und InsuranceSuite sowie idealerweise PolicyCenter und/oder ClaimCenter und bewegst dich sicher in relevanten Integrations- und API-Konzepten.
+ Du verstehst die fachlichen und technischen Zusammenhänge der Versicherungsbranche und übersetzt anspruchsvolle Anforderungen strukturiert in belastbare technische Lösungsarchitekturen.
+ Du kommunizierst mindestens auf C1-Niveau in Deutsch und vertrittst Architekturentscheidungen souverän gegenüber Kund:innen, Fachbereichen und technischen Stakeholdern; sehr gute Englischkenntnisse runden dein Profil ab.
+ Du verbindest technische Führung und Beratungskompetenz mit einer strukturierten, eigenverantwortlichen Arbeitsweise und hast Freude daran, Wissen zu teilen und Teams fachlich weiterzuentwickeln.
+ Dein Skillset
+ Deine Benefits 
+ Flexible Arbeitszeiten mit Gleitzeitregelung und Reisezeit ist Arbeitszeit 
+ 30 Tage Urlaub, zusätzlich sind der 24.12. und 31.12. arbeitsfreie Tage
+ Sabbatical bis zu einem Jahr möglich
+ Remote Work sowie mobiles Arbeiten im EU-Ausland möglich
+ Attraktive Benefit- und Entgeltoptimierungsprogramme: betriebliche Altersvorsorge, JobRad, Jobticket, exklusive Rabatte über Corporate Benefits und vieles mehr
+ Umfangreiche Gesundheits- und Vorsorgeangebote: verlängerte Entgeltfortzahlung im Krankheitsfall, Betriebsärztliche Betreuung, Unfallversicherung auch für Freizeitunfälle weltweit, Familienservice
+ Interne und externe Weiterbildungsmöglichkeiten in der NTT DATA Academy mit fachlichen Trainings, Zertifizierungsangeboten, Soft-Skill-Schulungen, Udemy Zugang
+ Abwechslungsreiche Corporate Volunteering Möglichkeiten, diverse Communities und Initiativen (zu Diversity, Equity & Inclusion, Sustainability und mehr) mit Wissensaustausch auf Augenhöhe
+ Teamorientierte Unternehmenskultur mit viel Gestaltungsspielraum
+ Deine Mission 
+ Du entwickelst und verantwortest technische Architekturen für Guidewire-Systeme und schaffst damit die Basis für skalierbare, zukunftsfähige Lösungen, die konsequent auf die Anforderungen unserer Kunden ausgerichtet sind. 
+ Du gestaltest Lösungen auf Basis der Guidewire Cloud Platform (GWCP) und InsuranceSuite und übersetzt fachliche sowie technische Anforderungen in tragfähige Architekturkonzepte, die auch in komplexen Transformationsvorhaben Orientierung geben.
+ Du übernimmst die technische Führung in komplexen Guidewire-Transformations- und Implementierungsprojekten, triffst zentrale Architekturentscheidungen und gibst Entwicklungsteams einen klaren technischen Rahmen.
+ Du bist technischer Sparringspartner für unsere Kunden und Stakeholder, vermittelst komplexe technische Zusammenhänge verständlich und entwickelst gemeinsam mit ihnen nachhaltige Lösungsstrategien.
+ Du etablierst Architekturstandards, Best Practices und Reviews, sicherst damit eine hohe technische Qualität und stärkst durch aktiven Wissenstransfer unser Guidewire-Team.
+ Dein Skillset 
+ Du bringst fundierte Erfahrung als Guidewire Technical Architect oder Lead Developer mit und hast bereits Verantwortung für die Architektur und Implementierung komplexer Guidewire-Lösungen übernommen.
+ Du verfügst über umfassende Kenntnisse der Guidewire Cloud Platform (GWCP) und InsuranceSuite sowie idealerweise PolicyCenter und/oder ClaimCenter und bewegst dich sicher in relevanten Integrations- und API-Konzepten.
+ Du verstehst die fachlichen und technischen Zusammenhänge der Versicherungsbranche und übersetzt anspruchsvolle Anforderungen strukturiert in belastbare technische Lösungsarchitekturen.
+ Du kommunizierst mindestens auf C1-Niveau in Deutsch und vertrittst Architekturentscheidungen souverän gegenüber Kund:innen, Fachbereichen und technischen Stakeholdern; sehr gute Englischkenntnisse runden dein Profil ab.
+ Du verbindest technische Führung und Beratungskompetenz mit einer strukturierten, eigenverantwortlichen Arbeitsweise und hast Freude daran, Wissen zu teilen und Teams fachlich weiterzuentwickeln.
+ Deine Benefits
+ Deine Benefits 
+ Flexible Arbeitszeiten mit Gleitzeitregelung und Reisezeit ist Arbeitszeit 
+ 30 Tage Urlaub, zusätzlich sind der 24.12. und 31.12. arbeitsfreie Tage
+ Sabbatical bis zu einem Jahr möglich
+ Remote Work sowie mobiles Arbeiten im EU-Ausland möglich
+ Attraktive Benefit- und Entgeltoptimierungsprogramme: betriebliche Altersvorsorge, JobRad, Jobticket, exklusive Rabatte über Corporate Benefits und vieles mehr
+ Umfangreiche Gesundheits- und Vorsorgeangebote: verlängerte Entgeltfortzahlung im Krankheitsfall, Betriebsärztliche Betreuung, Unfallversicherung auch für Freizeitunfälle weltweit, Familienservice
+ Interne und externe Weiterbildungsmöglichkeiten in der NTT DATA Academy mit fachlichen Trainings, Zertifizierungsangeboten, Soft-Skill-Schulungen, Udemy Zugang
+ Abwechslungsreiche Corporate Volunteering Möglichkeiten, diverse Communities und Initiativen (zu Diversity, Equity & Inclusion, Sustainability und mehr) mit Wissensaustausch auf Augenhöhe
+ Teamorientierte Unternehmenskultur mit viel Gestaltungsspielraum
+ Deine Mission 
+ Du entwickelst und verantwortest technische Architekturen für Guidewire-Systeme und schaffst damit die Basis für skalierbare, zukunftsfähige Lösungen, die konsequent auf die Anforderungen unserer Kunden ausgerichtet sind. 
+ Du gestaltest Lösungen auf Basis der Guidewire Cloud Platform (GWCP) und InsuranceSuite und übersetzt fachliche sowie technische Anforderungen in tragfähige Architekturkonzepte, die auch in komplexen Transformationsvorhaben Orientierung geben.
+ Du übernimmst die technische Führung in komplexen Guidewire-Transformations- und Implementierungsprojekten, triffst zentrale Architekturentscheidungen und gibst Entwicklungsteams einen klaren technischen Rahmen.
+ Du bist technischer Sparringspartner für unsere Kunden und Stakeholder, vermittelst komplexe technische Zusammenhänge verständlich und entwickelst gemeinsam mit ihnen nachhaltige Lösungsstrategien.
+ Du etablierst Architekturstandards, Best Practices und Reviews, sicherst damit eine hohe technische Qualität und stärkst durch aktiven Wissenstransfer unser Guidewire-Team.
+ Dein Skillset 
+ Du bringst fundierte Erfahrung als Guidewire Technical Architect oder Lead Developer mit und hast bereits Verantwortung für die Architektur und Implementierung komplexer Guidewire-Lösungen übernommen.
+ Du verfügst über umfassende Kenntnisse der Guidewire Cloud Platform (GWCP) und InsuranceSuite sowie idealerweise PolicyCenter und/oder ClaimCenter und bewegst dich sicher in relevanten Integrations- und API-Konzepten.
+ Du verstehst die fachlichen und technischen Zusammenhänge der Versicherungsbranche und übersetzt anspruchsvolle Anforderungen strukturiert in belastbare technische Lösungsarchitekturen.
+ Du kommunizierst mindestens auf C1-Niveau in Deutsch und vertrittst Architekturentscheidungen souverän gegenüber Kund:innen, Fachbereichen und technischen Stakeholdern; sehr gute Englischkenntnisse runden dein Profil ab.
+ Du verbindest technische Führung und Beratungskompetenz mit einer strukturierten, eigenverantwortlichen Arbeitsweise und hast Freude daran, Wissen zu teilen und Teams fachlich weiterzuentwickeln.
+ Deine Bewerbung
+ Mit uns hast du unzählige Möglichkeiten, groß zu denken, mutig zu handeln und Verantwortung zu übernehmen. Gestalte deine Zukunft in einer Kultur, die Zugehörigkeit lebt und dir Raum für Lernen und Networking gibt.
+ Vielfalt ist ein unverzichtbarer Teil unseres Erfolges und unserer Unternehmenskultur. Frei von Vorurteilen im Hinblick auf Geschlecht, sexuelle Orientierung, Alter, ethnische und soziale Herkunft, Religion oder Behinderung freuen wir uns dich kennenzulernen. Menschen mit Schwerbehinderung werden bei gleicher Eignung bevorzugt.
+ Interessiert? Wir freuen uns auf Deine Online-Bewerbung!

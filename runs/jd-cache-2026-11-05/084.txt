@@ -1,0 +1,28 @@
+URL: https://www.linkedin.com/jobs/view/4331934017
+TITLE: Distributed Cloud | Power BI Specialist
+COMPANY: Devoteam
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-04
+title: Distributed Cloud | Power BI Specialist
+company: Devoteam
+posted: 12 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+At Devoteam, we believe that technology with strong human values can actively drive change for the better. Discover how Tech for People unlocks the future, creating a positive impact on the people and the world around us. We are a global leading player in Digital Transformation for leading organisations across EMEA, with a revenue of €1B. We believe in transforming technology to create value for our clients, partners and employees in a world where technology is developed for people. We are proud of the culture we have built together. We are proud of our people at the service of technology. We are proud of our diverse environment. Because we are #TechforPeople. Join our multidisciplinary team of Cloud experts, Designers, Business consultants, Security experts, Engineers, Developers and other extraordinary talents, spread across more than 20 EMEA countries. Become one of our +10.000 tech and business leaders on cloud, data and cyber security. Let’s fuse creativity with technology together and build innovative solutions that actively change things for the better.
+ Job Description
+ We are seeking a sharp and insightful Power BI Specialist to drive our Business Intelligence initiatives. You will be instrumental in translating complex business requirements into clear data models and compelling visualizations, ensuring strategic decision-making across the organization.
+Key Responsibilities:
+ Design and develop dynamic dashboards and reports using Power BI to monitor key performance indicators (KPIs) and provide actionable business insights. 
+ Gather and translate business requirements into technical specifications for data modeling and reporting solutions. 
+ Develop, optimize, and execute SQL queries to extract, transform, and prepare data for analysis. 
+ Perform data validation and collaborate with stakeholders to ensure data integrity and quality. 
+ Drive the adoption of self-service BI best practices across the business. 
+ Qualifications
+ 3+ years of proven experience as a Data Analyst or BI Developer. 
+ Strong mandatory proficiency in SQL for querying and manipulating data. 
+ Expert hands-on experience with Microsoft Power BI for data modeling (DAX) and visualization. 
+ Proven ability to successfully elicit and document business requirements. 
+ Language Requirement: Professional fluency (B2+) in French is highly valued and may be a mandatory requirement for allocation on specific projects with Francophone clients. 
+ Additional Information
+ The Devoteam Group works for equal opportunities, promoting its employees based on merit and actively fights against all forms of discrimination. We are convinced that diversity contributes to the creativity, dynamism and excellence of our organization. All of our vacancies are open to people with disabilities.

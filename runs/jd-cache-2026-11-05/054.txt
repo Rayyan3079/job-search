@@ -1,0 +1,47 @@
+URL: https://www.linkedin.com/jobs/view/4486374740
+TITLE: Praktikum/Abschlussarbeit - Informatik SAP Development (m/w/d)
+COMPANY: Geberit Deutschland
+LOC: Pfullendorf, Baden-Württemberg, Germany
+POSTED: 2026-11-04
+title: Praktikum/Abschlussarbeit - Informatik SAP Development (m/w/d)
+company: Geberit Deutschland
+posted: 17 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikum-abschlussarbeit-informatik-sap-development-m-w-d-at-geberit-deutschland-4486374740&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Spitzenleistung in der Sanitärtechnik. Weltweit. Das ist unsere Vision bei Geberit.
+ Wir entwickeln moderne Anwendungen und digitale Lösungen rund um unsere internationale SAP-Systemlandschaft. Dabei verbinden wir SAP-Technologien mit Web- und Cloud-Entwicklung, integrieren weitere Unternehmenssysteme und nutzen Künstliche Intelligenz als selbstverständliches Werkzeug im Entwicklungsalltag. Während deines Praktikums arbeitest du an konkreten Aufgabenstellungen mit und lernst den Entwicklungsprozess von der Anforderung bis zur fertigen Lösung kennen.
+ Wir suchen einen Studierenden (m/w/d) für das Sommersemester 2027.
+ HAUPTAUFGABEN
+ Du entwickelst gemeinsam mit erfahrenen Kollegen moderne SAP-Anwendungen im Backend oder Web und übernimmst dabei eine eigene, klar abgegrenzte Aufgabenstellung.
+ Du lernst, Anforderungen zu verstehen und daraus gemeinsam mit dem Team passende technische Lösungen zu entwickeln.
+ Du nutzt moderne Entwicklungswerkzeuge und Künstliche Intelligenz zur Unterstützung bei Entwicklung, Dokumentation und Qualitätssicherung.
+ Du erhältst Einblicke in moderne SAP-Entwicklung mit SAP S/4HANA und SAP BTP und lernst dabei unter anderem moderne ABAP-Entwicklung mit RAP und SAP Fiori Elements sowie Cloud-Entwicklung mit CAP kennen.
+ Du arbeitest mit erfahrenen Entwicklern, Fachbereichen und internationalen IT-Kollegen zusammen.
+ PROFIL
+ Du absolvierst ein IT-bezogenes Studium.
+ Du interessierst dich für moderne Softwareentwicklung und möchtest erfahren, wie digitale Lösungen in einer internationalen SAP-Systemlandschaft entstehen.
+ Idealerweise hast du bereits erste Erfahrungen in der Programmierung gesammelt. Kenntnisse in SAP oder ABAP sind von Vorteil, aber keine Voraussetzung.
+ Neue Technologien, Cloud- und Web-Entwicklung sowie moderne Werkzeuge und Arbeitsweisen begeistern dich.
+ Du bist neugierig, lernbereit und hast Spaß daran, technische Fragestellungen zu verstehen und eigene Lösungsansätze zu entwickeln.
+ Du arbeitest gerne selbständig, übernimmst Verantwortung für deine Aufgaben und bringst dich gleichzeitig in ein Team ein. 
+ WIR BIETEN
+ Unsere Werte: Gelebte Unternehmenskultur basierend auf unserem Kompass
+ Entwicklungsperspektiven: Besondere Möglichkeiten zur beruflichen und persönlichen Weiterentwicklung. Während Deines Einsatzes hast du die Chance, Verantwortung für eigene spannende Projekte zu übernehmen.
+ Startzeitpunkt und Dauer: Wir bieten einen flexiblen Startzeitpunkt ohne feste Bewerbungsfristen
+ Optimalen Einstieg: Ausführliches Onboarding für deine Zeit bei Geberit
+ Fachliche Betreuung: Eine Ansprechperson, die dir zur Seite steht, deine Fragen beantwortet, regelmäßig Feedback gibt und dich stärkenorientiert fördert
+ Flexible Arbeitszeiten: Die Möglichkeit, deine Wochenarbeitszeit von 37,5 Stunden in Absprache mit deiner Fachabteilung flexibel zu gestalten
+ Homeoffice: Im Rahmen eines Praktikums kannst du einen Tag in der Woche im Homeoffice arbeiten. Während deiner Abschlussarbeit kann die Zeit im Homeoffice variieren. Genauere Informationen erhältst Du im Interviewprozess.
+ Vergütung: Im Pflichtpraktikum beträgt die Vergütung 1.200 € brutto/Monat. Freiwillige Praktika ab 3 Monaten vergüten wir mit dem gesetzlichen Mindestlohn. Für die Erstellung einer Abschlussarbeit zahlen wir 1.300 € (Bachelor) bzw. 1.400 € (Master). 
+ Urlaub: 2,5 Urlaubstage pro Monat 
+ Verpflegung: Täglich frische und hochwertige Speisen in unserem Personalrestaurant
+ Betriebliches Gesundheitsmanagement: Geberit Vital bietet Maßnahmen in den Bereichen Bewegung, mentale Gesundheit und Ernährung an
+ Beschäftigungsart: Vollzeit
+ Vertragsart: Befristet
+ Ort: Pfullendorf
+ KONTAKT
+ Geberit Verwaltungs GmbH
+Luka Restle
++49 75529347676
+Tritt gerne vorab mit mir in Kontakt!

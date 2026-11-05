@@ -1,0 +1,16 @@
+URL: https://www.linkedin.com/jobs/view/4470905079
+TITLE: AI Generalist
+COMPANY: RemoExperts
+LOC: Germany
+POSTED: 2026-11-04
+title: AI Generalist
+company: RemoExperts
+posted: 18 hours ago
+applicants: 167 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fai-generalist-at-remoexperts-4470905079&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Discover full-time remote AI Generalist jobs in Hamburg for 2026. Join Rex.zone to drive large language model evaluation, RLHF, and training data quality for advanced AI pipelines.
+Core Responsibilities in AI/ML Training Workflows
+Your day-to-day work will directly impact model performance improvement. Responsibilities include executing precise annotation guidelines compliance, conducting QA evaluation on generative outputs, and performing named entity recognition. You will collaborate with freelance, contract, and full-time remote teams to ensure high-fidelity LLM training pipelines.
+ Qualifications For Senior AI Generalists
+ Candidates should possess a strong background working with tech startups, BPOs, or annotation vendors. You must demonstrate expertise in large language model evaluation, content safety labeling, and advanced prompt engineering. Entry-level candidates with strong academic backgrounds in NLP or computer vision may also be considered for specific remote tracks.

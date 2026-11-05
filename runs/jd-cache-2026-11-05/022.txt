@@ -1,0 +1,50 @@
+URL: https://www.stepstone.de/stellenangebote--IT-Systemadministrator-m-w-d-Schwerpunkt-Anwendersupport-Erfurt-LEG-Landesentwicklungsgesellschaft-Thueringen-mbH--14660112-inline.html
+TITLE: IT-Systemadministrator (m/w/d) Schwerpunkt Anwendersupport
+COMPANY: LEG Landesentwicklungsgesellschaft Thüringen mbH
+LOC: Erfurt
+POSTED: stepstone
+title: IT-Systemadministrator (m/w/d) Schwerpunkt Anwendersupport
+company: LEG Landesentwicklungsgesellschaft Thüringen mbH
+posted: 2026-11-03T13:03:33.67Z
+location: Erfurt | remote: 
+---
+Projekte von struktur­politischer Bedeutung umsetzen, Grundlagen für die dynamische Entwick­lung eines moder­nen Wirtschafts- und Techno­logie­stand­ortes schaffen – dies sind die Aufgaben der Landes­ent­wicklungs­gesell­schaft Thüringen mbH. Wir ent­wickeln, erschließen und vermarkten gewerbliche Flächen, unterstützen Kommunen bei der regionalen Ko­opera­tion und betreiben gemeinsam mit Städten und Kreisen Stadtentwick­lung sowie Stadt­sa­nierung. Im Rahmen der Wirtschafts­förderung gewinnen wir Investoren mit einem Full-Service für den Wirt­schafts­standort Thüringen, begleiten Thüringer Unternehmen auf wirtschaftlich interes­sante Märkte im Ausland und betreiben Thüringen-Marketing.
+ Sie begeistern sich für IT, helfen gerne bei technischen Herausforderungen und möchten die digitale Arbeitsumgebung aktiv mitgestalten? Dann werden Sie Teil unseres Teams.
+ Für unsere Abteilung Informationstechnologie suchen wir zum nächstmöglichen Zeitpunkt unbefristet und in Vollzeit einen
+ IT-Systemadministrator (m/w/d) Schwerpunkt Anwendersupport 
+ Als IT-Systemadministrator (m/w/d) mit Schwerpunkt Anwendersupport sorgen Sie für einen störungsfreien Betrieb unserer IT-Arbeitsplätze und sind die erste Ansprechperson für unsere Mitarbeitenden bei technischen Fragen. Dabei übernehmen Sie sowohl klassische Supportaufgaben als auch administrative Tätigkeiten im Microsoft-Umfeld und wirken an spannenden IT-Projekten mit.
+ Ihre Aufgaben:
+ Erste Ansprechperson für unsere Mitarbeitenden bei technischen Fragen und IT-Störungen per Telefon, Ticketsystem, Remote-Zugriff und vor Ort
+ First-Level-Support für Microsoft 365, insbesondere Outlook, Teams und Office
+ Analyse, Priorisierung und Behebung von Störungen sowie Weiterleitung komplexerer Themen an nachgelagerte Supporteinheiten
+ Bearbeitung und Dokumentation von Supportanfragen in unserem Ticketsystem
+ Betreuung, Einrichtung und Wartung von PCs, Notebooks, mobilen Endgeräten sowie weiterer Arbeitsplatztechnik
+ Installation, Konfiguration und Aktualisierung von Windows-Clients und Standardsoftware
+ Durchführung von Sicherheits-, Update- und Patch-Management-Maßnahmen auf Endgeräten
+ Betreuung von Druckern, Multifunktionsgeräten und Präsentationstechnik
+ Unterstützung bei der Verwaltung von Benutzerkonten, Zugriffsrechten und Berechtigungen
+ Begleitung der Einrichtung und Betreuung von VPN- und Remote-Zugängen
+ Unterstützung bei der Administration von Active Directory, Microsoft Entra ID und Endpoint-Management-Lösungen
+ Erstellung und Pflege technischer Dokumentationen
+ Mitwirkung bei IT-Projekten, Rollouts und Arbeitsplatzmigrationen
+ Unterstützung bei der Verwaltung von Softwarelizenzen und IT-Verträgen
+ Unterstützung bei der Beschaffung von Hard- und Software
+ Ihr Profil:
+ Erfolgreich abgeschlossene Ausbildung im IT-Bereich, z. B. als Fachinformatiker (m/w/d) für Systemintegration, IT-Systemelektroniker (m/w/d) oder eine vergleichbare Qualifikation
+ Sehr gute Kenntnisse in Microsoft-Windows-Umgebungen und im Client-Management
+ Erfahrung im IT-Anwendersupport oder Helpdesk
+ Idealerweise Kenntnisse in Microsoft 365, Microsoft Entra-ID, Teams, Active Directory, Endpoint-Management und grundlegender Netzwerktechnik
+ Strukturierte, eigenständige und lösungsorientierte Arbeitsweise
+ Ausgeprägte Service- und Kundenorientierung
+ Kommunikationsstärke und Freude an der Zusammenarbeit im Team
+ Sehr gute Deutschkenntnisse sowie gute Englischkenntnisse
+ Unsere Benefits:
+ Abwechslungsreiche Tätigkeit zwischen Anwendersupport, Administration und Projekten
+ Attraktive Vergütung und ein 13. Monatsgehalt
+ 39-Stunden-Woche, flexible Arbeitszeiten und Arbeitszeitkonten sowie hybrides Arbeiten
+ Persönliche und fachliche Weiterentwicklung
+ Aktive Gesundheitsförderung und Work-Life-Balance
+ Fahrrad-Leasing
+ Haben wir Ihr Interesse geweckt?
+ Dann freuen wir uns über Ihre aussagekräftige Bewerbung, inklusive Motivationsschreiben, Lebenslauf, Zeugnissen und der Angabe Ihres frühestmöglichen Eintrittstermins per Mail (max. 10 MB) an: bewerbung@leg-thueringen.de .
+ Wir freuen uns darauf, Sie kennenzulernen!

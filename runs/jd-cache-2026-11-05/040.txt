@@ -1,0 +1,34 @@
+URL: https://www.linkedin.com/jobs/view/4487540140
+TITLE: Deployment Strategist
+COMPANY: Albatross AI
+LOC: Germany
+POSTED: 2026-10-10
+title: Deployment Strategist
+company: Albatross AI
+posted: 3 weeks ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+Location: Remote, right to work and travel in Europe.
+Albatross builds perception models for real-time product discovery on marketplaces, adapting to user intent in-session and creating inspiring shopping experiences by surfacing new and relevant products and sellers. Today, Albatross powers the online experience of 50+ million shoppers monthly and processes 3+ billion user interactions per month across 150+ million products. Winner of the Tech for Retail 2025 Award, Albatross is based in Switzerland and backed by Redalpine, MMC Ventures, and Daphni.
+ The Role
+ We're looking for a Deployment Strategist who loves digging into data and turning it into results customers can see. You'll own the deployment from the first data drop to launch day, validating data, building the dashboards that tell the story, and chasing down anything that looks off. After a structured onboarding, proper training and support, you'll be ready to:
+ Own the customer relationship end-to-end during deployment: timeline, expectations, data, analyses, and reporting
+ Gather and validate customer data, chasing stakeholders as needed to get it in on time and in the right format
+ Review automated data-quality checks and flag anomalies before they become problems
+ Run and report on data-adequacy analyses to confirm a customer's data is ready for deployment
+ Manage the deployment pipeline end-to-end (workflows, early training, go-live)
+ Build and maintain dashboards tracking deployment health and A/B test results
+ Support the commercial team with data and analysis during customer negotiations
+ Requirements
+ Degree in a quantitative field (Computer Science, Data Science, Engineering, Statistics, or similar)
+ 1-3 years of hands-on experience working with real data (e.g. data analyst, BI analyst, data engineer, junior data scientist, or a similarly data-heavy role)
+ Strong analytics skills, including handling real-world datasets
+ Experience building and reading dashboards
+ Comfortable learning fast and growing technical judgment
+ Strong client-facing communication skills in English with the ability to explain technical concepts clearly to both engineers and non-technical stakeholders
+ Good judgment on when to escalate vs. resolve independently
+ Eligible to work in Europe
+ Benefits
+ Full remote flexibility across Europe
+ Yearly gross salary range € 50k - 70k

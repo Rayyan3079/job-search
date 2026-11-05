@@ -1,0 +1,191 @@
+URL: https://www.linkedin.com/jobs/view/4478580209
+TITLE: Business Intelligence (BI) Analyst
+COMPANY: Cushman & Wakefield
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-03
+title: Business Intelligence (BI) Analyst
+company: Cushman & Wakefield
+posted: 1 day ago
+applicants: 105 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fhu.linkedin.com%2Fjobs%2Fview%2Fbusiness-intelligence-bi-analyst-at-cushman-wakefield-4478580209&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Title
+ Business Intelligence (BI) Analyst
+ Job Description Summary
+ Business Intelligence (BI) Analyst
+Department: Places
+Operational Report: Global Operations Director, Places
+Service Partner Report: Regional BI Lead
+Location: Remote
+Key Interfaces
+Global Account Director, Account Leader, Workplace Experience Lead, Regional Workplace Managers, Workplace Managers and other team members, Sage colleagues, contracted third-party service providers and platform team members.
+Role Purpose
+As a key member of the Business Intelligence (BI) team supporting the Sage Workplace Management account, responsible for delivering accurate, insightful and timely reporting that enables informed operational, commercial and strategic decision making across the global portfolio.
+Working in partnership with operational teams, Sage stakeholders and technical colleagues, the BI Analyst will transform complex workplace, supplier and operational data into meaningful insight, ensuring trusted reporting, effective performance management and continuous improvement across the account.
+The role is responsible for developing dashboards, supporting data integration, undertaking analytical investigations and identifying trends, risks and opportunities that enhance workplace performance, colleague experience and commercial outcomes.
+ Responsibilities
+ Account management
+To develop a thorough understanding of the Sage Workplace Management operating model, contractual requirements and reporting objectives, ensuring all Business Intelligence activities support successful contract delivery.
+To work collaboratively with the Account Director, Account Leader, Regional Workplace Managers and Workplace Managers to understand evolving business requirements and deliver reporting solutions that support operational, commercial and strategic decision making.
+To establish trusted working relationships with Sage stakeholders and Service Partner teams, acting as the primary analytical resource for Workplace Management reporting and insight.
+To translate business requirements into meaningful dashboards, reports and analytical outputs that enable informed decision making across the global Workplace Management portfolio.
+To support mobilisation activities, workplace transformations and operational initiatives by providing data analysis, reporting and performance insight.
+To proactively identify opportunities to improve reporting capability, automate reporting and enhance the overall Business Intelligence service delivered to the account, acting as the Workplace Management representative for Business Intelligence platform enhancements and ensuring operational requirements are reflected in future reporting capability.
+People
+To work collaboratively with Business Intelligence colleagues, operational teams and platform specialists to promote a consistent, "One Team" approach to reporting and analytics across the account.
+To provide guidance and training to Workplace Management teams in the effective use of dashboards, reporting tools and Business Intelligence platforms.
+To support the development of analytical capability across the account by promoting data literacy and encouraging effective use of reporting and performance information.
+To maintain effective relationships with technical teams, ensuring reporting solutions continue to evolve in line with business requirements and emerging best practice.
+Performance
+To design, develop and maintain interactive dashboards and reports using approved Business Intelligence platforms, ensuring information is accurate, timely and aligned with agreed reporting standards.
+To prepare, validate, cleanse and transform operational data from multiple systems, maintaining high standards of data integrity and consistency.
+To support the integration of new data sources into the reporting environment, working with technical teams to improve the availability, reliability and quality of operational information.
+To analyse workplace, operational, supplier and financial performance data, identifying trends, risks and opportunities to improve service delivery, workplace experience and commercial performance.
+To respond promptly to ad hoc analytical requests from the Client and Workplace Management leadership team.
+To support the preparation of Quarterly Business Reviews, executive reporting and contractual governance reporting through the provision of accurate analysis and meaningful business insight.
+To undertake benchmarking and comparative analysis to identify opportunities for continuous improvement across Workplace Management services.
+To undertake user acceptance testing of new reporting functionality and dashboard releases, ensuring solutions meet agreed business requirements prior to deployment.
+To work collaboratively with Business Intelligence platform teams to evaluate and support implementation of enhancements that improve reporting capability and support the evolving needs of the Sage Workplace Management account.
+To maintain reporting documentation, business rules, data definitions, user guidance and analytical methodologies to ensure reporting consistency and knowledge sharing across the account.
+Commercial
+To identify opportunities where Business Intelligence and improved reporting can contribute to operational efficiency, service improvement and commercial value across the Workplace Management contract.
+To provide analytical support for business cases, investment proposals and continuous improvement initiatives by delivering accurate operational and financial insight.
+To identify trends in workplace utilisation, supplier performance and operational delivery that support informed commercial decision making and improved value for Sage.
+Compliance
+To ensure all reporting activities comply with agreed data governance standards, contractual obligations and information security requirements.
+To work closely with the Data Governance Manager to ensure reporting is based upon trusted, validated and consistent data sources.
+To maintain appropriate controls around reporting accuracy, version control and auditability, ensuring analytical outputs can be relied upon for contractual reporting and governance.
+To comply with all applicable data privacy legislation, confidentiality requirements and organisational information governance policies when handling Sage data.
+Direct reports
+None
+Personal Attributes
+Knowledge
+Business Intelligence principles, reporting methodologies and data visualisation best practice.
+Workplace Management and Integrated Facilities Management operating models.
+Operational performance measurement and Key Performance Indicators.
+Data governance, data quality and information management principles.
+Reporting lifecycle, ETL processes and data integration techniques.
+Continuous improvement methodologies and operational performance analysis.
+Managed service environments and Sage governance structures.
+ Skills
+ Excellent analytical and problem-solving capability.
+Advanced dashboard development and data visualisation skills using Power BI or equivalent Business Intelligence platforms.
+Strong SQL capability with an understanding of relational databases and data modelling.
+Experience of APIs, data integration and modern reporting architectures.
+Excellent stakeholder engagement and communication skills.
+Ability to interpret complex operational data and present meaningful business insight.
+Strong written communication and presentation skills.
+Excellent organisational skills with the ability to prioritise competing demands.
+High attention to detail and commitment to data accuracy.
+Ability to simplify technical information for non-technical stakeholders.
+Character and personality
+Naturally curious with a passion for understanding data and identifying opportunities for improvement.
+Collaborative and team oriented.
+Proactive, self-motivated and solutions focused.
+Calm and methodical under pressure.
+Committed to continuous improvement and innovation.
+Professional, credible and trusted by stakeholders.
+Adaptable and comfortable working within a changing global environment.
+Takes ownership and demonstrates accountability for outcomes.
+ Experience
+ Demonstrable experience delivering Business Intelligence, reporting or analytics within a complex operational environment.
+Experience developing dashboards and reporting solutions using Power BI or comparable Business Intelligence platforms.
+ Experience Translating Business Requirements Into Practical Analytical Solutions.
+ Experience working with multiple operational data sources and integrating information from disparate systems.
+Experience supporting operational performance reporting, executive reporting and business governance.
+Experience working within outsourced services, Workplace Management, Facilities Management or other managed service environments would be advantageous.
+Education
+Bachelor’s degree in business, Data Analytics, Information Systems, Technology, Computer Science or a related discipline.
+Knowledge of SQL required.
+Microsoft Power BI certification or equivalent desirable.
+Experience with Python, Databricks, APIs or modern cloud-based analytics platforms desirable.
+ Job Description
+ Business Intelligence (BI) Analyst 
+ Department: Places
+ Operational Report: Global Operations Director, Places
+ Service Partner Report: Regional BI Lead
+ Location: Remote
+ Key Interfaces
+ Global Account Director, Account Leader, Workplace Experience Lead, Regional Workplace Managers, Workplace Managers and other team members, Sage colleagues, contracted third-party service providers and platform team members.
+ Role Purpose
+ As a key member of the Business Intelligence (BI) team supporting the Sage Workplace Management account, responsible for delivering accurate, insightful and timely reporting that enables informed operational, commercial and strategic decision making across the global portfolio.
+Working in partnership with operational teams, Sage stakeholders and technical colleagues, the BI Analyst will transform complex workplace, supplier and operational data into meaningful insight, ensuring trusted reporting, effective performance management and continuous improvement across the account.
+The role is responsible for developing dashboards, supporting data integration, undertaking analytical investigations and identifying trends, risks and opportunities that enhance workplace performance, colleague experience and commercial outcomes.
+ Responsibilities
+ Account management
+ To develop a thorough understanding of the Sage Workplace Management operating model, contractual requirements and reporting objectives, ensuring all Business Intelligence activities support successful contract delivery. 
+ To work collaboratively with the Account Director, Account Leader, Regional Workplace Managers and Workplace Managers to understand evolving business requirements and deliver reporting solutions that support operational, commercial and strategic decision making. 
+ To establish trusted working relationships with Sage stakeholders and Service Partner teams, acting as the primary analytical resource for Workplace Management reporting and insight. 
+ To translate business requirements into meaningful dashboards, reports and analytical outputs that enable informed decision making across the global Workplace Management portfolio. 
+ To support mobilisation activities, workplace transformations and operational initiatives by providing data analysis, reporting and performance insight. 
+ To proactively identify opportunities to improve reporting capability, automate reporting and enhance the overall Business Intelligence service delivered to the account, acting as the Workplace Management representative for Business Intelligence platform enhancements and ensuring operational requirements are reflected in future reporting capability. 
+ People
+ To work collaboratively with Business Intelligence colleagues, operational teams and platform specialists to promote a consistent, "One Team" approach to reporting and analytics across the account. 
+ To provide guidance and training to Workplace Management teams in the effective use of dashboards, reporting tools and Business Intelligence platforms. 
+ To support the development of analytical capability across the account by promoting data literacy and encouraging effective use of reporting and performance information. 
+ To maintain effective relationships with technical teams, ensuring reporting solutions continue to evolve in line with business requirements and emerging best practice. 
+ Performance
+ To design, develop and maintain interactive dashboards and reports using approved Business Intelligence platforms, ensuring information is accurate, timely and aligned with agreed reporting standards. 
+ To prepare, validate, cleanse and transform operational data from multiple systems, maintaining high standards of data integrity and consistency. 
+ To support the integration of new data sources into the reporting environment, working with technical teams to improve the availability, reliability and quality of operational information. 
+ To analyse workplace, operational, supplier and financial performance data, identifying trends, risks and opportunities to improve service delivery, workplace experience and commercial performance. 
+ To respond promptly to ad hoc analytical requests from the Client and Workplace Management leadership team. 
+ To support the preparation of Quarterly Business Reviews, executive reporting and contractual governance reporting through the provision of accurate analysis and meaningful business insight. 
+ To undertake benchmarking and comparative analysis to identify opportunities for continuous improvement across Workplace Management services. 
+ To undertake user acceptance testing of new reporting functionality and dashboard releases, ensuring solutions meet agreed business requirements prior to deployment. 
+ To work collaboratively with Business Intelligence platform teams to evaluate and support implementation of enhancements that improve reporting capability and support the evolving needs of the Sage Workplace Management account. 
+ To maintain reporting documentation, business rules, data definitions, user guidance and analytical methodologies to ensure reporting consistency and knowledge sharing across the account. 
+ Commercial
+ To identify opportunities where Business Intelligence and improved reporting can contribute to operational efficiency, service improvement and commercial value across the Workplace Management contract. 
+ To provide analytical support for business cases, investment proposals and continuous improvement initiatives by delivering accurate operational and financial insight. 
+ To identify trends in workplace utilisation, supplier performance and operational delivery that support informed commercial decision making and improved value for Sage. 
+ Compliance
+ To ensure all reporting activities comply with agreed data governance standards, contractual obligations and information security requirements. 
+ To work closely with the Data Governance Manager to ensure reporting is based upon trusted, validated and consistent data sources. 
+ To maintain appropriate controls around reporting accuracy, version control and auditability, ensuring analytical outputs can be relied upon for contractual reporting and governance. 
+ To comply with all applicable data privacy legislation, confidentiality requirements and organisational information governance policies when handling Sage data. 
+ Direct reports
+ None
+ Personal Attributes
+ Knowledge
+ Business Intelligence principles, reporting methodologies and data visualisation best practice. 
+ Workplace Management and Integrated Facilities Management operating models. 
+ Operational performance measurement and Key Performance Indicators. 
+ Data governance, data quality and information management principles. 
+ Reporting lifecycle, ETL processes and data integration techniques. 
+ Continuous improvement methodologies and operational performance analysis. 
+ Managed service environments and Sage governance structures. 
+ Skills
+ Excellent analytical and problem-solving capability. 
+ Advanced dashboard development and data visualisation skills using Power BI or equivalent Business Intelligence platforms. 
+ Strong SQL capability with an understanding of relational databases and data modelling. 
+ Experience of APIs, data integration and modern reporting architectures. 
+ Excellent stakeholder engagement and communication skills. 
+ Ability to interpret complex operational data and present meaningful business insight. 
+ Strong written communication and presentation skills. 
+ Excellent organisational skills with the ability to prioritise competing demands. 
+ High attention to detail and commitment to data accuracy. 
+ Ability to simplify technical information for non-technical stakeholders. 
+ Character and personality
+ Naturally curious with a passion for understanding data and identifying opportunities for improvement. 
+ Collaborative and team oriented. 
+ Proactive, self-motivated and solutions focused. 
+ Calm and methodical under pressure. 
+ Committed to continuous improvement and innovation. 
+ Professional, credible and trusted by stakeholders. 
+ Adaptable and comfortable working within a changing global environment. 
+ Takes ownership and demonstrates accountability for outcomes. 
+ Experience
+ Demonstrable experience delivering Business Intelligence, reporting or analytics within a complex operational environment. 
+ Experience developing dashboards and reporting solutions using Power BI or comparable Business Intelligence platforms. 
+ Experience translating business requirements into practical analytical solutions. 
+ Experience working with multiple operational data sources and integrating information from disparate systems. 
+ Experience supporting operational performance reporting, executive reporting and business governance. 
+ Experience working within outsourced services, Workplace Management, Facilities Management or other managed service environments would be advantageous. 
+ Education
+ Bachelor’s degree in business, Data Analytics, Information Systems, Technology, Computer Science or a related discipline. 
+ Knowledge of SQL required. 
+ Microsoft Power BI certification or equivalent desirable. 
+ Experience with Python, Databricks, APIs or modern cloud-based analytics platforms desirable. 
+ Cushman & Wakefield is an equal opportunity / affirmative action employer. All qualified candidates will receive consideration for employment without regard to ethnicity, gender, gender identity or expression, sexual orientation, age, disability, religion, marital status, or any other legally protected characteristic. Cushman & Wakefield is committed to equity in employment, and our goal is to have a diverse, inclusive and barrier-free workplace. If you are a person with a disability and need any other accessible accommodations during the hiring process, you are invited to bring this to the Talent Acquisition Advisor’s attention once they have made contact.
+INCO: “Cushman & Wakefield”

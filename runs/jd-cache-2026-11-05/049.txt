@@ -1,0 +1,42 @@
+URL: https://www.linkedin.com/jobs/view/4485599013
+TITLE: Praktikum im Bereich Analyse, Methoden und Digitalisierung der Konjunktur-, Preis- und Immobilienmarktstatistiken
+COMPANY: Deutsche Bundesbank
+LOC: Frankfurt am Main, Hesse, Germany
+POSTED: 2026-11-05
+title: Praktikum im Bereich Analyse, Methoden und Digitalisierung der Konjunktur-, Preis- und Immobilienmarktstatistiken
+company: Deutsche Bundesbank
+posted: 22 minutes ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikum-im-bereich-analyse-methoden-und-digitalisierung-der-konjunktur-preis-und-immobilienmarktstatistiken-at-deutsche-bundesbank-4485599013&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Arbeit von besonderem Wert: Dein Einsatz bei unsArbeit von besonderem Wert: Dein Einsatz bei uns 
+ Du bekommst einen Einblick in die Arbeit einer/eines Data Scientist im Bereich realwirtschaftlicher Statistiken.
+ Du kannst Deine Fähigkeiten und Kenntnisse von Programmiersprachen (Python, R) anwenden und erweitern.
+ Du wirkst bei der Anbindung neuer Datenquellen (z. B. Web Scraping) oder bei der Optimierung von Datenverarbeitungsstrecken und DQM-Prozessen (Outlier Detection, Machine Learning, Visualisierung, Dashboard-/GUI-Entwicklung) mit.
+ Du unterstützt uns bei der Migration unserer Anwendungen in die Cloud.
+ Besondere Werte: Deine QualifikationenBesondere Werte: Deine Qualifikationen 
+ Studierende der (Wirtschafts-)Informatik/Mathematik, Physik, Wirtschaftswissenschaften oder Data Science
+ Mindestens im 4. Fachsemester
+ Aktueller Notendurchschnitt: 2,5 oder besser
+ Darüber hinaus wünschenswert:
+ Sehr gute Kenntnisse in Python oder R für Datenverarbeitung und -aufbereitung sowie DQM
+ Gute statistische und volkswirtschaftliche Kenntnisse
+ Gute Kenntnisse in Cloud-Infrastrukturen und Container-Technologien
+ Kooperationsfähigkeit und hohe Bereitschaft zur selbstständigen Einarbeitung in neue Themenbereiche
+ Wertvolle Arbeit verdient besondere Vorteile
+ Vergütung & Perspektiven
+abwechslungsreiche Aufgaben, zielgerichtete Einarbeitung
+New Work
+Homeoffice-Möglichkeiten innerhalb von Deutschland, gute technische Ausstattung (z.B. Smartphone, Notebook), ergonomische Arbeitsplätze, Feedback-Kultur, kollegiale und wertschätzende Arbeitsatmosphäre, flexible und planbare Arbeitszeiten
+Zusatzleistungen
+gute Verkehrsanbindung (Bus und Bahn), zentrale Lage, Betriebsrestaurant
+ Willst Du unser Team bereichern?
+ Dann sind wir schon sehr gespannt auf Deine Bewerbung. Falls Du im Voraus noch Fragen hast, wende Dich einfach an die zuständige Ansprechperson.
+Deine Fragen zur Bewerbung:
+praktikum@bundesbank.de
+Deine Fragen zum Aufgabengebiet:
+ Stefan Albert
+ 069 9566-11981
+stefan.albert@bundesbank.de
+Vielfalt und Chancengleichheit sind uns wichtig. Schwerbehinderte Menschen werden bei gleicher Eignung bevorzugt berücksichtigt. Auch fördert die Deutsche Bundesbank die berufliche Gleichstellung von Frauen und Männern insbesondere bei der Besetzung von Führungspositionen. Daher begrüßen wir besonders Bewerbungen von Frauen.
+Jetzt bewerben: https://jobportal.bundesbank.de/index.php?ac=application&jobad_id=213

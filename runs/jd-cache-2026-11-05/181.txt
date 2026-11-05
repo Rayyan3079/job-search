@@ -1,0 +1,25 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-m-w-d-im-Bereich-Innovations-KI-Machine-Learning-auf-Embedded-Systems-Rietheim-Weilheim-Marquardt-GmbH--14716464-inline.html
+TITLE: Werkstudent (m/w/d) im Bereich Innovations - KI & Machine Learning auf Embedded Systems
+COMPANY: Marquardt GmbH
+LOC: Rietheim-Weilheim
+POSTED: stepstone
+title: Werkstudent (m/w/d) im Bereich Innovations - KI & Machine Learning auf Embedded Systems
+company: Marquardt GmbH
+posted: 2026-11-04T15:38:55.857Z
+location: Rietheim-Weilheim | remote: 
+---
+Einleitung
+ Noch nie von Marquardt gehört? Macht nichts – unsere Technik begegnet Ihnen trotzdem täglich: ob im Auto, in der Kaffeemaschine oder im Akkuschrauber. Als echter Hidden Champion entwickeln wir Mechatronik, ohne die moderne Produkte einfach nicht laufen würden. Möglich machen das rund 10.000 großartige Menschen weltweit – mit Ideen, Herz und Humor.
+ Was dich erwartet
+ KI & Machine Learning auf Embedded Systems - Produktverbesserung durch Edge AI
+ Recherche und Auswahl geeigneter ML-Methoden und Frameworks für Embedded-Anwendungen (z. B. TensorFlow Lite, Edge Impulse, CMSIS-NN)
+ Aufnahme und Aufbereitung von Sensordaten aus Marquardt-Produkten als Trainingsgrundlage
+ Training, Optimierung und Quantisierung eines ML-Modells für den Einsatz auf einem Mikrocontroller
+ Integration und Validierung des Modells auf einer Embedded-Zielplattform (z. B. STM32, NXP, o. ä.)
+ Bewertung der Leistungsfähigkeit (Latenz, Ressourcenverbrauch, Genauigkeit) und Ableitung von Handlungsempfehlungen für die Serienentwicklung
+ Du bringst mit
+ Studium im Bereich Elektrotechnik, Informatik, Mechatronik oder vergleichbarer Studiengang mit Schwerpunkt Embedded Systems oder Künstliche Intelligenz
+ Erste praktische Erfahrungen mit Mikrocontroller-Programmierung sowie Grundkenntnisse in Python und gängigen ML-Bibliotheken (TensorFlow, PyTorch o. ä.)
+ Analytische, strukturierte Arbeitsweise sowie Interesse daran, Theorie und Praxis an der Schnittstelle von Hardware und Intelligenz zu verbinden
+ Wir bieten
+ Start: Sommersemester 2027

@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Working Student – PMO & Project Assistance",
+    "company": "Vattenfall",
+    "city": "Hamburg",
+    "greeting": "Dear Ms Parsons,",
+    "opening": "I am applying for the Working Student position in PMO & Project Assistance. Keeping projects organised, preparing clear reports in Excel and PowerPoint and supporting decisions with data is what I did in my previous roles, and I would like to bring it to the energy transition.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau, enrolled in Germany, with four SAP Certified Associate certifications. I worked as a Business Analyst at Tapal Tea and in SAP data and analytics at TallyMarks Consulting.",
+    "achievements": [
+      {
+        "lead": "Project work",
+        "impact": "I was part of a team migrating 42 dashboards from SAP BW to SAP Datasphere and owned one dashboard end to end"
+      },
+      {
+        "lead": "Reporting",
+        "impact": "I translated business requirements into KPI reporting and documented sources and calculations for every dashboard I built"
+      },
+      {
+        "lead": "Stakeholders",
+        "impact": "I handled daily user queries for around 30 dashboards and prepared and presented a client presentation"
+      }
+    ],
+    "problems_section": "I would support project planning and tracking, prepare reports and presentations, and help improve the team's ways of working, also with AI tools. My Power BI is basic, but I build dashboards and reports quickly.",
+    "closing": "I am willing to relocate to Hamburg and can work up to 20 hours per week during the semester and more during breaks within my permit, for the full contract period, starting immediately. I would be glad to discuss the role.",
+    "date": "2026-11-05",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-11-05/vattenfall-working-student-pmo-project-assistance/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

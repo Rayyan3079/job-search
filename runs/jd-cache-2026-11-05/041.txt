@@ -1,0 +1,74 @@
+URL: https://www.linkedin.com/jobs/view/4481898882
+TITLE: Product Data Specialist (m/w/d)
+COMPANY: Cannaleo Digital GmbH
+LOC: Germany
+POSTED: 2026-10-27
+title: Product Data Specialist (m/w/d)
+company: Cannaleo Digital GmbH
+posted: 1 week ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+Über Cannaleo Digital 
+ Wir gehören zu den führenden Softwareanbietern im Bereich Medizinalcannabis. Über 400 Apotheken nutzen bereits unsere Lösungen und mehr als 3 Millionen Bestellungen wurden über unsere Systeme verarbeitet. Wir entwickeln digitale Produkte für Apotheken, Ärzt:innen, Großhändler und weitere Partner und gestalten damit die digitale Zukunft der Medizinalcannabis-Versorgung. 
+ Über die Rolle 
+ Du bist die zentrale Schnittstelle für alle Produktanlagen bei Cannaleo. Anfragen kommen von Apotheken, Großhändlern, Herstellern und weiteren Geschäftspartnern sowie aus dem eigenen Unternehmen – und alle laufen über dich. 
+ Du stellst sicher, dass für jedes Produkt alle relevanten Daten vollständig, korrekt und rechtssicher vorliegen. Was öffentlich oder in Fachdatenbanken verfügbar ist, recherchierst du selbst. Was fehlt, forderst du gezielt bei Herstellern und Partnern an. Bevor ein Produkt gelistet wird, prüfst du, unter welchen Voraussetzungen das möglich ist und was dabei zu beachten ist. 
+ Dabei arbeitest du nicht nur im Prozess, sondern am Prozess: Du gestaltest mit, wie Produktanlage bei uns funktioniert, und entwickelst den Ablauf kontinuierlich weiter – schneller, verlässlicher und skalierbarer. Du arbeitest im Support-Team und eng mit der Fachkooperation und dem Product Engineering zusammen. 
+ Deine Aufgaben 
+ Anfragemanagement und Datenbeschaffung 
+ Du nimmst Anlageanfragen von Apotheken, Großhändlern, Herstellern und weiteren Partnern sowie aus dem Unternehmen entgegen, priorisierst sie und bist erste Ansprechperson bei Rückfragen 
+ Du prüfst jede Anfrage auf Vollständigkeit und ermittelst, welche Daten und Nachweise für die Anlage noch fehlen 
+ Du recherchierst verfügbare Informationen selbst (z. B. in Fachdatenbanken, Herstellerunterlagen und offiziellen Quellen) 
+ Du forderst fehlende Daten, Dokumente und Freigaben gezielt bei Herstellern und Partnern an und hakst nach, bis alles vorliegt 
+ Du behältst den Überblick über alle offenen Anfragen und hältst die Anfragenden über den Status auf dem Laufenden 
+ Prozessgestaltung und kontinuierliche Optimierung 
+ Du verantwortest den End-to-End-Prozess der Produktanlage – von der Anfrage bis zur Listung – und entwickelst ihn kontinuierlich weiter 
+ Du analysierst, wo Anfragen hängen bleiben, Daten fehlen oder Fehler entstehen, und leitest daraus konkrete Verbesserungen ab 
+ Du definierst, welche Daten Partner bei einer Anfrage mitliefern müssen, und gestaltest Formulare, Vorlagen und Anforderungslisten für Apotheken, Großhändler und Hersteller 
+ Du standardisierst wiederkehrende Abläufe (Checklisten, Entscheidungsbäume, Eskalationswege) 
+ Du treibst gemeinsam mit dem Product Engineering die Automatisierung des Produktimports voran (Importschnittstellen, Datenfeeds, Validierungsregeln) 
+ Regulatorische Prüfung vor jeder Listung 
+ Du prüfst, unter welchen Voraussetzungen ein Produkt gelistet werden kann und welche Kennzeichnungs- und Hinweispflichten gelten (z. B. Zulassung, Apotheken- und Verschreibungspflicht, Pflichtangaben, Werberestriktionen nach HWG) 
+ Du dokumentierst jede Prüfung nachvollziehbar und klärst unklare Fälle auf dem kurzen Dienstweg mit der Fachkooperation bzw. Regulatory/Legal 
+ Du begleitest das Onboarding neuer Produktgruppen inklusive der rechtlichen Anforderungen 
+ Product Information Management 
+ Du verantwortest die Qualität unserer Produktdaten: Du legst neue Produkte in der Datenbank an und pflegst sie (Stammdaten, Packungsgrößen, Wirkstoffe, PZN/EAN usw.), bereinigst Bestandsdaten und vermeidest Dubletten 
+ Du entwickelst die Standards für die Produktanlage mit (Datenmodell, Pflichtfelder, Namenskonventionen) und sorgst dafür, dass sie im Unternehmen konsequent angewendet werden 
+ Du pflegst Produktfotos, Beschreibungstexte und Attribute aus verlässlichen Quellen und prüfst Rechte und Qualität 
+ Du strukturierst die Kategorien im Onlineshop 
+ Support-Team 
+ Du unterstützt das Support-Team im Backline-Bereich und gibst dein Produktwissen weiter 
+ Dein Profil 
+ Das bringst du mit 
+ Ausbildung, Studium oder vergleichbare Erfahrung im Gesundheitswesen (z. B. PTA, PKA, Pharmazie, Apotheke) oder im technisch-datenorientierten Bereich (z. B. Wirtschaftsinformatik, E-Commerce, IT) 
+ Erfahrung im Product Information Management oder in der Stammdatenpflege, z. B. bei Shop-Kategorien, Standards für die Produktanlage oder Produktimporten 
+ Prozessdenken: Du erkennst Ineffizienzen und hast Freude daran, Abläufe zu gestalten und zu verbessern 
+ Kommunikationsstärke und Hartnäckigkeit im Umgang mit externen Partnern: Du holst fehlende Informationen zuverlässig ein 
+ Verständnis für Arzneimittelstammdaten und Identifikatoren (PZN, EAN, ATC) sowie Grundkenntnisse im Arzneimittel- und Heilmittelwerberecht, oder die Bereitschaft, dich schnell einzuarbeiten 
+ Sicherer Umgang mit Datenmodellen und Systemen wie Strapi, Headless-CMS oder PIM 
+ Sehr gute Deutsch- und gute Englischkenntnisse 
+ Von Vorteil 
+ Erfahrung in der Recherche in Fachdatenbanken und offiziellen Quellen 
+ Erfahrung im Umgang mit Herstellern oder dem Pharmagroßhandel 
+ Grundverständnis für Medizinalcannabis 
+ Erfahrung mit KI-gestützten Workflows (verantwortungsvoll und datenschutzkonform) 
+ Was uns wichtig ist 
+ Genauigkeit vor Geschwindigkeit: Fehler bei Arzneimitteldaten können reale Folgen haben 
+ Ständige Verbesserung: Kein Prozess ist fertig. Du hinterfragst Bestehendes und machst ihn mit jeder Anfrage ein Stück besser 
+ Eigenverantwortung mit Augenmaß: Du weißt, wann du selbst entscheidest und wann du eskalierst 
+ Strukturiertes Denken: Du verwandelst viele Anfragen in saubere, wiederholbare Prozesse 
+ Wir bieten 
+ Innovatives Umfeld: Wir entwickeln Softwarelösungen, die die digitale Healthcare- und Cannabis-Branche voranbringen. 
+ Vielfältige Projekte: Abwechslungsreiche Aufgaben, spannende Herausforderungen und viel Gestaltungsspielraum statt Routine. 
+ Flache Hierarchien: Offene Kommunikation, kurze Entscheidungswege und Zusammenarbeit auf Augenhöhe. 
+ 30 Tage Urlaub: Für deine Erholung und neue Energie. 
+ Corporate Benefits: Exklusive Vergünstigungen bei zahlreichen Partnern. 
+ Flexible Arbeitszeiten: Gestalte deine Arbeitszeit flexibel und passend zu deinem Alltag. 
+ Feedback & Entwicklung: Regelmäßige Gespräche und konkrete Möglichkeiten für deine persönliche und berufliche Weiterentwicklung. 
+ Strukturiertes People Onboarding: Ein persönlicher und gut organisierter Start mit klaren Abläufen und festen Ansprechpartnern. 
+ Verantwortung & Gestaltungsspielraum: Übernimm Verantwortung und bringe deine Ideen aktiv ein. 
+ Digitale Healthcare-Lösungen: Gestalte gemeinsam mit uns innovative Produkte und Lösungen für die Healthcare-Branche. 
+ Warum Cannaleo? 
+ Bei Cannaleo arbeitest du in einem Umfeld, in dem du etwas bewegen kannst. Du übernimmst Verantwortung für zentrale Projekte und trägst direkt dazu bei, medizinisches Cannabis für mehr Menschen zugänglich zu machen. Du hast Lust auf ein wachsendes Unternehmen und willst komplexe Projekte mit Struktur und Ownership voranbringen? Dann bewirb dich bei uns. 
+ Dann freuen wir uns auf deine Bewerbung!

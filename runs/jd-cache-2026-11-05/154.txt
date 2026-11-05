@@ -1,0 +1,50 @@
+URL: https://www.linkedin.com/jobs/view/4485456771
+TITLE: Studentische Hilfskraft (m/w/d) - Reinforcement Learning für zweibeinigen Outdoor-Roboter auf Rädern
+COMPANY: Fraunhofer IPA
+LOC: Stuttgart, Baden-Württemberg, Germany
+POSTED: 2026-11-02
+title: Studentische Hilfskraft (m/w/d) - Reinforcement Learning für zweibeinigen Outdoor-Roboter auf Rädern
+company: Fraunhofer IPA
+posted: 2 days ago
+applicants: 40 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fstudentische-hilfskraft-m-w-d-reinforcement-learning-f%25C3%25BCr-zweibeinigen-outdoor-roboter-auf-r%25C3%25A4dern-at-fraunhofer-ipa-4485456771&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Ausschreibung für die Fachrichtung wie z. B.: Automatisierungstechnik, Kybernetik, Mechatronik, Regelungstechnik oder vergleichbare.
+Radbasierte, zweibeinige Roboter (wheeled bipedal robots) verbinden die Vorteile beinbasierter Systeme mit der Effizienz radgetriebener Fortbewegung. Ihre Regelung in realen Umgebungen ist anspruchsvoll: hochdimensionale Dynamik, nichtlineare Kontaktvorgänge und stark wechselnde Untergründe. Reinforcement Learning (RL) ist ein vielversprechender Weg zu adaptiven und robusten Regelstrategien. Ein Training auf der realen Hardware ist jedoch meist unpraktikabel und nicht sicher. Realistische Simulationsumgebungen sind daher essenziell. Wie gut sich eine gelernte Policy auf den echten Roboter übertragen lässt, hängt davon ab, wie genau die Simulation Kontakt, Aktuierung und Sensorik abbildet.
+In der Forschungsgruppe „Kognitive Robotik“ entwickeln wir autonome Outdoor-Roboter auf rad-, ketten- und hybridbasierten Plattformen, darunter unsere Kettenplattform CURTtrac und unseren zweibeinigen Roboter auf Rädern BiBiRob. Unsere Arbeit reicht von der ersten Konzeptidee über die Konstruktion bis zum Aufbau und Test von Prototypen in realen Einsatzumgebungen.
+ Hier sorgen Sie für Veränderung
+ Je nach Ihrem Hintergrund und Ihren Interessen stimmen wir Ihre Aufgaben gemeinsam ab. Mögliche Tätigkeiten sind:
+ Unterstützung beim Aufbau und der Pflege von Simulationsumgebungen für einen radbasierten, zweibeinigen Roboter in NVIDIA Isaac Lab
+ Mitarbeit bei Implementierung, Training und Auswertung von RL-Policies für hybride Lokomotionsaufgaben (z. B. Moduswechsel, Balancieren auf unebenem Untergrund)
+ Durchführung von Trainingsläufen auf unseren GPU-Ressourcen, Logging, Visualisierung und Aufbereitung der Ergebnisse
+ Unterstützung bei Sim-to-Real-Experimenten (z. B. Domain Randomization, Aktuatormodellierung) sowie bei Tests und Messungen mit unserem Roboter BiBiRob
+ Literaturrecherche zum Stand der Technik sowie Dokumentation von Code und Ergebnissen 
+ Hiermit bringen Sie sich ein 
+ Voraussetzungen:
+ Sichere Programmierkenntnisse in Python 
+ Grundkenntnisse im Bereich Reinforcement Learning 
+ Überdurchschnittliche Studienleistungen oder einschlägige Vorerfahrung aus eigenen Projekten 
+ Interesse an praktischer Arbeit mit Roboterhardware
+ Analytisches Denken sowie eine selbstständige und strukturierte Arbeitsweise 
+ Gültige Immatrikulation an einer Hochschule oder Universität in Deutschland/innerhalb der EU 
+ Präsenz an unserem Standort direkt am Campus der Universität Stuttgart 
+ Von Vorteil:
+ Erfahrung mit Physik-Engines (z.B. MuJoCo)
+ Erfahrung mit NVIDIA Isaac Lab 
+ Erfahrung mit ROS 2 
+ Was wir für Sie bereithalten
+ Praktische Arbeit mit unserem selbstentwickelten zweibeinigen Roboter auf Rädern
+ Leistungsfähige GPU-Ressourcen für Trainingsläufe 
+ Möglichkeit, Erfahrung in der Entwicklung von Robotersystemen für den Außeneinsatz zu sammeln und Verantwortung zu übernehmen, um eigene Ideen umzusetzen 
+ Einbindung in unser Entwicklerteam und Zusammenarbeit mit Studierenden und Mitarbeitenden aus Informatik, Elektrotechnik und Maschinenbau 
+ Die Vergütung erfolgt je nach Qualifikation.
+Wir wertschätzen und fördern die Vielfalt der Kompetenzen unserer Mitarbeitenden und begrüßen daher alle Bewerbungen – unabhängig von Alter, Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion, Weltanschauung, Behinderung sowie sexueller Orientierung und Identität. Schwerbehinderte Menschen werden bei gleicher Eignung bevorzugt eingestellt. Unsere Aufgaben sind vielfältig und anpassbar – für Bewerber*innen mit Behinderung finden wir gemeinsam Lösungen, die ihre Fähigkeiten optimal fördern.
+Mit ihrer Fokussierung auf zukunftsrelevante Schlüsseltechnologien sowie auf die Verwertung der Ergebnisse in Wirtschaft und Industrie spielt die Fraunhofer-Gesellschaft eine zentrale Rolle im Innovationsprozess. Als Wegweiser und Impulsgeber für innovative Entwicklungen und wissenschaftliche Exzellenz wirkt sie mit an der Gestaltung unserer Gesellschaft und unserer Zukunft.
+ Bereit für Veränderung? Dann bewerben Sie sich jetzt, und machen Sie einen Unterschied! Nach Eingang Ihrer Online-Bewerbung erhalten Sie eine automatische Empfangsbestätigung. Dann melden wir uns schnellstmöglich und sagen Ihnen, wie es weitergeht.
+ Frau Jennifer Leppich
+Recruiting
+Tel. +49 711 970-1415
+jennifer.leppich@ipa.fraunhofer.de
+Fraunhofer-Institut für Produktionstechnik und Automatisierung IPA
+www.ipa.fraunhofer.de
+Kennziffer: 86097 Bewerbungsfrist:

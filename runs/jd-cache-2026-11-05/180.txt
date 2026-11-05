@@ -1,0 +1,30 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-Machine-Learning-datenbasierte-Prozessmodellierung-m-w-x-Oberkochen-bei-Ulm-ZEISS--14716041-inline.html
+TITLE: Werkstudent - Machine Learning & datenbasierte Prozessmodellierung (m/w/x)
+COMPANY: ZEISS
+LOC: Oberkochen (bei Ulm)
+POSTED: stepstone
+title: Werkstudent - Machine Learning & datenbasierte Prozessmodellierung (m/w/x)
+company: ZEISS
+posted: 2026-11-04T14:10:38.437Z
+location: Oberkochen | remote: 
+---
+Als Student arbeitest Du mit Deinen Kolleginnen und Kollegen auf Augenhöhe und schaffst ideale Voraussetzungen für Deine spätere Karriere. Sich etwas Neues trauen, über sich hinauswachsen und dabei die Grenzen des Machbaren neu deﬁnieren. Genau das ist es, was unsere Mitarbeitenden täglich leben dürfen und sollen. Um mit unseren Innovationen das Tempo vorzugeben und Großartiges zu ermöglichen. Denn hinter jedem erfolgreichen Unternehmen stehen eine ganze Menge faszinierender Menschen. Die Mitarbeitenden von ZEISS arbeiten in einem offenen und modernen Umfeld mit zahlreichen Entwicklungs- und Weiterbildungsmöglichkeiten. Unsere Kultur ist geprägt von Expertenwissen und Teamgeist. All das wird getragen durch die besondere Eigentümerstruktur und das langfristige Ziel der Carl-Zeiss-Stiftung: Wissenschaft und Gesellschaft gemeinsam voranzubringen. Heute wagen. Morgen begeistern. Vielfalt ist ein Teil von ZEISS. Wir freuen uns unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion, Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität auf Ihre Bewerbung. Jetzt bewerben! In weniger als 10 Minuten.
+ Ihre Rolle
+ Bei uns hast Du die Möglichkeit, Studium und Praxis optimal miteinander zu verbinden und aktiv an spannenden Projekten mitzuarbeiten. So sammelst Du wertvolle Erfahrungen, baust Dein Netzwerk auf und entwickelst Dich sowohl fachlich als auch persönlich weiter. 
+ Analyse, Aufbereitung und Visualisierung von Daten aus Metallbearbeitungsprozessen
+ Untersuchung von Zusammenhängen zwischen Prozessgrößen und Bearbeitungsergebnis
+ Entwicklung und Vergleich von datengetriebenen und physik-informierten Modellen
+ Integration von physikalischem Prozesswissen in Machine-Learning-Ansätze
+ Anwendung und Bewertung von Methoden des Physics-Informed Machine Learning
+ Validierung der entwickelten Modelle anhand experimenteller Daten sowie die Ausarbeitung und Durchführung geeigneter Versuchsreihen auf dem Shopfloor
+ Strukturierte Dokumentation, Bewertung und Präsentation der Ergebnisse
+ Ihr Profil
+ Studium im Bereich Maschinenbau, Produktionstechnik, Mechatronik, Physik oder einer vergleichbaren Fachrichtung
+ Interesse an CNC-Metallbearbeitung, Prozessmodellierung und datengetriebenen Methoden
+ Gute Kenntnisse in Python und im Umgang mit Daten
+ Kenntnisse in Physics-Informed Machine Learning, Scientific Machine Learning, Simulation oder physikalischer Modellierung sind ein Plus
+ Gutes analytisches Verständnis und Freude daran, physikalische und datenbasierte Betrachtungsweisen miteinander zu verbinden
+ Strukturierte und selbstständige Arbeitsweise
+ Klingt spannend? Dann werde Teil von #teamZEISS und gestalte mit uns die Zukunft! Reiche uns hierfür bitte Deine vollständigen Bewerbungsunterlagen (Lebenslauf, Zeugnisse etc.) ein.
+ Kontakt
+Franziska Gansloser

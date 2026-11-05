@@ -1,0 +1,43 @@
+URL: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003960949-S
+TITLE: Werkstudent (w/m/d) - Security Tooling / 1671
+COMPANY: IONOS SE
+LOC: Berlin
+POSTED: AA
+title: Werkstudent (w/m/d) - Security Tooling / 1671
+company: IONOS SE
+posted: 2026-11-04
+location: Berlin | remote: 
+---
+Über IONOS
+Bei IONOS verwalten wir nicht nur Server, wir prägen mit unseren Lösungen die digitale Zukunft für über 6,2 Millionen Kundinnen und Kunden weltweit. Als Europas führender Hosting-Anbieter und Pionier für unabhängige Cloud-Lösungen bauen wir eine Infrastruktur der nächsten Generation: von souveränen Cloud-Architekturen und hochperformanten GPU-Clustern bis hin zu integrierten KI-Automatisierungstools. 
+Was uns antreibt: Digitale Entscheidungsfreiheit für Europa und echter Impact für kleine und mittlere Unternehmen (KMU) sowie Großunternehmen. Wir arbeiten in agilen Teams, setzen auf transparente Strukturen und glauben daran, dass Exzellenz und Innovation nur mit echtem Teamgeist entstehen. 
+Bereit für Deinen nächsten Schritt? Werde ein Teil von IONOS und wachse mit uns.
+Unsere Sicherheitswerkzeuge scannen kontinuierlich Anwendungscode und aktive Services und führen alle Ergebnisse direkt in DefectDojo zusammen. Damit diese Pipeline stets zuverlässig läuft, suchen wir einen engagierten Werkstudenten (w/m/d) Security Tooling, der fehlgeschlagene Scans neu anstößt, Schnittstellenprobleme behebt und doppelte Findings vermeidet. Die Rolle hat einen klar definierten operativen Rahmen, der sich an praxiserprobten Runbooks orientiert. Du erhältst eine feste Mentorin bzw. einen festen Mentor aus unserem Security-Engineering-Team sowie eine separate Testumgebung, in der Du gefahrlos experimentieren kannst, ohne Produktivsysteme zu gefährden.
+Aufgabenbereich
+Betrieb und Überwachung unserer Security-Tooling-Landschaft, insbesondere DefectDojo sowie integrierte SAST- und DAST-Scanner.
+Neustart fehlgeschlagener automatisierter Scans, Analyse von Logdateien und Eingrenzen naheliegender Fehlerursachen.
+Instandhaltung und Testen von Schnittstellen und Tool-Integrationen: REST-APIs, Webhooks, Daten-Importer und Ticket-Synchronisation.
+Einspielen von Updates und Konfigurationsänderungen – stets zuerst auf der Testumgebung validiert.
+Aktualisierung von Runbooks, Dokumentation bekannter Probleme (Known Issues) und Tool-Anleitungen.
+Strukturierte Übergabe wiederkehrender technischer Störungen an das Security Engineering inklusive des benötigten Diagnosekontexts.
+Qualifikationen
+Du arbeitest strukturiert entlang bestehender Runbooks, kommunizierst transparent und fragst im Zweifel lieber einmal mehr nach, statt zu raten. 
+Immatrikuliert in einem Studiengang mit IT-Schwerpunkt über die gesamte Dauer der Anstellung.
+Grundkenntnisse in Linux-Umgebungen und Container-Konzepten sowie die Fähigkeit, Systemlogs zu lesen und auszuwerten.
+Fundierte Scripting-Kenntnisse in Python oder Bash sowie praktischer Umgang mit Git.
+Grundlegendes Verständnis von REST-APIs, JSON und YAML.
+Sorgfalt beim Befolgen von Runbooks sowie bei der lückenlosen Dokumentation durchgeführter Änderungen.
+Klare schriftliche Kommunikation für Übergaben und Zwischenstände.
+Erste praktische Berührungspunkte mit Cybersicherheit (z. B. aus dem Studium, CTF-Challenges oder eigenen Projekten) sind von Vorteil.
+Verhandlungssichere Deutschkenntnisse (mindestens CEFR C1) und fließendes Englisch in Wort und Schrift.
+Benefits
+Hybrides Arbeitsmodell.
+Flexible Arbeitszeiten durch Vertrauensarbeitszeit.
+An einigen Standorten eine bezuschusste Kantine und verschiedene kostenfreie Getränke.
+Moderne Büroflächen mit sehr guter Verkehrsanbindung.
+Diverse Mitarbeiterrabatte für Aktivitäten und Produkte.
+Mitarbeiterevents wie Sommer- und Winterfeiern, sowie Workshops.
+Zahlreiche Weiterbildungs- und Entwicklungsmöglichkeiten.
+Verschiedene Gesundheitsangebote, wie Sport- und Gesundheitskurse.
+Hinweis zur Bewerbung
+Wir wertschätzen Vielfalt und begrüßen alle Bewerbungen – unabhängig von z. B. Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion, Behinderung, Alter sowie sexueller Orientierung und Identität, körperlichen Merkmalen, Familienstand oder einem anderen sachfremden Kriterium nach geltendem Recht.

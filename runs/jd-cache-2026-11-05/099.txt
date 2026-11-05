@@ -1,0 +1,38 @@
+URL: https://www.linkedin.com/jobs/view/4484679058
+TITLE: Werkstudent/in Vertrieb & AI
+COMPANY: Ankercloud
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-11-03
+title: Werkstudent/in Vertrieb & AI
+company: Ankercloud
+posted: 1 day ago
+applicants: 36 applicants
+apply_offsite: 
+---
+Ankercloud ist ein internationaler AI-first Build Partner mit Hauptsitz in Berlin, Teams in Indien und den USA und mehr als 140 Kolleginnen weltweit. Was uns antreibt, ist die Frage, wie Unternehmen, vom Mittelständler bis zum internationalen Konzern, so aufgestellt werden können, dass KI-Agenten wirklich Wirkung entfalten. Und das beginnt weit vor dem ersten Agenten: bei der Frage, ob die Daten überhaupt zugänglich und strukturiert genug sind, ob die Ontologie stimmt, ob Governance-Strukturen vorhanden sind und ob die Organisation bereit ist, diese Art von Automatisierung auch wirklich zu tragen. 
+ Genau das begleiten wir, von der Infrastruktur und dem Datenlayer über die konzeptionelle Arbeit an Daten- und Organisationsreife bis hin zum Aufbau maßgeschneiderter Agenten auf AgentForge, unserer eigenen Plattform für agentenbasierte Automatisierung. 
+ Für unser deutschsprachiges Sales-Team in Berlin suchen wir einen Werkstudenten (m/w/d), der Vertrieb und AI-Praxis miteinander verbinden möchte. Du lernst die Vertriebsprozesse im deutschen Mittelstand kennen und arbeitest gleichzeitig mit AgentForge, unserer Enterprise-AI-Plattform. Dabei baust du erste Agenten für interne und externe Anwendungsfälle und unterstützt uns bei konkreten Kundenprojekten. Du arbeitest eng mit unserem Sales- und Cloud-Team zusammen und bekommst einen realistischen, praxisnahen Einblick, wie AI-Projekte entstehen und wie wir gemeinsam mit unseren Kunden arbeiten.
+ Aufgaben 
+ Du unterstützt unser Sales-Team bei der Identifikation und Qualifizierung von Leads, pflegst die Pipeline im CRM und hilfst dabei, Opportunities strukturiert weiterzuentwickeln
+ Du recherchierst potenzielle Kunden im industriellen Mittelstand, analysierst Marktsegmente im DACH-Raum und bereitest die Erkenntnisse so auf, dass sie direkt im Sales-Prozess nutzbar sind
+ Du erstellst und aktualisierst Vertriebsunterlagen, Präsentationen und Angebote auf Deutsch, immer mit Blick darauf, wie wir Kunden helfen, wirklich AI-bereit zu werden 
+ Du unterstützt die Kommunikation mit potenziellen und bestehenden Kunden: Follow-ups, Terminkoordination, Gesprächsdokumentation
+ Du baust eigenständig KI-Agenten auf AgentForge, sowohl für interne Zwecke als auch als Vorbereitung für Kundenprojekte, und lernst dabei, wie sich Geschäftsprozesse in agentenbasierte Logik übersetzen lassen
+ Du arbeitest an der Schnittstelle zwischen Sales, Pre-Sales und Engineering, zum Beispiel wenn es darum geht, erste Lösungsideen für Kundenanfragen zu skizzieren, Use Cases zu beschreiben oder technische Inhalte verständlich auf Deutsch aufzubereiten 
+ Du unterstützt bei der Vorbereitung von Discovery-Gesprächen und POC-Unterlagen, etwa wenn wir gemeinsam mit einem Kunden den Einstieg in ein AgentForge-Projekt planen
+ Qualifikation 
+ Du studierst Wirtschaftswissenschaften, Informatik, Ingenieurwesen oder etwas Ähnliches und bist aktiv eingeschrieben
+ Du hast erste Erfahrungen im Vertrieb, Kundenkontakt oder kaufmännischen Bereich, ob durch ein Praktikum, einen Nebenjob oder eigenes Engagement
+ Dein Deutsch ist sehr gut in Wort und Schrift; gutes Englisch ist ein Plus, da wir intern international arbeiten
+ Du bist neugierig auf KI und hast Lust, dich hands-on damit auseinanderzusetzen, du musst kein Entwickler sein, aber du solltest keine Berührungsangst haben, wenn es darum geht, Agenten auf AgentForge zu konfigurieren oder mit technischen Kollegen zusammenzuarbeiten 
+ Erfahrung mit KI-Tools, Automatisierungsplattformen oder No-Code-/Low-Code-Umgebungen ist ein echtes Plus
+ Du arbeitest gerne eigenständig, organisierst dich gut und verlierst auch ohne enge Anleitung nicht den Überblick
+ Du bist kommunikationsstark, bringst eigene Ideen ein und suchst bei Herausforderungen aktiv nach Lösungen
+ Sicherer Umgang mit MS Office, insbesondere PowerPoint und Excel; Erfahrung mit CRM-Systemen ist willkommen, aber kein Muss
+ Benefits 
+ Flexible Arbeitszeiten, die sich gut mit deinem Studium vereinbaren lassen, und die Möglichkeit, teilweise remote zu arbeiten (mit regelmäßigen Präsenztagen in unserem Berliner Büro)
+ Du arbeitest von Anfang an hands-on: nicht in Pseudo-Aufgaben, sondern an echten Vertriebsprozessen und realen Kundenprojekten im AI- und Cloud-Umfeld 
+ Du bekommst Zugang zu AgentForge und baust damit eigenständig Agenten, eine Erfahrung, die in den wenigsten Werkstudentenstellen möglich ist
+ Ein Team, das offen miteinander arbeitet, Eigenverantwortung ernst nimmt und dir Raum gibt, eigene Ideen einzubringen, also keine Praktikanten-Silos, sondern volle Zusammenarbeit
+ Einblick in ein internationales Unternehmen mit Teams in Deutschland, Indien und den USA und einem Kundenstamm, der vom deutschen Mittelstand bis zu globalen Unternehmen reicht 
+ Eine faire Vergütung und die Möglichkeit, mit Ankercloud zu wachsen, ob als Werkstudent über einen längeren Zeitraum oder als späterer Berufseinstieg

@@ -1,0 +1,52 @@
+URL: https://www.linkedin.com/jobs/view/4484646097
+TITLE: Werkstudent AI & Automation (m/w/d) n8n, Make, Zapier
+COMPANY: AdKochMarketing GmbH
+LOC: Hamburg, Hamburg, Germany
+POSTED: 2026-11-03
+title: Werkstudent AI & Automation (m/w/d) n8n, Make, Zapier
+company: AdKochMarketing GmbH
+posted: 1 day ago
+applicants: 76 applicants
+apply_offsite: 
+---
+Wir sind eine Recruiting- und Employer Branding Agentur im Gesundheits- und Sozialwesen.
+ Unser Fokus: Unternehmen dabei helfen, planbar qualifizierte Bewerbungen über digitale Kanäle zu generieren.
+ Dafür bauen wir intern Systeme und Prozesse die unsere Arbeitsabläufe verbessern und automatisieren.
+ Und genau dafür suchen wir dich.
+ Aufgaben 
+ Aufbau und Optimierung von Automationen mit Tools wie n8n, Make oder Zapier
+ Integration von AI in unsere Prozesse
+ Entwicklung von Datenpipelines (Scraping, Enrichment, Lead-Processing)
+ Aufbau und Pflege von Datenbanken (z. B. Airtable, Supabase)
+ Integration von APIs (z. B. CRM, Datenanbieter, externe Tools)
+ Weiterentwicklung unserer internen Systeme und Prozesse
+ Identifikation und Automatisierung manueller Abläufe
+ Dokumentation und Strukturierung unserer Systeme
+ Qualifikation 
+ Aktives Studium im Bereich Informatik, Wirtschaftsinformatik, Mathematik, Data Science, künstliche Intelligenz oder einem vergleichbaren technischen bzw. analytischen Studiengang 
+ Erste praktische Erfahrung mit No Code und Low Code Tools wie n8n, Make, Zapier oder vergleichbaren Plattformen
+ Erfahrung im Umgang mit KI Tools und Modellen wie OpenAI, ChatGPT API, Claude oder vergleichbaren Systemen
+ Grundverständnis von APIs, Datenstrukturen und automatisierten Workflows
+ Optional: Erfahrung in der Programmierung oder im Umgang mit Code
+ Sehr gutes logisches, analytisches und strukturiertes Denkvermögen
+ Ausgeprägte Fähigkeit, technische Herausforderungen eigenständig zu analysieren und Lösungen zu entwickeln
+ Schnelle Auffassungsgabe und eine hohe Umsetzungsgeschwindigkeit
+ Hands on Mentalität und Freude daran, neue Tools und Technologien selbstständig auszuprobieren
+ Benefits 
+ 🚀 Direkter Impact: Deine Automationen und Systeme beeinflussen direkt unseren gemeinsamen Erfolg
+ 🧠 Schnelle Lernkurve: Du arbeitest täglich mit n8n, APIs und AI (OpenAI, Claude) an echten Business-Problemen
+ 💸 Attraktive Vergütung: Deine Leistung und dein Impact spiegeln sich in deiner Vergütung wieder
+ ⚙️ Echte Verantwortung: Du baust nicht nur mit sonder du entwickelst und optimierst unsere internen Systeme aktiv weiter
+ 🎯 Fokus auf Umsetzung: Keine endlosen Meetings, bei uns zählt Geschwindigkeit und Ergebnis
+ 👥 Ambitioniertes Team: Du arbeitest mit Leuten, die wachsen wollen und liefern
+ 🚀 Stark wachsendes Unternehmen: Du bist früh dabei und gestaltest aktiv mit
+ 💻 Moderne Tools & Setup: n8n, Airtable, AI-Tools und alles, was du brauchst, um schnell umzusetzen
+ Wer wir sind: AdKochMarketing GmbH 
+ Wir sind eine spezialisierte Personalmarketing-Agentur aus Hamburg mit Fokus auf das Gesundheits- und Sozialwesen.
+ Unsere Mission ist klar: Wir helfen unseren Kunden, qualifizierte und passende Mitarbeitende zu gewinnen, schnell, effizient und digital.
+ ✅ Über 250 erfolgreiche Projekte in der DACH Region
+ ✅ Digitale Kundenbetreuung aus unserem Büro in Hamburg
+ ✅ Smarte Recruiting Strategien, die nachweislich funktionieren
+ ✅ Ein starkes Team mit echter Wachstumskultur
+ 📍 Standort: Spaldingstraße 218, 3. OG – nur 2 Minuten zu Fuß von der U-Bahn Station Berliner Tor
+ Bereit, mit uns zu wachsen? Dann bewirb dich jetzt.

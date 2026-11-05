@@ -1,0 +1,76 @@
+URL: https://www.linkedin.com/jobs/view/4484835152
+TITLE: Business Intelligence Developer
+COMPANY: PT. Indosat Tbk
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-10-30
+title: Business Intelligence Developer
+company: PT. Indosat Tbk
+posted: 5 days ago
+applicants: Over 200 applicants
+apply_offsite: 
+---
+Job Summary 
+ The Business Intelligence Analyst is responsible for designing, developing, and maintaining critical data pipelines, dashboards, and analytical solutions that support business operations across Sales, Operations, Finance, and Management teams. This role requires expertise in SQL-based data extraction and transformation, with additional capabilities in dashboard development using Power BI to deliver actionable insights to stakeholders.
+ Key Responsibilities 
+ Data Pipeline Development & Management
+ Design, develop, and maintain complex SQL-based data extraction scripts and ETL pipelines to support daily, weekly, monthly, and quarterly business reporting requirements
+ Create and manage data pipelines for key performance indicators (KPIs) across Sales, Retail Operations, Postpaid services, and Network domains
+ Develop and maintain datasets supporting operational dashboards, management reports, and strategic analysis including Master Trackers, Closing reports, and Territory Hierarchy updates
+ Ensure data quality, accuracy, and timely delivery of all data feeds meeting T+1 and end-of-month SLA requirements
+ Optimize SQL queries for performance and efficiency in handling large-scale data processing
+ Dashboard & Visualization Development
+ Design and develop interactive dashboards and reports using Power BI to visualize key business metrics for various stakeholders
+ Create and maintain dashboards for Postpaid, Retail, Prepaid, FTTH (Home Broadband), Trade operations, and Network KPIs
+ Develop specialized reporting solutions including Champion Club tracking, DSE (Direct Sales Executive) performance, Partner Cost & P&L, and Sales incentive dashboards
+ Collaborate with business users to understand requirements and translate them into effective visual analytics solutions
+ Data Analysis & Support
+ Respond to ad-hoc data requests from Sales, Operations, Finance, and Management teams with accurate and timely analysis
+ Perform data validation, reconciliation, and quality assurance to ensure data integrity across all reporting systems
+ Support business initiatives including churn forecasting, RGU (Revenue Generating Unit) analysis, customer segmentation, and A2P (Application-to-Person) traffic monitoring
+ Provide technical support and documentation for data-related processes and systems
+ Stakeholder Collaboration & Communication
+ Work closely with Circle teams, Sales teams (SPO), Operations, Finance, Network, and Management to understand data requirements and deliver solutions
+ Participate in requirements gathering sessions and provide technical expertise on data capabilities and limitations
+ Document technical specifications, data lineage, and business logic for all developed solutions
+ Train end-users on dashboard functionality and data interpretation when required
+ Required Qualifications
+ Education
+ Bachelor's degree in Computer Science, Information Systems, Statistics, Mathematics, Engineering, or related field
+ Experience
+ Minimum 2-3 years of experience in business intelligence, data analytics, or related role
+ Proven experience in developing and maintaining data pipelines in a production environment
+ Experience working with large datasets and complex data structures
+ Experience in telecommunications or similar industry is preferred
+ Technical Skills
+ Required (Must Have)
+ Advanced SQL proficiency: Expert-level ability to write complex SQL queries including joins, subqueries, window functions, CTEs (Common Table Expressions), and query optimization
+ Database knowledge: Strong understanding of relational database concepts, data modeling, and database performance tuning
+ Data transformation: Experience with ETL processes and data pipeline development
+ Data analysis: Strong analytical and problem-solving skills with attention to detail
+ Preferred (Highly Valued)
+ Power BI: Proficiency in creating interactive dashboards, reports, and data visualizations using Microsoft Power BI
+ DAX: Knowledge of DAX (Data Analysis Expressions) for creating calculated columns and measures
+ Experience with other BI tools such as Tableau, Qlik, or similar platforms
+ Knowledge of Python or R for data analysis and automation
+ Experience with cloud data platforms (e.g., Google BigQuery, AWS, Azure)
+ Version control systems (Git) experience
+ Key Competencies
+ Technical Excellence: Demonstrated expertise in SQL and data manipulation with a commitment to writing efficient, maintainable code
+ Attention to Detail: High degree of accuracy in data analysis and reporting with strong quality assurance mindset
+ Time Management: Ability to manage multiple concurrent projects and meet strict SLA deadlines (T+1, EOM)
+ Communication: Strong verbal and written communication skills to interact effectively with technical and non-technical stakeholders
+ Problem-Solving: Analytical thinking and ability to troubleshoot data-related issues independently
+ Adaptability: Flexibility to handle changing priorities and ad-hoc requests while maintaining quality standards
+ Collaboration: Team player who can work effectively in a cross-functional environment
+ Typical Work Examples
+ Examples of work responsibilities include, but are not limited to:
+ Creating and managing daily data pipelines for Postpaid and Retail KPI tracking with T+1 SLA
+ Developing Power BI dashboards for Sales performance monitoring across multiple channels
+ Building SQL scripts for Master Tracker (SSOT - Single Source of Truth) updates
+ Maintaining monthly reporting datasets for closing processes and financial reconciliation
+ Supporting FTTH (Home Broadband) analytics including installation, payment, and usage tracking
+ Generating automated email reports for CVM (Customer Value Management) campaigns and cohort analysis
+ Responding to ad-hoc data extraction requests from various business units
+ Updating territorial hierarchy and outlet mapping data for sales operations
+ Creating datasets for regulatory compliance reporting (e.g., MOCI quarterly reports)
+ Developing forecasting models for churn prediction and RGU movement analysis

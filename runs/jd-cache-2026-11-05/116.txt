@@ -1,0 +1,62 @@
+URL: https://www.linkedin.com/jobs/view/4479094376
+TITLE: Working Student / Intern GTM AI Growth Engineering (f/m/d)
+COMPANY: plancraft
+LOC: Hamburg, Hamburg, Germany
+POSTED: 2026-11-04
+title: Working Student / Intern GTM AI Growth Engineering (f/m/d)
+company: plancraft
+posted: 18 hours ago
+applicants: 121 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-intern-gtm-ai-growth-engineering-f-m-d-at-plancraft-4479094376&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+OUR PURPOSE AT PLANCRAFT
+ Building the backbone of European trades – together, with modern software and smart AI solutions.
+ We don’t just develop software – we’re on a mission to give tradespeople and contractors more room to focus on what matters. We do this by providing a practical SaaS solution that works the way they do: fast, efficient, and without unnecessary administrative overhead. Supported by smart AI features exactly where they make a real difference in everyday work.
+Backed by Tier 1 investors from Europe and the US such as Headline and Creandum, and with more than 30,000 craftspeople as our customer base, we are scaling across Europe to turn individual, scattered businesses into connected and successful communities.
+We believe in zero admin, not zero personality – and we build every feature with the people wearing safety boots in mind, not suits. We’re excited to shape the future together as a team, staying grounded in our mission to empower the builders and makers of tomorrow.
+ YOUR MISSION AT PLANCRAFT
+ As a Working Student / Intern GTM AI Growth Engineering , you build and launch AI-powered growth experiments that create new qualified demand for plancraft across Europe. From interactive calculators and landing pages to AI-powered tools, you turn ideas into live experiments, measure their impact on revenue, and scale what works. You help build an automated, intelligence-driven go-to-market engine that grows without adding manual work.
+ Your Responsibilities
+ Build and launch AI-powered acquisition experiments using tools like Lovable, Claude Code, and Cursor – from interactive calculators and landing pages to simple AI widgets.
+ Own the experiment pipeline – collect ideas, prioritize them by expected revenue impact and effort, and continuously prepare the next tests.
+ Measure what works – define clear hypotheses, set up tracking with GA4, Mixpanel, and HubSpot, and evaluate experiments based on qualified leads, pipeline, and conversion.
+ Automate lead generation – connect experiments to HubSpot, ensuring leads are captured, qualified, and routed with clean data and minimal manual effort.
+ Scale successful experiments internationally – adapt winning tools and campaigns for international markets like Italy, Spain, and the Netherlands.
+ Document learnings and share results – write concise experiment briefs, report outcomes transparently, and present your latest experiments in our weekly RevOps meeting.
+ Turn experiments into scalable solutions – hand over successful initiatives to the responsible teams and shut down unsuccessful tests efficiently.
+ Collaborate across Marketing, Sales, and RevOps to ensure experiments follow our brand, tracking, and data standards while generating actionable insights for future growth.
+ YOUR PROFILE
+ Must-haves:
+ You’re currently enrolled in a Bachelor's or Master's program (at least two semesters completed), ideally in Industrial Engineering, Business Information Systems, or a related technical or business-technical field.
+ You've already built and launched something independently – whether an app, website, automation, or side project. It doesn't need to be perfect, but it needs to work.
+ You're comfortable using at least one AI building tool such as Lovable, Claude, or Cursor and can understand basic HTML, JavaScript, and API documentation.
+ You understand the fundamentals of digital acquisition funnels and can connect an experiment hypothesis to a measurable outcome.
+ You take ownership from idea to execution, learn new tools independently, and prioritize shipping and learning over unnecessary perfection.
+ You communicate clearly, document your work concisely, and are comfortable sharing results openly – including experiments that didn't succeed.
+ You have fluent English communication skills, both written and spoken.
+ You're available for 16–20 hours per week during the semester and remain enrolled at university throughout your working student contract. For an internship, you can commit to at least four months, ideally six months.
+ You are based in Hamburg or willing to relocate to Hamburg for the duration of your internship or working student position.
+ Nice-to-haves:
+ Initial experience with GA4, Mixpanel, landing page optimization, SEO, copywriting, or conversion tracking.
+ Experience with automation tools like n8n or working with APIs.
+ Familiarity with HubSpot, Webflow, Figma, Linear, GitHub, Asana, or Claude Code.
+ Experience launching a project with real users – whether through a startup, university initiative, personal project, or public launch.
+ Interest in tradespeople, small businesses, and understanding how digital tools can improve their daily work.
+ German skills at C1 level or additional language skills in Italian, Spanish, Dutch, or Polish.
+ WHY PLANCRAFT?
+ Team Spirit: We’re driven by passion, commitment, and a shared mission. Team spirit matters to us — and we make it visible: with four major team event weeks per year, casual monthly on-site and remote formats, and a strong recognition culture where we regularly celebrate both the big and small wins together.
+ Ownership: You’re encouraged to take ownership from day one. In a flat hierarchy and high-trust environment, you’re empowered to make meaningful decisions and drive real impact.
+ Learning & Growth: We invest in your personal and professional development through a strong feedback culture with 6-monthly 360° growth reviews, a personal learning budget (1.500€/year), 2 paid days of educational leave, and targeted enablement formats. Our goal is to help you unlock your full potential.
+ AI Enablement: Our internal tools and workflows are AI-enabled by design. We support every team and individual in applying AI at the next level in their daily work.
+ Tech & Tooling: You’ll receive a MacBook, premium headphones, and everything else you need — from hardware to tools — to be effective in your daily doing.
+ Recharge: To ensure the needed rest, we offer 30 vacation days per year (based on a 5-day week) plus Dec 24th off. We also subsidize your Urban Sports Club membership and organize internal sport meetups.
+ Mobility: You can lease a "JobRad" (Bike) and get a subsidized "Deutschlandticket" or "BahnCard" for public transport to be supported in your commute.
+ International Environment: We’re becoming more international every month, with team members already in Italy, Spain, the Netherlands, and Austria — which is why English is our internal company language.
+ We’re #stoked to shape the future, #together as a team, and #humble in our mission to support the builders of tomorrow. For a first impression of us, take a look at our Instagram and LinkedIn page .
+ Diversity makes us better.
+ We welcome people of all backgrounds, identities, abilities, and experiences, and we believe that different perspectives lead to better ideas, stronger products, and a healthier workplace. If you’re excited about our mission but your experience doesn’t align perfectly with every requirement, we encourage you to apply anyway. You might be exactly who we’re looking for.
+______
+ On the application process
+ We want your candidate experience with us to be smooth, transparent, and enjoyable. We aim to get back to you regarding your application within 5 business days. Our interview process typically takes about 4 weeks from start to finish, though this may vary by role. You can learn more about our process here . If you need adjustments or flexibility at any stage, please don’t hesitate to let us know — we’ll do our best to make it work for you.
+ Note on creating a test account:
+ If you would like to create a test account as part of the challenge, please enter "Applicant" in the relevant field during registration and select "Other" under Trade. This ensures that our sales team does not mistakenly register you as a craft business and reach out to you unnecessarily.

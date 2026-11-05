@@ -1,0 +1,39 @@
+URL: https://www.linkedin.com/jobs/view/4478126529
+TITLE: Data Analyst French Native Speaker (Python & SQL) - Spain Remote
+COMPANY: IQVIA
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-03
+title: Data Analyst French Native Speaker (Python & SQL) - Spain Remote
+company: IQVIA
+posted: 1 day ago
+applicants: 168 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fes.linkedin.com%2Fjobs%2Fview%2Fdata-analyst-french-native-speaker-python-sql-spain-remote-at-iqvia-4478126529&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Join us on our exciting journey!
+ We are recruiting a new Data Analyst with work knowledge of Python & SQL and proficient in French language.
+ Under guidance, performs data analytics activities related to complex business problems and issues to provide insight to decision makers. May provide analytic support for internal project teams and for external client consulting or services engagements.
+If you want to play a key role in a multicultural, dynamic and committed team this could be the role for you!
+ Essential Functions
+ Under guidance, performs basic quantitative or qualitative analyses to support the development of solutions for internal or external client project teams.
+ Identifies and interprets trends and patterns in datasets.
+ Creates specifications for reports and analysis based on business needs and required or available data elements.
+ May directly produce datasets and reports for analysis using existing IQVIA tools.
+ Verifies data for accuracy and completeness.
+ May manipulate and transform data to optimize analyses.
+ Performs audits of own work or that of others to ensure conformance with established procedures or to resolve routine issues.
+ May work with stand alone data systems or enterprise wide tools supporting activities such as inquiry resolution, data validation, and trend analysis.
+ Qualifications
+ Bachelor's Degree Req
+ 1-3 years of previous professional experience preferably working with pharmaceutical data. Req
+ Data analysis skills and working knowledge of Microsoft software tools (Excel, PowerPoint, Word, and Access), SQL, PowerBI, Python.
+ Works willingly and effectively with others in and across the organization to accomplish team goals.
+ Knowledge and understanding of the fundamental processes of the business.
+ Knowledge of the methods, tools and techniques related to one’s functional area.
+ Knowledge of the industry and an understanding of the marketplace.
+ Effective time management skills.
+ We invite you to join IQVIA™
+ IQVIA™ is a leading global provider of advanced analytics, technology solutions and clinical research services to the life sciences industry. We believe in pushing the boundaries of human science and data science to make the biggest impact possible – to help our customers create a healthier world. Learn more at https://jobs.iqvia.com
+IQVIA™ is an equal opportunity employer. We make employment decisions based on qualifications and merit. We prohibit discrimination based on any unlawful consideration such as age, race, national origin, gender or other "protected status“.
+IQVIA is a leading global provider of clinical research services, commercial insights, and healthcare intelligence to the life sciences and healthcare industries. We create intelligent connections to accelerate the development and commercialization of innovative medical treatments to help improve patient outcomes and population health worldwide. Learn more at https://jobs.iqvia.com.
+IQVIA is committed to integrity in our hiring process and maintains a zero tolerance policy for candidate fraud. All information and credentials submitted in your application must be truthful and complete. Any false statements, misrepresentations, or material omissions during the recruitment process will result in immediate disqualification of your application, or termination of employment if discovered later, in accordance with applicable law. We appreciate your honesty and professionalism.
+At IQVIA, we believe that diversity, inclusion, and belonging empower our mission to accelerate innovation for a healthier world. We create a culture of belonging by valuing the perspectives of all talented employees worldwide and providing them with the opportunity to power smarter healthcare for everyone, everywhere. When our talented employees bring their authentic selves and their diverse experiences to work, they enable us to accomplish extraordinary things. Multifaceted thought processes spark innovation. Multi-talented collaboration harnesses innovation to deliver superior outcomes. Likewise, as part of this culture, IQVIA is committed to ensuring effective equality between women and men, integrating it as a strategic principle in its corporate and human resources policies.

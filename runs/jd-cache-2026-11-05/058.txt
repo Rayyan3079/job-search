@@ -1,0 +1,38 @@
+URL: https://www.linkedin.com/jobs/view/4487588412
+TITLE: Werkstudent Risk Management & PMO/TMO - SAP S/4HANA Transformation (w/m/d)
+COMPANY: HENSOLDT
+LOC: Greater Munich Metropolitan Area
+POSTED: 2026-11-05
+title: Werkstudent Risk Management & PMO/TMO - SAP S/4HANA Transformation (w/m/d)
+company: HENSOLDT
+posted: 4 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-risk-management-pmo-tmo-sap-s-4hana-transformation-w-m-d-at-hensoldt-4487588412&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Über den Bereich 
+ Für unser unternehmensweites SAP-Transformationsprogramm #oneSAPnow suchen wir zum nächstmöglichen Zeitpunkt einen Werkstudenten (w/m/d) mit Schwerpunkt Risk Management sowie PMO-/TMO-Unterstützung, vorzugsweise am Standort Ulm.
+Mit #oneSAPnow gestaltet HENSOLDT die zukünftige SAP-Systemlandschaft und treibt die Harmonisierung und Standardisierung unternehmensweiter Geschäftsprozesse voran. Das Programm umfasst zahlreiche miteinander verknüpfte Projekte und Workstreams mit komplexen fachlichen, technischen und organisatorischen Abhängigkeiten.
+Als Teil des Projektteams unterstützt du die Programm- und Projektleitung insbesondere im Risiko-, Issue- und Maßnahmenmanagement sowie bei ausgewählten PMO-/TMO- und Governance-Aktivitäten.
+ Deine Aufgaben
+ Risk & Issue Management: Unterstützung bei der Identifikation, Bewertung, Dokumentation und Nachverfolgung programmweiter Risiken und Issues sowie Pflege des Risikoregisters
+ Maßnahmenmanagement: Nachverfolgung von Maßnahmen, Verantwortlichkeiten und Fälligkeiten sowie Identifikation kritischer oder überfälliger Maßnahmen
+ Risk Reviews: Vorbereitung und Nachbereitung regelmäßiger Risk Reviews einschließlich der Abstimmung mit Risk Ownern und Projektverantwortlichen
+ Projektcontrolling und Reporting: Konsolidierung von Statusinformationen sowie Erstellung von Risikoauswertungen, KPI-Dashboards und Managementpräsentationen
+ PMO/TMO und Governance: Unterstützung bei der Koordination und Nachverfolgung von Projektaktivitäten, Entscheidungen und offenen Punkten sowie bei der Vorbereitung von Projektgremien
+ Projektplanung: Unterstützung bei der Pflege von Projektplänen, Meilensteinen und projektübergreifenden Abhängigkeiten
+ Prozess- und Tooloptimierung: Mitwirkung bei der Weiterentwicklung und Standardisierung von Risk-Management- und PMO-/TMO-Prozessen, Templates und Tools
+ Dein Profil
+ Laufendes Master-Studium der Wirtschaftswissenschaften, (Wirtschafts-)Informatik, des Wirtschaftsingenieurwesens oder eines vergleichbaren Studiengangs
+ Grundverständnis von Projekt- und Programmmanagement sowie Interesse an komplexen IT- und Business-Transformationen
+ Interesse an Risiko-, Issue- und Maßnahmenmanagement; erste praktische Erfahrungen im Projektmanagement oder PMO sind von Vorteil
+ Sehr gute Kenntnisse in Microsoft Office, insbesondere Excel und PowerPoint; Kenntnisse in MS Project, ServiceNow oder SAP Signavio sind wünschenswert
+ SAP-S/4HANA-Kenntnisse sind von Vorteil, jedoch keine Voraussetzung
+ Analytische Fähigkeiten sowie eine strukturierte, sorgfältige und eigenständige Arbeitsweise mit hoher Eigeninitiative und Zuverlässigkeit
+ Kommunikationsstärke, Teamfähigkeit sowie sehr gute Deutsch- und Englischkenntnisse
+ Bitte lade bei deiner Bewerbung die aktuell gültige Immatrikulationsbescheinigung hoch.
+Willst du Teil eines zukunftsorientierten Unternehmens werden? Bist du bereit, Verantwortung in spannenden internationalen und nationalen Projekten zu übernehmen? Dann bist du unser Kandidat!
+Bewirb dich bitte ausschließlich online über unser Karriereportal mit deinem Lebenslauf und deinen Zeugnissen.
+Solltest du weitere Fragen haben, kannst du dich gerne an unser Recruiting-Team wenden: jobs@hensoldt.net
+Erfahre mehr über HENSOLDT und unsere Stellenangebote: www.hensoldt.net/studierende
+ Bewirb dich jetzt!
+ HENSOLDT setzt sich für Vielfalt und eine integrative Firmenkultur ein. Daher begrüßen wir alle Bewerbungen – unabhängig von Herkunft, Alter, Geschlecht, Behinderung, Identität oder Weltanschauung.

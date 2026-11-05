@@ -1,0 +1,46 @@
+URL: https://www.linkedin.com/jobs/view/4487253692
+TITLE: Werkstudent Data Science / Data Engineering (all genders)
+COMPANY: MTU Aero Engines
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-11-04
+title: Werkstudent Data Science / Data Engineering (all genders)
+company: MTU Aero Engines
+posted: 17 hours ago
+applicants: 73 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-data-science-data-engineering-all-genders-at-mtu-aero-engines-4487253692&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Wir sind über 14.000. An 20 Standorten weltweit. Jedes dritte Flugzeug fliegt mit unserer Technologie.
+Immer effizienter, leiser, nachhaltiger. Wir gestalten die Zukunft der Luftfahrt. Was wir noch brauchen? Dich.
+ MTU Aero Engines AG Werkstudent Data Science / Data Engineering (all genders)
+ Standort München 
+ Einstiegsbereich Finanzen & Controlling 
+ Zielgruppe Student:innen 
+ Vertragsart Teilzeit 
+ Job-ID 1619 
+ Bei der Instandhaltung von Flugzeugtriebwerken entstehen eine Vielzahl verschiedenster Daten. Erst wenn diese Informationen aufbereitet, geprüft und zusammengeführt sind, können Erkenntnisse und
+Entscheidungen daraus abgeleitet werden.
+Unser Team ist integraler Bestandteil der Digitalisierungsstrategie der MTU. Wir bieten datengetriebene Lösungen über das gesamte Spektrum, angefangen bei der Datenbereinigung und -modellierung
+bis hin zur Analyse und deren Darstellung.
+ STARKE AUFGABEN
+ Übernahme von Aufgaben im Bereich Data Engineering / Data Science in einem agilen Entwicklungsteams
+ Verantwortung für die Anbindung diverser Datenquellen und die Datenvorverarbeitung in Python
+ Entwurf und Implementierung von Datenmodellen
+ Analyse und Visualisierung der Daten mit ansprechenden Auswertungen, entweder durch die Entwicklung eigener Webapplikationen oder die Nutzung von Self-Service Tools wie Tableau
+ Unterstützung beim Aufbau einer datengetriebenen Infrastruktur 
+ BESTE VORAUSSETZUNGEN
+ Studium im Bereich Informatik, Mathematik, Data Science oder einer vergleichbaren Studienrichtung
+ Erste Kenntnisse im Design von Datenbanken, der Modellierung und Aufbereitung von Daten von Vorteil
+ Idealerweise erste Erfahrungen und Interesse an Softwareentwicklung mit Python, R oder anderen Programmiersprachen
+ Affinität und Interesse am Einsatz neuer Technologien
+ Strukturiertes und eigenständiges Arbeiten
+ AUSGEZEICHNETES UMFELD
+ Einblicke in die Luftfahrtbranche und Jobs mit Verantwortung
+ Teamspirit u.a. durch Studi-Netzwerk & Events
+ Mentoring und individuelle Betreuung
+ Flexible Arbeitszeitmodelle mit mobilem Arbeiten
+ Kantine, Cafébar und Verkaufsshops
+ Sportkooperation mit EGYM Wellpass & Betriebssportgruppen
+ Top-Anbindung durch Pendlerbus, Parkhaus, E-Ladestation
+ Startklar?
+ Dann gib Deiner Bewerbung Schub und schick uns Deine Unterlagen (Lebenslauf, Notenübersicht der Hochschule, Schulabschlusszeugnis sowie eine aktuelle Immatrikulation) online. Gleich jetzt, gleich hier.
+Wir freuen uns auf Dich!

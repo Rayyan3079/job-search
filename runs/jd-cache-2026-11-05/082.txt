@@ -1,0 +1,68 @@
+URL: https://www.linkedin.com/jobs/view/4486844558
+TITLE: Data Analyst
+COMPANY: Basic-Fit
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-03
+title: Data Analyst
+company: Basic-Fit
+posted: 1 day ago
+applicants: 91 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fnl.linkedin.com%2Fjobs%2Fview%2Fdata-analyst-at-basic-fit-4486844558&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Make data clear and actionable for teams across Basic-Fit 
+ You don’t want to just build dashboards.
+You want your reports to be used, trusted, and understood.
+You want to see decisions being made because of what you built.
+At Basic-Fit, teams across the organisation rely on data to serve millions of members across Europe. The reports you build and own will be used tomorrow by people who need answers today.
+ This Is What Your Role Looks Like
+ You’ll join the central Data Platform Team as the Data Analyst for our central, cross-functional reports and for teams that don’t have an analyst of their own. You’ll work directly with the business, from the first question to a clear, finished report that people actually use. Over time, you’ll help teams take ownership of their own reports.
+ In a Typical Week, You Might
+ own and maintain central reports that are not tied to a single team 
+ build and maintain reporting for teams without a dedicated analyst 
+ investigate data questions and ad-hoc requests from across the business 
+ tell the story behind the numbers and present insights in a way that supports better decisions 
+ apply data visualisation best practices and standards to keep reports clear and consistent 
+ work with Data Platform Engineers to get the right data in place in Databricks for your reports 
+ improve existing reports on clarity, performance and usability 
+ automate recurring reports and enable self-service 
+ use AI to speed up your analysis and reporting work 
+ Good ideas don’t stay in slide decks here - they get built.
+ The team you’ll work with 
+ You’ll be part of a multidisciplinary Data Platform Team with:
+ Data Platform Engineers 
+ Analysts 
+ BI Developers 
+ Data Scientists 
+ Together, you support almost every department at Basic-Fit, enabling teams to act on reliable, well-governed data.
+ Who Are You?
+ You’re Curious, Structured, And Good At Understanding What Stakeholders Really Need. You Can Turn Complex Data Into a Clear Story. You Don’t Need To Tick Every Box. You Will Thrive Here If Most Of This Sounds Familiar
+ 3+ years of experience as a Data Analyst or BI Analyst 
+ Hands-on experience with Power BI, including building reports, DAX and data modelling basics 
+ Strong SQL skills to explore, validate and understand data 
+ Strong data visualisation skills and a good feel for design standards: you turn complex data into clear, consistent, actionable dashboards that follow best practices 
+ Experience working directly with business stakeholders and translating their needs into reports 
+ Flexibility to quickly get up to speed in different business areas, as you’ll support a variety of teams 
+ A mindset of enabling others: you like to document, automate and hand over 
+ Attention to detail and data quality: you validate your numbers and spot inconsistencies 
+ Excellent communication skills in English 
+ Experience with Databricks, Python or Fabric is a plus 
+ Experience using AI tools to speed up analysis and reporting is a plus
+ What We Offer You
+ At Basic-Fit, it’s not just about work, it’s about your growth. As a Data Analyst, you’ll have the freedom to make an impact and develop yourself in a dynamic environment.
+ What You Can Expect From Us
+ Learning & Development: Unlimited access to GoodHabitz and LinkedIn Learning.
+ Career Growth: Plenty of opportunities for professional and personal development.
+ Work Culture: An informal, international, and down-to-earth environment. We value working together, so we work 4 days in the office, 1 day from home.
+ Innovation: Your ideas contribute to strategic projects.
+ Salary: A monthly gross salary between €3.500 and €5.300 based on 40 hours, depending on your experience and background. 
+ Perks & Benefits: Travel allowance, bike plan, health insurance discounts and remote work allowance.
+ Fitness: Access to our gym at HQ.
+ About Basic-Fit
+ Basic-Fit is Europe's leader in the value-for-money fitness market, with more than 4.7 million members across 1,650+ clubs in 6 countries. We are continuously growing and improving. If you're looking for a place where you can make an impact while having fun at work, you've come to the right place!
+ What Makes Us Unique?
+ Work with Impact: What you do makes a difference. We don’t just work for our members, partners, and teams—we work with them.
+ Collaboration: Everyone works together to achieve goals and celebrate success.
+ Diversity & Inclusion: We welcome everyone into our workplace.
+ 🎯 Apply Now!
+ Ready for your next adventure? Click the Apply button, and we’ll get in touch with you as soon as possible.
+Questions? Feel free to contact Yara at yara.vanbodegom@basic-fit.com .

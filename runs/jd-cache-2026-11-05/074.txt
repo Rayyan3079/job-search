@@ -1,0 +1,67 @@
+URL: https://www.linkedin.com/jobs/view/4485094997
+TITLE: Data Analyst I - 11974
+COMPANY: Senior Sistemas
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-04
+title: Data Analyst I - 11974
+company: Senior Sistemas
+posted: 12 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fbr.linkedin.com%2Fjobs%2Fview%2Fdata-analyst-i-11974-at-senior-sistemas-4485094997&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Na Senior, tecnologia é construída em times colaborativos, com autonomia, responsabilidade e foco em impacto real no negócio.
+Você atua em soluções que evoluem continuamente, lidando com desafios concretos e participando das decisões que moldam produtos usados por milhares de empresas. Para impulsionar o ecossistema tech com a gente, conheça um pouco mais sobre o Manifesto de Tecnologia da Senior .
+ SOBRE O DESAFIO:
+ Estamos em busca de um Data Analyst, você terá a oportunidade de se juntar ao time de Inteligência de Vendas, responsável por apoiar nossas unidades, filiais e canais em todo o território nacional.
+Nosso objetivo é facilitar uma tomada de decisão ágil e precisa para alcançar melhores resultados.
+Esta posição está na célula de Dados e, alinhada a projetos corporativos, terá como missão apoiar o time de vendas com dados para gestão.
+Sua principal responsabilidade será auxiliar no desenvolvimento de soluções e visões baseadas em dados, assim como além de ajudar na manutenção e sustentação de soluções em produção.
+Você também dará suporte ao time de vendas em eventuais dúvidas sobre a usabilidade das ferramentas, mostrando a melhor forma de alcançar os resultados desejados através de boas práticas.
+Além disso, precisamos que você nos ajude a automatizar análises repetitivas feitas no Excel, que são necessárias em nossa operação.
+Você realizará análises e criará insights para identificar oportunidades de melhoria no processo de vendas, promovendo a cultura data-driven na Senior.
+ PRINCIPAIS RESPONSABILIDADES:
+ Coletar, processar e analisar dados de diversas fontes para gerar insights estratégicos; 
+ Criar relatórios e dashboards que suportem a tomada de decisão da organização; 
+ Identificar padrões, tendências e anomalias nos dados utilizando ferramentas analíticas; 
+ Realizar limpeza e validação de dados para garantir qualidade e confiabilidade das informações; 
+ Colaborar com diferentes áreas da empresa para compreender necessidades analíticas e apresentar soluções; 
+ Documentar metodologias, processos e resultados das análises realizadas; 
+ Apresentar achados e recomendações em linguagem clara para públicos técnicos e não técnicos; 
+ Contribuir para a otimização de processos através de análises de dados. 
+ O QUE ESPERAMOS DE VOCÊ:
+ Prática em Power BI e experiência na construção de dashboards; 
+ Vivência com SQL para realização de consultas em banco de dados; 
+ Experiência na utilização de n8n, Copilot Studio e/ou ferramentas de pipeline para criação de agentes; 
+ Prática com DAX, linguagem M e Excel na análise e tratamento de dados;
+ Vivência em modelagem dimensional para estruturação e otimização de ambientes analíticos. 
+ O QUE PODE POTENCIALIZAR SUA CANDIDATURA:
+ Conhecimento em IA generativa; 
+ Conhecimento em engenharia de prompt; 
+ Noções de programação em Python ou R; 
+ Experiência na área Comercial ou com Experiência do Cliente; 
+ Conhecimento dos produtos comercializados pela Senior;
+ Inglês ou espanhol intermediário; 
+ Experiência ou conhecimento em CRM; 
+ Vivências na construção de soluções para o time comercial;
+ Certificação em Power BI (PL-300) e/ou certificações relacionadas à plataforma Microsoft de Dados e Analytics. 
+ Nossos benefícios:
+ Convênio Médico e Odontológico; 
+ Seguro de Vida; 
+ PPLR - Participação nos lucros e resultados; 
+ Cartão Wiipo com benefícios flexíveis; 
+ Clube Wiipo com descontos e vantagens exclusivas; 
+ TotalPass - Benefício de academias e bem-estar; 
+ OnHappy - Benefício de vantagens para viagens; 
+ Banco de horas; 
+ Empresa cidadã: Licença maternidade e paternidade estendida; 
+ Assistência natalidade; 
+ Assistência PET; 
+ Universidade Corporativa Senior; 
+ Plano de desenvolvimento de carreira. 
+ O nosso jeito Senior de ser:
+ Nossa cultura respeita as individualidades e potencializa as pessoas com inovação, colaboração e autonomia. Acreditamos na pluralidade, pois as experiências e perspectivas são únicas, com oportunidades que incluem diversidade de pessoas e de pensamentos. Porque é dessa forma que alcançamos grandes resultados, que geram o sucesso dos clientes, movidos pela dedicação de pessoas incríveis. Estas informações são específicas para esta oportunidade, mas você pode conferir todas as nossas vagas e ainda mais sobre como é ser Senior na nossa página de carreiras: senior.com.br/carreiras
+ Somos mais Senior!
+ Somos uma empresa brasileira reconhecida como uma das maiores desenvolvedoras de software para gestão do país. Com mais de 35 anos de história e atuação em todo o Brasil, impulsionamos a transformação digital de milhares de empresas por meio da tecnologia. Expandimos nossa presença para o mercado internacional com a aquisição de uma empresa na Colômbia, fortalecendo nossa atuação na América Latina. A qualidade das nossas soluções é resultado do trabalho de mais de 3.600 pessoas e de um portfólio completo voltado à alta performance.
+Guiados pelo propósito de Potencializar Pessoas e Impulsionar Negócios, conquistamos por oito vezes o reconhecimento como Great Place to Work®. Seguimos crescendo de forma consistente, valorizando pessoas, cultura e colaboração, porque impulsionar o futuro faz parte do nosso jeito de ser.
+Descubra mais sobre nós em www.senior.com.br ou acompanhe nossos conteúdos nas redes:
+Blog | Linkedin | Instagram | Youtube | Medium

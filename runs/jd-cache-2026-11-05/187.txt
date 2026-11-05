@@ -1,0 +1,57 @@
+URL: https://www.xing.com/jobs/dorsten-werkstudent-ki-automatisierung-data-analytics-158977510
+TITLE: Werkstudent KI, Automatisierung & Data Analytics (m/w/d)
+COMPANY: E-M-C-direct GmbH & Co. KG
+LOC: Dorsten
+POSTED: 2026-11-03
+title: Werkstudent KI, Automatisierung & Data Analytics (m/w/d)
+company: E-M-C-direct GmbH & Co. KG
+posted: 2026-11-03T13:10:54Z
+location: Dorsten | remote: 
+---
+📍 Dorsten, NRW
+ 🕒 Werkstudent (bis zu 20 Std./Woche)
+ ⏰ Arbeitszeit schwerpunktmäßig vormittags unter der Woche
+ 🏁 Start: ab sofort
+ 🏢 Zunächst überwiegend vor Ort in Dorsten, später teilweise Homeoffice denkbar
+ Gestalte mit, wie KI einen Mittelständler verändert – mit Code, Daten und KI. 
+ Du baust mit KI lieber echte Lösungen, als nur darüber zu lesen? Dann tu es nicht länger nur für Uni-Projekte. Bei uns entwickelst Du Tools, Automatisierungen und Reportings für ein echtes Unternehmen – mit eigenem Lager, echten Kunden und Daten aus dem Tagesgeschäft. Dafür bekommst Du einen Claude-Zugang im höchsten Tarif, den Du ausreizen darfst. Ob Informatik, Wirtschaftsinformatik oder Data Science: Unser Geschäft erklären wir Dir. Bauen musst Du wollen.
+ Wer wir sind 
+ E-M-C-direct ist ein inhabergeführter technischer Großhandel in Dorsten. Wir liefern Kabelschutz, Kabelbinder, Befestigungstechnik und Werkzeuge an Firmenkunden aus Fahrzeugbau, Industrie und Solarbranche, direkt ab unserem eigenen Lager – im DACH-Raum und zunehmend international. KI ist bei uns Chefsache: Die Geschäftsführung treibt das Thema selbst voran, und Du baust direkt mit.
+ Dein Job
+ Du findest gemeinsam mit Vertrieb, Einkauf, Lager und Marketing heraus, wo KI echte Arbeit abnimmt – und setzt es um.
+ Du entwickelst interne Tools, kleine Web-Anwendungen, Skripte und KI-Agenten für EMC.
+ Du verbindest unsere Systeme und ersetzt manuelle Routinen durch stabile, automatisierte Abläufe.
+ Du ziehst Daten aus unserer Warenwirtschaft und weiteren Quellen und baust daraus Dashboards und Kennzahlen, mit denen wir entscheiden.
+ Du hilfst beim Aufbau unserer KI- und Dateninfrastruktur: Schnittstellen, Datenmodelle, Berechtigungen, Dokumentation – sicher und datenschutzkonform.
+ Du zeigst Deinen Kollegen, wie sie KI-Tools gut nutzen, damit Deine Lösungen im Alltag auch ankommen.
+ Was Du mitbringst
+ Du bist als Student eingeschrieben, idealerweise in Informatik, Wirtschaftsinformatik, Data Science oder einem ähnlichen Fach.
+ Du programmierst sicher, am liebsten in Python, und kommst mit SQL, Datenbanken und Excel klar.
+ Du arbeitest täglich mit KI-Tools wie Claude oder ChatGPT und hast schon eigene Projekte damit gebaut.
+ Du packst an, lieferst Ergebnisse und arbeitest Dich selbstständig in neue Systeme ein, auch wenn nicht alles vorgegeben ist.
+ Dich interessiert, wie ein Unternehmen tickt. Erfahrung mit Warenwirtschaft, E-Commerce oder Reporting ist ein Plus.
+ Du gehst verantwortungsvoll mit Daten um und hast ein Gespür für Datenschutz und IT-Sicherheit.
+ Du sprichst gut Deutsch, Englisch ist ein Plus.
+ Du wohnst in Dorsten oder Umgebung und kannst uns gut erreichen.
+ Was Dich hier erwartet
+ Kein Einzelkämpfer-Job: Du arbeitest mit anderen Werkstudenten und Kollegen zusammen, die ebenfalls mit KI bauen. Ihr entwickelt gemeinsam Anwendungen, teilt Prompts und Kniffe und lernt voneinander.
+ Echte Wirkung: Was Du baust, läuft im Tagesgeschäft. Du siehst sofort, ob es hilft.
+ Top-Werkzeuge: Claude im höchsten Tarif und moderne Tools – kein Budgetgefeilsche um Lizenzen.
+ Freiraum statt Ticketwarteschlange: Wenig Bürokratie, schnelle Entscheidungen, enge Zusammenarbeit mit der Geschäftsführung.
+ Studium zuerst: Bis zu 20 Stunden pro Woche im Semester, flexibel rund um Deine Vorlesungen, in den Semesterferien gern mehr.
+ Deine Perspektive
+ Du baust Dir ein Portfolio aus echten Projekten, das jede spätere Bewerbung stärkt. Wenn es passt, kannst Du bei uns auch Deine Abschlussarbeit schreiben – mit einem Thema aus der Praxis statt aus dem Lehrbuch.
+ Benefits
+ Faire Vergütung: 14,60 € pro Stunde.
+ Tankkarte: Wir unterstützen Dich bei den Fahrtkosten zu uns nach Dorsten.
+ Internetzuschuss: Monatlicher Zuschuss zu Deinen Internetkosten.
+ Kurze Wege und echtes Team: Schnelle Entscheidungen, Duz-Kultur und ein familiäres Team, das zusammenhält.
+ Flexibilität: Zu Beginn überwiegend vor Ort, später ist ein teilweiser Homeoffice-Anteil denkbar.
+ Bewirb Dich in zwei Minuten
+ Lebenslauf reicht, kein Anschreiben. Hast Du schon etwas gebaut? Ein Link zu GitHub oder einem Projekt freut uns besonders.
+ So läuft's ab
+ 1️⃣ Kurzes Kennenlerngespräch innerhalb weniger Tage.
+ 2️⃣ Weitere Kennenlernrunden mit dem Inhaber und dem Team.
+ 3️⃣ Danach entscheiden wir zügig und melden uns mit Feedback und – wenn's passt – einem Vertragsangebot.
+ Deine Ansprechpartnerin
+ Stefanie Nagy Recruiting E-M-C-direct GmbH & Co. KG Salierweg 14 | 46286 Dorsten

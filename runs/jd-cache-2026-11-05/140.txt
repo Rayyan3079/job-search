@@ -1,0 +1,23 @@
+URL: https://www.linkedin.com/jobs/view/4486053656
+TITLE: Werkstudent IT-Beratung - BI & Cloud-Lösungen (m/w/d)
+COMPANY: Schwarz Digits
+LOC: Bad Friedrichshall, Baden-Württemberg, Germany
+POSTED: 2026-11-03
+title: Werkstudent IT-Beratung - BI & Cloud-Lösungen (m/w/d)
+company: Schwarz Digits
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-it-beratung-bi-cloud-l%25C3%25B6sungen-m-w-d-at-schwarz-digits-4486053656&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Deine Aufgaben 
+ Modernes Data Warehousing: Du unterstützt uns bei der Konzeption, Ist-Analyse und Implementierung zukunftsfähiger BI-Applikationen und Data-Warehouse-Strukturen für unsere europäischen Gesellschaften (z. B. PreZero).
+ Multi-Cloud & Tech Scouting: Du unterstützt bei der technologischen Erweiterung unserer SAP-Landschaft um moderne Cloud-Lösungen wie Google Cloud und unsere hauseigene Cloud STACKIT. Zudem begleitest du aktiv spannende Migrationsprojekte (z. B. von Microsoft-basierten Systemen) in unsere moderne BI-Zielarchitektur.
+ Reporting & Data Provisioning: Du hilfst bei der Entwicklung und Anpassung von Dashboards und Reports für kaufmännische und operative Bereiche. Hierbei kommen leistungsstarke Analytics-Tools wie SAP Analytics Cloud, MicroStrategy oder Looker Enterprise zum Einsatz.
+ Data Modeling: Du wirkst bei der Entwicklung komplexer Datenmodelle und Schnittstellen-Designs mit, um Daten aus diversen Quellsystemen performant und zuverlässig bereitzustellen.
+ Stakeholder-Management: Du arbeitest eng mit Fachbereichen sowie internationalen IT-Teams zusammen, strukturierst deren Anforderungen und unterstützt bei der passgenauen Lösungsfindung unter Einhaltung unserer IT-Governance.
+ Dein Profil 
+ Akademischer Hintergrund: Du bist aktuell im Studium der (Wirtschafts-) Informatik, Software Engineering, Data Science oder einer vergleichbaren Fachrichtung mit Schwerpunkt Datenmanagement eingeschrieben.
+ Leidenschaft für Daten & Tech: Du bringst eine hohe IT-Affinität mit und hast starkes Interesse, dich in ein breites, hybrides Technologie-Portfolio einzuarbeiten – von der bestehenden SAP Business Data Cloud und SAP BW/4HANA bis hin zur Google Cloud Platform und STACKIT.
+ Erste Erfahrungen: Du hast durch Praktika oder anspruchsvolle Studienprojekte idealerweise schon erste Berührungspunkte mit Datenmodellierung, BI-Tools oder Programmierung (z. B. SQL, Python, Java oder ABAP) gesammelt.
+ Arbeitsweise & Mindset: Ein dynamisches Umfeld bereitet dir Freude. Du zeichnest dich durch eine stark analytische und strukturierte Arbeitsweise aus und arbeitest dich schnell in komplexe technische Sachverhalte ein.
+ Kommunikation: Du gehst stets souverän und empathisch mit Kunden und Kollegen um und kommunizierst aufgrund unserer Internationalität sicher in Deutsch und Englisch.

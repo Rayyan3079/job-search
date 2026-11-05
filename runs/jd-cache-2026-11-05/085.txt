@@ -1,0 +1,48 @@
+URL: https://www.linkedin.com/jobs/view/4486545554
+TITLE: Data Analyst II
+COMPANY: St. Jude Children's Research Hospital
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-05
+title: Data Analyst II
+company: St. Jude Children's Research Hospital
+posted: 5 hours ago
+applicants: 84 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fdata-analyst-ii-at-st-jude-children-s-research-hospital-4486545554&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+The Data Analyst II depending on applicant skill level could become Senior Data Analyst provides analysis of quantitative and qualitative administrative and operational data supporting scientific research initiatives within the Scientific Director's Office. This role combines data analytics expertise with solutions engineering capabilities, developing dashboards, automated reporting systems, and custom Power Platform applications with AI capabilities. The position supports data-driven decision-making by building analytics tools, assisting with team training on analytics adoption, and translating data into actionable insights under guidance from senior staff.
+ Job Responsibilities:
+ Design and maintain dashboards, reports, data visualizations, and analytics tools using Power BI, Microsoft Fabric, and related platforms to support research operations and administrative decision-making.
+ Build Power Platform and low-code solutions with AI-enabled workflow automation to improve reporting, operational efficiency, and decision support.
+ Develop and maintain data pipelines, ETL processes, data models, and governance standards using Databricks, SQL, Microsoft Fabric, and other enterprise data tools to ensure quality, integrity, security, and availability.
+ Translate scientific and administrative needs into technical specifications, predictive analytics, and AI/ML-enabled solutions with guidance from senior analysts.
+ Support training, adoption, documentation, user guidance, and knowledge transfer for analytics tools and decision-support systems.
+ Evaluate emerging data, AI, and low-code technologies and collaborate with IT and cross-functional stakeholders to integrate scalable SDO solutions with enterprise systems.
+ Maintains regular and predictable attendance.
+ Performs other related duties as assigned in order to meet the goals of the department and institution.
+ Minimum Education and/or Training:
+ Bachelor's degree in computer science, data science, information science, business, or related field required.
+ Master’s degree preferred
+ Minimum Experience:
+ Minimum experience: 2+ years of IT experience in the design of databases and ETL processes preferably in comparable industry.
+ Three years of IT experience in data analytics, business intelligence, or solutions development, preferably in healthcare, research, or a comparable industry strongly preferred.
+ Experience with SDLC methods such as Agile, Waterfall, or CI/CD, along with preferred experience in Microsoft Power Platform, enterprise reporting, dashboards, cloud data platforms, data engineering, SQL, AI/ML integration and SharePoint development or integration.
+ Experience in programming querying languages.
+ Some experience with enterprise reporting tools for development of reports as applicable.
+ Some experience creating dashboards using data visualization tools (e.g. PBI, Tableau, Qlik, and data warehousing applications) as applicable.
+ Proven performance in earlier role/comparable role.
+ Licensure, Registration and/or Certification Required by Law:
+ Microsoft certifications in Power Platform, Databricks, or related technologies preferred.
+ Special Skills, Knowledge and Abilities:
+ Proficiency with Microsoft Power Platform, Power BI, SQL, data modeling, ETL, and cloud analytics platforms such as Microsoft Fabric, Databricks, or Azure.
+Ability to build low-code, web-based, and enterprise-integrated solutions that support data access, reporting, and workflow needs.
+Working knowledge of AI/ML tools such as Copilot or Azure AI and ability to embed them into analytics, automation, and business applications.
+Strong analytical thinking, critical reasoning, data visualization, and data storytelling skills to connect insights to business outcomes.
+Clear communication, training, documentation, collaboration, prioritization, and accountability skills to support technical and non-technical stakeholders.
+ Compensation for Data Analyst II $78,000 - $139,000
+ Compensation
+ In recognition of certain U.S. state and municipal pay transparency laws, St. Jude is including a reasonable estimate of the compensation range for this role. This is an estimate offered in good faith and a specific salary offer takes into account factors that are considered in making compensation decisions including but not limited to skill sets, experience and training, licensure and certifications, and other business and organizational needs. It is not typical for an individual to be hired at or near the top of the salary range and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current salary range is $86,320 - $154,960 per year for the role of Data Analyst II.
+Explore our exceptional benefits!
+We are committed to a human-centered hiring experience. Technology may support portions of our process, but recruiting decisions involve human review and engagement. Learn more about our approach to AI.
+St. Jude is an Equal Opportunity Employer
+ No Search Firms
+ St. Jude Children's Research Hospital does not accept unsolicited assistance from search firms for employment opportunities. Please do not call or email. All resumes submitted by search firms to any employee or other representative at St. Jude via email, the internet or in any form and/or method without a valid written search agreement in place and approved by HR will result in no fee being paid in the event the candidate is hired by St. Jude.

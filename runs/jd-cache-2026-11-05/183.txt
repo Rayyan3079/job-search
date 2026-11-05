@@ -1,0 +1,31 @@
+URL: https://www.stepstone.de/stellenangebote--WERKSTUDENT-IN-DATA-SCIENCE-M-W-D-Koeln-AdSuits-GmbH-Co-KG--12824062-inline.html
+TITLE: WERKSTUDENT:IN DATA SCIENCE (M/W/D)
+COMPANY: AdSuits GmbH & Co.KG
+LOC: Köln
+POSTED: stepstone
+title: WERKSTUDENT:IN DATA SCIENCE (M/W/D)
+company: AdSuits GmbH & Co.KG
+posted: 2026-10-20T23:03:16.107Z
+location: Köln | remote: 
+---
+Einleitung
+ Du studierst im Bereich Daten und hast Lust, praktische Erfahrungen im Online-Marketing zu sammeln? Dann suchen wir genau dich! Unterstütze unser Team als Werkstudent im Bereich Data Science.
+ Deine Aufgaben
+ Python-Entwicklung für datengetriebene Lösungen
+ Aufbau und Pflege von Data-Warehousing-Systemen
+ Dashboarding und Visualisierung von Marketing-Daten
+ Unterstützung im Bereich Webtracking
+ Das solltest du mitbringen
+ Studium in Data Science, Data Engineering, Data Analytics, Wirtschaftsinformatik oder Informatik
+ Interesse an Online-Marketing und datengetriebener Analyse
+ Erste Erfahrungen in Python und Datenverarbeitung von Vorteil
+ Das bieten wir dir
+ Viel Freiraum: Flexibles und dezentrales Arbeiten in einem familiären Remote-Team
+ Kurze Wege: flache Hierarchien, regelmäßiger Austausch und persönliche Ansprechpartner:innen
+ Bestes Team: tolle Kollegen und Kolleginnen, familiäre Arbeitsatmosphäre und ein wertschätzendes Miteinander
+ Moderne Arbeitsausstattung und attraktive Vergütung + Corporate Benefits
+ Vielfältige Weiterbildungsmöglichkeiten: fachliche Fortbildungen, themenspezifische Schulungen, Workshops
+ Kontakt
+ Du möchtest Mitglied im Team AdSuits werden? – Dann schicke uns deine Bewerbung inklusive Einstiegsdatum und Gehaltsvorstellung. Du hast noch Fragen? Dann schreib‘ uns einfach eine E-Mail.
+ Übrigens: Wir freuen uns besonders über Bewerber:innen aus dem Kölner und Aachener Raum. Da wir aber schon immer dezentral arbeiten, ist dein Wohnort für uns kein Ausschlusskriterium.
+ Wir können uns zum ersten Kennenlernen gern persönlich treffen oder wir kommen digital zusammen. Wie auch immer: Wir sind gespannt dich kennenzulernen!
