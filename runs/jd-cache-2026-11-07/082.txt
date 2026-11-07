@@ -1,0 +1,41 @@
+URL: https://www.linkedin.com/jobs/view/4487774596
+TITLE: Starszy Programista SQL (K/M/N)
+COMPANY: RTV EURO AGD
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-05
+title: Starszy Programista SQL (K/M/N)
+company: RTV EURO AGD
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fpl.linkedin.com%2Fjobs%2Fview%2Fstarszy-programista-sql-k-m-n-at-rtv-euro-agd-4487774596&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Szukasz pracy, w której jesteś w ruchu a każdy dzień wygląda inaczej?
+ Dołącz do #teamEURO -  tutaj technologia spotyka się z ludźmi.  
+Od ponad 35 lat jesteśmy jedną z najbardziej rozpoznawalnych marek na rynku elektroniki użytkowej i AGD w Polsce. Jesteśmy właścicielami dwóch sklepów internetowych – euro.com.pl oraz oleole.pl. Posiadamy ponad 350 salonów stacjonarnych, własne Contact Center oraz rozbudowaną sieć logistyczną.   
+Tworzymy przestrzeń do rozwoju, realizacji odważnych pomysłów i pracy nad unikalnymi projektami, które kształtują doświadczenia zakupowe milionów klientów.   
+ Czym Będziesz Się Zajmować
+ braniem pełnej odpowiedzialności za poprawne, stabilne i wydajne działanie rozwiązań Hurtowni Danych, którymi się opiekujesz,
+ rozwojem w obszarze programowania oraz analizą różnorodnych procesów biznesowych,
+ projektowaniem, tworzeniem oraz administrowaniem kostkami OLAP w SSAS, narzędzi ETL (m.in. przy użyciu języka T-SQL, SSIS)
+ mile widziane projektowanie i tworzeniem raportów w SSRS
+ rozumienie potrzeb biznesowych i płynne przekładanie ich na zrozumiałe rekomendacje i język techniczny,
+ aktywnym wspieraniem użytkowników końcowych i pomaganiem w rozwiązywaniu bieżących problemów,
+ stosowaniem skutecznych metod kontroli poprawności danych i wdrażanych rozwiązań,
+ Szukamy Osoby, Która
+ wyróżnia się wysoką komunikatywnością, otwartością oraz umiejętnością jasnego tłumaczenia zawiłych kwestii technicznych,
+ ma wysoką samodzielność i inicjatywę - samodzielne identyfikowanie potrzeb, projektowanie rozwiązań, realizacja oraz skuteczne dowożenie do końca złożonych projektów programistycznych.
+ będzie miała pełną odpowiedzialność za proces: umiejętność przejęcia tematu od fazy analizy i budowania rozwiązania, aż po jego finalne wdrożenie i zamknięcie.
+ posiada minimum 5-letnie praktyczne doświadczenie i wysokie umiejętności w obszarze programowania i optymalizacji SQL w środowisku MS SQL (2014-20xx),
+ posiada umiejętność tworzenia kostek OLAP dużej skali oraz administrowania SSAS,
+ posiada doskonałe umiejętności analityczne i potrafi kompleksowo patrzeć na architekturę danych,
+ wykazuje nastawienie probiznesowe oraz rozumie wpływ wdrażanych rozwiązań technicznych na sukces firmy,
+ cechuje się szczerością, pokorą oraz chęcią rozwiązywania ambitnych i wymagających wyzwań technologicznych,
+ Co Oferujemy
+ stabilność - pracę w polskiej firmie z ponad 35-letnią historią, u jednego z liderów branży,
+ przestrzeń do wdrażania własnych pomysłów i rozwiązań – Twoje decyzje mają znaczenie i realnie wpływają na rozwój obszaru, za który odpowiadasz,
+ pracę hybrydową, 2 dni w tygodniu z biura i 3 dni zdalnie,
+ benefity, które wspierają zdrowie i codzienny komfort Twój i Twoich Bliskich – prywatna opieka medyczna, karty sportowe, ubezpieczenie na życie,
+ pracę w nowoczesnym biurze w kompleksie The Park Warsaw z obiektami gastronomicznymi, przedszkolem, siłownią i przyjazną infrastrukturą rowerową,
+ możliwość poszerzania kompetencji poprzez udział w ciekawych projektach i współpracę z zespołami ekspertów,
+ wellbeing w praktyce – sportowe kluby firmowe (sport, wspólne aktywności).
+ Brzmi jak coś dla Ciebie?

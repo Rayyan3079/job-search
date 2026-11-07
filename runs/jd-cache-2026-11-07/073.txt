@@ -1,0 +1,66 @@
+URL: https://www.linkedin.com/jobs/view/4487000701
+TITLE: Data Analyst
+COMPANY: Oscar
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-03
+title: Data Analyst
+company: Oscar
+posted: 3 days ago
+applicants: Over 200 applicants
+apply_offsite: 
+---
+Title: Data Analyst
+ Location: Manchester (Hybrid - 2 days per week in the office)
+ Salary: £45,000 - £65,000 DOE
+ Industry: Fintech
+ The Opportunity 
+ I'm currently working with an innovative fintech business in Manchester that is looking to hire a Data Analyst to join its growing data and technology team.
+ The organisation develops technology-led financial products and services, using data to improve customer experiences, optimise financial performance and support business growth. As the business continues to expand, it's investing in its data capabilities to make better use of the information it collects and strengthen its analytical capabilities across the organisation.
+ This is a hands-on analytical opportunity where you'll work with large and varied datasets, develop reporting solutions and translate complex information into meaningful commercial insights. You'll play an important role in understanding customer behaviour, monitoring business performance and identifying opportunities to improve products, processes and overall business efficiency.
+ You'll work closely with stakeholders across product, finance, operations, technology and senior leadership, helping turn data into actionable insights that influence business decisions. The role will also involve developing dashboards, improving reporting processes and ensuring key business metrics are accurate, accessible and understood.
+ The ideal candidate will have strong SQL skills, experience with Power BI or Tableau and the ability to communicate analytical findings to both technical and non-technical audiences. Experience working within fintech, financial services, banking, payments or another technology-led environment would be particularly valuable.
+ If you're a Data Analyst looking to work within a growing fintech business, gain exposure to financial and customer data and have a genuine influence on commercial and product decisions, this could be an excellent opportunity.
+ Key Responsibilities 
+ Analyse large datasets to identify trends, patterns, anomalies and opportunities for business improvement.
+ Write and optimise SQL queries to extract, manipulate and analyse data from multiple sources.
+ Develop and maintain dashboards and reporting solutions using Power BI, Tableau or similar visualisation tools.
+ Analyse customer behaviour, transaction activity and product performance to identify meaningful business insights.
+ Monitor key business metrics and KPIs, highlighting trends and areas requiring further investigation.
+ Work closely with stakeholders across product, finance, operations, technology and commercial teams.
+ Translate business requirements into analytical solutions and actionable recommendations.
+ Investigate data discrepancies and support improvements in data accuracy, consistency and quality.
+ Deliver regular and ad hoc reporting to support strategic planning and operational decision-making.
+ Automate manual reporting processes and identify opportunities to improve analytical efficiency.
+ Present findings and recommendations clearly to technical and non-technical stakeholders.
+ Support the development of a more data-driven culture across the organisation.
+ Essential Skills and Experience 
+ Proven experience working as a Data Analyst or in a similar analytical role.
+ Strong SQL skills, including extracting, joining, manipulating and analysing complex datasets.
+ Experience using Power BI, Tableau or another data visualisation tool.
+ Strong analytical and problem-solving skills, with the ability to interpret complex information.
+ Experience developing dashboards, reports and performance metrics.
+ Ability to translate business requirements into effective reporting and analytical solutions.
+ Experience working with large datasets from multiple sources.
+ Strong attention to detail and a commitment to data accuracy and quality.
+ Excellent communication skills and the ability to explain analytical findings to non-technical stakeholders.
+ A proactive approach to problem-solving, process improvement and identifying opportunities through data.
+ Desirable Skills and Experience 
+ Experience working within fintech, financial services, banking, insurance, payments or another technology-led financial business.
+ Experience analysing financial, transactional, customer, payment or product data.
+ Understanding of financial products, payment processes or digital banking services.
+ Python experience for data analysis, automation or statistical analysis.
+ Advanced Excel skills, including complex formulas, pivot tables and data manipulation.
+ Familiarity with cloud data platforms, data warehouses or modern analytics environments such as Snowflake, Databricks or Microsoft Fabric.
+ Experience working with customer segmentation, customer lifetime value, retention or behavioural analytics.
+ Understanding of data governance, data quality and information security.
+ Experience presenting insights and recommendations to senior stakeholders.
+ Exposure to product analytics tools or experimentation, including A/B testing.
+ Package and Benefits 
+ Salary of £45,000 - £65,000, depending on experience.
+ Hybrid working, with two days per week in the Manchester office.
+ Opportunity to join an innovative and growing fintech business.
+ Exposure to financial, transactional, customer and product datasets.
+ Opportunity to influence commercial decisions and product development through data-driven insights.
+ Collaboration with stakeholders across product, finance, technology and wider business functions.
+ Scope to develop your technical skills and progress your analytics career within a growing organisation.
+ A role offering genuine responsibility, ownership and the opportunity to make a measurable business impact.

@@ -1,0 +1,30 @@
+URL: https://www.linkedin.com/jobs/view/4487773919
+TITLE: Studentische Hilfskraft (w/m/d)
+COMPANY: German Aerospace Center (DLR)
+LOC: Cologne, North Rhine-Westphalia, Germany
+POSTED: 2026-11-05
+title: Studentische Hilfskraft (w/m/d)
+company: German Aerospace Center (DLR)
+posted: 1 day ago
+applicants: 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fstudentische-hilfskraft-w-m-d-at-german-aerospace-center-dlr-4487773919&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Die Gruppe Strategie und Analysen ist verantwortlich für die Erstellung, Operationalisierung und Kontrolle der DLR-Gesamtstrategie. Darüber hinaus werden Fachgruppen bei der Erstellung von Teilstrategien unterstützt mit dem Ziel, alle Handlungsfelder der Teilstrategien und deren Teilziele auf die Inhalte der Gesamtstrategie auszurichten.
+ Das erwartet dich
+ Deine Aufgabe konzentriert sich auf die Unterstützung im Bereich der Daten- und Systempflege: Du sorgst dafür, dass unsere Datenverarbeitungsprozesse verlässlich laufen und bestehende Systeme kontinuierlich weiterentwickelt werden. Dabei bist du in unser Team eingebunden und bringst eigene Gedanken ein.
+ Deine Aufgaben
+ regelmäßige Daten- und Datenbankpflege
+ Aufbereitung und Validierung von Daten für Berichterstattungszwecke
+ eigenständige Durchführung von Programmieraufgaben (z. B. Skripte, Automatisierungen, Weiterentwicklung bestehender Systeme)
+ Das bringst du mit
+ laufendes Studium der (Wirtschafts-) Informatik oder vergleichbarer Studiengänge im Bachelor- oder Masterstudium
+ fundierte Kenntnisse in Python
+ Erfahrung im Umgang mit relationalen Datenbanken (z. B. SQL Server, Nutzung von SQL Server Management Studio)
+ Grundkenntnisse in der Containerisierung von Anwendungen mit Docker
+ Grundkenntnisse im Umgang mit GitLab (Versionierung, Branching, Merge Requests)
+ gute Kenntnisse in MS Office (insbesondere Excel)
+ eigenständige Arbeitsweise, strukturierte Vorgehensweise und hohe Zuverlässigkeit
+ Wir freuen uns darauf, dich kennenzulernen!
+ Fragen Zu Dieser Position (Kennziffer 6833) Beantwortet Dir Gerne
+ David Pinell
+ Tel.: 02203 601 2068

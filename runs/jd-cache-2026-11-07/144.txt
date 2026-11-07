@@ -1,0 +1,67 @@
+URL: https://www.stepstone.de/stellenangebote--Working-Student-Autosar-Software-Testing-Test-Automation-Sindelfingen-Mercedes-Benz-AG--14719995-inline.html
+TITLE: Working Student Autosar Software Testing & Test Automation
+COMPANY: Mercedes-Benz AG
+LOC: Sindelfingen
+POSTED: stepstone
+title: Working Student Autosar Software Testing & Test Automation
+company: Mercedes-Benz AG
+posted: 2026-11-05T14:47:50.91Z
+location: Sindelfingen | remote: 
+---
+Life is always about becoming… Becoming means going on a journey to be the best version of our future selves. While we discover new things, we will face challenges, master them and grow beyond our individual limits.
+Apply for a job at Mercedes-Benz and find your individual role and workspace to unleash your talents to the fullest. Empowered by visionary colleagues who share the same pioneering spirit. Joining us means becoming part of a global team that aims to build the most desirable cars in the world. Together for excellence.
+Job-ID: MER0004A26
+ Tasks
+ Becoming part of Mercedes-Benz means finding your individual role and workspace to unleash your talents to the fullest. It means becoming your best self in a global automotive company that has the goal to build the most desirable cars in the world. Empowered by visionary colleagues who share the same pioneering spirit. Together for excellence.  
+ Our team is currently in a growth phase and will consist of up to 15 members across our international locations. We are looking for highly motivated individuals who support each other and bring a collaborative spirit. Our core values are trust, an open feedback culture, clear communication, and knowledge sharing.
+ Our expertise lies in testing AUTOSAR base software and component software as well as in automating these tests within a continuous testing pipeline. We verify software on HiL systems and on our own test benches, covering everything from measurement and test execution to automated regression testing.
+ As a working student in our team, you will play an active role in the following areas:
+ Performing measurements on HiL systems using Gliwa (e.g. runtime and resource analysis of AUTOSAR software)
+ Executing tests on our testbenches and analyzing the results
+ Supporting the development of our test automation, including the test execution framework (CAPL, Python)
+ Creating and maintaining test configurations for base software and component software tests
+ Supporting the definition and creation of ASPICE-compatible processes
+ Supporting development teams in applying ASPICE-compliant processes
+ The activity can begin in mid-January 2027.
+ Qualifications
+ Enrolled student in computer science, electrical engineering or a comparable technical field
+ Proficient in German and English, both written and spoken
+ Good programming skills in Python, C or C++; experience with CAPL is a strong advantage
+ Knowledge of AUTOSAR and automotive networks (Ethernet, FlexRay, CAN(-FD), LIN)
+ Knowledge of Vector tools (CANoe, CANalyzer, DIVA) and of measurement tools such as Gliwa is an advantage
+ Experience with HiL systems or test benches is an advantage
+ Knowledge of JIRA, Confluence or equivalent is an advantage
+ Professional experience in the automotive industry is an advantage
+ Good knowledge of MS Office
+ Good communication skills
+ Proactive and well-organized
+ Ability to think logically and analytically
+ Additional Information: 
+ We look forward to receiving your online application, including a resume, certificates, current certificate of enrollment stating your semester, and proof of the standard period of study. A cover letter is optional. Please remember to mark your documents as "relevant for this application" in the online form and observe the maximum file size of 5 MB. 
+ You can find further information on the hiring criteria here . 
+ Severely disabled applicants and applicants with equivalent status are welcome! The representative for severely disabled employees ( sbv-sindelfingen@mercedes-benz.com ) will gladly support you in the application process. 
+ People Solutions will be happy to help you with any questions you may have about the application process. You can reach us by email at myhrservice@mercedes-benz.com or by phone at 0711/17-99000 (Mon-Fri 10am-12pm & 1pm-3pm). 
+ Benefits
+ Meal-Discounts 
+ Mobile Phone for Employees Possible 
+ Discounts for Employees Possible 
+ Annual Profit Share Possible 
+ Events for Employees 
+ Coaching 
+ Flextime Possible 
+ Hybrid Work Possible 
+ Health Benefits 
+ Company Retirement 
+ Mobility Offers 
+ Near-Site Childcare 
+ Parking 
+ Canteen, Café 
+ Good Public Transport 
+ Barrier-Free Workplace 
+ Inhouse Doctor 
+ Contact
+Barbara Krausz
+Email: barbara.krausz@mercedes-benz.com 
+Mercedes-Benz Plant Sindelfingen, Sindelfingen
+Bela-Barenyi-Str. 1 Tor 3
+71063 Sindelfingen

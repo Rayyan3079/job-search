@@ -1,0 +1,56 @@
+URL: https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208580144-S
+TITLE: Werkstudent (m/w/d) Bereich Power BI
+COMPANY: Symporo GmbH
+LOC: Ludwigsburg, Württemberg
+POSTED: AA
+title: Werkstudent (m/w/d) Bereich Power BI
+company: Symporo GmbH
+posted: 2026-11-06
+location: Ludwigsburg | remote: 
+---
+Arbeiten bei Symporo
+Die Symporo Culinary Group vereint Unternehmen aus der Gemeinschaftsverpflegung, dem Schul- und Kita-Catering, Essen auf Rädern sowie dem Event- und Cateringgeschäft. Damit unsere operativen Einheiten und die Geschäftsführung jederzeit die richtigen Entscheidungen treffen können, benötigen wir deine Unterstützung und dein fachliches IT-Knowhow im Bereich Power BI am Standort Ludwigsburg.
+Deine Aufgaben
+Erstellung, Pflege und Weiterentwicklung von Power-BI-Dashboards und Reports
+Aufbereitung und Visualisierung von Daten aus verschiedenen Quellen
+Microsoft Fabric Erfahrung
+Unterstützung beim Aufbau und bei der Optimierung von Datenmodellen
+Erstellung einfacher Measures und Berechnungen mit DAX
+Aufbereitung und Transformation von Daten mit Power Query
+Überprüfung der Datenqualität sowie Analyse und Behebung von Fehlern in bestehenden Reports
+Optimierung von Reports hinsichtlich Benutzerfreundlichkeit, Übersichtlichkeit und Performance
+Abstimmung mit den Fachbereichen zur Aufnahme und Umsetzung von Reporting-Anforderungen
+Das bringst du mit
+Studium der (Wirtschafts-) Informatik, Wirtschaftsingenieurwesen oder eines vergleichbaren Studiengangs mit Vertiefung IT
+Erfahrung mit Microsoft Power BI
+Erfahrungen mit Power Query, DAX und Datenmodellierung
+Kenntnisse in SQL sind von Vorteil
+Gute Deutsch- und Englischkenntnisse in Wort und Schrift
+Interesse an Datenanalyse, Reporting und Business Intelligence
+Hohe Team- und Kommunikationsfähigkeit
+Zuverlässigkeit und eine lösungsorientierte Herangehensweise
+Das erwartet dich
+Eine zentrale Rolle bei der Weiterentwicklung unseres gruppenweiten KPI-Dasboards.
+Die Möglichkeit, praktische Erfahrungen in einem professionellen IT- und Reporting-Umfeld zu sammeln
+Ein großartiges Team, das zusammen anpackt und das Wert auf klare Kommunikation, Verlässlichkeit und pragmatische Lösungen legt.
+Das bieten wir dir
+Work-Life-Balance (flexible Arbeitszeiten und teilweise mobiles Arbeiten möglich)
+Flache Hierarchien und kurze Entscheidungswege
+Zugang zum Rabatt- und Gutscheinportal Corporate Benefits
+Gute Übernahmechancen nach erfolgreichem Abschluss
+Regelmäßige Team- und Firmenevents
+Dein Beitrag bei Symporo
+Du entwickelst unser gruppenweites KPI-Dashboard technisch und inhaltlich weiter. Dabei gestaltest du es so, dass neue Gesellschaften effizient eingebunden und weitere Reporting-Möglichkeiten flexibel ergänzt werden können. Du unterstützt den Ausbau einer skalierbaren BI-Lösung, die mit Symporo und den Anforderungen unserer Unternehmensgruppe mitwächst.
+Gemeinsam mit IT und Fachbereichen übersetzt du Reporting-Anforderungen in praxistaugliche Dashboard-Funktionen. Dazu entwickelst du Datenmodelle und Berechnungen weiter, bindest Datenquellen an und verbesserst bestehende Reports mit Blick auf Übersichtlichkeit, Benutzerfreundlichkeit und Performance. Außerdem prüfst du die Datenqualität, analysierst Fehler und dokumentierst technische Lösungen. So trägst du dazu bei, unser KPI-Reporting nachhaltig auszubauen und eine verlässliche Grundlage für gruppenweite Entscheidungen zu schaffen.
+Bewirb dich bei uns
+Du möchtest deine berufliche Zukunft bei Symporo starten und gemeinsam mit uns wachsen? Dann bewirb dich jetzt. Wir freuen uns darauf, dich kennenzulernen.
+Mail an: evelin.geringer@symporo.com
+Über die Homepage: https://www.symporo.com/team-karriere/#jobs
+Ansprechpartner
+Patrick Primus / Evelin Geringer
+Erforderliche Anlagen zur Bewerbung:
+Anschreiben unter Angabe d. Semesters, Studiengang und Schwerpunkt/Fachbereich
+Lebenslauf
+(Hoch-)Schulzeugnissen und ggf. Arbeitszeugnisse
+Notenspiegel der Hochschule/Universität
+Aktuelle Immatrikulationsbescheinigung

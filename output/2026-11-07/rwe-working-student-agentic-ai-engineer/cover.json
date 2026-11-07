@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Working Student Agentic AI Engineer",
+    "company": "RWE AG",
+    "city": "Essen",
+    "greeting": "Dear RWE hiring team,",
+    "opening": "I am applying for the Working Student position as Agentic AI Engineer. Turning prototypes into reliable, tested and well-documented solutions is exactly what I focused on in my latest project, an LLM application with a repeatable evaluation.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence. Before my Master's I worked with business data on SAP platforms as a Business Analyst and in analytics consulting.",
+    "achievements": [
+      {
+        "lead": "DocuMind",
+        "impact": "I built a RAG system over PDF manuals with the Claude API that answered 91% of a 22-question test set correctly and refused all 4 unanswerable questions; hybrid BM25 and semantic retrieval raised MRR from 0.748 to 0.898"
+      },
+      {
+        "lead": "Repeatable evaluation and tests",
+        "impact": "I designed DocuMind's evaluation harness (hit rate, MRR, LLM judge, latency, cost) and shipped it with 37 offline unit tests, GitHub Actions CI and Docker"
+      },
+      {
+        "lead": "Debugging",
+        "impact": "I used the evaluation to trace both wrong answers to chunk boundaries rather than to the model, and documented the findings in the project README"
+      }
+    ],
+    "problems_section": "I would contribute Python code, connect model APIs, keep configurations and documentation up to date and build repeatable evaluations for quality, reliability and response times. I have not yet built agent workflows, and with my RAG, API and testing experience I can learn them quickly under your senior engineers.",
+    "closing": "I am willing to relocate to Essen and can work 20 hours per week for the 6-month term, starting immediately. I would be glad to discuss the role.",
+    "date": "2026-11-07",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-11-07/rwe-working-student-agentic-ai-engineer/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

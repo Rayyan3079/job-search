@@ -1,0 +1,34 @@
+URL: https://www.linkedin.com/jobs/view/4486274053
+TITLE: Internship Operational Excellence & Business Intelligence (BI & AI) Start date: by arrangement, duration: 6 months
+COMPANY: Lufthansa Technik
+LOC: Hamburg, Hamburg, Germany
+POSTED: 2026-11-06
+title: Internship Operational Excellence & Business Intelligence (BI & AI) Start date: by arrangement, duration: 6 months
+company: Lufthansa Technik
+posted: 11 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Finternship-operational-excellence-business-intelligence-bi-ai-start-date-by-arrangement-duration-6-months-at-lufthansa-technik-4486274053&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Do you enjoy working with data, developing dashboards, and experimenting with new AI technologies? In our department, which works closely with our production facilities, you’ll help make data transparent and develop digital solutions. You'll be able to independently contribute and implement your own ideas - from analysis all the way to a working prototype.
+ Tasks
+ Design and development of interactive Power BI dashboards for visualizing KPIs and business data
+ Preparation, analysis, and integration of data from various data sources
+ Gaining practical skills with a focus on further developing and optimizing existing reports, dashboards, and analytics solutions
+ Analyzing data to identify trends, anomalies, and correlations
+ Testing forecasting and predictive analytics approaches
+ Identifying specific AI use cases based on our existing data, applications, and business processes
+ Prototyping initial AI solutions and evaluating their potential added value
+ Independently working on smaller data and AI projects and contributing your own ideas
+ Preparing and presenting results to various stakeholders
+ Participating in meetings and workshops
+ Requirements
+ At the time of the internship, you must be in at least your third semester of a degree program in Business Informatics, Computer Science, Data Science, Industrial Engineering, Business Administration, or a comparable field of study
+ Proof of enrollment for the entire duration of the internship (current certificate of enrollment and a written proof of mandatory internship must be included with the application) or an internship between the bachelor’s and master’s programs (Gap Year)
+ Analytical thinking skills and an interest in data, BI tools, and digital solutions
+ Basic knowledge of data preparation and data analysis
+ Interest in AI, generative AI, and AI agents
+ Initial experience with Power BI, forecasting, machine learning, or image analysis is a plus
+ Enthusiasm for new technologies and for developing your own ideas and use cases
+ A structured, independent, and solution-oriented approach to work
+ Ability to take initiative, as well as strong communication and teamwork skills
+ Excellent German and English language skills

@@ -1,0 +1,52 @@
+URL: https://www.linkedin.com/jobs/view/4486394406
+TITLE: Microsoft Fabric / Power BI Developer
+COMPANY: Findmore Consulting, S.A.
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-04
+title: Microsoft Fabric / Power BI Developer
+company: Findmore Consulting, S.A.
+posted: 2 days ago
+applicants: 40 applicants
+apply_offsite: 
+---
+Findmore Consulting S.A. is a company specialized in Information Technologies founded in 2006 and with more than 400 consultants.
+ Our services include infrastructure and cloud, software development and agility where contribute to major projects in Portugal and Europe. We're looking for talented, purpose-driven people to join our teams!
+ Main Tasks & Responsibilities 
+ Maintain and develop Microsoft Fabric and Power BI solutions within a large-scale Data Analytics environment.
+ Develop and enhance reporting and analytics solutions, addressing new business requirements across multiple business areas.
+ Design and implement data models, including star schema modelling.
+ Develop and maintain Power BI reports and dashboards using DAX and Power Query (M).
+ Work with Microsoft Fabric components, including Lakehouse, Warehouse, Dataflows Gen2, Data Pipelines and Notebooks.
+ Manage Power BI Service functionalities, including workspaces, deployment pipelines, data gateways, incremental refresh and row-level security.
+ Consume and integrate data from cloud data platforms such as Snowflake, Azure SQL and Synapse.
+ Optimise the performance of semantic models and reports.
+ Discuss business requirements, define KPIs and translate them into effective technical solutions.
+ Work across multiple projects, applying a consulting mindset focused on value generation.
+ Collaborate with business stakeholders and technical teams in an international environment.
+ Requirements 
+ At least 3 years of professional experience as a Power BI Developer.
+ Strong experience in data modelling, particularly star schema, DAX and Power Query (M).
+ Hands-on experience with Microsoft Fabric, including Lakehouse, Warehouse, Dataflows Gen2, Data Pipelines and Notebooks.
+ Experience with Power BI Service, including workspaces, deployment pipelines, data gateways, incremental refresh and row-level security.
+ Strong SQL skills and experience consuming data from cloud data platforms.
+ Experience optimising semantic models and report performance.
+ Ability to understand and discuss business requirements, define KPIs and translate them into technical solutions.
+ Consulting experience with a value-generation mindset.
+ Ability to manage and contribute to multiple projects simultaneously.
+ Strong critical thinking and problem-solving skills.
+ Good organisational skills and familiarity with Office productivity tools.
+ Advanced communication and presentation skills, both written and verbal, particularly in customer-facing environments.
+ Nice to have 
+ Technical knowledge of SAP modules, particularly FI, SD and MM.
+ Knowledge of Snowflake and dbt.
+ Microsoft certifications such as PL-300 (Power BI Data Analyst) or DP-600 (Fabric Analytics Engineer).
+ Experience with version control and CI/CD for Power BI / Fabric, including Git integration and PBIP.
+ Familiarity with Agile frameworks.
+ Experience working with distributed teams and customers across different countries and time zones.
+ Other Requirements 
+ Fluent in English
+ Ability to simplify complex problems and obtain a workable solution;
+ Customer focus and service delivery;
+ Availability to work in EU.
+ SEND YOUR APPLICATION TO: fabio.valentim@findmore.eu;
+ More information on our website: https://www.findmore.pt/careers/

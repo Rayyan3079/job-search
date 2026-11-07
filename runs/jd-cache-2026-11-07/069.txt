@@ -1,0 +1,26 @@
+URL: https://www.linkedin.com/jobs/view/4487291707
+TITLE: Desenvolvedor de Dashboards e Soluções Copilot
+COMPANY: Jobbol
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-04
+title: Desenvolvedor de Dashboards e Soluções Copilot
+company: Jobbol
+posted: 2 days ago
+applicants: 29 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fbr.linkedin.com%2Fjobs%2Fview%2Fdesenvolvedor-de-dashboards-e-solu%25C3%25A7%25C3%25B5es-copilot-at-jobbol-4487291707&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Empresa de Tecnologia e Serviços de Consultoria em Dados e Business Intelligence busca profissional Desenvolvedor de Dashboards e Soluções Copilot em Manaus.
+A Pantheon Inc. é uma plataforma de gerenciamento de sites que permite a criação, desenvolvimento e implantação de sites de forma eficiente. A empresa se destaca por oferecer soluções para otimização de desempenho e colaboração em equipe.
+ Responsabilidades
+ Desenvolver, manter e aprimorar dashboards e relatórios em Power BI. Realizar modelagem de dados, criação de métricas e medidas utilizando DAX. Integrar e tratar dados de diferentes fontes por meio de APIs, como Azure DevOps, Smartsheet, SQL e Salesforce. Desenvolver soluções com Inteligência Artificial utilizando Microsoft Copilot e Copilot Studio. Identificar necessidades das áreas de negócio e propor soluções tecnológicas. Prestar suporte técnico, corrigir falhas e otimizar soluções existentes. Trabalhar em colaboração com equipes globais e stakeholders de diferentes regiões.
+Atuações anteriores em Engenheiro de Dados para Dashboards, Analista de Business Intelligence, Desenvolvedor de Relatórios Interativos ou Especialista em Visualização de Dados podem indicar afinidade com algumas das atividades desta posição.
+ Requisitos Desejáveis
+ Escolaridade: Ensino superior completo
+ Experiência: Necessário experiência
+ Remuneração e Benefícios
+ Salário: Faixa salarial será informada na entrevista.
+ Benefícios a combinar
+ Informações Adicionais
+ Contrato: Home Office. Modalidade 100% remota.
+ Período: Tempo Integral
+ Jornada: A combinar

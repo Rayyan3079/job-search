@@ -1,0 +1,13 @@
+URL: https://www.linkedin.com/jobs/view/4485847980
+TITLE: Data Engineer - Big Data, Cloud Pipelines, Remote
+COMPANY: JAKALA
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-05
+title: Data Engineer - Big Data, Cloud Pipelines, Remote
+company: JAKALA
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fjobs%2Fview%2Fdata-engineer-big-data-cloud-pipelines-remote-at-jakala-4485847980&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+JAKALA, acteur majeur de la transformation data et IA, recherche un(e) Data Engineer pour notre Practice Data & AI à Paris. Vous concevrez et industrialiserez des pipelines data massifs, coordonnerez des projets avec Data Scientists et Data Engineers, et contribuerez à l’architecture cloud et à la valorisation des données pour des clients de grands comptes.
+Vous maîtrisez Snowflake, BigQuery et PostgreSQL, les environnements Cloud (AWS/GCP/Azure) et les pipelines batch et streaming.

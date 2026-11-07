@@ -1,0 +1,53 @@
+URL: https://www.linkedin.com/jobs/view/4485099194
+TITLE: Data Analyst Experienced Tableau  F/H
+COMPANY: CENISIS
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-06
+title: Data Analyst Experienced Tableau  F/H
+company: CENISIS
+posted: 13 hours ago
+applicants: 35 applicants
+apply_offsite: 
+---
+CENISIS recrute un Data Analyst Experienced Tableau F/H , en CDI, à Lille, pour intervenir au sein d’une équipe métier chez un grand acteur du Retail.
+ Tes missions : 
+ En tant que Data Analyst Experienced Tableau F/H , tu joueras un rôle central entre la donnée et les enjeux métiers afin d’accompagner la prise de décision.
+ Tes principales responsabilités : 
+ Réaliser des analyses de données pour orienter les décisions business (pricing)
+ Produire des exports de données multi-sources.
+ Concevoir et faire évoluer des dashboards Tableau
+ Travailler sur la plateforme Databricks, avec des outils de transformation et d’orchestration comme dbt et Airflow.
+ Appliquer les bonnes pratiques de développement : Git, GitHub, CI/CD.
+ Participer à la recette de données avant mise en production.
+ Contribuer à des projets métiers : règles de gestion, indicateurs, reporting.
+ Collaborer avec les équipes business pour répondre aux enjeux opérationnels
+ Ton profil : 
+ Formation Bac+5 (data, statistiques, informatique, ingénierie ou équivalent).
+ Expérience confirmée de 5 ans minimum en tant que Data Analyst.
+ Très bonne maîtrise de SQL. / Python 
+ Maîtrise de Git, GitHub et des pratiques CI/CD.
+ Fortes compétences en data visualisation (Tableau ou outil similaire).
+ Expérience avec Databricks ; dbt et Airflow sont un plus.
+ Anglais oral et écrit courant, indispensable.
+ Une expérience retail / e-commerce est un vrai plus.
+ Ton savoir-être : 
+ Forte compréhension des impacts business.
+ Excellent esprit analytique.
+ Rigueur et sens du détail.
+ Capacité à vulgariser la donnée auprès des métiers.
+ Autonomie et proactivité.
+ Esprit d’équipe et capacité à travailler en binôme.
+ Alors tu es partant(e) pour relever le défi ? N’hésite pas à postuler, ce serait le début d’une superbe aventure ensemble !
+ À compétences égales, tous nos postes sont ouverts aux personnes en situation de handicap. 
+ En rejoignant CENISIS, tu bénéficies notamment : 
+ Prise en charge à 100 % des transports en commun ou indemnités kilométriques vélo.
+ Charte télétravail co-signée par la direction.
+ Prime de performance.
+ Et évidemment, les avantages classiques : 
+ Tickets restaurant.
+ Mutuelle d’entreprise.
+ Le processus de recrutement : 
+ Chez Cenisis, le processus de recrutement s’adapte au contexte des missions et peut être accéléré en fonction des besoins :
+ Première rencontre avec Camille , Talent Acquisition,
+ Deuxième échange avec ton futur Manager,
+ Troisième échange avec Gilles, Head of Cenisis Academy et/ou Cédric, CEO.

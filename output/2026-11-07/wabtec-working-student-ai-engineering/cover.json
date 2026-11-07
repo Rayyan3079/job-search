@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Working Student – AI Engineering",
+    "company": "Wabtec Corporation",
+    "city": "Munich",
+    "greeting": "Dear Wabtec hiring team,",
+    "opening": "I am applying for the Working Student position in your AI Engineering team. Building AI prototypes and testing their reliability and output quality is what my latest project is about, and I would like to help take such prototypes towards production.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence. I also bring industry experience in data preparation and validation on SAP platforms.",
+    "achievements": [
+      {
+        "lead": "DocuMind",
+        "impact": "I built a RAG system over PDF manuals with the Claude API that answered 91% of a 22-question test set correctly and refused all 4 unanswerable questions; hybrid BM25 and semantic retrieval raised MRR from 0.748 to 0.898"
+      },
+      {
+        "lead": "Repeatable evaluation and tests",
+        "impact": "I designed DocuMind's evaluation harness (hit rate, MRR, LLM judge, latency, cost) and shipped it with 37 offline unit tests, GitHub Actions CI and Docker"
+      },
+      {
+        "lead": "Data preparation",
+        "impact": "in industry I prepared, validated and reconciled data with SQL and ABAP CDS views for dashboards used across HR, finance and supply chain"
+      }
+    ],
+    "problems_section": "I would help implement AI applications on existing models and services, prepare data, build and test proofs of concept, and keep documentation clear. I have not used enterprise AI assistants or low-code AI platforms yet, and I am keen to learn them.",
+    "closing": "I am willing to relocate to Munich and can work up to 20 hours per week, starting immediately. I would be glad to discuss the role.",
+    "date": "2026-11-07",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-11-07/wabtec-working-student-ai-engineering/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

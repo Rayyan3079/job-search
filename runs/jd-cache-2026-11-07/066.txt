@@ -1,0 +1,69 @@
+URL: https://www.linkedin.com/jobs/view/4486758751
+TITLE: Data Analyst - CDI - H/F
+COMPANY: Talan
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-05
+title: Data Analyst - CDI - H/F
+company: Talan
+posted: 1 day ago
+applicants: 104 applicants
+apply_offsite: 
+---
+Qui sommes nous ?
+ Fondé en France, Talan est aujourd’hui un groupe international qui accompagne ses clients dans leur transformation Data & IA, de bout en bout, en combinant conseil en management et expertise technologique.
+ Avec plus de 6000 collaborateurs sur 5 continents, nous accélérons les transformations de nos clients à travers des partenariats de long terme, en créant un impact mesurable et durable.
+ Notre proposition de valeur repose sur un écosystème d’innovation structuré : 2 500 experts Data & IA, des solutions propriétaires construites sur des modèles avancés et un laboratoire de recherche appliquée, de développement expérimental et d’innovation.
+ Nous traduisons l’innovation technologique en avantage concurrentiel depuis plus de 20 ans dans des secteurs stratégiques : banques et services financiers, énergie, transport et mobilité, luxe et distribution, santé.
+ Porté par sa promesse de Positive Innovation, Talan s’impose comme un acteur de référence pour répondre à la complexité croissante des environnements économiques, technologiques et réglementaires.
+ www.talan.com
+ Et Talan Sud Est ?
+ Talan Sud-Est est présent depuis 2007 à Lyon et compte environ 350 collaborateurs répartis entre Aix-Marseille et Lyon. En plein développement, les équipes s'agrandissent ! 
+Nous continuons de développer aujourd'hui nos activités auprès de grands comptes et d’ETI, principalement dans les secteurs de l’Energie et de l’Environnement, du Transport et de la Logistique, de l’Industrie, de la Distribution, de la Santé et des Services Publiques. 
+L’expertise, la bonne humeur, le collectif et de l’esprit d’entreprendre, constituent notre ADN. 
+ Description du poste
+ L’équipe Cloud 4 Data , forte de 70 collaborateurs, joue un rôle clé à la fois dans les projets de transformation digitale de nos clients, mais également dans l'évolution croissante de la région Talan Sud Est.
+ Ce pôle ambitionne de continuer à se développer sur les expertises suivantes : analyse de la donnée, data engineering, data gouvernance, architecture, conseil, etc...
+ Qu'est-ce que nous vous proposons ?
+ En tant que Data Analyst, vous interviendrez sur des projets variés avec une forte proximité avec les équipes métiers. Vous serez notamment amené(e) à :
+ Échanger directement avec les métiers afin de comprendre leurs enjeux, recueillir leurs besoins et les traduire en problématiques Data concrètes.
+ Analyser, transformer et valoriser les données pour produire des analyses fiables et exploitables.
+ Concevoir, développer et maintenir des dashboards et reportings avec des outils de Data Visualisation tels que Power BI, Tableau ou Qlik Sense .
+ Définir et suivre les KPIs pertinents pour accompagner les métiers dans leur prise de décision.
+ Réaliser des analyses exploratoires afin d’identifier des tendances, anomalies ou opportunités.
+ Interroger, croiser et manipuler des données complexes grâce à une maîtrise avancée de SQL .
+ Utiliser Python pour le traitement, l’analyse et l’automatisation des données.
+ Veiller à la qualité et à la cohérence des données utilisées.
+ Restituer vos analyses de manière claire et pédagogique auprès d’interlocuteurs techniques et métiers.
+ Qualifications
+ Vous êtes la personne idéale si…
+ En possession d'un diplôme de niveau bac+5 (diplôme d'ingénieur ou Master technique), vous possédez au moins 4 années d’expérience dans le domaine de la data. Vous avez déjà travaillé en société de services et êtes en capacité d'intervenir sur tout le cycle de vie des projets (conception, solutions, mise en production).
+ Vous maîtrisez les solutions/outils suivants :
+ SQL
+ Python
+ Au moins un des outils de datavisualisation suivant : Power BI, Tableau, Qlik Sense, Qlik Cloud
+ Nous recherchons un profil capable d’être à l’interface entre la Data et les métiers . Au-delà de la production de dashboards, vous savez comprendre les enjeux business, challenger les besoins et transformer les données en éléments concrets d’aide à la décision.
+ Ce descriptif vous plait ? Lancez-vous : nous avons hâte d’en apprendre plus sur vous, vous présenter nos références projets et Talan plus en détails !
+ Ce que Talan Lyon vous propose au quotidien : 
+ Des locaux modernes situés à proximité du parc de la Tête d'Or
+ La possibilité de télétravailler (prime d’équipement de 100 €)
+ Mutuelle prise en charge à hauteur de 80% minimum
+ Des titres-restaurant
+ Primes de cooptation de 500 à 4000€
+ Actionnariat salarié
+ Great Place to Work depuis 10 ans
+ Retour de congé maternité possible à 4/5ème sans perte de salaire pendant 6 mois
+ Permanence handicap (consultant dédié aux collaborateurs en situation de handicap et aux proches aidants)
+ Offre de formation complète sur site et à distance, programme de mentoring pour les femmes
+ Mobilité en France et à l’étranger 
+ Top 1% des entreprises évaluées par Ecovadis dans le domaine social, environnemental et éthique 
+ Activité sportive hebdomadaire au sein des locaux encadré par un coach)
+ Encouragement à l’intrapreneuriat avec accompagnement de nos directeurs 
+ Processus de recrutement :
+ L’équipe recrutement s’engage à vous proposer un processus de recrutement rapide et fluide avec à minima un entretien en présentiel dans nos locaux : 
+ Un premier échange de 30 à 45 minutes en visio ou par téléphone avec le recruteur pour vous présenter le poste et comprendre votre projet professionnel 
+ Un entretien technique
+ Un entretien managérial
+ Talan est une entreprise responsable, attachée à la diversité. Des aménagements de poste peuvent être organisés pour tenir compte des personnes en situation de handicap.
+#Talan #TalanFrance #Data #PowerBI #PBI #Azure 
+ Informations supplémentaires
+ Data, BI, Microsoft, Power BI, Azure

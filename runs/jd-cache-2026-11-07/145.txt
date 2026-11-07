@@ -1,0 +1,55 @@
+URL: https://www.stepstone.de/stellenangebote--Embedded-Software-Engineer-Working-Student-Intern-Position-Full-Time-12-Months-m-f-d-Gilching-Bayern-Germany-Quantum-Systems-GmbH--14717296-inline.html
+TITLE: Embedded Software Engineer – Working Student / Intern Position (Full-Time, 12 Months) (m/f/d)
+COMPANY: Quantum-Systems GmbH
+LOC: Gilching, Bayern, Germany
+POSTED: stepstone
+title: Embedded Software Engineer – Working Student / Intern Position (Full-Time, 12 Months) (m/f/d)
+company: Quantum-Systems GmbH
+posted: 2026-11-05T05:50:49.627Z
+location: Gilching | remote: 
+---
+About the role: 
+ Embedded Software Engineer – Working Student / Intern Position (Full-Time, 12 Months)
+ Join our Drone Port team as Embedded Software Engineer and help develop the embedded software that enables safe and autonomous drone operations. As an experienced student, you will contribute practical engineering skills to a team of 20 colleagues and work closely with embedded software engineers, system architects, and hardware developers.
+ Over this 12-month, full-time position, you will take ownership of defined development tasks, from implementation and debugging to testing and documentation, with support and technical guidance from experienced colleagues.
+ What is your Day to Day Mission: 
+ Develop, maintain, and optimize embedded firmware for our Drone Port systems.
+ Translate technical requirements into software features and contribute to design decisions.
+ Implement and test board support packages (BSPs), peripheral drivers, and interfaces to external sensors.
+ Debug firmware and investigate hardware–software interactions using appropriate measurement and - debugging tools.
+ Develop and maintain tests to verify functionality and improve software reliability and code coverage.
+ Contribute to bootloader development and firmware update mechanisms.
+ Support and improve our firmware build environment and GitLab CI/CD pipelines.
+ Develop and maintain tools for production, device configuration, and testing.
+ Document your work and participate in code reviews and technical discussions.
+ What you bring to the team: 
+ You are studying electrical engineering, computer engineering, computer science, or a related subject and are available to work full-time for 12 months.
+ You have substantial practical experience in embedded software development.
+ You write clean, structured, and efficient C code and understand the constraints of resource-limited microcontrollers.
+ You have hands-on experience with ARM Cortex-M microcontrollers and common peripherals.
+ You have practical experience with several embedded communication interfaces, such as UART, I²C, SPI, CAN, or Ethernet.
+ You understand core real-time operating system concepts and have ideally used an RTOS
+ You use Git confidently and are familiar with collaborative development workflows, including branches, merge requests, and code reviews.
+ You can read electronic schematics and use them to investigate hardware–software issues.
+ You approach debugging systematically and can explain your findings clearly.
+ You work independently on agreed tasks, communicate progress and obstacles proactively, and seek input when needed.
+ You enjoy collaborating across disciplines and sharing technical knowledge.
+ Your English is at least B2 level, both written and spoken.
+ Why Quantum-Systems: 
+ We believe in the power of combined efforts: straightforward tech expertise paired with a customer-centric focus.
+ We are industry pioneers who are ambitious, bold, and visionary. 
+ We push limits, think outside-the-box and strive for technological excellence to shape the future of aerial data.
+ We promise to be your runway for individual and professional growth.
+ Our benefits: 
+ Flexible working hours: With trust-based working hours, you are not only responsible for your working hours, but also for your work-life balance.
+ Mobile working: If it gets too turbulent for you in our office, you can get the necessary balance through mobile working.
+ Stay active: With EGYM Wellpass, you get access to thousands of fitness and sports facilities — and of course, we subsidize the membership.
+ Corporate Benefits: Your opportunity for attractive offers and discounts from well-known suppliers and brands, e.g. Adidas, Apple, Expedia.
+ Employee events: We not only want to grow together, but also celebrate our successes together.
+ Lunch-Card: Be powerful with delicious energy, daily lunch budget is sponsored.
+ Company Shuttle: Enjoy our convenient shuttle service that picks you up from Laim in Munich and brings you to our location, with return trips at the end of the workday.
+ About us: 
+ Quantum Systems develops advanced autonomous systems for defense and security operations across multiple domains, powered by integrated software and AI. Quantum Systems is at the forefront of AI-powered aerial, ground, naval robotics, developing a family of smart systems that go far beyond traditional drones. Built on a foundation of in-house hardware, software and AI, our systems transform data into critical insights, empowering decision-making across security, defense and public safety, as well as for the commercial, industrial and GIS sectors. Our vertically integrated system with industry leading endurance, enable seamless interoperability and software interconnectivity. On-board AI powers multi-modality sensing, autonomous navigation, anti-jamming, swarm operations and more.
+ Our commitment: 
+ We are an open-minded company that not only values diversity, but actively promotes it. Regardless of gender, age, ethnic origin, religion, sexual orientation or disability, we firmly believe that the diversity of our employees is an essential part of our success.
+ At our company, every voice is heard and every perspective is valued. We believe that our differences enrich us and help us to find creative solutions and generate innovative ideas. We pride ourselves on creating an inclusive work environment where all employees can reach their full potential.

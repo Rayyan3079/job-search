@@ -1,0 +1,61 @@
+URL: https://www.linkedin.com/jobs/view/4486267853
+TITLE: Werkstudent:in Data & Analytics (m/w/d) - Business Analysis, Datenbankentwicklung/BI, Ingenieur
+COMPANY: EDEKA IT
+LOC: Hamburg, Hamburg, Germany
+POSTED: 2026-11-06
+title: Werkstudent:in Data & Analytics (m/w/d) - Business Analysis, Datenbankentwicklung/BI, Ingenieur
+company: EDEKA IT
+posted: 10 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-in-data-analytics-m-w-d-business-analysis-datenbankentwicklung-bi-ingenieur-at-edeka-it-4486267853&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Werkstudent:in Data & Analytics (m/w/d)
+Bei EDEKA IT Stiftung & Co. OHG in New-York-Ring 6, Hamburg - Job-ID: EIT-423958
+Einsatzort## Hamburg
+Eintrittsdatum## Ab sofort
+Beschäftigungsart## Teilzeit
+Befristung## Ja
+Bezüge
+Wir bei der EDEKA IT sind das Herzstück des digitalen Wandels im EDEKA-Verbund. Als leistungsstarkes Team entwickeln wir IT-Strategien, -Infrastrukturen und -Dienstleistungen für alle Handelsbereiche des EDEKA-Verbunds in ganz Deutschland. Wir bündeln unsere Kompetenzen, um innovative Lösungen zu entwickeln und umzusetzen. So treiben wir den Handel von morgen voran - vielleicht schon bald gemeinsam mit dir?
+In deiner Rolle als Werkstudent:in Data & Analytics (m/w/d) am Standort Hamburg kannst du bei uns deinen ganz persönlichen Beitrag zu unseren Zielen leisten.
+Deine Aufgaben
+Du unterstützt das Team Data & Analytics bei der Qualitätssicherung und Prozessoptimierung. Zu deinen Aufgaben gehören:
+Testfallmanagement: Du erstellst und dokumentierst Testfälle für unsere neue Enterprise Data Platform und stellst eine strukturierte Testabdeckung sicher.
+Testdurchführung & Dokumentation: Du führst Tests durch, dokumentierst die Ergebnisse strukturiert und unterstützt bei der Bewertung und Nachverfolgung von Auffälligkeiten.
+Dokumentation: Du erstellst und pflegst technische sowie organisatorische Dokumentationen in Confluence und stellst eine übersichtliche und aktuelle Wissensbasis sicher.
+Administrative & organisatorische Unterstützung: Du unterstützt das Team bei administrativen und organisatorischen Aufgaben und trägst zu einem reibungslosen Arbeitsablauf bei.
+Qualitätssicherung & Prozessoptimierung: Du wirkst bei der Qualitätssicherung sowie bei der Weiterentwicklung und Optimierung unserer Prozesse mit.
+Dein Profil
+Du bist mindestens noch 1 Jahr eingeschriebene:r Student:in in einem IT-nahen Studiengang (z. B. Wirtschaftsinformatik, Data Science oder vergleichbar).
+Analytisches Denken: Du kannst komplexe Sachverhalte schnell erfassen, logisch aufbereiten und klar formulieren.
+Tools: Du hast idealerweise erste Erfahrungen mit Confluence, Jira oder vergleichbaren Tools.
+Git & Versionsverwaltung: Du hast idealerweise erste Erfahrungen mit Git und verstehst die grundlegenden Konzepte der Versionsverwaltung (Branches, Commits und Pull Requests).
+Interesse an Daten & Cloud: Du interessierst dich für Datenplattformen, Datenanalyse und moderne Cloud-Technologien.
+Eigenverantwortung & Organisation: Du priorisierst deine Aufgaben selbstständig, behältst den Überblick und erledigst deine Arbeit gewissenhaft.
+Struktur & Sorgfalt: Du arbeitest strukturiert und sorgfältig und dokumentierst deine Ergebnisse nachvollziehbar.
+Kommunikationsstärke & Teamgeist: Du bist kontaktfreudig, gehst offen auf verschiedene Ansprechpartner:innen zu und arbeitest gerne im Team.
+Sprachkenntnisse: Du verfügst über sehr gute Deutschkenntnisse in Wort und Schrift (CEFR-Level C1 oder höher).
+Unser Angebot
+Work-Life-Balance: Profitiere von bis zu 30 Tagen Urlaub, flexiblen Arbeitszeiten (bis zu 20h wöchentlich) und der Möglichkeit zum mobilen Arbeiten.
+Einfluss: Du gestaltest die IT des größten Lebensmitteleinzelhändlers in Deutschland.
+Finanzieller Anreiz & weitere Angebote: Freue dich über eine attraktive Vergütung, Zuschuss zum ÖPNV-Ticket und weitere Vergünstigungen.
+Gesamtheitliche Entwicklung (fachlich & persönlich): Dich erwarten bei uns verschiedene Weiterbildungsangebote wie z. B. digitale Lernplattformen.
+Betriebliches Gesundheitsmanagement: Unser Gesundheitsmanagement kümmert sich um deine Gesundheit am Arbeitsplatz.
+Kultur & Zusammenarbeit: Wir ermöglichen dir einen optimalen Start in unserem Unternehmen und legen viel Wert auf ein gutes Onboarding, damit du direkt durchstarten und durch unsere verschiedenen Communities, Netzwerke und Events von Anfang an mitgestalten kannst.
+Mitarbeitervorteile
+Betriebssport
+Gesundheitsvorsorge
+Gute Karrierechancen
+Homeoffice
+Jobticket
+Kantine
+Weiterbildung
+Bist Du interessiert?
+Dann freuen wir uns auf deine Online-Bewerbung mit vollständigen Bewerbungsunterlagen (aussagekräftiges Anschreiben, Lebenslauf, ggf. Arbeitsproben, relevante Abschluss- und Arbeitszeugnisse, Immatrikulationsbescheinigung) unter Angabe des möglichen Eintrittstermins und der gewünschten Vergütung pro Stunde. Wir freuen uns darauf, dich kennenzulernen!
+Kontakt
+EDEKA IT Stiftung & Co. OHG
+Bewerbungsmanagement
+New-York-Ring 6
+22297 Hamburg
+Weitere Informationen zu den Einstiegsmöglichkeiten sowie zur Karriere bei EDEKA IT für Schüler:innen und Studierende findest du hier: https://it.edeka/schuelerinnen/ bzw. hier: https://it.edeka/studierende/
+Willkommen sind bei uns alle Menschen – unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Behinderung, Religion, Alter sowie sexueller Orientierung.

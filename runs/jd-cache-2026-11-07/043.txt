@@ -1,0 +1,28 @@
+URL: https://www.linkedin.com/jobs/view/4479188761
+TITLE: Relational Foundation Model Intern, Modern Data Stack – 2027
+COMPANY: NVIDIA
+LOC: Hamburg, Hamburg, Germany
+POSTED: 2026-11-06
+title: Relational Foundation Model Intern, Modern Data Stack – 2027
+company: NVIDIA
+posted: 13 hours ago
+applicants: 131 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Frelational-foundation-model-intern-modern-data-stack-%25E2%2580%2593-2027-at-nvidia-4479188761&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by great technology—and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world.
+Our work at NVIDIA is dedicated towards a computing model focused on visual and AI computing. For two decades, NVIDIA has pioneered visual computing, the art and science of computer graphics, with our invention of the GPU. The GPU has also shown to be spectacularly effective at solving some of the most complex problems in computer science. Today, NVIDIA’s GPU simulates human intelligence, running deep learning algorithms and acting as the brain of computers, robots and self-driving cars that can perceive and understand the world. We are looking to grow our company and teams with the smartest people in the world and there has never been a more exciting time to join us!
+ What You’ll Be Doing
+ Collaborate with researchers/engineers to enhance our Transformer and GNN-based models to operate seamlessly over any relational schema and heterogeneous graph.
+ Gain hands-on experience with high-impact use cases such as forecasting, entity matching, customer retention and fraud detection – all built on top of a single, extensible foundation model.
+ Apply your knowledge in ML and AI to address real challenges while contributing to scalable and adaptable solutions that push the boundaries of what’s possible.
+ Work may span the full lifecycle of modern ML systems: from architecture design/training to post-training optimization and inference acceleration.
+ What We Need To See
+ Pursuing MS or PhD in Machine Learning, Computer Science, or equivalent program area
+ Proficiency in Python and deep learning frameworks, such as PyTorch
+ Coursework or research experience in crafting ML algorithm solutions
+ Ways To Stand Out From The Crowd
+ Familiarity with graph-based machine learning; publications at venues such as NeurIPS, ICLR, ICML, or similar
+ NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us. If you're creative and autonomous, we want to hear from you!
+Our internship pay is based on the position, your location, year in school, degree, and experience. Pay is pro-rated for the duration of the internship. The expected annual rates for this position are:
+Germany: 47,850 EUR – 82,940 EUR.
+France: 40,500 EUR – 70,200 EUR., , JR2027829

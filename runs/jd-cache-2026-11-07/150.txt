@@ -1,0 +1,44 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-m-w-d-Software-Development-Stuttgart-SEG-Automotive-Germany-GmbH--14723054-inline.html
+TITLE: Werkstudent (m/w/d) Software Development
+COMPANY: SEG Automotive Germany GmbH
+LOC: Stuttgart
+POSTED: stepstone
+title: Werkstudent (m/w/d) Software Development
+company: SEG Automotive Germany GmbH
+posted: 2026-11-06T12:32:19.297Z
+location: Stuttgart | remote: 
+---
+SEG Automotive steht für über 100 Jahre Inno­va­tionen in seinem Produkt­bereich: von Anlasser und Licht­ma­schine über Start-Stopp bis zur Mild­hybri­di­sierung. Durch die Redu­zierung von Emis­si­onen über alle Antriebs­techno­logien hin­weg leistet der globale Zu­lieferer einen wesent­lichen Beitrag zum Klima­schutz: Ange­spornt von einer Leiden­schaft für Inno­vation treibt SEG Automotive den Wandel zu effi­zien­teren Ver­brennungs­motoren, 48V-Hybriden und der Elektri­fi­zierung voran.
+ Werkstudent (m/w/d) Software Development 
+ Gestalte die Zukunft der Mobilität. Und Deine eigene. 
+ Du bist dabei, wenn wir gemein­sam daran arbeiten, die Zukunft der Mobilität mitzugestalten! Werde Teil unseres inter­disziplinären, inter­nationalen Teams am Standort Stuttgart-Weilimdorf.
+ Wie sich Deine Zukunft bei uns gestaltet
+ Weiterentwicklung und Skalierung des bestehenden Software-Status-Dashboards zur Integration weiterer Projekte sowie Sicherstellung der Kompatibilität der zugrunde liegenden Projektstrukturen
+ Ausbau und Optimierung der Automatisierung zur Reduzierung manueller Prozessschritte und zur Steigerung der Datenqualität und Aktualität
+ Erweiterung des Dashboard-Konzepts auf zusätzliche Projektbereiche, einschließlich Analyse und Umsetzung notwendiger struktureller und fachlicher Anpassungen
+ Definition, Integration und Visualisierung relevanter Kennzahlen (KPIs) für das ASPICE-Monitoring sowie Unterstützung bei der möglichen Erweiterung auf System- und Hardware-Entwicklungsumfänge 
+ Kontinuierliche Optimierung der Dashboard-Inhalte und Visualisierungen sowie Integration weiterer BI-Lösungen im Sinne eines zentralen „Single Source of Truth“-Ansatzes
+ Was Du für eine Zukunft bei uns mitbringst
+ Laufendes Studium im Fachbereich Software Engineering, Informatik, Wirtschaftsinformatik, Data Science oder eines vergleichbaren Studiengangs
+ Interesse an Datenanalyse, Business Intelligence, Softwareentwicklungsprozessen und Prozessautomatisierung
+ Grundkenntnisse in einer Programmiersprache, z. B. Python, JavaScript oder SQL
+ Interesse an KPI-basiertem Projektmonitoring und datengetriebenen Entscheidungsprozessen
+ Analytische Denkweise sowie die Fähigkeit, komplexe Sachverhalte verständlich aufzubereiten und zu visualisieren
+ Sehr gute Deutsch- oder Englischkenntnisse sowie Freude an der Zusammenarbeit in interdisziplinären Teams 
+ Was wir Dir für die Zukunft bieten
+ Bei uns kannst Du Innovation, kreative Freiheit und Verantwortung voll und ganz leben. Wir unterstützen dies mit attraktiven Leistungen wie:
+ Flexible Arbeitszeiten mit Gleitzeit und Möglichkeiten zur Remote-Arbeit bzw. zu hybriden Arbeitsmodellen
+ Betriebsveranstaltungen (z. B. Grillfest, Familientag usw.), bezuschusste Mahlzeiten in der Kantine
+ Mitarbeiter­unterstützungsprogramm (EAP) INSITE
+ Kostenlose Parkgarage mit ausreichend Parkplätzen sowie günstige Lademöglichkeiten für Elektro­fahrzeuge am Hauptsitz
+ Gute Anbindung an den ÖPNV
+ Nachhaltiger, umweltfreundlicher Standort
+ Flache Hierarchien (Town-Hall-Meetings, direkte Gesprächsrunden mit dem CEO für Fragen und Antworten)
+ Kontakt
+ SEG Automotive Germany GmbH | Lotterbergstraße 30 | 70499 Stuttgart | Germany | www.seg-automotive.com 
+ Wir freuen uns auf Deine voll­stän­dige Online-Bewerbung (An­schreiben, Lebens­lauf, Noten­spiegel, Zeug­nisse, Auszug aus der Studien­ordnung über die vor­ge­gebene Dauer der Abschlussarbeit).
+ Sophia Neubauer 
+ HR Business Partnerin
+ sophia.neubauer@seg-automotive.com 
+ Bewerb Dich online 
+ www.seg-automotive.com

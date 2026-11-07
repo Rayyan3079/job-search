@@ -1,0 +1,41 @@
+URL: https://www.linkedin.com/jobs/view/4486705269
+TITLE: Werkstudent KI & Digitale Lernplattformen (w/m/div.)
+COMPANY: Bosch
+LOC: Ulm, Baden-Württemberg, Germany
+POSTED: 2026-11-05
+title: Werkstudent KI & Digitale Lernplattformen (w/m/div.)
+company: Bosch
+posted: 1 day ago
+applicants: 44 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-ki-digitale-lernplattformen-w-m-div-at-bosch-4486705269&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Unternehmensbeschreibung
+ Bei Bosch Rexroth dreht sich alles um Bewegung und den Erfolg unserer Kunden. Mit unseren vernetzbaren Antriebs- und Steuerungstechnologien sowie digitalen Lösungen arbeiten Maschinen und Anlagen effizient, sicher und leistungsstark. Wir bieten unseren Kunden Komponenten, Systemlösungen und Services für mobile und industrielle Anwendungen ebenso wie für die Fabrikautomation. In allen Bereichen schätzen wir das Know-how und das Engagement unserer Mitarbeitenden und ermöglichen dynamische Karrieren in einem internationalen Umfeld.
+ Rund 33.800 Menschen in über 80 Ländern - und ein Unternehmenszweck: „We move industries to make our planet a better place.”
+ Willst auch du etwas bewegen? Dann freuen wir uns auf deine Bewerbung bei der Bosch Rexroth AG.
+ Stellenbeschreibung
+ In der Bosch Rexroth Academy entwickeln wir KI-gestützte Tools und digitale Plattformen, die das Lernen sowie Arbeiten im industriellen Umfeld revolutionieren. Dazu gehören KI-Assistenten, digitale Zwillinge unserer Lernfabrik und intelligente Trainingsplattformen für Hydraulik sowie Automatisierung. Du wirst Teil eines kleinen, dynamischen Teams, in dem du direkt an echten Projekten arbeitest.
+ Während deiner Werkstudententätigkeit entwickelst und implementierst du innovative KI-Anwendungen, von LLM-basierten Assistenten über Retrieval-Augmented Generation (RAG)-Systeme bis hin zu fortschrittlichen Computer-Vision-Modellen sowie bringst diese vom Prototyp zur produktiven Lösung. 
+ Du wirkst bei der Gestaltung unserer digitalen Lernplattformen aktiv mit, indem du neue Features entwickelst – sei es im Frontend, Backend oder als Full-Stack-Entwickler:in, ganz nach deinen individuellen Stärken. 
+ Darüber hinaus bist du für die Integration moderner Software in industrielle Systeme und Datenquellen verantwortlich. Dazu realisierst du Schnittstellen über OPC UA, REST-APIs oder Azure Cloud Services und schlägst so die Brücke zwischen IT und OT. 
+ Des Weiteren testest, evaluierst und dokumentierst du deine entwickelten Lösungen direkt mit Anwender:innen aus Training sowie Produktion. So stellst du eine herausragende User Experience (UX) sicher und lässt kontinuierliches Feedback einfließen. 
+ Nicht zuletzt bringst du eigene Ideen proaktiv ein: Du erkennst Optimierungspotenziale, entwickelst eigenständig Prototypen für bessere Lösungswege und präsentierst diese überzeugend im Team. 
+ Qualifikationen
+ Ausbildung: Studium im Bereich Informatik, Data Science, Elektrotechnik, Mechatronik oder vergleichbar
+ Erfahrungen und Know-how: solide Programmierkenntnisse, z.B. in Python; erste Erfahrungen mit Web-Frameworks (z.B. React) oder AI/ML-Frameworks (z.B. PyTorch) von Vorteil
+ Persönlichkeit und Arbeitsweise: du strukturierst unklare Herausforderungen selbstständig und gibst bei der ersten Fehlermeldung nicht gleich auf; du bist neugierig sowie packst gerne an
+ Arbeitsalltag: teilweise mobiles Arbeiten möglich
+ Begeisterung: Freude daran, eigenen geschriebenen Code im echten Einsatz zu sehen
+ Sprachen: gutes Englisch und Grundkenntnisse in Deutsch
+ Zusätzliche Informationen
+ Beginn: nach Absprache
+ Dauer: 12 Monate – 15h/Woche
+ Arbeitsort: Ulm oder Würzburg möglich
+Voraussetzung für die Werkstudententätigkeit ist die Immatrikulation an einer Hochschule. Bitte füge deiner Bewerbung deinen Lebenslauf, deinen aktuellen Notenspiegel, eine aktuelle Immatrikulationsbescheinigung sowie ggf. eine gültige Arbeits- und Aufenthaltserlaubnis bei.
+Als global agierendes Unternehmen sind wir gesetzlich verpflichtet, die geltenden EU- und US-(Re-)Exportkontroll- und Sanktionsbestimmungen einzuhalten. Das bedeutet: Auf bestimmten, besonders sensiblen Stellen dürfen wir nur Personen beschäftigen, die eine zusätzliche gesetzliche Prüfung durchlaufen haben. Bei dieser Position handelt es sich um eine solche sensible Stelle. Wir werden dich daher im weiteren Verlauf des Prozesses um weitere, für diese zusätzliche Prüfung erforderliche Angaben bitten. Informationen zur Verarbeitung deiner Daten findest du in unseren Datenschutzhinweisen für den Bewerbungsprozess.
+Vielfalt und Inklusion sind für uns keine Trends, sondern fest verankert in unserer Unternehmenskultur. Daher freuen wir uns über alle Bewerbungen: unabhängig von Geschlecht, Alter, Behinderung, Religion, ethnischer Herkunft oder sexueller Identität.
+ Du hast fachliche Fragen zum Job?
+ Martin Opitz (Fachabteilung)
++49 935 2182908
+Weitere Informationen zu uns findest du auch auf www.boschrexroth.de/karriere sowie auf unseren Social Media Kanälen, beispielsweise Instagram.
+Move with us. Win together.

@@ -1,0 +1,16 @@
+URL: https://www.linkedin.com/jobs/view/4470681996
+TITLE: Data Generalist
+COMPANY: RemoExperts
+LOC: Germany
+POSTED: 2026-11-05
+title: Data Generalist
+company: RemoExperts
+posted: 1 day ago
+applicants: 144 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fdata-generalist-at-remoexperts-4470681996&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Explore premier Data Generalist Jobs Berlin 2026 at Rex.zone. As a remote data generalist, you will power AI training pipelines through comprehensive data labeling, RLHF (Reinforcement Learning from Human Feedback), and QA evaluation. This full-time, remote role connects your expertise in large language model evaluation and prompt evaluation with real-world AI/ML workflows. Whether you specialize in named entity recognition, computer vision annotation, or content safety labeling, join our tech startup environment to drive model performance improvement and ensure strict annotation guidelines compliance across diverse datasets.
+ Role Overview And Responsibilities
+ As a Data Generalist in our 2026 Berlin cohort, you will execute critical tasks across the AI/ML training lifecycle. Your primary focus will be on training data quality and large language model evaluation. You will handle diverse data labeling tasks, including computer vision annotation, content safety labeling, and complex RLHF workflows. By maintaining strict annotation guidelines compliance, you directly contribute to model performance improvement for top AI labs and tech startups globally.
+ Qualifications For Remote AI Data Operations
+ We are hiring freelance, contract, and full-time professionals ranging from entry-level to senior experts. Ideal candidates possess a deep understanding of NLP, CV, and LLM training pipelines. You must demonstrate exceptional analytical skills for prompt evaluation and named entity recognition. Experience working with major annotation vendors or BPOs is a plus. This is a fully remote position, allowing you to collaborate with our global team while based in or operating within the Berlin 2026 strategic framework.

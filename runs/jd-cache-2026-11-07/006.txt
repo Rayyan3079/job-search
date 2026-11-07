@@ -1,0 +1,39 @@
+URL: https://www.stepstone.de/stellenangebote--Netzwerkadministrator-IT-Security-Firewall-m-w-d-Erfurt-SECOSYS-IT-GmbH--14587092-inline.html
+TITLE: Netzwerkadministrator - IT Security / Firewall (m/w/d)
+COMPANY: SECOSYS-IT GmbH
+LOC: Erfurt
+POSTED: stepstone
+title: Netzwerkadministrator - IT Security / Firewall (m/w/d)
+company: SECOSYS-IT GmbH
+posted: 2026-11-07T00:23:48.063Z
+location: Erfurt | remote: 
+---
+Über SECOSYS-IT GmbH
+Was entsteht, wenn Leidenschaft und Innovation zusammentreffen? Wir gestalten die Zukunft der IT- und Telekommunikationsinfrastruktur, indem wir zuverlässige und zukunftssichere Lösungen entwickeln. Als System- und Netzwerkadministrator trägst du maßgeblich dazu bei, die reibungslosen Geschäftsprozesse unserer Kunden zu gewährleisten und ihre IT-Sicherheit zu stärken. Bringe deine Ideen und dein Engagement ein, um in einem Umfeld spannender Aufgaben persönliches Wachstum zu erleben und echte Wirkung zu erzielen.
+ Was erwartet dich?
+ Planung, Einrichtung und Betrieb von Routern, bevorzugt LANCOM
+ Konfiguration und Verwaltung von Switches, inklusive VLAN-Segmentierung
+ Administration von Firewalls (Securepoint, Sophos, Fortinet)
+ Aufbau und Betreuung von WLAN-Umgebungen, bevorzugt UniFi
+ Einrichtung und Pflege von Routing und Standortvernetzung (VPN)
+ Störungsanalyse und -behebung im 2nd- und 3rd-Level
+ Überwachung der Netzwerkinfrastruktur per RMM (ninjaOne)
+ Dokumentation der Kundennetzwerke
+ Beratung der Kunden bei Erweiterung und Modernisierung ihrer Netzwerke
+ Was solltest du mitbringen?
+ Du hast eine Ausbildung als Fachinformatiker:in für Systemintegration oder eine vergleichbare Qualifikation in der Tasche.
+ Du bringst bereits mehrjährige Berufserfahrung in der Administration von Netzwerkinfrastrukturen mit.
+ In den Bereichen VLAN, Routing, VPN und Firewalling macht dir so schnell keiner etwas vor und du kennst dich mit gängigen Routern sowie WLAN-Komponenten aus.
+ Du arbeitest selbstständig, denkst analytisch bei der Fehlersuche und kommunizierst klar und serviceorientiert mit unseren Kunden.
+ Sehr gute Deutschkenntnisse und ein Führerschein der Klasse B für Einsätze vor Ort runden dein Profil ab.
+ Was bieten wir dir?
+ Ein attraktives Gehalt zwischen 50.000 und 60.000 Euro jährlich, je nach deiner Qualifikation.
+ Ein unbefristeter Arbeitsvertrag und ein Firmenwagen, der dir auch privat zur Verfügung steht.
+ Flexible Arbeitszeiten in einer 35- bis 40-Stunden-Woche mit der Möglichkeit zum mobilen Arbeiten.
+ 30 Tage Urlaub für deine Erholung sowie eine betriebliche Altersvorsorge.
+ Gezielte Weiterbildungen mit anerkannten Herstellerzertifizierungen (z. B. LANCOM, UniFi).
+ Moderne Arbeitsausstattung für reibungslose Prozesse.
+ Kurze Entscheidungswege in einem kollegialen Team und spannende Projekte bei unseren Kunden.
+ Interessiert?
+ Unser Jobangebot Netzwerkadministrator - IT Security / Firewall (m/w/d) klingt vielversprechend? 
+ Bei unserem Partner Workwise ist eine Bewerbung für diesen Job in nur wenigen Minuten und ohne Anschreiben möglich. Anschließend kann der Status der Bewerbung live verfolgt werden. Wir freuen uns auf eine Bewerbung über Workwise .

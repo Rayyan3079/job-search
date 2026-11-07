@@ -1,0 +1,57 @@
+URL: https://www.linkedin.com/jobs/view/4486236945
+TITLE: Machine Learning Engineer
+COMPANY: Sellpy
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-06
+title: Machine Learning Engineer
+company: Sellpy
+posted: 14 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fse.linkedin.com%2Fjobs%2Fview%2Fmachine-learning-engineer-at-sellpy-4486236945&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Sellpy’s vision is to empower everyone to live circularly. We believe that every item deserves a second life, and we see huge financial, social and environmental value in making sure this happens. Join us in building technology that drives real change. 
+ Machine Learning Engineer at Sellpy 
+ We look for you who want to be part of our journey to make sustainable shopping the first-hand choice by building great product recommendations, creating clever pricing algorithms and optimizing warehouse logistics with machine learning. We want to provide the best customer experience and that’s why we need you on board.
+ This job will suit you if you’re excited to build solutions leveraging the latest machine learning models and build custom models to solve unique challenges together with a team of highly motivated engineers.
+ In short, you will 
+ Build machine learning models with a major impact on our product
+ Simplify, maintain and improve our already existing models
+ Build solutions leveraging the latest machine learning development
+ Keep up with ML development with the team on weekly deep dives
+ Make use of your skills in Tensorflow/Pytorch, Python and SQL
+ Requirements 
+ B.S or M.S. degree in Computer Science or related field
+ At least 2 years of working experience within the machine learning field
+ Strong proficiency in Python
+ In-depth expertise about machine learning algorithms, deep learning and LLMs
+ Experience with ML frameworks such as Tensorflow or PyTorch
+ Experience with AWS or similar cloud service providers
+ Experience with relational databases and SQL
+ Experience of setting up ML systems in production
+ Written and spoken fluency in English
+ We’d be impressed if you have 
+ Previous experience with recommender systems
+ Previous experience with using ML systems for item valuation
+ Knowledge about how to build efficient data pipelines for large data volumes
+ Experience working with vector databases
+ You’ll get to 
+ Be part of a tech-minded company that's driving the change towards a sustainable lifestyle. In return, you will get direction, energy, and work on meaningful challenges daily
+ Benefit from hybrid work from our offices at Medborgarplatsen, Rosersberg and from home
+ Work with highly skilled and motivated colleagues
+ Gain new skills with unlimited access to a learning platform
+ Grow professionally during monthly level-up days
+ Enjoy Sellpy credits and staff discounts at Sellpy and the H&M brands (Arket, COS, Other Stories, Weekday and more)
+ Save up with a monthly pension plan
+ Engagement in Sellpy’s social traditions with game nights, interactive planning days, guest speakers and other activities
+ Location 
+ You are welcome to do all these things from our office at Medborgarplatsen in Stockholm, and from home. Ideally, we’d love to see you in the office frequently, as it helps create a positive and productive environment.
+ Hybrid work 
+ We work flexibly but value being together. During your first period, you’ll be on-site more often to get settled. Moving forward, we maintain a 50% office presence, with some flexibility depending on your team and tasks.
+ Our Interview Process 🤝 
+ We want to get to know you, your way of thinking, and how we would work together.
+ Culture Interview (45 min): A video call to get to know each other. We talk about your background, your drive, and why you are interested in Sellpy.
+ Technical Interview (1 hour): A deep dive into your technical knowledge and how you approach problem-solving.
+ Case Interview (2 hours): You will receive a real-world case assignment to prepare in advance. We then invite you to our office at Medborgarplatsen where you will present your solution and we will discuss your reasoning in depth.
+ Founder Interview (30 min): A final chat with one of our founders to discuss the company vision and your potential journey with us.
+ Form of employment: Full-time
+ Start: As agreed upon

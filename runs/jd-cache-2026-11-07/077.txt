@@ -1,0 +1,27 @@
+URL: https://www.linkedin.com/jobs/view/4486713061
+TITLE: Business Intelligence Developer
+COMPANY: act digital EMEA - Alter Solutions
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-05
+title: Business Intelligence Developer
+company: act digital EMEA - Alter Solutions
+posted: 1 day ago
+applicants: 37 applicants
+apply_offsite: 
+---
+We are looking for a Senior Power BI Developer / BI Analyst to join an international project, focusing on developing, optimizing, and maintaining Business Intelligence solutions.
+ The ideal candidate will have strong expertise in Power BI, advanced SQL, and DAX , with the ability to transform complex data into meaningful business insights and support data-driven decision-making.
+ Technical Requirements: 
+ Strong hands-on experience with Power BI Desktop and Power BI Service .
+ Advanced SQL skills, including query development, debugging, and performance optimization.
+ Strong expertise in DAX , including complex calculations and business logic.
+ Experience with dynamic SQL queries and parameterized data extraction.
+ Knowledge of Power BI Gateways, RLS, and Workspace Administration .
+ Strong analytical and problem-solving skills.
+ Excellent communication skills and ability to translate technical concepts into business insights.
+ Ability to work independently and contribute to technical decisions.
+ Nice to Have 
+ Microsoft Certified: Power BI Data Analyst Associate (PL-300) or equivalent certification.
+ Knowledge of French , particularly for collaboration with international stakeholders.
+ Experience mentoring team members and providing technical leadership.
+ Hybrid working model – 2 days per week in the office (Porto)

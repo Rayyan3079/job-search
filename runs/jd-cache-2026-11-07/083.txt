@@ -1,0 +1,53 @@
+URL: https://www.linkedin.com/jobs/view/4488175119
+TITLE: Data Engineer
+COMPANY: Intact Insurance UK
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-06
+title: Data Engineer
+company: Intact Insurance UK
+posted: 15 hours ago
+applicants: 46 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fie.linkedin.com%2Fjobs%2Fview%2Fdata-engineer-at-intact-insurance-uk-4488175119&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+We are seeking a skilled Data Engineer to design, develop, and maintain scalable data solutions. The ideal candidate will have strong expertise in Microsoft SQL Server technologies (SSMS, SSRS, SSIS) and analytical tool SAS, with a proven ability to manage large datasets, optimize performance, and support business intelligence reporting.
+The Intact Data and Analytics team supports the business' data and reporting needs using a hub-spoke model. The selected candidate will be expected to provide technical development skills to build ETL pipelines and effectively
+The Data Engineer will report to the Head of DataOps.
+ Key Responsibilities
+ Design, develop, and maintain data pipelines and ETL processes using SQL Server and SAS
+ Write, optimize, and troubleshoot complex SQL queries, stored procedures, and functions in SSMS
+ Develop and maintain SSRS reports, dashboards, and data visualizations
+ Ensure data accuracy, integrity, and consistency across systems
+ Manage and tune SQL Server databases for performance and scalability
+ Collaborate with business stakeholders to translate requirements into data solutions
+ Perform data analysis and validation to support reporting and decision-making
+ Monitor and resolve data-related issues and system bottlenecks
+ Requirements 
+ Minimum 3 to 5 years' experience in a similar role
+ Advanced SQL and Data Bricks experience is compulsory
+ Experience working in a regulatory environment is strongly preferred
+ Strong hands-on experience with:
+ Microsoft SQL Server
+ SQL Server Management Studio (SSMS)
+ SQL Server Reporting Services (SSRS)
+ SAS (Base or EG SAS / SAS Programming)
+ Proficiency in SQL scripting, query optimization, and database design
+ Experience in ETL development and data integration
+ Solid understanding of data warehousing concepts
+ Ability to handle large datasets and performance tuning
+ Strong analytical and problem-solving skills
+ Experience with Power BI or other BI tools
+ Exposure to Azure Data Services (e.g., Azure SQL)
+ Knowledge of Python or other scripting languages
+ Familiarity with data governance and security practices.
+ Bachelor's degree in computer science, Data Engineering, Information Systems, or related field
+ Relevant certifications in Microsoft SQL Server or SAS (preferred)
+ Join Intact Insurance and make a difference every day.
+ Whether you're just beginning your career or looking to take the next progressive step, Intact Insurance Ireland is where you can be yourself, learn and develop, and where your ideas matter.
+With offices in Belfast, Galway, and Dublin , we've embraced hybrid work , empowering our people to work flexibly and deliver great service to our customers every day.
+We want you to thrive and grow with us – and we'll give you all the tools, flexibility and learning opportunities you need to do it.
+ And, if you bring your best, then we promise to give you, our best.
+ Our employees are at the heart of everything we do. Together, we help people, businesses, and society prosper in good times and be resilient in bad times.
+Our employee promise represents Intact Insurance's commitment to you in exchange for living our Values, we promise to provide support, opportunities and performance-led financial rewards at a workplace where you can shape the future, win as a team and grow with us.
+ Regulatory Requirements
+ If this role is defined as a "controlled function" by the Central Bank Reform Act 2010 Regulations 2011. Any appointment will be conditional on the company being satisfied that you meet the requirements as set out in the Fitness & Probity standards issued in this Act.
+ Intact Insurance Ireland DAC and its affiliate companies consider applicants on the basis of qualifications and without regard to race, colour, religion, sex, national origin, age, marital or veteran status, sexual orientation, disability or any other legally protected status.

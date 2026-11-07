@@ -1,0 +1,17 @@
+URL: https://www.xing.com/jobs/bremen-werkstudent-data-analyst-156676421
+TITLE: Werkstudent Data Analyst (m/w/d)
+COMPANY: Rheinmetall Electronics GmbH
+LOC: Bremen
+POSTED: 2026-11-06
+title: Werkstudent Data Analyst (m/w/d)
+company: Rheinmetall Electronics GmbH
+posted: 2026-11-06T09:36:48Z
+location: Bremen | remote: 
+---
+Werkstudent Data Analyst (m/w/d) 
+ Rheinmetall Electronics GmbH in Bremen
+ Rheinmetall
+ / Werkstudent Data Analyst (m/w/d) 
+ Ref.-Nr.: DE19876 
+ Anstellungsart: Vollzeit 
+ Vertragsart: Werkstudent WOFÜR WIR SIE SUCHEN Sie möchten praktische Erfahrung im Bereich Data Analytics und Künstliche Intelligenz sammeln und Ihr Wissen aus dem Studium in realen Anwendungsfällen einsetzen? Als Werkstudent (m/w/d) unterstützen Sie unser Team bei der Analyse und Aufbereitung von Daten sowie bei der Entwicklung datengetriebener und KI-basierter Lösungen. Folgende Tätigkeiten erwarten Sie: Unterstützung bei der systematischen Erfassung, Aufbereitung und Analyse strukturierter und unstrukturierter Daten Mitarbeit bei der Konzeption und Umsetzung von Machine-Learning-Anwendungsfällen, insbesondere im Bereich Textklassifizierung Unterstützung bei der Entwicklung und Weiterentwicklung von Anwendungen auf Basis generativer KI Mitarbeit bei der Aufbereitung von Daten für KI-Anwendungen, z. B. im Rahmen von Data Engineering und Data Pipelines Unterstützung bei der Entwicklung und Optimierung von Prompts sowie bei der Anwendung von Large Language Models (LLMs) Mitwirkung bei der Entwicklung und Integration Benutzerschnittstellen für daten- und KI-basierte Anwendungen Durchführung von Ad-hoc-Auswertungen und Unterstützung bei datenbezogenen Fragestellungen WAS SIE MITBRINGEN SOLLTEN Laufendes Studium der (Wirtschafts-)Informatik, Data Science, Mathematik, Wirtschaftswissenschaften oder einer vergleichbaren Fachrichtung Praktische Erfahrung mit Machine Learning, Data Analytics und generativer KI Gute Programmierkenntnisse in Python Erste Berührungspunkte mit Large Language Models, Prompt Engineering oder vergleichbaren KI-Technologien Grundkenntnisse in SQL, Regular Expressions sowie im Umgang mit JSON-Objekten Sehr gute Englischkenntnisse Analytisches Denkvermögen sowie eine strukturierte und selbstständige Arbeitsweise Stärken und Erfahrungen zählen bei Rheinmetall, auch wenn vielleicht nicht alle aufgeführten Anforderungen vollständig erfüllt sind. Wir freuen uns auf Bewerber (m/w/d), die Lust haben, etwas zu bewegen und Verantwortung zu übernehmen. Wir legen Wert auf Individualität und Chancengleichheit. Schwerbehinderte Bewerber (m/w/d) werden bei gleicher Eignung besonders berücksichtigt. WAS WIR IHNEN BIETEN An unserem Standort in Bremen bieten wir Ihnen: Flexible Arbeitszeiten (Gleit- und Vertrauensarbeitszeit) Attraktive Vergütung und 30 Tage Urlaub pro Jahr Mobiles Arbeiten Jobticket und Bike-Leasing Spannende, interdisziplinäre und internationale Projekte in einer Matrix-Organisation Eine Unternehmenskultur, die berufliche und persönliche Entwicklung fördert Individuelle und vielfältige externe sowie interne Weiterbildungsmöglichkeiten, u.a. in der Rheinmetall Academy Mitarbeitervorteile eines Großkonzerns, z. B. betriebliche Altersvorsorge und Mitarbeiteraktienkaufprogramm Professioneller Einarbeitungsprozess begleitet durch ein digitales Onboarding Tool Corporate Benefits Plattform Fitness- und Gesundheitsangebote sowie VIVA-Familien-Service Subventioniertes Betriebsrestaurant sowie kostenloses Wasser, Kaffee und Obst

@@ -1,0 +1,44 @@
+URL: https://www.linkedin.com/jobs/view/4486249837
+TITLE: Praktikant Data Driven Corporate Strategy (w/m/x)
+COMPANY: BMW Group
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-11-06
+title: Praktikant Data Driven Corporate Strategy (w/m/x)
+company: BMW Group
+posted: 12 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikant-data-driven-corporate-strategy-w-m-x-at-bmw-group-4486249837&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+DIE ZUKUNFT DER MOBILITÄT? DIGITAL.
+ TEILE DEINE LEIDENSCHAFT.
+ Mehr als 90 % aller Innovationen im Automobil basieren auf Elektronik und Software. Gerade hier sind große Freiräume und vernetztes Denken gefordert, um die Mobilität neu zu erfinden und ein völlig neues Fahrerlebnis zu ermöglichen. Deshalb geben wir Studierenden bei uns nicht nur die Gelegenheit zum Zuhören, sondern auch zum Mitreden und Weiterdenken.
+Unser Team bei der BMW Group widmet sich den Themen Mobility Analytics und Market Research Innovation. Im Praktikum „Data Driven Corporate Strategy“ erstellen wir Analysen, entwickeln neue Logiken und gestalten intuitiv bedienbare Dashboards. Außerdem erproben wir innovative Ansätze in der Marktforschung, erschließen neue Datenquellen und steigern mithilfe von Automatisierung und Technologien wie GenAI die Effizienz unserer Prozesse.
+ Was erwartet dich?
+ Du wirkst aktiv bei Themen rund um Mobility Analytics und Market Research Innovation mit.
+ Außerdem unterstützt du bei der Erstellung von Analysen, der Entwicklung neuer Logiken und der Gestaltung intuitiv bedienbarer Dashboards.
+ Darüber hinaus hilfst du bei der Erprobung neuer, innovativer Marktforschungsansätze und bei der Erschließung neuer Datenquellen.
+ Zudem unterstützt du bei der Effizienzsteigerung von Prozessen durch Automatisierung und den Einsatz moderner Technologien wie GenAI.
+ Außerdem sammelst du wertvolle Erfahrungen in der Datenanalyse und Marktforschung und gewinnst Einblicke in unsere strategische Ausrichtung sowie die Bedeutung datengetriebener Entscheidungen.
+ Was bringst du mit?
+ Studium der Informatik, Computer Science, Statistik oder vergleichbarer Studiengang.
+ Solide Kenntnisse in Programmiersprachen wie Python, PySpark und SQL sowie Erfahrung mit Bibliotheken wie pandas und scikit-learn.
+ Erfahrung mit GenAI-Technologien (LLM) sowie Cloud-Technologien wie AWS, u.a. S3, Sagemaker und Lambda, von Vorteil.
+ Erfahrung in oder Interesse am Erlernen der Datenvisualisierung mittels AWS QuickSight oder Tableau.
+ Interesse an den Themen Mobility Analytics und Market Research sowie eine proaktive und strukturierte Arbeitsweise.
+ Ausgeprägte analytische Fähigkeiten, Projektmanagementkompetenz sowie Teamfähigkeit und Kommunikationsstärke.
+ Gute Deutsch- und Englischkenntnisse.
+ Möchtest du aktiv bei Mobility Analytics und Market Research Innovation mitwirken und wertvolle Erfahrungen in der Datenanalyse sammeln? Dann bewirb dich jetzt!
+ Was bieten wir dir?
+ Umfassendes Mentoring & Onboarding.
+ Persönliche & fachliche Weiterentwicklung.
+ Flexible Arbeitszeiten.
+ Mobilarbeit.
+ Attraktive & faire Vergütung.
+ Apartments für Studierende (nach Verfügbarkeit & nur am Standort München).
+ Und vieles mehr siehe bmw.jobs/waswirbieten
+ Startdatum: ab frühestens 04.01.2027
+ Dauer: 6 Monate
+ Arbeitszeit: Vollzeit
+Hilfreiche Tipps zu deiner Bewerbung und dem Bewerbungsprozess findest du hier.
+Wir bei der BMW Group legen großen Wert auf Gleichbehandlung und Chancengleichheit. Unsere Recruiting-Entscheidungen basieren auf der Persönlichkeit, den Erfahrungen und Fähigkeiten der Bewerber:innen. Mehr dazu hier.
+Praktikant Data Driven Corporate Strategy (w/m/x)

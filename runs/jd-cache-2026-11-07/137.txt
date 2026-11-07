@@ -1,0 +1,40 @@
+URL: https://www.linkedin.com/jobs/view/4486375554
+TITLE: Praktikum/Abschlussarbeit - Informatik Data Engineering (m/w/d)
+COMPANY: Geberit Deutschland
+LOC: Pfullendorf, Baden-Württemberg, Germany
+POSTED: 2026-11-04
+title: Praktikum/Abschlussarbeit - Informatik Data Engineering (m/w/d)
+company: Geberit Deutschland
+posted: 2 days ago
+applicants: 27 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikum-abschlussarbeit-informatik-data-engineering-m-w-d-at-geberit-deutschland-4486375554&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+ZIEL DER POSITION
+ Spitzenleistung in der Sanitärtechnik. Weltweit. Das ist unsere Vision bei Geberit.
+ Wir entwickeln mit Microsoft Fabric eine moderne, zentrale Datenplattform für Geberit. Dabei integrieren und verarbeiten wir Daten aus unterschiedlichen Unternehmenssystemen und stellen sie als zuverlässige Data Products für Analytics, Reporting und zukünftige AI-Anwendungen bereit. Während deines Praktikums arbeitest du an konkreten Aufgabenstellungen mit und lernst den Weg von der Datenquelle bis zum nutzbaren Data Product kennen.
+ Wir suchen einen Studierenden (m/w/d) für das Sommersemester 2027.
+ HAUPTAUFGABEN 
+ Du entwickelst gemeinsam mit erfahrenen Kollegen moderne Datenlösungen mit Microsoft Fabric und übernimmst dabei eine eigene, klar abgegrenzte Aufgabenstellung.
+ Du lernst, Daten aus unterschiedlichen Quellsystemen zu integrieren, aufzubereiten und für verschiedene Anwendungsfälle bereitzustellen.
+ Du beschäftigst dich mit Datenqualität, Monitoring und der zuverlässigen Verarbeitung von Daten.
+ Du erhältst Einblicke in modernes Data Engineering mit Microsoft Fabric und lernst dabei unter anderem die Arbeit mit Data Pipelines, Lakehouses sowie SQL, Python und PySpark kennen.
+ Du nutzt moderne Entwicklungswerkzeuge und Künstliche Intelligenz zur Unterstützung bei Entwicklung, Analyse, Dokumentation und Qualitätssicherung.
+ Du arbeitest mit erfahrenen Data Engineers, Data Analysts, Fachbereichen und internationalen IT-Kollegen zusammen.
+ PROFIL
+ Du absolvierst ein IT-bezogenes Studium und interessierst dich für Daten und moderne Softwareentwicklung.
+ Idealerweise hast du bereits erste Programmiererfahrung gesammelt. Kenntnisse in Python oder SQL sind von Vorteil, aber keine Voraussetzung.
+ Moderne Cloud- und Datenplattformen sowie neue Technologien und Arbeitsweisen begeistern dich.
+ Du bist neugierig, lernbereit und hast Spaß daran, technische Zusammenhänge zu verstehen und mit Daten zu arbeiten.
+ Du arbeitest gerne selbständig, übernimmst Verantwortung für deine Aufgaben und bringst dich gleichzeitig in ein Team ein.
+ WIR BIETEN
+ Unsere Werte: Gelebte Unternehmenskultur basierend auf unserem Kompass
+ Entwicklungsperspektiven: Besondere Möglichkeiten zur beruflichen und persönlichen Weiterentwicklung. Während deines Einsatzes hast du die Chance, Verantwortung für eigene spannende Projekte zu übernehmen.
+ Startzeitpunkt und Dauer: Wir bieten einen flexiblen Startzeitpunkt ohne feste Bewerbungsfristen.
+ Optimalen Einstieg: Ausführliches Onboarding für deine Zeit bei Geberit
+ Fachliche Betreuung: Eine Ansprechperson, die dir zur Seite steht, deine Fragen beantwortet, regelmäßig Feedback gibt und dich stärkenorientiert fördert
+ Flexible Arbeitszeiten: Die Möglichkeit, deine Wochenarbeitszeit von 37,5 Stunden in Absprache mit deiner Fachabteilung flexibel zu gestalten
+ Homeoffice: Im Rahmen eines Praktikums kannst du einen Tag in der Woche im Homeoffice arbeiten. Während deiner Abschlussarbeit kann die Zeit im Homeoffice variieren. Genauere Informationen erhältst du im Interviewprozess.
+ Vergütung: Im Pflichtpraktikum beträgt die Vergütung 1.200 € brutto/Monat. Freiwillige Praktika ab 3 Monaten vergüten wir mit dem gesetzlichen Mindestlohn. Für die Erstellung einer Abschlussarbeit zahlen wir 1.300 € (Bachelor) bzw. 1.400 € (Master). 
+ Urlaub: 2,5 Urlaubstage pro Monat 
+ Verpflegung: Täglich frische und hochwertige Speisen in unserem Personalrestaurant
+ Betriebliches Gesundheitsmanagement: Geberit Vital bietet Maßnahmen in den Bereichen Bewegung, mentale Gesundheit und Ernährung an.

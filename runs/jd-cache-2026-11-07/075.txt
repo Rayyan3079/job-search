@@ -1,0 +1,13 @@
+URL: https://www.linkedin.com/jobs/view/4486286072
+TITLE: Data Analyst: Build Impactful Dashboards for Cyber Risk
+COMPANY: Stoïk
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-06
+title: Data Analyst: Build Impactful Dashboards for Cyber Risk
+company: Stoïk
+posted: 10 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fjobs%2Fview%2Fdata-analyst-build-impactful-dashboards-for-cyber-risk-at-sto%25C3%25AFk-4486286072&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Stoïk, insurtech européenne basée à Paris, cherche un Data Analyst pour intégrer l'équipe data et suivre l'activité de l'entreprise.
+Vous concevrez et maintiendrez les rapports, indicateurs et tableaux de bord décrivant les performances, les primes et les sinistres du portefeuille, tout en automatisant des parties du travail grâce à l'IA et en veillant à la fiabilité des calculs et à la clarté des visualisations.

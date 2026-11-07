@@ -1,0 +1,44 @@
+URL: https://www.linkedin.com/jobs/view/4486230489
+TITLE: Working Student (f/m/d) Business Development: Analytics & AI Support
+COMPANY: SAP
+LOC: Walldorf, Baden-Württemberg, Germany
+POSTED: 2026-11-06
+title: Working Student (f/m/d) Business Development: Analytics & AI Support
+company: SAP
+posted: 18 hours ago
+applicants: 34 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-f-m-d-business-development-analytics-ai-support-at-sap-4486230489&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Description
+ What you'll bring
+ You're studying Business Informatics, Industrial Engineering, or a comparable analytical program. You're drawn to data, AI, and finance — and ready to contribute from day one.
+ A solid grasp of AI concepts — including Large Language Models and machine learning — from coursework or self-directed learning
+ Hands-on experience with AI tools such as Copilot or ChatGPT for data analysis and workflow automation
+ Proficiency in Excel for structured data work and reporting, as well as PowerPoint
+ Foundational finance knowledge — Controlling, Accounting, or Financial Reporting — from your studies or practical experience
+ A customer-oriented mindset and the ability to communicate findings clearly to different stakeholders
+ Fluency in German and English is required for this role
+ You are currently enrolled and will remain a student for at least one more year
+ We also look for people who communicate clearly, keep the customer in mind, and enjoy finding smart solutions to problems — whatever stage of your career you're at.
+In addition to the role-specific skills above, all student and early talent positions at SAP look for candidates who are open to working with AI tools — including agentic AI — to automate everyday tasks, prototype ideas, and build confidence in AI-assisted ways of working from day one. This role requires partial office presence in Walldorf.
+ What You'll Build
+ You'll work on real projects that directly support our Customer Advisory team's governance work and AI readiness. Furthermore, you'll assist the management and team with in their day-to-day work. Your contributions will have a visible impact across Finance & Spend.
+ Create data visualisations and dashboards for management reporting
+ Develop AI-powered tools and workflows to automate governance and compliance processes
+ Contribute to cross-functional projects on Finance Analytics, Governance, and Compliance
+ Document workflows and project outcomes to support knowledge sharing
+ Administrational support to keep the team running
+ Where you belong
+ You'll be part of the Customer Advisory Finance & Spend Domains team in Middle & Eastern Europe — a group at the intersection of advisory expertise and digital transformation. The team is responsible for the business development of the SAP Finance & Spend portfolio and for explaining these solutions to our prospective customers. You'll work closely with experienced Customer Advisors and Solution Experts in a hybrid setup, with on-site presence in Walldorf. When you join SAP, you'll be a part of SAP Next Gen — a global community of students and early professionals with access to mentors, development programs, and peers.
+Additional Information
+ About SAP
+ With a global network of customers, partners, employees, and thought leaders, SAP helps the world run better and improves people’s lives.
+As a leader in enterprise applications and business AI, SAP stands at the nexus of business and technology. For over 50 years, organizations have trusted SAP to bring out their best by uniting business-critical operations spanning finance, procurement, HR, supply chain, and customer experience.
+We win with inclusion
+SAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.
+SAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team: Careers@sap.com.
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+Qualified applicants will receive consideration for employment without regard to their age, race, religion, national origin, ethnicity, gender (including pregnancy, childbirth, et al), sexual orientation, gender identity or expression, protected veteran status, or disability, in compliance with applicable federal, state, and local legal requirements.
+AI Usage in the Recruitment Process
+For information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.
+Please note that any violation of these guidelines may result in disqualification from the hiring process.

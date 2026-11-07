@@ -1,0 +1,24 @@
+URL: https://www.linkedin.com/jobs/view/4486971564
+TITLE: Pflichtpraktikant / Werkstudent SAP Benutzermanagement & Berechtigungsverwaltung (m/w/d)
+COMPANY: Schwarz Digits
+LOC: Neckarsulm, Baden-Württemberg, Germany
+POSTED: 2026-11-06
+title: Pflichtpraktikant / Werkstudent SAP Benutzermanagement & Berechtigungsverwaltung (m/w/d)
+company: Schwarz Digits
+posted: 19 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpflichtpraktikant-werkstudent-sap-benutzermanagement-berechtigungsverwaltung-m-w-d-at-schwarz-digits-4486971564&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Deine Aufgaben 
+ Operatives Benutzermanagement: Du übernimmst die tägliche Anlage, Pflege, Sperrung und Löschung von Benutzerkonten in unseren SAP-Systemen
+ Berechtigungszuweisung & Rollenverwaltung: Du prüfst eingehende Berechtigungsanfragen und weist SAP-Rollen gemäß unseren Sicherheits- und Compliance-Vorgaben zu
+ Ticketbearbeitung & Support: Du bearbeitest eigenständig Anfragen und Störungen im Ticketsystem (Incident- & Request-Handling) und stehst den Fachbereichen bei Berechtigungsfragen beratend zur Seite
+ System- & Kontrollmonitoring: Du führst regelmäßige operative Kontrollen und Bereinigungsroutinen (z. B. inaktive Accounts, temporäre Berechtigungen) durch
+ Prozess- & Dokumentationspflege: Du unterstützt bei der Pflege interner Dokumentationen, Arbeitsanweisungen und Standard Operating Procedures (SOPs)
+ Kontinuierliche Optimierung: Du bringst dich aktiv ein, um wiederkehrende Routineaufgaben im operativen Tagesgeschäft effizienter zu gestalten
+ Dein Profil 
+ Studium: Du bist immatrikulierter Student (m/w/d) der (Wirtschafts-)Informatik, Betriebswirtschaftslehre mit IT-Schwerpunkt oder eines vergleichbaren Studiengangs
+ Interesse & Affinität: Großes Interesse an SAP-Systemen, IT-Administration sowie an IT-Sicherheits- und Berechtigungsprozessen (erste Erfahrungen mit SAP GUI oder User Management sind ein Plus, aber kein Muss)
+ Arbeitsweise: Hohe Sorgfalt, Zuverlässigkeit und Gewissenhaftigkeit bei der Bearbeitung sensibler Benutzer- und Berechtigungsdaten
+ Kunden- & Serviceorientierung: Freude an der Kommunikation mit internen Anwendern und Spaß an der Zusammenarbeit im Team
+ Sprachkenntnisse: Gute bis sehr gute Deutschkenntnisse (mindestens Niveau B2 für den operativen Support) sowie gute Englischkenntnisse in Wort und Schrift

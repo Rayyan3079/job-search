@@ -1,0 +1,34 @@
+URL: https://www.linkedin.com/jobs/view/4488402435
+TITLE: Werkstudent oder Pflichtpraktikant Künstliche Intelligenz und Patentanalyse (m/w/d)
+COMPANY: Brose Group
+LOC: Würzburg, Bavaria, Germany
+POSTED: 2026-11-06
+title: Werkstudent oder Pflichtpraktikant Künstliche Intelligenz und Patentanalyse (m/w/d)
+company: Brose Group
+posted: 12 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-oder-pflichtpraktikant-k%25C3%25BCnstliche-intelligenz-und-patentanalyse-m-w-d-at-brose-group-4488402435&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Ob im technischen oder kaufmännischen Bereich: Bei Brose sammeln Sie wertvolle Praxiserfahrung in einem weltweit tätigen Familienunternehmen. Sie arbeiten im Tagesgeschäft sowie aktiv an Projekten mit, übernehmen Verantwortung und erweitern Ihr theoretisches Wissen durch echte Einblicke in den Berufsalltag.
+Aufgaben der Stelle
+ Erstellung, Testung und Optimierung von Prompts für Large Language Models (z. B. Microsoft Copilot, ChatGPT und Azure OpenAI)
+ Entwicklung von Prompt-Vorlagen zur Automatisierung von Patent- und Technologierecherchen
+ Durchführung KI-gestützter Auswertungen von Patentdokumenten und technischen Veröffentlichungen
+ Erstellung von Zusammenfassungen, Clusteranalysen und Technologieübersichten mithilfe moderner KI-Werkzeug
+ Unterstützung bei der Durchführung von Trend- und Wettbewerbsanalysen auf Basis von Patentdaten
+ Strukturierung und Aufbereitung technischer Informationen für Fachkräfte im Patentwesen
+ Mitarbeit bei der Entwicklung standardisierter KI-Workflows für Recherche-, Analyse- und Dokumentationsaufgaben
+ Evaluierung neuer KI-Tools und Methoden für den Einsatz im Patentwesen
+ Unterstützung bei der Erstellung von Präsentationen, Berichten und Entscheidungsgrundlagen
+ Profil der Stelle
+ Studium im Bereich Ingenieurwissenschaften, Informatik, Wirtschaftsingenieurwesen, Data Science, Patentingenieurwesen oder einer vergleichbaren Fachrichtung
+ Interesse an technischen Innovationen, Patenten und geistigem Eigentum
+ Erste Erfahrungen mit generativer KI und Prompt Engineering von Vorteil
+ Analytische und strukturierte Denkweise
+ Freude am Umgang mit technischen Texten und Daten
+ Gute Deutsch- und Englischkenntnisse
+ Sicherer Umgang mit Microsoft Office und digitalen Arbeitswerkzeugen
+ Immatrikulation über den gesamten Zeitraum der Tätigkeit
+ Wir bieten Ihnen mit unserer Brose Arbeitswelt eine moderne Arbeitsumgebung
+Mit unserer Brose Arbeitswelt bieten wir Ihnen eine moderne Arbeitsumgebung. Unsere studentischen Mitarbeiter profitieren von attraktiven Sozialleistungen rund um Betriebsgastronomie, Gesundheit und Sport und einer fairen Vergütung: Pflichtpraktika vergüten wir mit 1.000 Euro pro Monat, freiwillige Praktika mit dem gesetzlichen Mindestlohn. Werkstudierende erhalten eine standortspezifische Vergütung.
+Die Benefits können je nach Standort variieren.

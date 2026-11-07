@@ -1,0 +1,37 @@
+URL: https://www.linkedin.com/jobs/view/4485841126
+TITLE: AI Developer Intern (m/w/d)
+COMPANY: TRUSTEQ GmbH
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-11-05
+title: AI Developer Intern (m/w/d)
+company: TRUSTEQ GmbH
+posted: 1 day ago
+applicants: 46 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fai-developer-intern-m-w-d-at-trusteq-gmbh-4485841126&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+DEINE AUFGABEN
+ Du unterstützt bei der Integration von (generativen) KI-Technologien in bestehende Anwendungssoftware oder entwickelst gemeinsam mit dem Team neue, innovative Lösungen mit KI-Komponenten
+ Du unterstützt bei der Analyse und Aufbereitung von Daten speziell für (generative) KI-Use-Cases
+ Du unterstützt bei der Evaluation und Optimierung von Software mit KI-Komponenten, insbesondere mit Frameworks wie LangChain, sowie durch den Einsatz von APIs wie OpenAI oder Ollama
+ Du unterstützt in Cloud-nativen Entwicklungsprojekten mit Fokus auf KI-gestützte Softwarelösungen
+ Du unterstützt bei der Integration und Nutzung KI-tauglicher Datenbanksysteme (z. B. relationale, Vektor-, oder Graphdatenbanken) für KI-Anwendungen
+ Du recherchierst zu neuen Technologien und Methoden im Bereich (generative) KI (z. B. ModelContextProtocol, Agententechnologien und moderne KI-Integrationsframeworks)
+ DEIN PROFIL
+ Du bist immatrikuliert in einem Studiengang mit KI-Inhalten und hast ein gutes Grundverständnis von Künstlicher Intelligenz
+ Du besitzt praktische Kenntnisse in Python und mindestens einer weiteren modernen Anwendungsprogrammiersprache wie JavaScript (z. B. Node.js),TypeScript, Go oder Java
+ Du begeisterst dich für kundenzentrierte Anwendungsentwicklung, KI und innovative Technologien
+ Du bist teamfähig, kommunikativ und arbeitest eigenständig sowie strukturiert
+ Du hast bereits erste Erfahrungen in der Cloud-nativen Entwicklung (z. B. mit Docker,Kubernetes) und DevOps-Praktiken (z. B. Jenkins,GitLab, GitHub) gesammelt
+ Du hast Grundkenntnisse im API-Design und der Full-Stack-Softwareentwicklung
+ Du hast Spaß daran, entwickelte Konzepte und Ergebnisse graphisch darzustellen und zu präsentieren.
+ Du möchtest für die Dauer von 3 bis 6 Monaten wertvolle Praxiserfahrung sammeln und aktiv an Projekten mitwirken.
+ Du verfügst über sehr gute Deutsch- und Englischkenntnisse (mind. C1 in beiden Sprachen)
+ Deine Benefits
+ Unterstützende Teamkultur: Teamzusammenhalt ist uns wichtig - wir unterstützen uns gegenseitig und pflegen eine gesunde Officekultur. Unser Eventteam plant regelmäßige Afterworks und sorgt für einen Austausch außerhalb des Arbeitsplatzes.
+ Schnelle Verantwortungsübernahme: Du übernimmst ab Tag 1 spannende Aufgaben mit eigener Verantwortung - egal ob auf deinem Projekt oder bei der Einbringung in interne Aufgabe - du gestaltest mit!
+ Klare Karrieremöglichkeiten: Bei uns findest du ein Umfeld, das dich fördert, fordert und weiterbringt. Wir haben klar definierte Karrieremöglichkeiten und ein transparentes Anforderungsmanagement and jedes Level.
+ Kreativer Arbeitsplatz: Wir geben dir die Freiheit und Zeit, kreative Lösungen zu entwickeln und bieten dir dafür die beste und modernste Hardware an (Apple oder Windows).
+ Attraktive Urlaubsregelung: Arbeite remote und passe deine Arbeitszeiten flexibel an dein Studium an.
+ Über uns
+ Wir sind eine dynamische und schnellwachsende Unternehmensberatung, die das Beste aus beiden Welten vereint: die Agilität eines Startups kombiniert mit der Expertise und Erfahrung unseres Top-Managements. Wir unterstützen führende Unternehmen in den Bereichen Cybersecurity, Data Analytics, Cloud, AI und Technology Transformation & Data. Bei uns erwarten Dich flache Hierarchien, eine herausragende Teamkultur und Raum für Deine persönliche und berufliche Weiterentwicklung. An unseren Standorten in München, Köln und Zagreb kannst Du gemeinsam mit einem kreativen, interdisziplinären Team innovative Lösungen gestalten und die Zukunft aktiv mitprägen.
+ Bewirb dich jetzt und werde Teil von TRUSTEQ!

@@ -1,0 +1,53 @@
+URL: https://www.linkedin.com/jobs/view/4485074427
+TITLE: SQL Database Administrator
+COMPANY: Nimber
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-04
+title: SQL Database Administrator
+company: Nimber
+posted: 2 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+At Nimber, we're looking for an experienced SQL Server Database Administrator (DBA) to join a challenging project within the banking sector, focused on managing, optimising and modernising critical database infrastructures.
+ You'll work in a multi-database environment, primarily Microsoft SQL Server, with exposure to Sybase , ensuring the performance, security and availability of business-critical systems.
+ This role combines hands-on database administration, performance optimisation, automation and infrastructure modernisation, with opportunities to contribute to cloud initiatives and emerging database technologies.
+ What You'll Be Doing 
+ Administer, maintain and optimise Microsoft SQL Server environments (versions 2014 onwards) .
+ Manage database infrastructure upgrades, migrations and platform modernisation initiatives.
+ Develop and maintain T-SQL and PowerShell scripts for automation, administration and operational improvements.
+ Monitor database performance, identify bottlenecks and implement optimisation strategies.
+ Implement and maintain high availability solutions , including Always On Availability Groups and Transactional Replication.
+ Support development teams with SQL query optimisation, stored procedures and database modelling.
+ Monitor production databases, investigate incidents and participate in critical incident resolution.
+ Manage database changes, production deployments and release activities.
+ Administer and optimise Microsoft BI technologies, including SSRS, SSIS, SSAS and Power BI Report Server .
+ Perform database audits, maintenance activities and security compliance checks.
+ Contribute to business continuity and disaster recovery exercises.
+ Maintain technical documentation and operational procedures.
+ Participate in database projects involving Azure, AWS and GCP .
+ Explore new capabilities in SQL Server 2022/2025 and integrations with technologies such as PolyBase and Hadoop.
+ What We're Looking For 
+ Solid professional experience in Microsoft SQL Server administration , particularly in production environments.
+ Strong knowledge of T-SQL and PowerShell scripting .
+ Proven experience with database performance tuning, troubleshooting and query optimisation.
+ Hands-on experience with Always On Availability Groups and Transactional Replication .
+ Experience with SQL Server migrations, upgrades and infrastructure maintenance.
+ Good understanding of database architecture, networking, infrastructure and security.
+ Experience with database monitoring, incident management and production support.
+ Knowledge of Microsoft BI tools, including SSRS, SSIS, SSAS and Power BI Report Server .
+ Familiarity with change management, release processes and disaster recovery procedures.
+ Strong analytical, problem-solving and communication skills.
+ English and French language skills. 
+ Nice to Have 
+ Experience administering Sybase databases.
+ Exposure to cloud database services, particularly Microsoft Azure , AWS or GCP.
+ Knowledge of SQL Server 2022/2025 , PolyBase or Hadoop.
+ Experience with .NET development, C#, Angular or Rust , particularly for monitoring tools and internal platforms.
+ Previous experience in banking or other business-critical environments.
+ Additional Information 
+ This position requires on-call availability and may involve staggered working hours to support critical production systems.
+ Why Nimber? 
+ At Nimber, we don't believe in simply filling vacancies. We believe in connecting talented people with meaningful challenges, encouraging innovation and creating opportunities to make a real impact.
+ If you're passionate about database administration, enjoy solving complex technical challenges and want to contribute to the reliability and evolution of critical IT infrastructures, we'd love to hear from you.
+ Ready for a new challenge? Apply now and make your mark with Nimber.

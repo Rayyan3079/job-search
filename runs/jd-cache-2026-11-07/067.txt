@@ -1,0 +1,34 @@
+URL: https://www.linkedin.com/jobs/view/4486901667
+TITLE: SAP Analytics Cloud (SAC) Consultant
+COMPANY: T&M Consulting
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-05
+title: SAP Analytics Cloud (SAC) Consultant
+company: T&M Consulting
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+Se busca un consultor de SAP Analytics Cloud con experiencia en planeación financiera y reporting ejecutivo. Será responsable de traducir necesidades de Finanzas y de negocio en modelos de planeación y analíticos dentro de SAC, construir dashboards para dirección y procesos de presupuesto y forecast, y conectar SAC con S/4HANA y con las fuentes de datos corporativas. Se espera que valide la consistencia de los datos y cuestione cálculos y supuestos de los KPIs cuando haga falta.
+ Required Experience 
+ · 5 o más años en planeación financiera o BI con SAP, de los cuales al menos 4 en SAP Analytics Cloud.
+ · Al menos 2 implementaciones de SAC de inicio a fin, con planeación (presupuesto, forecast o planeación de ventas).
+ · SAC Planning: modelos de planeación, versiones, data actions, multi actions, allocations, input forms, calendario y flujos de aprobación.
+ · Stories y aplicaciones analíticas en Optimized Story Experience; scripting cuando el caso lo pida.
+ · Conexiones live e import con S/4HANA (CDS views) y BW/4HANA; conocimiento de SAP Datasphere.
+ · Seguridad en SAC: roles, equipos y data access control.
+ · Conocimiento funcional de Finanzas: P&L, centros de costo, CO-PA, presupuesto y consolidación de cifras.
+ · Diseño de KPIs y buenas prácticas de visualización para dirección.
+ Responsabilidades: 
+ · Conducir sesiones con usuarios de Finanzas y de negocio para entender KPIs, métricas, reglas de negocio y jerarquías.
+ · Diseñar y construir modelos de planeación y analíticos en SAC.
+ · Configurar procesos de presupuesto y forecast con data actions, multi actions y allocations.
+ · Construir dashboards ejecutivos y operativos, validando cálculos y consistencia de datos con los usuarios.
+ · Conectar SAC con S/4HANA, BW/4HANA o Datasphere y resolver problemas de datos con los equipos de datos e integración.
+ · Documentar definiciones de KPIs, cálculos y lógica de los modelos.
+ · Mover contenido entre ambientes, probar antes de liberar y capacitar a usuarios clave.
+ Deseable
+ · Migración desde BPC o BW-IP.
+ · SAP Datasphere o Snowflake.
+ · Scripting en SAC.
+ · Certificación SAP en SAC.

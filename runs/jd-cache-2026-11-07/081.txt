@@ -1,0 +1,42 @@
+URL: https://www.linkedin.com/jobs/view/4488175167
+TITLE: SQL Server Performance Specialist
+COMPANY: Affinity
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-06
+title: SQL Server Performance Specialist
+company: Affinity
+posted: 15 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+A Job? Or a Lifetime Experience? Start Yours Here! 
+ Our mission is to be a meaningful part of our people’s careers. As we grow, so does our determination to deliver the best possible experience to our employees and clients — and that’s exactly what drives us. We are a Portuguese technology consulting company with offices in Lisbon, Porto and Óbidos, and representatives in Brazil and Tunisia. With over 12 years of market expertise, we are now a universe of around 400 people working onsite, remotely or in hybrid models on projects across 20+ countries.
+ We believe great people build successful companies, and that’s why we are committed to valuing, recognizing and developing our professionals.
+ We don’t want to be just another line on your CV — we want you to live a true Lifetime Experience with us. We invest in training and certifications that validate your real progression, promote a healthy work-life balance, and offer benefits that truly impact your personal life and career.
+ #welcometoyourfuture
+ What we’re looking for: 
+ Professional experience in SQL Server / Database Administration , with a strong focus on performance and query optimization 
+ Strong hands-on experience with SQL and T-SQL , including query tuning and DML operations
+ Solid knowledge of SQL Server internals , namely execution plans, query optimizer, statistics and indexing 
+ Experience with performance monitoring and troubleshooting , ideally using Query Store and Extended Events 
+ Experience in high-volume OLTP environments , where performance, availability and reliability are critical
+ Strong ability to analyse and optimize database performance in mission-critical environments 
+ Experience with database design and performance optimization , beyond isolated query tuning
+ Senior or Expert level, with a practical and problem-solving mindset 
+ Be Affinity 
+ #Affinity – Build close and empathetic relationships with colleagues, clients and candidates (and not only with technologies, languages and platforms). Team spirit and a positive attitude;
+ #Ambition – The drive to do more and better. A willingness to exceed expectations and grow both personally and professionally;
+ #Action – The energy to make things happen. Demonstrate proactivity and initiative;
+ #Learning – A desire to evolve individually and collectively and become an expert in the tech market;
+ #Assertiveness – Transparent and honest communication, always with constructive feedback.
+ Your #LifetimeExperience 
+ · Take part in national and international projects in a company built on personal relationships, simplicity and efficiency, with a disruptive approach in the tech market;
+ · Access a personalized career and training plan directly proportional to your performance and interests;
+ · Be part of a welcoming environment based on trust, respect and informality;
+ · Join our Affinity Communities (sports, technology, hobbies, etc.) and actively participate in social and environmental responsibility projects;
+ · Benefit from a range of perks, partnerships, discounts, events and internal initiatives.
+ Beyond your professional satisfaction, we want to provide you with memorable leisure and social opportunities worthy of a true Affinity Experience.
+ Join the Experience! 
+ Send us your application and take the opportunity to get to know us and follow us on:
+ https://www.instagram.com/affinityportugal/ https://www.linkedin.com/company/2701281/admin/
+ https://twitter.com/WithAffinity

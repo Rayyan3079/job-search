@@ -1,0 +1,62 @@
+URL: https://www.linkedin.com/jobs/view/4470949895
+TITLE: Data Analyst
+COMPANY: dubizzle Egypt
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-05
+title: Data Analyst
+company: dubizzle Egypt
+posted: 1 day ago
+applicants: 160 applicants
+apply_offsite: 
+---
+Dubizzle Egypt is the leading marketplace for selling and buying online in the region. Our aim is to upgrade people's lives by facilitating deals and identifying attractive opportunities for both individuals and businesses. Our goal is to strengthen local economies, empower small businesses, and help everyone in making smarter choices for themselves, the market, and the planet.
+As part of Dubizzle Group, we are alongside some of the strongest classified brands in the market. With a collective strength of 5 brands, we have more than 123 million monthly users that trust in our dedication to providing them with the best platform for their needs.
+As a Data Analyst, you will be in a central position, evangelising data and our methodologies to other functional analysts and stakeholders across the company. You will have close interaction with teams in marketing, sales, finance, and product. You will work in a fast-paced environment that is professional, international and entrepreneurial.
+ Key Responsibilities:
+ Access data, construct and manipulate large datasets to support planned analyses using SQL, Python and similar tools
+ Design and develop BI dashboards using Sisense or similar tools (Tableau, PowerBI, DataStudio) for various organisational metrics and indicators using best practices and industry standards in finance, sales, inventory, and other areas
+ Help with defining KPI metrics and drive data governance through standardisation and communication
+ Create the documentation and presentation for management
+ Develop analysis and reporting capabilities; monitor performance and quality control plans to identify improvements
+ Be adept at queries, report writing and presenting findings
+ Research and validate entity data using appropriate internal and external data sources
+ Liaise and analyse projects within the Reference Data environment
+ Analyse, specify, test and implement interfaces, workflow solutions, and reference data solutions - An example would be regression testing systems ahead of upgrades
+ Participate in the design, implementation and interpretation of experiments/trials for continuous refinement of ongoing strategies
+ Responsible for data quality and timely delivery of reports that make common business sense
+ Participate in Analytics & Reporting trainings to evangelize data across the organization
+ Be able to work autonomously without supervision
+ Requirements
+ Qualifications:
+ Bachelor's degree in statistics, mathematics, computer science, or related field
+ Master's degree is a plus
+ Experience:
+ Minimum 3 years of work experience in analytics, having worked closely with products and commercials in an internet/e-commerce company
+ Experience in e-commerce, internet, and/or digital media
+ Knowledge:
+ Extensive experience with SQL
+ Proficient in Microsoft Excel
+ Experience working with BI tools (e.g. Looker, Periscope, Tableau, etc.)
+ Skills in Python, R or similar tools are a big plus
+ Knowledge of statistics and experience using statistical packages for analysing datasets (Excel, SPSS, SAS, etc)
+ Skills:
+ Good analytical skills with a demonstrated ability to translate data and information into actionable insights and business recommendations
+ Strong analytical skills with the ability to collect, organise, analyse, and disseminate significant amounts of information with attention to detail and accuracy
+ Good attention to detail
+ Written and verbal proficiency in English
+ Traits:
+ Proactive and passionate: You are independently capable of seeking information, solving conceptual problems and delivering high-quality results in challenging situations
+ Passion for data and metrics
+ Hands-on attitude and the ability to thrive in a fast-paced environment
+ Highly motivated, professional, creative, proactive and able to work independently and cooperatively in a diverse group
+ Analytical thinking, Conceptual thinking, Detail-oriented, Business Acumen
+ Strong curiosity and striving for continuous learning
+ Thrive in a fast-paced, innovative environment
+ Living the team values: Simpler. Better. Faster
+ Benefits
+ A fast paced, high performing team
+ Comprehensive Health Insurance
+ Life Insurance
+ Rewards & Recognitions
+ Learning & Development opportunities
+ #Egyptdubizzle

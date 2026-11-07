@@ -1,0 +1,51 @@
+URL: https://www.linkedin.com/jobs/view/4487739583
+Company: RWE AG
+Title: Working Student Agentic AI Engineer
+Found: 2026-11-07
+Posted: 2026-11-05
+
+URL: https://www.linkedin.com/jobs/view/4487739583
+TITLE: Working Student Agentic AI Engineer d/f/m
+COMPANY: RWE
+LOC: Essen, North Rhine-Westphalia, Germany
+POSTED: 2026-11-05
+title: Working Student Agentic AI Engineer d/f/m
+company: RWE
+posted: 1 day ago
+applicants: 156 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-agentic-ai-engineer-d-f-m-at-rwe-4487739583&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+RWE AG
+ To start as soon as possible, full time / part time (20 hours / week), fixed term (6 months)
+ Put your agentic AI skills into practice and help turn promising prototypes into useful, reliable and reusable solutions. In this role, you will develop engineering skills alongside an architect and senior engineer while contributing to shared environments for discovering, testing, accessing and reusing AI models and agents.
+ About The Role
+ Contribute Python code and connect model APIs using approved services and help develop agent workflows, AI components and tool integrations.
+ Support the onboarding and maintenance of models, agents and reusable examples in the Model Garden and Agent Garden.
+ Keep configurations, versions and documentation clear and up to date.
+ Create repeatable evaluations for output quality, agent behavior, reliability, response times and resource usage.
+ Improve engineering workflows through automated tests, reusable development templates and repeatable deployment processes under senior review.
+ Assist with monitoring, basic troubleshooting, routine maintenance and operational documentation.
+ Follow agreed security, data-handling and responsible-AI practices, escalating questions and issues to senior colleagues.
+ Job Requirements And Experience
+ Ongoing studies in computer science, data science, business informatics, software engineering or a related subject.
+ Basic practical Python skills and an understanding of Git and APIs gained through coursework, university projects or personal projects.
+ Foundational knowledge of large language models and AI agents.
+ A careful approach to testing, debugging and documentation.
+ A collaborative mindset, curiosity and a willingness to learn.
+ Clear communication skills in English.
+ Advantageous, But Not Essential
+ Familiarity with cloud services, containers, CI/CD, retrieval-augmented generation or agent frameworks.
+ RWE is committed to creating a diverse and inclusive environment – we value your passion, your willingness to learn and your desire to thrive. Even if you don't have all the above skills, need flexible working arrangements or other adjustments not yet listed here, we'd love to hear from you.
+ Your Benefits
+ Independent work on exciting and responsible tasks in relevant energy transition projects.
+ Close collaboration within a motivated team and an open feedback culture that supports personal and professional development.
+ Valuable insights into an internationally operating energy company.
+ Hybrid working and flexible working time models.
+ Free use of the health center, occupational health management and occupational medicine services.
+ A modern company campus with a canteen, barista bar, free parking, EV charging stations and more.
+ Good accessibility by public transport.
+ Apply with just a few clicks: ad code 93968 , application period: 19/11/2026 .
+Any questions? Contact HR: HR Services RWE Core, Recruiting Services, +49 201 5179-9050
+We look forward to meeting you. Of course, you can find us on LinkedIn, Instagram, Facebook, YouTube and Xing, too.
+We value diversity and therefore welcome all applications - regardless of gender, disability, nationality, ethnic and social origin, religion/belief, age, sexual orientation, and identity. #inclusionmatters
+RWE is shaping the energy world of tomorrow. To this end, the company is investing billions of euros in offshore and onshore wind, solar energy, battery storage, flexible generation assets and, through its shareholding in Amprion, in the expansion of Germany’s transmission grid. The portfolio is complemented by its global energy trading business. RWE is already one of the leading companies in the field of renewable energy. Around 20,000 employees work for the company worldwide. With its integrated portfolio and broad project pipeline, RWE is ideally positioned to meet the growing global demand for electricity driven by electrification and artificial intelligence. At the same time, the company is making an important contribution to ensuring a secure, affordable and climate-friendly energy supply. RWE is decarbonising its business in line with the 1.5-degree reduction pathway, will phase out coal by 2030 and aims to achieve net zero by 2040 – fully in line with the company’s purpose: Our energy for a sustainable life.

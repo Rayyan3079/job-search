@@ -1,0 +1,52 @@
+URL: https://www.linkedin.com/jobs/view/4488129996
+TITLE: BI Developer
+COMPANY: A1 Bulgaria
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-06
+title: BI Developer
+company: A1 Bulgaria
+posted: 18 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fbg.linkedin.com%2Fjobs%2Fview%2Fbi-developer-at-a1-bulgaria-4488129996&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Strength. Care. Growth
+ Did you know that A1 Bulgaria is working on international projects as well?
+Our wide portfolio has long past the telecom services, and we are now offering digital solutions to millions of corporate, public, and private customers.
+State-of-the-art technology, the latest innovations, and extremely talented professionals in various areas help us deliver the best-in-class products, services, and customer experience.
+ You’ll know A1 Bulgaria is the right place for you if you are driven by:
+ Opportunities to learn and build your career.
+ Meaningful work in a stable and fast-paced company.
+ Diversity of people, projects, and platforms.
+ A supportive, fun, and inspiring place to work.
+ Would you like to join us?
+ Tenyu Stoynov is looking for a new team member.
+ Your Daily Routine Would Include
+ Participating in the all phases of a BI project.
+ Design and implement dashboards in QlikView and Power BI.
+ Tune and support the BI projects.
+ Develop ad-hoc report queries.
+ Follow the standard development process in the A1 Group.
+ Gather requirements from business and convert functional input into technical specification.
+ We’ll know you can make it if you have:
+ Deep knowledge in QlikView and Power BI.
+ Good knowledge in ANSI SQL programming, preferably T-SQL.
+ Analytical skills and ability to translate user requirements into models and processes.
+ Communicative, responsible personality, willing to study and advance in new technologies.
+ Good command in both spoken and written English.
+ Nice To Have
+ Experience with ETL tools, e.g. IBM DataStage, Microsoft SSIS, SAP Data Services.
+ Familiarity with Reporting and Analysis Tools, e.g. MS SSRS, MS SSAS, SAP BO.
+ Understanding of MS Azure Synapse, ADF, Data Lake or Databricks.
+ Our gratitude for the job done will be eternal, but we’ll also offer you:
+ Innovative technologies and platforms to “play” with.
+ Modern working environment for your comfort.
+ Friendly, ambitious, and motivated teammates to support each other.
+ Thousands of online and in-person learning opportunities to grow.
+ Challenging assignments and career development opportunities in multinational environment.
+ Attractive remuneration package.
+ Flexible working schedule and opportunity for home office.
+ Numerous additional goodies, including, but not limited to free A1 services, discounts, health insurance and services, sports center, childcare, team and family events, etc.
+ Not sure yet? See us in action in our A1 Blog .
+Any questions? Contact Gabriela Rudarska. 
+ Sounds good? Apply now!
+ Only shortlisted candidates will be contacted.

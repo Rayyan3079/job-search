@@ -1,0 +1,40 @@
+URL: https://www.xing.com/jobs/jena-praktikum-abschlussarbeit-software-testing-medizinprodukte-159048467
+TITLE: Praktikum / Abschlussarbeit (m/w/d) – Software Testing Medizinprodukte
+COMPANY: Preventicus GmbH
+LOC: Jena
+POSTED: 2026-11-06
+title: Praktikum / Abschlussarbeit (m/w/d) – Software Testing Medizinprodukte
+company: Preventicus GmbH
+posted: 2026-11-06T12:35:19Z
+location: Jena | remote: 
+---
+Preventicus: Das sind wir 
+ Gesundheitslösungen von morgen machen wir schon heute. Wir schaffen Mobile und Wearable Produkte für den Gesundheitssektor.
+ Deine Mission: 
+ Im Rahmen eines Praktikums bei der Preventicus GmbH erhältst Du einen umfassenden Einblick in das Thema Software Testing in den Bereichen Web, Mobile und Wearables (Smartwatches) . Du erlernst das Testen von Software basierend auf Spezifikationen. Nach erfolgreichem Abschluss des Praktikums gibt es die Möglichkeit ein Thema für eine Abschlussarbeit (Bachelor / Master) zu erstellen oder auch längerfristig als Werkstudent/in an Bord zu bleiben.
+ Pflichtpraktikum | 2-6 Monate | ab Februar 2027 
+ Aufgabenschwerpunkte
+ Unterstützung des QA-Teams bei der Qualitätssicherung von Web- und Mobile Anwendungen
+ Erstellung, Pflege und Ausführung von Testfällen im Rahmen von funktionalen, System- und Regressionstests
+ Entwicklungsbegleitendes Testen von B2C- und B2B-Produkten im Bereich von mobilen und webbasierten Anwendungen
+ Selbstständige Erfassung, Bearbeitung und Pflege von Tickets in Jira
+ Erstellung von Anforderungs- und Testfallreviews sowie Testberichten
+ Unterstützung bei der Umsetzung von automatisierten Funktionstests
+ Zusammenarbeit mit dem Entwicklungsteam zur Ermittlung von Fehlerwirkungen und Unterstützung bei Grundursachenanalysen
+ Anforderungen
+ Du studierst Informatik, Wirtschaftsinformatik oder einen vergleichbaren Studiengang und möchtest dein Pflichtpraktikum in einem innovativen und technisch anspruchsvollen Umfeld absolvieren
+ Du bringst ein ausgeprägtes Interesse an testgetriebener Softwareentwicklung und modernen Softwaretestmethoden mit
+ Du verfügst über ein grundlegendes technisches Verständnis für die Funktionsweise und Abläufe automatisierter Tests
+ Du hast idealerweise erste Kenntnisse in JavaScript, TypeScript und PHP sowie im Umgang mit Git und JIRA
+ Du überzeugst durch Kommunikationsstärke, Motivation und ein hohes Maß an Eigeninitiative
+ Du arbeitest strukturiert, sorgfältig und methodisch und hast Freude daran, dich in neue Themengebiete einzuarbeiten
+ Das bieten wir
+ Wir schaffen zukunftsfähige Gesundheitslösungen zur Vermeidung von Schlaganfällen und Du bist ein wichtiger Teil davon!
+ Praktikum mit der Möglichkeit einer weiterführenden Zusammenarbeit, bspw. im Rahmen einer Abschlussarbeit oder Werkstudententätigkeit
+ Einblicke in die Welt der Gesundheitsversorgung
+ Wissenstransfer im Bereich Softwareentwicklung für Web, Mobile und Wearables
+ Du bekommst erfahrene Kolleg*innen als Mentoren an deine Seite gestellt
+ Wir empfangen Dich mit einer sehr guten Arbeitsatmosphäre mit "Herz und Rhythmus"
+ Ein hochmotiviertes, international erfahrenes Team, dem unsere gemeinsame Vision am Herzen liegt, freut sich auf Dich!
+ Wir sind gespannt auf deine Bewerbung, die Du am besten über den Bewerben-Button einreichst! 
+ Bitte nenne auch deinen Wunschzeitraum und die geforderte Praktikumsdauer laut Studienordnung.

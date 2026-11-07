@@ -1,0 +1,60 @@
+URL: https://www.linkedin.com/jobs/view/4485178326
+TITLE: Intern in the Mission Operations Department - Infrastructure Analytics and Anomaly Detection
+COMPANY: European Space Agency - ESA
+LOC: Darmstadt, Hesse, Germany
+POSTED: 2026-11-01
+title: Intern in the Mission Operations Department - Infrastructure Analytics and Anomaly Detection
+company: European Space Agency - ESA
+posted: 6 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fintern-in-the-mission-operations-department-infrastructure-analytics-and-anomaly-detection-at-european-space-agency-esa-4485178326&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Intern in the Mission Operations Department - Infrastructure Analytics and Anomaly Detection
+Job Requisition ID: 21088
+Date Posted: 1 November 2026
+Closing Date: 30 November 2026 23:59 CET/CEST
+Publication Method: External Only
+Directorate: Operations
+Workplace:
+Darmstadt, DE
+ Location
+ ESOC, Darmstadt, Germany
+ Our team and mission
+ Mission Operations IT (MOI-IT) and the Operational Control Centre (OCC) provide and operate the critical infrastructure, platforms, workplace services, and facilities that support ESA's space mission operations at ESOC. Our mission is to lead the evolution of MOI-IT & OCC services, delivering modern, resilient, and scalable solutions that enable current and future mission operations. We strive to be perceived as enablers for our customers and colleagues, supporting the deployment of innovative systems, applications, and operational capabilities across the organisation.
+The environment comprises a large-scale and highly available infrastructure supporting multiple operational missions, including servers, network devices, virtualised platforms, security services, monitoring systems, and operational applications. MOI-IT & OCC continuously evolves its infrastructure and platform services to provide greater flexibility, scalability, and operational efficiency while maintaining the highest standards of reliability and service delivery.
+Above all, MOI-IT & OCC aim to remain the home of safe, secure, and efficient space and ground operations.
+Interns joining the team will gain exposure to real operational environments, modern infrastructure technologies, cybersecurity, observability platforms, automation, and the unique challenges of supporting ESA's mission operations infrastructure.
+Candidates interested are encouraged to visit the ESA website: http://www.esa.int
+ Field(s) of activity for the internship
+ As an intern you will investigate and analyse the data available within the Mission Operations Infrastructure – Information Technology (MOI-IT) Elasticsearch, Logstash, and Kibana (ELK) infrastructure, which centrally collects the infrastructure logs across the different operational environments. The platform currently ingests around 200 GB of log data per day, with data volumes continuously growing as additional systems and services are onboarded. The objective is to understand the available data sources, identify operational relevant information, and create meaningful dashboards that support the operations teams in monitoring the infrastructure health, troubleshooting issues, and identifying long term trends.
+Building on this analysis, you will explore and evaluate anomaly detection techniques to identify unusual behaviour, recurring issues, and early indicators of infrastructure degradation. The project will investigate how operational events can be correlated, visualised, and transformed into actionable notifications to help teams react more effectively to potential problems. The selected dashboards and anomaly detection capabilities will be implemented and demonstrated using the existing MOI-IT ELK platform, with a focus on improving operational visibility and providing proactive insights.
+This project offers a great opportunity for hands-on experience with large scale log analytics, observability platforms, data visualisation, and operational intelligence techniques, while delivering tangible value to MOI-IT operations.
+ Behavioural competencies
+ Result Orientation
+Operational Efficiency
+Fostering Cooperation
+Relationship Management
+Continuous Improvement
+Forward Thinking
+For more information, please refer to ESA Core Behavioural Competencies guidebook
+ Education
+ You must be a university student, preferably in your final or second-to-last year of university course at Master's level. In addition, you must be able to prove that you will be enrolled at your university for the entire duration of the internship.
+ Additional Requirements
+ The working languages of the Agency are English and French. A good knowledge of one of these is required. Knowledge of another ESA Member State language is an asset.
+During the interview, your motivation for applying to this role will be explored.
+ Familiarity with container technologies and Kubernetes orchestration;
+ awareness of open-source GitOps tools such as FluxCD; 
+ familiarity with the ELK stack; 
+ understanding of RBAC principles. 
+ Diversity, Equity and Inclusiveness 
+ ESA is an equal opportunity employer, committed to achieving diversity within the workforce and creating an inclusive working environment. We therefore welcome applications from all qualified candidates irrespective of gender, sexual orientation, ethnicity, religious beliefs, age, disability or other characteristics.
+At the Agency we value diversity, and we welcome people with disabilities. Whenever possible, we seek to accommodate individuals with disabilities by providing the necessary support at the workplace. The Human Resources Department can also provide assistance during the recruitment process. If you would like to discuss this further, please contact us via email at ESA.Student.Internships@esa.int.
+ Important Information and Disclaimer
+ During the recruitment process, the Agency may request applicants to undergo selection tests.
+Applicants must be eligible to access information, technology, and hardware which is subject to European or US export control and sanctions regulations.
+The information published on ESA’s careers website regarding internship conditions is correct at the time of publication. It is not intended to be exhaustive and may not address all questions you would have.
+ Nationality 
+ Please note that applications are only considered from nationals of one of the following States: Austria, Belgium, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, the Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, and the United Kingdom.
+Find your path with ESA »
+Internship Programme »
+FAQ »

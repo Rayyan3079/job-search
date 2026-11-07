@@ -1,0 +1,58 @@
+URL: https://www.linkedin.com/jobs/view/4487729680
+TITLE: AI & Data Analytics Partner
+COMPANY: Jimdo
+LOC: Germany
+POSTED: 2026-11-05
+title: AI & Data Analytics Partner
+company: Jimdo
+posted: 1 day ago
+applicants: 74 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fai-data-analytics-partner-at-jimdo-4487729680&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+About Jimdo
+ We exist to unleash the power of the self-employed - helping solopreneurs and micro-businesses thrive by doing what they're passionate about and removing the complexity of building lasting, successful businesses.
+Jimdo started in 2007 when three school friends built a website builder in a Northern German farmhouse to help everyone build a presence online. Today, we're a profitable, remote-first company with 220+ people from 50+ nationalities working across 15+ countries. We've helped build over 36 million websites to get online across the world.
+We're more than just a website builder. We're an AI-powered platform that helps self-employed people actually run and build successful businesses — from getting found online, winning customers and running their business with a peace of mind by knowing exactly what to do next to move forward.
+At the heart of Jimdo is a strong belief in personalized, data-driven guidance. Our platform combines design, business tools, and an AI-powered core that turns real customer data into clear insights and next steps helping our customers focus on what moves their business forward.
+ Role Overview
+ Jimdo is becoming an AI-first company, and our People team is one of the first places where that shows up in daily work. We're looking for an AI & Data Analytics Partner to build the agents, analytics and workflow automations that make the People team faster, smarter and easier to scale.
+You'll take a process from "this is slow and manual" to a working, compliant solution in production, and then make sure the team can run and extend it without you. You'll also give leadership one reliable view of People data, so decisions rest on numbers everyone trusts.
+You’ll start with the People team, and the scope can grow to any other function across Jimdo.
+ The Team And Who You'll Work With
+ You'll report to the Manager Performance Intelligence and work day to day with the People team and our HR Business Partners.
+You'll also work closely with our AI team on standards and capabilities, with Finance and Legal on data consistency and compliance, and with our HR system and payroll providers.
+This is a remote role, open to candidates based in Germany, Italy, Spain or Portugal.
+ What You'll Be Doing
+ Build a central reporting suite in Tableau that brings data from HiBob, payroll and compensation tools into one source of truth, with dashboards leadership actually uses.
+ Own the quality and structure of People data, and use analytics to spot workforce trends, risks and process bottlenecks.
+ Find the HR processes with the most friction and fix them with AI agents and workflow automation, from first prototype to production.
+ Improve self-service for employees and managers with AI tools that answer the repetitive questions, so the People team can focus on the work that needs a person.
+ Connect our systems of record and improve the data flow between HR and Finance, so there's far less manual reconciliation.
+ Make every solution auditable, explainable and compliant, and set clear guardrails for responsible AI use.
+ Run hands-on workshops and co-building sessions and write playbooks, so the team can build and maintain automations on their own.
+ Your First Months
+ After 3 months: you know our People systems and data flows, you've agreed the reporting scope with the People team, and your first quick-win automation is live.
+ After 6 months: the central reporting suite is in use by leadership, and at least one AI-enabled HR process runs in production
+ What You Bring To The Table
+ 5+ years in data analytics, AI and automation, or technical systems roles.
+ 2+ years of hands-on work with LLMs, agents, prompt engineering and workflow orchestration tools such as n8n, with solutions you've taken into production.
+ A track record of improving business processes through automation or system redesign, with results you can show.
+ Strong data analysis skills and expert-level Tableau: you build dashboards that turn complex data into clear recommendations. Database knowledge is a plus.
+ Expert knowledge of HiBob as a user, including its data and reporting, and a solid sense of data privacy and compliance (GDPR) when handling sensitive people data.
+ You enjoy teaching: you explain technical choices in plain language and measure your success by how well others can use what you've built.
+ Nice to have
+ Direct experience in an HR or People Operations team.
+ A certification in AI, machine learning, analytics or automation.
+ Experience working with Finance, Legal or external HR service providers.
+ What We Offer
+ Inspiring Mission: At our core, we are driven by a meaningful mission - to empower solopreneurs and small businesses to succeed and to contribute to the sustainability and vibrancy of the communities they serve.
+ Flexibility and Trust: Our work environment thrives on flexibility and trust. We offer fully remote work set-up with opportunities for in-person collaboration. You can manage your working hours flexibly because we prioritize the results you deliver over the number of hours you put in.
+ An International Diverse Team: Our team is a mosaic of over 248 individuals hailing from 50+ different countries and working across 15+ diverse locations. We take pride in our openness and inclusivity.
+ Continuous Growth and Career Development: We invest in your growth with company-wide access to LinkedIn Learning and curated learning paths. From day one, you have the chance to contribute your ideas and create a meaningful impact. Our flat hierarchies and swift decision-making processes provide an open platform for your career progression.
+ Competitive Benefits Package
+ Annual compensation reviews to ensure you're rewarded fairly.
+ A remote office set-up bonus to enhance your workspace.
+ An employee assistance program, offering resources and counseling.
+ Plus, a perk that keeps giving: up to three free Jimdo websites for your personal or professional projects that you get to keep forever.
+ Jimdo is proud to be an equal opportunity employer. This means that we don’t discriminate based on race or ethnic origin, color, the language(s) you speak, where you (or your parents) are from, or whether or not you consider yourself to have a disability. Neither will your age, gender, gender identity, sexual orientation, religion, beliefs, or political opinions play a part in your application with us. Our diverse team values and celebrates the uniqueness of each individual. We embrace differences and believe that they enrich our organization, making us stronger and more innovative. Join us, and let's continue to create a workplace where everyone can thrive, regardless of background or identity.
+ By sending your application, you declare that you read and understand the Jimdo Applicant Privacy Policy

@@ -1,0 +1,51 @@
+URL: https://www.linkedin.com/jobs/view/4478275148
+TITLE: Consultant Data & Analytics
+COMPANY: QUNIS GmbH
+LOC: Germany
+POSTED: 2026-10-19
+title: Consultant Data & Analytics
+company: QUNIS GmbH
+posted: 2 weeks ago
+applicants: 143 applicants
+apply_offsite: 
+---
+Wir suchen Dich als …
+ Consultant für Data & Analytics zum nächstmöglichen Zeitpunkt in Vollzeit / DACH-Region / Remote
+ Idealerweise bist Du schon auf Senior-Level. Bist Du da noch nicht, entwickeln wir Dich gemeinsam dahin.
+ Data- & Analytics-Enthusiast, AI-Affinist, Frontend-Versteher, Plattformliebhaber, Konzeptionierer, Projektsteuerer, Umsetzer (m/w/d) 
+ Wenn Deine Leidenschaft dem Schaffen von Datenräumen für moderne Analytics gilt und Du für Datenarchitekturen und moderne Analytics-Plattformen ebenso brennst wie für die Themen der Visualisierung und Organisation, dann ist diese Position genau die richtige für Dich!
+ Zur Erweiterung unseres Consulting-Teams suchen wir Dich als Persönlichkeit, die ihr Herzblut und ihr Data & Analytics-Know-how in die Projekte von QUNIS einbringt und unsere Kunden gleichermaßen wie unser Team damit begeistern will.
+ Ein Team, das wie Du Data & Analytics liebt, freut sich auf Dich!
+ Deine Aufgaben 
+ Beratung unserer Kunden in technischen, organisatorischen und fachlichen Fragestellungen rund um alle Themen der Data & Analytics sowie damit verbunden der AI.
+ Durchführung von methodischen Aufnahmen und Analysen der Anforderungen im Kundenprojekt sowie Übernahme von Aufgaben in der Projektsteuerung.
+ Erstellung anspruchsvoller Fachkonzepte sowie die eigenverantwortliche Umsetzung im Team.
+ Bei Bedarf Durchführung von Schulungen und Workshops für unsere Kunden sowie Begleitung der Einführung neuer Mitarbeiter und Coaching von Junioren.
+ Implementierung von Applikationen im Team auf Basis der modernen Data- & Analytics- Portfolios von Microsoft, SAP, Databricks sowie weiteren Technologien, basierend auf QUNIS Vorgehendmodellen und Frameworks.
+ Entwicklung und Etablierung von Standards/Best-Practices für skalierbare Datenarchitekturen.
+ Das ist Dir wichtig 
+ Du schätzt flache Hierarchien, löst gerne knifflige Aufgaben und möchtest in einem schnell wachsenden Unternehmen etwas bewegen. Qualität, Leidenschaft, Spaß, Teamgeist, Vertrauen und Fairness sind für Dich ebenso wichtig, wie für uns. Du legst Wert darauf, dass Fähigkeit und Persönlichkeit im Einklang stehen, zusammen geschätzt und entwickelt werden.
+ Das bringst Du mit 
+ Mehrjährige Projekterfahrung in verschiedenen Business-Intelligence-Projekten und starkes Interesse für neue Technologien im Analytics- und AI-Umfeld.
+ Konzeptionelles Wissen in den Bereichen Business Intelligence- und Big-Data-Lösungen, Data Warehousing, Data Lakehouses (Schichtenarchitekturen, Modellierungsmethoden), Advanced Analytics.
+ Fundierte Kenntnisse mit SQL, sowie mit modernen Data & Analytics-Plattformen und Tools von Microsoft, SAP wie bspw. Azure Data Factory, Azure Databricks, Microsoft Power BI, Microsoft Fabric, SAP Datasphere, SAC, S/4HANA Embedded Analytics / Fiori oder/und mit Open-Source- und Lakehouse-Tools.
+ Gute Moderations- und Präsentationsfähigkeiten sowie ein sicheres Auftreten in Kundensituationen.
+ Sehr gute Deutsch- und gute Englischkenntnisse sowie Spaß an der Kommunikation mit Kunden aus der D-A-CH Region.
+ Das erwartet Dich bei QUNIS 
+ Eine innovative Umgebung mit neuesten Technologien.
+ Spannende Kunden und Projekte.
+ Mitarbeit in Leuchttürmen und fachlichen Domains.
+ Eine Unternehmenskultur, in der wir Werte wie Vertrauen, Teamgeist, Leidenschaft, Spaß, Fairness und Qualität gemeinsam leben.
+ Kurze Informations- und Entscheidungswege.
+ Eine strukturierte Einarbeitung und Übergabe von Verantwortung.
+ Ein Team, das sich unterstützt und Data & AI liebt.
+ Das bekommst Du 
+ Abwechslungsreiche und verantwortungsvolle Aufgaben mit individuellem Gestaltungsspielraum.
+ Sehr gute Entwicklungsmöglichkeiten und Weiterbildung.
+ Attraktives Fixgehalt plus Bonus.
+ Remote Arbeit, FlexiTime und Workation.
+ Home-Office-Ausstattung für Dich.
+ Transparente Kommunikation, Townhalls und Feiern.
+ Life Balance: Fit und gesund bleiben mit EGYM Wellpass oder mal eine längere Auszeit nehmen, alles möglich!
+ Starte gleich durch und bewirb Dich bei QUNIS als Consultant oder Senior Consultant für Data & Analytics (m/w/d). 
+ Dein Ansprechpartner: Kai Linse , unser Senior Tech Recruiting Expert, freut sich von Dir zu hören.

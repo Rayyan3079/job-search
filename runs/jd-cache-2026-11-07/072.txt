@@ -1,0 +1,46 @@
+URL: https://www.linkedin.com/jobs/view/4471101120
+TITLE: Data Engineer, Decision Intelligence Technology
+COMPANY: Amazon Web Services (AWS)
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-05
+title: Data Engineer, Decision Intelligence Technology
+company: Amazon Web Services (AWS)
+posted: 1 day ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fdata-engineer-decision-intelligence-technology-at-amazon-web-services-aws-4471101120&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Description
+ As part of the AWS Applied AI Solutions organization, we have a vision to provide business applications, leveraging Amazon’s unique experience and expertise, that are used by millions of companies worldwide to manage day-to-day operations. We will accomplish this by accelerating our customers’ businesses through delivery of intuitive and differentiated technology solutions that solve enduring business challenges. We blend vision with curiosity and Amazon’s real-world experience to build opinionated, turnkey solutions. Where customers prefer to buy over build, we become their trusted partner with solutions that are no-brainers to buy and easy to use.
+The AWS Kumo team provides technology and trusted expertise that intelligently anticipate and resolve AWS customer needs, helping them adopt, optimize, and operate at scale. Kumo’s products, used by AWS customers and the Support teams that help them, are vital to ensuring exceptional customer experiences on AWS. Our team owns customer facing applications like Trusted Advisor, Personal Health Dashboard, AWS Forums, and Support Center and internal tooling such as Case Management, Troubleshooting, and Customer Event Management. We are a highly innovative global organization revolutionizing the way customers engage and seek help from AWS. Support provides a strategic advantage for customers adopting AWS and drives direct revenue to the business.
+We are looking for an excellent Data Engineer who is passionate about data and the insights that large amounts of data sets can provide. You should possess both a data engineering background and a business acumen that enables you to think strategically. You will experience a wide range of problem solving situations requiring extensive use of data collection and analysis. The successful candidate will work in lock-step with BI Engineers, Data scientists, ML scientists, Business analysts, Product Managers and other stakeholders across organization.
+ You Will
+ Develop and improve the current data architecture, data quality, monitoring and data availability.
+ Collaborate with Data Scientists to implement advanced analytics algorithms that exploit our rich data sets for statistical analysis, prediction, clustering and machine learning
+ Partner with BAs across teams to build and verify hypothesis to improve the AWS Support business.
+ Help continually improve ongoing reporting and analysis processes, simplifying self-service support for customers
+ Keep up to date with advances in big data technologies and run pilots to design the data architecture to scale with the increased data sets of customer experience on AWS.
+ About The Team
+ Diverse Experiences
+Amazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.
+Why AWS
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.
+Work/Life Balance
+We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why flexible work hours and arrangements are part of our culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.
+Inclusive Team Culture
+Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity and AmazeCon conferences, inspire us to never stop embracing our uniqueness.
+Mentorship and Career Growth
+We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.
+ Basic Qualifications
+ 1+ years of data engineering experience
+ Experience with data modeling, warehousing and building ETL pipelines
+ Experience with one or more query language (e.g., SQL, PL/SQL, DDL, MDX, HiveQL, SparkSQL, Scala)
+ Experience with one or more scripting language (e.g., Python, KornShell)
+ Preferred Qualifications
+ Experience with big data technologies such as: Hadoop, Hive, Spark, EMR
+ Experience with any ETL tool like, Informatica, ODI, SSIS, BODI, Datastage, etc.
+ Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.
+USA, WA, Bellevue - 101,300.00 - 160,000.00 USD annually
+ Company - Amazon Web Services, Inc.
+Job ID: A10557661

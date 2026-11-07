@@ -177,4 +177,16 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003960949-S | IONOS SE | Werkstudent (w/m/d) - Security Tooling / 1671 | Berlin
 - [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12489-44549630-113-S | Fressnapf Holding SE | Werkstudent HR / Akademie (m/w/d) - 18 Std./Woche | Krefeld
 
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12727-LS1384209-S | engineering people GmbH | Werkstudent Gefahrstoffanalytik (m/w/d) | Hardthausen am Kocher
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/18624-0068576587-S | Stadtwerke Augsburg Holding GmbH | Werkstudent*in (m/w/d) Schadensregulierung | Augsburg, Bayern
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/15939-BB-635926-7878-2836-S | Rheinmetall AG | Werkstudent Projektassistenz Entwicklung (m/w/d) | Kassel, Hessen
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/16274-0068607138-S | Bischof+Klein SE & Co. KG | Werkstudent Business Intelligence (m/w/d) | Lengerich, Westfalen
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/16274-0068607148-S | Bischof+Klein SE & Co. KG | Werkstudent Vertrieb (m/w/d) - Sales Suport | Lengerich, Westfalen
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208580144-S | Symporo GmbH | Werkstudent (m/w/d) Bereich Power BI | Ludwigsburg, Württemberg
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2371698-S | LESER GmbH & Co. KG | Werkstudent Strategischer Einkauf - Data & Analytics / Performance Management, Hamburg | Hamburg
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/20965-2371020-S | Hamburg Port Authority AÖR | Werkstudent*in Hydrologie (m/w/d) | Hamburg
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208571890-S | Samsung SDS Europe Ltd. German Branch | Working student - KPI (m/f/x) | Magdeburg
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2372733-S | SCHUMANN DE | Werkstudent (m/w/d) KI-Automatisierung, Prof. Schumann GmbH | Göttingen
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/17033-0068605755-S | Coveris Flexibles Deutschland GmbH | Werkstudent Produktentwicklung, Digitalisierung und Projektorganisation (m/w/d) | Warburg, Westfalen
+
 ## Processed

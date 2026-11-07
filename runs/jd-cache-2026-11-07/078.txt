@@ -1,0 +1,74 @@
+URL: https://www.linkedin.com/jobs/view/4485876422
+TITLE: Power BI Developer
+COMPANY: Version 1
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-05
+title: Power BI Developer
+company: Version 1
+posted: 1 day ago
+applicants: 45 applicants
+apply_offsite: 
+---
+Company Description
+ Version 1 has celebrated 30 years in business and continues to be trusted by global brands to deliver technology and transformation solutions that drive customer success. Our deep expertise enables our customers to navigate the rapidly evolving technology landscape. We foster strong partnerships with global technology leaders including Anthropic, Microsoft, AWS, Oracle, Red Hat, OutSystems, Snowflake, ensuring that our customers are provided with the highest quality solutions and services.
+ We’re an award-winning employer reflecting how our employees are at the very heart of what we do:
+ UK & Ireland's premier AWS, Microsoft & Oracle partner 
+ 3300+ strong, €350/£300m revenue business 
+ 10+ years as a Great Place to Work in Ireland & UK 
+ Best Workplace for Women in the UK & Ireland by GPTW 
+ Best Workplace for Wellbeing in the UK by GPTW 
+ We’re a core values driven company, we hire people who share our values, and we reward those who display and foster them, it’s deeply embedded within our DNA. Invest in us and we’ll invest in you!.
+ Job Description
+ Role Overview
+ We are seeking an experienced Power BI Developer with strong expertise in Microsoft Fabric , Power BI , data modelling , DAX , and SQL . The ideal candidate will have experience designing scalable semantic models, optimising reporting solutions, and supporting data platform modernisation and migration initiatives. You will work closely with business stakeholders, data engineers, and analytics teams to deliver high-quality reporting and business intelligence solutions.
+ Key Responsibilities
+ Design, develop, and maintain enterprise-scale Power BI dashboards and reports.
+ Build and optimise Microsoft Fabric data solutions, including Lakehouse, Data Warehouse, Dataflows, and Semantic Models.
+ Develop robust and scalable data models following best practices for performance, maintainability, and usability.
+ Create complex DAX measures, calculations, KPIs, and business metrics.
+ Lead and support data migration projects, including migration from legacy Oracle BI platforms to Microsoft Fabric and Power BI.
+ Perform data model optimisation to improve report performance, refresh times, and user experience.
+ Collaborate with business users to gather requirements and translate them into reporting solutions.
+ Implement data governance, security, and role-based access controls within Power BI and Fabric environments.
+ Conduct performance tuning and troubleshooting across datasets, reports, and semantic models.
+ Support deployment, testing, and release management processes for Power BI solutions.
+ Document data models, reporting solutions, and technical design specifications.
+ Qualifications
+ Required Skills & Experience
+ Technical Skills
+ Strong experience with Microsoft Fabric.
+ Advanced expertise in Power BI Desktop, Power BI Service, and Report Builder.
+ Strong knowledge of data modelling concepts including star schema, dimension and fact tables.
+ Advanced DAX development experience.
+ Strong SQL development and performance tuning skills.
+ Experience building interactive and visually compelling Power BI reports and dashboards.
+ Experience with data model optimisation and performance tuning techniques.
+ Experience working on data migration projects from legacy systems to modern analytics platforms.
+ Understanding of ETL/ELT processes and modern data warehousing concepts.
+ Knowledge of data security, governance, and row-level security (RLS).
+ Preferred Skills
+ Experience with Azure Data Services.
+ Experience with Git-based source control and CI/CD processes.
+ Knowledge of Power Query (M Language).
+ Microsoft Fabric or Power BI certifications.
+ Qualifications
+ Bachelor's degree in Computer Science, Information Technology, Data Analytics, or related field.
+ Experience in Power BI development and business intelligence solutions.
+ Hands-on experience delivering enterprise reporting and analytics projects.
+ Additional Information
+ Why Version 1? 
+ At Version 1, we believe in providing our employees with a comprehensive benefits package that prioritises their wellbeing, professional growth, and financial stability. 
+ Share in our success with our Quarterly Performance-Related Profit Share Scheme, where employees collectively benefit from a share of our company's profits  
+ Strong Career Progression & mentorship coaching through our Strength in Balance & Leadership schemes with a dedicated quarterly Pathways Career Development programme  
+ Flexible/remote working, Version 1 is tremendously understanding of life events and people’s individual circumstances and offer flexibility to help achieve a healthy work life balance  
+ Financial Wellbeing initiatives including; Pension, Private Healthcare Cover, Life Assurance, Financial advice and an Employee Discount scheme  
+ Employee Wellbeing schemes including Gym Discounts, Bike to Work, Fitness classes, Mindfulness Workshops, Employee Assistance Programme and much more. Generous holiday allowance, enhanced maternity/paternity leave, marriage/civil partnership leave and special leave policies  
+ Educational assistance, incentivised certifications, and accreditations, including AWS, Microsoft, Oracle, and Red Hat  
+ Reward schemes including Version 1’s Annual Excellence Awards & Star Awards.
+ Environment, Social and Community First initiatives allow you to get involved in local fundraising and development opportunities as part of fostering our diversity, inclusion and belonging schemes.  
+ And many more exciting benefits… drop us a note to find out more.    
+Version 1 is an equal opportunities employer. 
+We are committed to building a diverse, inclusive and respectful workplace where everyone feels valued and able to thrive. We welcome applications from people of all backgrounds, identities and lived experiences, and we value the different perspectives people bring including those shaped by disability and neurodiversity. 
+We want every candidate to have a positive and accessible recruitment experience. If you need reasonable adjustments at any stage of the process, please contact your recruiter ekta.bahl@version1.com at Version 1. We will consider all requests carefully, respectfully and confidentially. 
+Video links: 
+https://www.youtube.com/watch?v=F_d3ELTH5zo

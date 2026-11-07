@@ -1,0 +1,72 @@
+URL: https://www.linkedin.com/jobs/view/4488148196
+TITLE: Analyste bi (int.) - ville de montréal
+COMPANY: FOP Consultants
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-06
+title: Analyste bi (int.) - ville de montréal
+company: FOP Consultants
+posted: 18 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fca.linkedin.com%2Fjobs%2Fview%2Fanalyste-bi-int-ville-de-montr%25C3%25A9al-at-fop-consultants-4488148196&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Description de l'offre d'emploi
+ Description Du Poste
+ FOP CONSULTANTS est à la recherche d’ Analystes BI motivé à la réalisation de mandats. Les principales missions seraient d’analyser les besoins d’information et de développer les solutions de renseignements d’affaires, de concevoir les modèles de données et les tableaux de bord, d’assurer la qualité et la fiabilité des données, d’automatiser les flux d’alimentation et d’accompagner les utilisateurs dans l’exploitation des données
+ RESPONSABILITÉS PRINCIPALES
+ Analyser les besoins d’information et définir les indicateurs et les règles de calcul.
+ Concevoir et développer les modèles de données, les rapports et les tableaux de bord.
+ Développer et maintenir les flux d’alimentation et de transformation des données (ETL/ELT).
+ Assurer la qualité, la cohérence et la fiabilité des données et des livrables.
+ Optimiser la performance des modèles, des requêtes et des rapports.
+ Documenter les modèles, les dictionnaires de données et les procédures d’exploitation.
+ Accompagner les utilisateurs d’affaires et soutenir l’autonomie analytique
+ PROFIL RECHERCHÉ
+ Diplôme universitaire en informatique, gestion ou toutes disciplines connexes.
+ Cinq (05) à dix (10) années d’expérience en technologie de l’information.
+ Trois (03) à sept (07) années d’expérience comme analyste BI.
+ Expérience avec l’un des cadre suivants : Scrum, Kanban, Lean, DSDM, SAFe, Nexus.
+ Détenir l’une des certifications suivantes : PL-300, DP-600.
+ Détenir l’une des certifications suivantes (atout) : DP-900, DP-700, AI-900.
+ Expérience avec l’un des outils suivants : Power BI, Microsoft Fabric, SQL, Azure DevOps.
+ Expérience dans les organismes publics ou privés du Canada.
+ Langue : Français
+ MODE DE TRAVAIL
+ Télétravail, hybride, sur site
+ CE QUE NOUS OFFRONS
+ Chez FOP CONSULTANTS, Nous Investissons Dans Le Succès Et Le Bien-être De Nos Experts. En Vous Joignant à Notre Équipe, Vous Bénéficiez D’un Environnement Conçu Pour Soutenir Votre Performance Et Respecter Votre Équilibre De Vie, Notamment
+ Une rémunération compétitive, à la hauteur de votre expertise;
+ Une protection complète grâce à nos assurances collectives;
+ Une assurance professionnelle pour pratiquer en toute confiance;
+ La flexibilité du travail à distance, selon les besoins du client;
+ 3 semaines de vacances pour recharger vos batteries;
+ 3 jours de congés maladie payés, pour prendre soin de vous;
+ De réelles possibilités d’avancement au sein de l’organisation;
+ Un accès continu à la formation pour faire évoluer vos compétences.
+ Formations
+ Baccalauréat 1er cycle — Informatique — Informatique et gestion
+ Baccalauréat 1er cycle — Informatique — Informatique et génie logiciel
+ Langues
+ Français parlé et écrit — Niveau avancé
+ Expérience
+3 à 5 ans
+Description de l'entreprise
+Notre organisation, située dans la région métropolitaine de Montréal propose des services professionnels en Ingénieire et en Sciences de la Vie par le biais de ses consultants. Nous couvrons des segments de marché tel que l'industrie Pharmaceutique, Agroalimentaire, Cosmétiques, des Dispositifs Médicaux et des Technologies de l'Information et des Communications (TIC).
+Sans toutefois être exhaustives, les compétences couvertes par nos consultants englobent les activités suivantes:
+ Secteurs des TIC
+ Architecture et réseaux TI;
+ Analyse TI;
+ Assurance qualité;
+ Cybersécurité;
+ Développement des logiciels;
+ Programmation;
+ Gestion des projets TI;
+ Etc.
+ Secteurs des Sciences de la Vie
+ Ingénierie (Projet, Maintenance, Procédés, Bâtiments, etc.);
+ Validation;
+ Assurance qualité;
+ Affaires réglementaires;
+ Pharmacovigilance;
+ Rédaction technique;
+ HSE;
+ Etc.

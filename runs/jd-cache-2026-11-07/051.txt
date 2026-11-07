@@ -1,0 +1,50 @@
+URL: https://www.linkedin.com/jobs/view/4486250704
+TITLE: Werkstudent*in (w/m/d) Generative AI-Solutions im Bereich R&D
+COMPANY: Siemens Healthineers
+LOC: Erlangen, Bavaria, Germany
+POSTED: 2026-11-06
+title: Werkstudent*in (w/m/d) Generative AI-Solutions im Bereich R&D
+company: Siemens Healthineers
+posted: 13 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-in-w-m-d-generative-ai-solutions-im-bereich-r-d-at-siemens-healthineers-4486250704&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Requirements
+ Werde Teil von Siemens Healthineers! Wir leisten Pionierarbeit im Gesundheitswesen. Für jeden Menschen. Überall. Nachhaltig.
+Wir setzen uns für ein inspirierendes und wertschätzendes Arbeitsumfeld in einer globalen Gemeinschaft ein, die Vielfalt und Individualität lebt. Wir ermöglichen Dir, über Deine Komfortzone hinauszuwachsen, und bieten Dir die nötigen Ressourcen sowie die Flexibilität, um Deine berufliche und persönliche Entwicklung zu fördern. Dabei schätzen wir Deine individuellen Stärken und die Perspektiven, die Du einbringst.
+ Werkstudent*in (w/m/d) Generative AI-Solutions im Bereich R&D
+ In dieser Position wirst Du unser Entwicklungsteam bei der Entwicklung, Optimierung und praktischen Umsetzung KI-basierter Agentenlösungen unterstützen und damit den Einsatz von Generativer KI im R&D-Umfeld vorantreiben.
+ Wähle den besten Ort für Deine Arbeit - im Rahmen dieser Stelle ist es in Abstimmung mit Deiner Führungskraft möglich, bis zu einem durchschnittlichen Volumen von 60% der jeweiligen Arbeitszeit mobil (innerhalb Deutschlands) zu arbeiten.
+Diese Stelle ist in Teilzeit mit 15h/Woche zu besetzen.
+Arbeitsort: An der Laende 3-9, 91301 Forchheim
+ Stellenbeschreibung
+ Du unterstützt unser Entwicklungsteam beim Aufbau und der Weiterentwicklung KI-basierter Agentenlösungen im Umfeld von Microsoft Copilot und GitHub
+ Du bereitest technische Dokumente, Daten und Wissensquellen für die strukturierte Nutzung durch KI-Agenten auf
+ Du entwickelst und optimierst Skills, Prompts und Markdown-basierte Workflows, um Aufgaben und Abläufe für KI-Agenten strukturiert abzubilden
+ Du testest und verbesserst bestehende Agenten hinsichtlich Qualität, Zuverlässigkeit und praktischer Nutzbarkeit im Entwicklungsumfeld
+ Du unterstützt bei der Standardisierung und Übertragung bestehender Agentenlösungen auf weitere Produkte und Anwendungsfälle
+ Mehr über dieses Geschäftsfeld erfährst Du unter https://www.siemens-healthineers.com/products-services
+ Berufserfahrung
+ Du studierst Informatik, Data Science, Künstliche Intelligenz, Software Engineering oder einen vergleichbaren technischen Studiengang, idealerweise im Masterstudium mit bereits abgeschlossenem Bachelor
+ Du verfügst über erste praktische Erfahrung mit Generativer KI, Large Language Models (LLMs) oder KI-Agenten
+ Idealerweise hast du bereits mit Microsoft Copilot, GitHub Copilot oder vergleichbaren KI-Werkzeugen gearbeitet
+ Du besitzt Grundkenntnisse in Softwareentwicklung, Skriptsprachen und strukturierten Datenformaten, z. B. Python, Markdown, JSON oder YAML
+ Erfahrung im Umgang mit technischer Dokumentation, Wissensmanagement, RAG-Konzepten oder automatisierten Workflows ist von Vorteil
+ Du hast eine hohe Affinität zu KI-Technologien und Freude daran, neue digitale Lösungen praktisch umzusetzen
+ Du arbeitest strukturiert und analytisch und kannst komplexe technische Inhalte für die Nutzung durch KI-Systeme aufbereiten
+ Du verfügst über ein gutes Verständnis für Prompt Engineering und die systematische Steuerung von KI-Agenten oder möchtest dieses gezielt weiterentwickeln
+ Du bringst Eigeninitiative und Experimentierfreude mit und kannst Lösungen selbstständig testen, bewerten und kontinuierlich verbessern
+ Du kommunizierst sicher in Deutsch und Englisch und arbeitest gerne mit Experten unterschiedlicher technischer Fachrichtungen zusammen
+ Benefits
+ Unsere Benefits begleiten Dich in jeder Lebensphase und unterstützen Dein Wohlbefinden, Deine Weiterentwicklung sowie eine gesunde Balance zwischen Beruf und Privatleben. Entdecke die Benefits von Siemens Healthineers im jeweiligen Land.
+ Wer wir sind
+ Wir sind ein Team von mehr als 74.000 engagierten Healthineers in über 70 Ländern. Als führendes Unternehmen der Medizintechnik verschieben wir kontinuierlich die Grenzen des Machbaren, um bessere Ergebnisse und Erfahrungen für Patient*innen zu schaffen – unabhängig davon, wo sie leben oder mit welchen gesundheitlichen Herausforderungen sie konfrontiert sind. Unser Portfolio leistet einen entscheidenden Beitrag zu klinischen Entscheidungen und Prozessen.
+ Wie wir arbeiten
+ Wenn Du bei Siemens Healthineers startest, wirst Du Teil eines globalen Teams aus Fachkräften und hochqualifizierten Spezialist*innen aus unterschiedlichen Bereichen, u.a. aus der Wissenschaft, aus dem klinischen Umfeld, aus der Entwicklung und Forschung.
+Uns verbindet die Überzeugung, dass jede einzelne Person mit ihren vielfältigen Ideen einen wertvollen Beitrag leisten kann. Wir kommen aus unterschiedlichen Kulturen, haben verschiedene Hintergründe, Religionen sowie politische und sexuelle Orientierungen. Gemeinsam arbeiten wir daran, die größten gesundheitlichen Herausforderungen unserer Zeit zu bewältigen und den Zugang zu medizinischer Versorgung weltweit zu verbessern. Dabei verbindet uns ein gemeinsamer Purpose: Wir leisten Pionierarbeit im Gesundheitswesen. Für jeden Menschen. Überall. Nachhaltig.
+Besuche unsere Karriere-Seite unter https://careers.siemens-healthineers.com/de/de.
+Wir legen Wert auf Diversität und Chancengleichheit und freuen uns über Bewerbungen von Menschen mit vielfältigen Hintergründen, insbesondere von Menschen mit Behinderung.
+Du möchtest mehr erfahren und erste Fragen gern persönlich klären – Sprich uns an: students.func@siemens-healthineers.com.
+Wir nehmen den Schutz Deiner Daten und die Einhaltung der DSGVO und anderer Datenschutzgesetze ernst. Deshalb bitten wir Dich, uns Deinen Lebenslauf nicht per E-Mail zu schicken. Bitte lege ein Profil in unserer Talent Community an, um Deinen Lebenslauf hochzuladen. Daran erkennen wir, dass Du an Karrieremöglichkeiten bei uns interessiert bist und können Dich zu relevanten Stellen benachrichtigen. Klicke hier, um ein Profil anzulegen.
+ An Alle Personalvermittlungsagenturen
+ Die Personalbeschaffung bei Siemens Healthineers wird intern verwaltet. Externe Unterstützung ist nur dann gestattet, wenn eine qualifizierte Agentur einen formellen Vertrag mit uns abgeschlossen hat. Unaufgeforderte Bewerbungen und Empfehlungen von Kandidatenprofilen ohne aktuelle Lieferantenvereinbarung begründen keine Zustimmung und sind somit nicht gebührenpflichtig. Wir löschen und vernichten nicht angeforderte Informationen und empfehlen, von derartigen Praktiken abzusehen. Wir danken für die Einhaltung unserer Richtlinien.

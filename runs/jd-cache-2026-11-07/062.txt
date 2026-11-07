@@ -1,0 +1,44 @@
+URL: https://www.stepstone.de/stellenangebote--Software-Developer-m-w-d-SAP-bundesweit-Home-Office-Prologa--14718412-inline.html
+TITLE: Software Developer (m/w/d) SAP
+COMPANY: Prologa
+LOC: bundesweit, Home-Office
+POSTED: stepstone
+title: Software Developer (m/w/d) SAP
+company: Prologa
+posted: 2026-11-05T10:44:19.337Z
+location: bundesweit | remote: 
+---
+Einleitung
+ Du möchtest technische Verantwortung übernehmen und nachhaltige Softwarelösungen aktiv mitgestalten? 
+ Als Softwareentwickler (m/w/d) bei Prologa treibst du die Entwicklung und Optimierung anspruchsvoller Softwareprojekte voran. Dabei leistest du in der Kreislaufwirtschaft (Circular Economy)  einen direkten Beitrag zur Ressourcenschonung. In der Energiebranche (Utilities) entwickelst du Lösungen, die Effizienz steigern und den Einsatz  erneuerbarer Energien unterstützen.
+ Du entwickelst Software, die technologisch überzeugt und nachhaltig wirkt.
+Du hast die Möglichkeit 100% remote innerhalb Deutschlands zu arbeiten, mit gelegentlicher Reisebereitschaft für Team-Events. Alternativ stehen dir unsere Offices in Halle/ Leipzig, Oldenburg und Walldorf für den persönlichen Austausch und die Zusammenarbeit vor Ort jederzeit offen.
+ Aufgaben
+ Stell dir vor, du bist ein technischer Wegbereiter für Softwarelösungen, die aktiv zur Nachhaltigkeit und Ressourceneffizienz beitragen. 
+Als Softwareentwickler (m/w/d) bei uns übernimmst du die Verantwortung für die Entwicklung und Implementierung komplexer Anforderungen, die unsere Kunden aus der Kreislaufwirtschaft und Energieversorgung bei ihrer Mission für mehr Nachhaltigkeit unterstützen. Dabei entscheidest du selbst, ob du im Produktteam am Kernprodukt arbeitest oder unsere  Software in Kundenprojekten individuell anpasst.
+Deine Rolle konzentriert sich auf die technische Umsetzung komplexer Projekte, bei denen du deine tiefgehenden Kenntnisse in den genutzten Technologien und Programmiersprachen einbringst. Du sorgst dafür, dass der Code nicht nur funktioniert, sondern auch optimal auf die Anforderungen unserer Kunden zugeschnitten ist. Darüber hinaus optimierst du bestehende Prozesse, um sicherzustellen, dass unsere Lösungen effizient und nachhaltig sind.
+ Profil
+ Mit deiner fundierten Erfahrung in der SAP-Entwicklung und deinem analytischen sowie problemlösungsorientierten Ansatz entwickelst du nachhaltige Lösungen für komplexe technische Herausforderungen. Du bist in der Lage, technische Konzepte verständlich zu vermitteln und kommunizierst sicher mit internen Teams sowie Kunden, um eine erfolgreiche Umsetzung sicherzustellen.
+ Du verfügst über mehrjährige Erfahrung in der objektorientierten Softwareentwicklung , idealerweise mit Schwerpunkt  SAP ABAP . Kenntnisse in modernen SAP-Technologien wie ABAP Cloud  und der  SAP Business Technology Platform (BTP) bringst du bereits mit und setzt diese gezielt in Entwicklungsprojekten ein.
+ Darüber hinaus hast du Erfahrung mit  agilen Entwicklungsmethoden und arbeitest sicher mit den entsprechenden Tools und Prozessen. Du gestaltest Entwicklungsabläufe aktiv mit, bringst deine Expertise ins Team ein und unterstützt dabei, effiziente und qualitativ hochwertige Lösungen umzusetzen.
+ Sehr gute Deutschkenntnisse und mindestens Englisch Kenntnisse auf B2 Niveau runden dein Profil ab und machen dich zur idealen Verstärkung für unser Team.
+ Wir bieten
+ Gemeinsam Zukunft gestalten: sicher, nachhaltig und voller Möglichkeiten! 
+Was PROLOGIANER ausmacht? 
+Teamgeist, Gestaltungsspielraum und der Wille, mit Technologie echte Veränderungen zu schaffen. Wir brennen für smarte Lösungen mit echtem Umweltnutzen und jede Menge Begeisterung gehört für uns einfach dazu. 
+Bei PROLOGA erwartet dich ein Job mit Sinn und Impact: Wir entwickeln Software, die unsere Welt ein Stück sauberer macht. Zero Emissions ist unser Ziel und vielleicht bald auch deins? 
+Wir sind seit über 20 Jahren erfolgreich am Markt, SAP-Partner – und weiter auf Wachstumskurs. Das heißt für dich:  Gestaltungsfreiheit, spannende Perspektiven und jede Menge Raum, um gemeinsam zu wachsen und deine Stärken einzubringen.  
+ Was dich bei uns sonst noch erwartet:  
+ Flexible Arbeitszeiten und die Möglichkeit remote zu arbeiten. Unsere Officetüren stehen dir jederzeit offen. Für Teammeetings, Events und Feiern kommen wir gerne zusammen. 
+ Choose your Device: Mac oder Windows – du entscheidest, womit du am liebsten arbeitest. 
+ JobRad-Leasing 
+ Strukturiertes Onboarding & individuelle Weiterbildungsmöglichkeiten 
+ Sport- und Teamevents sowie Sommer- und Weihnachtsfeiern. 
+ Mit unserem PROLOGA-Benefits-Portal sicherst du dir Rabatte & Sonderkonditionen bei über 1.000 Partnern - von Restaurants über Mode bis hin zu Reisen und Freizeitangeboten.
+ ...und das ist längst nicht alles!
+ Bereit für einen Job, der wirklich etwas bewegt? 
+Dann komm zu PROLOGA – wo Tech auf Purpose trifft. 
+ Weitere Informationen
+ Du hast Fragen? Alina Steubing
+Talent Acquisition Manager
+ +49 345 5554-2 33

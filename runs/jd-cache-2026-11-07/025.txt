@@ -1,0 +1,46 @@
+URL: https://www.linkedin.com/jobs/view/4488150054
+TITLE: Junior Data Analyst
+COMPANY: Admetrics
+LOC: Germany
+POSTED: 2026-11-06
+title: Junior Data Analyst
+company: Admetrics
+posted: 18 hours ago
+applicants: 181 applicants
+apply_offsite: 
+---
+Remote UTC+0 to UTC+3 
+ Experience 1-3 years 
+ About us At Admetrics, we are dedicated to leading a transformation in e-commerce marketing through science and technology. Our SaaS products provide evidence-based solutions that empower marketing teams to scale operations with efficiency and profitability. Leveraging our deep industry expertise, we offer tools that enable rapid, data-driven decision making. 
+ As a focused and highly specialized team, we utilize state of the art and in house developed technologies to convert complex data sets into clear, actionable insights, giving our clients a competitive edge to outlearn and outperform their competitors. 
+ Your role As a Junior Data Analyst, you will help support, optimize and design our data transformation process. We are looking for a technically strong and solution-oriented analyst. Your work will mostly focus around building and optimizing data modelling architecture and helping answer customer questions around their data. 
+ You will work closely alongside our analytics, engineering and customer success teams to transform data into insights through our products. 
+ Key Responsibilities: 
+ Develop, debug, maintain and optimize data models in dbt (Data build tool), focusing on performance, stability and scalability. 
+ Work with customer success to help answer client questions. 
+ Collaborate with product and engineering teams to align pipelines and analytics needs according to business requirements. 
+ Requirements: 
+ Strong command of SQL modelling with dbt. 
+ Familiarity with python in context of data modelling, wrangling and analysis is a plus. 
+ Experience working with data warehouses such as Clickhouse or Google BigQuery. 
+ Familiarity with data modeling, metric design, and scalable reporting architectures. 
+ Proven ability to translate product requirements into data models with a focus on performance, efficiency and scalability. 
+ Experience working with version control tools and understanding of CI/CD pipelines. 
+ Keen eye for testing and debugging data models. 
+ Strong communication skills. 
+ Nice to Have: 
+ Familiarity with data warehouses (ClickHouse, BigQuery, Snowflake). 
+ Experience with ecommerce platforms (Shopify, Shopware, WooCommerce, Magento, JTL etc.). 
+ Knowledge of advanced modelling techniques, such as marketing mix modelling 
+ Knowledge of Bayesian Statistics 
+ Experience working in a SaaS startup environment. 
+ What We Offer: 
+ A dynamic and collaborative work environment in a growing startup. 
+ Opportunities for professional growth and career advancement. 
+ Flexible working arrangements (remote first). 
+ A great team empowered by autonomy and guided by clear objectives. 
+ If you’re passionate about marketing data analytics, we’d love to hear from you! 
+ How to Apply: 
+ Send your resume, salary expectations and earliest availability with a short intro message to people@admetrics.io 
+ We’re keen to hear from you! 
+ Team Admetrics

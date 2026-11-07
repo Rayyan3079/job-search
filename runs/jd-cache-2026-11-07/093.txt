@@ -1,0 +1,27 @@
+URL: https://www.linkedin.com/jobs/view/4486776409
+TITLE: Werkstudent/Praktikant (m/w/d) IT-Infrastruktur: Security & Workplace
+COMPANY: Motorenfabrik Hatz
+LOC: Ruhstorf, Bavaria, Germany
+POSTED: 2026-11-05
+title: Werkstudent/Praktikant (m/w/d) IT-Infrastruktur: Security & Workplace
+company: Motorenfabrik Hatz
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-praktikant-m-w-d-it-infrastruktur-security-workplace-at-motorenfabrik-hatz-4486776409&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Wir bei Hatz schaffen weltweit kundenorientierte Antriebslösungen. Als starker Partner versetzen wir Maschinenhersteller und Maschinenbetreiber in die Lage, ihre Kernaufgaben einfacher und effizienter zu meistern. Unser größter Ansporn sind dabei unsere motivierten und qualifizierten Mitarbeiterinnen und Mitarbeiter. Nur durch sie sind wir in der Lage, Außergewöhnliches zu leisten - von der Herstellung renommierter Industriemotoren und Aggregate bis hin zur Entwicklung vollelektrischer Systeme und digitaler Lösungen. Gemeinsam stehen wir für Innovation und Lösungsorientierung, Offenheit und Wertschätzung und suchen nach Menschen, mit denen wir gemeinsam die Zukunft von Hatz gestalten können.
+Ihre Aufgaben
+ Unterstützung unseres IT-Teams bei operativen Aufgaben rund um IT-Sicherheit und Infrastruktur
+ Mitarbeit im Schwachstellen- und Patchmanagement sowie bei der Weiterentwicklung von Sicherheitsrichtlinien und Awareness-Maßnahmen
+ Unterstützung bei der Gestaltung und Weiterentwicklung unseres digitalen Arbeitsplatzes auf Basis von Microsoft 365
+ Mitarbeit bei Client-Management, Software-Rollouts und der Automatisierung von IT-Prozessen
+ Übernahme eigener Aufgabenpakete innerhalb unserer IT-Projekte
+ Dokumentation von Prozessen und Lösungen sowie Unterstützung im IT-Support
+ Ihr Profil
+ Studium der (Wirtschafts-)Informatik oder eines vergleichbaren Fachs
+ Interesse an SAP-Entwicklung bzw. an IT-Security und Systemadministration
+ Erste Programmier- oder Scripting-Erfahrung (z. B. JavaScript, ABAP, Python, PowerShell) von Vorteil, aber keine Voraussetzung
+ Eigeninitiative, Teamgeist und gute Deutschkenntnisse
+ Werkstudenten idealerweise 15 bis 20 Stunden pro Woche, Praktikum nach Vorgabe der Hochschule
+ Haben wir Ihr Interesse geweckt?
+Dann freuen wir uns auf Ihre aussagefähige Bewerbung mit Angabe zu Ihrer Verfügbarkeit.

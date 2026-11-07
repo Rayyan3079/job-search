@@ -1,0 +1,41 @@
+URL: https://www.linkedin.com/jobs/view/4486252250
+TITLE: Werkstudent Analytics – Digital Health (all genders)
+COMPANY: sqior medical
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-11-06
+title: Werkstudent Analytics – Digital Health (all genders)
+company: sqior medical
+posted: 14 hours ago
+applicants: 38 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-analytics-%25E2%2580%2593-digital-health-all-genders-at-sqior-medical-4486252250&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Deine Stelle
+ Du interessierst dich für Vertrieb im digitalen Gesundheitswesen und möchtest praktische Erfahrung im Klinikumfeld sammeln?
+Als Werkstudent Analytics – Digital Health (all genders) bei sqior unterstützt Du unser Team bei der Weiterentwicklung unserer digitalen Assistenzsysteme für OP- und Belegungsmanagement in Kliniken – mit Schwerpunkt auf Analytics und Prognosemodellen sowie Softwareentwicklung, etwa bei kundenspezifischen Anpassungen. Je nach Deinen Interessen und Fähigkeiten bringst Du Dich auch in weitere Themen ein. Du arbeitest dabei eng mit unserem Team zusammen – mit viel Raum zum Lernen, Ausprobieren und Mitgestalten.
+ Deine Aufgaben
+ Unterstützung im Bereich Analytics, z. B. bei Auswertungen, Kennzahlen und Reports
+ Mitarbeit an KI-/ML-gestützten Prognosemodellen (z. B. OP-Dauer) und deren Validierung
+ Analyse und Aufbereitung klinischer Daten (z. B. OP-Zeiten, Belegungsdaten)
+ Mitarbeit an der Entwicklung und kundenspezifischen Anpassung unserer Softwarelösungen
+ Erstellung von Auswertungen, Dokumentationen und Präsentationen
+ Teilnahme an internen Meetings und bei Interesse auch an Events oder Kundenterminen
+ Dein Profil
+ Laufendes Studium im Bereich Informatik, Data Science, Medizininformatik, Wirtschaftsinformatik oder vergleichbar
+ Spaß an der Arbeit mit Daten – von der Aufbereitung und Analyse bis zur Auswertung und Visualisierung
+ Erste Erfahrung in der Softwareentwicklung (Python und/oder TypeScript)
+ Erste Kenntnisse in Machine-Learning-Verfahren für Vorhersagemodelle und LLM, Prompt Engineering, KI-Agenten von Vorteil
+ Interesse an digitalen Lösungen und Innovationspotenzial im Klinikalltag
+ Selbstständige, strukturierte Arbeitsweise und Motivation, Verantwortung zu übernehmen
+ Wohnort idealerweise in Bayern – mit Bereitschaft für gelegentliche Besuche im Münchner Büro
+ 15–20 Stunden pro Woche während des Semesters, in der vorlesungsfreien Zeit gerne mehr
+ Deine Vorteile
+ Ein Team, das sich gegenseitig unterstützt, Erfahrungen teilt und gemeinsam vorankommt
+ Start-up Kultur mit viel Gestaltungsspielraum und die Möglichkeit, sqior mit deinem Beitrag zu prägen
+ Pioniergeist und die Möglichkeit die Gesundheitsversorgung von morgen mitzugestalten
+ Offene wertschätzende Feedback-Kultur
+ Hohes Maß an Eigenverantwortung
+ Flexibilität und Rücksicht auf deine Prüfungsphasen
+ Regelmäßige Team-Events und enger Austausch mit dem Team
+ Über uns
+ Bei sqior entwickeln wir digitale Assistenzsysteme für Krankenhäuser, die stets den Nutzer in den Vordergrund stellen. Wir sind überzeugt davon, dass eine nachhaltige Effizienzsteigerung im Gesundheitssystem nur möglich ist, wenn digitale Innovationen für Kliniken zusammen mit KlinikerInnen entwickelt werden.
+Deshalb arbeiten wir eng mit unserem Netzwerk aus GesundheitsexpertInnen, Unternehmen und vor allem herausragenden Krankenhäusern zusammen, um Lösungen zu schaffen, die in der täglichen Anwendung einen echten Unterschied machen.

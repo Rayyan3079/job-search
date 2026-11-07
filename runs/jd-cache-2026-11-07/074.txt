@@ -1,0 +1,37 @@
+URL: https://www.linkedin.com/jobs/view/4487727106
+TITLE: CX Data Analyst and Power BI Engineer
+COMPANY: Sutherland
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-06
+title: CX Data Analyst and Power BI Engineer
+company: Sutherland
+posted: 13 hours ago
+applicants: 25 applicants
+apply_offsite: 
+---
+Sutherland is seeking a technically savvy and analytical individual to join our CX Transformation team. This role is a hybrid of a Data Engineer and a Business Intelligence Analyst. You will be the "engine" of our data operations, responsible for the day-to-day execution of insights, dashboard development, and data architecture that powers our client’s CX strategy.
+ Job Description
+ As the CX Data Analyst & Power BI Engineer, you will be the execution layer of our day-to-day data operations. Your primary focus is to manage and monitor our existing reporting suite: running periodic reports to spot emerging trends and summarizing key findings into digestible insights. While the foundation is built, you will be the go-to resource for evolving our tools: updating existing dashboards as business requirements change and occasionally building new dataflows or visualizations.
+Key Responsibilities
+ Trend Analysis & Reporting: Manage the daily/weekly cadence of CX reports, performing deep-dives to identify operational shifts, anomalies, or opportunities. 
+ Dashboard Maintenance & Evolution: Serve as the primary owner for existing Power BI reports; update logic, visualizations, and data connections as business requirements evolve. 
+ Ad-Hoc Development: Design and build new Power BI dashboards and Dataflows when new business needs or special projects arise. 
+ Data Integrity & Summarization: Ensure all periodic data refreshes are successful and accurate, translating complex datasets into clear, visual summaries for the leadership team. 
+ Collaborative Optimization: Partner with the Insights Hub Manager to translate strategic goals into technical updates within the Power BI environment. 
+ Documentation: Maintain clear logs of reporting updates and data definitions to ensure consistency across the Hub. 
+ Qualifications
+ Qualifications & Technical Skills
+ Experience: 3+ years of experience in a Data Analyst, BI Developer, or Data Engineering role. 
+ Power BI Proficiency: Hands-on experience with Power BI Desktop and Service. You should be highly proficient in DAX and Power Query (M). 
+ Analytical Mindset: A knack for "finding the story" in the data and summarizing it for non-technical stakeholders. 
+ Communication: Ability to explain "the story behind the numbers" to internal stakeholders and client operations. 
+ Preferred Skills
+ Cloud Data Platforms: Experience working with Snowflake or similar cloud data warehouses. 
+ CPG Industry Knowledge: Familiarity with Consumer Packaged Goods (CPG) KPIs, such as CSAT, Net Promoter Score (NPS), or supply chain/consumer sentiment data. 
+ CX Experience: Background in Contact Center operations or Customer Experience design. 
+ Core Competencies
+ Reliability: You take pride in the accuracy and consistency of "the daily numbers."
+ Agility: You can pivot quickly from routine reporting to building a new visualization for an urgent business request. 
+ Self-Directed: You are comfortable managing a recurring reporting schedule with minimal oversight. 
+ Additional Information
+ All your information will be kept confidential according to EEO guidelines.

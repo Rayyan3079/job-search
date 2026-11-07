@@ -1,0 +1,50 @@
+URL: https://www.linkedin.com/jobs/view/4487764807
+Company: Wabtec Corporation
+Title: Working Student – AI Engineering
+Found: 2026-11-07
+Posted: 2026-11-05
+
+URL: https://www.linkedin.com/jobs/view/4487764807
+TITLE: Working Student – AI Engineering (m/w/d)
+COMPANY: Wabtec Corporation
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-11-05
+title: Working Student – AI Engineering (m/w/d)
+company: Wabtec Corporation
+posted: 1 day ago
+applicants: Over 200 applicants
+apply_offsite: 
+---
+Job Description
+ About the Role
+ We are looking for a motivated Working Student to support our AI Engineering team in developing and testing practical AI-driven applications and proof-of-concepts, as well as supporting their transition towards production-ready solutions. This is an excellent opportunity to gain hands-on experience with modern AI technologies while working alongside experienced engineers.
+ Key Responsibilities
+ Contribute to the implementation of AI-powered applications using existing models, services, and platforms. 
+ Assist in preparing and evaluating data required for AI use cases. 
+ Develop prototypes and proof-of-concepts using appropriate AI, data, and software development tools, and support their transition towards production-ready solutions. 
+ Support automation and optimization of engineering processes. 
+ Create and maintain technical documentation. 
+ Collaborate with cross-functional teams to identify and evaluate potential AI use cases. 
+ Test, validate, and improve AI applications, including their reliability, usability, and output quality. 
+ Qualifications
+ Currently pursuing a Bachelor's or Master's degree in Computer Science, Engineering, Data Science, AI, or a related field. 
+ Basic knowledge of Python, software development, and AI concepts. 
+ Strong analytical and problem-solving skills. 
+ Ability to work independently and as part of a team. 
+ Good communication skills in English. 
+ Preferred Skills
+ Familiarity with APIs, AI development tools, or data platforms is an advantage. 
+ Knowledge of Generative AI, LLMs, and prompt engineering. 
+ Familiarity with Git and software development practices. 
+ Exposure to enterprise AI assistants and low-code or no-code AI platforms is an advantage. 
+ Additional Information
+ What could you accomplish in a place that puts People First?
+ At Wabtec, it’s not just about a job - it’s about the impact you make. When our people come together, we’re Expanding the Possible by continuously improving what we do and how we do it - for our clients and each other.
+If you’re ready to revolutionize how the world moves for future generations, Wabtec is the place for you.
+ Who are we?
+ Wabtec is a leading global provider of equipment, systems, digital solutions, and value-added services for the freight and transit rail sectors. Drawing on more than 150 years of experience, we are leading the way in safety, efficiency, reliability, innovation, and productivity. Whether it’s freight, transit, ports, logistics, mining, industrial, or marine, our expertise, technologies, and people together – are accelerating the future of transportation. With roots that date back to George Westinghouse, Thomas Edison, and Louis Faiveley, Wabtec has always built technologies and implemented solutions for a variety of sectors that are critical to meeting the needs of customers and governments alike.
+Our global team of about 30,000 employees worldwide delivers performance that moves the world forward. We’re lifelong learners, obsessed with better. Learn more at www.WabtecCorp.com.
+ Culture powers us and the possibilities.
+ We believe the best ideas come from a mix of experiences and backgrounds. At Wabtec, we strive every day to create a place where everyone belongs. We’re building a culture where leadership, inclusion and your unique perspective fuel progress.
+We’re proud to be an Equal Opportunity Employer. We welcome talent of all backgrounds, experiences, and identities, including race, gender, age, disability, veteran status and more.
+Need accommodation? Just let us know - we’ve got you.

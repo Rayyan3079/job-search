@@ -1,0 +1,47 @@
+URL: https://www.linkedin.com/jobs/view/4480146245
+Company: C&A
+Title: Working Student Digital Adoption (AI enablement)
+Found: 2026-11-07
+Posted: 2026-11-06
+
+URL: https://www.linkedin.com/jobs/view/4480146245
+TITLE: Working Student (m/f/d) Digital Adoption
+COMPANY: C&A
+LOC: Düsseldorf, North Rhine-Westphalia, Germany
+POSTED: 2026-11-06
+title: Working Student (m/f/d) Digital Adoption
+company: C&A
+posted: 20 hours ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-m-f-d-digital-adoption-at-c-a-4480146245&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+The future looks like you
+ With over 1,300 stores in 17 European countries and more than 25,000 employees, C&A is one of Europe’s leading fashion retailers. Every day, C&A welcomes millions of visitors to its stores in Europe and to its online shop. C&A offers quality and long-lasting fashion at affordable prices for the many. We are building on more than 180 years of experience in the fashion industry and continuously modernize the company to become an omnichannel fashion retailer.
+Building on more than 180 years of experience, we are continuously modernizing to become a truly data- and AI-driven omnichannel fashion retailer. As a Working Student (m/f/d) Digital Adoption, you will focus on the people, skills, and adoption execution pillar of AI enablement. You will translate AI strategy, ambition, and governance into concrete upskilling initiatives, role readiness activities, and adoption programs across the organization. This is your chance to join the C&A team as a Working Student (m/f/d) Digital Adoption !
+ Your Responsibilities
+ Explore, test, and evaluate approved AI tools and solutions against practical business scenarios through structured test cases, lightweight solution experiments, and prototypes using appropriate test data. Compare and document findings related to output quality, usability, limitations, human review requirements, and opportunities for reuse
+ Document reproducible examples, prompts, and lessons learned, including cases where solutions do not perform well, while researching relevant AI developments and identifying practical experimentation opportunities
+ Translate experimental findings into practical demos, how-to guides, FAQs, onboarding resources, and learning materials, while explaining technical concepts clearly for non-technical audiences, including use cases, required inputs, and limitations
+ Contribute validated examples and demonstrations to trainings, workshops, and AI community sessions, and use employee questions and feedback to identify further testing topics and continuously improve existing guidance
+ Support Digital Champions, AI learning communities, and AI pilots by providing practical examples, preparing scenarios, conducting hands-on testing, collecting feedback, documenting outcomes, and helping create community posts, use-case stories, workshops, and internal showcases based on tested findings and responsible AI practices
+ Maintain and continuously enhance a reusable knowledge base of test findings, demos, prompts, guidance, and best practices to support knowledge sharing, employee enablement, and AI adoption
+ What You Bring
+ You are currently enrolled in a Bachelor's or Master's degree, preferably in computer science, information systems, artificial intelligence, data science, or a related technical discipline
+ You have a strong interest in AI and enjoy hands-on experimentation, problem-solving, and exploring how technology can support everyday work
+ You communicate clearly in English and can explain technical findings to non-technical audiences. German is an advantage
+ You are comfortable using Microsoft 365 to document findings, prepare presentations, and collaborate with colleagues
+ You can structure test scenarios, assess results critically, and document findings clearly and reproducibly
+ You can translate your findings into clear, engaging learning materials and practical demonstrations
+ Hands-on experience with generative AI tools through coursework, personal projects, or previous work is an advantage
+ Basic experience with Python, APIs, or low-code/no-code automation is an advantage; advanced software engineering experience is not required
+ You work proactively, reliably, and with attention to detail. Experience in training, content creation, or knowledge sharing is beneficial
+ What We Offer
+ This is an opportunity for you to join us on a truly exciting transformation journey, where you’ll be able to leave footprints that last and contribute significantly to our vision. As well as knowing that you played a key part in the evolution of one of Europe’s most recognizable retail brands, you will also enjoy:
+ Countless learning and development opportunities via our C&A academy
+ An employee discount of 20% in C&A stores
+ Mental health and wellness program
+ An exciting job in an international and inspirational working environment
+ A positive working atmosphere and a talented team with an open feedback culture
+ C&A fosters equal opportunity for people of all backgrounds and identities. We are led by a gender-balanced board that is committed to building a diverse and inclusive organization where everyone can become their best self.
+We do not discriminate based on age, disability, gender identity, sexual orientation, ethnicity, race, religion or belief, parental and family status, or any other protected characteristic. We welcome applications from women, men and non-binary candidates of all ethnicities and socio-economic backgrounds. We encourage people belonging to underrepresented groups to apply.
+Even if you don't check every box, but see yourself contributing, please apply and help us build an inclusive community.

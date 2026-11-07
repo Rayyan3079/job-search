@@ -1,0 +1,48 @@
+URL: https://www.linkedin.com/jobs/view/4488199042
+TITLE: Werkstudent Agentic AI Engineer d/w/m
+COMPANY: RWE
+LOC: Essen, North Rhine-Westphalia, Germany
+POSTED: 2026-11-06
+title: Werkstudent Agentic AI Engineer d/w/m
+company: RWE
+posted: 12 hours ago
+applicants: 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-agentic-ai-engineer-d-w-m-at-rwe-4488199042&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+RWE AG
+ Start zum nächstmöglichen Zeitpunkt, Vollzeit / Teilzeit (20 Stunden / Woche), befristet (6 Monate)
+ Bringe deine Begeisterung für Agentic AI bei uns ein und entwickle praxisnahe Lösungen mit echtem Mehrwert.
+Im Team bauen und betreiben wir den Model Garden und Agent Garden – zentrale Plattformen, in denen unsere Teams KI-Modelle und AI-Agenten entdecken, testen und nachhaltig einsetzen können. Gemeinsam mit erfahrenen Kolleg:innen erhältst du die Chance, aktiv mitzugestalten und operative Verantwortung zu übernehmen. Erlebe, wie aus innovativen Prototypen skalierbare, verlässliche KI-Werkzeuge werden.
+ Die Rolle
+ Entwicklung von KI-Komponenten und Schnittstellen mit Python.
+ Integration von Modell-APIs und Gestaltung von Agenten-Workflows sowie Tool-Anbindungen mit zugelassenen Services.
+ Unterstützung beim Onboarding und bei der Pflege von Modellen, Agenten und wiederverwendbaren Beispielen im Model Garden und Agent Garden.
+ Übersichtliche Verwaltung von Konfigurationen, Versionen und Dokumentationen.
+ Aufbau von Testroutinen zur Bewertung von Output-Qualität, Agentenverhalten, Zuverlässigkeit, Antwortzeiten und Ressourcennutzung.
+ Mitgestaltung automatisierter Tests, wiederverwendbarer Entwicklungsvorlagen und strukturierter Deployment-Abläufe unter fachlicher Anleitung.
+ Übernahme von Monitoring, grundlegender Fehleranalyse und Wartungsaufgaben sowie regelmäßige Pflege von Dokumentationen und Setup-Guides.
+ Umsetzung der Vorgaben zu Sicherheit, Datenschutz und verantwortungsvoller KI-Anwendung in enger Abstimmung mit dem Team.
+ Dein Profil
+ Laufendes Studium der Informatik, Data Science, Wirtschaftsinformatik, des Software Engineering oder eines vergleichbaren Studiengangs.
+ Praktische Erfahrung mit Python, Git und APIs aus Studienprojekten, Praktika oder selbstständigen Arbeiten.
+ Grundverständnis von Large Language Models und agentischen KI-Systemen.
+ Sorgfältige Arbeitsweise beim Testen, Debuggen und Dokumentieren.
+ Ausgeprägte Neugier und Lernbereitschaft.
+ Teamorientierte Arbeitsweise und sichere Englischkenntnisse für die Zusammenarbeit im internationalen Umfeld.
+ Plus kein Muss
+ Erste Erfahrung mit Cloud-Services, Containern oder CI/CD.
+ Erste Kenntnisse in Retrieval-Augmented Generation oder modernen Agenten-Frameworks.
+ RWE ist bestrebt, ein vielfältiges und inklusives Umfeld zu schaffen - wir schätzen deine Leidenschaft, deine Bereitschaft zu lernen und deinen Wunsch, dich zu entfalten. Auch wenn du nicht alle der oben genannten Fähigkeiten mitbringst, du flexible Arbeitsregelungen benötigst oder wir Anpassungen vornehmen müssen, die hier noch nicht aufgeführt sind, freuen wir uns, von dir zu hören.
+ Deine Benefits
+ Eigenständige Bearbeitung spannender und verantwortungsvoller Aufgaben in relevanten Projekten der Energiewende.
+ Enge Zusammenarbeit in einem motivierten Team mit offener Feedback-Kultur sowie Möglichkeiten zur persönlichen und fachlichen Weiterentwicklung.
+ Wertvolle Einblicke in ein international tätiges Energieunternehmen.
+ Hybride Arbeitsmöglichkeiten und flexible Arbeitszeitmodelle.
+ Kostenlose Nutzung des Health Centers sowie Angebote des betrieblichen Gesundheitsmanagements und der Arbeitsmedizin.
+ Moderner Firmencampus mit Mensa, Barista-Bar, kostenlosen Parkplätzen, E-Ladestationen und weiteren Angeboten.
+ Gute Verkehrsanbindung auch mit öffentlichen Verkehrsmitteln.
+ Jetzt mit wenigen Klicks bewerben: Anzeigencode 93968 , Bewerbungsfrist: 19.11.2026
+ Fragen? Kontakt HR: HR Services RWE Core, Recruiting Services, +49 201 5179-9050
+Wir freuen uns darauf, dich kennenzulernen. Natürlich findest du uns auch bei LinkedIn, Instagram, Facebook, YouTube und Xing.
+Wir schätzen Vielfalt und begrüßen daher alle Bewerbungen - unabhängig von Geschlecht, Behinderung, Nationalität, ethnischer und sozialer Herkunft, Religion/Weltanschauung, Alter, sexueller Orientierung und Identität. #inclusionmatters
+RWE gestaltet die Energiewelt von morgen. Dafür investiert das Unternehmen Milliarden in Offshore- und Onshore-Wind, Solarenergie, Batteriespeicher, flexible Erzeugungskapazitäten sowie über seine Beteiligung an Amprion in den Netzausbau in Deutschland. Ergänzt wird das Portfolio durch den globalen Energiehandel. Bereits heute zählt RWE zu den führenden Unternehmen im Bereich der Erneuerbaren Energien. Rund 20.000 Mitarbeiterinnen und Mitarbeiter arbeiten weltweit für RWE. Mit ihrem integrierten Portfolio und einer breiten Projektpipeline ist RWE hervorragend positioniert, um dem weltweit steigenden Strombedarf infolge von Elektrifizierung und künstlicher Intelligenz zu begegnen. Gleichzeitig leistet das Unternehmen einen wichtigen Beitrag zu einer sicheren, bezahlbaren und klimafreundlichen Energieversorgung. RWE dekarbonisiert ihr Geschäft im Einklang mit dem 1,5-Grad-Reduktionspfad, steigt 2030 aus der Kohle aus und will bis 2040 klimaneutral sein – ganz im Sinne ihres Purpose: Our energy for a sustainable life.
