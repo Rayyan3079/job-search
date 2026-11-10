@@ -1,0 +1,26 @@
+URL: https://www.linkedin.com/jobs/view/4486640909
+TITLE: Data Engineer
+COMPANY: Haystack
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-07
+title: Data Engineer
+company: Haystack
+posted: 1 day ago
+applicants: 39 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fuk.linkedin.com%2Fjobs%2Fview%2Fdata-engineer-at-haystack-4486640909&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+We're hiring on behalf of a growing financial services business seeking a Data Engineer to help build and shape their cloud data platform.
+The Role
+ Build production data pipelines and integrate data across multiple sources
+ Design and maintain cloud infrastructure, pipelines, and data models
+ Automate reporting processes and enhance overall data quality
+ Collaborate to help develop the data platform from the ground up
+ What You'll Need
+ Strong experience with Python and SQL
+ Proven track record of building production data pipelines
+ Hands-on experience with cloud data platforms, specifically AWS and cloud data warehousing
+ What's On Offer
+ Salary of up to £80,000
+ Fully remote working arrangement within the UK
+ Opportunity to play a key role in shaping a growing data team
+ Apply via Haystack today!

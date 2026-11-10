@@ -1,0 +1,47 @@
+URL: https://www.linkedin.com/jobs/view/4480311888
+TITLE: Machine Learning Engineer III, Routing Cost
+COMPANY: Mapbox
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-06
+title: Machine Learning Engineer III, Routing Cost
+company: Mapbox
+posted: 2 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Ffi.linkedin.com%2Fjobs%2Fview%2Fmachine-learning-engineer-iii-routing-cost-at-mapbox-4480311888&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Mapbox is the leading real-time location platform for a new generation of location-aware businesses. Mapbox is the only platform that equips organizations with the full set of tools to power the navigation of people, packages, and vehicles everywhere. More than 4 million registered developers have chosen Mapbox because of the platform’s flexibility, security and privacy compliance. Organizations use Mapbox applications, data, SDKs and APIs to create customized and immersive experiences that delight their customers.
+ What We Do
+ The Navigation team at Mapbox develops and operates web services powering virtually all of Mapbox’s strategic navigation initiatives in consumer, automotive, and logistics verticals. We are a highly multidisciplinary organization, with work spanning distributed systems on AWS to geospatial localization, traffic telemetry, and mapping.
+Collectively we are revolutionizing in-car experiences with technology to build fast, industry-leading maps and navigation for any vehicle. We’ve launched products such as MapGPT, Mapbox for EV, and we’re enhancing the visual experience of in-vehicle navigation with 3D styling with our new Mapbox Standard through web and mobile SDKs. Mapbox has worked with automotive partners — including BMW, Toyota, and GM — to bring the best aspects of mobile app development into in-vehicle navigation and infotainment.
+ Mapbox Blog: Introducing 3D Live Navigation
+ Mapbox Blog: Route Notifications Improve Driver Safety
+ Mapbox Newsroom: AI Features in New Navigation SDK
+ As AI becomes embedded in modern engineering workflows, we value engineers who can thoughtfully integrate AI into design, development, and decision-making. Our interview process will include discussion of how you use AI in your engineering workflow.
+ What You’ll Do
+ As a Machine Learning Engineer III on the Routing Cost team, you will lead the design, development, and delivery of highly trafficked recommendation systems for our routing cost engine. Your technical contributions will include:
+ Lead the engineering team(s) to execute end-to-end feature implementation within the larger navigation organization (~80 engineers).
+ Design and build new ML and data pipelines, as well as optimizing existing ML and data pipelines.
+ Build tools for automated quality assurance and data exploration.
+ Leverage geospatial algorithms to optimize pipelines, as well as creating automated tuning and outlier detection algorithms.
+ Partner with data scientists to make improvements to our models for determining patterns in movement and/or traffic.
+ Mentor colleagues and participate in code and design reviews.
+ Participate in an on-call rotation to ensure our systems remain available to customers 24/7. Team members alternate as the on-call primary responder, which may require immediate response outside normal working hours, including weekends.
+ What We Believe Are Important Traits For This Role
+ 8-10+ years of backend and ML experience: Extensive hands-on experience showcasing expertise and a strong track record in the engineering field.
+ Technical knowledge: Extensive experience with Python, distributed processing pipelines (Hadoop, Spark, Airflow, Dask), and very large datasets – statistical analysis, data quality control, optimizing storage.
+ Cloud proficiency: Extensive experience with cloud and infrastructure services, including, as well as deploying and managing infrastructure in cloud environments.
+ Operational excellence: You drive a culture of quality and continuous improvement in your organization. Strong passion for clean code and robust architecture, with a drive to elevate engineering practices and design standards across the team.
+ Ownership & execution: Own the technical vision, lead the strategy and guide the team to execute towards building the future of our routing cost engine.
+ Customer focus: You care deeply about your customers and their problems, and you work tirelessly to innovate on their behalf.
+ Growth mindset: Have the humility to accept mistakes, learn and grow from them.
+ Mentorship: Experience mentoring and leading engineering teams developing skill sets and career growth.
+ Strong written and vocal communication skills: You can talk and write about complex ideas concisely to a wide audience. You are able to lead and resolve org-wide technical discussions and are able to collaborate and include input from cross-functional teams (security, devops, data, compliance and product).
+ Data informed mindset: You believe in the value of data informed decision making and strive to measure things that are not straight forward but essential. You also have the right instincts to make speedy decisions in the absence of perfect & comprehensive data
+ What We Value
+In addition to our core values, which are not unique to this position and are necessary for Mapbox leaders:
+ We value high-performing creative individuals who dig into problems and opportunities.
+ We believe in individuals being their whole selves at work. We commit to this through supportive health care, parental leave, flexibility for the things that come up in life, and innovating on how we think about supporting our people.
+ We emphasize an environment of teaching and learning to equip employees with the tools needed to be successful in their function and the company.
+ We strongly believe in the value of growing a diverse team and encourage people of all backgrounds, genders, ethnicities, abilities, and sexual orientations to apply.
+ By applying for this position, you acknowledge that you have received the Mapbox Non-US Privacy Notice for applicants, which is linked here. Completing this application requires you to provide personal data, such as your name and contact information, which is mandatory for Mapbox to process your application.
+ We are committed to a fair and equitable hiring process. We do not discriminate against any protected class.

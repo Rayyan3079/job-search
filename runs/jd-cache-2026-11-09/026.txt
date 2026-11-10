@@ -1,0 +1,56 @@
+URL: https://www.linkedin.com/jobs/view/4486917402
+TITLE: Data Analyst – Power BI   Microsoft Fabric (36191)
+COMPANY: Myticas Consulting
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-05
+title: Data Analyst – Power BI   Microsoft Fabric (36191)
+company: Myticas Consulting
+posted: 3 days ago
+applicants: 105 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fca.linkedin.com%2Fjobs%2Fview%2Fdata-analyst-%25E2%2580%2593-power-bi-microsoft-fabric-36191-at-myticas-consulting-4486917402&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Data Analyst – Power BI / Microsoft Fabric
+ Clearance: Must be eligible to successfully complete the required background/security screening
+ THE OPPORTUNITY
+ We are seeking a Data Analyst to join a highly collaborative technology and data team supporting a complex, operational environment in Ottawa.
+This is an excellent opportunity for a junior-to-mid-level Data Analyst with strong Power BI, SQL and Microsoft data technologies experience who enjoys turning data into meaningful dashboards, reporting and business insights.
+Reporting to a senior technology leader and working closely with a Data Architect , you will design and maintain dashboards, reports, data models and analytical solutions using Microsoft Fabric, Power BI and related Azure/cloud analytics technologies .
+This is also a stakeholder-facing role . Strong communication, listening skills and the ability to understand business requirements and explain data clearly are equally important to technical capability.
+ What You'll Do
+ Design, develop and maintain Power BI dashboards, reports, visualizations and performance metrics for operational and executive audiences.
+ Develop and optimize SQL queries to extract, transform and analyze data from multiple systems.
+ Build and maintain dimensional and semantic data models supporting reporting and self-service analytics.
+ Develop data solutions using Microsoft Fabric, including Lakehouse and Warehouse workloads, and related Azure Data Services.
+ Integrate structured and semi-structured data from APIs, JSON, file-based exchanges and relational databases.
+ Use Python/Pandas for data preparation, automation and analysis.
+ Gather and understand stakeholder requirements and translate them into effective analytical and reporting solutions.
+ Analyze complex datasets and communicate findings as clear, actionable business insights.
+ Support data quality, consistency, documentation, governance, privacy and security requirements.
+ Help evaluate, improve and automate existing reporting processes and systems.
+ Work closely with technical teams, business stakeholders and external vendors/service providers.
+ What We're Looking For
+ Post-secondary degree/diploma in Computer Science, Data Analytics, Mathematics, Statistics, Business or a related field, or equivalent education and experience.
+ 3+ years of experience in data analysis, business intelligence, reporting or a related analytical role.
+ 3+ years developing Power BI reports and dashboards.
+ Strong SQL skills, including querying, transforming and analyzing large datasets.
+ Experience with dimensional data modelling.
+ Experience with Microsoft Fabric (Lakehouse/Warehouse), Azure Data Services or comparable modern cloud analytics platforms.
+ Experience with Python/Pandas.
+ Experience integrating data using APIs, JSON, file-based exchanges and relational databases.
+ Ability to work with structured and semi-structured data from multiple sources.
+ Proven ability to translate business requirements into analytical solutions.
+ Ability to analyze complex information and present findings clearly to both technical and non-technical stakeholders.
+ Strong communication and listening skills, professional presence and a clear, structured approach to problem-solving.
+ Comfortable working directly with business users, customers and stakeholders.
+ NICE TO HAVE
+ Microsoft certifications such as Fabric Analytics Engineer Associate or Power BI Data Analyst Associate.
+ Tableau experience and exposure to other BI/reporting technologies such as Qlik, Looker, SSRS or advanced Excel.
+ Experience with Snowflake, AWS or Google Cloud Platform (GCP).
+ Experience in aviation, transportation or another complex 24/7 operational environment.
+ Knowledge of data governance, privacy and information security practices.
+ Experience with operational performance metrics and reporting standards.
+ Ability to communicate in English and French is an asset.
+ Who Will Succeed In This Role
+ You don't need to be the most senior technical person in the room. We're looking for someone who combines solid hands-on data skills with the ability to listen, understand requirements, communicate clearly and work collaboratively .
+You should be technically adaptable, comfortable taking direction from senior data/technology professionals, and confident interacting directly with stakeholders to turn their requirements into useful, reliable data solutions.
+, Nick Theodossiou

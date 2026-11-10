@@ -1,0 +1,32 @@
+URL: https://www.linkedin.com/jobs/view/4485813340
+TITLE: Data Analyst
+COMPANY: Experis IT Luxembourg
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-05
+title: Data Analyst
+company: Experis IT Luxembourg
+posted: 3 days ago
+applicants: 92 applicants
+apply_offsite: 
+---
+Experis IT Luxembourg recherche actuellement un Data Analyst (h/f) pour l’un de ses client à Luxembourg.
+ Responsabilités 
+ Accompagner les équipes métiers dans l’exploitation des données et l’amélioration de leurs processus décisionnels.
+ Collecter, exploiter et analyser des données provenant de différentes sources à l’aide de SQL .
+ Réaliser des contrôles de cohérence et de qualité afin de garantir la fiabilité des données exploitées.
+ Concevoir et faire évoluer des tableaux de bord et des reportings à l’aide d’outils de visualisation tels que Power BI.
+ Participer à la structuration des bases de données et à l’optimisation des traitement s via des processus ETL.
+ Définir et suivre des indicateurs de performance (KPI) adaptés aux besoins opérationnels.
+ Effectuer des analyses statistiques afin d'identifier les tendances, les écarts et les opportunités d'amélioration.
+ Transformer les résultats des analyses en recommandations concrètes et compréhensibles pour les métiers.
+ Collaborer avec les équipes techniques et fonctionnelles dans le cadre de projets d’évolution des environnements Data.
+ Profil 
+ Justifier d’une expérience significative dans le domaine de la Data Analysis ou de la Business Intelligence .
+ Maîtriser SQL et posséder de bonnes connaissances en gestion et structuration des bases de données.
+ Utiliser des outils de visualisation et de reporting tels que Power BI ou des solutions équivalentes.
+ Avoir une expérience des processus ETL et des mécanismes de traitement et de transformation des données.
+ Comprendre les enjeux liés à la qualité, à la fiabilité et à la gouvernance des données.
+ Être capable de réaliser des analyses statistiques, d'interpréter des données complexes et d'identifier des tendances.
+ Posséder une bonne capacité de synthèse et savoir transformer les résultats d'analyse en recommandations concrètes.
+ Maîtriser le français et l'anglais .
+ Dans le cadre de ce poste et conformément à la législation en vigueur, le candidat retenu pourra être amené à fournir un extrait de casier judiciaire récent.

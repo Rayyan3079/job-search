@@ -1,0 +1,51 @@
+URL: https://www.linkedin.com/jobs/view/4469608716
+TITLE: Data Analyst- Italy
+COMPANY: ProMach
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-06
+title: Data Analyst- Italy
+company: ProMach
+posted: 2 days ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fit.linkedin.com%2Fjobs%2Fview%2Fdata-analyst-italy-at-promach-4469608716&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+In ProMach cerchiamo persone pronte a mettere in risalto il proprio talento.
+Qui hai occasione di sviluppare la tua carriera, condividere idee ambiziose e avere un impatto concreto.
+ Ti abbiamo incuriosito? Continua a leggere.
+ Job Summary
+ ProMach is seeking a detail-oriented and collaborative Data Analyst to help transform our complex data landscape into actionable business insights. You’ll work with data from multiple ERP, CRM, and operational systems, supporting key business decisions in finance, operations, and supply chain. This role is ideal for someone who enjoys hands-on data work, cross-functional collaboration, and building impactful reports and dashboards. Fluency in Italian and English required
+ Why This Role Matters
+ As a Data Analyst at ProMach, you’ll play a critical role in shaping business strategy by collecting, analyzing, and visualizing data from dozens of systems and databases. Your insights will help drive efficiency, identify opportunities, and support growth across the organization.
+ Key Responsibilities
+ Collect, clean, and analyze data from ERP, CRM, and other business systems to identify trends, patterns, and actionable insights. 
+ Develop and maintain dashboards, KPIs, and reports for business users and leadership. 
+ Write SQL queries and use analytics tools to extract, transform, and analyze large datasets. 
+ Collaborate with stakeholders across departments to understand business needs and translate them into data requirements. 
+ Present findings and recommendations through clear visualizations and presentations. 
+ Support data migration, integration, and quality initiatives to ensure data accuracy and consistency. 
+ Document data processes, definitions, and methodologies for transparency and repeatability. 
+ Stay current with best practices in data analysis, visualization, and reporting. 
+ Qualifications
+ Required:
+ Bachelor’s degree in a quantitative or analytical area, or demonstrated equivalent experience in data analysis or a related field 
+ 2+ years of experience in data analytics, business intelligence, or a related field. 
+ Proficiency in SQL and experience with relational databases (e.g., SQL Server, PostgreSQL). 
+ Experience building dashboards and reports using tools such as Power BI, Tableau, or similar. 
+ Strong analytical and problem-solving skills, with attention to detail and data kccuracy. 
+ Ability to communicate complex findings to both technical and non-technical audiences. 
+ Experience gathering requirements and working with cross-functional teams. 
+ Deep Knowledge of data flows within ERP/CRM systems (e.g., SAP, Infor LN, Salesforce) in a manufacturing environment 
+ Candidate must be fluent in both Italian and English. 
+ Preferred
+ Familiarity with cloud-based data platforms (e.g., Databricks, Delta Lake). 
+ Knowledge of data governance, data quality, and metadata documentation. 
+ Experience with Python or R for data analysis is a plus. 
+ Exposure to Agile project environments and collaboration tools (e.g., Jira, Confluence, Git). 
+ Cosa significa per te?
+ Con noi non ci sono vincoli sulle idee innovative né limiti per la tua crescita professionale. Offriamo un ambiente aperto e comunicativo che valorizza l’iniziativa personale. Siamo orgogliosi di essere un’azienda in cui le persone si trovano a proprio agio e scelgono di costruire la propria carriera.
+Oltre alle opportunità di sviluppo, come dipendente ProMach riceverai molto più del tuo compenso. Il pacchetto retributivo include la tua retribuzione, programmi di assistenza medica, un generoso programma di ferie retribuite e la possibilità di aderire a un piano di risparmio pensionistico con contributo aziendale. E poiché sappiamo quanto sia importante sentirsi tutelati, i benefici sono attivi fin dal primo giorno di lavoro: nessun periodo di attesa.
+Pro Mach, Inc. è stata inserita sette volte nella lista Inc. 5000 delle aziende private a più rapida crescita negli Stati Uniti.
+Continuiamo a introdurre prodotti innovativi, entrare in nuovi mercati, espandere la nostra presenza globale e acquisire nuove competenze.
+Offriamo le ricompense, le opportunità e la forza di mercato di una grande organizzazione, unite alla cultura imprenditoriale di un’azienda piccola e dinamica. Potrai godere dei vantaggi di lavorare in un’azienda in crescita che compete a livello globale, con il tocco personale e l’atmosfera di una piccola azienda dove puoi fare la differenza ogni giorno.
+ProMach è un datore di lavoro che garantisce pari opportunità. Tutte le candidature saranno valutate senza distinzione di origine, sesso, età, disabilità, orientamento sessuale, identità di genere, religione o qualsiasi altra caratteristica tutelata dalla legge.
+In conformità alla normativa italiana, ProMach si impegna a garantire le pari opportunità e a favorire l’inserimento e l’integrazione lavorativa delle persone con disabilità. Possono essere previsti adeguati accomodamenti per consentire la piena partecipazione al processo di selezione e lo svolgimento delle mansioni previste. I candidati che necessitano di un accomodamento sono invitati a contattarci.

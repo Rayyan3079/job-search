@@ -1,0 +1,47 @@
+URL: https://www.stepstone.de/stellenangebote--4K-Analytics-GmbH-Studentischer-Mitarbeiter-Data-Science-und-Business-Intelligence-m-w-d-Leipzig-K-Analytics-GmbH--14728602-inline.html
+TITLE: 4K Analytics GmbH Studentischer Mitarbeiter Data Science und Business Intelligence (m/w/d)
+COMPANY: K-Analytics GmbH
+LOC: Leipzig
+POSTED: stepstone
+title: 4K Analytics GmbH Studentischer Mitarbeiter Data Science und Business Intelligence (m/w/d)
+company: K-Analytics GmbH
+posted: 2026-11-08T11:23:55.47Z
+location: Leipzig | remote: 
+---
+Einleitung
+ Die Unternehmen der HEALTH INNOVATORS GROUP Leipzig verbinden umfassendes medizinisches und gesundheitsökonomisches Fachwissen mit Daten-, Analyse- und Software-Know-how. Damit unterstützen wir Entscheidungen und Handlungen der unterschiedlichen Protagonisten – mit dem gemeinsamen Anspruch, die Gesundheitsversorgung stetig zu verbessern.
+ Das sind deine Aufgaben:
+ Mitwirkung bei der Konzeption und Entwicklung von Dashboards und BI-Cockpits für unsere Kund:innen im Gesundheitswesen und zur Qualitätsmessung unserer KI-Lösungen,
+ Mitarbeit bei der Datenmodellierung sowie beim Aufbau und der Pflege von Datenstrecken (ETL) mit SQL,
+ Datenaufbereitung sowie explorative und statistische Analysen von Versorgungs- und Gesundheitsdaten mit Python oder R in Abstimmung mit unserem Team, auch für unsere KI-Prototypen,
+ Unterstützung unserer Data Scientists bei der Entwicklung und Evaluation von Modellen,
+ Mithilfe bei der Automatisierung wiederkehrender Analysen und Reports sowie beim Sammeln von Best Practices für den Einsatz von KI-Tools,
+ Unterstützung bei der Pflege, Weiterentwicklung und Dokumentation unserer Analytikprodukte,
+ Einbindung in das Anforderungsmanagement sowie in interne und externe Analytikprojekte.
+ Du passt in unser Team, wenn du
+ eingeschriebene:r Student:in, idealerweise in (Wirtschafts-)Informatik, Data Science, Statistik, Mathematik, Medizininformatik, Gesundheitsökonomie oder einem vergleichbaren Studiengang bist,
+ erste Erfahrung mit SQL und Python oder R hast, gern auch aus Studien- oder eigenen Projekten,
+ idealerweise bereits mit BI-Tools wie Power BI, Qlik oder Tableau gearbeitet hast,
+ Freude daran hast, Daten verständlich und übersichtlich aufzubereiten,
+ KI-Tools bereits nutzt und Lust hast, sie gezielt in deiner Arbeit einzusetzen,
+ dich für Daten und Abläufe im Gesundheitswesen begeisterst,
+ strukturiert, sorgfältig und eigenständig arbeitest und
+ sehr gute Deutschkenntnisse (mind. C1) sowie gute Englischkenntnisse mitbringst.
+ fachliche und methodische Kenntnisse sowie wertvolle Referenzen für deinen Berufseinstieg,
+ Einblick in die Praxis von Data Science, Business Intelligence und KI im Gesundheitswesen,
+ Zugang zu aktuellen KI-Tools für deine tägliche Arbeit,
+ eine strukturierte Einarbeitung durch erfahrene Kolleg:innen,
+ bei Interesse
+ Darauf kannst du dich freuen:
+ für 10 bis 20 h/Woche 4K ANALYTICS 
+ Unterstützung und Betreuung deiner Abschlussarbeit sowie die Möglichkeit einer Zusammenarbeit auch nach deinem Studium,
+ eine offene, kooperative und wertschätzende Unternehmenskultur mit flachen Hierarchien,
+ ein motiviertes Team, von denen viele auch als (Werk-)Student:innen gestartet sind,
+ eine moderne Arbeitsumgebung in Leipzig mit Homeoffice-Möglichkeit,
+ flexible Arbeitszeiten, die du perfekt in deinen Unialltag integrieren kannst sowie
+ Angebote für gemeinsame Aktivitäten mit deinen Kolleg:innen auch außerhalb der Arbeitswelt, wie zum Beispiel Beachvolleyball oder Pizza-Abende.
+ Haben wir dein Interesse geweckt?
+ Dann sende uns deine Bewerbungsunterlagen und deinen frühestmöglichen Einstiegstermin an karriere@health-innovators-group.de . Links zu eigenen Projekten, etwa auf GitHub, sind gern gesehen. Für Fragen zur ausgeschriebenen Stelle steht dir unser Personal-Team gern telefonisch unter 0 341 991985-35 zur Verfügung.
+ Wir freuen uns auf deine Bewerbung und darauf, dich kennenzulernen! 
+ Tätigkeitsbereich
+ Standorte

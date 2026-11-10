@@ -1,0 +1,27 @@
+URL: https://www.linkedin.com/jobs/view/4486510653
+TITLE: Werkstudentin Datenpflege & Datenqualität im Netzbetrieb (SAP PM) (m/w/d)
+COMPANY: 50Hertz Transmission GmbH
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-11-04
+title: Werkstudentin Datenpflege & Datenqualität im Netzbetrieb (SAP PM) (m/w/d)
+company: 50Hertz Transmission GmbH
+posted: 4 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudentin-datenpflege-datenqualit%25C3%25A4t-im-netzbetrieb-sap-pm-m-w-d-at-50hertz-transmission-gmbh-4486510653&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Stellen-ID: 11685 / Befristet / Start: Zum nächstmöglichen Zeitpunkt
+ Bring mit uns die Energiewende voran und unterstütze uns bei der Pflege und Qualität unserer Daten damit eine zuverlässige Basis für unsere Instandhaltung bei 50Hertz.
+ Die Grundlage für die Instandhaltungsprozesse von 50Hertz bildet die Abbildung der technischen Anlagen in der Datenbank SAP PM. Die Erstaufnahme der Daten erfolgt im Zuge der baulichen Projektphase und zieht sich über den gesamten Lebenszyklus eines Gerätes fort. Diese Daten werden an Schnittstellensysteme übertragen und steuern unsere Instandhaltung.
+Um das Thema Datenqualität und kontinuierliche Datenpflege zu unterstützen, zu verbessern, suchen wir zum nächstmöglichen Zeitpunkt eine zuverlässige und engagierte Werkstudent*in, welche/r unser Team vor Ort in Berlin bereichert.
+ Deine Aufgaben
+ Eigenständige Analyse und Auswertung von Bestandsdaten, 
+ Übernahme von der Datenpflege von Stammdaten im SAP-PM-System gemäß fachlicher Anleitung,
+ Zur Optimierung der Datenbasis arbeitest du eng und regelmäßig mit anderen Fachbereichen zusammen.
+ Wir stellen uns vor, dass du …
+ Dein Studium im Ingenieurwesen, in Wirtschaftsinformatik, Computer Science oder einer vergleichbaren Richtung begonnen hast und engagiert verfolgst,
+ Unser Team für mindestens 24 Monate unterstützen kannst, gerne auch länger,
+ Sicher im Umgang mit MS Office (Word, Excel, PowerPoint) bist,
+ Dich durch eine selbstständige, zuverlässige und strukturierte Arbeitsweise auszeichnest,
+ Mobiles Arbeiten als flexible Ergänzung nutzt und dennoch regelmäßig im Büro präsent bist,
+ Über sehr gute Deutschkenntnisse (C1) in Wort und Schrift verfügst.
+ Erste Erfahrungen mit SAP PM, Datenbanken oder Datenpflege machen deine Bewerbung besonders interessant für uns.

@@ -1,0 +1,41 @@
+URL: https://www.linkedin.com/jobs/view/4486995666
+TITLE: AI ML Trainer
+COMPANY: TalentOla
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-06
+title: AI ML Trainer
+company: TalentOla
+posted: 2 days ago
+applicants: 29 applicants
+apply_offsite: 
+---
+Senior Trainer — AI/ML 
+ Reports To: Associate Director / Head of L&D 
+ Department: L&D-Corporate 
+ Location: Gurgaon, Haryana & Bangalore 
+ Job Summary 
+ We are looking for a skilled and detail-oriented Trainer to design and deliver high-impact learning programs in AI/ML (including Generative AI), Digital Transformation, Technology, and Advanced Analytics. The role emphasizes structured learning paths, engaging facilitation, and measurable outcomes aligned with our client's domain-specific AI and analytics offerings
+ Key Responsibilities 
+ We seek an experienced AI Enablement professional to design and deliver high-impact learning programs in Generative AI, Agentic AI, AI Productivity, Data & Analytics, and Digital Transformation. The role focuses on driving enterprise AI adoption through structured learning journeys, hands-on workshops, AI certifications, and business-aligned capability-building initiatives. The trainer will work closely with business leaders and SMEs to enable employees to leverage AI, automation, and intelligent agents
+ Core Competencies 
+ • Design and deliver instructor-led, virtual, and blended learning programs on Generative AI, Agentic AI, Large Language Models (LLMs), AI Engineering, Data Science, and enterprise AI platforms such as Microsoft Copilot, Copilot Studio, and Azure AI Foundry. 
+ • Develop role-based curricula, learning journeys, certification pathways, and capability frameworks aligned to emerging AI technologies and business needs. 
+ • Deliver hands-on workshops on AI applications, prompt engineering, AI agents, enterprise copilots, and workflow automation. 
+ • Create practical learning experiences using tools such as Microsoft 365 Copilot, Copilot Studio, ChatGPT, Claude, Azure AI Services, and other enterprise AI platforms. 
+ • Track learning effectiveness, adoption, business impact, and ROI using learner feedback, usage analytics, and performance metrics. 
+ • Develop reusable prompts, agent templates, AI accelerators, and knowledge assets to support scalable learning initiatives.
+ • Leverage digital learning technologies, AI-powered learning platforms, and modern instructional methodologies to enhance learner engagement. 
+ • Stay abreast of advancements in GenAI, Agentic AI, AI governance, Responsible AI, automation, and emerging technologies and continuously integrate them into learning programs. 
+ Required Qualifications 
+ • Master’s degree in Computer Science, Information Technology, Data Science, Artificial Intelligence, Analytics, or a related discipline 
+ • 6–10 years of corporate training/L&D experience with strong focus on technology and analytics would be an added advantage. 
+ • Hands-on expertise in Python and practical AI solution development, with experience in Generative AI tools, prompt engineering, and AI-powered productivity platforms. 
+ • Working knowledge of LLM ecosystems, Retrieval-Augmented Generation (RAG), AI agents, automation frameworks, and enterprise AI applications. 
+ • Experience with Microsoft Copilot, Copilot Studio, Power Platform, Azure AI Services, OpenAI technologies, or equivalent AI ecosystems. 
+ • Strong understanding of cloud platforms such as Azure, AWS, or Google Cloud, with familiarity in AI and machine learning services. 
+ Preferred Qualifications 
+ • AI/ML & Generative AI concepts; model lifecycle and governance awareness. 
+ • Instructional design, curriculum development, and assessment design. 
+ • Strong facilitation, storytelling, and stakeholder management. 
+ • Data-driven evaluation; dashboards and reporting for learning impact. 
+ • Familiarity with Evalueserve’s platforms and decision-centric analytics approach.

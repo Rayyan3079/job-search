@@ -1,0 +1,76 @@
+URL: https://www.linkedin.com/jobs/view/4488799308
+TITLE: Bi Engineer (Data Analyst)
+COMPANY: APPLY
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-08
+title: Bi Engineer (Data Analyst)
+company: APPLY
+posted: 12 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Far.linkedin.com%2Fjobs%2Fview%2Fbi-engineer-data-analyst-at-apply-4488799308&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+About Apply
+ APPLY is the Agentic Customer Experience (ACx) partner for the world's most ambitious consumer and entertainment brands.
+We bring together deep domain expertise across Retail, CPG, Sports, and Media with AI-native delivery capability, designing and delivering agentic solutions that turn CX vision into commercial reality.
+We are the partner of choice for brands like Arc'teryx, NFL, Lululemon, and Kraft Heinz.
+For more information, visit applydigital.com .
+ About Apply
+ APPLY is the Agentic Customer Experience (ACx) partner for the world's most ambitious consumer and entertainment brands.
+We bring together deep domain expertise across Retail, CPG, Sports, and Media with AI-native delivery capability, designing and delivering agentic solutions that turn CX vision into commercial reality.
+We are the partner of choice for brands like Arc'teryx, NFL, Lululemon, and Kraft Heinz.
+For more information, visit applydigital.com .
+LOCATION
+APPLY is hybrid/remote-friendly.
+The preferred candidate should be based in Latin America, preferably working in hours that align to PT (Pacific Timezone) or ET (Eastern Timezone).
+Candidates located in Santiago, Chile are able to work out of our Santiago office as remote/hybrid employees.
+Candidates located outside of Santiago, Chile will be fully remote employees.
+THE ROLE
+ Responsibilities
+ Design, build, and maintain BI dashboards and reports (Looker Studio & Power BI) that turn raw platform data into clear, actionable insights for business and marketing stakeholders.
+Partner with Data Engineering to migrate and validate dashboard data models through the GCP-to-Azure/Snowflake migration, ensuring metric parity and no regression in reporting accuracy.
+Perform exploratory data analysis across BigQuery/Snowflake datasets to identify trends, anomalies, and opportunities the business isn't already looking at.
+Write and optimize SQL across BigQuery and Snowflake, and build/maintain dbt models to support scalable, governed data marts.
+Collaborate on Dagster-orchestrated data pipelines — understanding lineage and dependencies well enough to troubleshoot issues and contribute to data model design, not just consume the output.
+Explore and prototype agentic AI and data science solutions (e.g., LLM-powered analysis, automated insight generation, predictive/propensity modeling) to accelerate how the team surfaces and acts on data.
+Apply data governance principles in day-to-day work: support privacy and retention deletion workflows (OneTrust), and ensure PII is handled correctly across CRM/MarTech data integrations (Customer.io, Twilio Segment).
+Own the end-to-end reporting lifecycle — requirements gathering, data modeling, dashboard build, validation, and stakeholder walkthroughs.
+Identify data quality issues and partner with Data Engineering to resolve root causes rather than patching symptoms downstream.
+Stay current on BI and analytics tooling and proactively recommend improvements to the platform's reporting stack.
+ Requirements
+ Bachelor's degree in Data Science, Computer Science, Statistics, Information Systems, or a related field — or equivalent practical experience.
+4+ years of experience in business intelligence, data analytics, or a hybrid analytics engineering role.
+Strong SQL skills across BigQuery and/or Snowflake — comfortable with complex queries, CTEs, and window functions.
+Hands‐on experience building dashboards and reports in Looker Studio and/or Power BI.
+Working knowledge of dbt for data modeling and transformation.
+Familiarity with pipeline orchestration tools — Dagster preferred, Airflow or similar also acceptable.
+Understanding of data governance and privacy compliance concepts, ideally with exposure to OneTrust or a similar consent/privacy management platform.
+Experience working with CRM/MarTech data sources such as Customer.io, Twilio Segment, or comparable CDP/ESP platforms.
+Some hands‐on data engineering skills (Python, pipeline debugging, schema design) are a strong plus — you don't need to be a full‐time data engineer, but you should be comfortable enough to partner closely with one.
+Excellent communication skills — able to translate data findings into business insight for non‐technical stakeholders.
+Experience supporting a cloud data migration (GCP, Azure, or AWS) is a plus.
+A curious, insight‐first mindset — comfortable going beyond "build the dashboard that was asked for" to proactively surface what the data is actually saying.
+Google Cloud certification is considered an asset.
+LIFE AT APPLY
+People are at the core of everything we do at APPLY.
+We provide you with modern tools, systems and approaches, value your time, safety, and health, and strive to build a work community where you can thrive and grow.
+Here are a few benefits we offer to support you:
+ Agentic Delivery:
+ Our people work in a modern way to deliver client outcomes.
+Broaden your skills on a range of engagements with international brands that have a global impact.
+ An Inclusive And Safe Environment:
+ We're truly committed to building a culture where you are celebrated and everyone feels welcome and safe.
+ AI & Strategic Upskilling:
+ Accelerate your professional growth with generous training budgets and mentorship, with a specific focus on Agentic AI expertise and the critical human skills required for the future of work.
+ Generous Vacation Policy:
+ Work-life balance is key to our team's success, so we offer ample time away from work to promote overall well‐being.
+ Flexible Work Arrangements:
+ We work in a variety of ways, from remote, to in‐office, to a blend of both.
+APPLY is a safe, respectful, and inclusive community where differences are celebrated.
+We are committed to equal opportunity and fostering a workplace where everyone belongs.
+Learn more in our Diversity, Equity, and Inclusion (DEI) section.
+Please email
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information.
+These tools assist our recruitment team but do not replace human judgment.
+Final hiring decisions are ultimately made by humans.
+If you would like more information about how your data is processed, please contact us.
+#J-*****-Ljbffr

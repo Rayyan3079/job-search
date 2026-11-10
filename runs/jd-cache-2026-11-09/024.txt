@@ -1,0 +1,87 @@
+URL: https://www.linkedin.com/jobs/view/4444390846
+TITLE: Enterprise Data Analyst
+COMPANY: Husch Blackwell
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-08
+title: Enterprise Data Analyst
+company: Husch Blackwell
+posted: 17 hours ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fenterprise-data-analyst-at-husch-blackwell-4444390846&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Husch Blackwell LLP is a full-service litigation and business law firm with multiple locations across the United States, serving clients with domestic and international operations.
+At Husch Blackwell we believe that diverse, equitable and inclusive teams lead to better outcomes. Husch Blackwell is committed to retaining, recruiting, developing, and promoting talented lawyers and business professionals with diverse backgrounds and experiences. We foster an engaged, diverse, and inclusive team culture of accountability and purpose that makes our Firm and our communities better.
+Our firm is committed to attracting and retaining professionals who value each other and the service we provide by embracing Teamwork, Collaboration, Client Service, and Innovation. If you are a motivated professional looking for a long-term fit where you can grow in a role, and will be valued and empowered, then we invite you to apply to our Enterprise Data Analyst position. This position may be filled remotely or in a hybrid capacity in any of our Central and Eastern Time locations. Strong candidates located in Mountain Time will also be considered.
+The Enterprise Data Analyst is a firmwide shared-services role within the Firm’s Data Science function. The analyst turns the Firm’s data, client data, and the extensive internal data the Firm maintains into clear, actionable insight, delivered primarily through Power BI dashboards and reports that teams across the Firm rely on. The role will initially support a key business unit, with scope expanding to serve additional practice groups and functions across the Firm over time. The right candidate will be skilled in the visual display of quantitative information and have a passion for high impact data storytelling. Essential functions include:
+ Data Analysis & Insight
+ Analyze large, complex datasets from client and internal Firm sources to identify trends, patterns, and actionable insights
+ Clean, transform, and structure data to ensure accuracy, consistency, and readiness for analysis
+ Apply statistical and data-modeling techniques to answer business questions and support decision-making
+ Leverage AI and generative-AI tools to accelerate analysis, automate routine tasks, and enhance data products
+ Translate stakeholder questions into clearly defined analytical problems, prioritizing work by impact and urgency
+ Dashboarding & Reporting
+ Design, build, and maintain Power BI dashboards that serve as the Firm’s primary, everyday reporting tools
+ Build automated, self-service reports and visualizations in Power BI and Tableau, tailored to different audiences across the Firm
+ Use data storytelling to deliver client-facing data presentations and executive-level reports that communicate findings clearly to key partners, clients, and other internal and external stakeholders, and drive action
+ Collaborate with the Data Science Information Design and Engineering function to deliver data visualization and information rich analyses across various media types
+ Streamline and standardize reporting processes to ensure timely, accurate delivery of key metrics
+ Data Management & Quality
+ Partner with the Data Engineering team to source, integrate, and validate data from across the Firm
+ Develop and apply data quality standards to ensure reliable, trustworthy outputs
+ Document data sources, definitions, and methodologies to support consistency and reuse
+ Maintain and enhance existing datasets, models, and reporting pipelines
+ Cross-Functional Collaboration
+ Partner with teams across the Firm; including Finance and client-facing groups to gather requirements and align on objectives
+ Work directly with internal stakeholders and, where appropriate, clients to understand needs and deliver solutions
+ Connect analytical findings to business outcomes and Firm priorities
+ Continuous Improvement & Growth
+ Share knowledge and best practices to elevate data and analytics capabilities across the Firm
+ Identify opportunities to automate, improve, and scale analytics as the function grows
+ Contribute to building out the Firm’s enterprise data and analytics capabilities over time
+ Develop and improve reporting and business intelligence techniques to align the firm with leading edge information and business intelligence delivery
+ Engage in research and study to continuously improve the Firm’s reporting and business intelligence
+ Position Requirements
+ Bachelor’s degree in statistics, economics, computer science, information design, or a related quantitative communications field; commensurate professional and educational experience shall also qualify
+ 3+ years in data analysis, business intelligence, or a related analytical role 
+ Advanced, demonstrable proficiency in Power BI is required; including building, publishing, and maintaining production dashboards
+ Strong proficiency in Excel and SQL, with experience querying and working with large, complex datasets
+ Proficiency with basic statistical and analytical tools including the Python statistical ecosystem
+ Experience working with data warehouses, databases, and modern BI/data platforms
+ Strong data storytelling skills, with a proven ability to design clear, effective data visualizations and deliver client-facing presentations to partners, clients, and other internal and external stakeholders
+ Experience with statistical modeling, regression analysis, and null hypothesis significance testing
+ Proven ability to independently scope and lead complex data analysis projects
+ Experience analyzing financial and operational performance metrics and the drivers behind them
+ Fluent in translating complex data into clear implications and actionable recommendations for the business
+ Comfortable working with large, complex datasets and developing data quality standards
+ Experience working directly with senior stakeholders and, where appropriate, clients
+ Operates with a client-service mindset; responsive, proactive, and a trusted advisor
+ Comfortable working at both strategic and tactical levels
+ Thrives in fast-paced environments with shifting priorities
+ Strong attention to detail and ability to maintain accuracy under pressure
+ Eager to contribute beyond assigned tasks and play a key role in the growth of a new, firmwide analytics function
+ Understanding of data confidentiality and the sensitivity of legal and client information
+ Preferred Qualifications
+ Experience supporting multiple business units or functions in a shared-services or enterprise environment
+ Experience with data pipeline or ETL processes and working alongside data engineers
+ Experience applying AI and generative-AI tools to accelerate and enhance analytics
+ Familiarity and comfort with executive level communication and presentations
+ The above is intended to describe the general content of and requirements for the performance of this job. It is not to be construed as an exhaustive statement of essential functions, responsibilities, or requirements. The Firm will provide reasonable accommodations as necessary to allow an individual with a disability to apply for and/or perform the essential functions of a position. If you need assistance to accommodate a disability, please contact HR.
+ Compensation And Benefits
+ Employees are entitled to compensation commensurate with skill and experience. The exact compensation will vary based on skills, experience, location, and other factors permitted by law . The expected compensation ranges for this position in various states and jurisdictions are as follows:
+ State of California: $116,000 - $237,000
+ State of Colorado: $107,000 - $191,000
+ State of Connecticut: $95,000 - $241,000
+ State of Illinois: $105,000 - $204,000
+ State of Maine: $79,000 - $182,000
+ State of Maryland: $113,000 - $171,000
+ State of Massachusetts: $116,000 - $222,000
+ State of Minnesota: $116,000 - $192,000
+ Jersey City, NJ: $126,000 - $229,000
+ State of New York: $108,000 - $234,000
+ State of Vermont: $115,000 - $220,000
+ State of Virginia: $76,000 - $220,000
+ State of Washington: $113,000 - $214,000
+ Washington, D.C.: $150,000 - $220,000
+ The above salaries do not include a discretionary bonus, however bonus opportunities are non-guaranteed, and are dependent upon individual and firm performance. Full-time employees receive benefits including: medical and dental coverage; life insurance; short-term and long-term disability insurance; pre-tax flexible spending account for certain medical and dependent care expenses; an employee assistance program; Paid Time Off; paid holidays; participation in a retirement plan program after meeting eligibility requirements; and more.
+Please include a cover letter and resume when applying.
+EOE/Minority/Female/Disabled/Vet. Principal Applicants Only.

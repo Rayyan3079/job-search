@@ -20,6 +20,6 @@ Internships, thesis roles, full-time roles and German-required roles are listed 
 
 ## Latest run
 
-**2026-11-07**: 154 new jobs checked. 4 packages: [RWE AG – Working Student Agentic AI Engineer](output/2026-11-07/rwe-working-student-agentic-ai-engineer/) (3.5), [Wabtec Corporation – Working Student – AI Engineering](output/2026-11-07/wabtec-working-student-ai-engineering/) (3), [NXP Semiconductors – Working Student for Edge AI Technology Scouting and Evaluation](output/2026-11-07/nxp-working-student-edge-ai-technology-scouting/) (3), [C&A – Working Student Digital Adoption (AI enablement)](output/2026-11-07/c-and-a-working-student-digital-adoption-ai/) (3). Report: [digests/2026-11-07.md](digests/2026-11-07.md).
+**2026-11-09**: 58 new jobs (quiet run). 1 package: [Recall Space Mannheim – Werkstudent Software Development (AI)](output/2026-11-09/recall-space-werkstudent-software-development-ai/) (3). Report: [digests/2026-11-09.md](digests/2026-11-09.md).
 
 Applied and waiting: 15 applications (KWS, Munich Re x2, Atlas Copco, ZEISS, AgentixLake x2, IMMS, SAP x2, Airbus, BASF, Hilti, Carnival Maritime, Solactive). See [data/applications.md](data/applications.md).

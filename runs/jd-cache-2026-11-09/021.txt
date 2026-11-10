@@ -1,0 +1,35 @@
+URL: https://www.stepstone.de/stellenangebote--SAP-S-4HANA-Cloud-Consultant-FI-CO-Procurement-m-w-d-Ettlingen-Bundesweit-Homeoffice-becomeCloud-GmbH-Co-KG--14690611-inline.html
+TITLE: SAP S/4HANA Cloud Consultant - FI/CO / Procurement (m/w/d)
+COMPANY: becomeCloud GmbH & Co. KG
+LOC: Ettlingen, Bundesweit, Homeoffice
+POSTED: stepstone
+title: SAP S/4HANA Cloud Consultant - FI/CO / Procurement (m/w/d)
+company: becomeCloud GmbH & Co. KG
+posted: 2026-11-07T06:23:56.953Z
+location: Ettlingen | remote: 
+---
+Über becomecloud bC GmbH & Co KG
+Bei der becomeCloud bC GmbH & Co. KG ist der Name gelebte Realität: Wir begleiten Unternehmen mit Leidenschaft und tiefgehender Expertise bei der digitalen Transformation und dem Schritt in die Cloud. Als offizieller SAP® Gold Partner sind wir spezialisiert auf modernste SAP®-Cloud-Produkte (unter anderem SAP® Business ByDesign), maßgeschneiderte SAP®-Entwicklungen, Prozessberatung sowie Systemarchitektur.
+Was uns besonders macht? Wir verstehen, dass reine IT-Beratung und Programmierung heute nicht mehr ausreichen. Bei uns geht es um gelebte Partnerschaft, verlässliche Prozesse und nachhaltige Lösungen, die perfekt zu den individuellem Anforderungen unserer Kunden passen. Wir stehen für transparente Kommunikation, höchste technische Qualität und ein Miteinander, bei dem die Freude an der gemeinsamen Arbeit im Mittelpunkt steht.
+ Was erwartet dich?
+ Du analysierst und gestaltest Geschäftsprozesse im reinen SAP® S/4HANA Public Cloud Standard (Best Practices) und bietest ganzheitliche Cloud-Beratung
+ Du betreust die Module im Finanzbereich (FI/CO) und oder den Verkauf/Einkauf/Sourcing & Procurement (ehemals SD/MM) und stimmst diese optimal aufeinander ab
+ Du führst Fit-to-Standard-Workshops durch, identifizierst Prozessabweichungen und erarbeitest saubere Lösungen im Rahmen der SAP® Activate Methodik
+ Du stellst gemeinsam mit unseren Inhouse-Entwickler:innen die nahtlose Anbindung von Umsystemen über die SAP® Integration Suite / BTP sicher
+ Du begleitest Testphasen, Datenmigrationen sowie den Go-Live und stehst den Anwender:innen auch nach dem Produktivstart über unser Service-Portal als verlässliche Ansprechperson zur Seite
+ Was solltest du mitbringen?
+ Du bringst fundierte praktische Erfahrung in der Konfiguration und Beratung von SAP® S/4HANA Public Cloud mit – reine On-Premise-Erfahrung reicht uns hier nicht aus, da wir konsequent auf native Cloud-Lösungen setzen
+ Du hast tiefe Kenntnisse in den Kernbereichen Finance (Rechnungswesen/Controlling) und/oder Sourcing & Procurement (Einkauf, Beschaffung)
+ Du verstehst die betriebswirtschaftlichen Abläufe im Mittelstand und kannst diese in den SAP® Standard übersetzen
+ Du kommunizierst klar, verbindlich und auf Augenhöhe – sowohl intern im Team als auch extern mit Kund:innen
+ Du verfügst über sehr gute Deutsch- und gute Englischkenntnisse in Wort und Schrift
+ Was bieten wir dir?
+ Du profitierst von maximaler Flexibilität: Arbeite zu 100 % im Homeoffice oder nutze unsere modernen Büros an den Standorten Ettlingen (bei Karlsruhe) oder Bad Oeynhausen
+ Du hast die Option auf ein Firmenfahrzeug, das auch zur privaten Nutzung bereitsteht, um bei gelegentlichen Vor-Ort-Terminen flexibel unterwegs zu sein
+ Du erlebst keine Reiseschlacht: Dank konsequenter Cloud-Ausrichtung wickeln wir den Großteil unserer Projekte remote ab
+ Du wirst Teil eines starken Teams mit flachen Hierarchien, offenen Türen und einem kollegialen Miteinander auf Augenhöhe
+ Du arbeitest mit modernen Arbeitsmitteln: High-End-Equipment (Laptop, Smartphone) für reibungsfreies Arbeiten im Büro oder remote
+ Du bist an spannenden Cloud-Projekten beteiligt, mit konsequentem Fokus auf State-of-the-Art-Technologien ohne altlastenbehaftete Systemwelten
+ Interessiert?
+ Unser Jobangebot SAP S/4HANA Cloud Consultant - FI/CO / Procurement (m/w/d) klingt vielversprechend? 
+ Bei unserem Partner Workwise ist eine Bewerbung für diesen Job in nur wenigen Minuten und ohne Anschreiben möglich. Anschließend kann der Status der Bewerbung live verfolgt werden. Wir freuen uns auf eine Bewerbung über Workwise .

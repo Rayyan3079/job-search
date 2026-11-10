@@ -1,0 +1,46 @@
+URL: https://www.linkedin.com/jobs/view/4468597626
+TITLE: Praktikant Prozessautomatisierung und Datenanalyse Teilelogistik (w/m/x)
+COMPANY: BMW Group
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-11-04
+title: Praktikant Prozessautomatisierung und Datenanalyse Teilelogistik (w/m/x)
+company: BMW Group
+posted: 4 days ago
+applicants: 53 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikant-prozessautomatisierung-und-datenanalyse-teilelogistik-w-m-x-at-bmw-group-4468597626&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+THEORETISCH DIE BESTE ENTSCHEIDUNG. PRAKTISCH AUCH.
+ TEILE DEINE LEIDENSCHAFT.
+ Nur hochprofessionelle Abläufe in dynamischen Teams produzieren innovative Spitzentechnologie. Aber Fahrfreude wird bei uns von der Entwicklung bis zur Fertigung vor allem auch mit Spaß an der Arbeit und Begeisterung für das gemeinsame Projekt realisiert. Deshalb geben wir Studierenden bei uns nicht nur die Gelegenheit zum Zuhören, sondern auch zum Mitreden und Weiterdenken.
+Unser Team bei der BMW Group widmet sich der digitalen Transformation in der Teilelogistik des Aftersales. Im Rahmen deines Praktikums erhältst du Einblicke in die Analyse und Optimierung von Prozessen und unterstützt uns bei der Umsetzung innovativer IT-Lösungen.
+ Was erwartet dich?
+ Du gestaltest die digitale Transformation im Lieferanten-, Engpass- und Auslaufmanagement aktiv mit.
+ Außerdem analysierst du gemeinsam mit dem Team bestehende Arbeitsabläufe und unterstützt bei der Entwicklung innovativer, KI-basierter Lösungen für mehr Effizienz.
+ Darüber hinaus bringst du proaktiv neue Ideen ein und begleitest deren Umsetzung mit Fokus auf Prozessautomatisierung und Datenanalyse.
+ Zudem unterstützt du bei der Entwicklung und Weiterentwicklung von Datenbanken, Dashboards und bestehenden Applikationen.
+ Weiterhin erstellst und pflegst du technische Dokumentationen für Konzepte, Prozesse und Anwendungen und sorgst für verständliche Beschreibungen.
+ Ebenfalls unterstützt du die Zusammenarbeit mit verschiedenen internen Schnittstellen und teilst deine Erkenntnisse mit dem Team sowie wichtigen Entscheidungsträger:innen.
+ Ferner schaffst du damit eine fundierte Grundlage für wichtige Unternehmensentscheidungen.
+ Was bringst du mit?
+ Studium der Informatik, Wirtschaftsinformatik, Data Science oder eines vergleichbaren Studiengangs
+ Programmierkenntnisse in Python sowie Erfahrung mit Datenbanken und SQL
+ Erste praktische Erfahrungen mit Anwendungen zur Prozessautomatisierung, z. B. PowerAutomate & PowerApps, n8n oder UiPath
+ Grundlegende Kenntnisse in mindestens einem BI-Tool, z. B. Power BI, QuickSight oder QlikSense
+ Interesse an künstlicher Intelligenz, insbesondere zur Prozessoptimierung und Effizienzsteigerung
+ Analytisches Denkvermögen im Umgang mit Daten sowie Teamfähigkeit und Kommunikationsstärke
+ Sehr gute Deutsch- und Englischkenntnisse (wünschenswert Deutsch: C1)
+ Du bringst Begeisterung für neue Technologien mit und möchtest unser Team mit deinen IT-Kenntnissen unterstützen? Dann bewirb dich jetzt!
+ Was bieten wir dir?
+ Umfassendes Mentoring & Onboarding.
+ Persönliche & fachliche Weiterentwicklung.
+ Flexible Arbeitszeiten.
+ Mobilarbeit.
+ Attraktive & faire Vergütung.
+ Apartments für Studierende (nach Verfügbarkeit & nur am Standort München).
+ Und vieles mehr siehe bmw.jobs/waswirbieten.
+ Startdatum: ab frühestens 19.10.2026
+ Dauer: 6 Monate
+ Arbeitszeit: Vollzeit
+Hilfreiche Tipps zu deiner Bewerbung und dem Bewerbungsprozess findest du hier.
+Wir bei der BMW Group legen großen Wert auf Gleichbehandlung und Chancengleichheit. Unsere Recruiting-Entscheidungen basieren auf der Persönlichkeit, den Erfahrungen und Fähigkeiten der Bewerber:innen. Mehr dazu hier.
+Praktikant Prozessautomatisierung und Datenanalyse Teilelogistik (w/m/x)

@@ -1,0 +1,49 @@
+URL: https://www.linkedin.com/jobs/view/4479389289
+TITLE: Praktikum Data Science, Schwerpunkt Agentische Verhandlung (m/w/d)
+COMPANY: Würth Deutschland
+LOC: Gaisbach, Baden-Württemberg, Germany
+POSTED: 2026-11-06
+title: Praktikum Data Science, Schwerpunkt Agentische Verhandlung (m/w/d)
+company: Würth Deutschland
+posted: 2 days ago
+applicants: 38 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikum-data-science-schwerpunkt-agentische-verhandlung-m-w-d-at-w%25C3%25BCrth-deutschland-4479389289&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Deine Aufgaben – gestalte mit uns die Zukunft:
+ Big Data, Künstliche Intelligenz und moderne Analysemethoden sind die Basis, um unser Vertriebsmodell zukunftsorientiert weiterzuentwickeln. In der Big Data Organisation entwickeln wir KI-Agenten, von der automatischen Auftragskorrektur bis hin zur intelligenten Preisverhandlung, die unseren Vertrieb aktiv unterstützen. Unser nächster Schritt: ein KI-Agent, der mit Vertriebsmitarbeitern, strukturiert, regelbasiert und auf echten Geschäftsdaten, über Preisanpassungen verhandelt. Dafür setzen wir auf das Strands Agents SDK auf Amazon Bedrock und integrieren den Agenten in unsere bestehende SAP-AWS-Architektur. Im Anschluss an das Praktikum bieten wir gerne die Möglichkeit einer Werkstudententätigkeit im Team.
+Deine Aufgabe: Du konzipierst und entwickelst einen KI-Agenten, der Preisanfragen von Vertriebsmitarbeitern bewertet und strukturierte Verhandlungsdialoge führt. Der Agent nutzt Foundation Models (Amazon Bedrock / Claude), orchestriert über das Strands Agents SDK, und integriert sich in die bestehende AWS-Infrastruktur mit echten SAP-Auftragsdaten.
+Dazu gehören Tätigkeiten wie:
+ Der Aufbau von Tool-Use-Patterns (Strands Tools), die den Agenten mit Preisregeln, Kundenhistorie und Rabattgrenzen verbinden. 
+ Die Entwicklung von Gesprächsflüssen, die den Vertrieb zu genehmigten Preiskorridoren führen und Einwände professionell behandeln. 
+ Du integrierst den Agenten in die bestehende AWS-Infrastruktur (Lambda, DynamoDB, API Gateway) mit echten SAP-Auftragsdaten. 
+ Die Evaluation der Agent-Performance: Verhandlungsergebnisse messen, Genehmigungsraten tracken, Fehlerfälle identifizieren. 
+ Insgesamt kannst du dich auf enge eine Zusammenarbeit mit den Vertriebskanälen und Fachabteilungen freuen und Business-Anforderungen in technische Lösungen übersetzen.
+ Dein Profil – gemeinsam wachsen:
+ Studium im Bereich Data Science, Informatik, Wirtschaftsinformatik oder vergleichbarer Studiengang. 
+ Du hast großes Interesse am Themenfeld Generative AI und agentische Systeme. 
+ Gute Kenntnisse in der Programmiersprache Python. 
+ Idealerweise hast du bereits erste Erfahrungen mit Cloud-Technologien (AWS und/oder Databricks) gesammelt. 
+ Du verfügst über sehr gute analytische Fähigkeiten sowie schnelle Auffassungsgabe und hast Spaß an komplexen Aufgabenstellungen und einer lösungsorientierte Arbeitsweise. 
+ Offenheit, Teamgeist und Eigeninitiative zeichnen dich aus. 
+ Von Vorteil sind Erfahrung mit Agent-Frameworks (Strands, LangChain, LangGraph, CrewAI), Structured Output / Function Calling, Prompt Engineering, Git/CI/CD. 
+ Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift runden dein Profil ab. 
+ So sagen wir bei Würth Danke
+ Wertschätzende Kultur
+ Vom ersten Tag an wirst du Teil einer Gemeinschaft, die zusammenhält, Vertrauen schenkt und dich auf deinem Weg begleitet – mit starkem Teamgeist, festen Ansprechpersonen und echtem Spaß bei der Arbeit.
+ Fachliche und persönliche Weiterentwicklung
+ Wir begleiten dich individuell. So wächst du nicht nur fachlich, sondern auch persönlich über dich hinaus.
+ Sicherer Arbeitsplatz
+ Starte bei uns mit besten Aussichten – in einem zukunftssicheren Familienunternehmen, das dich langfristig begleitet und echte Perspektiven bietet.
+ Flexible Arbeitszeiten
+ Mit flexiblen Arbeitszeiten und bis zu zwei Tagen Mobile Office pro Woche unterstützen wir dich dabei, Arbeit und Privatleben optimal zu verbinden.
+ Eigener Laptop
+ Du bekommst von Anfang an deinen eigenen Laptop und alles, was du brauchst, um eigenständig zu arbeiten, Ideen umzusetzen und direkt loszulegen.
+ Über 10.000 Sport- mitgliedschaften
+ Ob Workout oder Entspannung, ob Kurse vor Ort oder online: Mit unserem internen Gesundheitsmanagement und dem arbeitgebergeförderten EGYM Wellpass bleibst du aktiv, ausgeglichen und fit im Alltag.
+ Deine Benefits in einer wertschätzenden Unternehmenskultur:
+ Dein Einsatz wird belohnt. Bei einem Pflichtpraktikum erwarten dich 1.400 € brutto pro Monat. Machst du für vier Monate oder länger ein freiwilliges Praktikum oder schreibst deine Abschlussarbeit bei uns, erhältst du 2.541 € brutto pro Monat. 
+ Bleibe aktiv und gesund mit unseren Sport- und Entspannungskursen - vor Ort und online - sowie der Nutzung von über 10.000 Sport- und Wellnesseinrichtungen mit dem arbeitgebergeförderten EGYM Wellpass. 
+ Um dir deinen Start in einer neuen Umgebung zu erleichtern, bieten wir - je nach Verfügbarkeit - die Möglichkeit, in einer unserer Firmenwohnungen zu wohnen. 
+ Genieße in unserem hervorragenden Betriebsrestaurant täglich frische, regionale Speisen in entspannter Atmosphäre - dabei wird dein Mittagessen zu 50 % vom Arbeitgeber bezuschusst. Zusätzlich kannst du dich kostenlos an unseren Heißgetränken bedienen. 
+ Unser Praktikumsprogramm „GO WÜRTH“ steht für „gemeinsam orientieren“ und bietet jedes Semester unterschiedliche Bausteine. Bei Veranstaltungen wie „HELLO NEWCOMER“ hast du die Gelegenheit zu netzwerken und fachbereichsübergreifende Einblicke zu erhalten. 
+ Das wichtigste Wort im Umgang bei uns ist DANKE. Dich erwartet ein familiäres und herzliches Miteinander, in dem du deine bestehenden Stärken weiterentwickeln und neue entdecken kannst.

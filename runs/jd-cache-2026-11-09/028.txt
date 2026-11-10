@@ -1,0 +1,59 @@
+URL: https://www.linkedin.com/jobs/view/4488458159
+TITLE: Machine Learning Engineer
+COMPANY: Atlassian
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-06
+title: Machine Learning Engineer
+company: Atlassian
+posted: 2 days ago
+applicants: 169 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fmachine-learning-engineer-at-atlassian-4488458159&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Overview
+ Working at Atlassian
+ Atlassians can choose where they work – whether in an office, from home, or a combination of the two. That way, Atlassians have more control over supporting their family, personal goals, and other priorities.
+We can hire people in any country where we have a legal entity. Interviews and onboarding are conducted virtually, a part of being a distributed-first company.
+ Your Future Team
+ The mission of Atlassian is to unleash potential of every team. Our software products help teams all over the planet and our solutions are designed for all types of work. Team collaboration through our tools makes what may be impossible alone, possible together. AI/ML is significantly transforming how teams come together to plan, track, and deliver work across software and business teams using our products. We are looking for rockstar Machine learning engineers to come help us to further this mission and help make teams more productive leveraging AI across our product portfolio.
+ Responsibilities
+ What you'll do
+ As a Machine Learning engineer, you will work on the development and implementation of the cutting edge machine learning algorithms, training models, collaborating with product, engineering, and analytics teams, to build the AI functionalities into each Atlassian products and services.
+Your daily responsibilities will encompass a broad spectrum of tasks such as designing system and model architectures, conducting rigorous experimentation and model evaluations.
+You will be responsible for application of AI/ML to various product problems to improve Atlassian products and actively contribute toAtlassian Intelligence features.
+ Pay Ranges
+ In The United States , We Have Three Geographic Pay Zones. For This Role, Our Current Base Pay Ranges For New Hires In Each Zone Are:
+ Zone A : $178,200 - $232,650
+ Zone B : $160,380 - $209,385
+ Zone C : $147,906 - $193,100
+ Qualifications
+ On your first day, we’ll expect you to have
+ Bachelor's or Master's degree (preferably a Computer Science degree or equivalent experience).
+Expertise in Python or Java with and the ability to write performant production-quality code, familiarity with SQL.
+Knowledge of Spark and cloud data environments is a plus (e.g. AWS, Databricks)
+Experience building and scaling machine learning models using large amounts of data
+Experience working in a consumer or B2C space for a SaaS product provider, or the enterprise/B2B space
+Experience in developing deep learning-based models and working on LLM-related applications
+Excelling in solving ambiguous and complex problems, being able to navigate through uncertain situations, breaking down complex challenges into manageable components and developing innovative solutions
+ Compensation
+ At Atlassian, we strive to design equitable, explainable, and competitive compensation programs. To support this goal, the baseline of our range is higher than that of the typical market range, but in turn we expect to hire most candidates near this baseline.
+Base pay within the range is ultimately determined by a candidate's skills, expertise, or experience.
+In The United States, We Have Three Geographic Pay Zones. For This Role, Our Current Base Pay Ranges For New Hires In Each Zone Are:
+Zone A: $178,200 - $232,650
+Zone B: $160,380 - $209,385
+Zone C: $147,906 - $193,100
+This role may also be eligible for benefits, bonuses, commissions, and equity.
+Please visit go.atlassian.com/payzones ( http://go.atlassian.com/payzones) for more information on which locations are included in each of our geographic pay zones. However, please confirm the zone for your specific location with your recruiter.
+ Our Perks & Benefits
+ Atlassian offers a variety of perks and benefits to support you, your family and to help you engage with your local community.
+Our offerings include health coverage, paid volunteer days, wellness resources, and so much more. Visit ( http://go.atlassian.com/perksandbenefits) to learn more.
+ About Atlassian
+ At Atlassian, we're motivated by a common goal: to unleash the potential of every team. Our software products help teams all over the planet and our solutions are designed for all types of work. Team collaboration through our tools makes what may be
+impossible alone, possible together.
+Cookies are used on this site to assist in continually improving the candidate experience and all the interaction data we store of our visitors is anonymous.
+Learn more about your rights on our Privacy Policy ( https://www.icims.com/legal/privacy-notice-website/) page.
+We believe that the unique contributions of all Atlassians create our success. To ensure that our products and culture continue to incorporate everyone's perspectives and experience, we never discriminate based on race, religion, national origin, gender
+identity or expression, sexual orientation, age, or marital, veteran, or disability status.
+All your information will be kept confidential according to EEO guidelines.
+To provide you the best experience, we can support with accommodations or adjustments at any stage of the recruitment process.
+Simply inform our Recruitment team during your conversation with them.
+To learn more about our culture and hiring process, visit go.atlassian.com/crh ( http://go.atlassian.com/crh).

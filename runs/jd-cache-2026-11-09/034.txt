@@ -1,0 +1,51 @@
+URL: https://www.linkedin.com/jobs/view/4486681348
+TITLE: BI Analyst
+COMPANY: kwiff
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-08
+title: BI Analyst
+company: kwiff
+posted: 23 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fmt.linkedin.com%2Fjobs%2Fview%2Fbi-analyst-at-kwiff-4486681348&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+About kwiff: 
+ kwiff isn’t gambling as you know it. We’re redefining the experience with a bold, player-first approach to sports betting and casino, powered by our proprietary tech platform, fully automated sportsbook, and standout UX across web and mobile. What truly sets us apart? Supercharging : our signature feature that allows players’ odds, cash outs, and more to be supercharged at random, creating surprise wins and a thrilling betting experience. ⚡ 
+ Role overview: 
+ We're looking for a BI Analyst to join our growing team and play a key role in building a more data-driven business. You'll work with stakeholders across the organisation to turn data into actionable insights, helping us better understand our customers, improve performance, and identify opportunities for growth. 
+ This is a hands-on role with real impact, offering the opportunity to shape our Business Intelligence capability while supporting both operational and strategic decision-making. 
+ We're looking for someone who is naturally curious, analytical, and proactive, with the ability to uncover meaningful insights and communicate them effectively to a range of audiences. 
+ Core responsibilities: 
+ Data & Analytics Leadership: Act as the primary point of contact for data and analytics across the organisation, providing expert guidance and insight to stakeholders at all levels. 
+ BI Development: Support the development and implementation of BI tools, reporting frameworks, and data processes that enable effective analysis and decision-making. 
+ Data Quality: Ensure the accuracy, quality, and integrity of data through robust validation, cleansing, and governance practices. 
+ Financial Planning & Analysis: Deliver financial and operational analysis to support budgeting, forecasting, performance monitoring, and strategic planning. 
+ Commercial Insight: Produce analysis that helps drive revenue growth, improve profitability, and identify commercial opportunities. 
+ Business Partnering: Work closely with operational and commercial teams to understand challenges, measure performance, and provide actionable insights. 
+ Reporting & Recommendations: Translate complex data into clear, meaningful reporting and recommendations that support both operational and strategic decision-making. 
+ Continuous Improvement: Proactively identify emerging reporting and analytical requirements arising from changes in customer behaviour, business processes, or new data sources, and develop scalable solutions to address them. 
+ Dashboard Development: Design, build, and maintain dashboards, reports, and self-service analytics tools that provide stakeholders with timely and reliable information. 
+ Trend Analysis: Identify trends, risks, and opportunities within business data, presenting findings and recommendations to relevant stakeholders. 
+ Skills and qualifications: 
+ Strong analytical background with a degree or equivalent experience in Mathematics, Statistics, Computer Science, Engineering, Economics, or a related quantitative discipline.
+ Advanced SQL skills , with the ability to write efficient, scalable, and reliable queries for reporting, analysis, and data validation.
+ Experience in Business Intelligence or Analytics , with at least 3 years' experience delivering insights in a BI, Data, or Analytics environment.
+ Data management expertise , including working with multiple data sources such as relational databases, APIs, and flat files, with a strong understanding of data quality, governance, and lineage.
+ BI and visualisation tools , with hands-on experience building dashboards, reports, and data models using tools such as Power BI, Metabase, or similar platforms.
+ Commercial acumen , with the ability to identify trends, opportunities, and risks, and translate analysis into meaningful business recommendations.
+ Strong stakeholder management and communication skills , capable of presenting complex findings in a clear and actionable way to both technical and non-technical audiences.
+ Proactive and curious mindset , with a willingness to challenge assumptions, investigate root causes, and independently identify opportunities for improvement.
+ Experience working with operational and commercial teams , partnering closely with stakeholders to understand business requirements and drive data-led decision-making.
+ Interest in sports, gaming, or online casino industries would be advantageous.
+ Perks and Benefits: 
+ Opportunities for career growth – in a vibrant, inclusive and fast-paced industry. 
+ Private Healthcare – Full coverage, including dental. 
+ Performance Bonuses – Quarterly, based on team goals and business impact. 
+ Well-being Allowance – Budget refreshed every six months to spend on wellness or fitness. 
+ Free Lunch – Enjoy lunch on us when working from the office. 
+ Long Service Rewards – Travel perks to celebrate your commitment. 
+ Team Socials & Office Culture – Regular events, office dogs, offsites, plus ping pong, darts 
+ Why join us? 
+ Kwiff is an equal opportunity employer. We value diversity and are committed to creating an inclusive environment for all employees. 
+ Join us, and you’ll be part of a team that’s shaping the future of iGaming with cutting-edge technology and a culture of bold innovation! 
+ We aim for equity at all stages of the recruitment process. Please let us know if we can do anything to make the process more accessible to you.

@@ -1,0 +1,31 @@
+URL: https://www.linkedin.com/jobs/view/4487657902
+TITLE: Junior IT Specialist
+COMPANY: Haystack
+LOC: Germany
+POSTED: 2026-11-09
+title: Junior IT Specialist
+company: Haystack
+posted: 1 hour ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fjunior-it-specialist-at-haystack-4487657902&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+We're hiring on behalf of a Haystack partner!
+ The Role
+ • Learn to develop and implement medical software solutions
+ • Analyze and optimize existing systems
+ • Collaborate with cross-functional teams to find solutions
+ • Document and test developed applications
+ • Master programming languages such as C#, C++, Java, and JavaScript
+ What You'll Need
+ • Strong interest in IT and programming
+ • Aptitude for identifying and solving complex problems
+ • Curiosity and motivation to learn new technologies
+ • Good English and mathematics skills, particularly in logic
+ • Ability to work well in a team and communicate effectively (German: C1 level)
+ What's On Offer
+ • Competitive salary
+ • Excellent opportunities for permanent employment after successful completion of the program
+ • Practical and varied training experience
+ • Regular feedback and development discussions
+ • Opportunities for personal and professional growth through workshops
+ Apply via Haystack today!

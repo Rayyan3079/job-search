@@ -1,0 +1,42 @@
+URL: https://www.linkedin.com/jobs/view/4417061594
+TITLE: Werkstudent (m/w/d) Softwareentwicklung mit KI Fokus, InsurTech
+COMPANY: CHECK24
+LOC: Hamburg, Hamburg, Germany
+POSTED: 2026-11-06
+title: Werkstudent (m/w/d) Softwareentwicklung mit KI Fokus, InsurTech
+company: CHECK24
+posted: 2 days ago
+applicants: 148 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-m-w-d-softwareentwicklung-mit-ki-fokus-insurtech-at-check24-4417061594&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Über diesen Job
+ Code ist Dein Ding und Du willst mehr als Uni-Projekte? Bei uns bringst Du Dein Wissen direkt in die Praxis ein – in einem agilen Produktteam, das echte Features für echte Kunden baut. KI-Tools gehören bei uns fest zum Entwickleralltag: als produktives Werkzeug, das Dich schneller und besser macht, aber nicht als Ersatz für solides Code-Verständnis.
+ Wenn Du zu den Leuten gehörst, die in der Freizeit coden, weil sie es wollen und nicht weil sie müssen, und Deine Noten zeigen, dass Du Dinge wirklich durchdringst: dann haben wir die richtige Stelle für Dich.
+Wir arbeiten ausschließlich vor Ort im Office – weil uns direkte Zusammenarbeit, schnelle Abstimmung und echtes Teamgefühl im Alltag wichtig sind.
+Bewirb Dich jetzt als Werkstudent (m/w/d) in der Softwareentwicklung bei der CHECK24 Vergleichsportal für Krankenversicherungen GmbH und lerne in einem Jahr mehr über echte Softwareentwicklung als in drei Semestern Vorlesung.
+ Was Du mitbringst
+ Laufendes Studium in Informatik, Computer Science oder vergleichbar in Hamburg, denn bei uns arbeitest Du ausschließlich vor Ort.
+ Gute bis sehr gute akademische Leistungen: Weil Deine Noten zeigen, dass Du Dinge wirklich durchdringst.
+ Deutsch auf C1-Niveau: Für Dailys, Code-Reviews und direkte Abstimmung im Team. Leidenschaft fürs Entwickeln: Eigene Projekte, Side Projects oder Open-Source-Beiträge, die Du nicht für die Uni gebaut hast – das ist für uns das stärkste Signal.
+ Technisches Fundament: Du kennst die gängigen Design-Prinzipien (SOLID, Clean Architecture und Co.) und weißt, wie man sie bewusst bricht.
+ Code-Verständnis unter der Haube: Die Nutzung von ChatGPT, Cursor & Co. beschleunigt Dich, aber die Verantwortung für das Ergebnis liegt bei Dir und Du verstehst, was der generierte Code tut.
+ Erste praktische Erfahrung: Du hast bereits eigenen Code gebaut, der wirklich läuft (z. B. in Praktika oder Nebenjob) – idealerweise mit TypeScript oder PHP.
+ Eigenantrieb statt Anleitung: Du holst Dir Feedback wenn Du nicht weiterkommst, arbeitest strukturiert und selbstständig.
+ Was Dich Erwartet
+ Features mit echtem Nutzerimpact: Du entwickelst Software, die täglich von Millionen Usern genutzt wird – von der Benutzeroberfläche bis zur Backend-Logik.
+ End-to-End-Ownership: Du begleitest Tickets von der Idee über den Code bis zum produktiven Betrieb, mit einem Mentor an Deiner Seite, der Dich fordert und fördert.
+ KI im echten Einsatz: Cursor, Claude und weitere Tools sind bei uns fester Bestandteil des Entwickleralltags, aber nicht als Spielerei, sondern als produktives Werkzeug in einem erfahrenen Team.
+ Agiles Team, direktes Feedback: Code Reviews und Pull Requests sind bei uns Alltag. Du gibst und bekommst Feedback von erfahrenen Entwicklern, die Dir etwas beibringen.
+ Tech-Stack mit Tiefe: TypeScript, PHP, moderner Infrastruktur-Stack – Du lernst, wie Software in einem skalierten System wirklich funktioniert.
+ Was CHECK24 Dir bietet
+ Dein Start bei uns: intensive und individuelle Einarbeitung durch Deinen persönlichen Mentor (m/w/d). Verknüpfe die Theorie mit Praxis und lerne bei uns diverse Abteilungen und Versicherungsprodukte kennen.
+ Optimale Vorbereitung auf Dein Berufsleben: Unsere engagierten Mentoren (m/w/d) betreuen Dich intensiv und bereiten Dich durch praxisnahes Arbeiten optimal vor.
+ Sehr gute Übernahmechancen: Wir wachsen kontinuierlich und bieten Dir bei sehr guter Leistung auch nach Deinem Studium einen zukunftssicheren Job.
+ Eigenverantwortliches Arbeiten: Bei uns wirst Du schnell eigenständig tätig und übernimmst Verantwortung für spannende Aufgaben.
+ Flexible Arbeitszeiten vor Ort in unserem wunderschönen Office: Abgestimmt auf Dein Studium.
+ Persönliche Weiterentwicklung: Du kannst Dein Uni-Wissen direkt in echten Projekten ausprobieren. Du lernst jeden Tag dazu – Tech, Clean Code, Teamwork, Produktdenken und ausgezeichnete Entwicklungsperspektiven durch einen breiten Trainingskatalog und individuelle Coachings.
+ Food & Drinks: Die ganze Arbeitswoche über kostenfreies Frühstück (Auswahl an verschiedenen Müslisorten), kostenfreier Office-Lunch, frisches Obst, Heiß- und Kaltgetränke zur freien Verfügung sind bei uns selbstverständlich!
+ Wohlfühlatmosphäre: Für die Pause zwischendurch lockt unsere Game-Area, bei schönem Wetter kannst Du auf unserer Dachterrasse entspannen.
+ CHECKito Spirit: Lockeres Arbeitsumfeld mit Duz-Kultur und ohne Dresscode. Erfolge feiern wir gemeinsam auf Firmen- & Teamevents.
+ Moderne Arbeitsumgebung: Modernes Equipment (wie z. B. MacBook und zusätzliche Bildschirme).
+ Zentrale Lage: Attraktiver und zentraler Standort.
