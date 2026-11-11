@@ -1,0 +1,41 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-Energiehandel-Data-Science-m-w-d-87435-Kempten-Allgaeu-Allgaeuer-Ueberlandwerk-GmbH--14734495-inline.html
+TITLE: Werkstudent – Energiehandel & Data Science (m/w/d)
+COMPANY: Allgäuer Überlandwerk GmbH
+LOC: 87435 Kempten (Allgäu)
+POSTED: stepstone
+title: Werkstudent – Energiehandel & Data Science (m/w/d)
+company: Allgäuer Überlandwerk GmbH
+posted: 2026-11-09T15:50:37.393Z
+location: 87435 Kempten (Allgäu) | remote: 
+---
+Beschreibung
+ Wir suchen dich als Werkstudent (m/w/d) für unser Team Energiehandel in den Bereichen Energiehandel und Data Science.
+ Aufgaben
+ An der Schnittstelle zwischen Daten, Energiehandel und Produktentwicklung unterstützt du dabei, Informationen aus unterschiedlichen Quellen aufzubereiten und nutzbar zu machen. Du hilfst, Prozesse zu automatisieren und damit die Grundlage für Analysen und neue Produkte zu schaffen. Gleichzeitig erhältst du Einblicke in den Energiehandel und kannst dein Wissen in den Bereichen Daten, Automatisierung und Analytik gezielt vertiefen und praktisch anwenden.
+ Anbindung und Verarbeitung externer Datenquellen (z. B. APIs, Markt-, Wetter- und Energiedaten)
+ Unterstützung beim Aufbau und der Weiterentwicklung von Python-basierten Datenpipelines
+ Automatisierung von Auswertungen und wiederkehrenden Prozessen
+ Verarbeitung, Strukturierung und Analyse von Energiedaten und Kennzahlen im Energiehandel
+ Aufbereitung von Ergebnissen für Produkt- und Fachentscheidungen
+ Qualifikation
+ Laufendes Studium in Informatik, Wirtschaftsinformatik, Data Science, Ingenieurwissenschaften, Energiewirtschaft oder vergleichbar
+ Erste Erfahrung in Python sowie im Umgang mit Daten und Datenbanken
+ Interesse an Automatisierung, Datenverarbeitung und datengetriebenen Analysen
+ Selbstständige, strukturierte und zuverlässige Arbeitsweise
+ Offenheit, Eigeninitiative und Freude daran, eigene Ideen einzubringen
+ Benefits
+ Beginn: ab sofort / nach Vereinbarung
+ Arbeitsort: 87435 Kempten
+ Umfang: bis zu 20 Stunden pro Woche
+ Dauer: nach Abstimmung (langfristig)
+ Perspektivisch bei entsprechenden Leistungen Option auf Abschlussarbeit oder längerfristige Zusammenarbeit
+ Ein interessantes Aufgabengebiet mit viel Eigenverantwortung
+ Flexible Arbeitszeiten und Berücksichtigung von Prüfungsterminen etc.
+ Möglichkeit zum mobilen Arbeiten (nach Absprache)
+ Flache Hierarchien und ein teamorientiertes Arbeitsumfeld
+ Interessiert? Fragen?
+ Wir sind gerne für dich da und freuen uns auf deine Bewerbung!
+ Ansprechpartner 
+ Sebastian Schnur
+ Leiter Energiehandel
+ Tel 0831 2521-481

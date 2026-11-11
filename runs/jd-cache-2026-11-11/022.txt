@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4487190012
+TITLE: Working Student - Software Integration KPIs/Reporting (m/f/d)
+COMPANY: CARIAD
+LOC: Ingolstadt, Bavaria, Germany
+POSTED: 2026-11-09
+title: Working Student - Software Integration KPIs/Reporting (m/f/d)
+company: CARIAD
+posted: 1 day ago
+applicants: 63 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-software-integration-kpis-reporting-m-f-d-at-cariad-4487190012&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Wir sind CARIAD, das Automotive-Software-Unternehmen der Volkswagen Group. Unsere Teams entwickeln Softwareplattformen und digitale Kundenfunktionen für legendäre Marken wie Audi, Volkswagen und Porsche – und unterstützen so die Volkswagen Group auf ihrem Weg zum führenden automobilen Technologiekonzern. CARIDIANS in Softwarezentren in Deutschland, den USA, China, Estland und Indien arbeiten daran, die Automobilität für alle neu zu gestalten.
+ DEIN TEAM
+ Das GroupConMod-Team verantwortet zentrale Bereiche der Softwareentwicklung für den zukünftigen Group-ConMod-Software-Stack. In enger Zusammenarbeit mit verschiedenen technischen Teams entwickelt es die Vision, Architektur, das Design und die Implementierung der nächsten Generation eingebetteter Konnektivitätssoftware, die konzernweit im Volkswagen-Konzern eingesetzt wird.
+Das Team erschließt gerne neue Wege, hinterfragt bestehende Ansätze und treibt innovative Lösungen kontinuierlich voran. Als Teil des Senior Technical Teams von CARIAD arbeitet T1-Y zudem eng mit verschiedenen Stakeholdern aus den technischen Organisationen des gesamten Volkswagen-Konzerns zusammen.
+Zur Unterstützung unseres GroupConMod-Teams suchen wir derzeit eine Werkstudentin oder einen Werkstudenten. In dieser Rolle erhältst du praxisnahe Einblicke in die Softwareintegration und bist ein wichtiger Teil des Teams, das den täglichen Softwarestatus analysiert und in Reporting-Dashboards visualisiert.
+ DEINE AUFGABEN
+ Unterstützung bei Softwaretests und -integration
+ Unterstützung bei der Planung, Vorbereitung und Nachbereitung von Test- und Integrationsaktivitäten
+ Nachverfolgung des Testfortschritts, offener Probleme und Release-Meilensteine
+ Sicherstellung der Transparenz über Softwarelieferungen, Testfortschritte und offene Risiken
+ Unterstützung bei der Vorbereitung von Integrations- und Release-Bereitschaftsprüfungen
+ Erhebung, Konsolidierung und Pflege von Test- und Integrations-KPIs
+ DAS BRINGST DU MIT
+ Laufendes Studium der Informatik, Softwaretechnik, Elektrotechnik, Fahrzeugtechnik, Informationstechnologie oder eines vergleichbaren technischen Studiengangs
+ Grundkenntnisse in Softwaretests und Qualitätssicherung
+ Kenntnisse in Python, Java, C++ oder einer vergleichbaren Programmiersprache von Vorteil
+ Interesse an Automotive Software, vernetzten Systemen und Fahrzeugtechnologien
+ Analytisches Denkvermögen und Interesse an der Untersuchung komplexer technischer Fragestellungen
+ Strukturierte, selbstständige und proaktive Arbeitsweise
+ Ausgeprägte Kommunikations- und Teamfähigkeit
+ Schnelle Auffassungsgabe und technische Neugier
+ NICE TO KNOW
+ Remote-Arbeit innerhalb Deutschlands möglich
+ Praktikum / Abschlussarbeit
+ Dauer: 3–6 Monate
+ Arbeitszeit: 35 Stunden pro Woche
+ Vergütung: 13,90 € pro Stunde
+ Werkstudierendentätigkeit
+ Dauer: 6 Monate (mit Verlängerungsoption auf bis zu 2 Jahre)
+ Arbeitszeit: 20 Stunden pro Woche, während der Semesterferien bis zu 35 Stunden pro Woche
+ Vergütung: 17,80 € pro Stunde 
+ Bei CARIAD schätzen wir Individualität und Vielfalt – denn wir sind überzeugt, dass uns unsere Unterschiede stärker machen. Wir setzen uns aktiv dafür ein, Teams mit unterschiedlichen Hintergründen, Perspektiven und Erfahrungen aufzubauen. Unser Ziel ist ein Arbeitsumfeld, in dem sich alle wertgeschätzt fühlen und ihre Stärken einbringen können. Wenn du aufgrund einer Behinderung Unterstützung bei deiner Bewerbung brauchst, melde dich gerne bei uns unter careers@cariad.technology – wir helfen dir gerne weiter.

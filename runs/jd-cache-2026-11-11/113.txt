@@ -1,0 +1,40 @@
+URL: https://www.linkedin.com/jobs/view/4480991919
+TITLE: Werkstudent (w/m/d) Softwareentwicklung DataHub
+COMPANY: DekaBank
+LOC: Frankfurt am Main, Hesse, Germany
+POSTED: 2026-11-10
+title: Werkstudent (w/m/d) Softwareentwicklung DataHub
+company: DekaBank
+posted: 14 hours ago
+applicants: 112 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-w-m-d-softwareentwicklung-datahub-at-dekabank-4480991919&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Wir sind die DekaBank – das Wertpapierhaus der Sparkassen und einer der größten Fondsanbieter in Deutschland. Wir entwickeln erstklassige Produkte und sind nahe an unseren Kundinnen und Kunden. Mit individuellen Anlagelösungen unterstützen wir die Sparkassen bei der Beratung. Wir entwickeln neue Angebote für das digitale Wertpapiergeschäft. Bist Du bereit? Gestalten wir gemeinsam die Finanzwelt der Zukunft! Was wir bieten? Ein modernes Arbeitsumfeld. Wir fördern Zusammenhalt genauso wie individuelle Entwicklungsmöglichkeiten für die persönliche Karriere. Denn alle unsere Mitarbeitenden bringen ihre Kreativität, Leidenschaft, Persönlichkeit und ihr Know-how ein – und das macht uns zu dem, was wir sind.
+ Zu Deinen Aufgaben zählen 
+ Entwicklung: Im DataHub-Umfeld entwickelst und wartest Du Softwarekomponenten im Backend und Frontend und erstellst die dazugehörigen Tests.
+ Automatisierung: Du setzt eigenständig einen CI/CD-Service für das Aufsetzen und die Installation von Test- und Entwicklungsumgebungen um.
+ Transparenz: Zur Statusanzeige aller Test- und Entwicklungsumgebungen entwickelst Du eine übersichtliche Webseite.
+ Datenanalyse: Mithilfe von KI und weiteren technischen Möglichkeiten. beispielsweise dem Elastic Stack (ELK), analysierst und visualisierst Du Log-Dateien.
+ Dokumentation: Ergänzend dazu dokumentierst Du die entwickelten Komponenten und technischen Umsetzungen strukturiert und nachvollziehbar.
+ Was Du mitbringst 
+ Du studierst (Wirtschafts-)Informatik oder einen vergleichbaren Studiengang.
+ Dich zeichnet Interesse an Daten- und ETL-Themen sowie an Ansätzen im Umfeld des Datenmanagements aus.
+ Gute Kenntnisse in einer objektorientierten Programmiersprache, Python, KI und regulären Ausdrücken (Regex) setzt Du sicher ein. Idealerweise verfügst Du zudem über Erfahrung mit dem Elastic Stack (ELK).
+ Interesse an agilen Vorgehensweisen rundet Dein fachliches Profil ab.
+ Eine selbstständige, strukturierte Arbeitsweise sowie Freude an vielseitigen Aufgabenbereichen machen Dich zu einer passenden Verstärkung für das Team.
+ Was wir Dir bieten
+ Zeit für Studium und Freizeit: 30 Urlaubstage – für Klausurphasen, Reisen, persönliche Projekte oder einfach zur Erholung. 
+ Attraktive Vergütung und Extras: Faire Vergütung, finanzielle Vorteile, Sonderkonditionen bei der Vermögensanlage und vergünstigte Kantinenangebote. 
+ Flexibles Arbeiten: Flexible Arbeitszeiten und hybrides Arbeiten – passend zu Deinem Studienalltag. 
+ Gesund und gut versorgt: Gesundheitsmanagement mit vielfältigen Angeboten rund um Bewegung, Ernährung und mentale Gesundheit – für mehr Wohlbefinden im Arbeitsalltag. 
+ Entspannt unterwegs: Vergünstigtes Deutschland-Jobticket für den Weg zur Arbeit und wieder nach Hause. 
+ Einblicke und Entwicklung: Wertvolle Einblicke in die Arbeitswelt, persönliche Betreuung, und interne Lernangebote. 
+ Dein Kontakt im Recruiting
+ Robin Daum
+ Nachwuchs@deka.de
+ Wir freuen uns auf Deine Onlinebewerbung!
+ Bitte beachte, dass wir aus datenschutzrechtlichen Gründen keine Bewerbungen oder zusätzliche Unterlagen per E-Mail oder per Post annehmen dürfen.
+ Uns ist wichtig , dass alle die gleichen Chancen bei der Deka haben. Wir sind davon überzeugt, dass die Vielfalt unserer Mitarbeitenden und eine inklusive Unternehmenskultur Perspektiven erweitern, Innovationskraft und Kreativität fördern und dazu beitragen, die besten Lösungen für unseren Kundenkreis zu finden. Deshalb fördern wir Diversität und freuen uns über jede Bewerbung – unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion oder Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität.
+ Stellennummer: 50042076
+ Besetzung zum: 01.12.2026
+Standort der Stelle: Frankfurt - Niederrad

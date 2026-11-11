@@ -1,0 +1,56 @@
+URL: https://www.linkedin.com/jobs/view/4487863649
+TITLE: Business Intelligence Specialist - Data & Analytics
+COMPANY: Catholic Diocese of Maitland-Newcastle
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-11
+title: Business Intelligence Specialist - Data & Analytics
+company: Catholic Diocese of Maitland-Newcastle
+posted: 5 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fau.linkedin.com%2Fjobs%2Fview%2Fbusiness-intelligence-specialist-data-analytics-at-catholic-diocese-of-maitland-newcastle-4487863649&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+THE OPPORTUNITY 
+ Join a purpose-driven organisation as a Business Intelligence Specialist in a permanent full-time role based in Newcastle West .
+ The Catholic Diocese of Maitland-Newcastle is building a modern, purpose-driven Data & Analytics team to support our agencies, parishes, and services with timely, trusted insights. To meet growing demand and expand our capabilities, we’re seeking a Business Intelligence Specialist to help shape and strengthen business intelligence across the Diocese.
+ BENEFITS OF WORKING WITH US 
+ Directly contribute to improving the lives of many in the community.
+ Paid parental leave (for eligible employees).
+ Discounted gym membership through Fitness Passport (T&C’s apply).
+ Ongoing training and development opportunities.
+ A great friendly environment of dedicated and passionate co-workers.
+ Enjoy up to 10% off at top retailers with our mnBenefits program.
+ Modern office facilities including onsite café.
+ Corporate benefits, including EAP, flu shots and more.
+ POSITION DESCRIPTION 
+ Turn data into insights that make a difference. As our Business Intelligence Specialist, you'll help transform complex data into clear, actionable insights that support better decisions across the Diocese, its agencies, parishes, and ultimately the communities we serve.
+ Key Responsibilities 
+ Create insightful dashboards, reports and analytical solutions that turn complex information into meaningful insights.
+ Partner with stakeholders to understand their questions and translate business needs into effective BI solutions.
+ Shape our growing enterprise BI capability, contributing to data models, data warehousing, governance and quality.
+ Empower people to confidently use data through compelling visualisation, data storytelling, training and self-service analytics.
+ Collaborate with the Data & Analytics and Technology Services teams to deliver secure, reliable and sustainable solutions.
+ EXPERIENCE/CRITERIA 
+ Experience with Business Intelligence (BI) frameworks, technologies and tools. Preferably experience with Power BI, Microsoft Fabric and Microsoft Azure.
+ Proven experience in capturing business requirements and producing data related designs or dashboards to meet those requirements.
+ Experience in developing and maintaining analytical data models.
+ Experience in DAX, SQL, and M Query coding languages.
+ Excellent attention to detail, with strong analytical and problem-solving skills.
+ Experience engaging with stakeholders, providing user training and producing user guides and supporting documentation.
+ Experience in data visualisation, dashboard design, data storytelling and data literacy training.
+ Experience with data governance and associated organisational governance structures.
+ Good working knowledge of data warehouse, database and business intelligence environments, concepts and techniques (including Kimball).
+ Ability to learn and implement new tools, technologies and analytical methods.
+ Demonstrated strong verbal and written communication skills
+ QUALIFICATIONS 
+ Bachelor’s degree in Business Analysis, Computer Science, Information Management, or specialised training/certification or equivalent work experience.
+ NSW Working with Children Check for paid employment.
+ To Apply 
+ Please provide a current copy of your Resume and a Cover Letter which addresses the two criterion points below:
+ How would you use data and insights to help our stakeholders make better decisions and improve outcomes for the communities we serve?
+ What qualifications and experience make you a strong fit for this role? Please include an example of a BI solution you have delivered, such as a dashboard, data model or training program, and the difference it made.
+ For further information please reach out to: Danica Smith, Data and Analytics Lead on ts.dasm.jobs@mn.catholic.edu.au
+ Applications close 11:59pm on Monday, 16 November 2026. 
+ Applications for this position will only be considered if submitted through the following platforms: our careers page on our website, mnpeople, Indeed, Seek, or LinkedIn.
+ Additional Information 
+ The Diocese of Maitland-Newcastle is committed to safeguarding children and vulnerable persons and preventing those in our care from suffering abuse or neglect. It is committed to implementing and maintaining compliance with the NSW Child Safe Standards and the National Catholic Safeguarding Standards and takes a zero-tolerance approach to abuse of children or vulnerable persons. 
+ All who work in the name of the Diocese must comply with the Diocesan Safeguarding Framework Policy and act in accordance with the Diocese’s Code of Conduct which includes the Diocese’s Safeguarding Commitment Statement. Employees are required to undergo a National Police Check and retain a valid NSW Working with Children Check where necessary, in accordance with legislation.

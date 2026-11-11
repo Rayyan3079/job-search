@@ -1,0 +1,29 @@
+URL: https://www.linkedin.com/jobs/view/4402135251
+TITLE: dbt Architect (all genders)
+COMPANY: adesso SE
+LOC: Jena, Thuringia, Germany
+POSTED: 2026-10-30
+title: dbt Architect (all genders)
+company: adesso SE
+posted: 1 week ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fdbt-architect-all-genders-at-adesso-se-4402135251&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Wir gehören zu den Top-Adressen in der IT-Welt und fokussieren uns auf die Optimierung der Kerngeschäfts­prozesse unserer Kunden. Durch den smarten Einsatz maßgeschneiderter IT-Lösungen unterstützen wir unsere Kunden dabei, das Beste aus ihrem Business und aktuellen Technologien herauszuholen. Unseren Erfolg aber erreichen wir nur durch eins: die Menschen bei adesso! Sie bringen Ideen, fachliches Know how und Technologien zusammen. Gemeinsam programmieren wir (deine) Zukunft bei adesso.
+ DEINE ROLLE
+ Berate Kunden: Du arbeitest in spannenden Transformationsprojekten, entwickelst wiederverwendbare Datenprodukte mit dbt und bist du Ansprechperson für Kunden, Partner und internes Management.
+ Strategische Architektur und Design: Du gestaltest Datenarchitekturen für Enterprise-Kunden und übernimmst Verantwortung – von der ersten Idee bis zur laufenden Produktion. 
+ Verantworte den Aufbau von Data Platforms: Du stellst sicher, dass CI/CD, Testkonzepte sowie Infrastructure as Code konsequent berücksichtigt werden. Inklusive der Integration von Agentic AI als strategischem Bestandteil in allen Prozessschritten.
+ Wähle Technologien aus: Du berätst bei der technologischen Roadmap und Strategie und unterstützt bei der Auswahl der richtigen Tools (dbt Core, dbt Fusion, dbt Cloud/dbt Platform).
+ Data Management: Du hilfst unseren Kunden, strukturierte und verlässliche Datenprozesse aufzubauen, wie die Einhaltung von Datenschutzrichtlinien, Definition von Data Governance Richtlinien und Implementierung von Datenzugriffs- und Sicherheitskonzepten.
+ Data Engineering & Presales: Du prägst die technische Ausrichtung im Data Engineering bei Kunden und intern, verantwortest in Angeboten technische Lösungskonzepte, begleitest Angebotspräsentationen und führst Workshops durch.
+ DEIN PROFIL
+ Data Engineering: Du hast mindestens fünf Jahre Erfahrung in Data Engineering oder Analytics Engineering, sowie sehr gute dbt-Kenntnisse (Core + Cloud), idealerweise belegt durch eine dbt Architect Zertifizierung.
+ Data Platform Architektur: Du hast umfängliche Praxiskenntnisse in Data Platform Projekten, idealerweise mit Snowflake, Databricks, Microsoft Fabric oder BigQuery und beherrschst Data Platform Konzepte (DWH/Data Lake/Datalakehouse und Data Mesh) und die Modellierung mit Data Vault 2.0. oder klassischen Modellierungspattern wie Snowflake und Star.
+ Cloud-Expertise: Du bringst Erfahrung im Bereich Cloud Data Platforms und einem Cloud Hyperscaler wie AWS, GCP oder Azure mit und du kennst dich grundlegend mit Cloudinfrastruktur aus.
+ Kommunikationsstärke: Du kannst Lösungen pitchen und Kunden begeistern.
+ Projekt- und Consultingerfahrung: Du hast nachweisliche Erfahrungen in der Projektleitung sowie als Product Owner, Architect oder in einer vergleichbaren Funktion. Dabei hast du Architekturentscheidungen eigenverantwortlich getroffen.
+ KI Kompetenz: Du verfügst über vertiefte KI-Expertise, gestaltest deren verantwortungsvollen Einsatz in deinem Verantwortungsbereich aktiv mit und fungierst als Enabler für Kunden sowie intern bei adesso.
+ Sprachkenntnisse: Du verfügst über sehr gute Deutsch- sowie gute Englischkenntnisse.
+ Unser Versprechen: Du wirst dich bei uns wohlfühlen! Kollegial, familiär und auf Augenhöhe – wir leben Austausch, Teamgeist und einen respektvollen Umgang miteinander. Diversität und verschiedene Blickwinkel werden bei uns genauso geschätzt wie du als Mensch. Das und viel mehr steht für unser ganz besonderes Wir-Gefühl. Für das es sogar ein Wort gibt: adessi.
+Unsere Kultur und das Zusammenarbeiten sind geprägt von gegenseitiger Wertschätzung, Anerkennung und Unterstützung. Das verbindet uns hierarchieübergreifend – auch im Home-Office. So belegen wir zum wiederholten Mal den 1. Platz beim Wettbewerb „Deutschlands Beste Arbeitgeber in der ITK“!. Unser umfangreiches Trainingsangebot und ein transparentes Laufbahnstufenmodell für alle sorgen dafür, dass deine Entwicklung bei uns nicht stillsteht. Denn gemeinsam zu wachsen und Chancengeber zu sein, das ist programmiert in unserer DNA.

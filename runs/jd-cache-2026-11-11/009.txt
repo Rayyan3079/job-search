@@ -1,0 +1,36 @@
+URL: https://www.linkedin.com/jobs/view/4487979135
+TITLE: Praktikum Salesforce Consulting (all genders)
+COMPANY: Accenture DACH
+LOC: Jena, Thuringia, Germany
+POSTED: 2026-11-09
+title: Praktikum Salesforce Consulting (all genders)
+company: Accenture DACH
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikum-salesforce-consulting-all-genders-at-accenture-dach-4487979135&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Accenture ist die internationale Nummer 1 der unabhängigen IT-Dienstleister für Salesforce.com! Seien Sie dabei, wenn wir im Bereich „Software as a Service“ (SaaS) Top-Unternehmen dabei unterstützen, Kundenprozesse an sich rasant verändernde Marktbedingungen und Entwicklungen anzupassen.
+ Deine Aufgaben
+ Mit einem Praktikum am Standort Jena entwickelst du dich ungewöhnlich schnell zum gefragten Spezialisten für die cloudbasierte CRM-Lösung salesforce.com. Wir machen dich mit praxisnahen Schulungen und professionellen Trainern fit für deine zukünftigen Projekteinsätze in unseren internationalen Teams.
+ In der funktionalen Rolle tauchst du tief in die Salesforce-Administration ein und wirst zum Experten in der Projektbearbeitung, Geschäftsprozessanalyse oder in SaaS. Dein technisches Verständnis hilft dir dabei, die Funktionalitäten von Salesforce schnell zu verstehen und optimal einzusetzen.
+ In der technischen Rolle entwickelst du cloudbasierte CRM-Applikationen und hilfst unseren Kunden so, unternehmensspezifische Anforderungen in die Standard-Salesforce.com Lösung zu integrieren. Du programmierst z.B. In Force.com, Apex (Java-ähnlich) und Visualforce (inklusive Javascript).
+ Qualifikationen 
+ Mindestens 3 Monate Verfügbarkeit für ein Vollzeitpraktikum (z.B. Praxissemester)
+ Laufendes Studium im IT- oder kaufmännischen Bereich 
+ Funktionale Laufbahn – Salesforce Beratung: Sehr hohe IT-Affinität und technisches Verständnis
+ Technische Laufbahn – Salesforce Entwicklung: Kenntnisse und erste Praxis in einem der folgenden Themen: Java, C#, HTML, CSS, JavaScript, Frontend- und Backendentwicklung
+ Kommunikations- und Präsentationssicherheit in Deutsch und Englisch
+ Spaß an der Arbeit in einem internationalen Projektteam
+ Was wir dir bieten
+ Strukturierte Einarbeitung mit Trainings und persönlichem Mentoring
+ Einblick in spannende Salesforce‑Projekte bei namhaften Kunden
+ Flexible Arbeitsweisen und moderne Arbeitsumgebung
+ Attraktive Entwicklungsperspektiven für Studierende
+ Ein starkes Netzwerk und echte Teamkultur
+ Du und Accenture
+ In dieser Rolle bist du Teil von Accenture Technology . Wir nutzen das gesamte Spektrum digitaler Technologien, um den Alltag unserer Kunden zu vereinfachen. Und ihr Business in die Zukunft zu führen. Von #DevOps bis #Infrastruktur, von #Security bis #Workplace‑Service.
+ Die Accenture‑Kultur: Hier machst DU den Unterschied
+ Deine Fähigkeiten, dein Naturell und deine Ambitionen machen dich einzigartig. Und wenn die unterschiedlichsten Talente, Stärken und Sichtweisen aufeinandertreffen, entsteht etwas Großartiges: Ideen, die in der Welt etwas bewegen. Deshalb setzen wir bei Accenture auf Diversität und freie Entfaltung. Schaffe dir ein Arbeitsumfeld, in dem du aufgehst. Mit Aufgaben, die dir am Herzen liegen. Mit einem Workload, der zu dir passt. Und mit einer Arbeitsweise, die sich an deinen Zielen orientiert. Wie du dich vernetzen, weiterbilden und persönlich wachsen willst, liegt bei dir. Es ist deine Karriere. Wir helfen dir, sie so zu gestalten, wie du es dir vorstellst.
+ Dein Kontakt
+ Noch Fragen offen? Dann wende dich gerne an unser Recruiting Team per E‑Mail an recruiting_germany@accenture.com .
+Wir freuen uns auf deine Bewerbung.

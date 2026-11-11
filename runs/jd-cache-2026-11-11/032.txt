@@ -1,0 +1,47 @@
+URL: https://www.linkedin.com/jobs/view/4489465219
+TITLE: Working-Student AI and AI Security
+COMPANY: umbrella.associates GmbH
+LOC: Frankfurt Rhine-Main Metropolitan Area
+POSTED: 2026-11-10
+title: Working-Student AI and AI Security
+company: umbrella.associates GmbH
+posted: 17 hours ago
+applicants: 58 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-ai-and-ai-security-at-umbrella-associates-gmbh-4489465219&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+March 11, 2026
+Working-Student AI and AI Security
+Part/Full Time
+M/F/D
+Wir sind immer auf der Suche nach motivierten „Associate-Minions“ , die ihre Basis-Fähigkeiten in der IT-Sicherheit und im Identity & Access Management (IAM) weiterentwickeln wollen. Bist du bereit für neue Herausforderungen in der Softwareentwicklung, im IT-Betrieb oder Systemmanagement? Da KI gekommen ist, um zu bleiben, ziehen wir gemeinsam die Verteidigungslinien für die nächste Generation: Bei uns lernst du, AI-Workloads zu schützen und Systeme „trustworthy“ zu machen. IAM ist der Kern unseres Geschäftes – und darin bilden wir DICH AUS! (Denn wir bilden uns ein , dass wir dazu ganz schön was auf dem Kasten haben…). Dein Einstieg als Working Student bietet dir eine steile Lernkurve in der AI-Security, echte Verantwortung, neueste Technologien und eine langfristige Perspektive in einem Team, das Innovation liebt, aber bei Sicherheit keine Kompromisse macht – und natürlich immer ausreichend Bananen.
+Voraussetzungen
+ Laufendes Studium in (Wirtschafts-) Informatik, Data Science, Information Engineering
+ Du willst KI-Systeme verstehen und immunisieren, statt sie nur zu nutzen. Dein Ziel: Die perfekte Kombination aus Machine Learning und Cyber-Abwehr Erste Erfahrungen mit APIs oder Coding? Perfekt, genau das suchen wir!
+ Ein hohes Maß an Eigenmotivation, ein agiles Mindset und Freude am Lösen von kniffligen Aufgaben
+ Sehr gute Deutschkenntnisse; gute Englischkenntnisse sind von Vorteil
+ Was wir anbieten
+ Praxisnahes Training „on the job” mit erfahrenen Expert*innen
+ Nahezu unbegrenzte Weiterbildungsmöglichkeiten und die Annäherung an das Thema AI Security
+ Gemeinsame Lernerfahrung und Team-Aufgaben, die Eure Softskills fordern und fördern
+ Location
+ Remote : Irgendwo in der DACH Region wäre toll, aber solange es Zeitzone CET +/-1 ist, sind wir happy.
+Workload
+Bis zu 20 Stunden/Woche während des Semesters, in den Semesterferien nach Absprache auch Vollzeit.
+Bezahlung
+15 - 18 € / Std. (je nach Vorerfahrung)
+Warum bei uns arbeiten?
+Weil du entweder der Held sein willst, der die KI-Security-Apokalypse abwendet, oder Gru dabei hilfst, mit High-End-Algorithmen die Weltherrschaft an dich zu reißen!
+Jetzt bewerben!
+Vollzeit/Teilzeit
+Werkstudierende Software Engineering (Python, Kubernetes, OpenID Connect)
+We develop software for Identity & Access Management based on open standards such as OpenID Connect and OAuth …
+Read more→
+Part/Full Time
+Working-Student Access Management, Customer Identity and Access Management (CIAM, SSO)
+Komfort, Sicherheit, Skalierbarkeit, Identität – vor langer Zeit lebten die User in Harmonie, doch alles änderte …
+Read more→
+Part/Full Time
+Working-Student AI and AI Security
+Wir sind immer auf der Suche nach motivierten „Associate-Minions“ , die ihre Basis-Fähigkeiten in der IT-Sicherheit …
+Read more→
+Back to all jobs

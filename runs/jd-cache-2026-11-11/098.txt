@@ -1,0 +1,51 @@
+URL: https://www.linkedin.com/jobs/view/4488005042
+TITLE: Trainee Data Science & KI (w/m/d) - Predictive Maintenance
+COMPANY: VINCI Energies
+LOC: Eigeltingen, Baden-Württemberg, Germany
+POSTED: 2026-11-05
+title: Trainee Data Science & KI (w/m/d) - Predictive Maintenance
+company: VINCI Energies
+posted: 5 days ago
+applicants: 132 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Ftrainee-data-science-ki-w-m-d-predictive-maintenance-at-vinci-energies-4488005042&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Dein Traineeprogramm
+ Während Deines zwölfmonatigen Traineeprogramms arbeitest Du gemeinsam mit einem erfahrenen Tandempartner an einem realen Innovationsprojekt. In regelmäßigen Präsenzveranstaltungen, Workshops, Schulungen und Coachings entwickelst Du Deine fachlichen, methodischen und persönlichen Kompetenzen kontinuierlich weiter.
+Du tauschst Dich mit weiteren Trainees aus unterschiedlichen Gesellschaften, Expertinnen und Experten sowie Führungskräften innerhalb von VINCI Energies aus und baust ein unternehmensübergreifendes Netzwerk auf. An mehreren Meilensteinen präsentierst Du gemeinsam mit Deinem Fachbereich die Fortschritte Deines Projekts und bereitest die entwickelte Lösung für den Einsatz im operativen Geschäft vor.
+ Dein Innovationsprojekt: KI-gestütztes Servicemanagement
+ Im Rahmen Deines Projekts beschäftigst Du Dich mit der Frage, wie vorhandenes technisches Wissen und unsere Servicedaten mithilfe moderner KI-Technologien intelligent strukturiert, verknüpft und für unsere Serviceorganisation nutzbar gemacht werden können.
+ Das erwartet Dich
+ Servicedaten & Datenstrukturierung: Du analysierst und strukturierst vorhandene Serviceberichte, Fehlerbilder, technische Ereignisse sowie weitere relevante Maschinen- und Servicedaten
+ Intelligente Wissensdatenbank: Du wirkst beim Aufbau einer zentralen Wissensbasis mit, die technisches Know-how, historische Servicefälle und vorhandene Dokumentationen intelligent miteinander verbindet
+ Künstliche Intelligenz: Du untersuchst, wie moderne KI-Technologien dabei unterstützen können, Informationen aus unterschiedlichen Datenquellen aufzubereiten, zu klassifizieren und gezielt bereitzustellen
+ Wissensmanagement: Du entwickelst Ansätze, um Erfahrungswissen aus vergangenen Serviceeinsätzen systematisch zu erfassen und langfristig innerhalb der Organisation verfügbar zu machen
+ Fehler- und Lösungsanalyse: Du wertest Fehlercodes, Serviceberichte und technische Ereignisse aus und stellst Zusammenhänge zwischen Fehlerbildern, Ursachen und erfolgreichen Lösungsansätzen her
+ Anwendungsfälle im Service: Gemeinsam mit unserer Serviceorganisation identifizierst Du konkrete Use Cases, bei denen KI und strukturierte Daten unsere Mitarbeitenden im Tagesgeschäft unterstützen können
+ Prototyping & Weiterentwicklung: Du entwickelst und testest gemeinsam mit den Fachbereichen erste Lösungsansätze und bewertest deren Nutzen für den operativen Service
+ Schnittstellenmanagement: Du arbeitest eng mit Servicetechnik, technischen Fachbereichen, IT und weiteren Stakeholdern zusammen und bringst die unterschiedlichen Anforderungen in einer gemeinsamen Lösung zusammen
+ Visualisierung & Reporting: Du bereitest Erkenntnisse, Projektfortschritte und Ergebnisse verständlich für technische und kaufmännische Stakeholder auf
+ Kurz gesagt: Du hilfst uns dabei, aus vorhandenen Servicedaten echtes Servicewissen zu machen und dieses mithilfe von KI genau dort verfügbar zu machen, wo es gebraucht wird.
+ Was Du idealerweise mitbringst
+ Qualifikation: Erfolgreich abgeschlossenes Studium beispielsweise in Data Science, Informatik, Wirtschaftsinformatik, Elektrotechnik, Mechatronik, Künstlicher Intelligenz oder Wirtschaftsingenieurwesen sowie Interesse an digitalen und datengetriebenen Fragestellungen
+ KI & digitale Technologien: Du interessierst Dich für Künstliche Intelligenz, moderne Daten- und Wissenssysteme und möchtest herausfinden, wie daraus praxistaugliche Lösungen für den industriellen Service entstehen können
+ Datenverständnis: Du hast Freude daran, unterschiedliche Datenquellen zu analysieren, Informationen zu strukturieren und Zusammenhänge zu erkennen
+ Technisches Verständnis: Maschinen, technische Systeme und industrielle Prozesse findest Du spannend und Du möchtest verstehen, wie Service in der Praxis funktioniert
+ Analytische Stärke: Du kannst komplexe Zusammenhänge erfassen, strukturieren und in konkrete Lösungsansätze übersetzen
+ Technologieverständnis: Erste Erfahrungen mit Python, SQL, Datenbanken, APIs oder vergleichbaren Technologien sind von Vorteil. Wichtiger ist uns jedoch Dein Interesse, Dich in neue Technologien und KI-Anwendungen einzuarbeiten
+ Arbeitsweise: Du arbeitest eigenständig, strukturiert und lösungsorientiert und hast Freude daran, neue Ideen praktisch umzusetzen
+ Kommunikation: Du arbeitest gerne mit unterschiedlichen Fachbereichen zusammen und kannst technische sowie datenbezogene Themen verständlich vermitteln
+ Darauf kannst Du Dich freuen 
+ ﻿Innovation Tandem Programm: Strukturiertes Entwicklungsprogramm mit Workshops, Trainings, Coachings, gemeinsamen Meilensteinen und einem konzernweiten Trainee-Netzwerk
+ Mentoring & Projektverantwortung: Persönliche Begleitung durch einen erfahrenen Tandempartner sowie frühzeitige Verantwortung für ein reales Innovationsprojekt
+ Zukunftssicher arbeiten. Unfallsicher handeln: Ein wirtschaftlich starker Arbeitgeber mit klarer Verantwortung für Deine Sicherheit
+ Aktienprogramm (VINCI): Am Unternehmenserfolg beteiligt und Vermögen aufbauen
+ Eigene Academy: Klare fachliche und persönliche Entwicklung
+ Mitarbeitendenempfehlung: Bis zu 3.000 € Prämie für erfolgreiche Empfehlungen
+ Noch mehr Gründe für uns:
+30 Urlaubstage | Kinderbetreuungszuschuss & Sonderurlaub | Firmenfitnessprogramm | Bikeleasing | Krankenzusatzversicherung | Mentale Gesundheitsangebote | Mitarbeiterrabatte | Welcome Day & Expertennetzwerk | Betriebliche Altersvorsorge | Firmenevents | Kostenlose Parkplätze & gute Anbindung
+ Konzern im Rücken - Business Unit im Herzen
+ Die Actemium Mechatronic GmbH bietet deutschlandweit Services, Wartungen und Instandhaltungen für industrielle und logistische Anlagen . Von der Inbetriebnahme über Remote Monitoring bis hin zum technischen Support gewährleisten wir einen zuverlässigen und effizienten Anlagenbetrieb.
+Actemium ist die Industriemarke von VINCI Energies. Wir planen, bauen und betreiben industrielle Anlagen und halten die Produktion am Laufen. Als Teil eines internationalen Netzwerks arbeiten wir in eigenständigen Gesellschaften mit kurzen Entscheidungswegen – dort, wo das Know-how sitzt.
+Unsere Werte: Vertrauen , Eigenständigkeit , Solidarität , Unternehmergeist und Verantwortung . Wir stehen für Vielfalt und echte Chancengleichheit - jede Bewerbung ist willkommen.
+Wir gestalten nicht nur die Industrie von morgen, sondern übernehmen auch Verantwortung für die Gesellschaft. Wie wir uns sozial engagieren, erfährst Du hier: Unser soziales Engagement .
+ Du bist dran. It’s time to act.

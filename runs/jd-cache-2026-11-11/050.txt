@@ -1,0 +1,40 @@
+URL: https://www.linkedin.com/jobs/view/4488884467
+TITLE: BI Analyst
+COMPANY: Saab
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-09
+title: BI Analyst
+company: Saab
+posted: 1 day ago
+applicants: 36 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fse.linkedin.com%2Fjobs%2Fview%2Fbi-analyst-at-saab-4488884467&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Vill du påverka och göra skillnad på riktigt? Här bidrar du till att skapa trygghet för människor och samhällen. Det du gör spelar roll.
+ Har du erfarenhet av att driva dialogen med verksamheten och förstå vilka frågor som verkligen behöver svar? Kan du omsätta behoven till analyser, modeller och visualiseringar som stöttar beslut på olika nivåer?
+Nu söker vi en BI-analytiker som vill vara med och göra data begriplig och användbar. Du arbetar nära verksamheten för att förstå dess behov och utvecklar lösningar som gör information tillgänglig och ger stöd för beslut.
+Du blir en del av BI & Digital Tools inom Operational Excellence på Saab Fighter Core Capability. Vi utvecklar och implementerar digitala lösningar inom bland annat Business Intelligence, automation och AI. Teamet består av erfarna data- och BI-specialister och präglas av samarbete, självständighet och ständig utveckling. Här får du möjlighet att bidra med dina idéer och din kompetens, och ditt arbete kan göra verklig skillnad för hela affärsområdet.
+ Din roll
+ Du kommer bland annat att:
+ Översätta verksamhetens behov och utmaningar till lösningar inom data, analys och AI.
+ Utveckla och förvalta dashboards och rapporter i Qlik Sense och Power BI.
+ Skapa strukturerade datamodeller i Qlik och semantiska modeller i Microsoft Fabric, med fokus på datakvalitet och enhetliga verksamhetsdefinitioner.
+ Din profil
+ Vi söker dig med minst 5 års relevant arbetslivserfarenhet och förmåga att självständigt förvalta och utveckla BI-lösningar. Du har en relevant högskoleutbildning inom exempelvis dataanalys, datavetenskap, teknik, statistik, ekonomi eller motsvarande erfarenhet.
+För att lyckas i rollen ser vi att du har:
+ Mer än 5 års erfarenhet inom Business Intelligence, Analytics Engineering, Data Engineering, eller liknande.
+ Djup kompetens i Qlik Sense och Power BI samt SQL.
+ Förmåga att förstå affärsprocesser och översätta dem till datadrivna lösningar.
+ Erfarenhet av att självständigt utveckla datamodeller i Qlik och semantiska modeller i Microsoft Fabric, med fokus på datakvalitet och enhetliga verksamhetsdefinitioner.
+ Erfarenhet av att utveckla KPIer eller metrics för verksamhetsstyrning
+ God förmåga att uttrycka dig på svenska och engelska i tal och skrift.
+ Nyfikenhet på hur AI och nya tekniker kan göra analys ännu mer värdeskapande.
+ Det är meriterande om du har erfarenhet av:
+ Stora och komplexa organisationer inom tillverkningsindustrin.
+ ERP-, MES- eller PLM-system, exempelvis IFS, FactoryLogix eller Teamcenter. 
+ Programmering i Python
+ Som person är du nyfiken, lärandeorienterad och motiveras av att utvecklas tillsammans med andra. Du är strukturerad och noggrann i ditt arbetssätt, samtidigt som du vågar ta initiativ och identifiera förbättringsmöjligheter. Vi tror också att du är en lagspelare som trivs med att samarbeta med både tekniska och verksamhetsnära kollegor och som ser värdet i att göra data tillgänglig och användbar för andra.
+Befattningen kräver att du genomgår och godkänns enligt vid var tid gällande bestämmelser för säkerhetsskydd. För befattningar där Saab har krav på säkerhetsklassinplacering kan, i förekommande fall, medföra krav på visst medborgarskap.
+ Vad du blir en del av
+ Upptäck oändliga möjligheter. Anta utmaningar, skapa smarta innovationer och uppgradera dina förmågor. Det här är en plats för kluriga tänkare, modiga pionjärer och alla däremellan. Tillsammans uppnår vi det extraordinära, var och en tar med sitt unika perspektiv. Varje bidrag räknas.
+Saab är ett ledande försvars- och säkerhetsföretag med syfte att hjälpa nationer att skydda sin befolkning och bidra till trygghet för människor och samhällen. Med 28 000 talangfulla medarbetare utvecklar Saab teknik och lösningar för en säkrare och mer hållbar värld.
+Saab utvecklar, tillverkar och underhåller avancerade system inom flygteknik, vapen, ledningssystem, sensorer och undervattenssystem. Saab har sitt huvudkontor i Sverige men en global verksamhet där Saab är en del av många nationers försvarsförmåga. Läs mer om oss här.

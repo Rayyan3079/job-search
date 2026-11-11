@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4488865191
+TITLE: Werkstudent Data Management (m/w/d)
+COMPANY: JOYNEXT
+LOC: Dresden, Saxony, Germany
+POSTED: 2026-11-09
+title: Werkstudent Data Management (m/w/d)
+company: JOYNEXT
+posted: 1 day ago
+applicants: 30 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-data-management-m-w-d-at-joynext-4488865191&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Für unseren Standort Dresden suchen wir DICH zur Verstärkung unseres Teams in Teilzeit
+ Werkstudent Data Management (m/w/d) Das Erwartet Dich
+ Du erstellst und pflegst Konfigurationsdaten für unsere Produktionsprozesse im Rahmen von ECNs. 
+ In enger Zusammenarbeit mit unseren Ingenieuren wirkst du bei der Entwicklung eines modularen SW-Frameworks für End-Of-Line-Tests (EOL) in unseren Fertigungsprozessen mit. 
+ Darüber hinaus beteiligst Du dich an der Test-Sequenzentwicklung eines kundenspezifischen Projektes sowie der Einrichtung von Prüfständen für das Testen von entwickelten Sequenzen. 
+ Dabei analyisierst Du Prozessdaten, erstellst Fehlerberichte, führst Fehlernachtests durch und trägst zur kontinuierlichen Verbesserung der Sequenzen bei. 
+ Das bringst Du mit: 
+ Du bist immatrikulierter Student (m/w/d) einer technischen Fachrichtung und hast Interesse an Datenanalysen sowie technischen Zusammenhängen. 
+ Idealerweise verfügst Du bereits über erste Kenntnisse in den Bereichen Testtechniken und Teststrategien. 
+ Erste Erfahrungen mit Entwicklungsumgebungen wie Visual Studio sowie Programmiersprachen wie C# oder C++ sind von Vorteil. 
+ Grundkenntnisse in Skriptsprachen wie Python oder Bash sind wünschenswert; fehlende Kenntnisse kannst Du bei uns gezielt ausbauen. 
+ Du bist bereit, Deine Tätigkeit überwiegend vor Ort an unserem Standort in Dresden auszuüben. 
+ Wir Bieten Dir
+ Attraktive Vergütung und die Möglichkeit, vielfältige Praxiserfahrungen in spannenden Automotive-Projekten zu sammeln. 
+ Befristeter Arbeitsvertrag, flexible Arbeitszeiten und 30 Tage Erholungsurlaub bezogen auf eine Vollzeitstelle. 
+ Interne und externe Angebote zur beruflichen oder privaten Weiterbildung. 
+ Firmenevents (u.a. Sommerfest mit Familie), Weihnachtsfeier und Teamevents. 
+ Unternehmenseigener Shuttle Bus zur besseren Erreichbarkeit des Arbeitsplatzes. 
+ Bezuschusste Mittagsversorgung im eigenen Restaurant bestehend aus verschiedenen Hauptgerichten, Getränken und Nachspeise. 
+ Möglichkeit einer praxisnahen Abschlussarbeit. 
+ DEINE BEWERBUNG 
+ Nutze die Chance bei JOYNEXT und bewerbe Dich mit vollständigen Unterlagen über unser Bewerberportal.
+ DEINE PERSPEKTIVE 
+ Du bringst dein Fachwissen gern praktisch ein? Dann bist du bei JOYNEXT genau richtig. Wir bieten Dir spannende Herausforderungen rund um unsere innovativen technischen Produkte, eine leistungsgerechte Vergütung sowie attraktive Sozialleistungen und individuelle Weiterbildungsmöglichkeiten.
+Bei uns stimmt nicht nur die Technik – wir bieten Dir auch ein kollegiales Betriebsklima in einem internationalen Umfeld – beste Karriereaussichten inklusive.
+ DEIN ANSPRECHPARTNER 
+ Tel. 0351 453 55 6700
+JOYNEXT GmbH
+Gewerbepark Merbitz 5
+D-01156 Dresden
+ jobs.joynext.com 
+ Job-ID: 3318

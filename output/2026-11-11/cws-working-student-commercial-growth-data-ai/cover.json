@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Working Student Commercial Growth & Performance – Strategy, Transformation, Data Analytics & AI",
+    "company": "CWS Hygiene International",
+    "city": "Dreieich",
+    "greeting": "Dear CWS Commercial Growth & Performance team,",
+    "opening": "I am applying for the Working Student position in Commercial Growth & Performance. Structuring business problems, analysing data and presenting clear recommendations is what I did as a Business Analyst, and I use ChatGPT and Claude daily to work faster.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence. I worked as a Business Analyst at Tapal Tea and in SAP data and analytics consulting at TallyMarks Consulting, where I also presented to a client.",
+    "achievements": [
+      {
+        "lead": "Analysis to recommendation",
+        "impact": "I translated business requirements into KPI reporting in SAP Analytics Cloud and documented sources and calculations for every dashboard I built"
+      },
+      {
+        "lead": "Consulting",
+        "impact": "I prepared and presented an SAP Analytics Cloud presentation to a client, who subsequently purchased it"
+      },
+      {
+        "lead": "Working with AI",
+        "impact": "I use ChatGPT and Claude daily and built DocuMind, an AI application with the Claude API, evaluated on a 22-question test set"
+      }
+    ],
+    "problems_section": "I would analyse customer and revenue data, help build segments and pricing analyses in Excel and Python, and prepare clear slides for management. My business background is from analytics rather than a business degree, and my Power BI is basic, so I would learn the strategy side from your former consultants.",
+    "closing": "I am willing to relocate to the Frankfurt area and can work up to 20 hours per week, starting immediately. I would be glad to discuss the role.",
+    "date": "2026-11-11",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-11-11/cws-working-student-commercial-growth-data-ai/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

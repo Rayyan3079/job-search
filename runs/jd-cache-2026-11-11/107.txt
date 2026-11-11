@@ -1,0 +1,39 @@
+URL: https://www.linkedin.com/jobs/view/4487928666
+TITLE: Werkstudent (w/m/d) im Bereich Software-/KI-Entwicklung für Business Applikationen
+COMPANY: Siemens
+LOC: Leipzig, Saxony, Germany
+POSTED: 2026-11-09
+title: Werkstudent (w/m/d) im Bereich Software-/KI-Entwicklung für Business Applikationen
+company: Siemens
+posted: 1 day ago
+applicants: 32 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-w-m-d-im-bereich-software-ki-entwicklung-f%25C3%25BCr-business-applikationen-at-siemens-4487928666&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Art der Anstellung: Befristet / max. 20 Stunden/Woche
+Starte deine Karriere bei Siemens als Werkstudent im Bereich Software- und KI-Entwicklung für Business Applikationen in Leipzig und bringe mit uns innovative KI-Lösungen in die Praxis! Entwickle smarte Tools, sichere die Qualität unserer KI-Agenten und arbeite in einem motivierten Team an der Zukunft der Industrie.
+Werde Teil unseres Working Student Network – einer Community, die dir Austausch, Unterstützung und wertvolle Kontakte bei Siemens bietet.
+ Verändere die Welt von morgen:
+ Du unterstützt bei der Entwicklung und Dokumentation von Funktionen, mit denen KI-Agenten auf interne Datenbanken und Fertigungssysteme zugreifen können
+ Anschließend implementierst du MCP-Server (Model Context Protocol), um Daten und Workflows standardisiert für KI-Modelle bereitzustellen
+ Darauf aufbauend erstellst du Testfälle und Benchmarks, um die Antwortqualität, Zuverlässigkeit und Ausführungsgenauigkeit der Agenten systematisch zu überprüfen
+ Im Team nutzt du Git und GitLab für Versionsverwaltung, Code-Reviews und die Dokumentation, um einen reibungslosen Entwicklungsprozess sicherzustellen
+ Du studierst derzeit erfolgreich (Wirtschafts-)Informatik, Software Engineering oder einen vergleichbaren technischen Studiengang an einer deutschen Hochschule
+ So überzeugst du uns:
+ Ausbildung: Du studierst derzeit erfolgreich (Wirtschafts-)Informatik, Software Engineering oder einen vergleichbaren technischen Studiengang an einer deutschen Hochschule
+ Erfahrungen und Kenntnisse:
+ Grundlegendes Verständnis von REST-APIs und Datenaustauschformaten wie JSON
+ Gute Programmierkenntnisse in Python oder TypeScript sowie sicherer Umgang mit Versionsverwaltungssystemen wie Git
+ Erste praktische Berührungspunkte mit LLM-APIs, Function Calling oder dem Model Context Protocol (MCP) sind von Vorteil
+ Arbeitsweise: Du arbeitest strukturiert und analytisch und bringst eine hohe Eigenmotivation mit
+ Sprachkenntnisse: Fließende Deutschkenntnisse und gute Englischkenntnisse
+ Du bist viel mehr als deine Qualifikationen und wir glauben an das Potential jeder einzelnen Person. Wir freuen uns darauf, dich kennenzulernen!
+Bei Siemens sind wir überzeugt: Wer sich wertgeschätzt und zugehörig fühlt, kann das eigene Potenzial voll entwickeln. Deshalb schaffen wir ein inklusives Arbeitsumfeld, in dem jede Person ein Gefühl der Zugehörigkeit erfährt und in dem individuelle Perspektiven und Erfahrungen geschätzt werden. Unser Engagement für Fairness und Respekt gilt für alle Bewerbenden.
+Wir legen Wert auf Chancengleichheit und freuen uns über Bewerbungen von Menschen mit unterschiedlichen Hintergründen, ausdrücklich auch von Menschen mit Behinderung.
+ Über Uns
+ Bist du bereit, die Energiewende voranzutreiben?
+Unsere Mission ist es, innovative und nachhaltige Lösungen zu entwickeln, die sowohl Energieeinsparungen ermöglichen als auch den CO₂-Fußabdruck von Gebäuden und Infrastrukturen reduzieren. Deshalb setzen wir bei Siemens im Bereich Smart Infrastructure Electrification & Automation alles daran, eine grünere Zukunft zu gestalten und unsere Lebens- und Arbeitsweise zu revolutionieren.
+Mehr Informationen zum Bereich und den Produkten findest du hier: https://www.siemens.com/de/de/unternehmen/themenfelder/smart-infrastructure.html
+www.siemens.de/karriere – wenn du mehr Informationen zu Jobs & Karriere bei Siemens erhalten möchtest.
+FAQ – wenn du eine Frage zum Thema Bewerbung bei Siemens hast.
+Wenn du darüber hinaus noch Fragen hast, wende dich gerne an uns: www.siemens.de/fragenzurbewerbung 
+#sagworkingstudent

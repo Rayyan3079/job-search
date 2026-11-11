@@ -1,0 +1,11 @@
+URL: https://www.xing.com/jobs/basel-werkstudent-vertriebsdaten-reporting-159094827
+TITLE: Werkstudent (w/m/d) Vertriebsdaten Reporting
+COMPANY: Helvetia Versicherungen Schweiz
+LOC: Basel
+POSTED: 2026-11-09
+title: Werkstudent (w/m/d) Vertriebsdaten Reporting
+company: Helvetia Versicherungen Schweiz
+posted: 2026-11-09T19:44:16Z
+location: Basel | remote: 
+---
+Was du bewirkst Du arbeitest in den Clustern Datengrundlage sowie Vertriebsanalyse & Reporting mit. Dort führst du Vertriebs- und Kundendaten aus der Welt von Helvetia und Baloise zu einer gemeinsamen Datengrundlage zusammen. Du entwickelst und automatisierst Datenaufbereitungen mit SQL und R oder Python auf unserer Data-Science-Plattform und stellst so verlässliche Datenprodukte für den Vertrieb bereit. Du prüfst und überwachst die Datenqualität, analysierst Abweichungen und dokumentierst Tabellen und Logiken nachvollziehbar. Du erstellst und pflegst Reports und Dashboards zu Absatz, Potenzialen und Zielerreichung. Damit machst du die Leistung des Vertriebs messbar. Du unterstützt Ad-hoc-Analysen für Generalagenturen, Marktregionen und das Vertriebsmanagement. Du erkennst Optimierungspotenziale und setzt innovative Ideen zur Automatisierung und zum Einsatz von KI-Tools um. Was du mitbringst Du studierst Wirtschaftsinformatik, Data Science, Statistik, Mathematik, Informatik oder Volkswirtschaft mit quantitativem Schwerpunkt im Master und hast noch mindestens 2 Semester vor dir. Du hast erste Erfahrung mit SQL und R oder Python. Kenntnisse in Shiny oder Git und Umgang mit KI-Coding-Agenten wie Codex oder Claude Code sind ein Plus. Du denkst analytisch, arbeitest sorgfältig und strukturiert und gehst Datenproblemen gerne auf den Grund. Du zeichnest dich durch Eigeninitiative, Verlässlichkeit und Lernbereitschaft aus. Du kommunizierst klar und arbeitest gerne im Team und mit verschiedenen internen Stakeholdern zusammen. Du verfügst über sehr gute Deutschkenntnisse. Was wir bieten Mitarbeiterrestaurant Personalrestaurants an unseren Hauptstandorten Arbeitsweg Gute ÖV-Anbindung und Förderung Gesundheitsförderung Grosses Angebot zur Gesundheitsförderung Aus- und Weiterbildung Attraktive Aus- und Weiterbildungsmöglichkeiten für deine persönliche Entwicklung

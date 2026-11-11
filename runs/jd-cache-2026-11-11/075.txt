@@ -1,0 +1,23 @@
+URL: https://www.linkedin.com/jobs/view/4488845492
+TITLE: Praktikum / Werkstudententätigkeit (m/w/d) – Finance Data Analytics & Industrial Controlling
+COMPANY: Christian Dior Couture
+LOC: Pforzheim, Baden-Württemberg, Germany
+POSTED: 2026-11-09
+title: Praktikum / Werkstudententätigkeit (m/w/d) – Finance Data Analytics & Industrial Controlling
+company: Christian Dior Couture
+posted: 1 day ago
+applicants: 59 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikum-werkstudentent%25C3%25A4tigkeit-m-w-d-%25E2%2580%2593-finance-data-analytics-industrial-controlling-at-christian-dior-couture-4488845492&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Position
+ Unterstützung des Controllings bei Kosten-, Bestands- und der Abweichungsanalysen sowie der Weiterentwicklung von Produktions-KPI
+ Unterstützung des Accountings bei Monatsabschlüssen, Kontenabstimmungen und der Analyse von Buchungs- und Bestandsdaten
+ Weiterentwicklung und Automatisierung von Reports und Dashboards
+ Aufbereitung, Verknüpfung und Qualitätssicherung von Daten aus SAP und weiteren Datenquellen
+ Mitarbeit an Digitalisierungs- und Automatisierungsprojekten zur Optimierung von Finance-Prozessen
+ Profil
+ Studium der Wirtschaftsinformatik, Data Science, BWL mit Schwerpunkt Controlling, Accounting oder Business Analytics oder einer vergleichbaren Fachrichtung
+ Sehr gute Excel-Kenntnisse sowie erste Erfahrung mit Power BI und Power Query von Vorteil
+ Kenntnisse in SQL, Python oder Datenmodellierung von Vorteil
+ Analytisches Denkvermögen, technisches Interesse und Freude an datengetriebenen Lösungen
+ Selbstständige, strukturierte und lösungsorientierte Arbeitsweise

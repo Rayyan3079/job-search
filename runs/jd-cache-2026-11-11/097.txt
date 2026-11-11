@@ -1,0 +1,41 @@
+URL: https://www.linkedin.com/jobs/view/4487870244
+TITLE: Werkstudent – Energiehandel &amp; Data Science (m/w/d)
+COMPANY: Jobs-im-Allgäu.de
+LOC: Kempten, Bavaria, Germany
+POSTED: 2026-11-11
+title: Werkstudent – Energiehandel &amp; Data Science (m/w/d)
+company: Jobs-im-Allgäu.de
+posted: 5 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-%25E2%2580%2593-energiehandel-amp-data-science-m-w-d-at-jobs-im-allg%25C3%25A4u-de-4487870244&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Wir suchen dich als Werkstudent (m/w/d) für unser Team Energiehandel in den Bereichen Energiehandel und Data Science.
+An der Schnittstelle zwischen Daten, Energiehandel und Produktentwicklung unterstützt du dabei, Informationen aus unterschiedlichen Quellen aufzubereiten und nutzbar zu machen. Du hilfst, Prozesse zu automatisieren und damit die Grundlage für Analysen und neue Produkte zu schaffen. Gleichzeitig erhältst du Einblicke in den Energiehandel und kannst dein Wissen in den Bereichen Daten, Automatisierung und Analytik gezielt vertiefen und praktisch anwenden.
+ Beginn: ab sofort / nach Vereinbarung
+ Arbeitsort: 87435 Kempten
+ Umfang: bis zu 20 Stunden pro Woche
+ Dauer: nach Abstimmung (langfristig)
+ Perspektivisch bei entsprechenden Leistungen Option auf Abschlussarbeit oder längerfristige Zusammenarbeit
+ Aufgaben
+ Anbindung und Verarbeitung externer Datenquellen (z. B. APIs, Markt-, Wetter- und Energiedaten)
+ Unterstützung beim Aufbau und der Weiterentwicklung von Python-basierten Datenpipelines
+ Automatisierung von Auswertungen und wiederkehrenden Prozessen
+ Verarbeitung, Strukturierung und Analyse von Energiedaten und Kennzahlen im Energiehandel
+ Aufbereitung von Ergebnissen für Produkt- und Fachentscheidungen
+ Benefits
+ Ein interessantes Aufgabengebiet mit viel Eigenverantwortung
+ Flexible Arbeitszeiten und Berücksichtigung von Prüfungsterminen etc.
+ Möglichkeit zum mobilen Arbeiten (nach Absprache)
+ Flache Hierarchien und ein teamorientiertes Arbeitsumfeld
+ Qualifikation
+ Laufendes Studium in Informatik, Wirtschaftsinformatik, Data Science, Ingenieurwissenschaften, Energiewirtschaft oder vergleichbar
+ Erste Erfahrung in Python sowie im Umgang mit Daten und Datenbanken
+ Interesse an Automatisierung, Datenverarbeitung und datengetriebenen Analysen
+ Selbstständige, strukturierte und zuverlässige Arbeitsweise
+ Offenheit, Eigeninitiative und Freude daran, eigene Ideen einzubringen
+ Interessiert? Fragen?
+Wir sind gerne für dich da und freuen uns auf deine Bewerbung!
+ Ansprechpartner
+ Sebastian Schnur
+Leiter Energiehandel
+Tel 0831 2521-481

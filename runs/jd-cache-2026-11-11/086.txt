@@ -1,0 +1,40 @@
+URL: https://www.linkedin.com/jobs/view/4487496724
+TITLE: Werkstudent:in BI & Analytik (m/w/d)
+COMPANY: EDEKA IT
+LOC: Mannheim, Baden-Württemberg, Germany
+POSTED: 2026-11-10
+title: Werkstudent:in BI & Analytik (m/w/d)
+company: EDEKA IT
+posted: 13 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-in-bi-analytik-m-w-d-at-edeka-it-4487496724&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Wir bei der EDEKA IT sind das Herzstück des digitalen Wandels im EDEKA-Verbund. Als leistungsstarkes Team entwickeln wir IT-Strategien, -Infrastrukturen und -Dienstleistungen für alle Handelsbereiche des EDEKA-Verbunds in ganz Deutschland. Wir bündeln unsere Kompetenzen, um innovative Lösungen zu entwickeln und umzusetzen. So treiben wir den Handel von morgen voran - vielleicht schon bald gemeinsam mit dir?
+In deiner Rolle als Werkstudent:in BI & Analytik (m/w/d) am Standort Mannheim kannst du bei uns deinen ganz persönlichen Beitrag zu unseren Zielen leisten.
+ Deine Aufgaben
+ Du unterstützt das Team BI & Analytik im Tagesgeschäft und bei operativen SAP-Prozessen. Zu deinen Aufgaben gehören:
+ Support & Anwenderbetreuung: Du bearbeitest Supportanfragen rund um SAP BW on HANA über unser Ticketsystem und unterstützt Anwender:innen bei der Lösung ihrer Anliegen.
+ Analyse & Fehlerbehebung: Du untersuchst technische und fachliche Problemstellungen, führst Fehleranalysen durch und wirkst bei der Entwicklung geeigneter Lösungsansätze mit.
+ Ticketsteuerung: Du priorisierst und kategorisierst eingehende Tickets und stellst eine fristgerechte Bearbeitung gemäß unseren Service Level Agreements (SLAs) sicher.
+ Release- & Transportprozesse: Du unterstützt bei der Planung, Durchführung und Dokumentation von Releases und Transporten innerhalb unserer SAP-Systemlandschaft.
+ Dein Profil
+ Du bist mindestens noch 1 Jahr eingeschriebene:r Student:in in einem IT-nahen Studiengang (z. B. Wirtschaftsinformatik, Data Science oder vergleichbar).
+ Analytisches Denken: Du kannst komplexe Sachverhalte schnell erfassen, logisch aufbereiten und klar formulieren.
+ Eigenverantwortung & Organisation: Du priorisierst deine Aufgaben selbstständig, behältst den Überblick und erledigst deine Arbeit gewissenhaft.
+ Kommunikationsstärke & Teamgeist: Du bist kontaktfreudig, gehst offen auf verschiedene Ansprechpartner:innen zu und arbeitest gerne im Team.
+ Unser Angebot
+ Work-Life-Balance: Profitiere von bis zu 30 Tagen Urlaub, flexiblen Arbeitszeiten (bis zu 20h wöchentlich) und der Möglichkeit zum mobilen Arbeiten.
+ Einfluss: Du gestaltest die IT des größten Lebensmitteleinzelhändlers in Deutschland.
+ Finanzieller Anreiz & weitere Angebote: Freue dich über eine attraktive Vergütung, Zuschuss zum ÖPNV-Ticket und weitere Vergünstigungen.
+ Gesamtheitliche Entwicklung (fachlich & persönlich): Dich erwarten bei uns verschiedene Weiterbildungsangebote wie z. B. digitale Lernplattformen.
+ Betriebliches Gesundheitsmanagement: Unser Gesundheitsmanagement kümmert sich um deine Gesundheit am Arbeitsplatz.
+ Kultur & Zusammenarbeit: Wir ermöglichen dir einen optimalen Start in unserem Unternehmen und legen viel Wert auf ein gutes Onboarding, damit du direkt durchstarten und durch unsere verschiedenen Communities, Netzwerke und Events von Anfang an mitgestalten kannst.
+ Bist Du interessiert?
+ Dann freuen wir uns auf deine Online-Bewerbung mit vollständigen Bewerbungsunterlagen (aussagekräftiges Anschreiben, Lebenslauf, ggf. Arbeitsproben, relevante Abschluss- und Arbeitszeugnisse, Immatrikulationsbescheinigung) unter Angabe des möglichen Eintrittstermins und der gewünschten Vergütung pro Stunde. Wir freuen uns darauf, dich kennenzulernen!
+Willkommen sind bei uns alle Menschen – unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Behinderung, Religion, Alter sowie sexueller Orientierung.
+ Kontakt
+ EDEKA IT Stiftung & Co. OHG
+Bewerbungsmanagement
+New-York-Ring 6
+22297 Hamburg
+Weitere Informationen zu den Einstiegsmöglichkeiten sowie zur Karriere bei EDEKA IT für Schüler:innen und Studierende findest du hier: https://it.edeka/schuelerinnen/ bzw. hier: https://it.edeka/studierende/

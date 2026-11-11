@@ -1,0 +1,60 @@
+URL: https://www.linkedin.com/jobs/view/4487853990
+TITLE: Praktikant für Generative AI/Agentic AI (d/m/w)
+COMPANY: Airbus Defence and Space
+LOC: Ulm, Baden-Württemberg, Germany
+POSTED: 2026-11-11
+title: Praktikant für Generative AI/Agentic AI (d/m/w)
+company: Airbus Defence and Space
+posted: 5 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikant-f%25C3%25BCr-generative-ai-agentic-ai-d-m-w-at-airbus-defence-and-space-4487853990&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Description:
+ Zur Unterstützung der Entwicklung im Bereich „Engineering Defence Digital” in Ulm sucht Airbus Defence and Space einen
+ Praktikanten (d/m/w) für Generative AI und Agentic AI 
+ Wir suchen einen engagierten Praktikanten (d/m/w), der Teil unseres Engineering-Teams wird und dabei unterstützt, die Infrastruktur zu bauen, die unsere KI-Agenten für automatisierte Tests validiert und steuert. Du wirst nicht nur Code schreiben, sondern aktiv mitgestalten, wie wir „AI Agents“ bewerten und in sichere Produktionsumgebungen integrieren!
+ Standort: Ulm
+ Start: ab Januar
+ Dauer: 6 Monate
+ Dein Standort
+ Zwischen Stuttgart und München gelegen, ist Ulm eine Stadt, die ein breites Spektrum an Freizeit- und Kulturangeboten bietet. Hier kannst du die Lebensqualität unter dem höchsten Kirchturm der Welt genießen und Teil einer Stadt sein, die sowohl ihre historischen Sehenswürdigkeiten bewahrt, als auch die Zukunft entlang der Donau aktiv gestaltet.
+ Deine Vorteile
+ Attraktive Vergütung und ausgeglichene Work-Life-Balance
+ Eine Abschlussarbeit ist im Anschluss nach Rücksprache mit dem Fachbereich möglich
+ Mobiles Arbeiten nach Absprache mit dem Fachbereich
+ Reisen innerhalb Deutschlands (Teamevents) sind nach Rücksprache mit dem Fachbereich möglich
+ Internationales Umfeld mit der Möglichkeit, Kontakte in die ganze Welt zu knüpfen
+ Arbeit mit modernen/abwechslungsreichen Technologien
+ Wir bei Airbus sehen dich als vollwertiges Teammitglied und du bist nicht zum Kaffee kochen eingestellt worden, sondern stehst im engen Austausch mit den Schnittstellen und bist Teil unserer wöchentlichen Teamrunden
+ Möglichkeit zur Teilnahme an der Generation Airbus Community zur Erweiterung des eigenen Netzwerks
+ Deine Aufgaben und Verantwortlichkeiten
+ Entwicklung und Implementierung: Unterstützung bei Design, Coding und Testing von GenAI-Services, Chatbots und KI-Agenten unter Verwendung moderner Frameworks. Du lernst die typischen Entwicklungsabläufe kennen und übernimmst erste Coding-Aufgaben
+ On-Premise Betrieb & Hosting: Einblick in Deployment und Wartung von LLM-Infrastrukturen in unserer sicheren On-Premise-Umgebung (Docker/Kubernetes). Du begleitest die Bereitstellung von Services und lernst Performance-Optimierung sowie Ressourcenmanagement in der Praxis kennen
+ Sicherheit & Compliance: Verständnis für die strengen Sicherheitsrichtlinien von Airbus Defence and Space entwickeln und sich diese bei allen Aufgaben aneignen. Unterstützung bei der Umsetzung sicherheitskonformer Entwicklungsprozesse
+ RAG & MCP: Mitarbeit bei der Entwicklung und Optimierung von RAG-Pipelines zur Anbindung interner Wissensdatenbanken sowie bei der Implementierung von MCP-Tools für standardisierte, sichere Schnittstellen zwischen KI-Modellen und internen Tools/Datenquellen
+ Technischer Support & Enablement: Unterstützung bei internen Nutzeranfragen und Fehleranalyse (Troubleshooting). Mithilfe bei der Erstellung technischer Dokumentationen und Best Practices - und damit schnelles Lernen aus realen Einsatzszenarien
+ Roadmap & PoCs: Mitarbeit an Proof-of-Concepts (PoCs) für neue KI-Use-Cases und damit aktiver Beitrag zur technischen Roadmap des Teams. Hier kannst du eigene Ideen einbringen und erste praktische Erfahrungen mit neuen Technologien sammeln
+ Erforderliche Kenntnisse und Qualifikationen
+ eingeschriebener Vollzeitstudent (d/m/w) im Bereich Angewandte Mathematik, Künstliche Intelligenz, Informatik oder vergleichbar
+ Background in Deep Learning und Data Science
+ Erfahrung mit Python, PyTest und generativen KI-Tools
+ Interesse an GenAI, Large Language Models, RAG und autonomen Agenten
+ Grundlegende Kenntnisse in Docker/Kubernetes sowie Git
+ Selbständige und strukturierte Arbeitsweise sowie Teamfähigkeit
+ Hohe Lernbereitschaft und Neugier auf neue Technologien
+ Gute Deutsch- und Englischkenntnisse
+ Bitte lade folgende Unterlagen hoch: Anschreiben, Lebenslauf, relevante Zeugnisse, Immatrikulationsbescheinigung.
+ Diese Tätigkeit erfordert ein Bewusstsein für mögliche Compliance-Risiken und integres Verhalten. Beide Punkte sind Grundvoraussetzungen für den Erfolg, den guten Ruf und das nachhaltige Wachstum des Unternehmens.
+This job requires an awareness of any potential compliance risks and a commitment to act with integrity, as the foundation for the Company’s success, reputation and sustainable growth.
+ Company:
+ Airbus Defence and Space GmbH
+ Employment Type:
+ Internship
+ Experience Level:
+ Student
+ Job Family:
+ Support to Management
+By submitting your CV or application you are consenting to Airbus using and storing information about you for monitoring purposes relating to your application or future employment. This information will only be used by Airbus.
+Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief.
+Airbus is, and always has been, committed to equal opportunities for all. As such, we will never ask for any type of monetary exchange in the frame of a recruitment process. Any impersonation of Airbus to do so should be reported to emsom@airbus.com .
+At Airbus, we support you to work, connect and collaborate more easily and flexibly. Wherever possible, we foster flexible working arrangements to stimulate innovative thinking. #YESPOST

@@ -1,0 +1,38 @@
+URL: https://www.linkedin.com/jobs/view/4489462441
+TITLE: Werkstudent*in – Fullstack Softwareentwicklung (m/w/d)
+COMPANY: CONTACT Software
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-11-10
+title: Werkstudent*in – Fullstack Softwareentwicklung (m/w/d)
+company: CONTACT Software
+posted: 15 hours ago
+applicants: 27 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-in-%25E2%2580%2593-fullstack-softwareentwicklung-m-w-d-at-contact-software-4489462441&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Sie haben bereits erste Erfahrungen in der Softwareentwicklung sammeln können und möchten Ihre Fähigkeiten anhand spannender Projekte und dem Einsatz moderner Technologien neben Ihrem Studium vertiefen? Sie möchten Ihr Wissen in der Fullstack-Entwicklung entweder mit Schwerpunkt auf das Frontend oder das Backend erweitern? Dann werden Sie als Werkstudent*in mit durchschnittlich mindestens 15 Stunden pro Woche ein Teil unseres erfahrenen Software-Teams! Wir sind führender Anbieter offener und modularer Softwarelösungen für die kollaborative Produktentwicklung, das durchgängige Projektmanagement und die digitale Transformation. Seien Sie dabei, wenn wir mit unseren innovativen Technologien und zukunftsweisenden Beratungsleistungen die Welt rund um Industrie 4.0 gestalten und das Internet der Dinge (IoT) erlebbar machen.
+ Ihre Aufgaben
+ Stufenweise Heranführung an die Weiterentwicklung unserer CONTACT Elements Plattform oder unserer fachspezifischen Web-Anwendungen für anspruchsvolle Enterprise-Systemlösungen in den Bereichen PLM, ERP, Projektmanagement oder Industrial IoT  
+ Mitarbeit in spannenden Software-Projekten in kleinen, interdisziplinären Teams unter Einsatz agiler Entwicklungsmethoden und State-of-the-art-Technologien   
+ Umsetzung kreativer und pragmatischer Lösungskonzepte, auch unter Verwendung von Open-Source-Komponenten; wir freuen uns über die aktive Mitarbeit in Open-Source Softwareprojekten
+ Einarbeitung in die Qualitätssicherung durch praktisches Anwenden von CI/CD und DevOps Konzepten, unter anderem durch automatisierte Builds, Codeanalysen, Tests und Deployments 
+ Möglichkeit zur Mitwirkung in allen Phasen der Softwareentwicklung, von der fachlichen und technischen Konzeption, über die Implementierung und Testautomatisierung bis zur Dokumentation und Wartung  
+ Das sollten Sie mitbringen
+ Studium im Fachbereich (Wirtschafts-) Informatik, Digitale Medien oder einem verwandten Studiengang mit ausgewiesener IT-Ausrichtung 
+ Kenntnisse in der Anwendung mindestens einer Programmiersprache, idealerweise Python, vorteilhaft sind Kenntnisse über Datenbanksysteme (Oracle, MS SQL Server, PostgreSQL, SQLite)  
+ Affinität zu modernen Web-Technologien (JavaScript, React, Redux) und zugehörige Entwickler-Tools sowie idealerweise Interesse für die visuelle und textuelle Gestaltung von modernen Webanwendungen  
+ Spaß an kollaborativer Zusammenarbeit in einem motivierten und engagierten Team verbunden mit einer selbständigen, strukturierten und zielorientierten Arbeitsweise,
+ gute deutsche und englische Sprachkenntnisse in Wort und Schrift
+ Unser Angebot
+ spannende Projekte im IT-Umfeld auf Basis der leistungsfähigsten Plattform für PLM, Kollaboration und IoT 
+ Möglichkeit zur Übernahme in Festanstellung nach Ihrem Studienabschluss 
+ ein offenes, hybrides Arbeitsplatz-Modell mit flexiblen Arbeitszeiten entsprechend Ihrer Vorlesungen und der eigenen Wahl, aus welchem unserer Standorte Sie arbeiten 
+ flache Hierarchien innerhalb einer stark wachsenden Organisation mit „Du“-Kultur bis zur Führungsebene 
+ individuelles und professionelles Onboarding zugeschnitten auf Ihre Vorerfahrungen mit Mentoring-Programm und Unterstützung durch Ihre Teamkolleg*innen 
+ Auswahl aus diversen Weiterbildungen aus unserem Schulungskatalog, zur fachlichen und persönlichen Weiterentwicklung 
+ Teilnahme an verschiedenen Sportgruppen, regelmäßigen Team- und Firmen-Events 
+ offene und wertschätzende Unternehmenskultur, in der eigene Ideen nicht nur erlaubt, sondern auch gern gehört werden
+ Angebote zur mentalen Gesundheit
+ attraktive Rabatte durch Zugang zum Corporate-Benefits-Programm
+ frisches Obst und diverse Heiß- und Kaltgetränke an unseren Standorten 
+ Haben wir Sie neugierig gemacht? 
+ Dann sollten wir uns kennenlernen! Bewerben Sie sich jetzt und werden Sie ein wichtiger Teil unserer Erfolgsgeschichte! Wir freuen uns auf Ihre Bewerbung! CONTACT Software GmbH Frau Dana Theil Wiener Str. 1 – 3 28359 Bremen

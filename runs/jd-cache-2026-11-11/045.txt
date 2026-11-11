@@ -1,0 +1,42 @@
+URL: https://www.linkedin.com/jobs/view/4488384298
+TITLE: Engineer 3 - Machine Learning
+COMPANY: Comcast
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-10
+title: Engineer 3 - Machine Learning
+company: Comcast
+posted: 13 hours ago
+applicants: 51 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fin.linkedin.com%2Fjobs%2Fview%2Fengineer-3-machine-learning-at-comcast-4488384298&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Comcast brings together the best in media and technology. We drive innovation to create the world's best entertainment and online experiences. As a Fortune 50 leader, we set the pace in a variety of innovative and fascinating businesses and create career opportunities across a wide range of locations and disciplines. We are at the forefront of change and move at an amazing pace, thanks to our remarkable people, who bring cutting-edge products and services to life for millions of customers every day. If you share in our passion for teamwork, our vision to revolutionize industries and our goal to lead the future in media and technology, we want you to fast-forward your career at Comcast.
+ Job Summary
+ Responsible for developing and deploying machine learning algorithms. Evaluates accuracy and functionality of machine learning algorithms. Translates application requirements into machine learning problem statements. Analyzes and evaluates solutions both internally generated as well as third party supplied. Develops novel ways to use machine learning to solve problems and discover new products. Has in-depth experience, knowledge and skills in own discipline. Usually determines own work priorities. Acts as resource for colleagues with less experience.
+ Job Description
+ Role Overview:
+ We are seeking a Machine Learning Engineer who can independently deliver ML features and own components of production ML systems. This role emphasizes end-to-end ownership, sound technical judgment, and collaboration across teams.
+ Responsibilities
+ Design, build, deploy, and operate machine learning features and services end-to-end.
+ Own ML pipelines and model behavior from experimentation through production monitoring.
+ Solve complex ML and system-level problems independently.
+ Participate in technical design discussions and influence implementation decisions.
+ Improve performance, reliability, scalability, and cost efficiency of ML systems.
+ Collaborate with cross-functional partners to translate product requirements into ML solutions.
+ Design, build, and own LLM-based features, including prompt strategies, evaluation pipelines, chatbots, or agent workflows.
+ Select and apply LLM frameworks (e.g., LangChain, LlamaIndex) and agent frameworks (e.g., OpenAI SDK, ADK, Autogen) based on use-case requirements and tradeoffs.
+ Qualifications
+ Strong foundations in data structures, algorithms, and statistics.
+ Experience building, deploying, and operating production ML systems.
+ Proficiency in at least one ML or deep learning framework.
+ Ability to translate ambiguous requirements into concrete technical solutions.
+ Strong communication and collaboration skills.
+ Disclaimer
+ This information has been designed to indicate the general nature and level of work performed by employees in this role. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities and qualifications.
+ #CIECTN25
+ Comcast is an equal opportunity workplace. We will consider all qualified applicants for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability, veteran status, genetic information, or any other basis protected by applicable law.
+Base pay is one part of the Total Rewards that Comcast provides to compensate and recognize employees for their work. Most sales positions are eligible for a Commission under the terms of an applicable plan, while most non-sales positions are eligible for a Bonus. Additionally, Comcast provides best-in-class Benefits to eligible employees. We believe that benefits should connect you to the support you need when it matters most, and should help you care for those who matter most. That’s why we provide an array of options, expert guidance and always-on tools, that are personalized to meet the needs of your reality - to help support you physically, financially and emotionally through the big milestones and in your everyday life. Please visit the compensation and benefits summary on our careers site for more details.
+ Education
+ Bachelor's Degree
+While possessing the stated degree is preferred, Comcast also may consider applicants who hold some combination of coursework and experience, or who have extensive related professional experience.
+ Relevant Work Experience
+ 5-7 Years

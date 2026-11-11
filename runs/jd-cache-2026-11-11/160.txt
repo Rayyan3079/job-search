@@ -1,0 +1,41 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-in-Software-Engineering-Kuenstliche-Intelligenz-KI-m-w-d-Karlsruhe-anacision-GmbH--14738334-inline.html
+TITLE: Werkstudent:in Software Engineering & Künstliche Intelligenz (KI) (m/w/d)
+COMPANY: anacision GmbH
+LOC: Karlsruhe
+POSTED: stepstone
+title: Werkstudent:in Software Engineering & Künstliche Intelligenz (KI) (m/w/d)
+company: anacision GmbH
+posted: 2026-11-10T12:17:13.617Z
+location: Karlsruhe | remote: 
+---
+Einleitung
+ Wir bei anacision lieben und leben Daten! Wir sind überzeugt, dass künstliche Intelligenz uns dabei hilft, die immer komplexer werdenden schwierige Situationen unserer Zeit zu meistern.  
+Um dies zu erreichen, begleiten wir unsere Kunden aus der öffentlichen Verwaltung in Beratungsprojekten von der Ideenfindung bis zur Einführung einer KI-Lösung. Gemeinsam konzipieren wir individuelle KI-Lösungen und implementieren diese. Darüber hinaus unterstützen wir bei der technischen Operationalisierung und der fachlichen Integration in bestehende Unternehmensprozesse. 
+Die anacision ist jung, vielseitig und dynamisch. Als stark wachsendes und innovatives Unternehmen bringen wir frischen Wind in den etablierten Beratungsmarkt. Dabei hilft es uns, dass wir sowohl fachlich als auch persönlich unterschiedliche Hintergründe haben. Vielfältige Stimmen werden nicht nur gehört, sondern sind erwünscht. Diese unterschiedlichen Perspektiven, kombiniert mit der gemeinsamen Begeisterung für Daten, machen unser Team aus. 
+Zur Unterstützung unseres weiteren Wachstums suchen wir Mitarbeiter:innen mit flexibler Wahl des Arbeitsortes in Deutschland. Wir leben eine „Remote First“-Policy, bieten aber auch die Möglichkeit in unserem Büro am Standort Karlsruhe zu arbeiten. Wir pflegen den persönlichen Kontakt in unseren regelmäßigen Teamtagen und Off-Sites intensiv und bieten monatliche Termine für den persönlichen Austausch und Soziales.  
+ Deine Aufgaben
+  Als Werkstudent:in   Software Engineering  & Künstliche Intelligenz (KI)   (m/w/d) bist du Teil eines dynamischen Teams und verantwortest vielseitige Aufgaben für unsere Kundenprojekte.
+Deine Aufgaben umfassen unter anderem:
+ Unterstützung unserer KI-Projektteams bei Implementierungsaufgaben und bei der Konzeption innovativer Softwarekomponenten in Python
+ Unterstützung bei der Überführung von KI-Lösungen in den produktiven Betrieb, z.B. Setup in Kubernetes, CI/CD-Pipelines, Erstellen von Tests, Daten-Validierungen und Dokumentation
+ Aufbereitung von Datensätzen und anschließende Analysen
+ Dein Profil
+ Laufendes Studium im MINT-Bereich oder in einem vergleichbaren Studiengang
+ Interesse an der Analyse großer Datenmengen sowie idealerweise Kenntnisse über Data Science Grundlagen (Statistik, Machine Learning, Optimierung, genAI)
+ Python-Kenntnisse sowie idealerweise Grundkenntnisse im Software-Engineering
+ Strukturierte und sorgfältige Arbeitsweise sowie Freude daran, Herausforderungen im Bereich Software und KI anzugehen
+ Selbstständigkeit, Teamgeist sowie eine hohe Motivation und Lernbereitschaft
+ Gute Deutsch- und Englischkenntnisse (B2 oder besser)
+ Wir bieten
+ Spannende und aktuelle Themen mit direktem Bezug zur Praxis
+ Profitiere von unserer Start-up Atmosphäre: Ein lockeres, freundliches und offenes Arbeitsumfeld, in dem du etwas bewegen kannst
+ Nutze die flexiblen Arbeitszeiten und -orte für deine Study-Life-Balance
+ Entwickle dich in einem motivierten kompetenten Team mit flachen Hierarchien.
+ Sammle relevante Praxiserfahrung für deinen Einstieg ins Berufsleben
+Klingt nach einer Aufgabe, die dich begeistert? Dann freuen wir uns auf deine Bewerbung! 
+Bitte vergiss nicht die letzten Abschlusszeugnisse (Abitur und ggf. Bachelor) sowie einen aktuellen Notenspiegel hochzuladen.   
+ Weitere Informationen
+ anacision GmbH   
+Roonstraße 23A
+76137 Karlsruhe
+ https://www.anacision.de/

@@ -1,0 +1,41 @@
+URL: https://www.linkedin.com/jobs/view/4489199360
+TITLE: AI Builder Intern (m/f/d)
+COMPANY: inca
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-11-10
+title: AI Builder Intern (m/f/d)
+company: inca
+posted: 1 day ago
+applicants: 100 applicants
+apply_offsite: 
+---
+Rebuild how insurance claims get handled 
+ inca ist ein AI-first TPA für die Schadenbearbeitung und arbeitet mit den größten Versicherern Deutschlands. Wir verkaufen keine Software, die Sachbearbeiter:innen unterstützt. Wir bearbeiten die Schäden selbst, end-to-end, mit Agentic AI und einem kleinen Team aus Expert:innen. Gegründet von drei ehemaligen BCG-Projektleitern und finanziert von Top-VCs, sind wir seit unserer ersten Finanzierungsrunde Anfang 2025 auf über 25 Leute gewachsen, und die Versicherer kommen auf uns zu.
+ About the role 
+ Als AI Builder Intern baust du die Agenten, die die Arbeit machen, und wir gestalten das Praktikum rund um deine Stärken. Du nimmst einen echten Schadenprozess, zerlegst ihn und machst daraus ein KI-System, das produktiv läuft. Keine Spielprojekte: Was du baust, bearbeitet echte Schäden für echte Versicherer. Wenn du mit KI baust, weil du nicht anders kannst, ob mit Claude, Cursor, n8n oder etwas anderem, ist das dein Praktikum.
+ What you will do 
+ Own a real project. Du übernimmst ein echtes Projekt, gern eines, das du uns gezeigt hast, und bringst es vom Prototyp zu etwas, das unser Claims-Team oder unsere Versicherungskunden wirklich nutzen.
+ Build agents for real claims. Du verwandelst unübersichtliche Schadenarbeit in KI-Systeme: unstrukturierte Dokumente auslesen (Rechnungen, Fotos, Kostenvoranschläge, handschriftliche Formulare), Deckung gegen komplexe Versicherungsbedingungen prüfen, Plausibilitäts- und Betrugssignale erkennen, Kundenkommunikation entwerfen.
+ Ship, measure, iterate. Du shippst, misst an echten Schäden und iterierst, bis es trägt, inklusive Evals, die uns zeigen, wann es das nicht tut.
+ Work with the founders. Du arbeitest direkt mit den Gründern und, je nachdem wo dein Projekt liegt, mit Product, Engineering oder Operations.
+ Show us what you've built 
+ Schick uns deinen Lebenslauf und, wenn du hast, Links zu Projekten, die du mit KI gebaut hast. Das kann etwas sein, das inca weiterhelfen würde, oder ein Projekt, das dich einfach gepackt hat. Hauptsache, man sieht, wie du denkst.
+ Ein GitHub-Repo, eine Demo oder ein kurzer Write-up reichen völlig, gern mit ein paar Zeilen dazu, worum es geht. Noch nichts zum Verlinken? Kein Problem, bewirb dich trotzdem.
+ You might be a fit if 
+ Du baust mit KI, statt nur darüber zu reden, und hast schon Dinge geshippt, die funktionieren, auch wenn sie noch roh sind.
+ Du denkst in Wirkung, nicht in Technologie, und kannst ein unübersichtliches Problem in eine klare Lösung zerlegen.
+ Du suchst dir Arbeit, statt auf Aufgaben zu warten, und verantwortest Dinge gern bis zum Ende.
+ Du sprichst mit Engineers genauso gut wie mit Versicherern.
+ Chaos aus der echten Welt schreckt dich nicht ab, denn davon hat die Versicherungsbranche reichlich.
+ Du kommunizierst klar auf Deutsch und Englisch.
+ What we need 
+ Du studierst BWL, Informatik, Ingenieurwesen oder ein anderes quantitatives Fach im fortgeschrittenen Semester oder hast gerade abgeschlossen. Uns interessiert, wie du Probleme löst, nicht dein Studienfach. Außerdem bist du mindestens 6 Monate in Vollzeit verfügbar und hast eine Arbeitserlaubnis für Deutschland.
+ How to apply 
+ Lade deinen Lebenslauf hoch und füge im Bewerbungsformular Links zu deinen Projekten hinzu. Kein Anschreiben nötig.
+ Why inca 
+ Real AI, real responsibility. Du arbeitest vom ersten Tag an agentischen Systemen mit echten Nutzer:innen.
+ Steep learning curve. Du lernst von innen, wie ein VC-finanziertes Startup aufgebaut wird, von der Strategie bis zur Umsetzung.
+ No-bullshit culture. Direktes Feedback, viel Ownership und ein Team, dem es darum geht, Dinge umzusetzen.
+ Founder exposure. Du arbeitest direkt mit dem Leadership-Team.
+ Berlin, hybrid. Büro in Berlin, hybrid-freundlich, regelmäßige Offsites.
+ Wir sind schnell. Wenn du etwas gebaut hast, auf das du stolz bist, zeig es uns.

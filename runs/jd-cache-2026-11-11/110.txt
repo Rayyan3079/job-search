@@ -1,0 +1,44 @@
+URL: https://www.linkedin.com/jobs/view/4487252101
+TITLE: Werkstudent/in (w/m/d) - Analyse des Sim-To-Real Gap eines mobilen Robotersystems
+COMPANY: German Aerospace Center (DLR)
+LOC: Ulm, Baden-Württemberg, Germany
+POSTED: 2026-11-05
+title: Werkstudent/in (w/m/d) - Analyse des Sim-To-Real Gap eines mobilen Robotersystems
+company: German Aerospace Center (DLR)
+posted: 5 days ago
+applicants: 27 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-in-w-m-d-analyse-des-sim-to-real-gap-eines-mobilen-robotersystems-at-german-aerospace-center-dlr-4487252101&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Kennziffer: 6785
+ Arbeitsort: Ulm
+ Eintrittsdatum: 01.02.2027
+ Karrierestufe: Studentische Tätigkeit
+ Beschäftigungsgrad: Teilzeit
+ Dauer der Beschäftigung: 6 Monate mit Möglichkeit zur Verlängerung
+ Vergütung: Die Vergütung erfolgt gemäß der jeweils geltenden Tarifverträge des öffentlichen Dienstes (Bund).
+ Hinweis: Voraussetzung für die Einstellung beim DLR ist die Sicherheitsüberprüfbarkeit nach dem Sicherheitsüberprüfungsgesetz (SÜG) sowie die Bereitschaft für eine Sicherheitsüberprüfung nach
+ 8 ff. SÜG.
+ Im DLR-Institut für KI-Sicherheit erforschen und entwickeln wir KI-bezogene Methoden, Prozesse, Algorithmen, Technologien und Ausführungs- bzw. Systemumgebungen. Unser Fokus liegt auf sicherer und norm- bzw. standardkonformer KI, Cybersicherheit in offenen Daten- und Dienste-Ökosystemen und KI, sowie der Automatisierung in Mobilität und Logistik.
+ Das erwartet dich
+ In der Abteilung Ausführungsumgebungen und innovative Methoden bringen wir neuartige KI-Methoden und herausfordernde Ausführungsumgebungen zusammen. Insbesondere beschäftigen wir uns mit der energieeffizienten Implementierung von KI für mobile Systeme, Quanten-KI und neuromorphen KI-Ansätzen. Damit stellt die Abteilung innovative KI-Ansätze für die Anwendung für sicherheitskritische Anwendungen bereit.
+ Deine Aufgaben
+ Weiterentwicklung einer Mujoco Simulationsumgebung für Reinforcement Learning unter Verwendung von pyTorch und StableBaselinesX
+ Aufbau eines realen Anwendungsszenarios mit einem mobilen Roboter und Objekten zum Greifen, ähnlich den Objekten in der Simulationsumgebung
+ Integration einer Kamera zur Objekterkennung und zur Schätzung der Objektposition
+ Auswahl von Beispielszenarien und deren Ausführung sowohl in der Simulationsumgebung als auch im realen Versuchsaufbau
+ Vergleichen der Ergebnisse qualitativ sowie quantitativ
+ Dokumentieren des Codes und der durchgeführten Analyse sowie der Diskrepanz zwischen Simulation und Realität auf Basis von den Ergebnissen
+ Das bringst du mit
+ laufendes Studium in der Informatik oder vergleichbar
+ gute Programmierkenntnisse in Python und C++
+ gute Kenntnisse mit Linux
+ grundlegendes Verständnis von Reinforcement Learning
+ grundlegende Kenntnisse in PyTorch, ROS2, Mujoco und JAX
+ Interesse an mobilen, autonomen Systemen und deren Sensorik
+ Deutsch- und Englischkenntnisse in Wort und Schrift
+ Das bieten wir dir
+ Das DLR steht für Vielfalt, Wertschätzung und Gleichstellung aller Menschen. Wir fördern eigenverantwortliches Arbeiten und die individuelle Weiterentwicklung unserer Mitarbeitenden im persönlichen und beruflichen Umfeld. Dafür stehen dir unsere zahlreichen Fort- und Weiterbildungsmöglichkeiten zur Verfügung. Chancengerechtigkeit ist uns ein besonderes Anliegen, wir möchten daher insbesondere den Anteil von Frauen in der Wissenschaft und Führung erhöhen. Bewerbungen schwerbehinderter Menschen bevorzugen wir bei fachlicher Eignung.
+Wir freuen uns darauf, dich kennenzulernen!
+ Fragen Zu Dieser Position (Kennziffer 6785) Beantwortet Dir Gerne
+ Dr. Hans-Martin Rieser 
+ Tel.: +49 731 400198 306

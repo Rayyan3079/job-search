@@ -1,0 +1,48 @@
+URL: https://www.linkedin.com/jobs/view/4487928133
+TITLE: AI Data Annotation Specialist – Text and Audio
+COMPANY: HTC Global Services
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-09
+title: AI Data Annotation Specialist – Text and Audio
+company: HTC Global Services
+posted: 1 day ago
+applicants: 49 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fai-data-annotation-specialist-%25E2%2580%2593-text-and-audio-at-htc-global-services-4487928133&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Description
+ Job Title: AI Data Annotation Specialist – Text and Audio
+ Job Overview / Summary
+ We are seeking an AI Data Annotation Specialist to improve the quality and accuracy of conversational AI responses through human evaluation and feedback. The ideal candidate will have experience labeling conversational AI data, including text and audio, and the ability to consistently apply detailed annotation guidelines.
+The role involves reviewing chatbot conversations, evaluating AI-generated responses, identifying errors and ambiguities, maintaining annotation quality, and providing feedback to improve annotation guidelines and processes.
+Key Responsibilities
+ Review chatbot conversations and related content, including individual conversation turns, AI-generated responses, retrieved content, citations, and metadata.
+ Apply established labeling guidelines, taxonomies, and decision rules consistently.
+ Evaluate AI chatbot performance based on intent, task completion, correctness, completeness, relevance, groundedness, source attribution, response quality, safety, and policy compliance.
+ Identify and categorize response failures, escalation requirements, and areas requiring further review.
+ Identify and escalate ambiguous, sensitive, safety-related, or out-of-scope content requiring subject matter expert review.
+ Complete required annotations, rationales, confidence assessments, and ambiguity indicators.
+ Participate in onboarding, calibration, refresher training, quality reviews, and adjudication sessions.
+ Perform first-level quality checks and correct annotation errors identified during quality reviews.
+ Maintain accurate records of completed annotations, quality results, exceptions, escalations, and outstanding issues.
+ Prepare weekly reports covering annotation volume, productivity, quality results, backlog, open questions, risks, and required actions.
+ Recommend improvements to annotation guidelines and taxonomies based on recurring ambiguities, labeling patterns, and review outcomes.
+ Follow approved guidelines and ensure that changes are implemented only after the appropriate approval.
+ Required Qualifications
+ Experience labeling conversational AI data, including text and audio.
+ Professional fluency in English, with strong reading comprehension and written communication skills.
+ Ability to interpret and consistently apply detailed guidelines, taxonomies, and decision rules.
+ Strong analytical skills and attention to detail.
+ Ability to identify factual errors, incomplete responses, unsupported claims, policy concerns, and ambiguous content.
+ Ability to document annotation decisions and provide clear, concise explanations.
+ Ability to perform repetitive tasks accurately while meeting quality, productivity, and turnaround expectations.
+ Ability to participate in calibration sessions, incorporate feedback, and adapt to evolving guidelines.
+ Strong reporting and documentation skills, including the ability to prepare weekly progress and quality reports.
+ Bachelor's degree required.
+ Preferred Qualifications
+ Previous experience in the automotive industry.
+ Experience working with organizations such as Amazon, Google, Apple, or Scale AI.
+ Master's degree preferred.
+ What Makes HTC A Great Place To Build Your Future
+ HTC Global Services wants you to join our team. Come build new things with us and advance your career. At HTC Global, you’ll collaborate with experts, work alongside clients, and be part of high-performing teams driving success together. You’ll have long-term opportunities to grow your career and develop skills in the latest emerging technologies.
+At HTC Global Services, our employees have access to a comprehensive benefits package. Benefits can include Group Health (Medical, Dental, and Vision), Paid Time Off, Paid Holidays, 401(k) matching, Group Life and Disability insurance, Professional Development opportunities, Wellness programs, and a variety of other perks.
+Our success as a company is built on inclusion and diversity. HTC Global Services is committed to providing a workplace free from discrimination and harassment, where every employee is treated with dignity and respect. We celebrate differences and believe that diverse cultures, perspectives, and skills drive innovation and success. HTC is an Equal Opportunity Employer and a proud National Minority Supplier. We seek to empower each individual, fostering an environment where everyone feels valued, included, and respected.

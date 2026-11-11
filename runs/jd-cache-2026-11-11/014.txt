@@ -1,0 +1,34 @@
+URL: https://www.linkedin.com/jobs/view/4487988891
+TITLE: Data Analyst
+COMPANY: HiredBuddy
+LOC: Germany
+POSTED: 2026-11-10
+title: Data Analyst
+company: HiredBuddy
+posted: 1 day ago
+applicants: Over 200 applicants
+apply_offsite: 
+---
+Project Description
+ Hiredbuddy is seeking an entry-level Data Analyst to join our remote team. You'll assist in building and maintaining data pipelines, ensure data quality, and support analytics initiatives. Ideal for recent graduates with foundational SQL and Python skills eager to grow in a collaborative environment.
+ Full Description
+ Hiredbuddy is looking for an enthusiastic and detail-oriented Data Analyst to join our dynamic engineering team. This is a remote, entry-level position perfect for recent graduates or early-career professionals who are passionate about building robust data infrastructure. You will work closely with senior engineers, data scientists, and business analysts to support the company's data-driven initiatives. Your primary focus will be on designing, developing, and maintaining scalable data pipelines that ingest, transform, and deliver high-quality data to downstream systems.
+ In this role, you will gain hands-on experience with modern data analyst tools and cloud platforms. You will be responsible for writing efficient SQL queries, developing Python scripts for data processing, and orchestrating workflows using tools like Apache Airflow. You will also contribute to the maintenance of our data warehouse, ensuring data accuracy, consistency, and availability. As you grow, you will participate in code reviews, collaborate on data modeling decisions, and help optimize pipeline performance.
+ We believe in a learning-first culture. You will receive mentorship from experienced engineers, have access to internal training resources, and be encouraged to experiment with new technologies. You will learn how to troubleshoot issues, monitor data quality, and implement best practices for data governance and security. Your work will directly impact business decisions, from product analytics to financial reporting.
+ Key responsibilities include: building and maintaining ETL/ELT processes; writing and optimizing SQL queries; developing Python scripts for data cleaning and transformation; designing and maintaining data schemas; assisting with the implementation of data quality checks; documenting pipeline logic and data lineage; and collaborating with cross-functional teams to understand data requirements.
+ We are looking for someone who is curious, proactive, and eager to learn. A strong foundation in SQL and Python is essential, along with a basic understanding of data modeling and database concepts. Familiarity with cloud services (AWS, GCP, or Azure) and tools like Airflow or dbt is a plus, but not required. Most importantly, you should have a problem-solving mindset and a willingness to take ownership of your work.
+ Hiredbuddy offers a supportive and inclusive remote environment where your contributions are valued from day one. If you are ready to launch your career in data analyst and work on meaningful projects, we would love to hear from you.
+ Requirements
+ 0-2 years of experience in data Analyst , data analytics, or a related field
+ Proficiency in SQL (writing complex queries, joins, aggregations)
+ Basic to intermediate Python programming skills
+ Understanding of data structures, algorithms, and database concepts
+ Familiarity with version control (Git) and command-line tools
+ Strong problem-solving and analytical abilities
+ Excellent communication and teamwork skills
+ Bachelor's degree in Computer Science, Engineering, Information Systems, or a related field (or equivalent practical experience)
+ Nice to have: exposure to cloud platforms (AWS, GCP, Azure), data warehousing (Snowflake, BigQuery, Redshift), or orchestration tools (Airflow, Luigi)
+ Benefits
+ Paid time off and holidays
+ Professional development stipend for courses and certifications
+ Home office equipment allowance

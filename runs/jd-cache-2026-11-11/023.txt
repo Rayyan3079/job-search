@@ -1,0 +1,45 @@
+URL: https://www.linkedin.com/jobs/view/4488839459
+TITLE: Working Student Software Engineer / Bachelor’s or Master’s Thesis (m/f/d)
+COMPANY: THRYVE
+LOC: Greater Munster Area
+POSTED: 2026-11-09
+title: Working Student Software Engineer / Bachelor’s or Master’s Thesis (m/f/d)
+company: THRYVE
+posted: 1 day ago
+applicants: 31 applicants
+apply_offsite: 
+---
+Working Student Software Engineer / Bachelor’s or Master’s Thesis (m/f/d)
+ Location: 100% remote within Germany (HQ in Munster)
+ Start: Immediately
+ Working student: 15–20 hours per week
+ Would you like to gain practical software engineering experience alongside your studies—or write your Bachelor’s or Master’s thesis together with an established technology company?
+ Our client is a German software and AI company with strong academic roots. Founded by a university professor, the company has grown to around 150 employees while retaining a research-driven culture focused on technical quality, continuous learning and solving complex problems.
+ Its engineering teams develop modern digital products and AI solutions used by major organisations across Germany, particularly within the financial sector.
+ You can join through one of two routes: 
+ Work as a Working Student Software Engineer 
+ Complete your Bachelor’s or Master’s thesis with the company
+ What you could work on 
+ Contributing to real software products and customer projects
+ Exploring open-source libraries and modern frameworks
+ Supporting the full software lifecycle—from analysis and design through to development, testing and rollout
+ Working with object-oriented design and agile development practices
+ Selecting suitable technologies for your project or thesis
+ Supporting CI/CD pipelines and development automation
+ Taking ownership of a defined technical topic with guidance from experienced engineers
+ What you should bring 
+ Current enrolment in Computer Science, Business Informatics or a comparable subject
+ Some initial experience in web or software development
+ Basic knowledge of at least one of the following:
+ Java, Spring, TypeScript, JavaScript, Angular, Node.js, Ruby on Rails, databases, Docker or Kubernetes 
+ An analytical mindset and enthusiasm for solving complex problems
+ Fluent German—minimum C1 level—and good English 
+ Residence in Germany
+ What’s on offer 
+ 100% remote working within Germany
+ Flexible hours that fit around your studies
+ Support from highly qualified software engineers
+ Training and professional development opportunities
+ Experience working on real, technically challenging products
+ The potential to move into permanent employment after your studies
+ Apply now and let us know whether you’re interested in joining as a working student, completing your thesis with the company—or potentially both.

@@ -1,0 +1,76 @@
+URL: https://www.linkedin.com/jobs/view/4487858832
+TITLE: Internship (d/f/m) within Digital-Twin Spacecraft Engineer
+COMPANY: Airbus Defence and Space
+LOC: Immenstaad am Bodensee, Baden-Württemberg, Germany
+POSTED: 2026-11-11
+title: Internship (d/f/m) within Digital-Twin Spacecraft Engineer
+company: Airbus Defence and Space
+posted: 5 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Finternship-d-f-m-within-digital-twin-spacecraft-engineer-at-airbus-defence-and-space-4487858832&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Description:
+ In order to support the Data Processing & Analytics department, Airbus Defence and Space is looking for an
+ Intern as a Digital-Twin Spacecraft Engineer (d/f/m)
+ Are you looking for an internship and want to get to know the work of a Digital-Twin Spacecraft Engineer? Then apply now! We look forward to you supporting us in the Data Processing & Analytics department as an intern (d/f/m)!
+ Location: Immenstaad 
+ Start: As soon as possible 
+ Duration: 3-6 months 
+ Your location
+ At the Airbus site in Immenstaad on Lake Constance, you’ll work where the future of Connected Intelligence, Space, and Air Power takes shape. In an environment that offers vision, you will shape technological innovations across domains.
+ Context
+ You will join the Data Processing & Analytics department, a transnational department responsible for the development of digital engineering solutions for space missions and products with strong interactions with the engineering professions for space systems. The part of the organisation, where you will be working, has diverse profiles (aerospace engineers, systems engineers, data scientists, project managers, product managers, software developers, big data architects) which will help you onboard and understand the various aspects of digital engineering and data science for space applications.
+In addition, our team are working on various topics including:
+ Realizing Digital Twin concept with overall architecture and use cases along end-to-end space mission lifecycle 
+ Formalization of system data in Knowledge Graphs, 
+ Time series anomaly detection, 
+ Realisation of surrogate models in relation to different space professions, 
+ Mathematical optimization (design optimization, architecture, etc.) 
+ Natural language processing (NLP) and Large Language Models (LLM). 
+ In this field, the team is working on several internal R&D projects and external initiatives in connection with innovative startups and space institutions, with the aim of meeting the internal needs of Airbus Defence and Space in terms of digital systems engineering and AI solutions.
+ Your Benefits
+ Attractive salary and work-life balance with a 35-hour week (flexitime). 
+ A final thesis is possible after consultation with the department. 
+ International environment with the opportunity to network globally. 
+ Work with modern/diversified technologies. 
+ Opportunity to participate in the Generation Airbus Community to expand your own network. 
+ Your Tasks And Responsibilities
+ Your tutor will support you identify your professional objectives and develop your skills
+You will contribute to the following activities:
+ Support the use case for integrating CAD data and mechanical engineering processes into the overall space systems engineering knowledge base in Digital-Twin platform.
+ Understanding user needs, and definition of needed building blocks to correctly build and evaluate models and automate the process. 
+ Preparation of knowledge base by designating and collecting data sources, and implementing pipelines. 
+ Processing and integration of mechanical engineering data into artefacts from thermal and functional engineering domains. 
+ Implementation of dashboards, user interfaces and prompts for presentation in-line with end-user requirements.
+ Collection of all involved concepts in an Ontology, describing the relationships in between artefacts.
+ Testing of the end-to-end solution with subject matter experts and successive iterations. 
+ Support development of Digital-Twin platform architecture & modules via the experience gained on the implemented use-case. 
+ Identify, propose and support other use-cases along the end-to-end space mission lifecycle. 
+ Desired Skills And Qualifications
+ Enrolled full-time student (d/f/m) in the area of aerospace engineering, systems engineering, data science, artificial intelligence, computer science, software engineering or an equivalent field of study.
+ Enthusiasm and comprehension towards space business 
+ Curiosity, proactive, dedication to deliver
+ Good presentation skills, ability to showcase work to various people (Aerospace engineers, technical experts, data scientists, managers, project managers etc.) 
+ Space systems engineering processes, methods and tools (e.g. CAD, mission & system analysis, MBSE, domain knowledge on mechanical/thermal/electrical/functional engineering etc.) 
+ Ontology Engineering and Data Modeling 
+ Manipulation and data analytics in python 
+ Software and big data platform architecture / RAG (vectorial databases, data security, user access, hardware etc.), agentic workflows. 
+ Deep learning and LLMs frameworks (tensorflow, pytorch, transformers, langchain, ...) 
+ Fluent in English and German nice to have
+ Please upload the following documents: cover letter, CV, relevant transcripts, enrolment certificate. 
+ Not a 100% match? No worries! Airbus supports your personal growth.
+Take your career to a new level and apply online now!
+#MYCYM
+This job requires an awareness of any potential compliance risks and a commitment to act with integrity, as the foundation for the Company’s success, reputation and sustainable growth.
+ Company:
+ Airbus Defence and Space GmbH
+ Employment Type:
+ Internship
+ Experience Level:
+ Student
+ Job Family:
+ Digital
+By submitting your CV or application you are consenting to Airbus using and storing information about you for monitoring purposes relating to your application or future employment. This information will only be used by Airbus.
+Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief.
+Airbus is, and always has been, committed to equal opportunities for all. As such, we will never ask for any type of monetary exchange in the frame of a recruitment process. Any impersonation of Airbus to do so should be reported to emsom@airbus.com .
+At Airbus, we support you to work, connect and collaborate more easily and flexibly. Wherever possible, we foster flexible working arrangements to stimulate innovative thinking. #YESPOST

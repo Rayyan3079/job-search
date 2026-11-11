@@ -1,0 +1,45 @@
+URL: https://www.linkedin.com/jobs/view/4487186258
+TITLE: Intern Agentic AI and Industrial Foundation Models (f/m/x)
+COMPANY: BMW Group
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-11-09
+title: Intern Agentic AI and Industrial Foundation Models (f/m/x)
+company: BMW Group
+posted: 1 day ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fintern-agentic-ai-and-industrial-foundation-models-f-m-x-at-bmw-group-4487186258&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+THE BEST INTERNSHIP IN THEORY - AND IN PRACTICE.
+ SHARE YOUR PASSION.
+ World-leading technologies don’t make it into a BMW until they’ve undergone one of the most challenging journeys imaginable. It takes dynamic teams with outstanding technical skills to take them from the drawing board to the road. That’s why our experts will treat you as part of the team from day one, encourage you to bring your own ideas to the table – and give you the opportunity to really show what you can do.
+Our team, Agentic AI and Industrial Foundation Models, drives the development and implementation of advanced AI solutions across the BMW Group. We combine AI agents, foundation models, and engineering expertise to transform business processes. During your internship, you will help develop and evaluate self-improving AI agents for engineering design tasks, contributing to the future of intelligent vehicle development.
+ What awaits you?
+ You support the design and evaluation of multi-agent AI systems for engineering applications.
+ Furthermore, you help investigate self-improvement and feedback-driven optimization of agentic systems on real-world industrial use cases.
+ In addition, you contribute to the systematic analysis of experimental data and the derivation of targeted improvements.
+ Moreover, you support the setup of benchmark problems and the development of quantitative metrics to measure progress.
+ Furthermore, you help present findings through internal reports and contribute to potential scientific publications.
+ In addition, you support collaboration with internal development and IT departments as well as external partners.
+ What should you bring along?
+ Studies in Computer Science, Mechanical Engineering, Mathematics, Physics or a related field.
+ Solid understanding of machine learning principles, generative AI, and LLM-based agents.
+ Proficient in Python and GitHub; experience with agent frameworks and LLM-based code generation is a plus.
+ Extensive hands-on experience with vibe coding and AI-assisted development workflows.
+ Ability to analyze agent behavior and iteratively improve agent setups (e.g. prompts, tools, memory, skills), even without ground-truth answers.
+ Structured, data-driven mindset combined with curiosity for open research questions; knowledge of CAD or parametric modeling is a plus.
+ Effective communication skills in English.
+ Would you like to help shape the future of intelligent vehicle development with agentic AI? Then Apply now!
+ What do we offer?
+ Comprehensive mentoring & onboarding.
+ Personal & professional development.
+ Flexible working hours.
+ Mobile work.
+ Attractive & fair compensation.
+ Apartments for students (subject to availability & only at the Munich location).
+ And much more, see bmw.jobs/waswirbieten
+ Start date: Earliest start date 11.01.2027
+ Duration: 6 months
+ Working hours: Full-time
+You can find helpful tips on your application and the application process here.
+At the BMW Group, we place great importance on equal treatment and equal opportunities. Our recruiting decisions are based on the personality, experience, and skills of the applicants. Learn more here.
+Intern Agentic AI and Industrial Foundation Models (f/m/x)

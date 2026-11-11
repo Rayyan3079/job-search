@@ -1,0 +1,75 @@
+URL: https://www.linkedin.com/jobs/view/4488387384
+TITLE: Data Analyst
+COMPANY: Data Wizards
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-10
+title: Data Analyst
+company: Data Wizards
+posted: 13 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fbe.linkedin.com%2Fjobs%2Fview%2Fdata-analyst-at-data-wizards-4488387384&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Don’t settle for just any consulting company, choose the one that’s right for you! 
+ At Data Wizards, we value perseverance, curiosity, creativity, integrity and excellence. In that sense, we are looking for passionate AI & data professionals who want to help companies navigate the transition the world is facing today, and who want to be part of the Wizard adventure we are building.
+ On our side, we do our best to find exciting, challenging and meaningful projects for you. Today, we work with companies of all sizes, across various sectors, where we believe our work brings real value and purpose.
+ We are continuously on the lookout for bright data engineers, data scientists, machine learning engineers, AI engineers, and data analysts. So this job description is for anyone in data out there feeling the magic in them and ready to spread it 🪄
+ Job description 
+ We’re on the lookout for Data Analysts to join our team of Wizards!
+ As a Data Analyst, your project would typically include: 
+ Collecting, cleaning, and transforming data from various sources to ensure quality and usability
+ Writing and optimizing SQL queries and/or using Python to analyze and process data
+ Building and maintaining dashboards and reports (e.g. Power BI) to support business decision-making
+ Translating business needs into data requirements and actionable insights
+ Performing exploratory data analysis to identify trends, patterns, and opportunities
+ Collaborating with data engineers and other teams to ensure data availability and reliability
+ Contributing to the improvement of data models, datasets, and reporting processes
+ Ensuring data accuracy, consistency, and documentation of your work
+ Supporting stakeholders by explaining insights in a clear and structured way
+ Job requirements
+ You’re a step closer to joining our team if you bring: 
+ Background: 
+ Masters degree related to computer science, data or AI
+ 1-4 years of experience in a data role
+ Previous experience building or maintaining data pipelines and ETL/ELT processes.
+ Exposure to working with large datasets from multiple sources (e.g., CRM, web analytics, call logs, transactional systems).
+ Technical Skills: 
+ Solid hands-on experience with Python , and SQL .
+ Experience with SAS is a plus.
+ Experience with Databricks is a plus.
+ Familiarity with data warehousing concepts and best practices.
+ Experience integrating reporting tools such as Power BI .
+ Basic understanding of version control (e.g., Git) and automated workflows/scheduling.
+ Soft Skills: 
+ Ability to manage stakeholders and communicate effectively across technical and non-technical teams.
+ A problem-solver with a “can-do” attitude and a hacker mentality.
+ Highly curious and always eager to improve and learn.
+ Strong ability to work independently and drive projects from intake to delivery.
+ Languages: Fluent in English and French and/or Dutch
+ We know that finding the right job isn't just about the role, it's about what's in it for you, too. While we're a start-up, we're big on taking care of our people right from day one.
+ Here's a sneak peek at what we offer:
+ 💰 A compensation package that keeps you motivated 
+ Competitive salary
+ Mobility budget or company car with an electrical card
+ 30 days of paid time off
+ A top-tier laptop & smartphone with a subscription
+ Representation allowances
+ Group, hospitalization & dental insurance
+ Meal vouchers & eco-cheques
+ Opportunity to earn company stock over time
+ 🌱 A place to be your best self, grow, and thrive 
+ Work with the most innovative technologies in Data & AI
+ Work in an agile, collaborative environment
+ Hybrid work model: up to 3 days per week
+ Monthly team-building events (plus one epic annual celebration)
+ Tailored training programs to fuel your career growth
+ A cool, ergonomic office with creative meeting spaces, a Nintendo Switch for spontaneous Mario Kart battles, a massage chair for those deep-thinking moments and fresh coffee & drinks to keep you energized ☕
+ ✨ And most importantly, an organic-growing company where you are in control of your own path!
+ Our Recruitment Process: 
+ 📲Quick intro call with our HR team (5')
+ 💜Culture check: HR Interview (30')
+ 🛠️Technical check: Wizard assessment (25') & Technical Interview with our wizards (1h)
+ 🤝Partner Meet-up (30')
+ Why this process? 
+ We want you to get a genuine feel for who we are, and we want to make sure we're aligned on what truly matters. Rather than rushing the process, we focus on finding the right fit, so that six months from now, both sides are still convinced they made the right decision.
+ ➡️If you're passionate about what we do but aren't sure you meet every single requirement, don't hesitate to apply. We value potential, mindset, and growth as much as experience. At Data Wizards, we believe diversity is our strength. We welcome candidates from all backgrounds and experiences because different viewpoints help us grow and evolve.
+ ➡️Please note: As a consulting company, our recruitment process can be either project-driven or based on strong profiles we believe in. The consultancy world moves fast, and while we always aim to match great talent with the right opportunity, there might not always be an immediate fit. With your permission, we'll gladly keep your profile in mind for future missions, and hope to collaborate with you soon on an exciting project at Data Wizards!

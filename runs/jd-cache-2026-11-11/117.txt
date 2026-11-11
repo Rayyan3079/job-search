@@ -1,0 +1,47 @@
+URL: https://www.linkedin.com/jobs/view/4486151766
+TITLE: Werkstudent Entwicklung einer Engineering- und Datenintegrationsplattform (all genders)
+COMPANY: MTU Aero Engines
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-11-10
+title: Werkstudent Entwicklung einer Engineering- und Datenintegrationsplattform (all genders)
+company: MTU Aero Engines
+posted: 17 hours ago
+applicants: 46 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-entwicklung-einer-engineering-und-datenintegrationsplattform-all-genders-at-mtu-aero-engines-4486151766&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Wir sind über 14.000. An 20 Standorten weltweit. Jedes dritte Flugzeug fliegt mit unserer Technologie.
+Immer effizienter, leiser, nachhaltiger. Wir gestalten die Zukunft der Luftfahrt. Was wir noch brauchen? Dich.
+ MTU Aero Engines AG Werkstudent Entwicklung einer Engineering- und Datenintegrationsplattform (all genders)
+ Standort München 
+ Einstiegsbereich IT 
+ Zielgruppe Student:innen 
+ Vertragsart Teilzeit 
+ Job-ID 2023 
+ Für die Weiterentwicklung unserer digitalen Engineering-Prozesse suchen wir Dich für die Unterstützung beim Aufbau einer softwarebasierten Plattform zur Integration, Verarbeitung und Nutzung technischer Daten.
+ STARKE AUFGABEN
+ Im Rahmen des Projekts arbeitest du an der Konzeption und Umsetzung eines Software-Frameworks zur Einbettung industrieller Engineering-Funktionalitäten und übernimmst dabei insbesondere folgende Aufgaben:
+ Entwicklung eines Frameworks zur Integration technischer Softwarekomponenten und Bibliotheken
+ Konzeption und Implementierung von APIs und Schnittstellen für den Datenaustausch zwischen unterschiedlichen Systemen
+ Entwicklung von Parsern zur Verarbeitung von Ein- und Ausgabedatenformaten
+ Durchführung, Test und Validierung eines durchgängigen Workflows
+ Enge Zusammenarbeit mit Experten aus den Bereichen Simulation, CAD/CAM, PLM und Softwareentwicklung
+ BESTE VORAUSSETZUNGEN
+ Studium der Informatik, Computational Engineering, Maschinenbau mit Informatikschwerpunkt oder einer vergleichbaren Fachrichtung
+ Gute Programmierkenntnisse in C++
+ Erste Erfahrung mit Python zur Automatisierung und Datenverarbeitung
+ Grundverständnis von APIs, Softwarearchitekturen und objektorientierter Softwareentwicklung
+ Kenntnisse in der Entwicklung von Microservices sowie deren Bereitstellung in containerisierten Umgebungen mit Docker und Kubernetes von Vorteil
+ Gute Deutsch- oder Englischkenntnisse
+ Selbstständige, strukturierte und analytische Arbeitsweise
+ AUSGEZEICHNETES UMFELD
+ Praxisnahe Einblicke in die Luftfahrtindustrie und Jobs mit Verantwortung
+ Starker Teamzusammenhalt u. a. durch unser Studierenden-Netzwerk und verschiedene Events
+ Individuelle Betreuung durch Mentoring und feste Ansprechpersonen
+ Flexible Arbeitszeiten sowie die Möglichkeit zum mobilen Arbeiten (je nach Einsatzbereich)
+ Leckere und abwechslungsreiche Gerichte in unserer Betriebsgastronomie
+ EGYM Wellpass und Betriebssportgruppen
+ Top-Anbindung durch Pendlerbus, Parkhaus und E-Ladestation
+ Startklar?
+ Dann gib Deiner Bewerbung Schub und schick uns Deine Unterlagen (Lebenslauf, Notenübersicht der Hochschule, Schulabschlusszeugnis sowie eine aktuelle Immatrikulation) online. Gleich jetzt, gleich hier.
+Wir freuen uns auf Dich!
+Dein:e Ansprechpartner:in im Personalbereich: Luisa Kümmerle

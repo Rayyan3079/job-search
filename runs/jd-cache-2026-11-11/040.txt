@@ -1,0 +1,74 @@
+URL: https://jobicy.com/jobs/160996-machine-learning-engineer-ops
+TITLE: Machine Learning Engineer, Ops
+COMPANY: Cantina Labs
+LOC: Europe,  USA | Full-Time
+POSTED: 2026-11-10
+title: Machine Learning Engineer, Ops
+company: Cantina Labs
+posted: 2026-11-10T08:57:12+00:00
+location:  | remote: TELECOMMUTE
+---
+About Cantina:
+Cantina Labs is a social AI company, developing a suite of advanced real-time models that push the boundaries of expression, personality, and realism. We bring characters to life, transforming how people tell stories, connect, and create. We build and power ecosystems. Cantina, our flagship social AI platform, is just the beginning.
+If you’re excited about the potential AI has to shape human creativity and social interactions, join us in building the future!
+About the Role:
+We are looking for an ML Engineer to own the production inference stack for our text-to-speech (TTS) and speech recognition (ASR) models, end to end. Our research team delivers trained model checkpoints; you will productionize them as low-latency, real-time streaming services that run cost-efficiently on GPUs. The role covers the inference engines, the Kubernetes infrastructure they run on, and the performance benchmarking and accuracy validation that let us ship changes safely. You will bridge research and production, and own latency, throughput, cost and accuracy as we scale.
+What You’ll Do:
+• 
+Build and optimize streaming inference engines for TTS and ASR models, including multi-stage model pipelines.
+• 
+Optimize latency (time to first chunk, p50/p99) and throughput using continuous batching, CUDA Graphs, torch.compile and mixed precision.
+• 
+Maintain numerical parity with the reference implementation through automated accuracy regression tests, per stage and end to end.
+• 
+Deploy and operate GPU inference services on Kubernetes: autoscaling, containerization and infrastructure as code.
+• 
+Build CI/CD for model artifacts, with model versioning and reproducible releases.
+• 
+Own observability and performance benchmarking: p50/p99 latency, real-time factor (RTF), GPU utilization and cost per request.
+• 
+Partner with research to productionize new models.
+What You’ll Bring:
+• 
+Hands-on experience deploying, scaling and optimizing ML models in production, beyond consuming model APIs.
+• 
+Working knowledge of the full inference stack, from CUDA kernels to serving frameworks, with depth in some layers; expertise across all of them is not expected.
+• 
+GPU performance optimization: profiling (Nsight Systems, PyTorch Profiler), memory bandwidth, CPU-GPU synchronization.
+• 
+Solid understanding of model serving: continuous batching, KV cache management, request scheduling.
+• 
+Production experience with Kubernetes, CI/CD and cloud infrastructure.
+• 
+Strong Python and PyTorch, and a rigorous approach to performance benchmarking.
+• 
+Experience with speech or audio models (TTS, ASR, voice conversion).
+• 
+Experience with inference frameworks such as vLLM (vLLM-Omni), SGLang, TensorRT-LLM, TensorRT or Triton Inference Server.
+Compensation:
+When determining compensation, a number of factors will be considered, including skills, experience, job scope, location, and competitive compensation market data.
+Benefits for U.S.-based roles:
+• 
+Competitive salary and generous company equity
+• 
+Medical, dental, and vision insurance – 99.99% of premiums covered by Cantina
+• 
+42 days of paid time off, including:
+• 
+15 PTO days
+• 
+10 sick days
+• 
+15 company holidays
+• 
+2 floating holidays
+• 
+Generous parental leave & fertility support
+• 
+401(k) retirement savings plan
+• 
+Lifestyle spending account – $500/month to use however you’d like
+• 
+Complimentary lunch and snacks for in-office employees
+• 
+One Medical membership, and more!

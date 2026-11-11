@@ -1,0 +1,38 @@
+URL: https://www.linkedin.com/jobs/view/4486576686
+TITLE: Software Engineering Intern - 2027
+COMPANY: NVIDIA
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-11-05
+title: Software Engineering Intern - 2027
+company: NVIDIA
+posted: 5 days ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fsoftware-engineering-intern-2027-at-nvidia-4486576686&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world. Become a Software Engineer Intern at NVIDIA and join the PerfLab team! This exceptional opportunity enables you to work with leading experts and support groundbreaking projects in an inclusive and varied environment. The ideal candidate is a game enthusiast with a good understanding of graphics technologies, would be familiar with NVIDIA products and its characteristics. Experience and passion for PC games is widely welcome.
+ What You'll Be Doing
+ Integrate AI into testing and service workflows to improve troubleshooting, result analysis, and reporting.
+ Develop an MCP tool to analyse service logs.
+ Create an AI Agent to orchestrate troubleshooting, automate triage, and support root cause analysis across multiple services.
+ Build AI-assisted analysis of test results to identify performance regressions, anomalies, and trends across game builds, drivers, and hardware configurations.
+ Connect AI analysis with historical results and known issues to provide context and supporting evidence.
+ Generate clear, actionable summaries and integrate their delivery into reports, dashboards, and notifications for our end users.
+ Collaborate with testing engineers and customers to evaluate AI-generated findings and improve their accuracy and usefulness.
+ Implement observability and feedback loops for safe operation in production.
+ Propose new architectures and approaches.
+ What We Need To See
+ Currently pursuing a Bachelor's or Master's degree in Computer Science, Engineering, AI, Data Science, or related field.
+ Strong programming fundamentals, especially in one of: Python (preferred for AI frameworks) or Typescript (for Web development)
+ Solid understanding of data structures, algorithms, and API design.
+ Basic knowledge of machine learning concepts, especially retrieval-based or agent-based architectures.
+ Familiarity with Git, databases (SQL/NoSQL/Vector) and data pipelines.
+ Strong problem-solving skills and eagerness to learn new technologies.
+ Interest in applying AI to performance testing, data analysis, and customer-facing workflows.
+ Strong collaboration and communication skills, with the ability to learn quickly and work effectively in a dynamic environment.
+ Ways To Stand Out From The Crowd
+ Strong experience with Python and Typescript
+ Exposure to LLM evaluation, structured outputs, or human-in-the-loop review workflows.
+ Experience with performance testing or test automation, and familiarity with gaming performance metrics and analysis methods. 
+ Experience with RAG pipelines, vector databases, embeddings, or LLM orchestration.
+ Knowledge of containerization (Docker) and orchestration (Kubernetes).
+ Our internship pay is based on the position, your location, year in school, degree, and experience. Pay is pro-rated for the duration of the internship. The expected annual rate for this position is 47,850 EUR – 82,940 EUR., , JR2029184

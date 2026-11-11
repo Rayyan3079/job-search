@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4487853089
+TITLE: Trainee Cloud & Data - Dein Einstieg in Artificial Intelligence & Data (m/w/d) in München
+COMPANY: Deloitte
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-11-10
+title: Trainee Cloud & Data - Dein Einstieg in Artificial Intelligence & Data (m/w/d) in München
+company: Deloitte
+posted: 7 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Ftrainee-cloud-data-dein-einstieg-in-artificial-intelligence-data-m-w-d-in-m%25C3%25BCnchen-at-deloitte-4487853089&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Deloitte bietet führende Prüfungs- und Beratungsleistungen in Audit & Assurance, Tax & Legal, Consulting und Advisory - für nahezu 90 % der Fortune Global 500® und zahlreiche private Unternehmen. Wir liefern innovative Denkansätze, lösen komplexe Herausforderungen und fördern nachhaltiges Wachstum. Mit rund 470.000 Mitarbeitenden weltweit eröffnen wir hervorragende Karrierechancen - getragen von einem starken „Wir“ und einer Vielfalt an Perspektiven und Fähigkeiten.
+Du bist Absolvent:in oder beabsichtigst, in Kürze dein Studium zu beenden? Unser Trainee-Programm im Team  Consulting - Artificial Intelligence & Data  ist dein perfektes Sprungbrett in eine Karriere mit Fokus auf datengetriebene Transformationen mit Unterstützung von künstlicher Intelligenz. Sichere unseren gemeinsamen Erfolg und mach mit uns den Unterschied: als  Trainee Cloud & Data - Dein Einstieg in Artificial Intelligence & Data (m/w/d) .
+ Hard Facts für deinen Einstieg: 
+ Beginn: 01.04.2027
+ Dauer: 12 Wochen Trainingsprogramm in unbefristeter Festanstellung
+ Bewerbungsschluss: Sonntag, den 14.02.2027
+ Standorte: Berlin , Düsseldorf , Frankfurt (Main) , Hamburg , Hannover , Köln , München und Stuttgart .
+ Dein Impact:
+ Als Trainee Cloud & Data for AI (m/w/d) gestaltest du die technologische Grundlage für die nächste Generation intelligenter Unternehmen. In unserem zwölfwöchigen Traineeprogramm tauchst du tief in moderne Cloud-, Data- und AI-Technologien ein und lernst, wie innovative Ideen zu produktionsreifen Lösungen werden. Anschließend steigst du direkt in Kundenprojekte ein und arbeitest gemeinsam mit erfahrenen Expert:innen an der Entwicklung skalierbarer Datenplattformen und AI-Anwendungen mit messbarem Mehrwert.
+ AI & GenAI Engineering: Du entwickelst innovative AI-Anwendungen auf Basis von Large Language Models (LLMs), Generative AI und modernen AI-Frameworks und lernst, wie produktive Lösungen erfolgreich in Unternehmen aufgebaut werden.
+ Agentic AI: Du gestaltest die nächste Generation AI-gestützter Anwendungen und entwickelst intelligente AI Agents, die komplexe Aufgaben übernehmen, Geschäftsprozesse unterstützen und Unternehmenssysteme miteinander verbinden.
+ Modern Data Engineering & AI Foundations: Du konzipierst und entwickelst skalierbare Datenplattformen, Data Pipelines und moderne Datenarchitekturen, die Unternehmen dabei helfen, ihre Daten effizient zu nutzen und innovative AI-Lösungen zu ermöglichen.
+ Modern Technology Stack: Du arbeitest mit aktuellen Technologien und Plattformen wie Databricks, Snowflake, Claude, Azure, AWS oder GCP und sammelst praktische Erfahrungen mit modernen Software-, Data- und AI-Engineering-Ansätzen.
+ Innovation & Continuous Learning: Du bist nah an den neuesten Entwicklungen im Bereich Artificial Intelligence, Data Engineering und Cloud-Technologien, evaluierst neue Tools und Frameworks und entwickelst dein Know-how durch Zertifizierungen, Trainings und Learning-on-the-Job kontinuierlich weiter.
+ Dein Skillset:
+ Erfolgreich abgeschlossenes Studium der (Wirtschafts-)Informatik, Data Science, Mathematik, Statistik, Ingenieurwissenschaften, Wirtschaftswissenschaften mit technischem Schwerpunkt oder eines vergleichbaren Studiengangs
+ Erste praktische Erfahrungen durch Praktika, Werkstudententätigkeiten, Hochschulprojekte oder eigene Projekte im Umfeld von Data Engineering, Artificial Intelligence, Machine Learning, Softwareentwicklung oder Cloud-Technologien
+ Programmierkenntnisse in Python, SQL, Java oder Scala sowie Interesse an modernen Datenplattformen, Cloud-Technologien und der Entwicklung skalierbarer Daten- und AI-Lösungen
+ Begeisterung für neue Technologien und die Motivation, dich mit den neuesten Entwicklungen in den Bereichen Generative AI, Agentic AI, Data Engineering und Cloud-native Architekturen auseinanderzusetzen und diese in der Praxis anzuwenden
+ Reisebereitschaft sowie Deutsch (C1) und Englisch sehr gut in Wort und Schrift sowie Freude an agiler, teamorientierter Projektarbeit im Beratungsumfeld
+ Deine Chance:
+ Spannende Aufgaben in einem innovativen Umfeld mit hochmotivierten Kolleg:innen, die sich schon jetzt auf deine Impulse freuen
+ Gute Rahmenbedingungen mit attraktivem Gehalt und zahlreichen Zusatzleistungen, z. B. Firmen-Smartphone zur privaten Nutzung, Fahrradleasing und Corporate Benefits
+ Work-Life-Balance durch Mobile Working & Teilzeit, EU Remote Working, Sabbaticals, Mitarbeiter:innen-Events, Well-being Angebote wie z. B. Gesundheitstage, Kooperationen mit Fitness-Anbietern und den Familienservice, der dich bei privaten Herausforderungen unterstützt
+ Exzellente Weiterbildung an der Deloitte University, in On- und Offline-Seminaren und im Rahmen der Berufsqualifikation, z. B. durch folgende Schulungen: „Microsoft Azure Data Engineer“ und „Google Cloud Platform Data Engineer“
+ Vielfältige Gestaltungsspielräume und aktive Förderung einer inklusiven Unternehmenskultur – u. a. durch unsere Diversity & Inclusion Mitarbeiter:innen-Netzwerke
+ Bist du bereit? Mach mit uns den Unterschied!
+ Unser Recruiting-Team freut sich auf deine Bewerbungsunterlagen (CV sowie Abitur-, Hochschul- und Arbeitszeugnisse) über unser Online-Formular. Ein Anschreiben und ein Bewerbungsfoto sind bei uns nicht erforderlich.
+ Gleiche Chancen für alle: Wir freuen uns über Bewerbungen von Menschen, die so vielfältig sind wie wir – unabhängig von Alter, Behinderung, ethnischer Herkunft und Nationalität, Geschlecht, Religion, sexueller Orientierung oder sozialer Herkunft. Noch Fragen? Alle Infos zu unserem Bewerbungsprozess findest du in unseren Bewerbungs-FAQs .
+ Dein Kontakt bei Fragen rund um Karrierethemen
+ Unser Team Talent Acquisition – Aleksandra, Anja, Julia, Lea, Lisa, Silja und ihre Teams – unterstützt dich gerne bei allen Fragen rund um deine Karriere bei Deloitte. Du erreichst uns per E-Mail unter career@deloitte.de oder telefonisch unter +49 211 87724111.
+Job-ID: 50541

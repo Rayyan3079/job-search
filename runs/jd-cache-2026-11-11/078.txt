@@ -1,0 +1,57 @@
+URL: https://www.linkedin.com/jobs/view/4489108672
+TITLE: Intern, Quantitative Research (6 months fixed-term contract)
+COMPANY: Invesco
+LOC: Frankfurt, Hesse, Germany
+POSTED: 2026-11-09
+title: Intern, Quantitative Research (6 months fixed-term contract)
+company: Invesco
+posted: 1 day ago
+applicants: 103 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fintern-quantitative-research-6-months-fixed-term-contract-at-invesco-4489108672&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+As one of the world’s leading independent global investment firms, Invesco is dedicated to rethinking possibilities for our clients. By delivering the combined power of our distinctive investment management capabilities, we provide a wide range of investment strategies and vehicles to our clients around the world. If you're looking for challenging work, intelligent colleagues, and exposure across a global footprint, come explore your potential at Invesco.
+ Job Description
+ Your role:
+ We are looking for our next Intern in the Quantitative Research for a minimum of 6 months based in Frankfurt am Main !
+During this internship, you'll support the quantitative investment research by combining rigorous statistical methods with modern machine learning and responsible AI tools to improve research efficiency, portfolio insights, and investment outcomes.
+ Key Responsibilities:
+ Develop and improve quantitative and factor-based investment strategies for institutional and retail clients globally.
+ Investigate tools, techniques, and metrics, including appropriate AI-assisted methods, that can provide deeper portfolio insight and improve client outcomes.
+ Prepare, validate, and analyze financial and alternative datasets; use AI-enabled workflows where appropriate while maintaining data quality, reproducibility, and confidentiality.
+ Participate in the development and evolution of alpha signals, portfolio construction, and risk-management approaches.
+ Perform thorough research and statistical analysis for strategy development and ongoing management, with robust out-of-sample testing and clear documentation.
+ Contribute to exploratory projects that apply machine learning or generative AI to quantitative research and workflow improvement, with guidance from senior researchers.
+ Ensure all activities are in line with Invesco's Conduct principles and applicable governance for data, models, intellectual property, and responsible AI use.
+ You'll need to have:
+ Experience working with SQL and cloud-based environments such as AWS is a plus.
+ Excellent working knowledge of econometrics and statistics, including time-series analysis.
+ Exposure to machine learning or generative AI through coursework, research projects, or previous experience is a plus.
+ Experience with financial databases such as Compustat, Worldscope, or Datastream, and risk and optimization tools such as Axioma or Barra, is beneficial.
+ Very strong analytical and mathematical skills, including optimization techniques.
+ Good coding skills, preferably in Python or R; familiarity with Git and reproducible research practices is desirable.
+ Basic understanding of machine-learning concepts and an interest in applying AI techniques to quantitative investment research.
+ Familiarity with modern AI tools, including generative AI and coding assistants, and an ability to use them critically and responsibly.
+ Strong written and verbal communication skills, including the ability to explain technical methods clearly.
+ Working towards an advanced degree in a quantitative field such as economics, finance, computer science, data science, applied mathematics, physics, or a related discipline.
+ Excellent academic background with demonstrated strength in quantitative coursework or research.
+ Evidence of applied problem-solving through coursework, research projects, competitions, or relevant internships is valued.
+ Highly motivated and able to collaborate across groups while remaining focused on high-quality research execution.
+ Curious and pragmatic about emerging technology, with sound judgment regarding where AI adds value and where human review remains essential.
+ Ability to communicate effectively with quantitative researchers, portfolio managers, client portfolio managers, distribution teams, intermediaries, and clients.
+ Passion for quantitative, research-driven investment management; results-oriented and a dependable teammate.
+ Full Time / Part Time
+ Full time
+ Worker Type
+ Student/Intern (Fixed Term)
+ Job Exempt (Yes / No)
+ Yes
+ Workplace Model
+ Pursuant to Invesco’s Workplace Policy, employees are expected to comply with the firm’s most current workplace model, which as of October 1, 2025, includes spending at least four full days each week working in the role's advertised office. This reflects our belief that spending time together in the office helps us build stronger relationships, collaborate more easily, and support each other’s growth and development.
+If this sounds like you, we’d love to hear from you! We want all of our candidates to shine during the application and selection process, so if you need any adjustments to be made, please send an e-mail to emea-talentacquisition@invesco.com. Please include your name, the job you are interested in, and the type of adjustment you need (for example; breaks during your interview, remote interviews, additional time for assessments or other required adjustments)
+We promote a working environment that welcomes everyone and creates inclusive teams, celebrates difference and encourages everyone to be themselves at work.
+ Our commitment to the community and environmental, social and governance investing:
+ We partner with charitable organisations globally to make an impact in the communities where we live and work. Our people are encouraged to support the charities they feel most passionate about. We are also committed to environmental, social and governance (ESG) investing. We serve our clients in this space as a trusted partner both on specific responsible investment product strategies as well as part of our commitment to deliver a superior investment experience.
+ Recruitment Agencies: 
+ Invesco has an in-house recruitment team, which focuses on sourcing great candidates directly. Invesco will not accept unsolicited resumes from agency or search firm recruiters. Fees will not be paid in the event a candidate submitted by a recruiter without an agreement in place is hired. When we do use agencies, we have a PSL in place, so please do not contact hiring managers directly.
+ Regulatory:
+ This position may fall in-scope of one or multiple regimes/directives.

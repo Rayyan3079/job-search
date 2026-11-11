@@ -1,0 +1,28 @@
+URL: https://www.linkedin.com/jobs/view/4488368904
+TITLE: Studentische Hilfskraft (m/w/d/x) im Forschungsprojekt MIRAKEL
+COMPANY: Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)
+LOC: Saarbrücken, Saarland, Germany
+POSTED: 2026-11-10
+title: Studentische Hilfskraft (m/w/d/x) im Forschungsprojekt MIRAKEL
+company: Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)
+posted: 14 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fstudentische-hilfskraft-m-w-d-x-im-forschungsprojekt-mirakel-at-deutsches-forschungszentrum-f%25C3%25BCr-k%25C3%25BCnstliche-intelligenz-dfki-4488368904&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Ihre Aufgaben
+ Modellierung und Pflege eines Knowledge Graphs für Gebäude- und Bauteildaten (Neo4j, RDF)
+ Entwicklung von Tools für einen agentischen LLM-Assistenten, z. B. zur Informationsextraktion aus Schadstoffgutachten
+ Evaluation der Tools und Antworten mit Langfuse
+ Prototypische Implementierungen
+ Unsere Anforderungen
+ Eingeschrieben in einem Bachelor- oder Masterstudiengang an der UdS mit einer erwarteten weiteren Studiendauer von mind. drei Semestern
+ Gute Deutsch- und Englischkenntnisse
+ Gute Kenntnisse in Python
+ Idealerweise bringen Sie mit: Erfahrung mit Neo4j/Cypher, RDF/OWL/SHACL oder LLM-Frameworks (z. B. PydanticAI, LangChain)
+ Was Sie erwarten können
+ Forschung an der Schnittstelle von KI und Kreislaufwirtschaft
+ Möglichkeit zur Seminar- oder Abschlussarbeit im Projektkontext
+ Mitarbeit in einem dynamischen Team
+ Individuelle Gestaltung der Arbeitszeiten und Option zum mobilen Arbeiten
+ Das Deutsche Forschungszentrum für Künstliche Intelligenz GmbH (DFKI) wurde 1988 als gemeinnützige Public-Private-Partnership (PPP) gegründet. Das DFKI verbindet wissenschaftliche Spitzenleistung und wirtschaftsnahe Wertschöpfung mit gesellschaftlicher Wertschätzung. Das DFKI forscht seit über 35 Jahren an KI für den Menschen und orientiert sich an gesellschaftlicher Relevanz und wissenschaftlicher Exzellenz in den entscheidenden zukunftsorientierten Forschungs- und Anwendungsgebieten der Künstlichen Intelligenz. In der internationalen Wissenschaftswelt zählt das DFKI zu den wichtigsten „Centers of Excellence“.
+Schwerbehinderte Bewerberinnen und Bewerber und Gleichgestellte werden bei gleicher Eignung besonders berücksichtigt. Das DFKI beabsichtigt, den Anteil von Frauen im Wissenschaftsbereich zu erhöhen und fordert deshalb Frauen ausdrücklich auf, sich zu bewerben.

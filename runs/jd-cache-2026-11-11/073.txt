@@ -1,0 +1,37 @@
+URL: https://www.linkedin.com/jobs/view/4487988167
+TITLE: Student (m/w/d) in der Fullstack-Softwareentwicklung einer Low-Code Integrationsplattform mit Schwäche für Java in Dresden gesucht
+COMPANY: SQL Projekt AG
+LOC: Dresden, Saxony, Germany
+POSTED: 2026-11-10
+title: Student (m/w/d) in der Fullstack-Softwareentwicklung einer Low-Code Integrationsplattform mit Schwäche für Java in Dresden gesucht
+company: SQL Projekt AG
+posted: 1 day ago
+applicants: 28 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fstudent-m-w-d-in-der-fullstack-softwareentwicklung-einer-low-code-integrationsplattform-mit-schw%25C3%25A4che-f%25C3%25BCr-java-in-dresden-gesucht-at-sql-projekt-ag-4487988167&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Werkstudent (m/w/d) in der Softwareentwicklung unserer Low-Code Integrationsplattform
+ Du möchtest bereits während deines Studiums Verantwortung übernehmen, sinnstiftende Arbeit leisten und dir etwas hinzuverdienen? Dann werde Teil unseres großartigen Teams und bring dich mit ungebremstem Tatendrang in die Entwicklung unserer Low-Code Integrationsplattform TRANSCONNECT ein. Entwickle mit uns eine skalierbare und hochverfügbare Backendlösung mit AI.
+ Werde Teil unseres großartigen Teams! 
+ Bei uns bringst du dein Können vom ersten Tag an ein. Wir suchen Menschen, die für ihre Ideen brennen, Innovationen vorantreiben und Teamplayer sind. Wir bieten dir Einblicke in die Produkt- und Softwareentwicklungsprozesse, Verantwortung und Perspektiven sowie ein Arbeitsumfeld, das geprägt ist durch Teamgeist, Mitsprache und Transparenz.
+WAS ERWARTET DICH BEI UNS?
+ Aufgaben rund um die Entwicklung unsere Produktlandschaft TRANSCONNECT
+ Kontakt zu „echten“ Kunden mit ihren individuellen Anforderungen
+ Gelebter Erfahrungs- und Wissensaustausch
+ Moderne AI gestützte Entwicklungsprozesse
+ Agiles Mindset vom Studenten bis zum Vorstand, Teamgeist und Flexibilität
+ WAS BRINGST DU MIT?
+ Neugier und die Bereitschaft und Fähigkeit, dich in neue Technologien und Aufgabengebiete einzuarbeiten 
+ Team- und kundenorientierte, eigenständige Arbeitsweise 
+ Programmier-Erfahrungen, mit Java und Frameworks wie Spring
+ Kenntnisse zu XML und XSLT
+ Optionale Kenntnisse im Umgang mit Docker, Gitlab CI/CD, Argo CD, Kubernetes, Helm
+ Kommunikationsstärke in deutscher und englischer Sprache 
+ WAS WIR BIETEN!
+ Flexible Arbeitszeiten und mobiles Arbeiten, passend zu deinem Studienplan 
+ Volle Integration in ein Entwicklungsteam und unsere agilen Entwicklungsprozesse 
+ Individuelle Entwicklungsmöglichkeiten nach deinen Interessen und Talenten: Backend, Frontend, DevOps oder Fullstack 
+ Option für Abschlussarbeiten und anschließenden Berufseinstieg 
+ Du bist neugierig geworden? Dann freuen wir uns auf deine Bewerbung.
+ Wir wollen Vielfalt leben. Darum sind bei uns alle willkommen, die mit uns ihre Begeisterung für innovative Softwareentwicklung teilen — völlig egal welchen Geschlechts, Alters oder ethnischen Hintergrunds. Wir freuen uns ebenfalls jederzeit über Bewerbungen von Menschen mit Behinderung.
+ Skills zu dieser Stellenanzeige: Softwareentwicklung, Werkstudent, Informatik, Dresden, Spring / Spring Framework, Backendentwicklung, Integrationsplattform, Java, frontend, Frontend, DevOps, Grafikdesign, AI, KI, Grafik, webdesign, Webdesign, Kubernetes, Front-end und front-end
+ Wichtiger Hinweis Das ist eine Anzeige des Empfehlungsbund (EBND) über ITsax.de. Weitere wichtige Informationen zur Anzeige finden Sie unter https://www.itsax.de/jobs/309263/student-m-strich-w-strich-d-in-der-fullstack-softwareentwicklung-einer-low-code-integrationsplattform-mit-schwaeche-fuer-java-in-dresden-gesucht

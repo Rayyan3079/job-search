@@ -20,6 +20,6 @@ Internships, thesis roles, full-time roles and German-required roles are listed 
 
 ## Latest run
 
-**2026-11-09**: 58 new jobs (quiet run). 1 package: [Recall Space Mannheim – Werkstudent Software Development (AI)](output/2026-11-09/recall-space-werkstudent-software-development-ai/) (3). Report: [digests/2026-11-09.md](digests/2026-11-09.md).
+**2026-11-11**: 164 new jobs checked. 3 packages: [BNP Paribas – Intern – Global Markets Data & AI Lab](output/2026-11-11/bnp-paribas-intern-global-markets-data-ai-lab/) (3), [CWS Hygiene International – Working Student Commercial Growth & Performance (Strategy, Data Analytics & AI)](output/2026-11-11/cws-working-student-commercial-growth-data-ai/) (3), [Olympus – Working Student Business Analysis](output/2026-11-11/olympus-working-student-business-analysis/) (2.5). Report: [digests/2026-11-11.md](digests/2026-11-11.md).
 
 Applied and waiting: 15 applications (KWS, Munich Re x2, Atlas Copco, ZEISS, AgentixLake x2, IMMS, SAP x2, Airbus, BASF, Hilti, Carnival Maritime, Solactive). See [data/applications.md](data/applications.md).

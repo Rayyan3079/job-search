@@ -1,0 +1,33 @@
+URL: https://www.linkedin.com/jobs/view/4488463948
+TITLE: Trainee Spezialist Data Scientist (m/w/d)
+COMPANY: AOK Rheinland/Hamburg - Die Gesundheitskasse
+LOC: Dortmund, North Rhine-Westphalia, Germany
+POSTED: 2026-11-07
+title: Trainee Spezialist Data Scientist (m/w/d)
+company: AOK Rheinland/Hamburg - Die Gesundheitskasse
+posted: 4 days ago
+applicants: 75 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Ftrainee-spezialist-data-scientist-m-w-d-at-aok-rheinland-hamburg-die-gesundheitskasse-4488463948&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Willkommen bei der Gesundheitskasse – einer starken Gemeinschaft aus vielen unterschiedlichen Menschen! Unsere individuellen Stärken setzen wir zusammen dafür ein, dass unsere Versicherten gesund bleiben und werden. Dabei entwickeln wir uns persönlich immer weiter und unterstützen uns gegenseitig auf diesem Weg. Weil für uns gilt: Besser gemeinsam weiterkommen.
+Aufgaben, durch die du weiterkommst
+ Extrahiere benötigte Daten unter Anwendung von „Data-Mining“ und Machine Learning“ Methoden
+ Erstelle und entwickle Prognosemodelle auf Basis der Vorhersagen zur Optimierung von Geschäftsprozessen
+ Informiere dich über Trends und Entwicklungen am Markt zur Aufbereitung von Daten sowie Anwendung von neuen Methoden und Verfahren
+ Bereite Analyseergebnisse allgemeinverständlich auf und visualisiere diese
+ Berate einzelne Fachbereiche in Bezug auf die Analyseergebnisse
+ Fähigkeiten, die du einbringst
+ Du verfügst über einen Masterabschluss in Data Science, Statistik, Informatik mit Schwerpunkt Data Science oder (Wirtschafts-) Informatik – alternativ hast Du einen vergleichbaren Studienabschluss.
+ Du besitzt überdurchschnittliche analytische und strategische Fähigkeiten, sowie Kreativität und Neugier für aktuelle IT-Trends.
+ Strukturiertes Arbeiten und analytisches Denken sowie eine ausgeprägte Teamorientierung sind deine Stärken.
+ Sicheres Auftreten sowie Kommunikations- und Präsentationsstärke runden dein Profil ab. Da du im Arbeitsalltag im internen fachlichen Austausch als auch mit externen Partnern kommunizierst, bringst du sehr gute Deutschkenntnisse (Sprachniveau C1) mit.
+ Vorteile, die deinen Alltag besser machen
+ Sicherheit | Sichern Sie sich eine abwechslungsreiche Tätigkeit bei einem bedeutenden Arbeitgeber im Gesundheitswesen – mit einem unbefristeten Arbeitsvertrag.
+ Gehalt und mehr | Profitieren Sie von einer ansprechenden Vergütung von jährlich 57.676 Euro (bei 38,5 Stunden wöchentlich) inklusive Sonderzuwendungen und Urlaubsgeld und erhalten Sie zuzüglich ggf. familienbezogene Sozialzuschläge.
+ Work-Life-Balance | Flexible Arbeitszeiten (an den Servicezeiten ausgerichtet), sowie 30 Urlaubstage sind bei uns selbstverständlich.
+ Persönliche Weiterentwicklung | Wir bieten Ihnen Weiterbildungen in unserem hauseigenen Bildungszentrum oder über unsere digitale Lernplattform.
+ Gesundheit | Gesundheit ist uns wichtig! Daher bieten wir unseren Mitarbeitenden ein Betriebliches Gesundheitsmanagement mit z.B. Gesundheitstagen, Kursangeboten und einem jährlichen Zuschuss von 175 Euro für u.a. die Mitgliedschaft in einem Fitnessstudio oder Ihren Fahrradkauf.
+ Exklusive Rabatte | Über unsere Partnerplattform „Corporate Benefits“ bieten wir exklusive Mitarbeiterkonditionen bei namhaften Anbietern.
+ Und jetzt?
+Werde Teil der AOK-Gemeinschaft. Wir freuen uns auf Dich!
+Als Arbeitgeberin wünschen wir uns Vielfalt! Dabei begrüßen wir jedes Geschlecht und Alter, jede Nationalität sowie ethnische und soziale Herkunft, als auch Religion und Weltanschauung, Behinderung, sowie sexuelle Orientierung und Identität.

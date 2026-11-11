@@ -1,0 +1,60 @@
+URL: https://www.linkedin.com/jobs/view/4487460766
+TITLE: Data Analyst (Power BI)
+COMPANY: pasiona
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-10
+title: Data Analyst (Power BI)
+company: pasiona
+posted: 20 hours ago
+applicants: 46 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fes.linkedin.com%2Fjobs%2Fview%2Fdata-analyst-power-bi-at-pasiona-4487460766&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Descripción del puesto / Funciones
+ ¿Te apasiona el análisis de datos y disfrutas transformando información en soluciones de Business Intelligence que aporten valor al negocio?
+Buscamos un/a Data Analyst especializado/a en Power BI para incorporarse al equipo de Central Data Management de un importante proyecto internacional, participando en el mantenimiento, evolución y optimización de dashboards e informes destinados a monitorizar las diferentes actividades de gestión de datos.
+La persona seleccionada tendrá un papel clave en la transformación de necesidades de negocio en soluciones analíticas robustas, garantizando la calidad, fiabilidad y rendimiento de las herramientas de reporting.
+ Diseñar, desarrollar y mantener dashboards e informes avanzados en Power BI.
+ Recopilar, analizar y clarificar los requisitos y necesidades de negocio.
+ Traducir las necesidades funcionales en soluciones de reporting y analítica.
+ Diseñar, construir y mantener modelos de datos semánticos robustos.
+ Desarrollar medidas, cálculos y KPIs avanzados utilizando DAX.
+ Construir y optimizar transformaciones de datos y procesos ETL mediante Power Query.
+ Mejorar la usabilidad, fiabilidad, mantenibilidad y rendimiento de los informes.
+ Realizar tareas de troubleshooting y mantenimiento de soluciones Power BI existentes.
+ Dar soporte a los usuarios y gestionar solicitudes de mejora y evolutivos.
+ Colaborar con los equipos de negocio y técnicos para garantizar la correcta implementación de las soluciones.
+ Proponer mejoras e iniciativas para optimizar las herramientas de reporting y gestión de datos.
+ Requisitos mínimos
+ Experiencia sólida y demostrable desarrollando soluciones Power BI en entornos corporativos.
+ Conocimientos avanzados de Power BI, incluyendo desarrollo de dashboards e informes.
+ Experiencia en modelado de datos semánticos.
+ Dominio de DAX para el desarrollo de medidas y cálculos avanzados.
+ Experiencia con Power Query y procesos de transformación de datos ETL.
+ Experiencia en entornos de Business Intelligence y gestión de reporting.
+ Conocimientos de optimización del rendimiento, calidad y mantenibilidad de soluciones Power BI.
+ Experiencia en mantenimiento, troubleshooting y evolución de informes y dashboards existentes.
+ Familiaridad con conceptos de Data Management, especialmente Data Governance, Data Compliance y Data Quality.
+ Capacidad para analizar y comprender necesidades de negocio y traducirlas en soluciones técnicas.
+ Capacidad para trabajar de forma autónoma, con iniciativa y proactividad.
+ Buenas habilidades de comunicación y colaboración con diferentes stakeholders.
+ Nivel de inglés profesional (imprescindible).
+ Requisitos valorables
+ Experiencia trabajando en entornos Azure Delta Lake.
+ Conocimientos de Databricks.
+ Experiencia con Azure DevOps.
+ Conocimientos de SSAS Cubes.
+ Experiencia en proyectos de Data Management y Data Governance.
+ Experiencia trabajando con equipos internacionales y multidisciplinares.
+ Idiomas
+ Inglés profesional (imprescindible).
+ Ubicación
+ Barcelona.
+ ¿Por qué nosotros?
+ ¡Un día libre por tu cumpleaños para que lo celebres como quieras!
+Mejoras en permisos retribuidos para un mejor equilibrio personal y profesional.
+Acceso a seguro médico privado para tu tranquilidad.
+Días de vacaciones extra según tu antigüedad, porque valoramos tu descanso y bienestar.
+En Pasiona apostamos por la diversidad y la igualdad de oportunidades.
+Animamos a postularse a todas las personas, con independencia de su género, edad, discapacidad, orientación sexual, identidad de género, origen étnico, religión u otras circunstancias personales o sociales.
+ ¿Quiénes somos?
+ Pasiona Consulting es una consultora tecnológica, partner de Microsoft, dedicada al diseño, desarrollo e implementación de aplicaciones de software a medida para clientes de múltiples sectores.

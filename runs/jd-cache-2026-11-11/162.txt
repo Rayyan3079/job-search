@@ -1,0 +1,40 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-m-w-d-KI-Automatisierung-Prozessdigitalisierung-Buch-am-Erlbach-Augsburg-Winklmaier-Versicherungs-u-Vorsorgemanagement-GmbH--14732030-inline.html
+TITLE: Werkstudent (m/w/d) KI, Automatisierung & Prozessdigitalisierung
+COMPANY: Winklmaier Versicherungs- u. Vorsorgemanagement GmbH
+LOC: Buch am Erlbach, Augsburg
+POSTED: stepstone
+title: Werkstudent (m/w/d) KI, Automatisierung & Prozessdigitalisierung
+company: Winklmaier Versicherungs- u. Vorsorgemanagement GmbH
+posted: 2026-11-09T12:41:08.25Z
+location: Buch am Erlbach | remote: 
+---
+Einleitung
+ Winklmaier VVM GmbH ist ein Versicherungsmakler für Privat- und Gewerbekunden mit rund 20 Mitarbeitern. Wir bauen unsere Prozesse konsequent digital und KI-gestützt auf. Für den Aufbau unserer IT- und KI-Infrastruktur 2027 suchen wir einen Werkstudenten (m/w/d), der KI-Workflows, Prozessautomatisierung und Systemanbindungen mit uns entwickelt – produktiv, nicht im Labor.
+ Aufgaben
+ Aufbau und Weiterentwicklung von KI-Workflows mit Claude für Angebots-, Schaden- und Backoffice-Prozesse
+ Automatisierung wiederkehrender Abläufe (Workflows, Systemanbindungen, Datenflüsse) – z. B. Postfach-Routing, Dokumentenverarbeitung, Datenabgleich
+ Anbindung unserer Systeme: Maklerverwaltungsprogramm, Microsoft 365, BiPRO-Schnittstellen und Pools
+ Entwicklung kleiner interner Tools und Dashboards für Vertrieb und Operations
+ Einführung von Monitoring und Logging für unsere Automatisierungen, Fehleranalyse im laufenden Betrieb
+ Dokumentation und Schulung: Mitarbeitende beim Einsatz neuer KI-Tools unterstützen
+ Enge Zusammenarbeit mit Geschäftsführung und Operations
+ Profil
+ Eingeschriebener Student (m/w/d) in Wirtschaftsinformatik, Informatik, Data Science, Digital Business oder vergleichbar
+ Erfahrung mit Python oder JavaScript/TypeScript
+ Praktische Erfahrung mit KI-Tools und LLMs (z. B. Claude, ChatGPT) – idealerweise über Prompting hinaus
+ Grundverständnis von APIs, Schnittstellen und Datenstrukturen (JSON, REST)
+ Interesse an Prozessen und daran, wie ein Unternehmen wirklich arbeitet
+ Strukturierte, selbstständige und zuverlässige Arbeitsweise
+ Sehr gute Deutschkenntnisse
+ Erfahrung mit Automatisierungs-Tools (z. B. n8n, Make, Power Automate) oder MCP-Servern
+ Kenntnisse in Microsoft 365 / Graph API, SharePoint
+ Erste Berührungspunkte mit Monitoring- oder Logging-Tools
+ Interesse an Versicherungen – Branchenwissen bringen wir dir bei
+ Wir bieten
+ Mitarbeit an produktiven Systemen, die täglich im Einsatz sind
+ Direkter Draht zur Geschäftsführung, flache Hierarchien
+ Echte Verantwortung: Deine Lösungen gehen live
+ Flexible Arbeitszeiten neben dem Studium, Remote-Arbeit möglich
+ Faire Vergütung und Option auf Abschlussarbeit oder Festanstellung
+ Weitere Informationen
+ - Arbeitszeit: 15–20 Stunden pro Woche - Start: 01.01.2027 - Wir haben dein Interesse geweckt? Schick uns deinen kurzen Lebenslauf, Infos zu deinem Studiengang und optional dein GitHub-Profil, Projektbeispiele oder einen KI-Workflow, auf den du stolz bist. - Bewerbung an: Maximilian Winklmaier, maximilian@winklmaier.info

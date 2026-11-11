@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4488850111
+TITLE: Working Student Technical Product Management
+COMPANY: THRYVE
+LOC: Greater Munster Area
+POSTED: 2026-11-09
+title: Working Student Technical Product Management
+company: THRYVE
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+Working Student Technical Product Management 
+ Location: 100% remote within Germany
+ Start: Immediately
+ Working student: 15–20 hours per week
+ Are you interested in the intersection of technology, AI and product development—and looking to gain practical experience or complete your university thesis with an established technology company?
+ Our client is a German software and AI company with around 300 employees and strong academic roots. Founded by a university professor, the company combines research-driven thinking with the development of digital products used by major organisations across Germany, particularly within the financial sector.
+ What you could work on 
+ Developing customer use cases and building proof of concepts on a conversational AI platform
+ Translating customer requirements into structured technical solutions
+ Supporting quality assurance and testing platform functionality
+ Investigating complex technical support requests
+ Creating user documentation, technical guides and best practices
+ Working closely with product, engineering and customer-facing teams
+ Exploring a clearly defined technical or product-focused thesis topic with expert guidance
+ What you should bring 
+ Current enrolment in Computer Science, Business Informatics or a comparable technical subject
+ Initial experience in product management, requirements engineering or relevant university projects
+ A good technical understanding of APIs, JSON and logical system structures 
+ An understanding of LLMs and conversational AI 
+ The ability to explain and document technical topics clearly
+ Ideally, experience with Jira, Confluence, AI tools or low-code/no-code platforms
+ A structured, analytical and hands-on approach
+ Fluent German—minimum C1 level—and good English 
+ Residence in Germany
+ What’s on offer 
+ 100% remote working within Germany
+ Flexible working hours around your studies
+ Practical experience with a real conversational AI product
+ Support from experienced product and engineering teams
+ Training and professional development opportunities
+ The potential to move into permanent employment after your studies
+ Apply now and let us know whether you’re interested in joining as a working student, completing your thesis with the company—or potentially both.

@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Working Student (m/f/d) Business Analysis",
+    "company": "Olympus",
+    "city": "Hamburg",
+    "greeting": "Dear Olympus hiring team,",
+    "opening": "I am applying for the Working Student position in Business Analysis. Maintaining and analysing data, building dashboards from several sources and preparing management reports is what I did in my previous roles.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with four SAP Certified Associate certifications. I worked as a Business Analyst at Tapal Tea and in SAP data and analytics at TallyMarks Consulting.",
+    "achievements": [
+      {
+        "lead": "Dashboards",
+        "impact": "I built quality inspection and employee expense reimbursement dashboards in SAP Analytics Cloud and supported around 30 dashboards across HR, finance, supply chain and procurement"
+      },
+      {
+        "lead": "Financial data",
+        "impact": "I used SQL analysis, validation and reconciliation to keep financial and operational reporting accurate"
+      },
+      {
+        "lead": "SQL and Python",
+        "impact": "I write SQL queries and use Python for data work, most recently in DocuMind, an evaluated AI application"
+      }
+    ],
+    "problems_section": "I would maintain databases, analyse spend and transfer-of-value data, build dashboards and support the disclosure process carefully. My Power BI is basic and I have not used the Power Platform; I build dashboards quickly in SAP Analytics Cloud and would get up to speed fast.",
+    "closing": "I am willing to relocate to Hamburg and can work up to 20 hours per week, including the office days you need, starting immediately. I would be glad to discuss the role.",
+    "date": "2026-11-11",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-11-11/olympus-working-student-business-analysis/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

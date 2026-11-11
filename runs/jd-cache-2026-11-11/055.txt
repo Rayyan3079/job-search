@@ -1,0 +1,50 @@
+URL: https://www.linkedin.com/jobs/view/4481207037
+TITLE: GBS Data Analytics Analyst
+COMPANY: IFF
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-10
+title: GBS Data Analytics Analyst
+company: IFF
+posted: 19 hours ago
+applicants: 64 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fhu.linkedin.com%2Fjobs%2Fview%2Fgbs-data-analytics-analyst-at-iff-4481207037&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Summary
+ GBS Data Analytics Analyst
+Are you passionate about turning complex data into strategic insights that drive business performance on a global scale?
+IFF is a global leader in flavors, fragrances, food ingredients and health & biosciences. We deliver sustainable innovations that elevate everyday products.
+ Global Business Services: Delivering streamlined, scalable support, enhancing efficiency, compliance and service excellence across the company.
+The role is based in Budapest, Hungary (hybrid role) . Be part of an agile, technically driven, and customer-focused team where together we can achieve greatness and make a real impact. Your potential is our inspiration.
+ Where You'll Make a Difference
+ Design and implement enterprise-scale data pipelines and advanced analytics dashboards, including solutions powered by artificial intelligence-enabled analytics tools such as Microsoft Copilot Agents and Claude.
+ Develop and optimize data ingestion, transformation, and modeling workflows across structured data environments and cloud-based platforms.
+ Build and implement best-practice solutions using Microsoft Fabric, Snowflake, and Power BI to deliver scalable, secure, and high-performing data products.
+ Collaborate with cross-functional stakeholders to translate complex business and finance requirements, including Order to Cash (OTC), Source to Pay (STP), and Record to Report (RTR), into actionable data strategies.
+ Develop robust, governed Power BI datasets and dashboards that enable self-service analytics and data-driven decision making across the organization.
+ Implement and maintain data governance, data quality, security, and compliance standards across analytics initiatives.
+ Deliver advanced analytics insights and reporting that support operational excellence, process optimization, and strategic decision making.
+ Partner with business, finance, and technology stakeholders to identify opportunities for automation, innovation, and data transformation.
+ Contribute to a culture of technical excellence by sharing expertise, promoting best practices, and supporting the growth of data engineering and analytics capabilities within the team.
+ What Makes You The Right Fit
+ Bachelor's or Master's degree in Computer Science, Data Engineering, Statistics, Information Technology, or a related field.
+ Minimum 2-3 years of experience in data analytics, business intelligence, data engineering, or related disciplines.
+ Expert-level proficiency in SQL and relational database technologies.
+ Strong hands-on experience with Snowflake, Microsoft Fabric, and Power BI.
+ Proven track record of designing, building, and scaling cloud-based data pipelines and analytics platforms.
+ Solid understanding of finance process domains, including Order to Cash (OTC), Source to Pay (STP), and Record to Report (RTR).
+ Deep understanding of data modeling, orchestration, governance, and performance optimization.
+ Excellent communication and stakeholder management skills, with the ability to influence both technical and non-technical audiences.
+ Fluent English language skills and the ability to thrive in a fast-paced, global environment.
+ How Would You Stand Out?
+ Experience with enterprise-grade data orchestration tools, including Snowflake orchestration capabilities.
+ Proficiency in Python, Microsoft Fabric, and Power BI for advanced data transformation, automation, and visualization, combined with familiarity with Agile methodologies, Continuous Integration/Continuous Deployment (CI/CD) pipelines, and Git.
+ Strategic mindset with curiosity for emerging technologies and a passion for driving business value through data and analytics.
+ Why Choose Us?
+ Hybrid working model (up to 3 days per week home office)
+ Cafeteria benefits, annual bonus, and private health insurance
+ Professional onboarding process in a multinational and supportive environment
+ Learning and development programs from day one
+ Professional training opportunities
+ Global career growth opportunities within IFF
+ We are a global leader in taste, scent, and nutrition, offering our customers a broader range of natural solutions and accelerating our growth strategy. At IFF, we believe that your uniqueness unleashes our potential. We value the diverse mosaic of the ethnicity, national origin, race, age, sex, or veteran status. We strive for an inclusive workplace that allows each of our colleagues to bring their authentic self to work regardless of their religion, gender identity & expression, sexual orientation, or disability.
+Visit IFF.com/careers/workplace-diversity-and-inclusion to learn more
