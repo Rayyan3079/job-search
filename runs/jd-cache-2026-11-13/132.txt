@@ -1,0 +1,37 @@
+URL: https://www.linkedin.com/jobs/view/4490383877
+TITLE: Werkstudent (m/w/d) für autonome Künstliche Intelligenz (KI) Systeme zur Cyberabwehr
+COMPANY: Thales
+LOC: Ditzingen, Baden-Württemberg, Germany
+POSTED: 2026-11-12
+title: Werkstudent (m/w/d) für autonome Künstliche Intelligenz (KI) Systeme zur Cyberabwehr
+company: Thales
+posted: 5 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-m-w-d-f%25C3%25BCr-autonome-k%25C3%25BCnstliche-intelligenz-ki-systeme-zur-cyberabwehr-at-thales-4490383877&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Location: Stuttgart, Germany
+ We Say HI*
+ Werkstudent (w/m/d) für autonome Künstliche Intelligenz (KI) Systeme zur Cyberabwehr (R0347718)
+ Thales ist ein weltweit führender Anbieter von Spitzentechnologien für die Bereiche Verteidigung, Luft- und Raumfahrt sowie Cyber Security und Digital Identity.
+In Ditzingen erwarten Sie Sicherheitslösungen zur Überwachung und Absicherung von Grenzen und Grenzkontrollen, für den Schutz ziviler und militärischer Einrichtungen sowie für die taktische Kommunikation. Hier sind Sie richtig, wenn Sie gemeinsam mit uns taktische und einsatzerprobte Funkgeräte für die vernetzte Operationsführung im militärischen Einsatz enzwickeln und produzieren wollen. Werden Sie Teil des Thales-Expertenteams für Funkgeräte, Cybersecurity und Kryptographie, für Verschlüsselungskomponenten und Hardware-Security-Module sowie für elektronische Schlüsselmanagementsysteme. Wir freuen uns auf Sie!
+ Ihre Mission als Werkstudent (m/w/d) für autonome Künstliche Intelligenz (KI) Systeme zur Cyberabwehr:
+ Entwicklung und Optimierung von Adversarial Machine Learning (AML) zur Stärkung autonomer Cyberabwehrsysteme
+ Umsetzung und Evaluation von AML-Ansätzen in Netzwerk-Simulationsumgebungen zur Abwehr realer und unvorhersehbarer Cyberbedrohungen
+ Weiterentwicklung automatisierter Blue- und Red-Teaming-Ansätze mit Large Language Models (LLMs)
+ Analyse und Verbesserung der Robustheit von Sicherheitslösungen in den Bereichen Intrusion Detection und Netzwerksicherheit
+ Dokumentation und Präsentation von Forschungsergebnissen im interdisziplinären cortAIx-Team
+ Darauf freuen wir uns:
+ Studium der Informatik, Künstlichen Intelligenz, Netzwerksicherheit, Mathematik, Ingenieurwissenschaften oder einer vergleichbaren Fachrichtung
+ Kenntnisse in Künstlicher Intelligenz und Maschinellem Lernen
+ Erfahrung mit Netzwerksicherheitstechnologien und Cybersecurity-Praktiken
+ Gute Programmierkenntnisse in Python, Java, C oder C++
+ Kenntnisse in Intrusion Detection, Netzwerk-Simulationen oder autonomen Agentensystemen von Vorteil
+ Selbstständige Arbeitsweise, Teamgeist und ausgeprägte Problemlösungskompetenz
+ Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
+ Thales investiert jährlich mehr als 4,5 Milliarden Euro in Forschung und Entwicklung in Schlüsseltechnologien wie künstliche Intelligenz, Cybersicherheit, Quanten- und Cloud-Technologien.
+Im Jahr 2025 erwirtschaftete die Gruppe einen Umsatz von 22,1 Milliarden Euro.
+Für mehr als 85.000 Mitarbeitende in 65 Ländern eröffnen wir zukunftsweisende Perspektiven, verwirklichen individuelle Karrierewege und ermöglichen kreative Freiräume. Dies gelingt durch Mut, Vielfalt und den festen Willen, die anspruchsvollen Herausforderungen unserer Zeit sicherer und inklusiver zu gestalten. Mit unserer nachhaltigen, werteorientierten Personalführung treten wir aktiv für Diversität ein.
+ Say HI* – Dein Weg zu uns
+ Wenn die Zeichen der Zeit auf Veränderung stehen, sind unsere internationalen Teams da, um der Komplexität von heute mit den branchenführenden Technologien von morgen zu begegnen. Bist Du dabei? Deine Ansprechpartnerin Sophia Schneider freut sich schon auf Deine Online-Bewerbung über unser Karriereportal.
+Sophia Schneider
+ Human Intelligence

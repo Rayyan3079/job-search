@@ -1,0 +1,53 @@
+URL: https://www.linkedin.com/jobs/view/4489272811
+TITLE: Praktikum im Bereich Digital Analytics & Business Intelligence
+COMPANY: Liebherr Group
+LOC: Ulm, Baden-Württemberg, Germany
+POSTED: 2026-11-12
+title: Praktikum im Bereich Digital Analytics & Business Intelligence
+company: Liebherr Group
+posted: 11 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikum-im-bereich-digital-analytics-business-intelligence-at-liebherr-group-4489272811&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Für unser Team im Bereich Digital Products suchen wir dich an unserem Standort im Ulmer Science Park III für ein Praktikum im Bereich Digital Analytics & Business Intelligence.
+Bei uns arbeitest du dort, wo Daten, Technologie und digitale Produkte zusammenkommen. Gemeinsam entwickeln wir Reporting- und Analytics-Lösungen für unterschiedliche Bereiche wie eCommerce, Marketing & Kommunikation sowie unsere digitalen Produkte – von der Datenquelle über Datenmodelle und Transformationen bis hin zum fertigen Power BI Report.
+ Das sind deine Aufgaben
+ Entwicklung, Verwaltung und Optimierung von Power BI Reports – vom Datenmodell und PowerQuery bis zur Visualisierung und zum Dashboard-Design
+ Weiterentwicklung unserer Power BI Entwicklungsprozesse mit GitHub, einschließlich Versionierung, Dokumentation und strukturierten Workflows
+ Aufbereitung und Analyse von Daten aus Google Analytics, Google BigQuery und weiteren Digital-Analytics-Systemen
+ Aufbau und Optimierung von Datenströmen und Transformationen mit Adverity und Databricks
+ Nutzung und Weiterentwicklung von Databricks als zentrale Plattform für die Speicherung und Verarbeitung unserer Digital-Analytics-Daten
+ Dokumentation von Prozessen, KPIs, Datenmodellen und Datenströmen, beispielsweise in Confluence
+ Aufnahme, Strukturierung und Konkretisierung von Anforderungen gemeinsam mit unseren internen Stakeholdern
+ Unterstützung bei der Vermittlung von Data Insights sowie bei Projektplanung und Aufgabensteuerung mit Jira
+ Das bringst du mit
+ Du studierst Wirtschaftsinformatik, Data Science, BWL, Marketing oder einen vergleichbaren Studiengang und begeisterst dich für Daten und Kennzahlen
+ Du interessierst dich für digitale Themen wie Websites, Apps, eCommerce, Social Media, SEA und SEO
+ Du arbeitest dich gerne tief in Datenstrukturen und technische Zusammenhänge ein und hast einen hohen Anspruch an Datenqualität
+ Du hast ein Gespür dafür, komplexe Daten in verständliche und visuell ansprechende Reports und Dashboards zu übersetzen
+ Erste Erfahrungen mit Power BI sind ideal; Kenntnisse in PowerQuery, M, DAX, SQL oder Python sind ein zusätzliches Plus
+ Technologien wie GitHub, Databricks, Google Analytics oder BigQuery findest du spannend und arbeitest dich gerne in neue Tools ein
+ Du arbeitest kreativ, analytisch, strukturiert und lösungsorientiert und gehst sicher mit MS Office um
+ Du verfügst über fließende Deutsch- und gute Englischkenntnisse
+ Das bieten wir dir
+ Als innovatives Familienunternehmen wissen wir, dass Deine Ideen unsere Zukunft sind. Darum übertragen wir nach entsprechender Einarbeitung schon früh Verantwortung. Spannende und abwechslungsreiche Themen warten auf dich!
+Profitiere außerdem von unseren Benefits:
+ Attraktive Vergütung
+ Flexible Arbeitszeiten
+ Hohes Maß an Eigenständigkeit
+ Individuelle Weiterbildungsmöglichkeiten
+ Möglichkeit für bezuschusstes gesundes Mittagessen in einem Betriebsrestaurant
+ Betriebliches Gesundheitsmanagement
+ Bitte schicke uns mit der Online-Bewerbung einen Nachweis der aktuellen Studienleistungen, eine gültige Immatrikulationsbescheinigung sowie die Praktikumsrichtlinie als Nachweis der vorgeschriebenen Praktikumsdauer.
+Haben wir Dein Interesse geweckt? Dann freuen wir uns über Deine Online-Bewerbung. Bei Fragen kontaktiere bitte Lena Dangel.
+ One Passion. Many Opportunities.
+ Das Unternehmen
+ Im Produktsegment Kühl- und Gefriergeräte entwickelt, fertigt und verkauft Liebherr bereits seit 1954 ein breites Spektrum an effizienten Kühl- und Gefriergeräten für den privaten und professionellen Einsatz. Um Kunden stets mit innovativen Lösungen zu begeistern, werden dabei deren Bedürfnisse in den Mittelpunkt gesetzt und die Grenzen des bisher Machbaren immer wieder neu definiert. Kühl- und Gefriergeräte von Liebherr gelten in der Branche und bei Kunden als Symbol für höchste Qualität – heute in Europa und morgen weltweit.
+ Standort
+ Liebherr-Hausgeräte Ochsenhausen GmbH
+Konrad-Zuse-Straße 4
+89081 Ulm
+Deutschland (DE)
+ Kontakt
+ Lena Dangel
+Lena.Dangel@liebherr.com

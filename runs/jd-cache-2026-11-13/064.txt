@@ -1,0 +1,39 @@
+URL: https://www.linkedin.com/jobs/view/4487452799
+TITLE: SAP Analytics Cloud Consultant (z językiem polskim)
+COMPANY: LeverX
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-10
+title: SAP Analytics Cloud Consultant (z językiem polskim)
+company: LeverX
+posted: 2 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+W LeverX wierzymy, że za świetną technologią stoją przede wszystkim świetni ludzie . Jesteśmy międzynarodową firmą ze statusem SAP Gold Partner, z ponad 20-letnim doświadczeniem i ponad 1500 zrealizowanymi projektami SAP dla klientów – od rozwijających się firm po przedsiębiorstwa z listy Fortune 500.
+ Za tymi liczbami stoi ponad 2200 specjalistów z 45 krajów, którzy pozostają z nami średnio ponad 4 lata, często rozwijając swoją karierę i awansując na stanowiska liderskie oraz menedżerskie.
+ Tworzymy zespół, który dzieli się wiedzą, wspiera się nawzajem i wierzy, że zawsze jest przestrzeń do rozwoju. Czekają tu na Ciebie ambitne projekty, doświadczeni współpracownicy, od których możesz się uczyć, oraz możliwości dalszego rozwoju kariery – a wszystko to w środowisku, w którym Twoje samopoczucie i komfort pracy są równie ważne jak osiągane wyniki .
+Brzmi jak miejsce dla Ciebie? Obecnie poszukujemy SAP Analytics Cloud Consultant, który dołączy do naszego zespołu! 
+Co oferujemy: 
+ Projekty SAP, które pozwalają się rozwijać: Pracuj z SAP S/4HANA Cloud, SAP BTP, RAP i innymi nowoczesnymi technologiami SAP przy projektach wdrożeniowych end-to-end, rozwojowych i transformacyjnych w różnych branżach.
+ Możliwość współtworzenia rozwiązań SAP: Większość konsultantów pracuje z technologiami SAP. My, jako SAP Gold Partner, realizujemy również projekty bezpośrednio dla SAP .
+ Globalna społeczność ekspertów SAP: Wymieniaj się wiedzą, rozwiązuj złożone problemy i ucz się od doświadczonych specjalistów z różnych krajów i obszarów SAP.
+ Przestrzeń do rozwoju – Level UP!: Rozwijaj swoje kompetencje dzięki mentoringowi, szkoleniom wewnętrznym, meetupom technicznym i możliwości podejmowania nowych wyzwań.
+ Stabilność zatrudnienia niezależnie od projektu: Zatrudniamy z myślą o długoterminowej współpracy, a nie tylko na potrzeby jednego projektu. Gdy projekt dobiega końca, staramy się znaleźć dla Ciebie kolejne możliwości rozwoju w LeverX.
+ Dbamy o Twój well-being: Oferujemy elastyczne formy pracy oraz inicjatywy wspierające zdrowie psychiczne i fizyczne, pomagając zachować zdrowy work-life balance.
+ Zespół, na który możesz liczyć: Stawiamy na otwartą komunikację, wzajemne wsparcie i kulturę, w której wkład każdej osoby ma znaczenie. Nasi pracownicy pozostają z nami średnio ponad 4 lata.
+Wymagania:
+ Minimum 4 lata praktycznego doświadczenia w pracy z SAP Analytics Cloud (SAC) , w tym bardzo dobra znajomość SAC Planning, modeli planistycznych i aplikacji.
+ Doświadczenie w obszarze budżetowania, forecastingu i planowania zarządczego .
+ Dobra znajomość SAP S/4HANA , integracji z SAC oraz zagadnień związanych z SAP CO i planowaniem finansowym.
+ Doświadczenie w przekładaniu wymagań biznesowych na projekty funkcjonalne i rozwiązania planistyczne.
+ Doświadczenie w realizacji projektów wdrożeniowych lub transformacyjnych SAP.
+ Umiejętność prowadzenia warsztatów, efektywnej komunikacji z interesariuszami, analitycznego myślenia i rozwiązywania problemów.
+ Znajomość języka angielskiego na poziomie B2+ oraz języka polskiego na poziomie C1+ .
+Zakres obowiązków:
+ Projektowanie i wdrażanie rozwiązań SAP Analytics Cloud (SAC) Planning, w tym modeli planistycznych, formularzy do wprowadzania danych, dashboardów i raportów.
+ Tworzenie i konfiguracja scenariuszy budżetowania, forecastingu i planowania finansowego, obejmujących m.in. planowanie centrów kosztów, stawek działań, alokacji oraz cykli rozliczeniowych.
+ Zbieranie i analiza wymagań biznesowych, prowadzenie warsztatów Fit-to-Standard oraz przekładanie potrzeb biznesowych na rozwiązania funkcjonalne.
+ Projektowanie i konfiguracja modeli planistycznych, kalkulacji, workflow oraz integracji danych pomiędzy SAP S/4HANA a SAC.
+ Współpraca z konsultantami SAP CO, FI, PP, CO-PA oraz Material Ledger w celu zapewnienia spójności rozwiązań z procesami finansowymi i operacyjnymi.
+ Udział w projektowaniu architektury raportowania i analityki, w tym integracji SAP S/4HANA, SAC oraz rozwiązań typu data warehouse.
+ Wsparcie walidacji danych, testów integracyjnych, UAT oraz rozwiązywania zgłoszonych błędów, a także przygotowywanie dokumentacji funkcjonalnej i materiałów do transferu wiedzy.

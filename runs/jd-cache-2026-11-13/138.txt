@@ -1,0 +1,47 @@
+URL: https://www.linkedin.com/jobs/view/4487190014
+TITLE: Working Student (f/m/d) - Artificial Intelligence and Process Automation in SAP Logistics Services
+COMPANY: SAP
+LOC: Walldorf, Baden-Württemberg, Germany
+POSTED: 2026-11-09
+title: Working Student (f/m/d) - Artificial Intelligence and Process Automation in SAP Logistics Services
+company: SAP
+posted: 3 days ago
+applicants: 59 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-f-m-d-artificial-intelligence-and-process-automation-in-sap-logistics-services-at-sap-4487190014&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Description
+ What you'll bring
+ You're studying computer science, business informatics, data science, or a related field. You're curious about AI and want to apply it — not just read about it.
+ A genuine interest in artificial intelligence, automation, and how technology improves operations
+ First experience with programming and an eagerness to experiment with LLMs and generative AI tools
+ A structured, independent approach — you manage your own tasks and deliver results
+ A collaborative mindset and a willingness to share what you learn with colleagues
+ Customer orientation — you keep end users in mind when designing and testing solutions
+ Fluency in German and a good command of English are required for this role
+ We also look for people who communicate clearly, keep the customer in mind, and enjoy finding smart solutions to problems — whatever stage of your career you're at.
+In addition to the role-specific skills above, all student and early talent positions at SAP look for candidates who are open to working with AI tools — including agentic AI — to automate everyday tasks, prototype ideas, and build confidence in AI-assisted ways of working from day one.
+ What You'll Build
+ You'll work where enterprise logistics meets modern AI — identifying where automation can make SAP's internal supply chain smarter and more efficient.
+ Identify and evaluate AI use cases across SAP Logistics Services
+ Build and test prototypes using tools such as Claude Code, n8n, and Joule Work
+ Analyse logistics processes to surface opportunities for simplification and automation
+ Support upskilling sessions to help colleagues use AI tools with confidence
+ Contribute to AI projects beyond Logistics Services and share insights across teams
+ Document findings, experiments, and best practices to build a shared knowledge base
+ Where you belong
+ SAP Logistics Services keeps SAP running — delivering goods, materials, and documents to locations worldwide. The team covers postal services, warehousing, dispatch, driver services, and order coordination. You'll be working at the frontier of logistics and AI, where your prototypes and ideas will shape real operations. When you join SAP, you'll be a part of SAP Next Gen — a global community of students and early professionals with access to mentors, development programmes, and peers. The role is based in Walldorf, with hybrid working welcome.
+ Please apply initially with your resume in table form. In a later stage we will ask you to upload also school leaving certificates, certificate of enrollment, current university transcript of records, copies of any academic degrees already earned, and if available, references from former employers (including internships).
+ This is a SAP global, strategic, paid working student position that provides students with opportunities to find purpose in their careers.
+ #Workingstudent #Werkstudent #Germany #Deutschland #Student #SAPGermanStudentsCareers #SAPNextGen
+ Additional Information
+ About SAP
+ With a global network of customers, partners, employees, and thought leaders, SAP helps the world run better and improves people’s lives.
+As a leader in enterprise applications and business AI, SAP stands at the nexus of business and technology. For over 50 years, organizations have trusted SAP to bring out their best by uniting business-critical operations spanning finance, procurement, HR, supply chain, and customer experience.
+We win with inclusion
+SAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.
+SAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team: Careers@sap.com.
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+Qualified applicants will receive consideration for employment without regard to their age, race, religion, national origin, ethnicity, gender (including pregnancy, childbirth, et al), sexual orientation, gender identity or expression, protected veteran status, or disability, in compliance with applicable federal, state, and local legal requirements.
+AI Usage in the Recruitment Process
+For information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.
+Please note that any violation of these guidelines may result in disqualification from the hiring process.

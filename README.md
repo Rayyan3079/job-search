@@ -20,6 +20,6 @@ Internships, thesis roles, full-time roles and German-required roles are listed 
 
 ## Latest run
 
-**2026-11-11**: 164 new jobs checked. 3 packages: [BNP Paribas – Intern – Global Markets Data & AI Lab](output/2026-11-11/bnp-paribas-intern-global-markets-data-ai-lab/) (3), [CWS Hygiene International – Working Student Commercial Growth & Performance (Strategy, Data Analytics & AI)](output/2026-11-11/cws-working-student-commercial-growth-data-ai/) (3), [Olympus – Working Student Business Analysis](output/2026-11-11/olympus-working-student-business-analysis/) (2.5). Report: [digests/2026-11-11.md](digests/2026-11-11.md).
+**2026-11-13**: 164 new jobs checked. 4 packages: [Isar Aerospace – Intern AI & Data Transformation (Data Engineering)](output/2026-11-13/isar-aerospace-intern-data-engineering/) (3.5), [Enzo – AI Engineer Intern (RAG & agents)](output/2026-11-13/enzo-ai-engineer-intern-rag/) (3.5), [revel8 – Applied AI Engineer Intern](output/2026-11-13/revel8-applied-ai-engineer-intern/) (3), [Autodesk Research – Intern, Research Working Student – Environmental Psychology Datasets](output/2026-11-13/autodesk-research-working-student-datasets/) (2.5). Report: [digests/2026-11-13.md](digests/2026-11-13.md).
 
 Applied and waiting: 15 applications (KWS, Munich Re x2, Atlas Copco, ZEISS, AgentixLake x2, IMMS, SAP x2, Airbus, BASF, Hilti, Carnival Maritime, Solactive). See [data/applications.md](data/applications.md).

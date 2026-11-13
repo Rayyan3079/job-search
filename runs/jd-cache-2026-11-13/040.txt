@@ -1,0 +1,51 @@
+URL: https://www.linkedin.com/jobs/view/4489669696
+TITLE: Referent der Geschäftsführung (m/w/d): Datenanalyse für Unternehmenssteuerung & Reporting mit SQL, Azure & Power BI
+COMPANY: Smart Future Campus
+LOC: Bonn, North Rhine-Westphalia, Germany
+POSTED: 2026-11-11
+title: Referent der Geschäftsführung (m/w/d): Datenanalyse für Unternehmenssteuerung & Reporting mit SQL, Azure & Power BI
+company: Smart Future Campus
+posted: 2 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Freferent-der-gesch%25C3%25A4ftsf%25C3%25BChrung-m-w-d-datenanalyse-f%25C3%25BCr-unternehmenssteuerung-reporting-mit-sql-azure-power-bi-at-smart-future-campus-4489669696&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Smart Future Campus GmbH
+Der Smart Future Campus ist ein wichtiger Anbieter von Weiterbildung und Qualifizierung im Bereich der IT, Industrie 4.0, KI, Unity und digitaler Transformation.
+Unser Fokus liegt vor allem auf innovativen Technologien wie Automatisierungstechnik, Robotik, ML aber auch Softwareentwicklung und Systemadministration.
+Mit praxisnahen Kursen, anerkannten Zertifikate unterstützen wir die berufliche Zukunft unserer Teilnehmer.
+Das lernst Du bei uns
+Diese 7-monatige Weiterbildung ist ein praxisnahes Upskilling für alle, die Datenanalyse gezielt für Management-Reporting und Unternehmenssteuerung einsetzen wollen. Sie erweitern Ihr vorhandenes berufliches Profil um die Fähigkeiten, mit denen Sie Entscheider:innen zuverlässig unterstützen: Kennzahlen (KPIs) definieren, Datenquellen strukturiert auswerten, Zusammenhänge verständlich visualisieren und Ergebnisse als steuerungsrelevante Reports und Dashboards bereitstellen. So werden Sie in die Lage versetzt, datenbasierte Entscheidungen im Tagesgeschäft und auf Management-Ebene wirksam zu begleiten – und damit Ihre Chancen auf einen starken Wiedereinstieg deutlich zu erhöhen.
+ Die Weiterbildung Ist In Drei Praxisnahe Bausteine Gegliedert:
+ SQL & Microsoft Azure: Datenbasis für Management-Entscheidungen aufbauen (11 Wochen)
+Sie lernen, wie Daten in Unternehmen entstehen und welche Strukturen für Analysen und Steuerung entscheidend sind (z. B. KPIs, ETL, Datenqualität). Mit SQL bauen Sie die Kompetenz auf, Daten sauber zu prüfen, auszuwerten und so aufzubereiten, dass sie als verlässliche Grundlage für Reports dienen. Datenmodellierung (z. B. Sternschema) und fortgeschrittene SQL-Themen sichern die Umsetzbarkeit im Alltag. Ergänzend erhalten Sie Einblicke in Azure-Datenbankdienste und Data Warehousing – wichtig, um moderne Datenlandschaften im Unternehmen zu verstehen.
+ Inhalte:
+ Daten in Unternehmen, KPIs, ETL, SQL vs. NoSQL, Big Data
+ SQL-Grundlagen bis Advanced (JOINs, Datenintegrität, Zeitstempel, RegEx, JSON, Stored Procedures)
+ Datenmodellierung (z. B. Sternschema), Administration & Datenqualität
+ Azure-Datenbanken, Cosmos DB, Data Warehousing & Administration
+ Abschlussprojekt (Teamarbeit & Präsentation)
+ Power BI Data Analyst: Steuerungsrelevante Dashboards und Reports für das Management (10 Wochen)
+In diesem Baustein lernen Sie, Analyseergebnisse so aufzubereiten, dass sie im Management wirklich nutzbar sind: klare Visuals, belastbare Kennzahlen und verständliche Storylines. Sie transformieren Daten mit Power Query, modellieren sie strukturiert und entwickeln mit DAX aussagekräftige Measures (z. B. Abweichungen, Trends, Zeitvergleiche). Zusätzlich lernen Sie Dashboard-Design, Performance-Optimierung und den professionellen Betrieb im Power BI Service inklusive Rollen- und Rechtekonzepten sowie Row-Level Security.
+ Inhalte:
+ Power BI Grundlagen, Datenverständnis, Soft Skills
+ Datenimport, Bereinigung, Modellierung, Relationen & Hierarchien
+ Visuals, DAX-Measures, Drillthrough, Advanced Analytics & KI
+ Dashboard-Design, Best Practices, paginierte Berichte, Performance
+ Power BI Service: Workspaces, Administration, Rollen & Rechte, RLS
+ Team-Abschlussprojekt + Prüfungsvorbereitung Microsoft Power BI
+ JobReady: Projektmethoden anwenden und Ergebnisse als Steuerungsbeitrag nachweisen (8 Wochen)
+Zum Abschluss übertragen Sie die neuen Kompetenzen in einen realistischen Projektkontext: Sie lernen Projektmanagement (klassisch & agil, z. B. Scrum), stärken Ihre Bewerbungsunterlagen und setzen ein Praxisprojekt im Team mit Partnerunternehmen um. Dadurch entstehen vorzeigbare Ergebnisse – etwa ein Dashboard-Set oder ein Analyse-Case – die Ihre Fähigkeit zur Unternehmenssteuerung durch Daten konkret belegen. Ergänzend erfolgt die Vorbereitung auf die IHK-Prüfung.
+ Inhalte:
+ Arbeitsmarktvorbereitung: Bewerbungsunterlagen & Bewerbungstraining
+ Projektmanagement: klassisch & agil (Scrum)
+ Praxisprojekt mit Partnerunternehmen
+ Prüfungsvorbereitung (IHK)
+ Dein Profil
+ Sprachkenntnisse: Deutsch B1/B2, Englisch-Grundkenntnisse von Vorteil.
+ Fähigkeiten: IT-Affinität, logisches Denkvermögen, Motivation deine Karriere aufs nächste Level zu bringen. Erste Erfahrungen in IT sind ein Plus! Aber kein Muss. Quereinsteiger sind sehr gern wilkommen.
+ Ausstattung: Stabiles Internet – alles andere bekommst Du von uns!
+ Deine Vorteile
+ 100% Förderung: Mit dem Bildungsgutschein von Arbeitsagentur oder Jobcenter.
+ 100% Remote: Lerne bequem von zuhause aus - ohne Fahrweg und Zeitverlust!.
+ Karriere Boost: Wir unterstützen Dich aktiv bei Deiner Jobsuche.
+ Melde dich jetzt an für ein kostenloses Beratungsgespräch!

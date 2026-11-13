@@ -1,0 +1,53 @@
+URL: https://www.linkedin.com/jobs/view/4490332410
+TITLE: SAP Analytics Cloud Specialist (m/w/d)
+COMPANY: voestalpine
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-12
+title: SAP Analytics Cloud Specialist (m/w/d)
+company: voestalpine
+posted: 17 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fat.linkedin.com%2Fjobs%2Fview%2Fsap-analytics-cloud-specialist-m-w-d-at-voestalpine-4490332410&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Ihre Aufgaben
+ Anforderungsanalyse, Konzeption und Spezifikation innovativer Lösungen in der Planung und im Reporting - auf Basis von SAP Analytics Cloud
+ Implementierung von SAP Analytics Cloud for Planning Datenmodellen, Planungssequenzen und Allokationslogiken
+ Implementierung von SAP Analytics Cloud for Reportinglösungen
+ Sicherstellung der fachlichen und technischen Integration von Planungsszenarien mit S/4HANA (FI/CO) und weiteren Quellsystemen
+ Mitarbeit in Testphasen, Deployments und Go-Lives
+ Durchführung von Schulungen für Key User:innen und Supporttätigkeiten (2nd und 3rd Level)
+ Enge Zusammenarbeit mit den Fachbereichen und Entwicklungsteams 
+ Ihr Profil
+ Abgeschlossene Ausbildung in (Wirtschafts-) Informatik, vergleichbarer Fachrichtung oder eine Ausbildung im IT-Bereich mit mehrjähriger Berufserfahrung
+ Erfahrung in der Implementierung von Lösungen in der SAP Analytics Cloud
+ Kenntnisse im Controlling und/oder PowerBI von Vorteil
+ Gute Deutsch- und Englischkenntnisse in Wort und Schrift für die Arbeit mit SAP Analytics Cloud sowie die Umsetzung von Planungs- und Reportinglösungen
+ Analysefähigkeiten für komplexe Probleme und Entwicklung innovativer Lösungen
+ Selbstständige, verantwortungsvolle und lösungsorientierte Arbeitsweise mit einer ausgeprägten Stärke in der Kommunikation
+ Eigenständiges Arbeiten ist Ihnen ebenso wichtig wie Teamwork
+ Vergütung
+ Das Mindestgehalt für diesen Arbeitsplatz beträgt € 3.267,00 brutto (14 mal p.a.) auf Vollzeitbasis. Die tatsächliche Bezahlung ist von der jeweiligen Qualifikation bzw. Berufserfahrung abhängig.
+Stundenausmaß: mind. 20 Stunden / Woche
+ Das bieten wir
+ Wir begleiten Sie bei der Einarbeitung, unterstützen Ihre fachliche und persönliche Weiterentwicklung und bieten flexible Arbeitszeitmodelle sowie regelmäßigen Austausch.
+Zusätzliche Benefits wie Einkaufsvergünstigungen, Gesundheitsangebote und eine jährliche Erfolgsprämie bei gutem Geschäftserfolg runden unser Angebot ab.
+Zudem bieten wir folgende Benefits:
+ Flexible Arbeitszeitgestaltung (ohne Kernzeiten)
+ Home Office (bis zu 3 Tagen pro Woche nach der Einschulungsphase)
+ Mitarbeiterbeteiligung in Form von Aktien und Erfolgsprämie
+ Kantine bzw. Essensgutscheine (Standortabhängig)
+ Familienfreundlicher Arbeitgeber
+ Und viele mehr
+ Arbeitsumfeld
+ Wir sind stolz auf unsere Mitarbeiter:innen weltweit und arbeiten gemeinsam daran, ein Arbeitsumfeld zu schaffen, das Vielfalt, Chancengleichheit und Freude an Innovation fördert.
+ Das sind wir
+ Wir sind der zentrale IT-Dienstleister im voestalpine Konzern. Durch die Serviceorientierung unserer Mitarbeitenden und die hohe Qualität unserer Leistungen, ermöglichen wir unseren Business Partner:innen optimale Rahmenbedingungen und tragen somit dazu bei, dass die voestalpine auch in Zukunft einen Schritt voraus bleibt.
+Der Bereich Business Solution Steel ist für die Einführung, Weiterentwicklung und Wartung von IT-Lösungen in der Division Steel der voestalpine verantwortlich.
+Mehr erfahren
+ Noch Fragen?
+ Ansprechperson
+Alina Ben Fredj
++43 50304 15 5412
+Fachbereich
+Erika Lindinger
++43 50304 15 6732

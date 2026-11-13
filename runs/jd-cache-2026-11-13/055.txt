@@ -1,0 +1,65 @@
+URL: https://www.linkedin.com/jobs/view/4489271137
+TITLE: Data Analyst / Bi Specialist (Power BI & Microsoft Fabric)
+COMPANY: SOLEVO Group
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-12
+title: Data Analyst / Bi Specialist (Power BI & Microsoft Fabric)
+company: SOLEVO Group
+posted: 13 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Frs.linkedin.com%2Fjobs%2Fview%2Fdata-analyst-bi-specialist-power-bi-microsoft-fabric-at-solevo-group-4489271137&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Who are we?
+ SOLEVO is a leading distributor of chemicals and inputs for specific industrial and agricultural segments in Africa. SOLEVO assists African farmers and Industries succeed by providing them with a full range of fertilizers, seeds, crop protection products and industrial chemicals they need with a guaranteed quality and good value. With over 75 years at the frontier of economic growth and transformation across Africa, we deliver critical raw materials and expertise to the continent’s high GDP-contributing life sciences and industrials sectors.
+What are we looking for?
+We are seeking an experienced and talented Data Analyst to join our data and analytics team based in Belgrade, Serbia.
+What do we expect from the candidate?
+The ideal candidate will play a key role in transforming data into actionable insights that drive strategic decision-making. You will work closely with business analysts and business stakeholders to understand their reporting needs, build robust semantic models and dashboards , and support the team in implementing AI in BI and data-driven solutions. Your expertise in Power BI, data modelling, and storytelling with data will be crucial
+ The Key Responsibilities
+ Data Analysis & Reporting: Gather, understand, and translate business requirements into effective data models and visualizations in Power BI.
+ Build and maintain Power BI semantic models: DAX, Power Query, relationships, RLS. Keep them fast and readable.
+ Team Collaboration: Work together with business analysts teams and business stakeholders, ensuring reports meet business needs and objectives, delivering actionable insights.
+ Data Quality & Validation: Ensure accuracy and reliability of data by validating against source systems and proactively identifying data issues.
+ Handle day-to-day support and help users get the most out of their reports.
+ Documentation & Knowledge Sharing: Create comprehensive documentation for data models, reports, and processes to support knowledge sharing and future development.
+ Continuous Improvement: Support data governance, performance optimization, and contribute to the overall improvement of data practices within the organization. 
+ If you possess…
+ Must-Have : Skills and Qualifications
+ Power BI semantic modelling in a real business: at least 3 years, 5+ is a plus.
+ Solid DAX and Power Query. You can tell why a measure is slow and fix it.
+ Good SQL. You’ll write and maintain views, not just query them.
+ Hands-on Microsoft Fabric (lakehouses, SQL views, notebooks) or solid Azure data experience
+ nd a willingness to switch quickly.
+ Enough Python or Spark SQL to read and change a Fabric notebook.
+ You can explain a number to a finance or sales manager without jargon.
+ Fluent English.
+ Nice To Have : Skills and Qualifications
+ D365 F&O or Dynamics AX
+ PBIP/TMDL and Git Tabular Editor or DAX Studio
+ PL-300 or DP-600
+ Jira
+ French is a real plus, since many of our users in West Africa work in French.
+ Desired Certificates
+ Bachelor’s or Master’s degree preferably in Data Analytics, Computer Science, Information Systems, or a related field.
+ At least 3 years of proven experience as a Data Analyst, with a significant focus Power Bi. 
+ Soft Skills
+ Strong problem-solving abilities with attention to detail.
+ Ability to work independently as well as in a team-oriented, collaborative environment
+ Flexibility to adapt in a fast-paced, dynamic environment.
+ Analytical and Problem-Solving 
+ Skills
+ Exceptional ability to analyse complex requirements, identify potential bottlenecks, and devise effective solutions.
+ Passion for continuous learning and staying updated with the latest trends in data analytics and business intelligence. 
+ Why join Solevo?
+ Join a dynamic team passionate about transforming data into insights that drive impact.
+ Work in a collaborative, international, and agile environment.
+ Gain exposure to cutting-edge BI tools and cloud technologies.
+ Competitive compensation package and comprehensive benefits package.
+ Explore opportunities for professional growth and advancement. 
+ How to join us ?
+ If you’re excited about this position, we encourage you to submit your resume detailing your relevant experience and be part of our exciting journey.
+ What's next ?
+ If your profile matches our search, you will be contacted by our HR team for a first contact.
+Please be informed that we will keep your profile to contact you for future professional opportunities.
+ Join Solevo: Empowering Progress Across Africa
+ At Solevo, we connect communities and industries with the solutions they need to grow, thrive, and transform. From supporting agricultural self-sufficiency to driving industrial innovation, we are shaping the future of Africa’s life sciences and industrial sectors.

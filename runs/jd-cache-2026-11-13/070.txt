@@ -1,0 +1,49 @@
+URL: https://www.linkedin.com/jobs/view/4488832477
+TITLE: Data Engineer (Databricks, PySpark, SQL)
+COMPANY: ALDI International IT Services (Hungary)
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-09
+title: Data Engineer (Databricks, PySpark, SQL)
+company: ALDI International IT Services (Hungary)
+posted: 3 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fhu.linkedin.com%2Fjobs%2Fview%2Fdata-engineer-databricks-pyspark-sql-at-aldi-international-it-services-hungary-4488832477&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+My responsibilities: 
+ Design, develop, optimize, and maintain squad-specific data architectures and pipelines in line with ETL and data lake principles
+ Prepare, align, and hand over data architecture and pipeline artefacts to the platform team for reuse across squads
+ Solve complex technical data challenges that support business objectives
+ Develop data products for analytics, data scientists, and ML engineers to improve productivity within the team and across the organization
+ Advise, mentor, and support data and analytics professionals on data standards and best practices within the squad and organization
+ Contribute to the evaluation of emerging tools in data engineering and data science, helping to define and improve standards and ways of working
+ Drive continuous improvement by contributing to training, capability development, and enhancements in analytical data engineering practices, standards, and processes
+ The knowledge I own: 
+ Degree in Computer Science or related field
+ 10+ years of experience in software or infrastructure development, including at least 4 years in data engineering within distributed computing, big data, or advanced analytics environments
+ Strong expertise in SQL and data analysis, with proficiency in at least one programming language such as Python or Scala
+ Experience in database development and data modeling, ideally with Databricks/Spark and SQL Server; knowledge of relational, NoSQL, and cloud-based databases.
+ Solid understanding of distributed computing concepts, preferably with Spark or MapReduce
+ Hands-on experience with Azure tools such as Azure Data Factory, Azure Databricks, Event Hub, Synapse, and ML services
+ Good understanding of data and analytics concepts, including dimensional modeling, ETL, data warehousing, reporting, data governance, and handling structured and unstructured data
+ Familiarity with Unix systems, especially shell scripting
+ Basic knowledge of network concepts, connectivity, and troubleshooting
+ Foundational understanding of machine learning, data science, AI, statistics, or applied mathematics
+ Strong communication skills and fluent English; German is a plus
+ Tech Stack 
+ Azure Databricks
+ Azure Data Factory
+ Python
+ PySpark
+ ServiceNow
+ M365
+ and other tools depending on the role
+ The offer that would convince me: 
+ We develop and maintain our own product with high emphasis on quality and long-term stability
+ Code quality matters: we follow Clean Code and SOLID principles backed by robust testing
+ Flexible working hours and remote work options
+ Competitive salary with regular adjustments based on inflation and loyalty
+ Access to continuous learning via our internal learning platform and expert communities
+ Online application: 
+ Please use our online application and attach your resume.
+ AIIS Adatkezelési tájékoztató 
+ Privacy notice

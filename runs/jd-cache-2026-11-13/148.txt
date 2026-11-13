@@ -1,0 +1,46 @@
+URL: https://www.stepstone.de/stellenangebote--Working-Student-Node-js-React-Software-Developer-m-f-d-InsurTech-Muenchen-CHECK24--14745890-inline.html
+TITLE: Working Student Node.js/React Software Developer (m/f/d) InsurTech
+COMPANY: CHECK24
+LOC: München
+POSTED: stepstone
+title: Working Student Node.js/React Software Developer (m/f/d) InsurTech
+company: CHECK24
+posted: 2026-11-12T12:31:21.35Z
+location: München | remote: 
+---
+Über diesen Job
+ You’re studying an IT-related subject and want to build software that people use every day? Join our team in our Munich office for 20 hours per week to put your skills into practice, contribute your own ideas , and learn alongside experienced teammates.
+ At  CHECK24, we’re building a smart digital insurance wallet for our customers. Our mission is to use automation to make managing and optimizing their insurance portfolios easier.
+ AI is part of how we build software and support our customers. 
+From AI tools in our development workflow to our own AI solutions for chat, voice, and insurance assistance. We welcome your ideas on where AI can make a useful difference.
+ We look forward to your application as a Working Student (m/f/d) Node.js/React Software Development at CHECK24 Services für Versicherungsprodukte GmbH in our Munich office. 
+ Your Responsibilities
+ Building and growing innovative insurance applications used daily by thousands of users.
+ Developing new features collaboratively with product managers and quality assurance in an agile environment.
+ Taking ownership of development tasks, with guidance from experienced teammates and regular feedback through code reviews and discussing solutions together.
+ Exploring and evaluating how AI tools can support our development workflow and improve customer-facing features.
+ Exploring infrastructure and operations as part of our DevOps approach.
+ Learning the principles, tools, and best practices of modern web development using Node.js and React along the way.
+ Your Qualifications
+ You are enrolled at a university near Munich, studying Computer Science, Mathematics, or a related field , with strong grades in relevant subjects and the ability to commit 20 hours per week.
+ You have acquired solid programming skills in a language such as JavaScript, TypeScript, C#, or Java , through university, personal projects, or practical experience.
+ You have some experience building web interfaces with HTML/CSS and React, Angular, or Vue .
+ You are curious, eager to learn, and open to sharing ideas and receiving feedback.
+ You are fluent in English (C1) and enjoy working and communicating in an agile team.
+ Your Benefits
+ Your start with us: Receive thorough, tailored onboarding from your personal mentor. Put theory into practice and get to know different departments and insurance products.
+ The ideal preparation for your career: Our dedicated mentors provide close support and help you prepare for your professional future through hands-on experience.
+ Excellent prospects for a permanent position: We are continuously growing and offer you a secure long-term role after graduation if you perform exceptionally well.
+ Ownership from day one: You will quickly start working independently and take responsibility for exciting tasks.
+ Flexible working hours: Tailored to fit around your studies.
+ Personal development: Apply your university knowledge to real projects. Keep learning every day—from technology and clean code to teamwork and product thinking—and benefit from excellent development opportunities through a wide range of training courses and individual coaching.
+ Food & drinks : Enjoy free breakfast with a selection of cereals, complimentary office lunches, fresh fruit, and unlimited hot and cold drinks throughout the working week!
+ A welcoming atmosphere: Take a break in our gaming area or relax on our rooftop terrace when the weather is nice.
+ CHECKito spirit: A relaxed working environment where everyone is on a first-name basis, with no dress code. We celebrate our successes together at company and team events.
+ Modern working environment: Modern equipment, such as a MacBook and additional monitors.
+ Central location & public transport pass: An attractive office in a central location.
+ Do you have questions?
+ Dominik Boy
+ Dominik.Boy@check24.de 
+ Bitte sende uns Bewerbungen ausschließlich online über unser Bewerbungsformular.
+ Jetzt bewerben

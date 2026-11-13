@@ -1,0 +1,47 @@
+URL: https://www.linkedin.com/jobs/view/4473757759
+TITLE: Praktikum oder Abschlussarbeit zur Digitalisierung im Betriebsmittelbau
+COMPANY: Endress+Hauser Group
+LOC: Maulburg, Baden-Württemberg, Germany
+POSTED: 2026-11-12
+title: Praktikum oder Abschlussarbeit zur Digitalisierung im Betriebsmittelbau
+company: Endress+Hauser Group
+posted: 16 hours ago
+applicants: 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikum-oder-abschlussarbeit-zur-digitalisierung-im-betriebsmittelbau-at-endress%252Bhauser-group-4473757759&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Bei Endress+Hauser geschieht Fortschritt durch Zusammenarbeit. Als weltweit führender Anbieter von Messgeräten gestalten unsere rund 18.000 Mitarbeitenden die Zukunft im Bereich der Prozessautomatisierung. Ob bei der Innovation und Umsetzung neuer Technologien im Team, der Zusammenarbeit in der Entwicklung neuer Geräte oder der Stärkung wichtiger Beziehungen zu verschiedenen globalen Industrien: Unsere Arbeit basiert darauf, vertrauensvolle Beziehungen aufzubauen, die allen zum Erfolg verhelfen. Als familiengeführtes Unternehmen schauen wir über kurzfristige Ziele hinaus und arbeiten daran, eine zukunftsorientierte Vision für unsere Mitarbeitenden, unsere Kundinnen und Kunden und die Welt im Allgemeinen zu schaffen. An unserem Standort in Maulburg entwickeln und produzieren wir innovative Füllstand- und Druckmesstechnik.
+ Worum geht es bei der Stelle?
+ Du möchtest digitale Lösungen entwickeln und gleichzeitig einen direkten Beitrag zur Optimierung von Industrialisierungs- und Produktionsprozessen leisten? Bei uns arbeitest Du an innovativen Projekten rund um das Betriebsmittelmanagement. Von der Entwicklung webbasierter Anwendungen bis hin zur Konzeption datengetriebener KPI-Systeme erhältst Du spannende Einblicke in die Digitalisierung industrieller Prozesse.
+ Welche Aufgaben wirst Du übernehmen?  
+ Damit du deine Interessen und Fähigkeiten optimal einbringen kannst, bieten wir folgende Themen zur Auswahl an:
+Praktikum oder Werkstudententätigkeit: Entwicklung eines webbasierten Betriebsmittelkatalogs mit Konfigurator und Angebotsfunktion
+ Entwicklung einer benutzerfreundlichen Webanwendung für interne Anwender
+ Konzeption und Umsetzung eines digitalen Betriebsmittelkatalogs mit Such-, Auswahl- und Konfigurationsfunktionen
+ Integration von Anlagen, Betriebsmitteln, Ersatzteilen und Adaptern inklusive Preis- und Angebotsinformationen
+ Entwicklung einer Funktion zur automatisierten Erstellung von Angebotsübersichten
+ Anbindung von Folgeprozessen zur digitalen Beauftragung und Weiterverarbeitung
+ Mitarbeit bei der Weiterentwicklung digitaler Lösungen im Betriebsmittelmanagement
+ Abschlussarbeit: KPI-System und Power-BI-Dashboard für das Betriebsmittelmanagement
+ Analyse bestehender Prozesse, Kennzahlen und Datenquellen im Betriebsmittelmanagement
+ Entwicklung eines standardisierten KPI-Systems zur Bewertung von Industrialisierungserfolg, Wirtschaftlichkeit, Qualität und Projektperformance
+ Konzeption eines Datenmodells zur Zusammenführung unterschiedlicher Datenquellen
+ Analyse und Bewertung der Datenqualität sowie relevanter Informationsquellen
+ Entwicklung eines Power-BI-Dashboards zur Visualisierung von Kennzahlen und Projektstatus
+ Validierung der entwickelten Kennzahlen anhand realer Betriebsmittelprojekte
+ Ableitung von Handlungsempfehlungen zur nachhaltigen Implementierung des KPI-Systems
+ Was erwarten wir von Dir? 
+ Du studierst Wirtschaftsingenieurwesen, Informationstechnik, Data Science, Maschinenbau, Industrial Engineering, Wirtschaftsinformatik, Produktionsmanagement oder einen vergleichbaren Studiengang.
+ Du arbeitest selbstständig, strukturiert und mit hoher Eigeninitiative.
+ Analytisches Denkvermögen sowie eine sorgfältige und zuverlässige Arbeitsweise zeichnen Dich aus.
+ Du interessierst Dich für Digitalisierung, Datenanalyse und Industrialisierungsprozesse.
+ Gute Kenntnisse in MS Excel sowie ein sicherer Umgang mit digitalen Werkzeugen gehören zu Deinen Stärken.
+ Idealerweise bringst Du erste Kenntnisse in Programmierung, Datenanalyse, Power BI oder Business Intelligence mit.
+ Fließende Deutsch- und gute Englischkenntnisse sowie Freude an der Zusammenarbeit mit unterschiedlichen Fachbereichen runden Dein Profil ab.
+ Was kannst Du von uns erwarten?  
+ Fachliche und persönliche Unterstützung durch erfahrene Betreuerinnen und Betreuer
+ Modernes Arbeitsumfeld in einem international tätigen Familienunternehmen
+ Reichhaltiges Frühstücks- und Mittagsangebot in unserem Betriebsrestaurant
+ Diverse Firmen- und Teamevents
+ Flexible Gestaltung von Arbeitszeit und -ort je nach Tätigkeit möglich
+ Wie bewirbst Du Dich? 
+ Um dich zu bewerben, bitten wir dich, deine Unterlagen (Lebenslauf, Zeugnisse, Immatrikulationsbescheinigung, bei Pflichtpraktikum: Bescheinigung der Hochschule) auf unserer Karriereseite hochzuladen. Wenn du Fragen hast, wende dich bitte an Melina Reinke. Bewerbungen, die uns per E-Mail oder per Post erreichen, können aus Datenschutzgründen leider nicht berücksichtigt werden.

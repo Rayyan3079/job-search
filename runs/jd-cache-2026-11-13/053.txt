@@ -1,0 +1,60 @@
+URL: https://www.linkedin.com/jobs/view/4489515105
+TITLE: SQL Developer
+COMPANY: Citi
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-12
+title: SQL Developer
+company: Citi
+posted: 6 hours ago
+applicants: 94 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fin.linkedin.com%2Fjobs%2Fview%2Fsql-developer-at-citi-4489515105&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+We are seeking a skilled and detail-oriented SQL Developer to design, develop, test, and optimize database systems, complex queries, stored procedures, and data pipelines. In this role, you will collaborate with data architects, software engineers, business analysts, and DevOps teams to ensure enterprise data solutions are secure, scalable, highly performant, and reliable.
+ Database Development & Query Optimization
+ Write, maintain, and optimize complex SQL queries, views, indexes, stored procedures, triggers, and user-defined functions (UDFs).
+ Perform query performance tuning using execution plans, indexing strategies, partitioning, and caching techniques.
+ Analyze and resolve database performance bottlenecks, locking/deadlock issues, and resource contention.
+ Data Modeling & Architecture
+ Assist in designing conceptual, logical, and physical data models (relational schemas, star/snowflake dimensional models).
+ Enforce relational integrity, constraints, data normalization, and denormalization standards based on operational (OLTP) and analytical (OLAP) requirements.
+ Maintain comprehensive data dictionaries, schema documentation, and Entity-Relationship (ER) diagrams.
+ ETL & Data Pipeline Engineering
+ Design, build, and orchestrate robust Extract, Transform, Load (ETL) / ELT pipelines to ingest structured and semi-structured data from disparate systems.
+ Implement data validation, error handling, logging, and data reconciliation mechanisms.
+ Automate scheduled data transformation jobs and integrate with enterprise workload schedulers.
+ Collaboration & Continuous Improvement
+ Work closely with software engineers to optimize database access layers and application ORM integrations.
+ Participate in code reviews, sprint planning, and agile ceremonies.
+ Champion standard development best practices, unit testing of database routines, and CI/CD automation for database schema changes.
+ Required Technical Skills
+ SQL Proficiency: 5+ years of advanced knowledge of standard SQL (ANSI SQL) and dialect-specific variants (e.g., T-SQL, PL/SQL, PL/pgSQL).
+ Performance Tuning: Proven experience with query profiling, execution plans, index tuning, query rewrites, and memory/CPU optimization.
+ ETL / Integration Tools: Experience with ETL platforms (e.g., SSIS, Talend, Informatica, Apache NiFi, Airflow, or custom Python/SQL workflows).
+ Scripting & Automation: Proficiency in scripting for automation (e.g., Python, Bash, PowerShell).
+ Version Control: Familiarity with Git or modern source control systems for database code versioning.
+ Design, develop and manage databases that utilize SQL for various applications. Other responsibilities include writing and optimizing SQL queries, creating database structures, ensuring data quality and security, and collaborating with other team members. 
+ Develop creative technical solutions to meet business needs and manage complex, high-volume data governance implementation efforts in partnership with Product and Technology partners and stakeholders
+ Qualifications:
+ Key Tech stack - SQL Development and Microsoft Office Suite
+ Good to have programming languages: Python, Java, Visual Studio, Ab Initio
+ Soft Skills: Essential soft skills include problem-solving, attention to detail, analytical thinking, teamwork, and communication.
+ Demonstrated ability to work under pressure to meet tight deadlines and approach work methodically with attention to detail
+ ------------------------------------------------------
+ Job Family Group: 
+ Technology
+------------------------------------------------------
+ Job Family:
+ Applications Development
+------------------------------------------------------
+ Time Type:
+ Full time
+------------------------------------------------------
+ Most Relevant Skills
+ Please see the requirements listed above.
+------------------------------------------------------
+ Other Relevant Skills
+ For complementary skills, please see above and/or contact the recruiter.
+------------------------------------------------------
+ Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.
+ If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.
+ View Citi’s EEO Policy Statement and the Know Your Rights poster.

@@ -1,0 +1,41 @@
+URL: https://www.linkedin.com/jobs/view/4488511684
+TITLE: Werkstudent Datenbankmigration (MS Dynamics Field Service) (m/w/d)
+COMPANY: E.DIS
+LOC: Schönefeld, Brandenburg, Germany
+POSTED: 2026-11-12
+title: Werkstudent Datenbankmigration (MS Dynamics Field Service) (m/w/d)
+company: E.DIS
+posted: 18 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-datenbankmigration-ms-dynamics-field-service-m-w-d-at-e-dis-4488511684&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Die e.distherm Energielösungen GmbH , ein 100%iges Tochterunternehmen der E.DIS AG und Teil der E.ON-Gruppe, ist darauf spezialisiert, individuelle, nachhaltige und klimaschonende Energielösungen für die Wohnungswirtschaft, für Kommunen sowie für Gewerbe- und Industriebetriebe zu entwickeln und zu betreiben. Das Unternehmen versorgt mehr als 1.000 Kunden insbesondere rund um die Metropolregion Berlin – Brandenburg zuverlässig mit Wärme, Kälte und Strom. Dazu zählen unter anderem der Hauptstadtflughafen BER sowie namhafte Automobilhersteller und -zulieferer im Industriepark in Ludwigsfelde.
+ Eine Aufgabe, die herausfordert
+ Du begleitest die Migration von Stammdaten aus dem bestehenden Datenbanksystem in das neue Microsoft Dynamics Field Service System. 
+ Gemeinsam mit dem Technischen Betrieb und dem Digitalisierungsteam entwickelst du Auswertungen und Tools, um die Qualität, Vollständigkeit und Konsistenz der migrierten Daten zu prüfen. 
+ Du bereitest Analysen und Abstimmungstermine eigenverantwortlich sowie im Team vor, dokumentierst Ergebnisse und verfolgst vereinbarte Maßnahmen nach. 
+ Du unterstützt bei der Planung, Organisation und Umsetzung der Stammdatenübertragung und arbeitest dabei eng mit dem Betriebs- und Digitalisierungsteam zusammen. 
+ Gemeinsam mit dem Digitalisierungsteam entwickelst du das Microsoft Dynamics Field Service System kontinuierlich weiter, nimmst Anforderungen aus dem operativen Betrieb auf und wirkst bei der Einführung neuer Funktionen mit. 
+ Du unterstützt das Betriebsteam beim Monitoring technischer Anlagen sowie bei der Pflege und Auswertung von Störungs- und Betriebsdaten. 
+ Dabei erhältst du spannende Einblicke in die Digitalisierung technischer Prozesse und die Weiterentwicklung moderner Service- und Datenmanagementsysteme.
+ Ein Umfeld, das begeistert
+ Du studierst aktuell Informatik, Wirtschaftsinformatik, Informationstechnik oder einen vergleichbaren technischen Studiengang. Auch wenn dein Schwerpunkt nicht direkt in der Informatik liegt, freuen wir uns auf deine Bewerbung, wenn du eine ausgeprägte IT-Affinität mitbringst. 
+ Idealerweise hast du bis zum Abschluss deines Studiums noch mindestens vier Semester vor dir und möchtest uns langfristig in einem spannenden Migrationsprojekt unterstützen. 
+ Du arbeitest selbstständig, strukturiert und bringst gerne eigene Ideen ein. 
+ Du hast Freude daran, gemeinsam mit anderen Lösungen zu entwickeln und Themen voranzutreiben. 
+ Erste Berührungspunkte mit Datenbanken, Datenstrukturen oder der Analyse von Datenqualität sind von Vorteil. 
+ Erfahrungen mit Microsoft Dynamics sind wünschenswert, aber kein Muss. 
+ Du verfügst über ein gutes technisches Grundverständnis und interessierst dich für digitale Prozesse und Systeme. 
+ Du kommunizierst sicher in deutscher Sprache (mindestens C2-Niveau oder muttersprachliche Kenntnisse). 
+ Die regelmäßige Zusammenarbeit vor Ort in Schönefeld ist für dich gut mit deinem Studienalltag vereinbar. Gleichzeitig profitierst du von der Möglichkeit, teilweise mobil zu arbeiten.
+ Ein Umfeld, das begeistert
+ Eine nachweislich hohe Mitarbeiterzufriedenheit: Zertifizierter Top Arbeitgeber seit 2022 (Kununu Score 4,3/5 Sterne & 97% Mitarbeiterweiterempfehlung). 
+ Eine Aufgabe voller Spannung, bei der wir gemeinsam an intelligenten Energienetzen und innovativen Energielösungen arbeiten. 
+ Einen flexiblen Anschluss für eine ausgewogene Work-Life-Balance, z. B. durch flexible Arbeitszeiten und Home Office. 
+ Ein elektrisierendes Angebot an Fortbildungs- und Entwicklungsmöglichkeiten wie z. B. Seminare, Workshops und Talentprogramme. 
+ Eine sichere Versorgung mit einer attraktiven Vergütung sowie vielen Zusatzleistungen, u. a. Gesundheitsangebote und betriebliche Altersvorsorge. 
+ Ein starkes Netzwerk, denn als Teil des E.ON Konzerns fördern wir die Zusammenarbeit über Unternehmensgrenzen hinweg und bieten vielfältige Perspektivwechsel. Werde Teil unseres Netzwerks! 
+ Die Integration von Menschen mit Behinderung entspricht unserem Selbstverständnis und wir begrüßen daher deren Bewerbung.
+ Interner Stellentitel: Werkstudent Datenbankmigration (MS Dynamics Field Service) (m/w/d)
+ Abteilung: TDB
+ Befristung: Semesterweise Verlängerung möglich

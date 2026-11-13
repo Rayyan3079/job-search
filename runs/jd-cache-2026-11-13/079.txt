@@ -1,0 +1,45 @@
+URL: https://www.linkedin.com/jobs/view/4488543233
+TITLE: Working Student (f/m/d) – Sovereign Cloud Technical Architecture & Coordination Team
+COMPANY: SAP
+LOC: Garching, Bavaria, Germany
+POSTED: 2026-11-12
+title: Working Student (f/m/d) – Sovereign Cloud Technical Architecture & Coordination Team
+company: SAP
+posted: 12 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-f-m-d-%25E2%2580%2593-sovereign-cloud-technical-architecture-coordination-team-at-sap-4488543233&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Description
+ What you'll bring
+ You're a student ready to contribute alongside your studies. You're curious, adapt quickly, and stay resilient as priorities evolve. You think creatively, communicate clearly, and collaborate well across teams. You're building your foundations in business and AI — and you take initiative to apply them. You bring emotional intelligence and cultural awareness to every interaction.
+ Hands-on experience with AI tools, automation, or prototyping, or a strong drive to build these skills
+ An interest in cloud infrastructure, technical architecture, or enterprise software
+ The ability to analyze processes and identify opportunities for improvement
+ Regular attendance at the office in Garching is required for this role
+ Fluency in German and English is required for this role
+ We also look for people who communicate clearly, keep the customer in mind, and enjoy finding smart solutions to problems, whatever stage of your career you're at.
+In addition to the role-specific skills above, all student and early talent positions at SAP look for candidates who are open to working with AI tools, including agentic AI, to automate everyday tasks, prototype ideas, and build confidence in AI-assisted ways of working from day one.
+ What You'll Build
+ You'll work on real deliverables, not shadow tasks. Your contributions connect directly to your team's goals. You'll leave with a portfolio of SAP work you can build on. You'll solve real technical problems that improve how the SC Technical Architecture & Coordination team operates day-to-day.
+ Build AI-assisted automations that reduce manual effort across team processes
+ Develop dashboards that give the team visibility into metrics and project status
+ Create reporting tools that support informed decision-making
+ Identify and document process improvement opportunities
+ Contribute to the team's shared knowledge base on tooling and automation
+ Where you belong
+ As a working student you will be part of SAP Next Gen, a global network of students and early professionals growing together. You'll access mentors, development programs, and peers building careers alongside you. The SC Technical Architecture & Coordination team brings together architects, Technical Product Managers, and project managers who lead the technical enablement of commercial products for SAP Sovereign Cloud. It's a technically strong environment where your contributions have real impact.
+Additional Information
+ Please apply initially with your resume in table form. In a later stage we will ask you to upload also school leaving certificates, certificate of enrollment, current university transcript of records, copies of any academic degrees already earned, and if available, references from former employers (including internships). 
+ This is a SAP global, strategic, paid working student position that provides students with opportunities to find purpose in their careers.
+ #Workingstudent #Werkstudent #Germany #Deutschland #Student #SAPGermanStudentsCareers #SAPNextGen
+ About SAP
+ With a global network of customers, partners, employees, and thought leaders, SAP helps the world run better and improves people’s lives.
+As a leader in enterprise applications and business AI, SAP stands at the nexus of business and technology. For over 50 years, organizations have trusted SAP to bring out their best by uniting business-critical operations spanning finance, procurement, HR, supply chain, and customer experience.
+We win with inclusion
+SAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.
+SAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team: Careers@sap.com.
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+Qualified applicants will receive consideration for employment without regard to their age, race, religion, national origin, ethnicity, gender (including pregnancy, childbirth, et al), sexual orientation, gender identity or expression, protected veteran status, or disability, in compliance with applicable federal, state, and local legal requirements.
+AI Usage in the Recruitment Process
+For information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.
+Please note that any violation of these guidelines may result in disqualification from the hiring process.

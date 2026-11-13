@@ -1,0 +1,32 @@
+URL: https://www.linkedin.com/jobs/view/4295692713
+TITLE: SAP Analytics Cloud (SAC/Datasphere)
+COMPANY: ABeam Consulting Thailand
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-07
+title: SAP Analytics Cloud (SAC/Datasphere)
+company: ABeam Consulting Thailand
+posted: 5 days ago
+applicants: 129 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fth.linkedin.com%2Fjobs%2Fview%2Fsap-analytics-cloud-sac-datasphere-at-abeam-consulting-thailand-4295692713&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+About The Job SAP Analytics Cloud (SAC/Datasphere)
+ ABeam Consulting (Thailand) Ltd. is a subsidiary of ABeam Consulting Ltd. headquartered in Tokyo, we have 6,600 Consultants in territories across the world, serve more than 200 clients and cover various industries, strong in Automotive, Consumer Packaged Goods, Food & Beverage, and Leasing, offering End-to-End Service to support our clients to realize their Business Transformation. We are Number One SAP Partner in Asia and one of the largest Consulting firms in Thailand.
+ABeam retains a powerful base of professional talent coupled with a global reach which we are recruiting top notch resources and currently looking for SAP Consultants.
+ Responsibilities
+ Gather business requirements and translate them into SAC reporting solutions
+ Design, develop, and deploy dashboards, reports, and data visualizations using SAP Analytics Cloud
+ Build and manage data models and perform data preparation within SAC
+ Integrate SAC with various data sources such as SAP BW, SAP HANA, and SAP Datasphere
+ Optimize dashboard performance and ensure user-friendly design
+ Provide support and training to business users and stakeholders
+ Document technical and functional specifications related to SAC deliverables
+ Collaborate with functional teams, data engineers, and other stakeholders across the project lifecycle.
+ Skills And Experiences
+ Bachelors degree or masters Degree in related field
+ Experience working with SAP Analytics Cloud.
+ Strong knowledge of data visualization principles and dashboard design best practices.
+ Experience with data integration to SAC from SAP and non-SAP sources.
+ Knowledge of SAC Planning is an advantage.
+ Good communication both English and Thai.
+ Able to travel outside Bangkok and overseas.
+ Experience for consulting firm is advantage.

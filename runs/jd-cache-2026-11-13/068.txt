@@ -1,0 +1,78 @@
+URL: https://www.linkedin.com/jobs/view/4489673678
+TITLE: DATA ENGINEER
+COMPANY: STATION F
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-11
+title: DATA ENGINEER
+company: STATION F
+posted: 2 days ago
+applicants: 46 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fjobs%2Fview%2Fdata-engineer-at-station-f-4489673678&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+About
+ Joko is an AI shopping app that helps millions of users save time and money when shopping online or in-store. With Juno, our shopping assistant, they can find the right product at the best price in only a few seconds.
+What sets Joko’s AI apart is how well it knows its users. Its shopping recommendations feel personal from day one and get sharper the more they use it. It draws on unique assets to deliver the best experience: one of the largest product catalogs in the world, and unique shopping data no one else has to personalize every recommendation.
+Users can also track the price of their favorite products and earn cash back almost everywhere. All in one free app.
+Joko is a tech company founded in Paris. Their team of 120+ talents is international and spread across Paris, Barcelona, and New York, with some working remotely.
+As a certified B Corporation, they are committed to making a difference for the communities they serve, including the 6 million consumers already using Joko to save money every day at over 10,000 merchants.
+After reaching profitability in their core market, they are expanding internationally with a primary focus on the US.
+It’s still day 1 at Joko; come build the future of shopping with us.
+ Job Description
+ At Joko, our mission is to we help consumers save time and money when shopping online or in-store.
+Founded in Paris, Joko is a tech company and certified B Corp with over 120 talents across Paris, Barcelona, and New York (and beyond). More than 7 million users already save money every day at 10,000+ merchants with Joko.
+From cashback and automatic coupons to price alerts, we've kept expanding our products to make shopping smarter. Today, Joko is an AI shopping app: with Juno, our shopping assistant, users can find the right product at the best price in only a few seconds, with recommendations that get sharper the more they use it.
+Having reached profitability in our core market, we’re now scaling globally, with a strong focus on the US.
+ It’s still day 1, come build the future of shopping with us!
+ 🧚🏻‍♂️ Our Data team
+ The Data team at Joko is turning mountains of data into actionable insights for all the teams! We are part of the Operations department led by our COO, and our mission is to empower the company to make informed decisions on solid, trustworthy foundations.
+ More Specifically, The Team's Responsibilities Are
+ State-of-the-art analytics & data stack: We build top-notch analyses, predictive models, and robust data infrastructure. We operate a modern data stack (Snowflake, dbt, Airbyte, and Metabase) and continuously raise the bar on scalability, reliability, and performance.
+ AI-driven autonomy for stakeholders: We are doubling down on the combination of AI and data to unlock a new level of autonomy for our stakeholders, seamlessly bridging data insights with the AI tools we use.
+ Spread the data culture: At Joko, we have a strong engineering and tech culture across all teams. We work hand-in-hand with our stakeholders, providing support and training on data tools, and building close relationships to ensure our solutions align perfectly with their operational needs and evolve with them over time.
+ 🎯 What You Will Do
+ As a Data Engineer, you will own and scale our data infrastructure, working closely with Data Analysts, Product Managers, and Engineers to build a reliable, secure, and high-performing data platform. This is a high-impact role with significant autonomy as we invest seriously in data engineering.
+ Your Responsibilities Will Include
+ Scale our data infrastructure: Lead the evolution of our stack to make it more scalable, reliable, and cost-efficient. Anticipate growth in data volume and complexity, and design systems with performance in mind.
+ Power AI initiatives: Lay solid data engineering foundations that enable AI data products that are used by all stakeholders across the company.
+ Design and maintain data pipelines: Build robust processes to ingest data from multiple sources (internal systems, APIs, external tools) and orchestrate them efficiently.
+ Unlock scalable data modeling: Support Data Analysts by improving dbt project organization, factorizing jobs, and ensuring quality and scalability of transformations across the stack.
+ Ensure data quality & observability: Implement monitoring, testing, and alerting systems to ensure the freshness, reliability, and accuracy of data across the company.
+ Manage data access & governance: Define and enforce access control policies (e.g., in Snowflake, Metabase) to ensure data is secure, well-permissioned, and compliant.
+ Implement documentation & knowledge sharing: Ensure models, pipelines, and workflows are well-documented to support onboarding, collaboration, and long-term autonomy of the team.
+ Tackle exciting challenges ahead: Support new market launches, manage growing data volumes, and help centralize pipelines within an orchestration tool.
+ 👀 Who We're Looking For
+ Experience: You have 5+ years of experience in data engineering or a similar role, with demonstrated ownership over building and/or scaling data infrastructure.
+ Track record: You have led the implementation or scaling of a modern data stack (e.g., Airflow, dbt, BigQuery/Snowflake, event streaming, etc.) in a startup or scale-up environment.
+ Technical skills: Proficient in SQL and Python. Solid hands-on experience with orchestration tools (Airflow or similar) and cloud environments (Snowflake, GCP, AWS).
+ Architectural thinking: Strong understanding of data modeling, warehousing principles, and performance optimization techniques.
+ Interest in AI: You are genuinely curious about AI and its applications. You use AI in your daily work and you are interested in applications related to the data field.
+ Mindset: Pragmatic, curious, and proactive. You value clean architecture, documentation, and continuous improvement.
+ Collaboration: Able to clearly communicate with both technical and non-technical stakeholders.
+ Languages: Fluent in English, both written and spoken.
+ 💎 Our perks
+ (Some of the benefits listed below are available to full-time positions only)
+ At Joko, we believe that flexibility and trust are essential. Our work environment reflects this through:
+ Flexible remote : If you live in Paris, you can choose to work from our office or from home with no constraints. If you live elsewhere, we can provide access to a coworking space and a coworking budget.
+ Work from anywhere : Want to spend a month in Italy while working? You can work from most countries in the world for up to 3 months per year.
+ On Top Of That, We Offer Plenty Of Perks
+ 💸 Top-market compensation
+ 📈 Equity for everyone with the chance to own a piece of what you build
+ 🤖 Half-day each week dedicated to leveling up with AI by exploring new tools, iterating hard, and sharpening your skills
+ 🌴 Yearly offsite in amazing locations and budget for team-building events & monthly in-person gatherings
+ 💪 Contribution to your ClassPass subscription
+ 🍼 8-week leave paid 100% for the second parent
+ …and much more, check the full list here!
+ 🤝 Our hiring process
+ Intro call: Quick screening with the Hiring Manager or the Talent team.
+ Step 1 – Team interview (45 min): Conversation with two Joko team members (could include the Hiring Manager, people from the team you’d join, or colleagues from other teams).
+ Step 2 – Role-specific assessments
+ For non-engineering roles: A take-home case study followed by a 45-min interview. We assess both your output and how you think in real time. The exercise will be relevant to your role (e.g. analysis, strategy, or process design).
+ For engineering roles: A 90-min live technical interview on CoderPad covering code understanding, review, system design, and product thinking (with AI serving as a collaboration tool).
+ Step 3 – Leadership interview (45 min): Conversation with a SteerCo member and a Founder.
+ References: Up to 3 calls with former colleagues or managers.
+ ☕ You may also be invited for coffee with team members to get a feel for our culture.
+Additional Information
+ Contract Type: Full-Time
+ Location: Paris 
+ Possible partial remote
+ Salary: between 70000€ and 100200€ / year

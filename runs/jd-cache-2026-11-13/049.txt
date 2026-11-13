@@ -1,0 +1,38 @@
+URL: https://www.linkedin.com/jobs/view/4488616382
+TITLE: BI Developer (Power BI & Power Platform) - Remote Work
+COMPANY: BairesDev
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-10
+title: BI Developer (Power BI & Power Platform) - Remote Work
+company: BairesDev
+posted: 2 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fcl.linkedin.com%2Fjobs%2Fview%2Fbi-developer-power-bi-power-platform-remote-work-at-bairesdev-4488616382&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley.
+ Our diverse 4,000+ team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide.
+ When you apply for this position, you're taking the first step in a process that goes beyond the ordinary. We aim to align your passions and skills with our vacancies, setting you on a path to exceptional career development and success.
+ BI Developer (Power BI & Power Platform) at BairesDev
+ In this role, you will deliver reporting and low-code solutions that put insights and automation in users' hands. You will help teams make faster decisions.
+ What You'll Do:
+ - Design and build interactive dashboards that answer key business questions.
+ - Develop data models that keep reports accurate and fast.
+ - Create low-code apps and automated workflows that reduce manual work.
+ - Connect diverse data sources into consistent, governed datasets.
+ - Manage refresh schedules, security, and workspace administration.
+ - Gather requirements from business users and iterate on solutions.
+ What we are looking for:
+ - 4+ years of experience in business intelligence development.
+ - Proven expertise building reports and data models with Power BI, including DAX.
+ - Hands-on experience creating apps and automations with Microsoft Power Platform.
+ - Solid knowledge of SQL, data modeling, and ETL concepts.
+ - Advanced proficiency in English.
+ How we do make your work (and your life) easier:
+ - 100% remote work (from anywhere).
+ - Excellent compensation in USD or your local currency if preferred
+ - Hardware and software setup for you to work from home.
+ - Flexible hours: create your own schedule.
+ - Paid parental leaves, vacations, and holidays.
+ - Innovative and multicultural work environment: collaborate and learn from the global Top 1% of talent.
+ - Supportive environment with mentorship, promotions, skill development, and diverse growth opportunities.
+ Apply now and become part of a global team where your unique talents can truly thrive!

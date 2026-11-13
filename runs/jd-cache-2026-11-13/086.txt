@@ -1,0 +1,51 @@
+URL: https://www.linkedin.com/jobs/view/4487486849
+TITLE: Werkstudent IT-Systemadministration (m/w/d)
+COMPANY: Mintcode Solutions
+LOC: Haselünne, Lower Saxony, Germany
+POSTED: 2026-11-10
+title: Werkstudent IT-Systemadministration (m/w/d)
+company: Mintcode Solutions
+posted: 2 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+Du studierst Informatik, Wirtschaftsinformatik oder etwas Vergleichbares und willst neben dem Studium an echter Infrastruktur arbeiten statt nur an Übungsaufgaben? Du hast vielleicht schon ein Homelab, den Familien-PC-Support an der Backe oder einfach Spaß daran, herauszufinden, warum etwas nicht läuft? Dann passt du zu uns.
+ Du musst noch nicht alles können. Wichtiger ist uns, dass du Technik verstehen willst, zuverlässig bist und Fragen stellst. Den Rest lernst du bei uns, mit Kollegen, die mit dir draufschauen, und einem eigenen Lab zum Ausprobieren.
+ Wir sind MintCode Solutions aus Haselünne, ein Team aus 8 Leuten, das IT-Infrastruktur für Unternehmen in der Region baut und betreibt.
+ Aufgaben 
+ Du unterstützt unser Team beim Aufbau und Betrieb von Server- und Netzwerkumgebungen bei unseren Kunden
+ Du baust Server und Workstations zusammen, installierst sie und prüfst sie auf Herz und Nieren
+ Du hilfst bei der zentralen Betreuung unserer Kundenumgebungen, zum Beispiel bei Patching, Monitoring und Backup-Kontrollen
+ Du richtest Benutzer, Postfächer und Lizenzen in Microsoft 365 ein
+ Du bearbeitest Support-Anfragen unserer Kunden und holst dir Hilfe, wenn es knifflig wird
+ Du dokumentierst Lösungen so, dass auch der nächste durchblickt
+ Du automatisierst, was sich wiederholt, und bringst eigene Ideen ein
+ Du begleitest deine Kollegen zu Einsätzen beim Kunden vor Ort
+ Du arbeitest von Anfang an an echten Kundenprojekten mit und übernimmst Schritt für Schritt mehr eigene Aufgaben. Und du sitzt mit deinen Problemen nicht allein da: Es ist immer jemand da, der mit dir draufschaut.
+ Qualifikation 
+ Das bringst du mit:
+ Du bist eingeschriebener Student, idealerweise in Informatik, Wirtschaftsinformatik oder einem verwandten Studiengang
+ Du hast bis zu 20 Stunden pro Woche Zeit, in den Semesterferien gern mehr
+ Du interessierst dich für Server, Netzwerke und Betriebssysteme und hast Grundkenntnisse in Windows
+ Du arbeitest dich selbst in Neues ein und bleibst dran, wenn ein Problem nicht beim ersten Versuch gelöst ist
+ Du arbeitest zuverlässig und sagst Bescheid, wenn etwas nicht klappt oder du einen Fehler gemacht hast
+ Du sprichst gutes Deutsch und kannst Technik verständlich erklären
+ Schön, wenn du das schon kannst (sonst lernst du es bei uns):
+ Erste Erfahrung mit Windows Server, Virtualisierung oder Microsoft 365, zum Beispiel aus einem Homelab, einer Ausbildung oder einem Nebenjob
+ Grundverständnis für Netzwerke: Du weißt, was Firewall, VPN und Routing tun
+ Erste Schritte mit Linux oder Skripting in PowerShell oder Bash
+ Führerschein Klasse B
+ Für uns zählen Persönlichkeit, Motivation und Potenzial mehr als gute Noten. Wichtig ist, dass du sauber arbeitest und Lust hast, besser zu werden.
+ Benefits 
+ Eigenes Lab und lokale KI-Power. Du hast ein eigenes Lab zum Testen und Ausprobieren und arbeitest mit lokaler KI-Hardware.
+ Praxis, die im Studium fehlt. Du arbeitest an echten Kundenumgebungen und lernst, wie IT-Infrastruktur im Alltag wirklich betrieben wird.
+ Moderne Tooling-Kultur. Aktueller Stack, KI-gestütztes Arbeiten (unter anderem mit Claude) und kein Altlast-Ballast, der dich ausbremst.
+ Flexible Arbeitszeiten. Vorlesungen und Klausurphasen gehen vor. Deine Arbeitszeiten stimmen wir mit deinem Stundenplan ab.
+ Start-up-Flair. Kurze Entscheidungswege, echte Eigenverantwortung und eine Atmosphäre, in der Ideen mehr zählen als Hierarchien.
+ Home-Office. Nach der Einarbeitung ist Home-Office in Absprache möglich.
+ Perspektive nach dem Studium. Wenn es passt, sprechen wir gern über Abschlussarbeit und Festanstellung.
+ Das sehen wir als Standard an 
+ Ein modern ausgestatteter Arbeitsplatz mit leistungsstarker Workstation
+ Kostenlose Getränke und Kaffee im Büro
+ Ein sauber aufgeräumter und voll ausgestatteter Firmenbulli für Kundeneinsätze
+ Wenn du neben dem Studium nicht nur Geld verdienen, sondern wirklich etwas lernen willst, dann bewirb dich bei uns!

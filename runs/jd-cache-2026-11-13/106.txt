@@ -1,0 +1,45 @@
+URL: https://www.linkedin.com/jobs/view/4488679401
+TITLE: Student Assistant / Student Worker in 5G/6G
+COMPANY: Fraunhofer Karriere
+LOC: Berlin, Germany
+POSTED: 2026-11-11
+title: Student Assistant / Student Worker in 5G/6G
+company: Fraunhofer Karriere
+posted: 1 day ago
+applicants: 37 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fstudent-assistant-student-worker-in-5g-6g-at-fraunhofer-karriere-4488679401&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+The Fraunhofer Institute for Open Communication Systems FOKUS is one of the largest ICT institutes within the Fraunhofer Society.
+We work in an interdisciplinary manner, with colleagues from more than 30 countries, and we are pleased that an increasing number of women are helping us shape the digital future.
+To strengthen our team "Software-based Networks" (NGNI)" we are looking for Student Assistants / Student Workers , starting at the earliest possible date.
+ Be part of change
+ Support for software development (e.g., Open6GCore, Open5GCore)
+ Setup, integration and operation of test environments (5G/6G test networks, virtual networks, other software test environments)
+ Research on mobile communication technologies
+ Conducting experiments
+ Contributing to publications or reports
+ What You Contribute
+ You are currently enrolled as a student for at least two more semesters in computer science, technical computer science, computer engineering, communications engineering, or a comparable program at a German university
+ You have at least a basic knowledge of C and Rust
+ You should have some experience working with Linux, Git, VMs/containers, as well as network protocols and mobile networks
+ You have good to very good German and English language skills
+ You'd like to help shape the future, are open to growth, and you are a teamplayer with good 
+ You are available to work on-site at our institute in Berlin-Charlottenburg at least one day a week
+ What We Offer
+ Flexible working hours and the possibility of hybrid working (with at least one in-person day per week at the institute )
+ Barrier-free building with bicycle storage and public transport connections right outside the door
+ Discounts on numerous well-known providers through Corporate Benefits
+ A practical, study-related activity in an innovative and modern working environment
+ Support for your bachelor's or master's thesis
+ The working hours are 60 - 80 per month. The remuneration is based on your progress in studies and ranges from € 18.06 to € 18.78 per hour. The contract is for one year. In principle, we are interested in a longer-term collaboration. Your workplace is located at Kaiserin-Augusta-Allee 31, 10589 Berlin. We value and promote the diversity of our employees' skills and therefore welcome all applications – regardless of age, gender, nationality, ethnic and social origin, religion, ideology, disability, sexual orientation and identity. Severely disabled persons are given preference in the event of equal suitability. Our tasks are diverse and adaptable – for applicants with disabilities, we work together to find solutions that best promote their abilities.
+With its focus on developing key technologies that are vital for the future and enabling the commercial utilization of this work by business and industry, Fraunhofer plays a central role in the innovation process. As a pioneer and catalyst for groundbreaking developments and scientific excellence, Fraunhofer helps shape society now and in the future.
+ Ready for a change? Then apply now and make a difference! Once we have received your online application, you will receive an automatic confirmation of receipt. We will then get back to you as soon as possible and let you know what happens next. 
+ Questions will be answered by
+Eric Troudt und Björn Riemer
+Scientists at NGNI
+eric.troudt@fokus.fraunhofer.de
+bjoern.riemer@fokus.fraunhofer.de
+If you need any specific assistance during the application process, don't hesitate to contact us under recruiting@fokus.fraunhofer.de
+Fraunhofer Institute for Open Communication Systems FOKUS
+www.fokus.fraunhofer.de
+Requisition Number: 86170 Application Deadline: 11/26/2026

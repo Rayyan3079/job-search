@@ -1,0 +1,44 @@
+URL: https://www.linkedin.com/jobs/view/4478993933
+TITLE: Praktikant Business Intelligence und Datenanalyse (w/m/x)
+COMPANY: BMW Group
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-11-11
+title: Praktikant Business Intelligence und Datenanalyse (w/m/x)
+company: BMW Group
+posted: 1 day ago
+applicants: 96 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikant-business-intelligence-und-datenanalyse-w-m-x-at-bmw-group-4478993933&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+EIN GUTES PRAKTIKUM IST PRAKTISCH NIE THEORETISCH.
+ TEILE DEINE LEIDENSCHAFT.
+ Erfolg ist Teamarbeit. Nur wenn Expert:innen ihr Fachwissen und ihre Begeisterung teilen, entsteht ein Workflow, in dem Ideen fließen. Das nennen wir Innovationskultur. Deshalb geben wir Studierenden bei uns nicht nur die Gelegenheit zum Zuhören, sondern vor allem auch zum Mitreden und Weiterdenken.
+Unser Team bei der BMW Group gestaltet ein globales B2B-Dashboard auf Basis des Cloud Data Hub mit AWS-Technologie. Wir verbinden Teilelogistik-, Finanz- und marktspezifische Daten, um fundierte Entscheidungen für das Management zu ermöglichen. Im Rahmen deines Praktikums unterstützt du uns bei der Weiterentwicklung moderner Reporting-Lösungen.
+ Was erwartet dich?
+ Du unterstützt bei der Konzeption und Umsetzung eines globalen B2B-Dashboards mit Daten aus dem Cloud Data Hub (AWS-Technologie).
+ Außerdem wirkst du mit bei der Integration und Analyse von Teilelogistik-, Finanz- sowie marktspezifischen Daten.
+ Darüber hinaus unterstützt du bei der Recherche und Bewertung von Technologien und Komponenten im Cloud Data Hub.
+ Zudem hilfst du bei der Durchführung von Analysen und Abstimmungsprozessen mit internationalen Märkten sowie internen Stakeholdern.
+ Außerdem wirkst du mit bei der Aufbereitung und Präsentation der Ergebnisse für das Management in PowerPoint.
+ Darüber hinaus unterstützt du den Einsatz von Künstlicher Intelligenz zur Optimierung von Prozessen und für effiziente Abläufe.
+ Was bringst du mit?
+ Studium der (Wirtschafts-)Informatik, Wirtschaftswissenschaften oder vergleichbar.
+ Interesse an datengetriebenen Lösungen und Reporting in einem internationalen Umfeld.
+ Grundkenntnisse in der AWS-Technologie sowie BI-Tools von Vorteil.
+ Analytisches Denken sowie eine strukturierte und proaktive Arbeitsweise.
+ Kommunikationsstärke, hohe Motivation sowie Teamfähigkeit in einem internationalen Umfeld.
+ Gute Englischkenntnisse in Wort und Schrift.
+ Möchtest du ein globales B2B-Dashboard mit modernster Cloud- und KI-Technologie mitgestalten? Dann bewirb dich jetzt!
+ Was bieten wir dir?
+ Umfassendes Mentoring & Onboarding.
+ Persönliche & fachliche Weiterentwicklung.
+ Flexible Arbeitszeiten.
+ Mobilarbeit.
+ Attraktive & faire Vergütung.
+ Apartments für Studierende (nach Verfügbarkeit & nur am Standort München).
+ Und vieles mehr siehe bmw.jobs/waswirbieten
+ Startdatum: ab frühestens 01.02.2027
+ Dauer: 6 Monate
+ Arbeitszeit: Vollzeit
+Hilfreiche Tipps zu deiner Bewerbung und dem Bewerbungsprozess findest du hier.
+Wir bei der BMW Group legen großen Wert auf Gleichbehandlung und Chancengleichheit. Unsere Recruiting-Entscheidungen basieren auf der Persönlichkeit, den Erfahrungen und Fähigkeiten der Bewerber:innen. Mehr dazu hier.
+Praktikant Business Intelligence und Datenanalyse (w/m/x)

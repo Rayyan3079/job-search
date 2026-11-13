@@ -1,0 +1,21 @@
+URL: https://www.xing.com/jobs/berlin-sap-consultant-praktikum-werkstudent-159113321
+TITLE: SAP Consultant Praktikum / Werkstudent:in (m/w/d)
+COMPANY: Innowise
+LOC: Berlin
+POSTED: 2026-11-10
+title: SAP Consultant Praktikum / Werkstudent:in (m/w/d)
+company: Innowise
+posted: 2026-11-10T21:57:33Z
+location: Berlin | remote: 
+---
+Innowise IT Innowise is an international full-cycle software development company founded in 2007. We are a team of 3,500+ IT professionals developing software for other professionals worldwide. SAP Consultant Praktikum / Werkstudent:in (m/w/d) Wir suchen einen Praktikanten, der seine Kenntnisse im Bereich SAP in der Praxis anwenden und weiterentwickeln möchte. Wir bieten die Möglichkeit, in einem technisch anspruchsvollen Umfeld unter der Anleitung erfahrener Experten zu arbeiten, moderne SAP-Technologien kennenzulernen und an der Umsetzung innovativer IT-Lösungen für unsere Kunden mitzuwirken. 
+Wenn Sie sich beruflich weiterentwickeln möchten, Interesse an Unternehmensprozessen haben und bereit sind, praktische Erfahrungen zu sammeln, werden Sie Teil unseres Teams! 
+ Aufgabenbeschreibung
+ Unterstützung bei der Implementierung, Konfiguration und Anpassung von SAP-Lösungen unter Anleitung erfahrener Consultants Mitarbeit bei der Analyse und Optimierung von Geschäftsprozessen mithilfe von SAP-Systemen Unterstützung bei der Umsetzung von Kundenanforderungen in SAP-Funktionalitäten Kennenlernen und Arbeiten mit verschiedenen SAP-Modulen und -Technologien Unterstützung bei der Analyse und Behebung von Problemen im SAP-Umfeld Erstellung und Pflege technischer Dokumentationen sowie Prozessbeschreibungen Teilnahme an Team-Meetings, Workshops und technischen Diskussionen 
+ Erwartete Qualifikationen
+ Englischkenntnisse auf dem Niveau B2 oder höher; Deutschkenntnisse auf dem Niveau B2 oder höher; Grundkenntnisse im Bereich SAP oder Interesse daran, sich in SAP-Technologien und -Lösungen einzuarbeiten; Grundlegendes Verständnis von Geschäftsprozessen und Unternehmensabläufen; Analytisches Denkvermögen und eine strukturierte Arbeitsweise; Motivation, neue Technologien zu erlernen und sich fachlich weiterzuentwickeln 
+ Unser Angebot
+ Individueller Entwicklungsplan Ein Mentor, der Sie während des gesamten Prozesses begleitet Flexible Arbeitszeiten – leicht mit dem Studium zu vereinbaren Technische Meetups, Wissensdatenbank und Team-Meetings Praktische Erfahrung mit modernen Technologien Übernahmemöglichkeit in unser Team nach erfolgreichem Praktikum Gut zu wissen: 
+Wir begrüßen Bewerber aller Geschlechter. Wir freuen uns auch über Kandidaten aus der LGBT+-Community, Menschen mit Migrationshintergrund, Angehörige ethnischer Minderheiten sowie neurodivergente Menschen, Menschen mit Behinderung oder chronischen Erkrankungen in unserem Team. 
+ Hinweise zur Bewerbung
+ Sie können sich online über das Formular auf unserer Website bewerben. Vergessen Sie nicht, Ihren Lebenslauf und (falls vorhanden) einen Link zu Ihrem GitHub-Profil beizufügen.

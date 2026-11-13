@@ -1,0 +1,43 @@
+URL: https://www.stepstone.de/stellenangebote--Working-Student-for-Data-Annotation-m-f-d-Boeblingen-bei-Stuttgart-AP-Sensing-GmbH--14745802-inline.html
+TITLE: Working Student for Data Annotation (m/f/d)
+COMPANY: AP Sensing GmbH
+LOC: Böblingen bei Stuttgart
+POSTED: stepstone
+title: Working Student for Data Annotation (m/f/d)
+company: AP Sensing GmbH  
+posted: 2026-11-12T12:24:42.113Z
+location: Böblingen bei Stuttgart | remote: 
+---
+Our Company
+ WE ARE AGAIN AWARDED AS  TOP ARBEITGEBER 2025! 
+ At AP Sensing, we’re building on a success story that began in the garage of Bill Hewlett and Dave Packard. As an independent HP spin-off, we combine over 40 years of technological expertise with a passion for innovation.
+ Together we’ll continue to enhance infrastructure, protect people, and safeguard our planet. With a commitment to fiber optic sensing, we value every voice and empower growth. Join us in  thinking ahead  to create a smarter, safer world.
+ YOUR NEW CAREER
+ For our headquarters in Böblingen we are searching a working student (m/f/d). You become part of a global team developing distributed fiber optic sensing solutions that help optimize critical infrastructure, protect people, and safeguard the environment. Using fiber optic cables as continuous sensors, we combine advanced photonics, measurement technology, and modern software to deliver reliable real-time insights along pipelines, power cables, railways, and other assets. In this role, you contribute to solutions deployed worldwide, working in a collaborative, cross-disciplinary engineering environment that values technical rigor, long-term quality, and practical innovation.
+ Your Responsibilities
+ Careful and accurate annotation of complex data
+ Management and processing of large datasets
+ Improvement of annotation workflows (semi-supervised annotation, weak labeling, etc.)
+ Your Profile
+ Ideally, you bring the following:
+ STEM background with knowledge of Machine Learning and Data Science
+ Programming skills (Python, Bash, etc.)
+ Ability to quickly understand and adapt to complex technical topics
+ Ability to thrive in dynamic environments and switch between different tasks and contexts efficiently
+ You are willing to work regularly on-site at our headquarters in Böblingen 
+ We are looking for someone to start immediately, ideally for 20 hours per week 
+ Interested? Then send your application—including the  high school diploma , bachelor’s degree certificate (if already available) and the current transcript or records to hr@apsensing.com .
+ Our Offer
+ Flexibility: Flexible working hours that are compatible with your studies
+ Team: A motivated and friendly team that supports and encourages you
+ Location: only a 2-minute walk from the S-Bahn station with a direct connection to Stuttgart
+ Office space: You will work on site in large, bright and air-conditioned offices with height-adjustable desks and a fully equipped kitchen with a high-tech coffee machine.
+ Are you ready to play a BIG role in a small team instead of a SMALL role in a big team?
+ Then you are spot-on with us… 
+ hr@apsensing.com 
+Contact: Ingrid Licht         
+ Tel.:  +49 7031 309 6619 
+Reference: 818G
+ AP Sensing GmbH 
+71034 Böblingen
+ www.apsensing.com

@@ -1,0 +1,39 @@
+URL: https://www.linkedin.com/jobs/view/4486627214
+Company: Enzo
+Title: AI Engineer Intern (RAG & agents)
+Found: 2026-11-13
+Posted: 2026-11-07
+
+URL: https://www.linkedin.com/jobs/view/4486627214
+TITLE: AI Engineer Intern
+COMPANY: Enzo
+LOC: Heidelberg, Baden-Württemberg, Germany
+POSTED: 2026-11-07
+title: AI Engineer Intern
+company: Enzo
+posted: 5 days ago
+applicants: 81 applicants
+apply_offsite: 
+---
+Enzo is a B2B PropTech and WaterTech startup revolutionizing the real estate and insurance industry with its cutting-edge IoT and AI solution, one.drop. Our proprietary sensor technology helps monitor water systems in buildings in real-time, enabling early detection of leaks and preventing costly water damage. Backed by significant funding and a rapidly growing customer base, Enzo is on a mission to protect properties while conserving one of our most vital resources - water. 
+ As an AI Engineer Intern , you'll join our AI team and get hands-on with the systems that make our agents smarter and our predictions sharper. It's real work with real ownership, plenty of room to experiment, and a direct line from what you build to the impact it has.
+ Tasks 
+ Tasks that you will work on: 
+ Work closely with our product and engineering teams to build, test, and improve AI-powered features.
+ Design Retrieval-Augmented Generation (RAG) solutions to improve agent performance and accuracy.
+ Automate data collection, data labelling and data pipeline engineering.
+ Requirements 
+ You cover the following requirements: 
+ Currently pursuing a Master's or PhD in Computer Science, AI, Mathematics, or a related engineering field.
+ A strong interest in agentic AI systems and workflows, ideally with some hands-on experience.
+ Familiarity with agentic build platforms such as RAGFlow (through coursework, projects, or self-study).
+ A sense for choosing the right model for the task, knowing when a frontier model is warranted vs. when a smaller, faster, or cheaper one gets the job done.
+ Some exposure to vector databases and retrieval systems.
+ Excellent command of English, both written and spoken.
+ Don't meet every requirement? Apply anyway. We value curiosity and a willingness to learn just as much as a perfect checklist.
+ Benefits 
+ Impact: Your work will directly contribute to the development of our AI solutions for sustainable water management. Work on real-world AI with immediate impact.
+ Exposure: Work closely with Enzo's AI team, gaining insights into machine learning applications in IoT.
+ Learning & Development: Gain hands-on experience in AI, machine learning, and data analysis.
+ Growth Potential: You will have many opportunitoes to grow personally in an open-minded and international team.
+ Sound like you? We'd love to hear from you, apply now and tell us what excites you about building AI at Enzo.

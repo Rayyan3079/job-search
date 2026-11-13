@@ -1,0 +1,39 @@
+URL: https://www.linkedin.com/jobs/view/4489018587
+TITLE: Werkstudent (w/m/d) für KI-Assistenten & Generative KI in der elektrotechnischen Entwicklung
+COMPANY: Siemens
+LOC: Regensburg, Bavaria, Germany
+POSTED: 2026-11-11
+title: Werkstudent (w/m/d) für KI-Assistenten & Generative KI in der elektrotechnischen Entwicklung
+company: Siemens
+posted: 1 day ago
+applicants: 34 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-w-m-d-f%25C3%25BCr-ki-assistenten-generative-ki-in-der-elektrotechnischen-entwicklung-at-siemens-4489018587&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Art der Anstellung: Befristet / Teilzeit; (15-20 Stunden / Woche)
+Tauche als Werkstudent (w/m/d) für KI-Assistenten und Generative KI in der elektrotechnischen Entwicklung am Standort Regensburg in die Welt modernster Technologien ein und gestalte gemeinsam mit uns den R&D-Alltag von morgen! Nutze deine Ideen und dein Know-how, um mit SiemensGPT und smarten Tools innovative KI-Lösungen zu entwickeln, die unsere Ingenieur*innen begeistern.
+Werde Teil unseres Working Student Network – einer Community, die dir Austausch, Unterstützung und wertvolle Kontakte bei Siemens bietet.
+ Verändere die Welt von morgen:
+ Du unterstützt unsere Entwicklungsingenieur*innen bei der Identifikation und Konzeption praxisnaher KI- und Automatisierungs-Use-Cases für den R&D-Alltag
+ Anschließend wirkst du bei der prototypischen Umsetzung intelligenter KI-Assistenten, autonomer Workflows und Agenten mit, indem du moderne Entwicklungsframeworks wie Python, APIs oder unsere Enterprise-Plattform SiemensGPT nutzt
+ Darauf aufbauend evaluierst und erprobst du neue Ansätze wie RAG, Tool-Calling oder automatisierte Datenanalysen und verbesserst bestehende Anwendungen kontinuierlich
+ Im Rahmen deiner Tätigkeit erhältst du spannende Einblicke in unsere Entwicklungsprozesse und kannst im Labor dein theoretisches Wissen direkt in die Praxis übertragen
+ Abschließend untersuchst du, wie KI unsere Entwicklungsarbeit gezielt unterstützen und effizienter gestalten kann
+ So überzeugst du uns:
+ Ausbildung: Du studierst derzeit erfolgreich Elektrotechnik, technische Informatik, Mechatronik oder einen vergleichbaren ingenieurwissenschaftlichen Studiengang
+ Erfahrungen und Kenntnisse:
+ Idealerweise hast du bereits praktische Erfahrungen mit generativer KI, Large Language Models (LLMs), Prompt Engineering sowie modernen Konzepten wie KI-Agenten, RAG oder Tool-Integration
+ Erste Berührungspunkte mit Enterprise-KI-Lösungen (wie SiemensGPT oder Microsoft 365 Copilot) sind ein Plus
+ Kenntnisse in Python, Datenaufbereitung, APIs oder Automatisierung sind von Vorteil
+ Arbeitsweise: Du arbeitest strukturiert, lernst schnell und überzeugst durch Teamfähigkeit
+ Sprachkenntnisse: Sehr gute Deutsch- und gute Englischkenntnisse in Wort und Schrift
+ Du bist viel mehr als deine Qualifikationen und wir glauben an das Potential jeder einzelnen Person. Wir freuen uns darauf, dich kennenzulernen!
+Bei Siemens sind wir überzeugt: Wer sich wertgeschätzt und zugehörig fühlt, kann das eigene Potenzial voll entwickeln. Deshalb schaffen wir ein inklusives Arbeitsumfeld, in dem jede Person ein Gefühl der Zugehörigkeit erfährt und in dem individuelle Perspektiven und Erfahrungen geschätzt werden. Unser Engagement für Fairness und Respekt gilt für alle Bewerbenden.
+Wir legen Wert auf Chancengleichheit und freuen uns über Bewerbungen von Menschen mit unterschiedlichen Hintergründen, ausdrücklich auch von Menschen mit Behinderung.
+ Über Uns
+ Stell dir vor, du könntest deine Ideen in die DNA von Gebäuden und Infrastrukturen einfließen lassen!
+Wir, das Team von Siemens im Bereich Smart Infrastructure Electrical Products, haben uns zum Ziel gesetzt, modernste Technologien für Gebäude zu entwickeln, die sowohl der Gesellschaft als auch der Umwelt zugutekommen. Klingt das nach einem Plan, den du mit uns verfolgen möchtest?
+Mehr Informationen zum Bereich und den Produkten findest du hier: https://www.siemens.com/de/de/unternehmen/themenfelder/smart-infrastructure.html
+www.siemens.de/karriere – wenn du mehr Informationen zu Jobs & Karriere bei Siemens erhalten möchtest.
+FAQ – wenn du eine Frage zum Thema Bewerbung bei Siemens hast.
+Wenn du darüber hinaus noch Fragen hast, wende dich gerne an uns: www.siemens.de/fragenzurbewerbung
+#sagworkingstudent

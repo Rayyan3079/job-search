@@ -1,0 +1,30 @@
+URL: https://www.linkedin.com/jobs/view/4489076601
+TITLE: Junior BI Developer
+COMPANY: Grainset Data
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-11-12
+title: Junior BI Developer
+company: Grainset Data
+posted: 1 day ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fjunior-bi-developer-at-grainset-data-4489076601&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Finance and sales teams at our German clients read their figures in Power BI, and they prefer the person who changes their reports to share their working day. That is why Grainset Data is hiring a Junior BI Developer in Germany. The position is full-time and remote from anywhere in Germany, with our Boston team six hours behind.
+ Main tasks Build and change Power BI reports from agreed metric definitions
+ Write DAX measures and check them against the source records
+ Model tables so that each report has a clear row grain
+ Set up scheduled refreshes and follow up on failed ones
+ Explain report changes to their users in short written notes
+ What we check for in your CV A degree in business informatics, economics, mathematics, computer science or a related field
+ A Power BI, Tableau or Qlik dashboard you built
+ SQL: SELECT queries with joins and aggregations
+ Excel, including pivot tables
+ Not required, but useful DAX or Power Query
+ The Microsoft PL-300 certification
+ Work with a data warehouse
+ Working at Grainset 30 vacation days
+ Employer-funded company pension
+ Training budget for courses and certifications
+ Laptop and home office setup
+ Flexible hours with a daily overlap with Boston
+ Grainset Data, in Boston, builds data pipelines, analytical models and metric definitions, and traces a reported figure back to the source records behind it.

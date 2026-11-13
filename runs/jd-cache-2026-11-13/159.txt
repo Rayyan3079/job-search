@@ -1,0 +1,115 @@
+URL: https://www.stepstone.de/stellenangebote--Working-Student-Business-Intelligence-Data-Analytics-Bonndorf-Sezai-Yurtcu-Gaststaette-Caesars-Kueche-Sezai-Yurtcu--14743554-inline.html
+TITLE: Working Student - Business Intelligence & Data Analytics
+COMPANY: Sezai Yurtcu Gaststätte Caesar's Küche Sezai Yurtcu
+LOC: Bonndorf
+POSTED: stepstone
+title: Working Student - Business Intelligence & Data Analytics
+company: Sezai Yurtcu Gaststätte Caesar's Küche Sezai Yurtcu
+posted: 2026-11-11T18:54:14.427Z
+location: Bonndorf | remote: 
+---
+Einleitung
+ Job Description:
+ About Dunkermotoren 
+ Dunkermotoren, an AMETEK company, is one of the leading manufacturers in the field of drive technology. For more than 75 years, we have been developing and manufacturing high-quality and intelligent complete solutions in the field of precision drive technology at our site in Bonndorf as well as at other international locations. Our portfolio includes brushless and brushed DC motors, linear systems, and AC motors. As a full-service provider, we offer comprehensive solutions in the fields of drive technology, automation, and digitalization.
+ You are currently enrolled in a degree program, for example in one of the following fields:
+ Business Information Systems
+ Data Science
+ Computer Science
+ Industrial Engineering
+ Business Administration with a focus on Controlling / Analytics
+ or a comparable field of study
+ Über Dunkermotoren 
+ Dunkermotoren, ein Unternehmen der AMETEK-Gruppe, zählt zu den führenden Herstellern im Bereich der Antriebstechnik. Seit über 75 Jahren entwickeln und produzieren wir hochwertige und intelligente Komplettlösungen im Bereich der Präzisionsantriebe am Standort Bonndorf sowie an weiteren internationalen Standorten. Unser Portfolio umfasst unter anderem bürstenlose und bürstenbehaftete Gleichstrommotoren, Linearsysteme und AC-Motoren. Als Full-Service-Provider bieten wir ganzheitliche Lösungen rund um Antriebstechnik, Automatisierung und Digitalisierung.
+ AMETEK, Inc. is a leading global provider of industrial technology solutions serving a diverse set of attractive niche markets with annual sales over $7.5 billion.
+ AMETEK is committed to making a safer, sustainable, and more productive world a reality. We use differentiated technology solutions to solve our customers’ most complex challenges. We employ 22,000 colleagues, in 35 countries, that are grounded by our core values: Ethics and Integrity, Respect for the Individual, Inclusion, Teamwork, and Social Responsibility. AMETEK is a component of the S&P 500. Visit https://www.ametek.com/careers for more information.
+ Ihre Aufgaben
+ Your Position 
+ To support our data-driven business management, we are looking for a Working Student (m/f/d) Business Intelligence & Data Analytics to support us in developing a company-wide reporting and KPI cockpit based on Microsoft Power BI . The position is designed for 15–20 hours per week, with a start date by agreement .
+ In this position, you will work closely with the Business Unit Management and various departments and actively contribute to bringing together data from different areas of the company, developing meaningful KPIs, and establishing a consistent reporting structure.
+ You will gain insights into different business areas such as Sales, Operations, Supply Chain, Service, and Finance and will have the opportunity to contribute your own ideas and actively shape the further development of our reporting landscape.
+ Your Responsibilities 
+ Conceptual design and development of a company-wide Power BI cockpit
+ Analysis, preparation, and consolidation of data from various systems such as ERP, CRM, Excel, and databases
+ Creation and further development of data models, KPIs, and management dashboards
+ Development and automation of reporting solutions
+ Close collaboration with the Business Unit Management and various departments
+ Identification of improvement opportunities regarding data quality and reporting processes
+ Support in further developing a data-driven corporate culture
+ Documentation of data sources, KPI definitions, and reporting standards
+ Deine Position 
+ Zur Unterstützung unserer datengesteuerten Unternehmenssteuerung suchen wir einen Werkstudenten (m/w/d) Business Intelligence & Data Analytics , der uns beim Aufbau eines unternehmensweiten Reporting- und KPI-Cockpits auf Basis von Microsoft Power BI unterstützt. Die Tätigkeit ist im Umfang von 15–20 Stunden pro Woche vorgesehen, der Start erfolgt nach Vereinbarung .
+ In dieser Position arbeitest du eng mit dem Business Unit Management und verschiedenen Fachbereichen zusammen und wirkst aktiv daran mit, Daten aus unterschiedlichen Unternehmensbereichen zusammenzuführen, aussagekräftige KPIs zu entwickeln und eine einheitliche Reporting-Struktur aufzubauen.
+ Dabei erhältst du Einblicke in verschiedene Unternehmensbereiche wie Vertrieb, Operations, Supply Chain, Service und Finance und hast die Möglichkeit, eigene Ideen einzubringen und die Weiterentwicklung unserer Reporting-Landschaft aktiv mitzugestalten.
+ Deine Aufgaben 
+ Konzeption und Entwicklung eines unternehmensweiten Power BI Cockpits
+ Analyse, Aufbereitung und Konsolidierung von Daten aus verschiedenen Systemen wie ERP, CRM, Excel und Datenbanken
+ Erstellung und Weiterentwicklung von Datenmodellen, KPIs und Management-Dashboards
+ Entwicklung und Automatisierung von Reporting-Lösungen
+ Enge Zusammenarbeit mit dem Business Unit Management und verschiedenen Fachbereichen
+ Identifikation von Verbesserungspotenzialen hinsichtlich Datenqualität und Reporting-Prozessen
+ Unterstützung bei der Weiterentwicklung einer datengetriebenen Unternehmenskultur
+ Dokumentation von Datenquellen, KPI-Definitionen und Reporting-Standards
+ Ihr Profil
+ Your Profile 
+ Ideally, you also have:
+ Initial experience with Microsoft Power BI
+ Good knowledge of Excel and data analysis
+ Basic knowledge of SQL is an advantage
+ A good understanding of business processes and key performance indicators
+ A structured and independent way of working
+ An interest in data, reporting, and digital solutions
+ Good German and English skills
+ Knowledge in the following areas is an advantage:
+ DAX (Data Analysis Expressions)
+ Power Query
+ Microsoft Fabric
+ SQL / SQL Server
+ ERP systems such as SAP, Infor, or Microsoft Dynamics
+ Data modeling and ETL processes
+ Dein Profil 
+ Du absolvierst derzeit ein Studium, beispielsweise in einem der folgenden Bereiche:
+ Wirtschaftsinformatik
+ Data Science
+ Informatik
+ Wirtschaftsingenieurwesen
+ Betriebswirtschaftslehre mit Schwerpunkt Controlling / Analytics
+ oder einem vergleichbaren Studiengang
+ Darüber hinaus bringst du idealerweise Folgendes mit:
+ Erste Erfahrungen mit Microsoft Power BI
+ Gute Kenntnisse in Excel und in der Datenanalyse
+ Grundkenntnisse in SQL von Vorteil
+ Gutes Verständnis für betriebswirtschaftliche Zusammenhänge und Kennzahlen
+ Eine strukturierte und eigenständige Arbeitsweise
+ Interesse an Daten, Reporting und digitalen Lösungen
+ Gute Deutsch- und Englischkenntnisse
+ Kenntnisse in folgenden Bereichen sind von Vorteil:
+ DAX (Data Analysis Expressions)
+ Power Query
+ Microsoft Fabric
+ SQL / SQL Server
+ ERP-Systeme wie SAP, Infor oder Microsoft Dynamics
+ Datenmodellierung und ETL-Prozesse
+ Wir bieten
+ Location:
+ Bonndorf/Schwarzwald, BW, DE, D-79848
+ Business Unit: Dunkermotoren Posting Date: Nov 9, 2026
+ What We Offer 
+ Direct collaboration with theBusiness Unit Management
+ An exciting and practical project with high visibility within the company
+ Independent work with plenty of room to contribute your own ideas
+ Insights into different business areas and processes
+ Flexible working hours that can be easily combined with your studies
+ Hybrid working options
+ Practical experience in building and further developing a modern Business Intelligence and reporting landscape
+ Das bieten wir 
+ Direkte Zusammenarbeit mit dem Business Unit Management
+ Ein spannendes und praxisnahes Projekt mit hoher Sichtbarkeit im Unternehmen
+ Eigenverantwortliches Arbeiten mit viel Gestaltungsspielraum
+ Einblicke in verschiedene Unternehmensbereiche und Geschäftsprozesse
+ Flexible Arbeitszeiten, die sich gut mit deinem Studium vereinbaren lassen
+ Hybride Arbeitsmöglichkeiten
+ Praktische Erfahrungen beim Aufbau und bei der Weiterentwicklung einer modernen Business-Intelligence- und Reporting-Landschaft
+ Compensation 
+ Currency: EUR Salary Minimum: 15,000 Salary Maximum: 15,000 Incentive: No
+ Disclaimer: Where a specific pay range is noted, it is a good faith estimate at the time of this posting. The actual salary offered will be based on experience, skills, qualifications, market / business considerations, and geographic location.

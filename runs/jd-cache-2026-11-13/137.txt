@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4488678968
+TITLE: Working Student (f/m/d) AI Solutions & Copilot Development
+COMPANY: Siemens Energy
+LOC: Erlangen, Bavaria, Germany
+POSTED: 2026-11-11
+title: Working Student (f/m/d) AI Solutions & Copilot Development
+company: Siemens Energy
+posted: 1 day ago
+applicants: 161 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-f-m-d-ai-solutions-copilot-development-at-siemens-energy-4488678968&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Location: ERL S SP 11
+ Mode of Employment: Part-time / Fixed Term
+ A Snapshot of Your Day 
+ Independent development of practical AI and Copilot solutions for an engineering department, from initial use-case clarification to prototype, user testing, documentation, and handover. Close collaboration with engineers, combined with autonomous research and solution design.
+ How You’ll Make An Impact
+ Identification and structuring of suitable AI and automation use cases in engineering workflows
+ Translation of user needs into solution concepts, prototypes, and clear implementation steps
+ Configuration and development of solutions with Microsoft 365 Copilot, Copilot Studio, Power Automate, Power Apps, and SharePoint
+ Creation of AI-supported agents and workflows for information access, document processing, and recurring activities
+ Testing, user-feedback collection, quality improvement, and transparent documentation of results and limitations
+ Independent assessment of technical options and recommendation of pragmatic, reusable approaches
+ What You Bring
+ Current studies in computer science, artificial intelligence, data science, business informatics, engineering, or a comparable field
+ Practical interest in generative AI, digitalization, and AI-supported engineering workflows
+ Initial experience with Microsoft 365 Copilot, Copilot Studio, Power Platform, Azure AI, or comparable platforms
+ Basic understanding of large language models, prompt engineering, retrieval-augmented generation, AI agents, and knowledge sources
+ Independent, structured, reliable, and ownership-oriented working style with limited technical supervision
+ Clear communication with technical and non-technical stakeholders; good English skills, with German as an advantage
+ About The Team
+ Our Grid Technology division enables a reliable, sustainable, and digital grid. The power grid is the backbone of the energy transition. Siemens Energy offers a leading portfolio and solutions in HVDC transmission, grid stabilization and storage, high voltage switchgears and transformers, and digital grid technology.
+ Who is Siemens Energy? 
+ At Siemens Energy, we are more than just an energy technology company. With ~100.000 dedicated employees in more than 90 countries, we develop the energy systems of the future, ensuring that the growing energy demand of the global community is met reliably and sustainably. The technologies created in our research departments and factories drive the energy transition and provide the base for one sixth of the world's electricity generation.
+Our global team is committed to making sustainable, reliable, and affordable energy a reality by pushing the boundaries of what is possible. We uphold a 150-year legacy of innovation that encourages our search for people who will support our focus on decarbonization, new technologies, and energy transformation.
+Find out how you can make a difference at Siemens Energy: https://www.siemens-energy.com/employeevideo
+ Our Commitment to Diversity
+ Lucky for us, we are not all the same. Through diversity we generate power. We run on inclusion and our combined creative energy is fueled by over 130 nationalities. Siemens Energy celebrates character – no matter what ethnic background, gender, age, religion, identity, or disability. We energize society, all of society, and we do not discriminate based on our differences.
+ Rewards/Benefits
+ Exciting insights into an international company 
+ Lay the foundation for your career with us
+ We value equal opportunities and welcome applications from people with disabilities.
+https://jobs.siemens-energy.com/jobs
+#RPO

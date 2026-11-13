@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4490330095
+TITLE: Werkstudent Softwareentwicklung & Datenanalyse - Windenergie d/w/m
+COMPANY: RWE
+LOC: Hamburg, Hamburg, Germany
+POSTED: 2026-11-12
+title: Werkstudent Softwareentwicklung & Datenanalyse - Windenergie d/w/m
+company: RWE
+posted: 18 hours ago
+applicants: 33 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-softwareentwicklung-datenanalyse-windenergie-d-w-m-at-rwe-4490330095&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+RWE Renewables Europe & Australia GmbH
+ Start zum nächstmöglichen Zeitpunkt, Teilzeit (20 Stunden / Woche), befristet
+ Im Team Site Assessment and Modelling sind wir für die technischen Bewertung von Windenergieprojekten in Deutschland mit Blick auf Ertrag, Schall sowie sonstige Verluste und die Lebensdauer zuständig. Dies bildet die Grundlage für die Planung und Entwicklung neuer Windparks. Dafür arbeiten wir eng mit der Projektentwicklung zusammen und benötigen verlässliche und gut aufbereitete Projektdaten.
+Werde Teil des RWE Renewables-Teams und hilf uns, die Zukunft der erneuerbaren Energien zu gestalten.
+ Die Rolle
+ Zur Unterstützung unseres Teams im Bereich Resource Assessment Windenergie suchen wir dich mit guten Programmierkenntnissen und Freude daran, technische Fragestellungen strukturiert zu lösen. Du entwickelst gemeinsam mit uns verlässliche Lösungen für die Analyse technischer Daten und setzt dein Informatikwissen in realen Windenergieprojekten ein. Zu deinen Aufgaben gehören:
+ Entwicklung und Verbesserung von Programmen zur automatisierten Verarbeitung und Auswertung von Daten.
+ Aufbau nachvollziehbarer Abläufe sowie Prüfung der Daten und Ergebnisse auf Vollständigkeit und Plausibilität.
+ Weiterentwicklung interner Datenbestände und Analysewerkzeuge sowie verständliche Dokumentation der Lösungen.
+ Durchführung statistischer Auswertungen und Erstellung von Berichten, Grafiken und Datenvisualisierungen (z. B. PowerBI).
+ Unterstützung bei der Analyse und Aufbereitung von Produktions-, Mess- und Geodatenbestände zur Bewertung von Windstandorten und Anlagenperformance.
+ Dein Profil
+ Laufendes Studium der Informatik, Wirtschaftsinformatik, Software Engineering, Data Science oder eines vergleichbaren Studiengangs mit deutlichem Informatikschwerpunkt.
+ Gute, im Studium oder in eigenen Projekten erworbene Programmiergrundlagen und die Fähigkeit, Aufgaben strukturiert in übersichtlichen Programmen umzusetzen.
+ Praktische Programmiererfahrung, vorzugsweise mit Python, aus Studium, eigenen Projekten oder sonstiger Berufspraxis.
+ Sicherer Umgang mit Microsoft Excel.
+ Sorgfältige, strukturierte und selbstständige Arbeitsweise sowie verhandlungssichere Deutschkenntnisse und gute Englischkenntnisse.
+ Plus kein Muss
+ Idealerweise erste Erfahrungen mit GIS oder windPro.
+ Deine Benefits
+ Wir möchten deine Zeit bei uns so wertvoll wie möglich gestalten, indem wir ein unterstützendes und integratives Umfeld fördern. Neben einer wettbewerbsfähigen Vergütung und Entwicklungsmöglichkeiten liegt uns dein Wohlbefinden sowie die Balance zwischen Arbeit und Privatleben am Herzen. Unsere Vorteile umfassen:
+ Flexibles und hybrides Arbeiten, für eine ausgewogene Mischung aus Remote-Arbeit und Zusammenarbeit im Büro.
+ Zugang zu Fitnessstudios oder vergünstigte Mitgliedschaften, damit du aktiv und energiegeladen bleibst.
+ Employee Assistance Programme mit vertraulicher Beratung und Unterstützung.
+ Arbeitgeberbezuschusste Kantine mit frischen, hochwertigen Mahlzeiten.
+ Möglichkeit, dein akademisches Wissen in realen Projekten anzuwenden.
+ Jetzt mit wenigen Klicks bewerben: Anzeigencode 94021 , Bewerbungsfrist: 26.11.2026 .
+Fragen? Kontakt HR: Simon Quack, simon.quack@rwe.com
+Wir freuen uns darauf, dich kennenzulernen. Natürlich findest du uns auch bei LinkedIn, Instagram, Facebook, YouTube und Xing.
+Wir schätzen Vielfalt und begrüßen daher alle Bewerbungen - unabhängig von Geschlecht, Behinderung, Nationalität, ethnischer und sozialer Herkunft, Religion/Weltanschauung, Alter, sexueller Orientierung und Identität. #inclusionmatters
+RWE Renewables Europe & Australia ist ein führender Akteur im Bereich der erneuerbaren Energien und verfügt über mehr als 30 Jahre Erfahrung. In unseren Kernmärkten Europa und Australien betreiben wir derzeit Onshore-Windparks, Solaranlagen und Batteriespeichersysteme mit einer installierten Kapazität von rund 5 Gigawatt.
+Mit der Unterstützung von rund 2.000 Mitarbeitenden bauen wir unsere Kapazitäten zur Erzeugung erneuerbarer Energien kontinuierlich und wertschöpfend aus. Unsere Kompetenz erstreckt sich über den gesamten Projektlebenszyklus: von der Entwicklung, Planung und Finanzierung über den Bau bis hin zum Betrieb der Anlagen. Unsere Expertise erstreckt sich über den gesamten Projektlebenszyklus: Wir entwickeln, planen, finanzieren, errichten und betreiben unsere Projekte. Mit einer starken Projektpipeline schaffen wir gemeinsam mit den Gemeinden nachhaltigen Mehrwert für alle – heute und für die Zukunft.

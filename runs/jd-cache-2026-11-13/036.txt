@@ -1,0 +1,54 @@
+URL: https://www.linkedin.com/jobs/view/4489944177
+TITLE: Working Student - Automation and AI for Chip-Design Workflows (f/m/div)
+COMPANY: Infineon Technologies
+LOC: Frankfurt, Hesse, Germany
+POSTED: 2026-11-11
+title: Working Student - Automation and AI for Chip-Design Workflows (f/m/div)
+company: Infineon Technologies
+posted: 1 day ago
+applicants: 121 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-automation-and-ai-for-chip-design-workflows-f-m-div-at-infineon-technologies-4489944177&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+#WeAreIn to create tiny chips and big careers.
+The future won’t wait... why should you? Join us and make a difference. Whether you join as a student, intern, or trainee, you'll be part of something real - real projects, real impact, and real opportunities to grow.
+Are you in?
+Your role
+Key responsibilities in your new role
+ Automation: You develop Python-based automation, utilities, and data-processing solutions for chip design and integration workflows 
+ Software Development: You design and enhance scalable software workflows, interfaces, and integrations between engineering tools and IT systems 
+ AI & Innovation: You explore and prototype AI/ML and generative AI use cases, including log analysis, anomaly detection, knowledge retrieval, workflow assistance, and productivity automation 
+ CI/CD: You build reliable CI/CD pipelines, automated testing frameworks, monitoring solutions, and technical documentation for internally developed tools 
+ Data Analysis: You analyze workflow data and performance bottlenecks and translate findings into practical software improvements 
+ Collaboration: You work closely with software, IT, and semiconductor-domain experts in an international engineering environment
+ Your profile
+ Qualifications And Skills To Help You Succeed
+ Academic Background: You are currently studying Computer Science, Informatics, Software Engineering, Data Science, Artificial Intelligence, or a comparable software-focused field 
+ Programming Skills: You demonstrate strong programming fundamentals and practical experience with Python 
+ Software Engineering: You understand core software engineering concepts such as modular design, APIs, testing, debugging, data structures, and algorithms 
+ Operating Systems: You work confidently in Linux/UNIX environments and use Git for collaborative software development 
+ Problem Solving: You enjoy solving unfamiliar technical challenges, learning complex application domains, and translating user needs into maintainable software solutions 
+ AI Interest: You have a strong interest in AI/ML, generative AI, data engineering, or intelligent automation, with hands-on project experience considered an advantage 
+ Tools & Technologies: You bring knowledge of additional programming languages such as Java, C++, JavaScript/TypeScript, or Go and have basic experience with CI/CD tools and technologies such as GitLab CI, Jenkins, GitHub Actions, or Docker 
+ Languages: You communicate fluently in English, German language skills are a plus
+ Please attach the following documents to your application:
+ CV in English
+ Certificate of enrollment at university
+ Latest grades transcript (not older than 6 months)
+ High school report
+ Important information:
+ Working part-time: The focus is on studies. That’s why working as a student employee during lecture period is limited to a maximum of 20 hours per week. 
+ Proper students (according to the German law) are welcome: To work as a student employee with us, you must be enrolled at a university and not have completed all of your exams or modules for your degree programme. You must not be in a semester of leave. We look forward to welcoming you to our team for at least 6 months.
+ You should live close to the site: For good collaboration, it is important to us that you can come to the office regularly to integrate to the team.
+ Further links:
+ Find out what we are looking for in your CV
+ Find out how the student application process works with us
+ Discover our student website
+ #WeAreIn for driving decarbonization and digitalization.
+As a global leader in semiconductor solutions in power systems and IoT, Infineon enables game-changing solutions for green and efficient energy, clean and safe mobility, as well as smart and secure IoT. Together, we drive innovation and customer success, while caring for our people and empowering them to reach ambitious goals. Be a part of making life easier, safer and greener.
+Are you in?
+We are on a journey to create the best Infineon for everyone.
+We strive to create the best Infineon for everyone by embracing diversity and inclusion. We welcome applicants for who they are and offer a workplace built on trust, openness, respect and equal opportunity.
+Our hiring decisions are based on skills and experience. Even if you don’t meet every requirement, we encourage you to apply.
+Please let your recruiter know if you need any accommodations during the interview process.
+Learn more about our various contact channels and about Diversity & Inclusion at Infineon.
+Kerstin Semmler

@@ -1,0 +1,36 @@
+URL: https://www.linkedin.com/jobs/view/4483013152
+TITLE: (Senior) Consultant Data & AI – Data Engineer / Data Scientist (all genders)
+COMPANY: Wavestone
+LOC: Germany
+POSTED: 2026-11-09
+title: (Senior) Consultant Data & AI – Data Engineer / Data Scientist (all genders)
+company: Wavestone
+posted: 3 days ago
+applicants: 100 applicants
+apply_offsite: 
+---
+Let’s power your future together 
+ Vom Business Case zur Verwirklichung Deiner Ideen: Als führendes Beratungsunternehmen für strategische Transformationen sind wir vertrauenswürdiger Partner für unsere Kunden - und für unsere Mitarbeitenden. Verantwortungsvoll, leistungsstark und immer mit dem Menschen im Fokus. #WeAreWavestone
+ Wir unterstützen Dich bei der Realisierung Deiner persönlichen Vision. Denn wir glauben an Mitarbeiter:innen, die etwas erreichen wollen und mit Begeisterung an ihrer persönlichen Weiterentwicklung arbeiten. Als globales Unternehmen bieten wir Dir ein dynamisches, diverses Umfeld mit echtem Interesse an Deinen Zielen und einer Vielzahl an Möglichkeiten.
+ Willst auch Du gemeinsam mit uns wachsen? Dann werde Teil von Wavestone als (Senior) Consultant Data & AI – Data Engineer / Data Scientist (all genders). 
+ Deine Aufgaben 
+ Ob Dein Fokus auf AI Data Engineering oder auf Data Science liegt – wir bieten Dir spannende Projekte von der Konzeption bis zur produktiven Umsetzung. Dabei kannst Du Deinen fachlichen Schwerpunkt gezielt in die eine oder andere Richtung weiterentwickeln oder Dich an der Schnittstelle beider Disziplinen positionieren.
+ Data Engineering: Du konzipierst skalierbare Datenplattformen, Pipelines, Lakehouse-Architekturen und semantische Datenmodelle für Analytics- und AI-Anwendungsfälle.
+ Cloud & Architektur: Du gestaltest End-to-End-Lösungen auf modernen Cloud- und AI-Plattformen wie Microsoft Azure, Fabric, Databricks, Snowflake oder vergleichbaren Technologien.
+ Data & AI Solutions: Du entwickelst und implementierst moderne Data Science-, Machine Learning-, GenAI- und Agentic-AI-Lösungen.
+ AI Engineering: Du entwickelst produktive LLM-, RAG- und Agentic-AI-Lösungen und integrierst diese in bestehende Systeme, Datenplattformen und Geschäftsprozesse.
+ Consulting & Projekte: Du berätst Kunden, steuerst (Teil-)projekte und übersetzt technische Möglichkeiten in nachhaltige Lösungen mit echtem Business Nutzen.
+ Dein Profil 
+ Du hast ein abgeschlossenes Studium im Bereich (Wirtschafts-)Informatik, Data Science oder eine vergleichbare Qualifikation.
+ Du bringst Berufserfahrung in der Beratung der Themenfelder Data Science, Data Engineering, AI Engineering, Cloud Data Platforms oder Data & AI Consulting mit.
+ Du hast Erfahrung mit Python und SQL sowie idealerweise mit modernen Plattformen und Tools wie z. B. Azure, AWS, Google Cloud, Azure AI Foundry, Copilot Studio, Databricks, Snowflake oder vergleichbares.
+ Je nach Fokus hast Du Erfahrung mit Machine Learning, GenAI, LLMs, RAG und Agentic AI sowie Data Pipelines, Lakehouse Architekturen, Datenmodellen und Data Products.
+ Verständnis für das Zusammenspiel von Daten, AI, Cloud Architektur und Geschäftsprozessen sowie eine strukturierte, eigenverantwortliche und kundenorientierte Arbeitsweise zeichnen Dich aus.
+ Du bist verhandlungssicher in Deutsch und Englisch und offen für Reisen zu unseren Kunden.
+ Deine Benefits 
+ Your career, your way: Unser Personal Growth Model und Coaching & Leading-Ansatz bieten Dir eine enge, vollumfängliche Unterstützung sowohl in Deiner langfristigen Entwicklung als auch im Daily Business. In unserer Academy findest Du ein breites Angebot an Weiterbildungen und Zertifizierungskursen, mit umfassendem AI Upskilling durch DataCamp und interne Initiativen, sowie individuellem Coaching. Und durch unser flexibles Karrieremodell sowie unseren Fluid Company Ansatz entscheidest Du selbst, wo und wie schnell es für Dich weiter geht.
+ Karriere & Privatleben: Dank Mobile Work Policy arbeitest Du bequem von zuhause oder in einem unserer Büros in Deutschland. Mit „Mobile Work Abroad“ kannst Du bis zu 50 Tage im Jahr aus dem EU-Ausland (sowie UK, NOR, ISL, LIE, CHE) arbeiten. Des Weiteren gibt es 30 Tage Jahresurlaub, zusätzliche Urlaubstage bei besonderen familiären Umständen sowie verschiedene Sabbatical-Optionen.
+ Mobilität nach Maß: Dank eines festen monatlichen Mobilitätsbudgets bist Du bei uns flexibel und umweltbewusst unterwegs: egal, ob privat oder beruflich, und mit einem klaren Fokus auf nachhaltige Verkehrsmittel. Ab der Rolle Manager / Managing Consultant steht Dir alternativ ein Elektrofahrzeug zur Verfügung.
+ Wert-volle Unternehmenskultur: Unsere Werte verantwortungsbewusst, energiegeladen und gemeinsam sind zentrale Bestandteile unseres Alltags. Das spürst Du z. B. bei unseren Powerdays (bei denen Du Dich gemeinnützig engagieren kannst), in unseren Netzwerken (wie dem Women’s Network), durch unsere regelmäßigen Mitarbeiterbefragungen über Great Place To Work, bei unseren Firmenevents, internen Fitnessgruppen, unserem Corporate Benefit Programm und vielem mehr.
+ Faire Vergütung & monetäre Vergünstigungen: Wir bieten faire und attraktive Gehälter, bestehend aus einem fixen und einem leistungsbasierten Anteil. Im Falle von Mutterschutz gewähren wir dabei den vollen, leistungsbasierten Anteil. Zudem gleichen wir unsere Gehälter regelmäßig über externe Benchmark Studien mit dem Markt ab – immer auch mit Blick auf Gender Equal Pay. Darüber hinaus erhältst Du monetäre Vergünstigungen im Rahmen des EGYM Wellpass, exklusiver Corporate Shopping-Rabatte sowie unseres Employee Stock Ownership Plans (ESOP), in welchem Du Wavestone-Aktionär:in werden kannst.
+ Microsoft Azure | AI Data Engineering | Data Warehouse | Machine Learning | Data Science | Agentic AI | GenAI

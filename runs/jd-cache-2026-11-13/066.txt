@@ -1,0 +1,48 @@
+URL: https://www.linkedin.com/jobs/view/4489920918
+TITLE: BI-utvecklare till Teracom
+COMPANY: Teracom Samhällsnät
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-11
+title: BI-utvecklare till Teracom
+company: Teracom Samhällsnät
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fse.linkedin.com%2Fjobs%2Fview%2Fbi-utvecklare-till-teracom-at-teracom-samh%25C3%25A4llsn%25C3%25A4t-4489920918&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Vill du bygga dataflödena som gör Teracom mer datadrivet och vara med när en ny dataplattform i Snowflake tar form? Då kan det vara dig vi söker i rollen som BI-utvecklare.
+ Teracom är statens bolag för säker kommunikation. I våra nät når informationen fram opåverkad. Vår styrka ligger i att alltid vara redo, i hela landet, alla dagar, dygnet runt. Med ständig beredskap ska vår infrastruktur för kommunikation stå emot allt från naturkatastrofer till cyberhot och krig. Vi hjälper våra kunder med säkra och skalbara lösningar, från traditionell radio- och tv-utsändning till framtidens digitala kommunikationsvägar.
+ Om rollen
+ Som BI-utvecklare utvecklar och förvaltar du Teracoms data- och rapportplattform. Du arbetar nära verksamheten genom hela kedjan, från behovsdialog till färdiga lösningar, och ser till att data blir tillgänglig och tillförlitlig för analys och beslut.
+Teracoms BI-miljö bygger i dag på Microsoft SQL Server och driftas lokalt. Nu etablerar Teracom en större och bredare dataplattform i Snowflake, som ska göra verksamhetens data tillgänglig för användning i hela organisationen. Här får du möjlighet att forma rollen och ta ett större ansvar för den tekniska miljön.
+ Du kommer bland annat att:
+ Utveckla och förvalta dataflöden från källsystem till datalager och dataplattform.
+ Bygga datamodeller och omsätta verksamhetens behov till BI-lösningar.
+ Kvalitetssäkra, testa, dokumentera och versionshantera lösningar.
+ Bidra till datakvalitet och gemensamma begreppsdefinitioner.
+ Vara med och bygga upp den nya dataplattformen i Snowflake och hur den ska förvaltas.
+ Stötta användarna mot self-service BI, bland annat med rapporter och dashboards.
+ Du blir en del av enheten Användarstöd inom Nätteknologi och arbetar nära två erfarna BI-kollegor som under många år har byggt upp Teracoms datalager och rapportering. Du arbetar självgående och samarbetar med kollegorna i större initiativ.
+Arbetet sker på plats på kontoret på Lindhagen i Stockholm.
+ Mer om dig
+ Vi tror att du är en prestigelös, serviceinriktad och noggrann person som arbetar strukturerat och pragmatiskt. Du är trygg i dialogen med verksamheten, kan diskutera krav och förklara data på ett enkelt sätt. Du delar gärna med dig av din kunskap, är flexibel när förutsättningarna förändras och ser positivt på att använda AI-verktyg för att utveckla och effektivisera arbetet.
+ Vi tror att du har:
+ Minst 3–4 års aktuell och relevant erfarenhet av att utveckla BI- och datalösningar.
+ Mycket goda kunskaper i SQL och erfarenhet av datalager och datamodellering.
+ Erfarenhet av ETL/ELT-utveckling.
+ Erfarenhet av BI-verktyg, exempelvis Power BI.
+ Relevant högskoleutbildning, eller motsvarande erfarenhet.
+ Mycket goda kunskaper i svenska och goda kunskaper i engelska, i tal och skrift.
+ Det är starkt meriterande om du har arbetat med Snowflake eller andra molnbaserade dataplattformar, gärna i en migrering från on-prem. Även erfarenhet av datamodellering, skriptning och data governance är ett plus.
+ Teracom erbjuder
+ Du får marknadsmässiga villkor och goda möjligheter att utvecklas i din roll. Förmåner inkluderar:
+ Friskvårdsbidrag
+ Rikskort eller subventionerat SL-kort
+ Arbetstidsförkortning
+ 2 friskvårdstimmar/vecka
+ Mer information finns på Teracoms hemsida.
+ Bra att känna till
+ För anställning krävs godkänd drog- och alkoholtest samt att godkänd bakgrundskontroll liksom godkänd säkerhetsprövning med registerkontroll genomförs. Detta eftersom anställningen innefattar säkerhetsklassning. Med anledning av detta krävs svenskt alternativt nordiskt medborgarskap.
+ Ansökan
+ Låter det här som en roll för dig? Då vill vi gärna höra ifrån dig. Vi går igenom ansökningar löpande så tveka inte på att skicka in din ansökan redan idag. För frågor, kontakta Sara Åkerlund, sara.akerlund@ants.se.
+ Om du inte redan känner Teracom
+ Teracom samhällsnät bidrar till ett tryggare samhälle genom att våra tjänster ser till att information och kommunikation kan fungera för de allra viktigaste samhällsfunktionerna även i kris och krig. Våra uppdrag inkluderar utsändningen av public servicekanalerna för radio och tv, kommunikationslösningar och beredskapsuppdraget. Vi utvecklar och levererar också allt fler beredskapstjänster samt olika typer av kommunikationslösningar till totalförsvarsviktiga aktörer. Vi är ett statligt bolag med cirka 500 medarbetare på ett 50-tal orter i Sverige. Vår vision är att, tillsammans med våra uppdragsgivare, göra Sverige tryggare där det behövs, när det behövs.

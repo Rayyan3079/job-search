@@ -1,0 +1,42 @@
+URL: https://www.stepstone.de/stellenangebote--Working-Student-Brainlab-Robotics-Software-Munich-Brainlab--14744877-inline.html
+TITLE: Working Student – Brainlab Robotics (Software)
+COMPANY: Brainlab
+LOC: Munich
+POSTED: stepstone
+title: Working Student – Brainlab Robotics (Software)
+company: Brainlab
+posted: 2026-11-12T08:13:14.117Z
+location: Munich | remote: 
+---
+Introduction
+ At the forefront of health technology for over 35 years, Munich-based Brainlab digitizes medical workflows, from diagnosis to therapy, to offer clinicians and patients better treatment possibilities. Our innovative digital ecosystem forms the basis for modern healthcare technology in 4000 hospitals in 120 countries.
+ Our key to success is our creative, talented and hard-working team, which consists of around 2000 dedicated and inspiring individuals in 25 locations worldwide. To succeed in reaching our targets, we are seeking committed colleagues who can stand behind our core values curious, authentic and useful.
+ Stellenbeschreibung 
+ Would you like to gain practical work experience in an innovative environment? Then we look forward to receiving your online application for a student position!
+ Alongside smaller day-to-day tasks, your main responsibilities may include:
+ As part of our (embedded) software team in Munich, you will support the development of software for medical technology products.
+ Developing and maintaining tools for software development and testing (e.g. in Rust, Python or C/C++)
+ Building and extending simulations to support software development and verification
+ Developing and automating software tests, including Hardware-in-the-Loop tests
+ Supporting integration, debugging and analysis of embedded software
+ Documenting tools, tests and results
+ Qualifikationen
+ Study of computer science, software engineering, electrical engineering, robotics or a related technical subject, ideally beginning your master studies
+ Programming experience, ideally in at least one of Rust, Python or C/C++
+ Familiarity with Linux, git and related command-line tools is a plus
+ Hands-on mentality
+ Analytical thinking, team and communication skills
+ Conscientious, organized and independent work
+ Good knowledge of English; German is a plus
+ We offer
+ Weitere Informationen 
+ Working environment: A mutually supportive, international team
+ Practical experience: Opportunity to build career experience in an exciting international company with a lasting impact on medical technology based in Munich
+ Working conditions: Flexible working hours
+ Bike storage: Parking garage and safe underground bike storage
+ Food and Snacks: Award-winning subsidized company restaurant and in-house cafes
+ Fitness: Variety-rich fitness program in our ultra-modern 360m2 company gym
+ Socializing: Regular student lunches, after work and company events
+ Ready to apply?
+ We look forward to receiving your online application including your first available start date.
+ Contact person: Sandra Lechner

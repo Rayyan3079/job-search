@@ -1,0 +1,30 @@
+URL: https://www.linkedin.com/jobs/view/4489262884
+TITLE: Werksstudent:in Technik Softwareprogrammierung KI Vision Control
+COMPANY: Eppendorf
+LOC: Oldenburg in Holstein, Schleswig-Holstein, Germany
+POSTED: 2026-11-12
+title: Werksstudent:in Technik Softwareprogrammierung KI Vision Control
+company: Eppendorf
+posted: 12 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerksstudent-in-technik-softwareprogrammierung-ki-vision-control-at-eppendorf-4489262884&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Wie du dich einbringst
+ Du passt moderne Deep-Learning-Modelle an Bilddaten der Eppendorf-Verbrauchsmaterialien an und evaluierst ihre Leistung.
+ Du entwickelst flexible Trainings- und Inferenzpipelines für die visuelle Anomalieerkennung und setzt dafür Verfahren und Architekturen wie PatchCore, Autoencoder, U-Net, Reverse Destillation und RD++ ein.
+ Du entwickelst APIs, um die KI-Modelle produktiv einzusetzen.
+ Du dokumentierst deine Ergebnisse und Anwendungen.
+ Du erstellst Dokumentationen für die Anwendungen.
+ Du führst Schulungen durch.
+ Was dich auszeichnet
+ Du verfügst über ein abgeschlossenes Bachelorstudium im Bereich Maschinenbau oder eine vergleichbare Qualifikation.
+ Du bringst Erfahrung mit Methoden der bildbasierten 
+ Anomalieerkennung mit.
+ Was wir dir bieten
+ Sinn und Wirkung. Du arbeitest an Werkzeugen und Formen, die die Grundlage für hochwertige Produkte in der Life-Science-Branche schaffen und so zur Verbesserung der Lebensbedingungen von Menschen weltweit beitragen.
+ Wir sehen, was du leistest. Ein faires, attraktives Gehalt sowie Urlaubs- und Weihnachtsgeld zeigen dir, dass dein Beitrag im Werkzeugbau geschätzt wird.
+ Echte Balance, die wirklich passt. 30 Urlaubstage und flexible Arbeitszeiten ermöglichen dir, Berufs- und Privatleben in Einklang zu bringen.
+ Ankommen leicht gemacht. Mit Deutschlandticket-Zuschuss, JobRad und Parkplätzen kommst du flexibel und stressfrei durch den Tag.
+ Zukunft, auf die du bauen kannst. Eine arbeitgeberfinanzierte Altersvorsorge und vermögenswirksame Leistungen geben dir Sicherheit – heute und langfristig.
+ Für dich da, wenn’s darauf ankommt. Mit unserem anonymen Beratungsangebot unterstützen wir dich in den Momenten, in denen du Rückhalt brauchst.
+ Lernen, das dich voranbringt. Mit der Eppendorf Academy, digitalen Lernplattformen, Workshops, Community-Formaten und Entwicklungsprogrammen baust du dein Fachwissen im Werkzeugbau kontinuierlich aus und entwickelst dich persönlich weiter.

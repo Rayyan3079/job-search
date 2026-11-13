@@ -1,0 +1,53 @@
+URL: https://www.linkedin.com/jobs/view/4489925939
+TITLE: Werkstudent - Corporate Accounting Data Automation and Business Intelligence (w/m/div)
+COMPANY: Infineon Technologies
+LOC: Regensburg, Bavaria, Germany
+POSTED: 2026-11-11
+title: Werkstudent - Corporate Accounting Data Automation and Business Intelligence (w/m/div)
+company: Infineon Technologies
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-corporate-accounting-data-automation-and-business-intelligence-w-m-div-at-infineon-technologies-4489925939&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+#WeAreIn to create tiny chips and big careers.
+Bereit Deinen nächsten Karriereschritt zu gehen? Werde Teil von etwas Echtem - mit echten Projekten, echtem Impact und echten Chancen, Dich weiterzuentwickeln. Egal ob Praktikum, Werkstudierendentätigkeit oder als Trainee - bei uns bist Du mittendrin statt nur dabei.
+Are you in?
+Deine Rolle
+Haupttätigkeiten in Deiner neuen Rolle:
+ Daten sind alles: Du analysierst bestehende Reporting- und Datenprozesse und identifizierst Automatisierungspotenziale 
+ Gestalte die Zukunft: Du entwickelst und optimierst automatisierte Daten- und ETL-Prozesse mit KNIME und Python 
+ Verantwortung übernehmen: Du verarbeitest, transformierst, validierst und bereitest Daten aus SAP und weiteren Datenquellen auf 
+ Behalte den Überblick: Du stellst die Datenqualität und Konsistenz zwischen Quell- und Zielsystemen sicher 
+ Fokus auf die Zukunft: Du entwickelst und optimierst Tableau-Dashboards sowie automatisierte Reportinglösungen 
+ Gründliche Planung: Du unterstützt bei der Standardisierung von Datenflüssen und Reportingprozessen 
+ Verlässliches Arbeiten: Du überwachst automatisierte Prozesse, analysierst Fehler und dokumentierst Workflows
+ Dein Profil
+Qualifikationen und Fähigkeiten, die dir zum Erfolg verhelfen
+ Studiengang: Du studierst Wirtschaftsinformatik, Wirtschaftswissenschaften oder einen vergleichbaren Studiengang 
+ Interessen: Du begeisterst Dich für Prozessautomatisierung, Datenanalyse und digitale Lösungen im Finance- und Accounting-Umfeld 
+ (Arbeits-)Erfahrung: Du bringst idealerweise erste Kenntnisse in der Arbeit mit Python, KNIME, SQL oder vergleichbaren Tools mit 
+ Arbeitsweise: Du zeichnest Dich durch eine strukturierte, sorgfältige und selbstständige Arbeitsweise aus 
+ Persönlichkeit: Du überzeugst mit Eigeninitiative, Zuverlässigkeit und Interesse an nachhaltigen Automatisierungslösungen 
+ Skills: Du verfügst idealerweise über Kenntnisse in Python, KNIME, SQL sowie vorzugsweise in SAP und Tableau 
+ Sprachkenntnisse: Du verfügst über gute Deutsch- und Englischkenntnisse in Wort und Schrift
+ Bitte liefere uns folgende Unterlagen in Deiner Bewerbung mit:
+ Lebenslauf
+ Immatrikulationsbescheinigung
+ Aktuelle Notenübersicht (nicht älter als 6 Monate)
+ Schulabschlusszeugnis
+ Wichtige Informationen:
+ Arbeiten in Teilzeit: Der Schwerpunkt liegt auf dem Studium. Deshalb ist die Werkstudierendentätigkeit während der Vorlesungszeit maximal mit 20 Stunden pro Woche möglich.
+ Ordentlich immatrikulierte Studierende sind bei uns herzlich willkommen: Um als Werkstudent*in bei uns zu arbeiten, musst du an einer Hochschule immatrikuliert sein und noch nicht alle Prüfungsleistungen oder Module Deines Studiums abgeschlossen haben. Wir freuen uns darauf, Dich mindestens 6 Monate in unserem Team begrüßen zu können. Bitte beachte, dass Du nicht im Urlaubssemester sein darfst. 
+ Du solltest nahe am Einsatzort wohnen: Für eine gute Zusammenarbeit ist es uns wichtig, dass Du regelmäßig zum Standort kommen kannst, um Dich in das Team zu integrieren.
+ Weiterführende Links:
+ Finde heraus, was uns an Deinem Lebenslauf wichtig ist
+ Finde heraus, wie der studentische Bewerbungsprozess bei uns abläuft
+ Entdecke unsere Studierenden-Webseite
+ #WeAreIn for driving decarbonization and digitalization. Are you in?
+Als ein weltweit führender Anbieter von Halbleiterlösungen für Power-Systeme und IoT ermöglichen wir wegweisende Lösungen für grüne und effiziente Energie, saubere und sichere Mobilität sowie ein intelligentes und sicheres IoT. Gemeinsam treiben wir Innovation und den Erfolg unserer Kund*innen voran. Gleichzeitig kümmern wir uns um unsere Mitarbeitenden und bestärken sie darin, ihre ambitionierten Ziele zu erreichen. Hilf uns, das Leben einfacher, sicherer und nachhaltiger zu machen.
+Unser Ziel ist es, das beste Infineon für alle zu erschaffen.
+Wir möchten durch Vielfalt und Inklusion das beste Infineon für alle erschaffen. Wir schätzen Bewerbende so, wie sie sind, und bieten ein Arbeitsumfeld, das auf Vertrauen, Offenheit, Respekt und Chancengleichheit basiert.
+Unsere Einstellungsentscheidungen basieren auf Fähigkeiten und Erfahrung. Auch wenn Du nicht alle Anforderungen erfüllst, ermutigen wir Dich, dich zu bewerben.
+Bitte teile uns mit, falls Du während des Bewerbungsprozesses besondere Vorkehrungen benötigst.
+Erfahre mehr über unsere verschiedenen Kontaktmöglichkeiten und über Diversity & Inclusion bei Infineon.
+Kerstin Semmler

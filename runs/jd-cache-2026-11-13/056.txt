@@ -1,0 +1,89 @@
+URL: https://www.linkedin.com/jobs/view/4489295999
+TITLE: Business Intelligence Analyst
+COMPANY: Goodwill Central Texas
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-12
+title: Business Intelligence Analyst
+company: Goodwill Central Texas
+posted: 6 hours ago
+applicants: 70 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fbusiness-intelligence-analyst-at-goodwill-central-texas-4489295999&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Goodwill Central Texas is seeking a Business Intelligence Analyst to turn trusted data into clear, useful insights for leaders and teams across the organization. This role will develop Power BI reports and dashboards, create reusable semantic models, and define consistent measures that help people understand performance and make informed decisions.
+The Analyst will work closely with business stakeholders and the Data Engineering team as Goodwill's Microsoft Fabric environment evolves. Success requires strong data visualization and analytical skills, sound judgment about data quality and context, and the ability to explain findings to technical and nontechnical audiences.
+This position is open to direct applicants only. Third-party recruiters, agencies, and staffing firms will not be considered. Visa sponsorship is not available for this role.
+ Power BI Reporting and Data Visualization 
+ Design, build, test, and maintain Power BI reports and dashboards that answer defined business questions and support operational and strategic decisions. 
+ Select appropriate charts, tables, filters, and interactions so users can see trends, comparisons, exceptions, and meaningful detail. 
+ Apply data visualization, accessibility, and usability practices that make reports clear, consistent, and practical for their intended audience. 
+ Validate report results with business partners, refine designs from user feedback, and document definitions and intended use. 
+ Monitor adoption, performance, and recurring questions to improve existing reports and retire duplicative or low-value content. 
+ Semantic Modeling and Measures 
+ Build and maintain governed Power BI semantic models that provide reusable dimensions, relationships, measures, and business definitions. 
+ Develop and validate DAX measures, calculations, and time-based analysis in collaboration with business subject-matter experts. 
+ Translate reporting requirements into clear metric definitions, grain, filters, and assumptions that can be applied consistently across reports. 
+ Optimize model structure and report performance while balancing usability, maintainability, and refresh requirements. 
+ Document model logic, measure definitions, lineage, ownership, and known limitations so others can use the data responsibly. 
+ Microsoft Fabric and Data Collaboration 
+ Use Microsoft Fabric and related Power BI capabilities to develop, publish, and maintain analytics content within Goodwill's evolving data environment. 
+ Partner with Data Engineering to define needed datasets, transformations, refresh schedules, and quality checks for reliable reporting. 
+ Work with data from Fabric lakehouses, warehouses, and other approved sources as the platform and business needs evolve. 
+ Identify source-data gaps or inconsistencies, investigate their impact on reporting, and coordinate resolution with data owners and engineers. 
+ Support sound workspace, deployment, and content-management practices across development, testing, and production. 
+ Data Quality, Governance, and Trust 
+ Reconcile reported metrics to approved sources and investigate unexpected changes, discrepancies, or incomplete data. 
+ Apply access controls, row-level security, privacy requirements, and approved governance practices to reports and semantic models. 
+ Distinguish verified facts from estimates or incomplete data and communicate limitations that affect interpretation. 
+ Maintain consistent naming, definitions, documentation, and ownership for shared analytics assets. 
+ Help establish practical review and publishing standards that strengthen trust in self-service analytics. 
+ Business Partnership and Enablement 
+ Meet with stakeholders to understand business processes, decisions, reporting needs, and measures of success. 
+ Turn requests into prioritized analytical questions, prototypes, and deliverables with clear acceptance criteria. 
+ Explain findings, patterns, and tradeoffs in plain language and recommend appropriate follow-up analysis. 
+ Train and support report users so they can interpret dashboards, navigate semantic models, and use self-service features effectively. 
+ Collaborate with Data Engineering, application teams, and business owners to align reporting with source-system changes and organizational priorities. 
+ Continuous Improvement and Support 
+ Troubleshoot report, model, refresh, and access issues; identify root causes and implement durable fixes. 
+ Review performance, usage, and user feedback to improve the reliability and value of analytics products. 
+ Stay current with Power BI, Microsoft Fabric, semantic modeling, and data visualization capabilities and recommend practical improvements. 
+ Participate in release planning, testing, production support, and post-launch reviews for analytics solutions. 
+ Supervisory Responsibility
+ This position supervises the Admission Representative role.
+ Required Skills & Qualifications
+ Bachelor's degree in Business Analytics, Information Systems, Data Analytics, Computer Science, or a related field, or an equivalent combination of education and relevant experience. 
+ Three or more years of experience in business intelligence, reporting, data analysis, or a related field. 
+ Hands-on experience developing Power BI reports, dashboards, and semantic models for business users. 
+ Ability to write and validate DAX measures and use Power Query or comparable data preparation tools. 
+ Strong SQL skills and experience querying relational data to investigate and validate reporting results. 
+ Understanding of dimensional modeling, data relationships, metric definitions, and data quality principles. 
+ Ability to choose effective visualizations and communicate analytical findings clearly to technical and nontechnical audiences. 
+ Experience gathering requirements, testing solutions with stakeholders, and documenting business logic and report usage. 
+ Ability to work with data engineers and business partners to resolve source-data issues and develop trusted analytics products. 
+ Preferred Qualifications
+ Experience with Microsoft Fabric, including Power BI workspaces and data from OneLake, Lakehouse, or Warehouse. 
+ Experience designing shared semantic models and governed self-service analytics in Power BI. 
+ Experience with advanced DAX, performance tuning, incremental refresh, and deployment practices. 
+ Experience applying row-level security, sensitivity labels, and access governance to analytics content. 
+ Experience with data visualization or accessibility standards for dashboards used by varied audiences. 
+ Experience with Azure data services or comparable cloud data platforms. 
+ Experience reporting on enterprise platforms such as Microsoft Dynamics 365, HubSpot, ADP, SharePoint, or comparable systems. 
+ A relevant Microsoft Power BI or Fabric certification, such as PL-300, or a comparable analytics credential. 
+ Experience in retail, workforce services, distributed operations, or nonprofit environments. 
+ Key Attributes
+ Curious and practical analytical thinker
+ Clear communicator who explains data in business terms
+ Attentive to accuracy, context, and visual clarity
+ Collaborative partner to business and technical teams
+ Comfortable asking questions and challenging ambiguous metrics
+ Committed to accessible, useful, and maintainable reporting
+ Able to balance timely delivery with trustworthy results
+ Physical Requirements
+ Prolonged periods of sitting at a desk and working on a computer.
+ Must be able to lift up to 15 pounds at times.
+ While performing the duties of this position, the employee may frequently be required to walk, balance, stoop, kneel, crouch, talk, or hear.
+ The position requires the ability to manage moderate levels of workplace stress.
+ Specific vision abilities required include close vision, distance vision, depth perception, and the ability to adjust focus.
+ Equal Employment Opportunity Statement
+ Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+ Background Check Requirement
+ Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.

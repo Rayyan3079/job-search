@@ -1,0 +1,66 @@
+URL: https://www.linkedin.com/jobs/view/4482091106
+TITLE: Werkstudent*in Technical Customer Success - AI Products (m/w/d/x)
+COMPANY: T-Systems International
+LOC: Düsseldorf, North Rhine-Westphalia, Germany
+POSTED: 2026-11-12
+title: Werkstudent*in Technical Customer Success - AI Products (m/w/d/x)
+company: T-Systems International
+posted: 16 hours ago
+applicants: 38 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-in-technical-customer-success-ai-products-m-w-d-x-at-t-systems-international-4482091106&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Werkstudent*in bei der Telekom
+ Du willst die gelernte Theorie in die Praxis umsetzen und die digitale Welt von morgen schon heute erleben und mitgestalten? Dann bist du bei uns richtig! Kaffee kochen und kopieren können wir selbst. Wir suchen Werkstudent*innen wie dich, die täglich mit Teamgeist sowie Innovations- und Leistungsbereitschaft den Ausbau der vernetzten Welt voranbringen wollen!
+ T-Systems International GmbH
+ Bei T-Systems bieten wir unseren Geschäftskunden die richtigen Systemlösungen für ihr digitales Business. Mit unserem Portfolio stellen wir sicher, dass digitale Transformation Komplexität reduziert, Kosten einspart und die alltägliche Arbeit erleichtert. Unsere Schwerpunkte sind Konnektivität, Digital, Cloud & Infrastruktur sowie Sicherheit - Let's power higher performance!
+ Über die Position
+ T-Systems baut mit der Industrial AI Cloud Europas KI-Infrastruktur der nächsten Generation auf, betrieben mit tausenden NVIDIA-GPUs, darunter NVIDIA DGX B200 und B300. Auf dieser Plattform ermöglichen unsere AI Foundation Services wie LLM Hub und SmartChat Unternehmen und öffentlichen Auftraggebern, moderne Large Language Models und Generative-AI-Anwendungen auf souveräner, sicherer Infrastruktur zu nutzen.
+Wir suchen eine/n motivierte/n Werkstudent Technical Customer Success - AI Products (m/w/d/x) im Bereich Technical Customer Success für unser Customer-Success-Team.
+Du begleitest unsere Kunden vom ersten Zugang bis zur produktiven Nutzung unserer KI-Produkte. Gemeinsam mit erfahrenen Customer Success Managern und Solution Architects unterstützt du das technische Onboarding, analysierst, wie Kunden die Plattform nutzen, und baust die Tools und Dashboards, mit denen unser Team skaliert.
+Die Stelle passt zu dir, wenn du Informatik oder ein verwandtes Fach studierst, sicher in Python programmierst, dich stark für LLMs interessierst und gern an der Schnittstelle zwischen Technik und Kunden arbeitest.
+ Deine Aufgaben:
+ Wir suchen immatrikulierte Studierende, die unser Team in Darmstadt, Berlin, Bonn, Muenchen, Frankfurt, Hamburg oder Duesseldorf ab dem 01.01.2027 für mindestens 6 und maximal 24 Monate mit bis zu 20 Stunden pro Woche bei folgenden Aufgaben unterstützen:
+ Du unterstützt das technische Onboarding unserer Kunden auf LLM Hub und SmartChat, inklusive API-Zugang, Authentifizierung, Modellauswahl und erster Integrationen
+ Du erstellst Beispielcode, Notebooks und Integrationsbeispiele (z. B. OpenAI-kompatible APIs, RAG-Pipelines, Agenten-Frameworks), mit denen Kunden schneller produktiv werden
+ Du analysierst technische Fragen und Probleme von Kunden, reproduzierst Fehler und bereitest strukturierten Input für Engineering und Produkt auf.
+ Du entwickelst Python-basierte Datenpipelines, die Nutzungs-, Verbrauchs- und CRM-Daten zusammenführen
+ Du arbeitest an Kunden- und Nutzungsanalysen mit, inklusive Dashboards und KPIs zu Adoption, Verbrauch und Planauslastung
+ Du automatisierst wiederkehrende Customer-Success-Abläufe wie Nutzungsreports, Warnhinweise und Onboarding-Kommunikation
+ Du unterstützt Kundenworkshops, Enablement-Sessions und Schulungen mit Demos und technischem Material
+ Du erstellst und pflegst technische Dokumentation, FAQs und Self-Service-Inhalte für Kunden
+ Du führst Benchmarks für Kunden-Use-Cases durch (Latenz, Durchsatz, Token-Verbrauch) und bereitest die Ergebnisse so auf, dass Kunden damit arbeiten können
+ Du sammelst Kundenfeedback und Feature Requests und überführst sie in strukturierten Input für das Produktteam
+ Das bringst Du mit
+ Du bist in einem Bachelor- oder Masterstudium in Informatik, Künstlicher Intelligenz, Wirtschaftsinformatik, Data Science, Mathematik oder einem verwandten Fach eingeschrieben.
+Zudem verfügst du über folgende Kenntnisse und Fähigkeiten:
+ Du programmierst sicher in Python, z. B. für Datenverarbeitung, APIs oder Automatisierungsskripte
+ Du verstehst die Grundlagen von LLMs und Generative AI, etwa Prompting, RAG, Tokens und Kontextfenster
+ Du hast Erfahrung mit REST-APIs und Tools wie Postman, curl oder Jupyter
+ Du hast Erfahrung mit SQL und Datenanalyse-Bibliotheken wie pandas
+ Du kennst Git und Linux-basierte Umgebungen
+ Du kannst technische Themen verständlich für technische und nicht-technische Zielgruppen erklären
+ Du arbeitest strukturiert und selbstständig und interessierst dich für die Probleme unserer Kunden
+ Du sprichst und schreibst fließend Deutsch und gut Englisch
+ Du verfügst über sehr gute Kommunikationsfähigkeiten
+ Du bist bereit, bis zu 50% Deiner Arbeitszeit zu reisen
+ Von Vorteil sind (Nice-to-Have)
+ Erfahrung mit OpenAI-kompatiblen APIs, LangChain, LlamaIndex oder ähnlichen Frameworks
+ Erfahrung mit Dashboarding- oder BI-Tools wie Metabase, Power BI oder vergleichbaren Lösungen
+ Erfahrung mit CRM-Systemen, idealerweise Salesforce
+ Erste Erfahrung in kundennahen Tätigkeiten wie Support, Beratung, Tutorien oder Pre-Sales
+ Grundkenntnisse in Docker und Container-Konzepten
+ Verständnis von LLM-Serving-Konzepten wie Rate Limits, Latenz, Durchsatz und Modell-Hosting
+ Interesse an souveräner KI, Datenschutz und regulierten Branchen wie öffentlichem Sektor oder Gesundheitswesen
+ Was wir bieten
+ Direkter Kontakt zu Unternehmen und öffentlichen Auftraggebern, die eine der größten Enterprise-KI-Plattformen Europas nutzen
+ Praxis mit aktuellen LLMs und KI-Produkten
+ Einblick, wie KI-Produkte in großen Organisationen eingeführt, genutzt und skaliert werden
+ Weiterentwicklung an der Schnittstelle von AI Engineering, Datenanalyse und Kundenmanagement
+ Zusammenarbeit mit erfahrenen CSMs, Solution Architects, Engineers und Produktmanagern
+ Flexible Arbeitszeiten, die zu deinem Studium passen
+ Ein kollegiales Umfeld, in dem du früh echte Verantwortung übernimmst
+ Diese Stelle ist auch in Teilzeit möglich.
+Schwerbehinderte Menschen werden bei gleicher Eignung vorrangig berücksichtigt.
+https://www.xing.com/companies/deutschetelekomag
+https://www.linkedin.com/company/telekom
+None None

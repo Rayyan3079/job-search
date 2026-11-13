@@ -1,0 +1,37 @@
+URL: https://www.linkedin.com/jobs/view/4489262386
+TITLE: STUDENTISCHE HILFSKRAFT - Java-Softwareentwicklung zur Evaluation sicherheitskritischer Systeme
+COMPANY: Fraunhofer FKIE
+LOC: Wachtberg, North Rhine-Westphalia, Germany
+POSTED: 2026-11-12
+title: STUDENTISCHE HILFSKRAFT - Java-Softwareentwicklung zur Evaluation sicherheitskritischer Systeme
+company: Fraunhofer FKIE
+posted: 13 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fstudentische-hilfskraft-java-softwareentwicklung-zur-evaluation-sicherheitskritischer-systeme-at-fraunhofer-fkie-4489262386&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+WIR , DAS FRAUNHOFER-INSTITUT FÜR KOMMUNIKATION, INFORMATIONSVERARBEITUNG UND ERGONOMIE FKIE , BIETEN DIR AB SOFORT IN WACHTBERG EINE SPANNENDE TÄTIGKEIT ALS STUDENTISCHE HILFTKRAFT - Java-Softwareentwicklung zur Evaluation sicherheitskritischer Systeme
+ Das Fraunhofer-Institut für Kommunikation, Informationsverarbeitung und Ergonomie FKIE erforscht neue, innovative und intelligente Führungs- und Informationssysteme. Hierbei bieten wir unseren rund 630 Mitarbeitenden anspruchsvolle und abwechslungsreiche Aufgaben mit Verantwortung und Gestaltungsspielraum.
+Die Abteilung »Mensch-Maschine-Systeme« (MMS) erforscht und entwickelt in interdisziplinären Teams Konzepte, Methoden und Werkzeuge zur menschzentrierten Gestaltung sicherheitskritischer Systeme. Wir setzen Ideen anwendungsorientiert in Soft- und Hardware um und erproben diese praxisnah.
+Du bist auch davon überzeugt, dass innovative Technik und die Digitalisierung nur dann gelingen können, wenn man den Faktor Mensch berücksichtigt und Human-Machine-Interfaces ergonomisch gestaltet? Dann bist Du bei uns richtig!
+ Hier sorgst Du für Veränderung
+ Du unterstützt uns bei der Konzeption und Umsetzung von Experimentalumgebungen und Demonstratoren.
+ Als Teil unseres Teams unterstützt Du die Entwicklung und Evaluation psychophysiologischer Messmethoden.
+ Deine technischen Fähigkeiten bringst Du bei der Entwicklung der anwendungsorientierten Analyseplattform AMbER ein.
+ Du unterstützt Nutzerstudien zur Bewertung von Konzepten im Bereich sicherheitskritischer Systeme.
+ Hiermit bringst Du Dich ein
+ Studium in Informatik, Medieninformatik, oder einer vergleichbaren Studienrichtung
+ Programmiererfahrung in Java, JavaFX und optional Python
+ Grundkenntnisse in Human-Centered Design
+ Darüber hinaus überzeugst Du durch Eigeninitiative, eine strukturierte Arbeitsweise, Teamfähigkeit und sehr gute Deutschkenntnisse.
+ Was wir für Dich bereithalten
+ Als studentische Hilfskraft bist Du bei uns Teil eines engagierten und kollegialen Teams. Anwendungsnahe Forschungsthemen an der Schnittstelle zwischen Forschung und Industrie bieten Dir den idealen Rahmen für Praxiserfahrungen neben dem Studium. Mobiles Arbeiten ist möglich, jedoch unter Berücksichtigung eines Präsenztages vor Ort. Am Fraunhofer FKIE leben wir eine familienfreundliche und internationale Kultur.
+Wir wertschätzen und fördern die Vielfalt der Kompetenzen unserer Mitarbeitenden und begrüßen daher alle Bewerbungen – unabhängig von Alter, Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion, Weltanschauung, Behinderung sowie sexueller Orientierung und Identität. Schwerbehinderte Menschen werden bei gleicher Eignung bevorzugt eingestellt. Unsere Aufgaben sind vielfältig und anpassbar – für Bewerber*innen mit Behinderung finden wir gemeinsam Lösungen, die ihre Fähigkeiten optimal fördern.
+Die wöchentliche Arbeitszeit erfolgt nach Vereinbarung und beträgt maximal 20 Stunden. Die Stelle ist zunächst i. d. R. auf 12 Monate befristet. Die Vergütung richtet sich nach der Gesamtbetriebsvereinbarung zur Beschäftigung studentischer Hilfskräfte.
+Mit ihrer Fokussierung auf zukunftsrelevante Schlüsseltechnologien sowie auf die Verwertung der Ergebnisse in Wirtschaft und Industrie spielt die Fraunhofer-Gesellschaft eine zentrale Rolle im Innovationsprozess. Als Wegweiser und Impulsgeber für innovative Entwicklungen und wissenschaftliche Exzellenz wirkt sie mit an der Gestaltung unserer Gesellschaft und unserer Zukunft.
+ Bereit für Veränderung? Dann bewirb Dich jetzt, und mach einen Unterschied! Nach Eingang Deiner Online-Bewerbung erhältst Du eine automatische Empfangsbestätigung. Dann melden wir uns schnellstmöglich und sagen Dir, wie es weitergeht.
+ Fragen zu dieser Position beantwortet gerne:
+ Fabian Zeuch
+Tel.: +49 (0) 228 9435-420
+Fraunhofer-Institut für Kommunikation, Informationsverarbeitung und Ergonomie FKIE
+www.fkie.fraunhofer.de
+Kennziffer: 86179 Bewerbungsfrist:

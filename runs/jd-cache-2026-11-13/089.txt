@@ -1,0 +1,41 @@
+URL: https://www.linkedin.com/jobs/view/4488520740
+TITLE: Cloud & Software Engineering Working Student (m/w/d)
+COMPANY: TRUSTEQ GmbH
+LOC: Cologne, North Rhine-Westphalia, Germany
+POSTED: 2026-11-12
+title: Cloud & Software Engineering Working Student (m/w/d)
+company: TRUSTEQ GmbH
+posted: 15 hours ago
+applicants: 30 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fcloud-software-engineering-working-student-m-w-d-at-trusteq-gmbh-4488520740&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+DEINE AUFGABEN
+ Du wirkst bei der Entwicklung, Implementierung und dem Betrieb moderner Cloud-Architekturen (z. B. AWS, Azure) in echten Kundenprojekten mit
+ Du arbeitest aktiv an der Entwicklung und Optimierung von Software-Komponenten, Microservices und Schnittstellen
+ Du wirkst mit bei der Automatisierung von Deployments und Infrastruktur (z. B. CI/CD, Infrastructure Code)
+ Du unterstützt bei der Analyse fachlicher Anforderungen und deren technischer Umsetzung
+ Du unterstützt bei technischen Konzepten und Architekturen und dokumentierst, bewertest und präsentierst die Ergebnisse
+ Du arbeitest eng mit unseren Teams zusammen und bist in direktem Austausch mit unseren Kund:innen
+ Du arbeitest an internen Entwicklungs- und Innovationsprojekten im Bereich Cloud Engineering und Softwareentwicklung mit
+ Du führst Research-Aufgaben zu neuen Technologien, Automatisierungen, Frameworks und Best Practices durch und unterstützt bei der Vorbereitung von Präsentationen und Angeboten
+ DEIN PROFIL
+ Du bist in einem Studiengang mit IT-Schwerpunkten, wie z.B. (Wirtschafts-)Informatik, Software Engineering, Data Engineering oder eines vergleichbaren Studiengangs immatrikuliert
+ Idealerweise bist du Masterstudent:in oder fortgeschritten im Bachelor Studium
+ Du hast vorzugsweise erste Erfahrungen mit gängigen Programmiersprachen (z. B. Java, Kotlin, Python, Typescripto. Ä.) oder bestenfalls auch Cloud Providern (z.B. AWS, Azure, GCP) gesammelt
+ Du verfügst über eine ausgeprägte Motivation, dich schnell in neue Themen einzuarbeiten und Verantwortung zu übernehmen
+ Du hast großes Interesse daran, technische Fragestellungen im Kontext konkreter Kundenanforderungen zu lösen
+ Du besitzt die Fähigkeit, technische Sachverhalte strukturiert aufzubereiten und adressatengerecht zu kommunizieren
+ Du verfügst über analytisches Denkvermögen und Problemlösungsfähigkeiten
+ Du arbeitest eigenständig und strukturiert
+ Du bist teamfähig, motiviert, leistungsbereit, flexibel, kommunikativ und eigeninitiativ
+ Du hast Freude an der interdisziplinären Zusammenarbeit und Verantwortung
+ Du verfügst über sehr gute Deutschkenntnisse (C1 Level) und sichere Englischkenntnisse in Wort und Schrift
+ Deine Benefits
+ Unterstützende Teamkultur: Teamzusammenhalt ist uns wichtig - wir unterstützen uns gegenseitig und pflegen eine gesunde Officekultur. Unser Eventteam plant regelmäßige Afterworks und sorgt für einen Austausch außerhalb des Arbeitsplatzes.
+ Schnelle Verantwortungsübernahme: Du übernimmst ab Tag 1 spannende Aufgaben mit eigener Verantwortung - egal ob auf deinem Projekt oder bei der Einbringung in interne Aufgabe - du gestaltest mit!
+ Klare Karrieremöglichkeiten: Bei uns findest du ein Umfeld, das dich fördert, fordert und weiterbringt. Wir haben klar definierte Karrieremöglichkeiten und ein transparentes Anforderungsmanagement and jedes Level.
+ Kreativer Arbeitsplatz: Wir geben dir die Freiheit und Zeit, kreative Lösungen zu entwickeln und bieten dir dafür die beste und modernste Hardware an (Apple oder Windows).
+ Attraktive Urlaubsregelung: Arbeite remote und passe deine Arbeitszeiten flexibel an dein Studium an.
+ Über uns
+ Wir sind eine dynamische und schnellwachsende Unternehmensberatung, die das Beste aus beiden Welten vereint: die Agilität eines Startups kombiniert mit der Expertise und Erfahrung unseres Top-Managements. Wir unterstützen führende Unternehmen in den Bereichen Cybersecurity, Data Analytics, Cloud, AI und Technology Transformation & Data. Bei uns erwarten Dich flache Hierarchien, eine herausragende Teamkultur und Raum für Deine persönliche und berufliche Weiterentwicklung. An unseren Standorten in München, Köln und Zagreb kannst Du gemeinsam mit einem kreativen, interdisziplinären Team innovative Lösungen gestalten und die Zukunft aktiv mitprägen.
+ Bewirb dich jetzt und werde Teil von TRUSTEQ!

@@ -1,0 +1,29 @@
+URL: https://www.linkedin.com/jobs/view/4489977117
+TITLE: Praktikum Data Science & AI
+COMPANY: Lidl in Germany
+LOC: Neckarsulm, Baden-Württemberg, Germany
+POSTED: 2026-11-11
+title: Praktikum Data Science & AI
+company: Lidl in Germany
+posted: 1 day ago
+applicants: 59 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikum-data-science-ai-at-lidl-in-germany-4489977117&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Einleitung
+ Eine gute Idee war der Ursprung, ein erfolgreiches Konzept ist das Ergebnis. Qualität zum guten Preis möglichst vielen Menschen anbieten zu können treibt uns an - mittlerweile weltweit, denn wir sind Lidl. Hier ist das berufliche Zuhause vielfältiger Talente. Ob im Einkauf, in der Logistik, im Warengeschäft oder in der IT; ob als Impulsgeber, Gestalter oder Dienstleister der Länder. Wir suchen Anpacker, Durchstarter, Möglichmacher und bieten spannende Aufgaben und Projekte in einem dynamischen und internationalen Umfeld. Bei Lidl findet jeder seine persönliche Herausforderung. Denn Lidl lohnt sich.
+ Deine Aufgaben
+ Werde Teil unseres Daten & KI Teams, unterstütze beim Prototyping innovativer Use Cases und bei der Entwicklung zukunftsweisender KI-Lösungen für den internationalen Handel. Ab sofort für 4 bis 6 Monate.
+ … Konkret Heißt Das
+ Mitarbeit bei Datenaufbereitung und explorativer Analysen
+ Mitwirkung bei der Entwicklung und Validierung von KI und statistikbasierten Lösungsansätzen für Fachabteilungen
+ Mithilfe bei der Überführung von Pilotprojekten in automatisierte Entscheidungsprozesse
+ Verwendung von Big Data und Machine Learning Technologien
+ Einbringen in die strategische Definition von Daten- & KI-Themen, beispielsweise durch Präsentationserstellung oder Workshop-Teilnahme 
+ Dein Profil
+ Fortgeschrittenes Studium* im Bereich Statistik, Mathematik, Informatik, Physik, Wirtschaftswissenschaften, Psychologie, Sozialwissenschaften oder einem vergleichbaren Studiengang
+ Grundlegende Kenntnisse in Statistik und Machine Learning
+ Programmiererfahrung mit Python oder R
+ Idealerweise erste Erfahrungen mit Databricks, git und SQL
+ Bitte füge deiner Bewerbung deinen aktuellen Notenspiegel hinzu.
+ Wir bieten
+ Lidl legt Wert darauf, dass sich deine Zeit bei uns lohnt! Deshalb kannst du bei uns nicht nur deine Finanzen aufbessern (Pflichtpraktikum: 1.300 € p.M. / freiwilliges Praktikum: Gesetzlicher Mindestlohn): Du gewinnst wertvolle Praxiseinblicke in „deinen“ Fachbereich und lernst die Herausforderungen im Tagesgeschäft kennen. Dabei steht dir nicht nur während der Einarbeitung ein fester Ansprechpartner zur Seite. Du hast zu jeder Zeit Zugriff auf das Expertenwissen deines festen Ansprechpartners und das Know-how deiner hilfsbereiten Kolleginnen und Kollegen. Lerne das kollegiale Umfeld und deine beruflichen Möglichkeiten bei Lidl kennen. Und nutze die Chance, dir ein erstes Karrierenetzwerk aufzubauen.

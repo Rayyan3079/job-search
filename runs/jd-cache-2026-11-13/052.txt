@@ -1,0 +1,40 @@
+URL: https://www.linkedin.com/jobs/view/4488685056
+TITLE: SQL Developer
+COMPANY: Stratacent
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-11
+title: SQL Developer
+company: Stratacent
+posted: 1 day ago
+applicants: Over 200 applicants
+apply_offsite: 
+---
+Job Title: SQL Developer 
+ Location: Viman Nagar, Pune (Hybrid)
+ Shift Time: 12 PM IST-9 PM IST
+ Job Summary:
+ We are looking for a skilled SQL Developer/Engineer to design, develop, and maintain robust SQL databases and queries to support business applications and analytics. You will work closely with data analysts, application developers, and stakeholders to ensure efficient data storage and access.
+ Key Responsibilities: Develop complex SQL queries, stored procedures, views, and functions. 
+ Optimize and tune SQL queries for performance. 
+ Design and maintain relational databases and data models. 
+ Perform data extraction, transformation, and loading (ETL). 
+ Ensure data integrity, accuracy, and security. 
+ Troubleshoot database-related issues and implement solutions. 
+ Required Skills: Strong proficiency in SQL (T-SQL/PL-SQL). 
+ Experience with RDBMS like Microsoft SQL Server, Oracle, MySQL, PostgreSQL. 
+ Knowledge of ETL tools and processes. 
+ Familiarity with data warehousing concepts. 
+ Understanding of indexes, joins, normalization, and performance tuning. 
+ Basic knowledge of Python/Shell scripting (optional but a plus). 
+ Good communication and analytical skills. 
+ Employee Benefits: Group Medical Insurance 
+ Cab facility 
+ Meals/snacks 
+ Continuous Learning Program 
+ Creche facility 
+ Company Profile 
+ Stratacent is an IT Consulting and Services firm, headquartered in Jersey City, NJ, with two global delivery centres in New York City area and New Delhi area plus offices in London, Canada and Pune, India.
+We are a leading IT services provider focusing in Financial Services, Insurance, Healthcare and Life Sciences. We help our customers in their digital transformation journey and provides services/ solutions around Cloud Infrastructure, Data and Analytics, Automation, Application Development and ITSM. We have partnerships with SAS, Automation Anywhere, Snowflake, Azure, AWS and GCP.
+ URL - http://stratacent.com 
+ Disclaimer
+ Stratacent India Private Limited is an equal opportunity employer and will not discriminate against any employee or applicant for employment on the basis of race, color, creed, religion, age, sex, national origin, ancestry, handicap, or any other factors.

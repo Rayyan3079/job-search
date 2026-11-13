@@ -1,0 +1,68 @@
+URL: https://www.linkedin.com/jobs/view/4482085713
+TITLE: Werkstudent*in AI Inference & Platform Engineering (m/w/d/x)
+COMPANY: T-Systems International
+LOC: Hamburg, Hamburg, Germany
+POSTED: 2026-11-12
+title: Werkstudent*in AI Inference & Platform Engineering (m/w/d/x)
+company: T-Systems International
+posted: 16 hours ago
+applicants: 128 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-in-ai-inference-platform-engineering-m-w-d-x-at-t-systems-international-4482085713&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Werkstudent*in bei der Telekom
+ Du willst die gelernte Theorie in die Praxis umsetzen und die digitale Welt von morgen schon heute erleben und mitgestalten? Dann bist du bei uns richtig! Kaffee kochen und kopieren können wir selbst. Wir suchen Werkstudent*innen wie dich, die täglich mit Teamgeist sowie Innovations- und Leistungsbereitschaft den Ausbau der vernetzten Welt voranbringen wollen!
+ T-Systems International GmbH
+ Bei T-Systems bieten wir unseren Geschäftskunden die richtigen Systemlösungen für ihr digitales Business. Mit unserem Portfolio stellen wir sicher, dass digitale Transformation Komplexität reduziert, Kosten einspart und die alltägliche Arbeit erleichtert. Unsere Schwerpunkte sind Konnektivität, Digital, Cloud & Infrastruktur sowie Sicherheit - Let's power higher performance!
+ Über die Position
+ T-Systems entwickelt mit der Industrial AI Cloud eine der leistungsfähigsten KI-Infrastrukturen Europas. Auf Basis modernster NVIDIA-GPU-Systeme, darunter DGX B200 und B300, ermöglichen wir Unternehmen, Large Language Models (LLMs) und generative KI-Anwendungen sicher, skalierbar und performant zu betreiben.
+Für unser AI Foundation Team suchen wir einen engagierten Werkstudent AI Inference & Platform Engineering (m/w/d/x) .
+Du unterstützt uns bei der Entwicklung, Bereitstellung und Optimierung von LLM-Inferenzdiensten auf unserer Industrial AI Cloud. Gemeinsam mit erfahrenen AI- und Plattform-Ingenieuren arbeitest du an skalierbaren und leistungsfähigen KI-Services für Unternehmenskunden.
+Die Position richtet sich an Studierende der Informatik oder verwandter Fachrichtungen mit guten Python-Kenntnissen, ersten Erfahrungen in Machine Learning oder Backend-Entwicklung und Interesse an moderner KI-Infrastruktur.
+ Deine Hauptaufgaben:
+ Wir suchen immatrikulierte Studierende, die unser Team in Hamburg ab dem 01.01.2027 für mindestens 6 und maximal 24 Monate mit bis zu 20 Stunden pro Woche bei folgenden Aufgaben unterstützen:
+ Unterstützung bei der Entwicklung, Bereitstellung und beim Testen von LLM-Inferenzdiensten auf der T-Systems AI Foundation Plattform
+ Entwicklung Python-basierter Tools, Skripte und APIs zur Automatisierung von Model Deployments und Betriebsprozessen
+ Durchführung von Performance-Benchmarks für LLMs sowie Analyse von Latenz, Durchsatz und Ressourcenauslastung
+ Mitarbeit bei der Integration und Evaluierung moderner LLM-Serving-Frameworks wie vLLM, SGLang und NVIDIA Dynamo
+ Entwicklung und Optimierung von Backend-Services und APIs für KI-Anwendungen
+ Unterstützung bei der Bereitstellung containerisierter Anwendungen mit Docker und Kubernetes
+ Entwicklung von Datenpipelines und Analysen zur Auswertung von Performance- und Betriebsmetriken
+ Untersuchung von Optimierungstechniken wie KV-Caching, Continuous Batching und effizienter GPU-Nutzung
+ Mitarbeit an automatisierten Tests, CI/CD-Pipelines und technischer Dokumentation
+ Zusammenarbeit mit erfahrenen AI Engineers bei der Integration neuer KI-Modelle und Technologien
+ Das bringst du mit
+ Du studierst Bachelor- oder Masterstudium der Informatik, Künstlichen Intelligenz, Softwaretechnik, Mathematik oder einen vergleichbaren Studiengang,
+Zudem verfügst du über folgende Kenntnisse und Fähigkeiten:
+ Gute Programmierkenntnisse in Python und praktische Erfahrung mit Softwareentwicklung, Automatisierung oder Datenverarbeitung
+ Erste praktische Erfahrung in Softwareentwicklung, Machine Learning, Data Engineering oder Backend-Entwicklung durch berufliche Tätigkeiten, Praktika oder eigene Projekte
+ Kenntnisse in Python-Bibliotheken wie NumPy, pandas, scikit-learn oder vergleichbaren Frameworks
+ Grundkenntnisse in der Backend-Entwicklung, REST APIs und modernen Softwareentwicklungspraktiken
+ Erfahrung mit Git, Docker und Linux-basierten Entwicklungsumgebungen
+ Grundverständnis von Machine Learning, Modellevaluierung und Performance-Benchmarking
+ Analytisches Denkvermögen, strukturierte Arbeitsweise und Freude an komplexen technischen Herausforderungen
+ Eigeninitiative, Teamfähigkeit und Interesse an der Weiterentwicklung moderner KI-Technologien
+ Gute Englischkenntnisse
+ Von Vorteil (Nice-to-Have)
+ Erfahrung mit Python-Backend-Frameworks wie FastAPI
+ Erste Berührungspunkte mit Large Language Models, generativer KI oder Modellinferenz
+ Grundkenntnisse in LLM-Serving-Frameworks wie vLLM, SGLang oder TensorRT-LLM
+ Kenntnisse in Kubernetes und Container-Orchestrierung
+ Erfahrung mit CI/CD-Tools wie GitHub Actions
+ Kenntnisse in SQL, Datenbanken und Datenpipelines
+ Erfahrung mit asynchroner Python-Programmierung, Caching oder Performance-Optimierung
+ Interesse an NVIDIA-GPU-Technologien, verteilten Systemen und High-Performance Computing
+ Grundkenntnisse in Monitoring und Observability
+ Was wir bieten
+ Mitarbeit an einer der größten KI-Infrastrukturplattformen Europas
+ Einblicke in modernste NVIDIA-GPU-Infrastruktur, einschließlich DGX B200 und B300
+ Praktische Erfahrung mit aktuellen LLM-Inferenztechnologien wie vLLM, SGLang, NVIDIA Dynamo und TensorRT-LLM
+ Möglichkeit, Kenntnisse in KI-Inferenz, GPU-Computing, Kubernetes und produktiven KI-Systemen aufzubauen
+ Enge Zusammenarbeit mit erfahrenen AI Engineers, Softwareentwicklern und Plattform-Spezialisten
+ Mitarbeit an realen KI-Services für Unternehmenskunden
+ Flexible Arbeitszeiten, die sich mit deinem Studium vereinbaren lassen
+ Ein innovatives Arbeitsumfeld mit vielfältigen Lern- und Entwicklungsmöglichkeiten
+ Diese Stelle ist auch in Teilzeit möglich.
+Schwerbehinderte Menschen werden bei gleicher Eignung vorrangig berücksichtigt.
+https://www.xing.com/companies/deutschetelekomag
+https://www.linkedin.com/company/telekom
+None None

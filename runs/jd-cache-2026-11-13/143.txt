@@ -1,0 +1,48 @@
+URL: https://www.linkedin.com/jobs/view/4489976736
+TITLE: Student*in (m/w/d) für ein mehrmonatiges Praxissemester/Pflichtpraktikum im Bereich Chemical Engineering (Data Engineering
+COMPANY: Alcon
+LOC: Großwallstadt, Bavaria, Germany
+POSTED: 2026-11-11
+title: Student*in (m/w/d) für ein mehrmonatiges Praxissemester/Pflichtpraktikum im Bereich Chemical Engineering (Data Engineering
+company: Alcon
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fstudent-in-m-w-d-f%25C3%25BCr-ein-mehrmonatiges-praxissemester-pflichtpraktikum-im-bereich-chemical-engineering-data-engineering-at-alcon-4489976736&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Willkommen bei Alcon in Großwallstadt – einem der weltweit führenden Standorte für Kontaktlinsentechnologie.
+Als Teil der internationalen Alcon-Gruppe verbinden wir technologische Exzellenz mit sozialer Verantwortung und nachhaltigem Wirtschaften. Wir vereinen Forschung, Entwicklung, Produktion, Qualität und Logistik unter einem Dach – und produzieren mit High-Tech-Anlagen über eine Milliarde Kontaktlinsen pro Jahr.
+Was uns besonders macht? Unsere werteorientierte Unternehmenskultur, die Vielfalt im Team und die Leidenschaft für brillantes Sehen. Regelmäßige Spitzenplätze bei den größten Arbeitgeberwettbewerben sprechen für sich. Als eines der größten Unternehmen am bayerischen Untermain bieten wir ausgezeichnete Entwicklungschancen, starke Sozialleistungen und ein hochmodernes Arbeitsumfeld sowie neueste digitale Tools und gezielte Unterstützung bei Gesundheitsthemen.
+Werden Sie Teil unserer Vision – und gestalten Sie mit uns die Zukunft des Sehens.
+ Verstärken Sie unser hochmotiviertes Team ab 01.03.2027 als Student*in (m/w/d) für ein mehrmonatiges Praxissemester/Pflichtpraktikum im Bereich Chemical Engineering (Data Engineering) .
+ Bei diesen Aufgaben haben Sie den Durchblick:
+ Datenpipelines: Sie unterstützen uns dabei, bestehende Datenpipelines weiterzuentwickeln und zu optimieren. Dabei helfen Sie beispielsweise, Informationen aus PDF-Dokumenten in saubere und strukturierte Datensätze zu überführen.
+ Datenmodelle: Sie wirken bei der Weiterentwicklung unserer relationalen Datenmodelle mit und lernen in der Praxis, wie moderne Datenstrukturen, beispielsweise Star-Schemas mit Fakten- und Dimensionstabellen, aufgebaut sind.
+ Dashboards & Datenvisualisierung: Sie erstellen übersichtliche und nutzerfreundliche Dashboards, mit denen Produktions-, Energie- und Ressourcendaten transparent und verständlich dargestellt werden.
+ IoT & Vernetzung: Sie unterstützen bei der Anbindung neuer Messgeräte und Zähler über IoT und MQTT und sorgen gemeinsam mit dem Team dafür, dass die erfassten Daten zuverlässig in unseren Datenbanken und Dashboards zur Verfügung stehen.
+ KI & Copilot: Sie entwickeln mit Microsoft Copilot bzw. Copilot Studio eigene KI-Agenten, die dabei helfen, vorhandenes Prozesswissen einfacher zu finden und im Arbeitsalltag nutzbar zu machen.
+ Das sehen wir gerne:
+ Sie befinden sich in einem Studium mit technischem, naturwissenschaftlichem, IT- oder datenbezogenem Schwerpunkt und studieren bspw. erfolgreich Medical Engineering und Data Science, Informatik, Elektro- und Informationstechnik, Data Analytics, Informatik, Software Design oder verwandte Studiengänge.
+ Sie verfügen über erste Kenntnisse in Python und SQL. Erfahrungen mit Power BI, Power Query, Alteryx oder vergleichbaren Tools sind von Vorteil.
+ Sie haben Freude daran, Daten zu analysieren, Zusammenhänge zu erkennen und Ergebnisse verständlich zu visualisieren.
+ Relationale Datenbanken und grundlegende Data-Warehouse-Konzepte sind Ihnen bereits aus dem Studium oder ersten praktischen Erfahrungen bekannt.
+ Sie arbeiten strukturiert und sorgfältig, setzen Prioritäten und übernehmen Verantwortung für Ihre Aufgaben.
+ Sie sind neugierig, lernen gerne Neues und verfügen über eine schnelle Auffassungsgabe.
+ Erste praktische Erfahrungen, beispielsweise durch Praktika, Werkstudententätigkeiten oder eine Berufsausbildung, sind ein Plus, aber kein Muss.
+ Sie verfügen über sehr gute Deutsch- und Englischkenntnisse und sind sicher im Umgang mit MS Office sowie digitalen Anwendungen.
+ Sie arbeiten gerne im Team, sind offen und kooperativ und bringen Ihre Ideen aktiv ein.
+ Benefits, soweit das Auge reicht:
+ Spannender Arbeitsplatz in einem weltweit tätigen Konzern mit einer wertschätzenden Unternehmenskultur, in der die Anerkennung und das Wir-Gefühl im Vordergrund stehen
+ Spezielle Onboarding-Maßnahmen, die Ihnen den Einstieg erleichtern und Sie schnell Teil unseres Teams werden lassen
+ Selbstverständlich zahlen wir Ihnen eine attraktive monatliche Vergütung und Sie erhalten unsere Benefits wie Essenszuschuss, freie Getränke, etc.
+ Einen guten Job erkennen Sie auf den ersten Blick?
+ Dann nutzen Sie Ihre Chance und bewerben Sie sich mit Ihren aussagefähigen Unterlagen direkt online bei uns. Marco Roth als zuständiger Recruiter freut sich auf Ihre Bewerbung.
+Das Pflichtpraktikum soll idealerweise im März 2027 starten und mindestens 5 Monate dauern.
+Wir als CIBA VISION GmbH setzen uns für Inklusion und Integration ein und fördern auch den Einstieg von Menschen mit Behinderungen.
+Wir freuen uns auf Sie!
+CIBA VISION GmbH
+ Industriering 1
+ 63868 Großwallstadt
+ de.alcon.com
+ ACHTUNG: Wenn Sie derzeit ein aktiver Mitarbeiter (intern oder extern über Zeitarbeit bzw. Dienstleister) bei Alcon sind, klicken Sie bitte auf den entsprechenden Link unten, um sich auf der internen Karriereseite zu bewerben. Vielen Dank.
+Stellen Hub – interne Stellenanzeigen für Mitarbeiter
+Stellen Hub – Stellenanzeigen für Externe, die derzeit im Einsatz bei Alcon sind

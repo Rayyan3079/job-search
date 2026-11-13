@@ -1,0 +1,38 @@
+URL: https://www.linkedin.com/jobs/view/4490363746
+TITLE: Werkstudent GenAI & Agentic AI (m/w/d)
+COMPANY: Sopra Steria
+LOC: Frankfurt, Hesse, Germany
+POSTED: 2026-11-12
+title: Werkstudent GenAI & Agentic AI (m/w/d)
+company: Sopra Steria
+posted: 13 hours ago
+applicants: 31 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-genai-agentic-ai-m-w-d-at-sopra-steria-4490363746&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Unternehmensbeschreibung
+ Wir sind als eine der führenden europäischen Management- und Technologieberatungen ein echter Tech-Player. Wir sehen uns als Vordenker*innen, handeln und denken strategisch, entwickeln mit unseren Kunden maßgeschneiderte Lösungen, sowie präzise Prozesse und implementieren innovative Technologien. Weltweit sind wir über 50.000 tech-affine und kluge Köpfe – gemeinsam gestalten wir die Zukunft unserer Kunden und die der Gesellschaft.
+Bist du bereit, das digitale Europa mitzugestalten?
+ Stellenbeschreibung
+ Du entwickelst innovative GenAI-Anwendungen und intelligente AI Assistants
+ Dabei konzipierst du Agentic-AI- und Multi-Agent-Systeme mit modernen Agent Frameworks
+ Retrieval-Augmented-Generation-Lösungen entwickelst du und bindest unterschiedliche Wissensquellen an
+ Mit Knowledge Graphs, relationalen Datenbanken und Vektorspeichern wie Neo4j, PostgreSQL, pgvector oder vergleichbaren Technologien arbeitest du aktiv
+ Backend-Komponenten implementierst du mit Python und arbeitest mit Cloud- und Container-Technologien
+ Die Evaluation und das Testing von AI-Systemen sowie Prototypen mit Microsoft Copilot Studio gehören ebenfalls zu deinem Aufgabenbereich
+ Qualifikationen
+ Du befindest dich am Ende eines Bachelorstudiums oder im Masterstudium der Informatik, Data Science, Mathematik, Ingenieurwissenschaften oder einer vergleichbaren Fachrichtung
+ Fundierte Programmierkenntnisse in Python sowie erste praktische Erfahrungen in der Softwareentwicklung bringst du mit
+ Idealerweise verfügst du über theoretische Kenntnisse in den Bereichen GenAI, Retrieval-Augmented Generation oder Agentensysteme
+ Erste Erfahrungen mit Graph- und Vektordatenbanken, LangGraph, AutoGen, Cloud-Technologien oder Containern sind von Vorteil
+ Analytisches Denkvermögen, Problemlösungsfähigkeit sowie eine strukturierte und selbstständige Arbeitsweise zeichnen dich aus
+ Du interessierst dich für die Evaluation, Sicherheit und zuverlässige Integration generativer AI-Lösungen
+ Deutschkenntnisse auf C1-Niveau sowie Englischkenntnisse auf mindestens B2-Niveau bringst du mit
+ Zusätzliche Informationen
+ Arbeitsumfeld: spannende Aufgaben in einem dynamischen Markt sowie Wissensaustausch in einem global tätigen Konzern
+ Work-Study-Balance: 10 bis 20 Stunden während des Semesters (erhöhte Arbeitszeit in den Semesterferien möglich), flexible Zeitgestaltung, Firmenfitness und hybrides Arbeiten (Office / Homeoffice) in Abstimmung mit deiner Führungskraft
+ Deine Perspektive: Möglichkeit für Abschlussarbeiten und/oder einen Direkteinstieg nach deinem Studium
+ Feelgood-Atmosphäre: unternehmensweite (Online-)Team-Events, Afterworks und Office-Feiern an unseren Standorten
+ Unser Mindset: Teamspirit, offene Türen, Duzkultur, gelebte Vielfalt
+ Vielfalt ist eine wichtige Grundlage unserer Unternehmenskultur. Wir möchten ein inklusives Umfeld schaffen, das die Diversität all unserer 2.700 Mitarbeitenden in Deutschland und Österreich berücksichtigt und in dem du dich bestmöglich entfalten kannst. Denn wir bei Sopra Steria sind davon überzeugt, dass deine Individualität der Schlüssel zu einem nachhaltigen Unternehmenserfolg ist. 
+Wir setzen uns für eine nachhaltige Zukunft ein: Ob mit konzernweiten Stipendien- und Corporate Volunteering-Programmen oder mit Projekten zur Förderung von Bildung, Chancengleichheit und digitale Inklusion – wir übernehmen Verantwortung für die Gesellschaft. Wir glauben fest daran, dass digitale Innovationen ein Schlüssel zu Gleichberechtigung, Inklusion und Klimaschutz sind.
+Impressum

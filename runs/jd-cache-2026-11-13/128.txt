@@ -1,0 +1,37 @@
+URL: https://www.linkedin.com/jobs/view/4479144472
+TITLE: Praktikum im Bereich Data Analytics für Predictive Maintenance
+COMPANY: Liebherr Aerospace and Transportation
+LOC: Lindenberg im Allgäu, Bavaria, Germany
+POSTED: 2026-11-06
+title: Praktikum im Bereich Data Analytics für Predictive Maintenance
+company: Liebherr Aerospace and Transportation
+posted: 6 days ago
+applicants: 44 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikum-im-bereich-data-analytics-f%25C3%25BCr-predictive-maintenance-at-liebherr-aerospace-and-transportation-4479144472&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Faszinierendes schaffen: Ihre Aufgaben
+ Auswertung von Flugzeug Daten von Airlines z.B. von A220 und A350 mit Fokus auf Liebherr Geräte für Flugzeugfahrwerke und Flugsteuerungskomponenten z.B, TimeSeries Sensor Daten, Removal und Logbook informationen.
+ Suche von Degradations Pattern, Anomalien oder anderen Auffälligkeiten in den Daten
+ Mitarbeit bei der Konzipierung, Design von Monitor Modellen, Alert-Logik, Festlegung von Grenzwerten
+ Validierung von ersten Monitor Konzepten mit Trainingsdaten und Life Daten von Flugzeugen, sowie Validierung mit Informationen aus der Reparatur
+ Stärken einbringen: Ihre Qualifikationen
+ In Frage kommende Studiengänge, spezifische Kenntnisse wie sicherer Umgang mit MS Office, Kenntnisse in MATLAB von Vorteil, etc.
+ Interessant für Studiengänge zu Data Science und Informatik aber auch für Maschinenbau / Luft und Raumfahrt mit Interesse/ Affinität zu Datenanalyse
+ Programmierung in MATLAB und/oder Pyton
+ MS Office Anwendungen
+ Sprachkenntnisse: Deutsch und Englisch
+ Bitte lassen Sie uns mit Ihrer Bewerbung eine gültige Immatrikulationsbescheinigung, einen Nachweis Ihrer aktuellen Studienleistungen sowie die aktuelle Studien- und Prüfungsordnung zukommen, in der die Praktikumsdauer (Präsenztage) geregelt ist
+ Freiraum nutzen: Ihre Vorteile
+ Bereit, etwas zu bewegen? Als innovatives Familienunternehmen wissen wir, dass Ihre Ideen unsere Zukunft sind – darum fördern wir Ihr Talent nachhaltig und übertragen Ihnen früh Verantwortung. Bei Liebherr haben Sie die Möglichkeit, die faszinierende Welt der Technik kennenzulernen und selbst mitzugestalten. Es erwarten Sie spannende Themen, ein gutes Arbeitsklima, in dem Zusammenhalt groß geschrieben wird und mit Liebherr ein zuverlässiger Partner an Ihrer Seite.
+Haben wir Ihr Interesse geweckt? Dann freuen wir uns über Ihre Online-Bewerbung. Bei Fragen kontaktieren Sie bitte Sarah Mayer.
+ One Passion. Many Opportunities.
+ Das Unternehmen
+ Die Liebherr-Aerospace Lindenberg GmbH ist einer der führenden europäischen Hersteller von Flugzeugausrüstungen. Die Produkte sind an Bord vieler Großraumflugzeuge, Business-Jets und Hubschrauber im Einsatz. Das Programm umfasst neben Fahrwerken, Flugsteuerungs- und Betätigungssystemen auch Getriebe.
+ Standort
+ Liebherr-Aerospace Lindenberg GmbH
+Pfänderstraße 50-52
+88161 Lindenberg im Allgäu
+Deutschland (DE)
+ Kontakt
+ Sarah Mayer
+sarah.mayer2@liebherr.com

@@ -1,0 +1,41 @@
+URL: https://www.linkedin.com/jobs/view/4488520601
+TITLE: Data analyst (H/F)
+COMPANY: Viamedis
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-12
+title: Data analyst (H/F)
+company: Viamedis
+posted: 16 hours ago
+applicants: Over 200 applicants
+apply_offsite: 
+---
+L’entreprise 
+ Maillon essentiel du système de santé en France, Viamedis accompagne les organismes complémentaires d'assurance maladie et les professionnels de santé grâce à son expertise du Tiers Payant.
+ Depuis près de 25 ans, Viamedis est attaché aux valeurs de l'Économie Sociale et Solidaire.
+ Aux côtés des organismes complémentaires et des professionnels de santé, nous contribuons à fluidifier et simplifier le système de soins.
+ Descriptif du poste 
+ Travailler chez Viamedis, c’est être contributeur à la réussite d’une société ancrée dans l’économie sociale et solidaire où votre créativité et vos prises d’initiative seront valorisées. 
+ Vous serez associé(e) à un véritable projet d’entreprise dans une société à la stratégie de développement innovante. 
+ Rejoignez-nous ! 
+ Les missions : 
+ Expertise fonctionnelle :
+ Analyser et structurer les données brutes pour formaliser des indicateurs
+ Création des Requêtes d’extraction
+ Contrôler la cohérence : vérification de la qualité de donnée.
+ Structurer un dataset
+ Accompagner un « Métier » dans la rédaction d’une expression de besoin (reporting ou rapports)
+ Rédiger une matrice décrivant les indicateurs et les axes d’analyse requis
+ Maquettage du reporting
+ Accompagnement au changement (Formation, onboarding sur les reportings et indicateurs,…)
+ Profil souhaité 
+ Niveau bac +5 (master) : Master Universitaire (en statistiques, mathématiques, data (analyst / science) gestion, économie, contrôle de gestion, audit des organisations et maitrise des risques)
+ Qualité des livrables (reportings, tableaux de bord, outils de pilotage)
+ Pertinence des analyses
+ Satisfaction des clients internes et externes
+ Support apporté lors du déploiement des reportings et des outils auprès des clients internes ou externes
+ Anticipation des risques et réactivité
+ Outils / Solutions :
+ Expert de Power BI
+ Connaissance de Microsoft Fabric
+ Compréhension du SQL (écriture SQL en +)
+ Connaissance de CRM Microsoft Dynamics (Dataverse)

@@ -1,0 +1,40 @@
+URL: https://www.linkedin.com/jobs/view/4489999607
+TITLE: Développeur SQL H/F - CDI
+COMPANY: Marsh Agency
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-11
+title: Développeur SQL H/F - CDI
+company: Marsh Agency
+posted: 1 day ago
+applicants: 55 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fjobs%2Fview%2Fd%25C3%25A9veloppeur-sql-h-f-cdi-at-marsh-agency-4489999607&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Nous recherchons un nouveau talent pour rejoindre notre équipe. Ce poste est basé à la Défense. Il s'agit d'un poste hybride avec télétravail.
+ Ce Qui Vous Attend
+ Participer à la réalisation d'applications ambitieuses dans un contexte de données à haute volumétrie.
+ Gérer les maintenances et les incidents des services.
+ Prendre part à la QDD et au MDM.
+ Un environnement international où votre maîtrise de l'anglais ne pourra que se perfectionner
+ Nous Comptons Sur Vous Pour
+ Maitriser vos fondamentaux en étant soucieux des bonnes pratiques, de la sécurité, de l’architecture définie.
+ Garantir la qualité des livrables par des tests rigoureux, détecter rapidement les anomalies et piloter leur résolution avec efficacité.
+ Rédiger une documentation claire et structurée, valorisant les choix techniques pour assurer la pérennité des packages et en faciliter la maintenance
+ Vous maîtrisez SQL Server, SSIS, … et d'autres SGBD et ETL.
+ Vous maîtrisez Git et comprenez l'approche CI/CD,
+ Vous faites preuve de rigueur et d’une grande capacité d’adaptation face aux changements,
+ Vous travaillez de manière autonome tout en étant dynamique, curieux et persévérant dans vos missions,
+ Vous pratiquez la veille technologique et vous vous engagez dans un apprentissage continu pour rester à la pointe.
+ Une connaissance de SAS OA 9.4 et/ou DataBricks est un plus mais moins que votre volonté d'apprendre.
+ Ce Que Vous Allez Aimer
+ Evoluer dans un environnement agile, collaboratif, bienveillant et international
+ Collaborer avec les équipes de la direction IT tant locale qu'à l'internationale, la MOA, l'équipe de Data Science et les différentes directions métiers.
+ Prendre part à un projet organisationnel
+ Utiliser nos IA
+ Rejoindre une équipe dynamique et expérimentée
+ Pourquoi Nous Rejoindre
+ Nous vous aiderons à développer votre potentiel grâce à nos opportunités de développement, un travail à forte valeur ajoutée et un accompagnement managérial. 
+ Nous favorisons une culture dynamique et inclusive où vous travaillerez avec des collègues talentueux/se pour créer de nouvelles solutions et avoir un impact sur vos collègues, vos clients.
+ Notre envergure nous permet de vous proposer un large éventail d'opportunités de carrière, ainsi que des avantages visant à améliorer votre bien-être.
+ Marsh (NYSE: MRSH) is a global leader in risk, reinsurance and capital, people and investments, and management consulting, advising clients in 130 countries. With annual revenue of over $27 billion and more than 95,000 colleagues, Marsh helps build the confidence to thrive through the power of perspective. For more information, visit marsh.com, or follow us on LinkedIn and X.
+Marsh is committed to providing an inclusive work environment. We aim to attract and retain the best, most qualified people and value colleagues of all backgrounds, without regard to age, background, disability, ethnic origin, family duties, gender orientation or expression, marital status, nationality, parental status, personal or social status, political affiliation, race, religion and beliefs, sex/gender, sexual orientation or expression, skin color, or any other characteristic protected by applicable law.
+Marsh is committed to hybrid work, which includes the flexibility of working remotely and the collaboration, connections and professional development benefits of working together in the office. All Marsh colleagues are expected to be in their local office or working onsite with clients at least three days per week. Office-based teams will identify at least one “anchor day” per week on which their full team will be together in person.

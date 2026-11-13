@@ -1,0 +1,35 @@
+URL: https://www.linkedin.com/jobs/view/4488225694
+TITLE: Werkstudent:in für unser IT-Team als Atlassian Consultant
+COMPANY: Marantec Group
+LOC: Germany
+POSTED: 2026-11-10
+title: Werkstudent:in für unser IT-Team als Atlassian Consultant
+company: Marantec Group
+posted: 2 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-in-f%25C3%25BCr-unser-it-team-als-atlassian-consultant-at-marantec-group-4488225694&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Bist du auf der Suche nach einem spannenden Job neben dem Studium? Wenn du Lust auf vielfältige Aufgaben im Bereich IT hast und dich mit der Atlassian Toolchain auskennst oder dich mit unserer Unterstützung einarbeiten möchtest, dann bist du bei uns genau richtig! Wir suchen ab sofort eine:n Werkstudent:in für unser IT-Team als Atlassian Consultant . Vor allem die Atlassian Tools Jira und Confluence werden bei uns intensiv genutzt: Jira ist die Vorgangsverwaltung, mit der wir Aufgaben bearbeiten und Projekte strukturieren , während mit Confluence Wissen im Team erarbeitet, dokumentiert und weitergegeben wird. Weiterhin nutzen wir Confluence bei uns als Intranet mit einem Newssystem und App.
+ Dafür übernimmst du bei uns Verantwortung:
+ Du unterstützt uns im 1st Level Support für die Atlassian Toolchain mit dem Schwerpunkt Jira und Confluence.
+ Dazu gehört:
+ die Pflege der Benutzer:innen und Gruppen in Crowd und Google Workspace 
+ die Bearbeitung von Berechtigungen Confluence und Jira
+ das Setup von Standard-Confluence-Bereichen und Jira-Projekten.
+ Du passt mit unseren internen „Kund:innen” die JSM Request Types nach deren Wünschen an.
+ Außerdem entwickelst du unsere Atlassian Toolchain gemeinsam mit uns weiter.
+ Das bringst du mit:
+ Ein IT-Studium ist kein Muss! Wichtig ist, dass du Lust hast, mit der Atlassian Toolchain zu arbeiten und Neues zu lernen.
+ Du arbeitest strukturiert und eigenverantwortlich.
+ Du bist ein:e Teamplayer:in und tauscht dich gerne mit anderen aus.
+ Du sprichst fließend Deutsch (Level C1)
+ Das bieten wir dir:
+ Freue dich auf spannende Herausforderungen, die du gemeinsam mit deinen technikbegeisterten Kolleg:innen meisterst und profitiere von Remote Work, viel Gestaltungsfreiraum für deine Ideen und einer offenen Unternehmens- und Duz-Kultur mit Open Door Policy.
+ Haben wir dein Interesse geweckt?
+ Dann freuen wir uns auf deine Bewerbung über unser Online-Bewerberportal.
+ Kontakt
+ Marantec Group
+Laura Westhoff
+Remser Brook 11 | 33428 Marienfeld
+Tel.: + 49 5247 705-263
+https://career.marantec-group.com

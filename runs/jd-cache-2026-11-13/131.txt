@@ -1,0 +1,42 @@
+URL: https://www.linkedin.com/jobs/view/4489018291
+TITLE: Werkstudent (w/m/d) - Process Intelligence
+COMPANY: LANXESS
+LOC: Cologne, North Rhine-Westphalia, Germany
+POSTED: 2026-11-11
+title: Werkstudent (w/m/d) - Process Intelligence
+company: LANXESS
+posted: 1 day ago
+applicants: 45 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-w-m-d-process-intelligence-at-lanxess-4489018291&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Highlights / Aufgaben
+ Mitarbeit bei der Entwicklung und Optimierung von PQL-Abfragen, KPIs und Datenmodellen
+ Technischer Support, insbesondere bei Fragestellungen zu Dashboards, PQL, Datenmodellen und Backend-Anpassungen
+ Unterstützung bei der Migration bestehender Celonis Datenmodelle und Analysen auf Object-Centric Process Mining (OCPM)
+ Mitwirkung bei der Entwicklung neuer AI- und GenAI-Anwendungsfälle auf Basis von Celonis, beispielsweise AI Agents und Process Copilots
+ Unterstützung bei der Entwicklung und Anbindung von MCP-Servern (Model Context Protocol) zur Integration von Celonis mit AI- und Copilot-Lösungen
+ Unterstützung bei Tests, Dokumentation und Qualitätssicherung neuer Celonis-Lösungen
+ Erfahrung / Skills
+ Eingeschriebener Student (m/w/d) im Bereich Wirtschaftsinformatik, Informatik, Data Science, Wirtschaftswissenschaften oder einem vergleichbaren Studiengang
+ Interesse an Process Mining, Datenanalyse, Geschäftsprozessen und Generative AI
+ Erste Programmier- und Datenbankkenntnisse, idealerweise in SQL und/oder Python; Kenntnisse in PQL oder Celonis sind von Vorteil
+ Interesse an modernen AI-Technologien, AI Agents, APIs und Integrationsarchitekturen; Kenntnisse rund um MCP sind ein Plus, aber keine Voraussetzung
+ Analytisches Denkvermögen, schnelle Auffassungsgabe und eine strukturierte, selbstständige Arbeitsweise
+ Bereitschaft, sich sowohl mit fachlichen Geschäftsprozessen als auch technischen Fragestellungen auseinanderzusetzen
+ Teamfähigkeit und Kommunikationsstärke für die Zusammenarbeit mit Fachbereichen und dem Celonis Team
+ Gute Deutsch- und Englischkenntnisse
+ Das sind wir
+ Wenn die Chemie stimmt, können wir bei LANXESS viel bewegen Sport beschleunigen, Getränke länger haltbar machen, der Freizeit mehr Farbe geben und noch vieles mehr.
+Als einer der führenden Spezialchemie-Konzerne entwickeln und produzieren wir chemische Zwischenprodukte, Additive und verbrauchernahe Schutzprodukte. Mit mehr als 11.500 Mitarbeitenden sind wir in 32 Ländern weltweit präsent.Für unser Nachhaltigkeitsengagement erreichen wir führende Positionen unter anderem im Dow Jones Best-in-Class Index und den Ratings MSCI ESG und ISS ESG.
+Gehören Sie dazu!
+ Unser Angebot
+ Verlasse den Hörsaal und sammle wertvolle Praxiserfahrung in einem internationalen Unternehmen. Bei LANXESS erhältst Du spannende Einblicke in die Arbeitswelt, kannst Dein Fachwissen anwenden und weiterentwickeln sowie aktiv an abwechslungsreichen Projekten mitwirken. Freue Dich dabei auf folgende Benefits
+ Attraktive Vergütung Wir bieten eine faire monatliche Vergütung von 1.390 € bis 1.740 €, abhängig von der vereinbarten Wochenarbeitszeit (16 bis 20 Stunden pro Woche)
+ Flexibilität in den Semesterferien Während der vorlesungsfreien Zeit besteht die Möglichkeit Vollzeit zu arbeiten 
+ Zugang zu unseren Corporate Benefits mit attraktiven Rabatten bei zahlreichen Marken und Anbietern 
+ Flexible Arbeitsgestaltung mit der Möglichkeit zum mobilen Arbeiten nach Absprache
+ Perspektive für die Zukunft Möglichkeit, deine Abschlussarbeit in Zusammenarbeit mit LANXESS zu schreiben
+ Vernetzung und Austausch in unserer LANXESS Studierenden-Community
+ Als Fair Company-Unternehmen bekennen wir uns zu anerkannten Qualitätsstandards und überprüfbaren Regeln im Praktikum. Für diese verantwortungsvolle und transparente Unternehmenskultur werden wir jährlich mit dem Fair Company-Siegel ausgezeichnet.
+ Vielfalt Für uns sind deine Fähigkeiten und deine Persönlichkeit wichtig - wir begrüßen jeden, der sich unseren Werten verpflichtet fühlt. Wir sind fest davon überzeugt, dass uns die Einbeziehung verschiedener Perspektiven innovativer macht und unsere Wettbewerbsfähigkeit verbessert. Deshalb nehmen wir die Einzigartigkeit jedes einzelnen Menschen an und setzen uns dafür ein, unsere Mitarbeitenden bei der Entwicklung ihres individuellen Potenzials zu unterstützen.
+Bitte richte Deine Bewerbung (inkl. Zeugnissen, Studienbescheinigung etc.) an das Recruiting Team.

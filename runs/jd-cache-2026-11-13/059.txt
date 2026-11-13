@@ -1,0 +1,93 @@
+URL: https://www.linkedin.com/jobs/view/4490567191
+TITLE: AI Data Annotator
+COMPANY: DataXWorks
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-13
+title: AI Data Annotator
+company: DataXWorks
+posted: 2 hours ago
+applicants: 57 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fin.linkedin.com%2Fjobs%2Fview%2Fai-data-annotator-at-dataxworks-4490567191&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Back
+Job Details
+AI Data Annotator
+Apply for this job
+Location Chennai / Remote
+ Experience 2+ Years
+ Employment Type Full-Time
+ Role Summary
+DataXWorks is hiring a detail-oriented AI Data Annotator to support enterprise AI and machine learning projects across Healthcare, Retail, BFSI, and other data-intensive domains.
+In this role, you will work with structured and unstructured datasets, review data quality, apply annotation guidelines, and help create reliable training and validation datasets for production AI systems.
+Key Responsibilities
+ Annotate, label, and validate text, image, document, and other domain-specific datasets for AI/ML workflows.
+ Perform quality checks to ensure annotation accuracy, consistency, and guideline adherence.
+ Review ambiguous, sensitive, or edge-case data samples and escalate them when needed.
+ Work closely with data operations teams, AI engineers, and project managers to support dataset delivery.
+ Follow project-specific annotation guidelines, QA standards, and data governance requirements.
+ Support compliance-aware workflows aligned with GDPR, HIPAA, and enterprise data handling standards where applicable.
+ Maintain clear documentation of annotation decisions, quality issues, and workflow updates.
+ Required Skills & Experience
+ 2+ years of experience in data annotation, data labeling, content moderation, data QA, or similar data operations roles.
+ Basic understanding of AI, machine learning, NLP, computer vision, or data training workflows.
+ Strong attention to detail and ability to follow complex annotation guidelines.
+ Ability to work with structured datasets, documents, images, and text-based data.
+ Good analytical thinking and judgment for handling edge cases.
+ Clear communication and documentation skills.
+ Experience working on healthcare, retail, BFSI, or compliance-sensitive datasets is a plus.
+ Why Join DataXWorks?
+At DataXWorks, you will work on enterprise-scale AI data projects that support real-world AI systems, not just experimental models.
+You will gain exposure to production AI workflows, compliance-ready annotation processes, data quality frameworks, and domain-specific AI dataset creation for global AI teams.
+Apply for this job
+Back
+Job Details
+AI Data Annotator
+Apply for this job
+Location Chennai / Remote
+ Experience 2+ Years
+ Employment Type Full-Time
+ Role Summary
+DataXWorks is hiring a detail-oriented AI Data Annotator to support enterprise AI and machine learning projects across Healthcare, Retail, BFSI, and other data-intensive domains.
+In this role, you will work with structured and unstructured datasets, review data quality, apply annotation guidelines, and help create reliable training and validation datasets for production AI systems.
+Key Responsibilities
+ Annotate, label, and validate text, image, document, and other domain-specific datasets for AI/ML workflows.
+ Perform quality checks to ensure annotation accuracy, consistency, and guideline adherence.
+ Review ambiguous, sensitive, or edge-case data samples and escalate them when needed.
+ Work closely with data operations teams, AI engineers, and project managers to support dataset delivery.
+ Follow project-specific annotation guidelines, QA standards, and data governance requirements.
+ Support compliance-aware workflows aligned with GDPR, HIPAA, and enterprise data handling standards where applicable.
+ Maintain clear documentation of annotation decisions, quality issues, and workflow updates.
+ Required Skills & Experience
+ 2+ years of experience in data annotation, data labeling, content moderation, data QA, or similar data operations roles.
+ Basic understanding of AI, machine learning, NLP, computer vision, or data training workflows.
+ Strong attention to detail and ability to follow complex annotation guidelines.
+ Ability to work with structured datasets, documents, images, and text-based data.
+ Good analytical thinking and judgment for handling edge cases.
+ Clear communication and documentation skills.
+ Experience working on healthcare, retail, BFSI, or compliance-sensitive datasets is a plus.
+ Why Join DataXWorks?
+At DataXWorks, you will work on enterprise-scale AI data projects that support real-world AI systems, not just experimental models.
+You will gain exposure to production AI workflows, compliance-ready annotation processes, data quality frameworks, and domain-specific AI dataset creation for global AI teams.
+Apply for this job
+Role Summary
+DataXWorks is hiring a detail-oriented AI Data Annotator to support enterprise AI and machine learning projects across Healthcare, Retail, BFSI, and other data-intensive domains.
+In this role, you will work with structured and unstructured datasets, review data quality, apply annotation guidelines, and help create reliable training and validation datasets for production AI systems.
+Key Responsibilities
+ Annotate, label, and validate text, image, document, and other domain-specific datasets for AI/ML workflows.
+ Perform quality checks to ensure annotation accuracy, consistency, and guideline adherence.
+ Review ambiguous, sensitive, or edge-case data samples and escalate them when needed.
+ Work closely with data operations teams, AI engineers, and project managers to support dataset delivery.
+ Follow project-specific annotation guidelines, QA standards, and data governance requirements.
+ Support compliance-aware workflows aligned with GDPR, HIPAA, and enterprise data handling standards where applicable.
+ Maintain clear documentation of annotation decisions, quality issues, and workflow updates.
+ Required Skills & Experience
+ 2+ years of experience in data annotation, data labeling, content moderation, data QA, or similar data operations roles.
+ Basic understanding of AI, machine learning, NLP, computer vision, or data training workflows.
+ Strong attention to detail and ability to follow complex annotation guidelines.
+ Ability to work with structured datasets, documents, images, and text-based data.
+ Good analytical thinking and judgment for handling edge cases.
+ Clear communication and documentation skills.
+ Experience working on healthcare, retail, BFSI, or compliance-sensitive datasets is a plus.
+ Why Join DataXWorks?
+At DataXWorks, you will work on enterprise-scale AI data projects that support real-world AI systems, not just experimental models.
+You will gain exposure to production AI workflows, compliance-ready annotation processes, data quality frameworks, and domain-specific AI dataset creation for global AI teams.

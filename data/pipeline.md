@@ -194,4 +194,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/14763-44566712-1110-S | Vonovia SE | Werkstudent Betreiberpflichten - Gefahrenstoffe (m/w/d) | Bochum
 - [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/15939-BB-635932-7878-4693-S | Rheinmetall AG | Werkstudent im Einkauf indirektes Material (m/w/d) | Kassel, Hessen
 
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/15639-496167163-S | Zeppelin GmbH | Werkstudent Business Process Quality (m/w/d) | Garching bei München
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208645820-S | Movianto Deutschland GmbH | Werkstudent Stammdatenmanagement (m/w/d) | Neunkirchen, Saar
+
 ## Processed

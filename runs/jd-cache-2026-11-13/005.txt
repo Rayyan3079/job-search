@@ -1,0 +1,48 @@
+URL: https://www.stepstone.de/stellenangebote--IT-Systemadministrator-m-w-d-Osterfeld-bei-Jena-SimonsVoss-Technologies-GmbH--14746315-inline.html
+TITLE: IT Systemadministrator (m/w/d)
+COMPANY: SimonsVoss Technologies GmbH
+LOC: Osterfeld bei Jena
+POSTED: stepstone
+title: IT Systemadministrator (m/w/d)
+company: SimonsVoss Technologies GmbH
+posted: 2026-11-12T13:50:16.57Z
+location: Osterfeld bei Jena | remote: 
+---
+Über uns
+ Gestalte mit uns die Zukunft der Sicherheitstechnik! 
+ Wir sind Vorreiter der digitalen Schließtechnik und gewährleisten mit einem Team von über 550 Mitarbeitenden, dass das Leben der Menschen nicht nur sicherer, sondern auch komfortabler wird. Unsere Begeisterung für Innovation, unser ausgeprägter Teamgeist und die tiefe Verbundenheit zur Branche erlauben es uns, nicht nur Türen zu öffnen, sondern auch Wege für sicherere und intelligentere Lebens- und Arbeitsräume zu schaffen.
+ Als IT Systemadministrator:in (m/w/d) erwartet dich eine spannende und vielseitige Rolle, in der du maßgeblich zur Stabilität und Weiterentwicklung unserer IT-Infrastruktur beitragen wirst. Dabei wirst du eng mit verschiedenen Abteilungen zusammenarbeiten, um sicherzustellen, dass unsere IT-Lösungen den Geschäftsanforderungen entsprechen und unsere Mitarbeitenden optimal unterstützt werden.
+ Darauf hast du Lust
+ Windows-Administration: Konfiguration, Wartung und Überwachung von Windows-Servern und Workstations.
+ Administration und Konfiguration von mobile devices, MDM (Apple & Android).
+ Active Directory Management: Verwaltung von Benutzerkonten, Gruppenrichtlinien und Sicherheitskonfigurationen. (Azure&MS365).
+ Software-Automatisierung: Implementierung von Automatisierungsprozessen zur Effizienzsteigerung.
+ Scripting: Entwicklung von Skripten zur IT-Prozessoptimierung.
+ Virtualisierung: Nutzung von VMware und erste Erfahrungen mit Azure Cloud zur Infrastrukturverbesserung.
+ Automatisierung: Einsatz von PowerShell und Baramundi zur Prozessautomatisierung.
+ Dokumentation : Erstellung von Konzepten und technischer Dokumentation im Change-Prozess.
+ Troubleshooting: Analyse und Behebung von Störungen zur IT-Infrastruktur-Optimierung.
+ Teamarbeit: Zusammenarbeit mit internationalen IT-Teams zur Erfüllung von System- und Sicherheitsanforderungen, sowie IT-Projekten.
+ Das bringst du mit
+ Abgeschlossenes Studium im Bereich Informatik oder eine vergleichbare IT-Ausbildung (z. B. Fachinformatiker für Systemintegration).
+ Erste Berufserfahrung in der IT-Systemadministration.
+ Erfahrung mit Windows-Servern (ab Version 2012), Windows 10/11 sowie mit Client-Deployment-Lösungen (z. B. SCCM, Baramundi oder ähnliche).
+ Gute Kenntnisse in den Bereichen Netzwerkadministration und IT-Sicherheit sowie Erfahrung in der Betreuung von Office365-Strukturen auf technischer Ebene.
+ Kenntnisse in der Server-Virtualisierung mit VMware sowie erste Azure Cloud Skills.
+ Gute Deutsch und Englischkenntnisse in Wort und Schrift.
+ Quereinsteiger mit entsprechender Erfahrung sind ebenfalls willkommen.
+ Das bieten wir Dir
+ Work-Life-Balance // Flexibilität durch Gleitzeitmodell inkl. Freizeitausgleich, nach Absprache Möglichkeit zu Remote Work an 2 Tagen, 30 Tage Urlaub ohne Probezeitsperre
+ Nachhaltige Mobilität // Kostengünstiges Leasing von Job Rad und E-Bikes
+ Gesundheit // 2 € Essenszuschuss zum hausinternen Menüanbieter, 30€ brutto Fitnesszuschuss im Monat, Mitarbeiterhilfsprogramm zu allen Lebensfragen, freie Getränke & frisches Obst
+ Familie & Vorsorge // bis zu 250 € brutto Kitazuschuss im Monat, Bezuschussung der betrieblichen Altersvorsorge (40 € zzgl. 20% des Umwandlungsbetrags), exklusive Mitarbeiterrabatte
+ Wachstum & Weiterbildung // strukturierter & inspirierender Onboarding Prozess, praxisorientierte Trainings im Inhouse Schulungszentrum, Zugang zu Lernplattformen, Mentoring zu Entwicklung und Karrierepfaden
+ Kultur // Mitreißender Spirit, flache Organisationsstrukturen, ein buntes Team aus 17 Nationen, große Hilfsbereitschaft & Zusammenhalt, viele tolle Events
+ Klingt spannend?
+ Erstelle in wenigen Minuten dein Profil und lade deinen Lebenslauf hoch. Wir sind gespannt auf deine Erfahrungen und freuen uns, dich im nächsten Schritt näher kennenzulernen.
+ SimonsVoss Technologies GmbH | Lindenstraße 6
+06721 Osterfeld | Germany | Tel. +49 34422 6286 13
+ Weitere Informationen findest du auf www.simons-voss.com/karriere sowie auf  Youtube und Instagram . 
+ Chancengleichheit & Vielfalt: Wir bei SimonsVoss setzen uns gemeinsam mit der internationalen Allegion-Gruppe für einen vielfältigen und integrativen Arbeitsplatz ein. Wir bewerten alle Bewerbungen gleich – unabhängig von Herkunft, Religion, Geschlecht, Alter oder Identität. Und keine Sorge, falls dein Lebenslauf nicht perfekt auf alle Anforderungen passt: Bewirb dich trotzdem, denn vielleicht bist du genau der oder die Richtige für unser Team!
+ © Allegion plc, 2014 | Block D, Iveagh Court, Harcourt Road, Dublin 2, Co. Dublin, Irland
+ REGISTRIERT IN IRLAND MIT BESCHRÄNKTER HAFTUNG, REGISTRIERT UNTER DER NUMMER 527370"

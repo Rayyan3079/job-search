@@ -1,0 +1,55 @@
+URL: https://www.stepstone.de/stellenangebote--IT-System-Engineer-m-w-d-Windows-M365-Virtualisierung-Security-Chemnitz-Dresden-Leipzig-Erfurt-Magdeburg-Jena-Gera-Zwickau-Wilsdruff-Hof-Dessau-Rosslau-Majori-GmbH--14746394-inline.html
+TITLE: IT-System Engineer (m/w/d) - Windows / M365 / Virtualisierung / Security
+COMPANY: Majori GmbH
+LOC: Chemnitz, Dresden, Leipzig, Erfurt, Magdeburg, Jena, Gera, Zwickau, Wilsdruff, Hof, Dessau-Roßlau
+POSTED: stepstone
+title: IT-System Engineer (m/w/d) - Windows / M365 / Virtualisierung / Security
+company: Majori GmbH
+posted: 2026-11-12T14:03:56.547Z
+location: Chemnitz, Dresden, Leipzig, Erfurt, Magdeburg, Jena, Gera, Zwickau, Wilsdruff, Hof, Dessau-Roßlau | remote: 
+---
+Einleitung
+ Wir von der Majori GmbH sind eine Personalberatung mit Fokus auf IT-Positionen.
+Für einen Bestandskunden aus einer  zukunftssicheren Branche   (Technologie / Industrie 4.0 / Nachhaltigkeit)  suchen wir an den oben genannten Standorten qualifizierte Verstärkung im Bereich der  IT-Infrastruktur .
+ Ihre Aufgaben
+ User- & Rechteverwaltung : Anlage bis Deaktivierung von Accounts, Gruppen, Berechtigungen, Dokumentation & Monitoring
+ Administration & Support  von  Windows Server , Clients und zentralen Business-Anwendungen
+ Betrieb/Weiterentwicklung von  Active Directory  (GPOs, Struktur, Policies) und  Mail-/Collaboration  (z. B. Exchange bzw. M365 – je nach Setup)
+ Virtualisierung : Betrieb, Pflege und Support der Plattform (z. B. VMware/Hyper-V)
+ Security & Infrastruktur-Konzepte : Fernzugriff, Storage, externer Datenaustausch,  Backup & Recovery , Verschlüsselung
+ Troubleshooting  im laufenden IT-Betrieb (2nd/3rd Level), Ursachenanalyse und nachhaltige Fehlerbehebung
+ IT-Sicherheitsmaßnahmen  planen, konfigurieren und überwachen (Hardening, Patch- und Update-Strategien, Monitoring)
+ Technologie-Scouting : Evaluierung neuer Tools/Ansätze und Mitarbeit an Verbesserungsprojekten
+ Dokumentation  von Prozessen, Systemen und Changes (sauber, nachvollziehbar, auditfähig) 
+ Ihr Profil
+ Ausbildung/Studium im IT-Umfeld (z. B. Fachinformatik Systemintegration, IT-Systemelektronik, Informatik o. ä.) oder vergleichbare Praxiserfahrung
+ Fundierte Kenntnisse im Microsoft-Stack : Windows Server, Active Directory, Group Policies, Client-Management
+ Erfahrung in   Virtualisierung  (VMware oder Hyper-V) sowie Grundverständnis zu Netzwerk/Storage/Backup
+ Verständnis für IT-Security  im Infrastrukturkontext (Berechtigungen, Härtung, Verschlüsselung, sichere Zugriffe)
+ Strukturierte Arbeitsweise, Ownership und die Fähigkeit, komplexe Themen pragmatisch zu lösen
+ Deutsch  sicher,  Englisch  gut (Doku/Herstellerkommunikation)
+ Nice-to-have  (kein Muss) : 
+ Linux-Grundlagen, PowerShell/Automatisierung, M365/Azure, Monitoring-Tools, Endpoint-Management 
+ Wir bieten
+ Unbefristete Festanstellung  beim Endkunden mit langfristiger Perspektive
+ Flexible Arbeitszeiten  sowie ein Hybrid- bzw. Remote-Anteil (je nach Team)
+ 30 Tage Urlaub  zzgl. möglichem Sonderurlaub (modellabhängig)
+ Weiterbildung & Zertifizierungen , individuell förderbar
+ Moderne Toolchain , echte Mitgestaltungsmöglichkeiten und kurze Entscheidungswege
+ Equipment nach Wahl  (z. B. MacBook oder Dell – je nach Arbeitgeberstandard)
+ Zusätzliche Leistungen möglich: 
+Betriebliche Altersvorsorge (bAV), VL-Zuschuss, Kita-Zuschuss, Gesundheits- und Fitnessangebote sowie Team-Events  
+ Weitere Informationen
+ Ansprechpartner: 
+ Leyla Foerster
+Senior Recruitment Consultant
+Tel.: +49 30 4397120 – 52
+E-Mail: l.foerster@majori.de 
+ Lukas Schröder
+Recruitment Consultant
+Tel.: +49 30 4397120 – 33
+E-Mail: l.schroeder@majori.de 
+ Majori GmbH 
+ Karl-Liebknecht-Str. 5
+10178 Berlin
+ https://www.majori.de/

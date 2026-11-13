@@ -1,0 +1,68 @@
+URL: https://www.linkedin.com/jobs/view/4488510150
+TITLE: Revenue Operations Analyst (Freelance / Contract) 100% Remote (all genders)
+COMPANY: GetMyInvoices
+LOC: Germany
+POSTED: 2026-11-12
+title: Revenue Operations Analyst (Freelance / Contract) 100% Remote (all genders)
+company: GetMyInvoices
+posted: 19 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+We are looking for a Revenue Operations Analyst (Freelance / Contract) to support the improvement of how we use data across marketing, sales, customer success, product, and billing.
+ The assignment focuses on understanding how our revenue processes perform, identifying the reasons behind changing results, and turning data into actionable insights. You will analyse performance, define meaningful metrics, combine data from different systems, investigate patterns, and validate assumptions.
+ Your work should contribute to measurable improvements. This may include supporting better business decisions, improving existing processes, or introducing automations that reduce manual effort and increase reliability.
+ Reporting and dashboards are part of the assignment, but they are not the end goal. Each analysis should address a relevant business question and provide a clear foundation for decision-making.
+ You will support the implementation of selected solutions, including data models, dashboards, automations, and process improvements. The primary focus remains on analysis and generating insights, with implementation following where the expected impact and measurement approach are clearly defined.
+ Relevant professional experience is preferred but not mandatory. We value strong analytical judgement, accuracy, technical understanding, independence, and the ability to quickly learn and deliver high-quality results.
+ Tasks 
+ Analyse the customer journey across acquisition, conversion, retention, and revenue performance.
+ Define, refine, and maintain consistent metrics across marketing, sales, customer success, product, and finance.
+ Extract, combine, clean, and validate data from operational and analytical systems.
+ Investigate changes in customer behaviour, funnels, conversion rates, retention, costs, and revenue trends.
+ Identify the likely drivers behind performance changes rather than only describing outcomes.
+ Review existing reports and identify unreliable metrics, data gaps, and inconsistent definitions.
+ Develop hypotheses and validate them using available data and analytical methods.
+ Separate evidence-based insights from assumptions, correlations, and opinions.
+ Estimate the potential impact of proposed improvements and define suitable success metrics.
+ Prioritise opportunities based on expected impact, effort, and confidence in the underlying data.
+ Present findings and recommendations in a clear format that supports business decisions.
+ Support the development of selected dashboards, data models, automations, and process improvements.
+ Evaluate implemented changes and measure whether they achieved the expected impact.
+ Use AI-assisted tools where appropriate for research, data exploration, coding support, and documentation.
+ Validate AI-generated outputs against underlying data and original sources.
+ Document metric definitions, data logic, assumptions, analytical methods, and limitations.
+ Requirements 
+ Strong analytical skills and a structured approach to solving complex problems.
+ A high standard for data quality and a focus on producing reliable results.General programming knowledge and the motivation to continuously develop technical skills.
+ Initial experience with tools and technologies such as SQL, Python, JavaScript, APIs, spreadsheets, data warehouses, or business intelligence platforms is beneficial.
+ A basic understanding of statistics, including the distinction between correlation and causation.The ability to analyse problems from multiple perspectives before drawing conclusions.
+ An interest in using AI-assisted tools as part of analytical and technical workflows.
+ The ability to critically evaluate and validate AI-generated results.
+ Strong communication skills and the ability to explain complex findings in a clear and understandable way.
+ The curiosity and motivation to learn new tools, systems, and business areas.
+ The discipline to follow an analysis through to a sufficiently reliable and actionable conclusion.
+ Benefits 
+ What We Offer:
+ Clear Responsibilities and Support:
+ You’ll always know what’s expected of you, and you’ll work in an environment where mistakes are seen as valuable opportunities to learn.
+ A Shared Commitment to Outstanding Results:
+ Our team is passionate about achieving excellence and values your contribution as an essential part of our success. Together, we accomplish great things.
+ Personal Growth and Ownership:
+ We encourage self-motivation and personal accountability, empowering you to deliver exceptional results.
+ Dynamic Feedback for Continuous Learning:
+ You’ll receive direct and timely feedback, enabling you to adapt quickly to change and continuously improve.
+ Open Communication and Professional Development:
+ We foster open communication and actively support your personal and professional growth.
+ A Results-Driven Mindset Focused on Company Success:
+ Our goal is to achieve results that move the company forward. Your commitment to our shared success is highly valued.
+ Team Days, Summer Parties, and Christmas Celebrations: Regular events that strengthen team spirit and make work more enjoyable.
+ Corporate Benefits: Enjoy a range of employee discounts and perks.
+ Dog-Friendly Workplace: Bring your four-legged friend to work.
+ Bike Leasing: Take advantage of our bike leasing program for a greener and healthier commute.
+ You will not be assigned a fixed list of reports to create. Instead, you are expected to question unclear results, challenge weak definitions, and develop your own perspective based on the available data.
+ Important business questions should be followed from the initial analysis through to a verified conclusion. Where improvements are identified, you will support their implementation and help measure their impact.
+ The assignment requires initiative, persistence, and ownership of outcomes. It does not require permanent availability. Work is evaluated based on quality, reliability, and business impact rather than time spent online.
+ You will receive support while independently managing your assigned areas of analysis. You will have the opportunity to improve existing methods, develop better approaches, and contribute your own ideas.
+ Equal Opportunity 
+ We welcome applications from all qualified candidates. Selection decisions are based on skills, potential, and suitability for the assignment.

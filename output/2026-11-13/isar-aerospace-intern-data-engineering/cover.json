@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Intern AI & Data Transformation (Data Engineering)",
+    "company": "Isar Aerospace",
+    "city": "Parsdorf",
+    "greeting": "Dear Isar Aerospace team,",
+    "opening": "I am applying for the internship in Data Engineering. Connecting sources, building reliable pipelines and data models, and turning them into dashboards for company KPIs is exactly what I did in my previous roles, and I would love to do it for a European launch vehicle.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence. I worked in SAP data and analytics at TallyMarks Consulting and as a Business Analyst at Tapal Tea.",
+    "achievements": [
+      {
+        "lead": "Pipelines",
+        "impact": "I designed and implemented SAP Datasphere data pipelines and rebuilt a manufacturer's datasets end to end during a 42-dashboard migration"
+      },
+      {
+        "lead": "Data models and dashboards",
+        "impact": "I built data models from ABAP CDS view sources and joins, KPI dashboards on top of them, and documented sources, calculations and results for each"
+      },
+      {
+        "lead": "Python, APIs and Git",
+        "impact": "I built DocuMind, a Python application with a FastAPI REST API, 37 unit tests, GitHub Actions CI and Docker"
+      }
+    ],
+    "problems_section": "I would integrate sources into your warehouse, help keep pipelines healthy, build tested models and dashboards and document metrics so others can trust them. I have not used dlt, dbt or Metabase yet, but moving from SAP BW to SAP Datasphere showed me I learn new data tools quickly from documentation.",
+    "closing": "I am willing to relocate to the Munich area and can start immediately. As a non-EU student I will agree the internship hours with you so they fit my permitted working days. I would be glad to discuss the role.",
+    "date": "2026-11-13",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-11-13/isar-aerospace-intern-data-engineering/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

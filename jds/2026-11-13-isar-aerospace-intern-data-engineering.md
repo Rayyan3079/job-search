@@ -1,0 +1,55 @@
+URL: https://www.linkedin.com/jobs/view/4489973576
+Company: Isar Aerospace
+Title: Intern AI & Data Transformation (Data Engineering)
+Found: 2026-11-13
+Posted: 2026-11-11
+
+URL: https://www.linkedin.com/jobs/view/4489973576
+TITLE: Intern AI & Data Transformation
+COMPANY: Isar Aerospace
+LOC: Parsdorf, Bavaria, Germany
+POSTED: 2026-11-11
+title: Intern AI & Data Transformation
+company: Isar Aerospace
+posted: 1 day ago
+applicants: 133 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fintern-ai-data-transformation-at-isar-aerospace-4489973576&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Mission Brief
+ Isar Aerospace is building Spectrum, a European launch vehicle. As an Intern in Data Engineering, you help bring engineering, manufacturing, business and operations data into one place, connecting sources to our emerging warehouse, building reliable data models and delivering dashboards that support company decisions.
+ Your Role in Our Space Mission:
+ Connect data sources. Integrate APIs, SaaS tools and databases into our warehouse using Python and dlt. 
+ Build reliable pipelines. Develop and maintain scheduled ELT/ETL pipelines, monitor data quality and troubleshoot failures. 
+ Create trusted data models. Clean and transform data with dbt into tested, documented models for team data products. 
+ Build dashboards. Develop and maintain Metabase and Power BI dashboards for company KPIs. 
+ Keep data understandable. Document sources, metrics and definitions so others can find and trust the data. 
+ Work with stakeholders. Clarify requirements with data consumers and refine what you deliver. 
+ Qualification Checklist
+ Education: Enrolled in a Bachelor’s or Master’s in computer science, data engineering or information systems; available for at least six months. 
+ Experience: Initial hands-on experience with pipelines, data ingestion or analytics through an internship, working student role or personal projects. 
+ Technical skills: Solid Python fundamentals and confident SQL, including joins, aggregations and relational schema basics. 
+ Tools and learning: Basic REST API, JSON, authentication and Git knowledge; comfortable learning new tools and data sources from documentation. 
+ Working style: Structured and detail-oriented, with a focus on accurate results and turning unclear requests into precise questions. 
+ Languages: Fluent English and clear communication; German is an advantage. 
+ Bonus Skills
+ Data stack: Experience with PostgreSQL, dlt, dbt, Metabase or Power BI. 
+ Tooling: Exposure to Docker, CI/CD or orchestration tools. 
+ Benefits
+ Subsidised lunch: Stay energised with delicious, subsidised lunches every day
+ Flexible mobility budget: Travel your way with a choice between a fully financed Deutschlandticket or a fuel allowance
+ Sport Clubs membership: Stay fit with our sponsored sports club memberships (EGYM Wellpass)
+ Free snacks and drinks: Indulge in a variety of free snacks and beverages to keep you fuelled throughout the day
+ Physical and mental well-being: Access via OpenUp the online support from certified psychologists and lifestyle experts at no cost to you and your family
+ And Much More! Discover additional perks and benefits when you join our team. 
+ Who We Are
+ We are Isar Aerospace and we are at the forefront of New Space building a modern space business to enable faster, better and cheaper access to space.
+Our mission is to help democratise space and use it for good in order to improve life on Earth now and for the future generations.
+We are a fast-growing company aiming to provide sustainable and environmentally friendly launch solutions for small and medium-sized satellites and constellations into Low Earth Orbit. The company is privately funded by world-leading technology investors with strong commitment and support and our team is made of driven and talented people with a real passion for space innovation.
+We're making rockets in a way that hasn't been done before disrupting a traditional industry. If you are up for the challenge, want to work on cutting-edge projects and be part of a team changing the world for better, come, join us and launch your career!
+Want to find out more about us?
+Visit www.isaraerospace.com
+ Data Protection
+ We process your personal data for the purpose of managing the recruitment process and assessing your application. For detailed information on how your data is processed, including your rights, please refer to our Privacy Policy.
+ Disclaimer
+ Isar Aerospace SE is an equal-opportunity employer committed to fairness and inclusivity. We do not prioritize any specific religion, gender, nationality, or background. Due to security clearance requirements, affiliations with countries listed under
+ 13 para. 1 no. 17 SÜG may affect the application process. All qualified applicants are encouraged to apply.
