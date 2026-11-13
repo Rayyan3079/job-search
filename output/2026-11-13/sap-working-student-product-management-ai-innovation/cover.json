@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Working Student (f/m/d) – Product Management: AI and Innovation",
+    "company": "SAP SE",
+    "city": "Walldorf",
+    "date": "2026-11-13",
+    "greeting": "Dear SAP Product Management team,",
+    "opening": "I am applying for the Working Student position in Product Management: AI and Innovation. I have seen SAP products from the user's side, as a Business Analyst supporting SAP Analytics Cloud users, and I have built and evaluated an AI application myself, so turning AI ideas into concrete, useful product concepts is exactly where I want to grow.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence and four SAP Certified Associate certifications. I was one of 10 participants from Pakistan selected for the SAP Young Professionals Program.",
+    "achievements": [
+      {
+        "lead": "Evaluating AI features",
+        "impact": "I built DocuMind, a RAG application with the Claude API, and evaluated it on a 22-question test set: 91% correct, all 4 unanswerable questions refused, with clear notes on where and why it failed"
+      },
+      {
+        "lead": "Understanding users",
+        "impact": "I collected user stories from employees to design dashboards and handled daily queries for around 30 SAP Analytics Cloud dashboards, so I know how differently people use a product"
+      },
+      {
+        "lead": "Communicating value",
+        "impact": "I prepared and presented an SAP Analytics Cloud presentation to a client, who subsequently purchased it"
+      }
+    ],
+    "problems_section": "I would research AI trends and competitor products, explore AI features against real user problems, and help Product Managers shape use cases from idea to concept with clear, structured write-ups. Product management itself is new to me, and I would learn how product decisions are made from your team.",
+    "closing": "I am willing to relocate to the Walldorf area for on-site work and can work up to 20 hours per week, starting immediately. I would be glad to discuss the role.",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-11-13/sap-working-student-product-management-ai-innovation/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}
