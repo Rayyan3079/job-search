@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4453073916
+TITLE: Working Student Software Engineering (all genders)
+COMPANY: revel8
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-11-13
+title: Working Student Software Engineering (all genders)
+company: revel8
+posted: 1 day ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-software-engineering-all-genders-at-revel8-4453073916&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Our mission
+ We’re on a mission to create 10 million human firewalls! At revel8, we redefine cybersecurity training with hyper-realistic simulations that reflect today’s evolving attack landscape. Our innovative platform combines AI-driven multi-channel attacks with gamified, real-time learning to build resilience where it matters most: the people.
+ Your mission
+ As a Working Student in our Engineering team you are a core part of the team responsible for scaling a platform with a rapidly growing user base. You will work closely with our Engineers to turn complex challenges into high-quality software solutions.
+ How Your Day-to-day Will Look Like
+ Designing and implementing new features: You are responsible for turning user stories into reality within our cloud application.
+ Identifying and solving problems: You’ll dive deep into the code to find bugs and ship high-quality fixes.
+ Scaling for growth: You are part of a team that operates a platform with a rapidly growing user base.
+ Architectural support: You support the evolution of our platform architecture as we scale.
+ Is it you we are looking for?
+ You…
+ Are interested in hands-on programming and the latest AI technologies.
+ Want to gain hands-on experience in all aspects of developing a fast-growing cloud product.
+ Enjoy working on complex problems
+ Are passionate about working in a fast-paced startup environment.
+ Why revel8?
+ Our revelutionary Energy: Join a highly motivated team that values innovation and dedication, while always making space to enjoy the journey and celebrate successes together.
+ Mission-Driven Impact: Contribute to a meaningful mission of building human resilience against cyber threats.
+ Learning & Growth: We are still a small team, which means you’ll have real ownership and by working alongside experienced Software Engineers you will experience first-hand how a startup scales from the inside and how to build a complex platform almost from the beginning.
+ New Munich Hub: Be part of our new chapter! We are moving our headquarters to Munich and prioritize the energy of in-person collaboration in our brand new office - unlimited coffee, table soccer and good vibes included.
+ Your Daily Balance: With a subsidised EGYM Wellpass you can get access thousands of gyms, studios, and swimming pools across Germany.
+ Stay with us: Potential to grow into a full-time role after your working student position.
+ Ready to join the revelution?
+ Perfect, let’s talk!
+Just submit your application, and we’ll get back to you as soon as possible. Don't forget to upload your transcript of records in the document category "Certificates".
+In case you have any questions, feel free to reach out to Melina from our People and Culture team.
+We're looking forward to receiving your application!
+ About Us
+ revel8 is building the next generation of cybersecurity awareness for the age of GenAI. We help organizations protect themselves against modern social engineering attacks by turning their employees into an active line of defense.
+It's been a fast ride so far: Founded in August 2024 by Tom and Julius, we moved to the Merantix Campus in Berlin and welcomed Robert as our CTO and co-founder shortly after. We landed our first enterprise customer in March 2025, raised our €5.1M seed round in September 2025, and moved the whole team back to Munich in February 2026. Today, we are around 60 revels working side by side in our new office every day.
+Early days. Big mission. Come build it with us!
+ revel8 is an equal opportunity employer. We hire based on what you bring to the role, not on race, religion, sexual orientation, age, marital status, disability, or gender identity. We are committed to equal opportunity throughout our entire hiring process. To protect your privacy, please leave out any personal information about your racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, health, or sexual orientation from your application.

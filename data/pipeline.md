@@ -197,4 +197,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/15639-496167163-S | Zeppelin GmbH | Werkstudent Business Process Quality (m/w/d) | Garching bei München
 - [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208645820-S | Movianto Deutschland GmbH | Werkstudent Stammdatenmanagement (m/w/d) | Neunkirchen, Saar
 
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/18706-9JKMKLB2Thrfnq-S | ZV Komm. Verkehrssicherheit | Werkstudent (m/w/d) Digitalisierung, KI & Automatisierung | Amberg, Oberpfalz
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/17402-44573136-1113-S | ENERCON GmbH | Working Student Service Product Management (m/f/d) | Aurich, Ostfriesland
+
 ## Processed

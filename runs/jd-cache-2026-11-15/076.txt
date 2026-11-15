@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4489594721
+TITLE: Werkstudent (w/m/d) - KI & Automatisierung im Factory Controlling
+COMPANY: Siemens Energy
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-11-13
+title: Werkstudent (w/m/d) - KI & Automatisierung im Factory Controlling
+company: Siemens Energy
+posted: 1 day ago
+applicants: 43 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-w-m-d-ki-automatisierung-im-factory-controlling-at-siemens-energy-4489594721&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Standort: BLN P 26
+ Art der Anstellung: Fixed Term / Part-time
+ Momentaufnahme von deinem Tag 
+ Als Werkstudent gestalten Sie mit uns die digitale Zukunft des Factory Controllings durch die Entwicklung KI-gestützter Anwendungen und Agents zur Optimierung manueller Prozesse, zur effizienten Nutzung von Daten sowie zur nachhaltigen Verbesserung bestehender Abläufe.
+ Wie du etwas bewirken kannst 
+ Konzeption, Entwicklung und Optimierung KI-gestützter Anwendungen, Tools und Agents zur Automatisierung und Effizienzsteigerung im Factory Controlling
+ Identifikation, Bewertung und Umsetzung digitaler Use Cases in Zusammenarbeit mit Anwenderinnen und Anwendern
+ Datenanbindung, -aufbereitung und -analyse zur Erstellung automatisierter Auswertungen, Reports und Workflows
+ Weiterentwicklung bestehender Automatisierungslösungen einschließlich Testing, Dokumentation und nutzerorientierter Optimierung
+ Unterstützung bei der Einführung neuer digitaler Lösungen sowie Förderung des Wissenstransfers innerhalb des Teams
+ Übernahme operativer Aufgaben im Bereich Datenmanagement, Reporting und Dokumentation sowie enge Zusammenarbeit mit Factory Controlling, Produktion und Schnittstellenbereichen
+ Was du mitbringst
+ Derzeitiges Studium der Informatik, Wirtschaftsinformatik, Data Science, Wirtschaft oder eines vergleichbaren Studiengangs
+ Erste praktische Erfahrungen in der Programmierung sowie Interesse an Generativer KI, Large Language Models und agentenbasierten Lösungen
+ Kenntnisse oder Interesse im Bereich Automatisierungstechnologien sowie Low-Code-/No-Code-Plattformen; idealerweise Erfahrung mit Microsoft Copilot Studio, Alteryx oder vergleichbaren Tools
+ Grundlagenwissen in Datenstrukturen, Schnittstellen und im verantwortungsvollen Umgang mit Unternehmensdaten
+ Analytische Denkweise sowie Fähigkeit zur Entwicklung einfacher, robuster und nutzerorientierter IT-Lösungen
+ Strukturierte Arbeitsweise, hohe Eigeninitiative, Teamorientierung sowie sehr gute Deutsch- und gute Englischkenntnisse
+ Über das Team 
+ Unser Geschäftsbereich Grid Technologies ermöglicht ein zuverlässiges, nachhaltiges und digitales Netz. Das Stromnetz bildet das Rückgrat der Energiewende. Siemens Energy bietet ein führendes Portfolio und Lösungen in den Bereichen HGÜ-Technik, Netzstabilisierung und Stromspeicherung, Hochspannungsschaltgeräte und Transformatoren sowie digitale Netztechnologie.
+ Wer ist Siemens Energy?
+ Wir bei Siemens Energy sind mehr als nur ein Energietechnologieunternehmen. Mit ~100,000 engagierten Mitarbeitern in mehr als 90 Ländern entwickeln wir die Energiesysteme der Zukunft und stellen sicher, dass der wachsende Energiebedarf der Weltgemeinschaft zuverlässig und nachhaltig gedeckt wird. Die in unseren Forschungsabteilungen und Fabriken entstehenden Technologien treiben die Energiewende voran und bilden die Grundlage für ein Sechstel der weltweiten Stromerzeugung.
+Unser globales Team setzt sich dafür ein, nachhaltige, zuverlässige und bezahlbare Energie Wirklichkeit werden zu lassen, indem es die Grenzen des Möglichen immer weiter hinausschiebt. Wir blicken zurück auf eine 150-jährige Tradition der Innovation, die unsere Suche nach Mitarbeitern bestärkt, die unseren Fokus auf Dekarbonisierung, neue Technologien und Energiewandel unterstützen.
+Erfahre mehr darüber, wie du bei Siemens Energy etwas bewegen kannst: https://www.siemens-energy.com/employeevideo
+ Unser Engagement für Vielfalt 
+ Gut, dass wir nicht alle gleich sind. Vielfalt macht uns leistungsstark. Wir leben von Inklusion und unsere gemeinsame kreative Energie wird von über 130 Nationalitäten gespeist. Siemens Energy setzt auf den Charakter - unabhängig von ethnischem Hintergrund, Geschlecht, Alter, Religion, Identität oder Behinderung. Wir versorgen die Gesellschaft mit Energie - die ganze Gesellschaft - und wir diskriminieren nicht aufgrund von Unterschieden, die zwischen uns bestehen.
+ Benefits
+ Spannende Einblicke in ein internationales Unternehmen 
+ Lege mit uns den Grundstein für deine Karriere 
+ Wir legen Wert auf Chancengleichheit und freuen uns über Bewerbungen von Menschen mit Behinderung.
+https://jobs.siemens-energy.com/jobs
+#RPO

@@ -1,0 +1,41 @@
+URL: https://www.linkedin.com/jobs/view/4490355419
+TITLE: Trainee IT Consulting w/m/d - Platform Engineering
+COMPANY: Computacenter
+LOC: Greater Munich Metropolitan Area
+POSTED: 2026-11-12
+title: Trainee IT Consulting w/m/d - Platform Engineering
+company: Computacenter
+posted: 2 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Ftrainee-it-consulting-w-m-d-platform-engineering-at-computacenter-4490355419&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Deine Aufgaben 
+ Hochwertige Trainings, moderne Technologien und spannende Kundeneinsätze von Anfang an: Starte bereits während unseres sechsmonatigen Traineeprogramms als IT Consultant im Bereich Cloud & Applications mit Schwerpunkt Platform Engineering durch! Bei uns lernst Du, wie moderne Plattformen für Daten- und KI-Anwendungen funktionieren, Anwendungen automatisiert, zuverlässig und skalierbar bereitgestellt und betrieben werden. Nach dem Traineeprogramm erwarten Dich...
+ die Unterstützung von Applikationsteams zur optimalen Nutzung von Plattform-Services für Daten- und KI-Anwendungen in unterschiedlichen Anwendungsszenarien
+ Mitwirkung an Daten- und Modellpipelines und die Unterstützung bei der Automatisierung von Tests und Deployments mithilfe von CI/CD-Pipelines
+ der Aufbau und Betrieb von Container- und Cloud-Plattformen, beispielsweise mit Kubernetes, sowie im Bereich Monitoring und Logging
+ die Automatisierung von Infrastruktur und Plattform-Services, z.B. mit Terraform oder Ansible
+ Klingt spannend? Das finden wir auch. Werde Teil unserer großen Berater:innen-Community und entwickle Dich gemeinsam mit uns weiter. Am 1. April 2027 kann es für Dich losgehen . 
+ Dein Profil 
+ Relevantes IT-Hochschulstudium oder eine sehr gut abgeschlossene IT-Berufsausbildung
+ Erste Berührungspunkte mit DevOps, CI/CD, Cloud- oder Container-Technologien
+ Du hast Dich bereits mit KI-Anwendungen oder Software-Entwicklungs-Prozessen beschäftigt
+ Grundlegende Programmier- oder Scriptingkenntnisse
+ Beratungstalent und kommunikative Fähigkeiten
+ Sehr gute Deutsch- und Englischkenntnisse
+ Reisebereitschaft
+ Wir bieten 
+ Unbefristeter Vertrag und volles Gehalt von Anfang an
+ Eine Allround-Grundausbildung mitsamt Methodentrainings inklusive Zertifizierungen, Fachseminaren und Praxistagen
+ Begleitung durch ein:e Mentor:in aus unserem erfahrenden Consulting-Team
+ Praxiseinsätze und Einblicke in die digitale Transformation unserer Kunden – große, meist DAX-gelistete Konzerne oder Bundes- & Landesbehörden
+ Ein hochmotiviertes Team, das Dich in allen Fragestellungen unterstützt
+ Über uns 
+ Computacenter ist ein internationales IT-Unternehmen mit einer 40-jährigen Erfolgsgeschichte. Allein in Deutschland bringen rund 7.000 Menschen die digitale Transformation voran: Sie entwickeln IT-Strategien, implementieren neue Technologien oder managen komplexe Infrastrukturen – für die Mehrheit der DAX-Unternehmen ebenso wie für große öffentliche Auftraggeber.
+ Was uns noch ausmacht? Zum Beispiel eine offene Arbeitsatmosphäre, in der Hierarchien keine allzu große Rolle spielen. Unsere Mitarbeiter:innen allerdings schon:
+ Wir nehmen dich und deine Ideen ernst, geben dir aktiv Feedback, so dass du schnell Verantwortung übernehmen kannst. Dein Netzwerk baust du dir im Handumdrehen nicht nur unter deinen Trainee-Kolleg:innen auf. Und deine Karriere? Wir investieren in dich – langfristig: Du bekommst gleich zu Beginn deines Traineeprogramms einen unbefristeten Vertrag mit vollem Gehalt.
+ Klingt nach einer guten Mischung? Dann wachse gemeinsam mit uns!
+ Deine Online-Bewerbung 
+ Wir freuen uns auf deine Online-Bewerbung, unabhängig von Geschlecht, Alter, sexueller Orientierung, Nationalität, ethnischer und sozialer Herkunft sowie Religion. Bewerbungen von schwerbehinderten Menschen sind bei Computacenter willkommen und werden bei gleicher Eignung bevorzugt berücksichtigt.
+ Fragen zum Job? 
+ Dann wende dich per E-Mail an THERESA.HOEFEL@COMPUTACENTER.COM.

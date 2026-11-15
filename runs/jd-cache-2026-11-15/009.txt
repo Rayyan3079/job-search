@@ -1,0 +1,41 @@
+URL: https://www.linkedin.com/jobs/view/4488939033
+TITLE: Working Student (f/m/d) IT & AI Automation
+COMPANY: NexWafe
+LOC: Germany
+POSTED: 2026-11-13
+title: Working Student (f/m/d) IT & AI Automation
+company: NexWafe
+posted: 1 day ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-f-m-d-it-ai-automation-at-nexwafe-4488939033&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Intro
+ We are looking for a Working Student (f/m/d) IT & AI Automation to strengthen our IT team.
+At NexWafe, we are transitioning from pilot operations to industrial manufacturing, and digitalization plays an important role in helping our organization scale efficiently.
+In this role, you will have the opportunity to build AI agents, automate workflows, create dashboards, and test new AI tools while working on real-life use cases across Finance, HR, Business Administration, and Procurement. Your work will help reduce repetitive manual tasks and make internal processes faster, smarter, and more reliable.
+You will collaborate directly with different teams, learn how processes work in practice, and develop solutions that colleagues can actually use in their day-to-day work.
+The role starts with an on-site onboarding in Freiburg, with the option to work remotely thereafter, provided you reside in Germany.
+Join NexWafe and apply your IT and AI knowledge in practice while gaining hands-on experience in a growing deep-tech company.
+ Your Mission
+ Develop and maintain AI agents and automated workflows for Finance, HR, Business Administration, and Procurement (e.g. processing receipts and invoices, reporting, document summaries)
+ Build automated dashboards and reports, e.g. based on HR, financial and project data
+ Map processes with business departments and propose suitable automation solutions
+ Support IT with IT security, data protection documentation, and the website and web hosting
+ Train colleagues in using the developed tools and AI applications
+ Test new AI tools and assess their benefits for NexWafe
+ Your profile
+ Currently enrolled in a degree program in Business Informatics, Computer Science, Data Science or a comparable IT-related field
+ No professional experience required; personal projects (e.g. on GitHub) or initial working student experience are an advantage
+ Python skills and experience with APIs/interfaces (REST, JSON)
+ Hands-on experience with LLM APIs (e.g. Anthrophic, OpenAI); knowledge of AI agents or MCP is an advantage
+ Experience with Microsoft 365 / Power Platform (Power Automate, Power BI, Copilot) preferred; familiarity with other automation tools (e.g. n8n, Make) is an advantage;
+ Basic SQL skills and good Excel skills
+ Basic understanding of IT security and GDPR
+ Very good English language skills
+ Independent, structured and pragmatic approach to work; sees projects through to completion
+ Able to map processes with business departments, identify inefficiencies, and explain technical solutions clearly
+ Care and discretion when handling confidential data
+ Curiosity about new AI tools
+ Clear and thorough documentation of own work
+ About Us
+ At NexWafe, we're striving to set a new standard for the future of photovoltaic wafer production. The need for efficient, affordable and cleanly produced solar technology has never been greater – we're rising to meet that challenge.

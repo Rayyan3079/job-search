@@ -1,0 +1,39 @@
+URL: https://www.linkedin.com/jobs/view/4489580118
+TITLE: Game Analyst
+COMPANY: Digital Waffle
+LOC: Hamburg, Germany
+POSTED: 2026-11-13
+title: Game Analyst
+company: Digital Waffle
+posted: 1 day ago
+applicants: 49 applicants
+apply_offsite: 
+---
+Game Analyst 
+ Hamburg - remote (within Germany due to contract restrictions)
+ Our client, a long-running and highly successful gaming company with millions of players, is looking for a Game Analyst to join their Analytics team.
+ About the Role 
+ In this role, you'll turn LiveOps and monetisation questions into clear, measurable actions and help shape events, offers, and economies that players love, while sustainably growing revenue.
+ Responsibilities 
+ Monitor and analyse event cycles, feature rollouts, and in-game promotions, proactively flagging opportunities and risks such as pacing issues, difficulty spikes, and churn signals.
+ Evaluate sinks and sources, resource inflation, and progression friction, advising on economy tuning that balances fun, fairness, and revenue.
+ Co-own A/B tests for events, offers, and monetisation features - defining hypotheses, success metrics, and guardrails, then quantifying incremental impact including uplift, cannibalisation, and long-term effects.
+ Track the funnel from acquisition through to offer performance and translate findings into concrete recommendations.
+ Build and maintain self-serve reporting for LiveOps and monetisation, enabling fast decision-making during live events and post-mortems.
+ Collaborate closely with designers, product owners, and developers to improve tracking, ensure clean KPI definitions, and communicate results in a way that drives action.
+ Qualifications 
+ Previous experience in the gaming industry is a must
+ 2+ years' experience in product or game analytics within Free-to-Play, with exposure to LiveOps and monetisation topics (events, offers, economy, segmentation).
+ Strong SQL skills, with the ability to write performant queries on large event datasets, validate tracking logic, and work comfortably with joins, window functions, and cohort/funnel analysis.
+ A solid grasp of applied statistics, including experiment design, significance, and bias pitfalls, with the judgement to balance speed with rigour in a fast-paced LiveOps environment.
+ Confidence in Microsoft Excel for rapid analysis and Power BI for clear, reliable dashboards, along with working familiarity with AI assistants and prior experience using Python analytically.
+ Strong understanding of core Free-to-Play concepts (conversion, payer lifecycle, LTV, price elasticity, cannibalisation), with a genuine interest in following the wider live games market.
+ Excellent communication skills, with the ability to present insights as clear decisions tailored to different audiences.
+ A self-driven, impact-focused approach, comfortable working to a cadence-driven LiveOps rhythm and always digging for the "so what?" behind the numbers.
+ Pay range and compensation package 
+ €55,000–€72,000 gross (seniority level assessed during interview)
+ Flexible, trust-based working hours, plus on-site perks such as table tennis, a gym, and a rooftop terrace.
+ Excellent training and development opportunities, including e-learning, hard and soft skills training, and industry conferences.
+ 28 days' holiday
+ Optional German lessons available.
+ Regular team socials (wine tasting, cooking, paintball), rooftop barbecues, and company-wide events.

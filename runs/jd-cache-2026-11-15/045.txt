@@ -1,0 +1,30 @@
+URL: https://www.linkedin.com/jobs/view/4446719845
+TITLE: Remote Data Annotation Jobs Berlin
+COMPANY: RemoExperts
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-13
+title: Remote Data Annotation Jobs Berlin
+company: RemoExperts
+posted: 1 day ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fremote-data-annotation-jobs-berlin-at-remoexperts-4446719845&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Remote Data Annotation Jobs Berlin — Full-Time (Remote)
+ Rex.zone connects you to remote data annotation and evaluation work supporting Berlin-based coverage. You will create, review, and quality-check training data for modern AI/ML systems across NLP, computer vision, and content safety workflows.
+ Key Responsibilities
+ Label and review text, image, audio, and video datasets using project-specific annotation guidelines
+ Execute QA evaluation routines (spot checks, error categorization, corrections) to maintain training data quality
+ Perform RLHF-style preference ranking, prompt evaluation, and rubric-based LLM evaluation
+ Complete NLP tasks such as classification, summarization scoring, and named entity recognition
+ Support computer vision annotation (bounding boxes, polygons, keypoints, attribute tagging)
+ Apply content safety labeling policies and flag sensitive or policy-relevant content
+ Document edge cases, propose guideline clarifications, and reduce annotation drift
+ Use labeling tools, hit throughput/quality targets, and communicate blockers in a remote setting
+ Qualifications
+ Mid-Senior experience in data annotation, data labeling, QA evaluation, or adjacent AI data operations
+ Strong attention to detail and written reasoning for ambiguous cases
+ Familiarity with RLHF, prompt evaluation, and LLM training pipelines preferred
+ Experience with annotation guidelines compliance and training data quality processes
+ How Rex.zone Fits
+ Apply through Rex.zone to be matched to remote projects aligned with your strengths and measurable quality standards.
+Note: “Berlin” is a search/location modifier; work is performed remotely.

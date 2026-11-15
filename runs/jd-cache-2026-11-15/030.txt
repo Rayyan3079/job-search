@@ -1,0 +1,46 @@
+URL: https://www.linkedin.com/jobs/view/4488691382
+TITLE: Intern Agentic AI Workflow Development & Validation for Digital Design (f/m/d)
+COMPANY: Cadence
+LOC: Feldkirchen, Bavaria, Germany
+POSTED: 2026-11-11
+title: Intern Agentic AI Workflow Development & Validation for Digital Design (f/m/d)
+company: Cadence
+posted: 3 days ago
+applicants: 88 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fintern-agentic-ai-workflow-development-validation-for-digital-design-f-m-d-at-cadence-4488691382&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology.
+ Cadence is a leader in electronic design, with more than 30 years of expertise in computational software. The company delivers software, hardware, and IP that turn design concepts into reality. Cadence customers are among the world’s most innovative companies, developing advanced electronic products across a wide range of industries.
+ At Cadence, we hire and develop innovators who want to make an impact on the world of technology.
+ About The Role
+ Leveraging the latest advancements in Agentic AI and Generative AI, you will work with a team of experienced Application Engineers to develop, test, and validate next-generation AI workflows for semiconductor design . These AI agents are intended to automate complex engineering tasks, accelerate design convergence, and significantly improve the productivity of semiconductor design teams.
+This internship offers hands-on experience with state-of-the-art Agentic AI workflows built on top of world-class EDA technologies used by leading semiconductor companies.
+ What You Will Do
+ Investigate the application of Generative AI and Agentic AI technologies in semiconductor digital implementation workflows
+ Design, implement, test, and validate AI-driven workflows that automate engineering tasks and improve design productivity
+ Collaborate with Application Engineers to evaluate AI agent performance on real customer design challenges
+ Develop benchmarks and validation methodologies to measure the effectiveness and productivity gains of AI-driven workflows
+ Job Qualifications
+ MSc/MEng student in Electrical Engineering, Computer Engineering, Computer Science, Artificial Intelligence, or Microelectronics
+ Knowledge of digital IC design methodologies and semiconductor design flows
+ Strong analytical, communication, and problem-solving skills
+ Excellent communication skills (fluent in English)
+ Skills
+ Additional Skills / Preferences: 
+ Experience with LLMs, Generative AI, AI agents, RAG workflows, or orchestration frameworks is a plus
+ Experience with Python programming and automation is highly desirable
+ Why Join Us?
+ Work on cutting-edge Agentic AI technologies at the intersection of Artificial Intelligence and semiconductor design
+ Collaborate with industry experts supporting Europe's leading semiconductor companies
+ Gain hands-on experience with real-world AI workflows and advanced EDA technologies
+ Influence the future of AI-powered engineering productivity solutions
+ Build experience that combines AI with semiconductor design expertise
+ Check What We Can Offer You
+ Fair internship compensation
+ Housing allowance for interns from abroad
+ Ticket for the public transport
+ Meal vouchers
+ 30 days annual leave
+ Working in a hybrid model in a modern office concept
+ Cadence is committed to equal employment opportunity and employment equity throughout all levels of the organization. We strive to attract a qualified and diverse candidate pool and encourage diversity and inclusion in the workplace.
+ We’re doing work that matters. Help us solve what others can’t.

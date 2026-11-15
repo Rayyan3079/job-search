@@ -1,0 +1,32 @@
+URL: https://www.linkedin.com/jobs/view/4489985232
+TITLE: Pflichtpraktikum / Thesis: KI-Unterstütztes Benchmarking von Bildverarbeitungslösungen
+COMPANY: SICK Sensor Intelligence
+LOC: Waldkirch, Baden-Württemberg, Germany
+POSTED: 2026-11-11
+title: Pflichtpraktikum / Thesis: KI-Unterstütztes Benchmarking von Bildverarbeitungslösungen
+company: SICK Sensor Intelligence
+posted: 3 days ago
+applicants: 29 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpflichtpraktikum-thesis-ki-unterst%25C3%25BCtztes-benchmarking-von-bildverarbeitungsl%25C3%25B6sungen-at-sick-sensor-intelligence-4489985232&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Sommersemester 2027 – befristet auf 3–6 Monate
+ Moderne Machine-Vision-Systeme erzeugen große Mengen an Bild- und Sensordaten, deren manuelle Auswertung zeitaufwändig und nur begrenzt skalierbar ist. Gleichzeitig steigen die Anforderungen an die Qualität, Robustheit und Nachvollziehbarkeit industrieller Bildverarbeitungslösungen. Künstliche Intelligenz bietet neue Möglichkeiten, Qualitätsabweichungen automatisiert zu erkennen, Daten effizient auszuwerten und Benchmarking-Prozesse zu unterstützen. Im Rahmen des Praktikums beziehungsweise der Abschlussarbeit entwickeln Sie ein Konzept zur KI-gestützten Qualitätssicherung und automatisierten Analyse von Machine-Vision-Systemen und setzen dieses prototypisch um.
+ Ihre Aufgaben
+ Sie analysieren bestehende Verfahren zur Qualitätssicherung in der industriellen Bildverarbeitung und untersuchen den Einsatz von KI zur automatisierten Auswertung großer Bilddatenbestände. 
+ Sie entwickeln Methoden zur Erkennung und Klassifikation von Qualitätsabweichungen, Fehlklassifikationen und Ausreißern in Bilddaten. 
+ Sie konzipieren und implementieren eine automatisierte Analyse- und Benchmarking-Pipeline für Machine-Vision-Systeme. 
+ Sie entwickeln Metriken zur Bewertung von Bildqualität, Erkennungsleistung und Systemrobustheit. 
+ Sie untersuchen den Einsatz von Large Language Models (LLMs) und AI-Agenten zur Interpretation, Aggregation und Dokumentation von Analyseergebnissen. 
+ Sie entwickeln Dashboards und automatisierte Reports zur Visualisierung von Qualitätskennzahlen und Benchmark-Ergebnissen. 
+ Sie vergleichen verschiedene Vision-Lösungen anhand realer Daten und identifizieren Verbesserungspotenziale hinsichtlich Genauigkeit, Stabilität und Performance. 
+ Sie dokumentieren und präsentieren Ihre Ergebnisse sowie daraus abgeleitete Handlungsempfehlungen. 
+ Ihr Profil
+ Studium der Informatik, Elektrotechnik, Data Science, Mathematik, Robotik oder eines vergleichbaren Studiengangs 
+ Gute Programmierkenntnisse in Python 
+ Grundkenntnisse in Machine Learning, Deep Learning und Computer Vision 
+ Interesse an industrieller Bildverarbeitung und automatisierter Qualitätssicherung 
+ Erste Erfahrungen mit PyTorch, TensorFlow oder vergleichbaren Frameworks von Vorteil 
+ Kenntnisse in Large Language Models (LLMs), Generative AI oder AI-Agenten von Vorteil 
+ Erfahrung in der Datenanalyse und -visualisierung sowie mit der Entwicklung von Dashboards von Vorteil 
+ Selbstständige und strukturierte Arbeitsweise, analytisches Denkvermögen und gute Englischkenntnisse 
+ Kontakt: Sarah Disch

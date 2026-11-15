@@ -1,0 +1,40 @@
+URL: https://www.linkedin.com/jobs/view/4490754485
+TITLE: Working Student Agentic AI solutions in Finance reporting (f/m/d)
+COMPANY: Uniper
+LOC: Düsseldorf, North Rhine-Westphalia, Germany
+POSTED: 2026-11-13
+title: Working Student Agentic AI solutions in Finance reporting (f/m/d)
+company: Uniper
+posted: 1 day ago
+applicants: 84 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-agentic-ai-solutions-in-finance-reporting-f-m-d-at-uniper-4490754485&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Our Finance Reporting Team is looking for YOU!
+Wir sind Uniper
+Als internationales Energieunternehmen setzt sich Uniper dafür ein, die Energie-Evolution aktiv voranzutreiben und die Versorgungssicherheit von heute und morgen zu gewährleisten. Wir sind davon überzeugt, unsere Ziele sowie nachhaltige Veränderungen nur mithilfe der individuellen Perspektiven, Denkweisen, Kompetenzen und Erfahrungen zu erreichen, die jeder einzelne Mitarbeitende im Team mitbringt. So können wir voneinander lernen und uns gemeinsam weiterentwickeln, um messbare Ziele zu erreichen. Vielfalt und Inklusion werden bei Uniper großgeschrieben und als integraler Bestandteil der Unternehmenskultur aktiv gelebt. Chancengleichheit und ein Arbeitsumfeld, in dem sich alle gleichermaßen wertgeschätzt und respektiert fühlen, sind für uns zentrale Faktoren für Innovation, Kreativität und um die Potenziale der Mitarbeitenden bestmöglich zu fördern. Ob an den operativen Standorten von Uniper, im Büro oder Homeoffice – unabhängig vom Arbeitsplatz ist unser Team über das gemeinsam entwickelte Verständnis unserer Unternehmenskultur, den „Uniper Way“, stets miteinander verbunden. Begleite auch Du uns auf dem Weg in eine dekarbonisierte Energiezukunft. Energy evolution starts with U!
+Deine Aufgaben
+ Develop and implement AI agents for practical use cases within Finance Reporting.
+ Integrate AI-orchestrated workflows into existing financial reporting and closing processes.
+ Combine AI technologies with Python, SQL, Snowflake and analytical tools to build scalable and reliable solutions.
+ Develop, test and continuously improve AI-driven solutions based on real business requirements and user feedback.
+ Accelerate financial closing and reporting processes through intelligent automation.
+ Identify and flag data quality issues by applying AI-supported analysis and automated controls.
+ Automate repetitive and manual reporting activities, freeing up capacity for higher-value analytical work.
+ Work closely with Finance Reporting colleagues and other stakeholders to translate business challenges into practical AI solutions.
+ Support the team with tasks related to statistical reporting.
+ Dein Profil
+ Snowflake experience, especially Snowflake Cortex, Cortex Agents, Snowflake CoWork or semantic models
+ Power BI (Semantic models, relational databases, dataflows and dashboarding) and Microsoft 365 experience (MS Excel, Powerquery)
+ Data analysis with pandas, NumPy, matplotlib
+ Understanding of data pipelines, ETL/ELT and data modelling
+ You are studying for a Bachelor’s or Master’s degree in Computer Science, Business Informatics, Data Science, Mathematics, Finance, Accounting, Business Administration or a comparable field.
+ You have a strong interest in AI agents, agentic AI and AI-orchestrated workflows and are keen to apply these technologies to real-world Finance and Reporting use cases.
+ You have hands-on experience with or a strong interest in technologies such as Microsoft Copilot Studio, Copilot Agents and Snowflake Cortex Agents, and you are curious to explore new AI tools and approaches.
+ You have a good working knowledge of Python and SQL and are able to understand, review and adapt code rather than relying solely on AI-generated solutions.
+ You have a basic understanding of LLMs, agent orchestration, RAG/grounding and data-driven AI solutions; experience with Snowflake, Power BI, Git, data modelling or ETL/ELT pipelines is an advantage.
+ You bring a growth mindset with openness to new technologies and a willingness to continuously develop relevant skills and capabilities.
+ You enjoy experimenting, prototyping, testing and iteratively improving AI solutions, including evaluating the quality and reliability of AI-generated outputs.
+ You combine analytical thinking with a good understanding of business processes and can translate business requirements into technical, data-driven and AI-supported solutions while identifying opportunities for automation.
+ You have good stakeholder and process management skills, communicate confidently across business and technical teams, and enjoy collaborating in diverse settings.
+ You are proactive, curious and self-driven, take a high level of personal responsibility and bring flexibility, resilience and a good sense of humor to the team.
+ You have excellent communication skills in English; German is a plus. You are comfortable expressing and defending your point of view constructively and are available for at least 12 months, ideally longer.

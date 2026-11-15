@@ -1,0 +1,45 @@
+URL: https://www.linkedin.com/jobs/view/4490583986
+TITLE: Data Engineer inom Data & AI
+COMPANY: Saab
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-13
+title: Data Engineer inom Data & AI
+company: Saab
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fse.linkedin.com%2Fjobs%2Fview%2Fdata-engineer-inom-data-ai-at-saab-4490583986&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Drivs du av att se dina idéer bli verklighet? Välkommen till vår spännande och teknikintensiva värld.
+ Vi söker en Data Engineer som vill vara med och bygga framtidens dataplattformar och skapa förutsättningar för datadrivna beslut, avancerad analys och AI. Här får du utveckla moderna datalösningar och bidra till hur vi använder data för att skapa värde och driva utvecklingen framåt inom Saab.
+ Din roll
+ Som Data Engineer blir du en del av vårt Enterprise Data & Analytics-team, där du tillsammans med dataingenjörer, BI-utvecklare, data scientists och verksamhetsexperter utvecklar och vidareutvecklar vår gemensamma dataplattform.
+Du får en central roll i att skapa skalbara och tillförlitliga dataflöden som möjliggör rapportering, analys, automatisering och framtida AI-lösningar. Arbetet sträcker sig från integration av olika verksamhetssystem till utveckling av datamodeller och återanvändbara dataprodukter.
+Dina huvudsakliga ansvarsområden:
+ Utveckla, bygga och underhålla datapipelines och integrationer mellan olika system
+ Utveckla datamodeller och återanvändbara dataprodukter för olika verksamhetsområden
+ Arbeta med SQL, Python och moderna tekniker för databehandling
+ Bidra till utvecklingen av vår dataplattform med fokus på Microsoft Fabric och Azure
+ Samarbeta med verksamheten för att omsätta behov till hållbara tekniska lösningar
+ Skapa förutsättningar för avancerad analys, automatisering och AI-baserade lösningar
+ Du får möjlighet att påverka både tekniska lösningar och arbetssätt i en verksamhet där data får en allt viktigare roll.
+ Din profil
+ Vi söker dig som har erfarenhet av Data Engineering och som trivs med att kombinera teknisk problemlösning med verksamhetsförståelse. Du är nyfiken, analytisk och tycker om att samarbeta med andra för att skapa lösningar som gör verklig nytta.
+Vi tror att du har erfarenhet av flera av följande områden:
+ Data Engineering och utveckling av datapipelines
+ SQL, databasutveckling och datamodellering
+ ETL/ELT-processer och Data Warehousing
+ Python eller liknande programmeringsspråk
+ API-integrationer och arbete med olika datakällor
+ Molnbaserade dataplattformar
+ Det är meriterande om du har erfarenhet av:
+ Microsoft Fabric, Azure Data Services eller Power BI
+ Utveckling av dataprodukter och moderna dataarkitekturer
+ Integrationer mot affärssystem som IFS eller SAP
+ Dataanalys, Business Intelligence eller AI-baserade lösningar
+ Som person är du lösningsorienterad och strukturerad med en vilja att utvecklas och lära dig nya tekniker. Du har lätt för att samarbeta och kan omsätta komplexa behov till konkreta tekniska lösningar.
+ Befattningen kräver att du genomgår och godkänns enligt vid var tid gällande bestämmelser för säkerhetsskydd. För befattningar där Saab har krav på säkerhetsklassinplacering kan, i förekommande fall, medföra krav på visst medborgarskap.
+ Vad du blir en del av
+ Upptäck oändliga möjligheter. Anta utmaningar, skapa smarta innovationer och uppgradera dina förmågor. Det här är en plats för kluriga tänkare, modiga pionjärer och alla däremellan. Tillsammans uppnår vi det extraordinära, var och en tar med sitt unika perspektiv. Varje bidrag räknas.
+Saab är ett ledande försvars- och säkerhetsföretag med uppdrag att hjälpa nationer att skydda sin befolkning och bidrar till trygghet för människor och samhällen. Med över 31,000 talangfulla medarbetare utvecklar Saab teknik och lösningar för en säkrare och mer hållbar värld.
+Saab utvecklar, tillverkar och underhåller avancerade system inom flygteknik, vapen, ledningssystem, sensorer och undervattenssystem. Saab har sitt huvudkontor i Sverige men en global verksamhet där Saab är en del av många nationers försvarsförmåga. Läs mer om oss här
+Om du är intresserad av vilka förmåner som du kan ta del av som anställd på Saab i Sverige, kan du läsa om dem här

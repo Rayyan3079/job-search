@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Working Student – Data & AI",
+    "company": "Black Semiconductor",
+    "city": "Aachen",
+    "greeting": "Dear Black Semiconductor Data & AI team,",
+    "opening": "I am applying for the Working Student position in Data & AI. Testing data and ML platforms, building knowledge graphs and working with LLM tools are all things I have done in projects, and I would like to bring them to a deep-tech company.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence. Before my Master's I built data pipelines and data models on SAP platforms at TallyMarks Consulting.",
+    "achievements": [
+      {
+        "lead": "Knowledge graphs",
+        "impact": "in a team project I extracted subject-relation-object triples from text into a knowledge graph and compared graph-based and language-model embeddings"
+      },
+      {
+        "lead": "LLM tools",
+        "impact": "I built DocuMind, a RAG application with the Claude API that answered 91% of a 22-question test set correctly, with tests, CI and clear documentation"
+      },
+      {
+        "lead": "Data pipelines",
+        "impact": "I designed SAP Datasphere data pipelines and validated data with SQL during a 42-dashboard migration"
+      }
+    ],
+    "problems_section": "I would help set up and test platforms, structure ontologies, configure LLM tools, prepare data and document my work so others can reuse it. I have not configured agentic platforms yet, and I would learn them with your mentor.",
+    "closing": "I am willing to relocate to Aachen and can work up to 20 hours per week, starting immediately. I would be glad to discuss the role.",
+    "date": "2026-11-15",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-11-15/black-semiconductor-working-student-data-ai/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

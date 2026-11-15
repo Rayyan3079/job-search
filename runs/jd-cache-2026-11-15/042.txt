@@ -1,0 +1,50 @@
+URL: https://www.linkedin.com/jobs/view/4433138370
+TITLE: Data Analyst Expérimenté (H/F)
+COMPANY: EY
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-12
+title: Data Analyst Expérimenté (H/F)
+company: EY
+posted: 2 days ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fjobs%2Fview%2Fdata-analyst-exp%25C3%25A9riment%25C3%25A9-h-f-at-ey-4433138370&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Chez EY, nous sommes « All in » pour façonner votre avenir en toute confiance. Ensemble, nous orienterons votre carrière selon vos aspirations. Rejoignez EY et contribuez à construire un monde meilleur.
+ Notre opportunité :
+EY IA & Data en France c’est :
+ Une équipe de plus de 130 consultants data, aux profils très divers, permettant de couvrir l’ensemble des problématiques et de s’enrichir mutuellement
+ Un Lab d'une surface de 600m² dédiée à l'innovation autour de la Data;
+ Le leader mondial du conseil en innovation et en supply chain (rapport Forresters);
+ Une équipe expérimentée, gage d’excellence pour encadrer les projets et vous faire grandir
+ Des projets d’une grande diversité, auprès des plus grands clients nationaux et internationaux 
+ Nous recrutons un Data Analyst (F/H).
+ Vous rejoindrez une équipe dynamique, enthousiaste et multiculturelle et vous aurez l'occasion d'intervenir sur des projets transformatifs et innovants.
+ Vos principales missions :
+ Au sein de nos équipes, vos missions vous amèneront à :
+ Concevoir, implémenter et développer des solutions de reporting, d'analyse de données ou de visualisations de données (Power BI, Tableau…)
+ Préparer les données (contrôle de qualité, de cohérence, transformations…), aider à construire un prototype pour ensuite interpréter les données et analyser les résultats
+ Rencontrer les parties prenantes de l'entreprise pour recenser les besoins et définir les exigences métiers.
+ Se synchroniser avec les intervenants techniques pour examiner le code et anticiper les points de difficultés
+ Vos compétences pour réussir :
+ Vous êtes diplômé(e) d’une école d’ingénieurs ou d’une université, avec une formation en analyse statistique ou décisionnelle.
+ Vous maîtrisez SQL, R ou Python.
+ Vous maîtrisez des outils de Data Visualisation, tels que Power BI, Tableau, Spotfire, QlikView ou Qlik Sense.
+ Une connaissance d’Azure et des technologies Microsoft constitue un réel plus, notamment Azure SQL, SQL Server, SSIS et SSAS.
+ Vous disposez d’une expertise technique en modélisation de données, conception et développement de bases de données, exploration de données et segmentation.
+ Vous possédez de solides capacités en analyse et manipulation de données. 
+ Ce que nous recherchons :
+ Vous êtes orienté(e) client et business et savez ne pas vous focaliser uniquement sur les aspects techniques.
+ Vous faites preuve de curiosité, disposez d’une bonne culture technologique et avez un intérêt pour le développement de solutions de traitement de données.
+ Vous faites preuve d’ouverture d’esprit et savez collaborer avec de multiples interlocuteurs.
+ Vous disposez d’un bon esprit d’analyse et de synthèse, faites preuve de rigueur et êtes orienté(e) résultats.
+ Vous possédez de bonnes capacités de communication écrite et orale avec les métiers.
+ Ce que nous vous offrons :
+ Le développement de vos compétences et des expériences uniques au sein d’un environnement de travail diversifié et inclusif.
+ Un environnement de travail flexible #Smartworking@EY
+ L’opportunité de découvrir d’autres cultures en travaillant au contact d’équipes connectées à l’échelle mondiale et grâce à nos programmes de mobilité à l’international #Mobility4U.
+ Un package complet : un bonus discrétionnaire annuel, une prime de participation, des RTT, une mutuelle avantageuse, une carte titre-restaurant, le remboursement de votre abonnement de transports en commun à hauteur de 75% ou une aide financière pour l’achat d’un vélo.
+ De nombreux autres avantages : des primes de cooptation, un abonnement sportif Wellpass à tarif préférentiel, l’entrée gratuite aux musées du Louvre et Eugène-Delacroix, un accès privilégié à l’Opéra de Paris…
+ Êtes-vous prêt(e) à façonner votre avenir avec confiance ? Postulez dès aujourd'hui.
+ Processus de recrutement : le processus est généralement composé de trois entretiens (RH, opérationnel, Partner). Ils permettent d’échanger sur votre parcours, d’évaluer vos compétences techniques, managériales et commerciales, et de répondre à vos questions.
+ Dans le cadre de sa politique Inclusion, EY étudie, à compétences égales, toutes candidatures dont celles de personnes en situation de handicap.
+ EY s'engage à créer de la valeur pour ses clients, ses collaborateurs, la société et la planète, tout en renforçant la confiance dans les marchés financiers. Grâce à la data, à l'intelligence artificielle et aux technologies avancées, les équipes aident les clients à façonner l'avenir avec confiance et à développer des solutions pour les enjeux d’aujourd'hui et de demain. Les équipes EY

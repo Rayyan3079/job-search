@@ -1,0 +1,50 @@
+URL: https://www.linkedin.com/jobs/view/4490739651
+TITLE: Data Analyst
+COMPANY: TransferGo
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-13
+title: Data Analyst
+company: TransferGo
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fpl.linkedin.com%2Fjobs%2Fview%2Fdata-analyst-at-transfergo-4490739651&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+TransferGo is a growing fintech scale-up on a mission to champion financial freedom with care. We strive to provide tailored, more affordable financial services that make people's hard-earned money go further. Now in our 14th year, with close to 400 employees in offices across Europe and the UK, we’re crafting a brilliant, relevant product that makes a difference in people's lives and the well-being of their families.
+We’ve come this far by building a talented, diverse workforce on a fair culture and our strong values. Having this strong team of employees, we can serve those who really need our product to make their lives better.
+Data team builds and runs TransferGo's data platform and supports business domains with analytics. Analysts work directly with their domains and turn data into pricing and growth decisions.
+Your analysis directly shapes pricing and growth decisions in a remittance business operating across many corridors. You work on a modern data platform, close to decision makers, with real ownership of your domain.
+ Here’s what you’ll be doing as Data Analyst:
+ Extract and prepare data from the data warehouse and internal systems using SQL
+ Analyse pricing and growth performance and turn findings into clear business recommendations
+ Design, run and evaluate experiments (e.g. A/B tests of price changes and growth initiatives)
+ Build and maintain dashboards and recurring reports for Pricing and Growth
+ Monitor competitor pricing and market data
+ Work with Data Engineers on metric definitions and the quality of data sets
+ Use AI tools to speed up analysis and automate repetitive work
+ You’ll report to our Head of Data.
+ Here’s what we’d love from our new Data Analyst:
+ 2–4 years of experience as a Data Analyst, working closely with business teams
+ Strong SQL skills
+ Experience with at least one BI tool (Tableau, Looker, Power BI or similar)
+ Good grasp of statistics and experiment design: you can plan an A/B test, read its results and tell a real effect from noise
+ Ability to turn a vague business question into a clear analysis and explain the findings to non-technical people
+ Hands-on use of AI in daily work, e.g. writing and checking SQL with AI assistants, automating recurring reports, speeding up exploratory analysis
+ Fluent English, written and spoken
+ And if you can also do this stuff, even better: 
+ Python for data analysis
+ Web scraping (e.g. collecting competitor or market data)
+ Experience in fintech
+ Experience in pricing
+ Experience with data modelling tools such as dbt
+ What We Believe
+ At TransferGo , we offer competitive rewards to all people. We know that recognition is about more than just money, and we’ve fostered a culture of kudos to shine a light on the great work throughout the business, and the people making it all happen. We hold regular in person events to connect with each other and help all our TransferNauts to grow with a generous training allowance. We believe that empowering people makes for a happier and more effective workforce. This means we enable anyone who wants to pursue initiatives that deliver real value for our migrant customers.
+ What we offer:
+ Competitive Salary: Starting from 12,060 - 15,070 PLN (gross) per month, depending on experience; Salary is just one part of the conversation – if you’re excited about the role but the range feels slightly off, don’t hesitate to apply. We’re open to discussing based on your experience and potential.
+ Comprehensive Benefits: Including a generous holiday allowance, competitive healthcare insurance, and a wellbeing package from day one.
+ Annual Development Budget: €1,000 to invest in your personal and professional growth.
+ Hybrid Working Environment: Flexibility to work from home and in the office, with most team members in the office two days a week.
+ Pet-Friendly Office: If you’re near one of our offices, bring your furry friend along!
+ Inclusive Culture: Regular in-person events, fostering a strong sense of community and collaboration.
+ Empowerment and Ownership: We believe in empowering our people to take initiative and drive meaningful change.
+ At TransferGo, we are committed to the equal treatment of all current and prospective employees. We will not tolerate discrimination on the basis of age, disability, sex, sexual orientation, pregnancy and maternity, race or ethnicity, religion or belief, gender identity, marriage, civil partnership or any other protected category. We are proud of our diverse and inclusive culture and we strongly encourage suitably qualified applicants from a wide range of backgrounds to apply and join TransferGo. We look forward to meeting you! 
+ Please note that all data collected will be handled in accordance with our candidates privacy policy (https://www.transfergo.com/privacy-policy/overview) and will only be used for the purpose of evaluating your candidacy. The data will be securely stored and deleted according to retention timeframe set in the candidates privacy policy. If you have any questions or concerns regarding this, please feel free to reach out by replying or via dpo@transfergo. com

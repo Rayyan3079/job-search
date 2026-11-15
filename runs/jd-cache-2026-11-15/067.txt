@@ -1,0 +1,42 @@
+URL: https://www.linkedin.com/jobs/view/4489348887
+TITLE: Trainee Data Consultant
+COMPANY: sikwel GmbH
+LOC: Oldenburg, Lower Saxony, Germany
+POSTED: 2026-11-14
+title: Trainee Data Consultant
+company: sikwel GmbH
+posted: 7 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+Deine Aufgaben 
+ Hohe Motivation fürs Thema Data Analytics aber noch keine Idee für den Einstieg? 
+ Wir hätten eine Lösung: In unserem Traineeprogramm zum Data Consultant durchläufst du alle Stufen vom Einsteiger bis zum Data Expert. Du lernst an der Seite erfahrener Kollegen, wie du Rohdaten in echte Erkenntnisse verwandelst und auch komplexeste Datenmodelle verständlich visualisierst.
+ Warum gibt es diese Stelle? Wir sehen in unserer Branche eine besondere Herausforderung: Viele unserer Kunden haben bisher noch keine Vorstellung davon, wie sie ihre gesammelten Daten aktivieren können – denn sicher: Visualisierungen und Dashboards sind wichtig, um mehr Transparenz in die eigenen KPIs und Kennzahlen zu bekommen, sie sind aber lediglich der erste Schritt. Es ist deine Aufgabe, in enger Zusammenarbeit mit unseren Kunden originelle Use Cases zu entwickeln, die sie effektiv in ihren Geschäftsprozessen unterstützen. 
+ Entsprechend ist dein Job vielfältig: Du erarbeitest in Workshops die technischen Anforderungen der Datenlösung, transformierst Rohdaten aus verschiedenen Systemen zu echten Informationen und erstellst Reports, bei denen keine Fragen offen bleiben. Und all das so, dass die Zahlen und Fakten am Ende verlässlich und korrekt sind – nach unseren internen Best Practices. 
+ Ein Auszug aus deinem zukünftigen Alltag:
+ Du arbeitest in funktionsübergreifenden Teams – gemeinsam mit Data Engineers, Data Analysts und Business People, von uns und unseren Kunden
+ In unterschiedlichen Workshopformaten entwickelst du passende Datenlösungen entlang verschiedenster Herausforderungen unserer Kunden
+ Du nutzt unsere internen Best-Practices, um verlässliche und hochqualitative ELT-Pipelines aufzubauen
+ Du verwandelst ungeordnete Rohdaten mit Hilfe moderner Tools wie dbt in transformierte, anwendbare Strukturen
+ Du setzt auf einen pragmatischen Ansatz, um Visualisierungen und Dashboards zu erstellen, die es jedem ermögliche, echte Erkenntnisse aus den Daten zu ziehen
+ Du hast jeden Tag ein Team hinter dir, welches dich bei allen noch so komplexen Herausforderungen entlang deiner Projekte unterstützt
+ Dein Profil 
+ Du hast also Interesse am “hottest new tech job"? Wir suchen nach einer aufgeschlossenen Persönlichkeit, die Lust darauf hat, das Wachstum unseres jungen Unternehmens aktiv mitzugestalten. Mit Neugier und Offenheit für neue Themen, Spaß an der Arbeit mit Zahlen und einem analytischen Mindset bist du die Person, die zu uns passt.
+ Perfekt wird es, wenn du auch folgende Punkte mitbringst…
+ Das Wichtigste: Du brennst für das Thema „Daten“ und möchtest Tag für Tag in einem aufgeschlossenen Team neue Dinge dazulernen
+ Du hast möglicherweise bereits erste hands-on Expertise in der Anwendung eines Business Intelligence-Tools wie z.B. Power BI, Tableau, Qlik und und und gesammelt…
+ Idealerweise hast du bereits erste Erfahrung in der Erhebung analytischer Anforderungen gesammelt und weißt, wie man die richtigen Fragen stellt
+ Möglicherweise hast du auch schon kleinere Projekte in deinem vorherigen Job gemanaged und fühlst dich bereit, auch Data Analytics-Projekte eigenverantwortlich zu leiten
+ Wenn du bereits erste Erfahrungen mit unserem Tech-Stack gesammelt hast - umso besser. Falls nicht helfen wir dir bei der Einarbeitung
+ Vielleicht hast du sogar bereits Grundkenntnisse in SQL, Python oder einer anderen Programmiersprache. Falls nicht, solltest du zumindest keine Angst davor haben, die dieses Wissen anzueignen – wir helfen dir dabei!
+ Du hast fließende Deutschkenntnisse (mindestens C2-Niveau)
+ Warum wir? 
+ Aktuell sind wir 10 Mitarbeiter*innen. Bedeutet, dass du früh an Board bist und die Gelegenheit bekommst, aktiv an der Gestaltung unseres Wachstums teilzunehmen. Was wir dir noch bieten? 
+ Du wirst fester Bestandteil eines super motivierten Teams im Herzen von Oldenburg
+ Frisches Obst und Getränkeflat sind cool, besser sind ein attraktives Gehalt mit echten Aufstiegschancen. Wir bieten dir beides!
+ Flexible Arbeitszeiten und die Möglichkeit zum Homeoffice sind fester Bestandteil unserer Unternehmenskultur
+ Wir freuen uns darauf, dich bei unseren regelmäßigen Workations genauso wie bei unseren Bürofeiern dabei zu haben
+ Wir statten dich mit vollem Equipment aus - für Büro und zu Hause. Neues MacBook, moderne Monitore und alle Tools, die du benötigst
+ Wir lieben es, uns nach langen Bürotagen auszupowern. Du auch? Deine Mitgliedschaft im Fitnessstudio geht auf uns
+ Wir planen ein festes Budget für deine persönliche Weiterentwicklung ein. Du bestimmst, wo du dich verbessern möchtest - und wir unterstützen dich dabei

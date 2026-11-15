@@ -1,0 +1,48 @@
+URL: https://www.linkedin.com/jobs/view/4490586897
+TITLE: Praktikant (m/w/d) Data & AI
+COMPANY: FTI Consulting
+LOC: Düsseldorf, North Rhine-Westphalia, Germany
+POSTED: 2026-11-13
+title: Praktikant (m/w/d) Data & AI
+company: FTI Consulting
+posted: 1 day ago
+applicants: 31 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikant-m-w-d-data-ai-at-fti-consulting-4490586897&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Wer wir sind
+ FTI Consulting, Inc. ist die weltweit führende Beratung für Unternehmen in Krisen und Transformationen. Wir arbeiten eng mit weltweit führenden Unternehmen, renommierten Anwaltskanzleien und Private-Equity-Firmen zusammen, wenn sie vor ihren größten Herausforderungen und Chancen stehen. Gemeinsam erzielen wir Ergebnisse, die einen Unterschied machen. Von der Beilegung von Streitigkeiten über die Bewältigung von Krisen bis hin zum Risikomanagement und zur Leistungsoptimierung reagieren unsere Teams schnell auf dynamische und komplexe Situationen.
+Bei FTI Consulting arbeitest du Seite an Seite mit Expertinnen und Experten, die auf ihrem jeweiligen Fachgebiet führend sind, an Projekten, die die Schlagzeilen von morgen beeinflussen. Vom ersten Tag an bist du Teil eines Teams, das Innovation und Fortschritt vorantreibt. Bei uns arbeitest du an Projekten, die wirklich etwas bewegen und einen bleibenden Eindruck hinterlassen.
+Sei du selbst! Es erwartet dich eine offene, kollaborative Unternehmenskultur, in der Vielfalt, Anerkennung und deine berufliche Weiterentwicklung im Mittelpunkt stehen.
+Bist du bereit, etwas zu bewirken?
+ Über FTI-Andersch
+ FTI-Andersch ist die führende Beratung im Bereich Turnaround in Deutschland und Teil der internationalen FTI Consulting Gruppe. Wir sind spezialisiert auf die nachhaltige Bewältigung schwierigster Unternehmenssituationen und die Umsetzung komplexer Transformationsprozesse. Beratend stehen wir Unternehmen bei grundlegenden Analysen und weitreichenden Entscheidungen im strategischen, operativen und finanziellen Bereich zur Seite und sorgen für deren konsequente Umsetzung.
+ Dein Aufgabenbereich
+ Unterstützung unserer Projektteams bei der Optimierung und Automatisierung von Planungsprozessen
+ Mitarbeit im Rahmen interner Initiativen im Bereich der Integration und Optimierung von KI- und Automatisierungs-Tools
+ Mitwirkung bei der Erstellung von finanz- und leistungswirtschaftlichen Kennzahlen-Analysen
+ Einbringen deiner Expertise zu verschiedenen Tools und Anwendungen
+ Dein Profil
+ Studium: Wirtschaftswissenschaften, Mathematik, (Wirtschafts-)Informatik oder (Wirtschafts-)Ingenieurwesen (mindestens 3 abgeschlossene Semester) mit sehr guten akademischen Leistungen
+ Sicherer Umgang mit Python/SQL sowie Grundlagenwissen im Bereich Data Science/Engineering
+ Erste praktische Erfahrungen mit der MS-Power-Plattform (PowerQuery, PowerBI, Fabric) sowie Kenntnisse im Arbeiten mit Cloud-basierten Systemen sind von Vorteil
+ Grundlagenkenntnisse betriebs- und finanzwirtschaftlicher Sachverhalte (bspw. Financial Statements, Working Capital, Liquidität)
+ Sichere Beherrschung der MS-Office-Anwendungen sowie fließende Deutsch- und sehr gute Englischkenntnisse in Wort und Schrift
+ Selbstständige Arbeitsweise, hohe Motivation und Einsatzbereitschaft sowie hervorragende Kommunikationsfähigkeit
+ Idealerweise eine Verfügbarkeit von mindestens 10 Wochen
+ Unser Angebot
+ Successful start: Erlebe einen gelungenen Start in die FTI-Andersch-Welt mit unserem umfassenden Onboarding. Lerne FTI an den ersten beiden Arbeitstagen gemeinsam mit weiteren NeueinsteigerInnen in Frankfurt kennen.
+ Culture and Belonging: Werde Teil des einzigartigen Teamspirits und unserer kollegialen Unternehmenskultur. Erfolge feiern wir gemeinsam auf abwechslungsreichen Teamevents und kommen bei regelmäßigen After-Work-Drinks und -Dinners zusammen.
+ Unfold your potential: Ab dem ersten Tag bist du als WerkstudentIn ein vollwertiges Projektmitglied und übernimmst Verantwortung für deine Aufgaben. Du arbeitest an abwechslungsreichen Projekten mit und erlebst eine steile Lernkurve. FTI-Andersch bietet dir individuelle und persönliche Entwicklungs- und Karrieremöglichkeiten und das bereits in der studentischen Mitarbeit.
+ Learning & Development - outside the box: Erweitere deinen Horizont durch individuelles Mentoring. In regelmäßigen Feedbackgesprächen unterstützen wir dich bei deiner fachlichen und persönlichen Weiterentwicklung. Du erhältst umfangreiche Einblicke in unser Beratungsgeschäft und lernst den Consulting-Alltag kennen.
+ Top Compensation: Die Vergütung deiner Leistungen liegt auf Top-Niveau. Uns ist wichtig, deinen Einsatz bereits in der studentischen Mitarbeit mit einer überdurchschnittlichen Vergütung zu honorieren und dich damit beim Absolvieren deines Studiums zu unterstützen.
+ Let’s connect: Neben verschiedenen Teamevents laden wir dich zu unseren Netzwerktreffen sowie den wöchentlichen Connect@FTI-Andersch Lunches mit anderen Studierenden ein.
+ Set the foundation: Du setzt den Grundstein für eine langfristige Karriere in der führenden Turnaround- und Transformationsberatung und kannst wertvolle Kontakte knüpfen.
+ Perspectives: Bei exzellenten Leistungen hast du nach Ende deiner Tätigkeit die Möglichkeit, Teil unseres Talentprogramms Inside@FTI-Andersch zu werden und von exklusiven Benefits zu profitieren, unter anderem einem Angebot für den Festeinstieg.
+ Flexibility and Mobility: Wähle zwischen unseren Standorten Frankfurt am Main, Düsseldorf, Hamburg oder München.
+ Deine Bewerbung
+ Bitte lade zusätzlich zu deinem CV deine vollständigen Zeugnisse (Abiturzeugnis, universitäre Leistungsnachweise sowie Arbeitszeugnisse), ein Anschreiben und weitere relevante Unterlagen im Bereich CV/Resume hoch.
+Solltest du dich auf mehrere Stellen bewerben, ist wichtig, dass du bei der Bewerbung deine Präferenz angibst und im Motivationsschreiben deutlich herausstellst, warum dein Profil auf mehrere Stellen passt. Generell prüfen wir immer, ob eine Bewerbung auch für andere Bereiche bei FTI-Andersch von Interesse sein könnte.
+ Du hast vorab noch Fragen?
+ In unseren FAQs findest du Antworten auf häufig gestellte Fragen rund um deine Bewerbung und die Zusammenarbeit als Student. Falls etwas unbeantwortet bleibt, sind wir natürlich gerne für dich da.
+Dein Kontakt: Leoni Juschkat, Telefon: +49 69 2722995 523.
+ FTI Consulting setzt als Arbeitgeber auf Chancengleichheit und wendet sich gegen jegliche Diskriminierung aufgrund von ethnischer Zugehörigkeit, Hautfarbe, nationaler Herkunft, Abstammung, Staatsangehörigkeit, aufgrund eines geschützten Veteranenstatus, aufgrund von Religion, körperlicher oder geistiger Behinderung, Geschlecht, sexueller Orientierung, Geschlechtsidentität oder aufgrund des Ausdrucks der Geschlechtlichkeit, von Alter oder von anderen durch Gesetze, Verordnungen oder Verfügungen besonders geschützten Merkmalen.

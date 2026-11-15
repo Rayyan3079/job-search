@@ -1,0 +1,68 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudentin-E-Systemintegration-fuer-Data-Engineering-und-Analytics-Sindelfingen-Mercedes-Benz-AG--14752250-inline.html
+TITLE: Werkstudent*in E-Systemintegration für Data Engineering und Analytics
+COMPANY: Mercedes-Benz AG
+LOC: Sindelfingen
+POSTED: stepstone
+title: Werkstudent*in E-Systemintegration für Data Engineering und Analytics
+company: Mercedes-Benz AG
+posted: 2026-11-13T21:05:53.063Z
+location: Sindelfingen | remote: 
+---
+Life is always about becoming… Im Leben geht es darum, sich auf eine Reise zu begeben, um die beste Version unseres zukünftigen Selbst zu werden. Während wir Neues entdecken, stellen wir uns Herausforderungen, meistern sie und wachsen über uns hinaus.
+Bewerben Sie sich bei Mercedes-Benz und finden Sie den Aufgabenbereich, in dem Sie Ihre Talente individuell entfalten können. Dabei werden Sie von visionären Kolleginnen und Kollegen unterstützt, die Ihren Pioniergeist teilen. Bei uns einzusteigen bedeutet, Teil eines globalen Teams zu werden, dessen Ziel es ist, die begehrenswertesten Automobile der Welt zu bauen. Together for excellence.
+Stellennummer: MER0004AI2
+ Aufgaben
+ Wir im Team MB.OS-Integration, HW/SW/Car-Package-Management & E/E-Planung (E/E – Elektrik/Elektronik) verantworten die E/E-Releaseplanung, das E/E-Releasemanagement, die Methodik FiFA@EE, die präventive Prüfung der Codierdatendokumentation (FiFA4QNT) sowie den Gesamt-FROP. Zudem stellen wir die konsistente Dokumentation zwischen verschiedenen IT-Systemen sicher und schaffen damit die Grundlage für nachgelagerte Release-Rollout-Prozesse wie Over-the-Air-Updates (OTA), die Software-Tankstelle und die Fahrzeuginbetriebnahme in der Prototypenproduktion. Zur Analyse und Visualisierung der Daten nutzen wir Power-BI-Dashboards, deren Datenpipeline auf Python, PySpark und Azure Databricks basiert. Für diesen spannenden und zukunftsorientierten Aufgabenbereich suchen wir Dich als Praktikant*in.
+ Deine Aufgaben im Einzelnen:
+ Entwicklung und Weiterentwicklung von Power-BI-Dashboards zur Analyse und präventiven Prüfung von Hardware- und Codierdatendokumentationen
+ Nutzung von Python, PySpark und SQL zur Datenaufbereitung, Analyse und Automatisierung von Prozessen
+ Aufnahme, Analyse und Abstimmung fachlicher Anforderungen in enger Zusammenarbeit mit den Fachbereichen
+ Umsetzung technischer Lösungen gemeinsam mit teaminternen und teamübergreifenden Entwicklungspartner*innen
+ Optimierung, Pflege und Weiterentwicklung bestehender Datenmodelle, Dashboards und Berechnungslogiken
+ Dokumentation von Dashboards, Datenmodellen und Datenverarbeitungsprozessen sowie Sicherstellung der Datenqualität und Datenintegrität
+ Das bieten wir Dir:
+ Ein offenes und motiviertes Team mit enger Einbindung in aktuelle Projekte
+ Die Möglichkeit, eigene Ideen einzubringen und aktiv an der Umsetzung neuer Anforderungen mitzuwirken
+ Ein modernes Arbeitsumfeld mit aktuellen Technologien wie Azure Databricks, Power BI, Python und GitLab
+ Eigenverantwortliche Aufgaben mit fachlichem Gestaltungsspielraum
+ Wertvolle Einblicke in die Entwicklung und Absicherung softwarebasierter Fahrzeugfunktionen im MB.OS-Umfeld
+ Die Tätigkeit kann ab Februar 2027 beginnen.
+ Qualifikationen
+ Studiengang im Bereich (Wirtschafts-)Informatik, IT- und Informationsmanagement, Elektro- und Informationstechnik, Data Science, Statistik, Mathematik oder ein vergleichbarer Studiengang
+ Praktische Erfahrung mit Python sowie Bibliotheken wie Pandas oder PySpark zur Datenverarbeitung und Datentransformation
+ Erste Erfahrungen in den Bereichen Big Data, Data Analytics oder Data Science sind von Vorteil
+ Kenntnisse in SQL sind von Vorteil
+ Kenntnisse in Power BI, DAX, Power Query, Tableau oder vergleichbaren Business-Intelligence-Lösungen sind wünschenswert
+ Analytische Denkweise, konzeptionelle Fähigkeiten sowie eine strukturierte und selbstständige Arbeitsweise
+ Sichere Deutsch- und Englischkenntnisse in Wort und Schrift
+ Engagement und Teamfähigkeit
+ Sicherer Umgang mit Microsoft 365 beziehungsweise den gängigen Microsoft-Office-Anwendungen
+ Zusätzliche Informationen: 
+ Wir freuen uns auf Deine Online-Bewerbung mit Lebenslauf, Zeugnissen, aktueller Immatrikulationsbescheinigung mit Angabe des Fachsemesters und Nachweis über die Regelstudienzeit. Ein Anschreiben ist optional. Bitte vergiss nicht im Online-Formular Deine Dokumente als "relevant für diese Bewerbung" zu markieren und beachte die maximale Dateigröße von 5 MB. 
+ Weiterführende Informationen zu den Einstellkriterien findest Du hier .  
+ Schwerbehinderte und gleichgestellte Bewerbende sind herzlich willkommen! Die Schwerbehindertenvertretung ( sbv-sindelfingen@mercedes-benz.com ) unterstützt Dich gerne im Bewerbungsprozess. 
+ People Solutions hilft Dir bei Fragen zum Bewerbungsprozess gerne weiter. Du erreichst uns per E-Mail über myhrservice@mercedes-benz.com oder telefonisch unter 0711/17-99000 (Mo-Fr 10-12 Uhr & 13-15 Uhr). 
+ Benefits
+ Essens­zulagen 
+ Mit­arbeiter­handy möglich 
+ Mit­arbeiter­rabatte möglich 
+ Mit­arbeiter­beteili­gung möglich 
+ Mit­arbeiter Events 
+ Coaching 
+ Flexible Arbeits­zeit möglich 
+ Hybrides Arbeiten möglich 
+ Gesund­heits­maß­nahmen 
+ Betrieb­liche Alters­ver­sorgung 
+ Mobilitäts­angebote 
+ Kantine, Café 
+ Betriebs­arzt 
+ Kinder­betreuung 
+ Park­platz 
+ Gute An­bindung 
+ Barriere­frei­heit 
+ Kontakt
+Stanislav Petrov
+Email: stanislav.petrov@mercedes-benz.com 
+Mercedes-Benz Plant Sindelfingen, Sindelfingen
+Bela-Barenyi-Str Tor 14
+71063 Sindelfingen

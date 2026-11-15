@@ -1,0 +1,38 @@
+URL: https://www.linkedin.com/jobs/view/4489562689
+TITLE: Werkstudent Data Engineering & Backend (w/m/div.)
+COMPANY: Bosch
+LOC: Wernau, Baden-Württemberg, Germany
+POSTED: 2026-11-13
+title: Werkstudent Data Engineering & Backend (w/m/div.)
+company: Bosch
+posted: 1 day ago
+applicants: 54 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-data-engineering-backend-w-m-div-at-bosch-4489562689&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Unternehmensbeschreibung
+ Bei Bosch gestalten wir Zukunft mit hochwertigen Technologien und Dienstleistungen, die Begeisterung wecken und das Leben der Menschen verbessern. Unser Versprechen an unsere Mitarbeiterinnen und Mitarbeiter steht dabei felsenfest: Wir wachsen gemeinsam, haben Freude an unserer Arbeit und inspirieren uns gegenseitig. Willkommen bei Bosch.
+ Die Bosch Home Comfort Group freut sich auf deine Bewerbung!
+ Stellenbeschreibung
+ In unserem agilen und internationalen Team arbeiten wir an digitalen Lösungen für Heizungs-, Lüftungs- und Klimasysteme. Bei uns erhältst du die Möglichkeit, die Digitalisierung dieser Systeme für Wohngebäude aktiv mitzugestalten und an Produkten zu arbeiten, die den steigenden Anforderungen an Energieeffizienz und Nachhaltigkeit gerecht werden müssen.
+ Während deiner Werkstudententätigkeit unterstützt du die Entwicklung einer zentralen Fehlerdatenbank. 
+ Bestehende Datenquellen und -strukturen analysierst du präzise. 
+ Das Datenmodell konzipierst und setzt du eigenständig um. 
+ Du entwickelst Backend-Komponenten und Schnittstellen. 
+ Darüber hinaus supportest du bei der Datenmigration und der Sicherstellung der Datenqualität. 
+ Nicht zuletzt erstellst du technische Dokumentationen und begleitest aktiv die Definition von Anforderungen und die Abstimmung mit Stakeholdern. 
+ Qualifikationen
+ Ausbildung: Bachelorstudium im Bereich Wirtschaftsinformatik, Informatik, Data Science oder vergleichbar
+ Erfahrungen und Know-how: Verständnis von Cloud-Plattformen, Backend-Programmierung, RESTful APIs & JSON, Clean Code & Dokumentation 
+ Persönlichkeit und Arbeitsweise: dir gelingt es, komplexe Sachverhalte analytisch zu durchdringen und strukturiert sowie eigenständig Lösungen zu erarbeiten, wobei du die Zusammenarbeit im Team schätzt, um gemeinsame Ziele zu erreichen
+ Arbeitsalltag: wir bieten dir die Möglichkeit, hybrid zu arbeiten
+ Sprachen: verhandlungssicheres Englisch und gutes Deutsch
+ Zusätzliche Informationen
+ Beginn: nach Absprache
+ Dauer: 12 Monate – 10h/Woche
+Voraussetzung für die Werkstudententätigkeit ist die Immatrikulation an einer Hochschule. Bitte füge deiner Bewerbung deinen Lebenslauf, deinen aktuellen Notenspiegel, eine aktuelle Immatrikulationsbescheinigung sowie ggf. eine gültige Arbeits- und Aufenthaltserlaubnis bei.
+Als global agierendes Unternehmen sind wir gesetzlich verpflichtet, die geltenden EU- und US-(Re-)Exportkontroll- und Sanktionsbestimmungen einzuhalten. Das bedeutet: Auf bestimmten, besonders sensiblen Stellen dürfen wir nur Personen beschäftigen, die eine zusätzliche gesetzliche Prüfung durchlaufen haben. Bei dieser Position handelt es sich um eine solche sensible Stelle. Wir werden dich daher im weiteren Verlauf des Prozesses um weitere, für diese zusätzliche Prüfung erforderliche Angaben bitten. Informationen zur Verarbeitung deiner Daten findest du in unseren Datenschutzhinweisen für den Bewerbungsprozess.
+Vielfalt und Inklusion sind für uns keine Trends, sondern fest verankert in unserer Unternehmenskultur. Daher freuen wir uns über alle Bewerbungen: unabhängig von Geschlecht, Alter, Behinderung, Religion, ethnischer Herkunft oder sexueller Identität.
+ Du hast fachliche Fragen zum Job?
+ Florian Weber (Fachabteilung)
++49 160 9699 7462
+Work beginnt hier: Jetzt bewerben!

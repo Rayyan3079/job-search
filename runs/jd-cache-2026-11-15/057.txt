@@ -1,0 +1,57 @@
+URL: https://www.linkedin.com/jobs/view/4488274247
+TITLE: Intern BI Development
+COMPANY: Game Companies
+LOC: Frankfurt, Hesse, Germany
+POSTED: 2026-11-11
+title: Intern BI Development
+company: Game Companies
+posted: 4 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fintern-bi-development-at-game-companies-4488274247&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Information Technology (IT)
+0–1 years
+Data Analysis
+Nintendo of Europe SE
+Intern BI Development*
+IT | Students | Temporary | Full-Time |
+Level up!
+Nintendo Co., Ltd., headquartered in Kyoto, Japan, has been providing a wide range of entertainment products and experiences since its founding in 1889, beginning with the manufacture and sale of Hanafuda playing cards. Since the 1983 release of the Family Computer (Famicom) system in Japan, and continuing through Nintendo Switch 2, Nintendo’s focus has been the development, manufacturing, and sale of its gaming systems and software.
+At Nintendo, we bring together employees with a wide range of characteristics and work together towards a common goal – to put smiles on the faces of people all over the world.
+Tasks
+ Creating and maintaining technical and user-facing documentation (solution design, data dictionary, refresh cadence, known limitations)
+ Providing end-user enablement (how-to guides, demo sessions)
+ Supporting project ceremonies and delivery (sprint participation, issue triage, UAT support, bug fixing)
+ Adhering security, compliance, and data privacy requirements (row-level security, PII handling, least-privilege)
+ Performing data profiling, transformation, and validation; reconcile KPIs with source systems
+ Building and enhancing SAC stories/dashboards and Analytics Designer applications (web front end)
+ Requirements
+ The internship has to be mandatory for your current studies (proof from the university is required) 
+ The minimum length of the mandatory internship should be 6 months
+ Foundational knowledge of Business Intelligence and data warehousing concepts 
+ Project management 
+ Practical experience with at least one SQL dialect (MySQL or SQL)
+ Data quality and testing mindset (unit tests, reconciliation checks, edge cases)
+ Clear written communication; structured documentation habits (Markdown/Confluence/Word)
+ Team collaboration using issue tracking (Jira/Wrike) 
+ Familiarity with SAP Analytics Cloud (stories, models, calculations) or strong motivation to learn rapidly
+ Earliest possible start date: 01. February 2027
+Please note that all tasks will be executed in close cooperation with the internship supervisor!
+ Are you interested? We look forward to receiving your application in English, your earliest possible starting date and the mandatory letter from your university including the minimum and maximum duration of your internship. Your application can only be processed if you submit proof. 
+ With this job advertisement, we would like to encourage people of all genders to apply. Therefore, we refrain from explicitly mentioning any gender. Our company is opposed to gender-based discrimination, as well as discrimination based on other legally protected characteristics.
+ IT Students Temporary Full-Time Intern BI Development req431
+ Creating and maintaining technical and user-facing documentation (solution design, data dictionary, refresh cadence, known limitations)
+ Providing end-user enablement (how-to guides, demo sessions)
+ Supporting project ceremonies and delivery (sprint participation, issue triage, UAT support, bug fixing)
+ Adhering security, compliance, and data privacy requirements (row-level security, PII handling, least-privilege)
+ Performing data profiling, transformation, and validation; reconcile KPIs with source systems
+ Building and enhancing SAC stories/dashboards and Analytics Designer applications (web front end)
+ The internship has to be mandatory for your current studies (proof from the university is required) 
+ The minimum length of the mandatory internship should be 6 months
+ Foundational knowledge of Business Intelligence and data warehousing concepts 
+ Project management 
+ Practical experience with at least one SQL dialect (MySQL or SQL)
+ Data quality and testing mindset (unit tests, reconciliation checks, edge cases)
+ Clear written communication; structured documentation habits (Markdown/Confluence/Word)
+ Team collaboration using issue tracking (Jira/Wrike) 
+ Familiarity with SAP Analytics Cloud (stories, models, calculations) or strong motivation to learn rapidly

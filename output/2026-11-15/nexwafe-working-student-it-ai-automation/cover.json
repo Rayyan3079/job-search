@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Working Student (f/m/d) IT & AI Automation",
+    "company": "NexWafe GmbH",
+    "city": "Freiburg (onboarding), then remote in Germany",
+    "greeting": "Dear NexWafe IT team,",
+    "opening": "I am applying for the Working Student position in IT & AI. You ask for hands-on experience with LLM APIs such as Anthropic's, Python with REST and JSON, and dashboards for Finance and HR: I built an application on the Claude API, and as a Business Analyst I built an employee expense reimbursement dashboard.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence. I worked as a Business Analyst at Tapal Tea, supporting dashboards for HR, finance, supply chain and procurement.",
+    "achievements": [
+      {
+        "lead": "LLM API application",
+        "impact": "I built DocuMind (github.com/Rayyan3079/documind-rag) with the Claude API, a FastAPI REST API and a Streamlit UI; it answered 91% of a 22-question test set correctly"
+      },
+      {
+        "lead": "Finance and HR dashboards",
+        "impact": "I built an employee expense reimbursement dashboard in SAP Analytics Cloud and supported around 30 dashboards across HR, finance and procurement"
+      },
+      {
+        "lead": "Working with departments",
+        "impact": "I collected requirements from business users, handled their daily queries and documented every dashboard I built"
+      }
+    ],
+    "problems_section": "I would map processes with Finance, HR and Procurement, build AI-supported tools and dashboards for them, test new AI tools and train colleagues to use what we build. I have not used low-code workflow tools or MCP yet, and I am keen to learn them in practice.",
+    "closing": "I can come to Freiburg for onboarding and then work remotely from Ilmenau for up to 20 hours per week, starting immediately. I would be glad to discuss the role.",
+    "date": "2026-11-15",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-11-15/nexwafe-working-student-it-ai-automation/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

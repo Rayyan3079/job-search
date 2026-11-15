@@ -1,0 +1,20 @@
+URL: https://www.xing.com/jobs/solingen-werkstudent-softwareentwicklung-business-intelligence-php-mysql-157727247
+TITLE: Werkstudent Softwareentwicklung Business Intelligence (PHP/MySQL) (m/w/d)
+COMPANY: WebID Solutions GmbH
+LOC: Solingen
+POSTED: 2026-09-08
+title: Werkstudent Softwareentwicklung Business Intelligence (PHP/MySQL) (m/w/d)
+company: WebID Solutions GmbH
+posted: 2026-09-08T21:17:02Z
+location: Solingen | remote: 
+---
+Werkstudent Softwareentwicklung Business Intelligence (PHP/MySQL) (m/w/d) Karrierestufe: Ohne Berufserfahrung Anstellung: Teilzeit Standort: Solingen WebID ist eines der am schnellsten wachsenden FinTech-Unternehmen in ganz
+ Deutschland, Erfinder der Videoidentifikation, Patentinhaber und Technologiepionier.
+ Bei WebID leben und atmen wir Innovation. Mit unseren neuartigen Technologien
+ rund um KYC und eSigning wollen wir den Alltag der Verbraucher einfacher machen
+ und zeitgleich Unternehmen, die mit uns zusammenarbeiten, beflügeln. Und das
+ zunehmend über Ländergrenzen hinweg. Wir arbeiten mit den größten
+ Finanzdienstleistern, Fintechs, Trading Plattformen und Mobility-Anbietern, wie z. B.
+ CHECK24, DKB, ImmoScout24, Trade Republic und Vodafone zusammen. Und wir
+ wissen: um unsere Erfolgsgeschichte weiterzuschreiben brauchen wir vor allem ein
+ motiviertes, kreatives und zufriedenes Team. Werde ein Teil davon! Deine Rolle bei uns Unterstützung bei der Entwicklung interner Anwendungen im Bereich Business Intelligence: - Weiterentwicklung und Pflege bestehender BI-Anwendungen - Entwicklung von Software-Modulen in PHP - Mitarbeit an frontendnahen Komponenten (HTML, JavaScript – von Vorteil) Erstellung, Optimierung und Pflege von MySQL-Datenbanken Entwicklung und Optimierung analytischer Datenbankabfragen Unterstützung der Fachbereiche bei: - komplexen SQL-Abfragen - Datenanalysen - BI-bezogenen Auswertungen Dokumentation von entwickelten Lösungen und Abfragen Das bringst du mit Laufendes Studium der Informatik, Wirtschaftsinformatik oder eines vergleichbaren Studiengangs Gute Kenntnisse in PHP und MySQL bzw. relationalen Datenbanken. (Bitte füge Deiner Bewerbung ein entsprechendes Zertifikat bei) Verständnis für Datenstrukturen und analytische Abfragen Erfahrung mit Git bzw. Versionsverwaltung wünschenswert Erste Berührungspunkte mit BI-, Reporting- oder Analyse-Themen von Vorteil Strukturierte, selbstständige und lösungsorientierte Arbeitsweise Teamfähigkeit und gute Kommunikationsfähigkeiten Gute Deutschkenntnisse (mindestens B2), Englischkenntnisse Deine Vorteile bei der WebID Die Gesundheit unserer Mitarbeitenden liegt uns am Herzen: Nutze nach der Probezeit unsere Partnerschaft mit Wellhub und profitiere von eHealth Apps, Gymmemberships u.v.m.. Ob Weihnachtsfeiern, Frühlingsfeste oder einfach mal den Feierabend gemeinsam einläuten – es findet sich immer mal wieder eine Gelegenheit für eine gemeinsame Abendgestaltung Nach deiner Einarbeitung (on site) hast du die Möglichkeit hybrid zu arbeiten Natürlich fehlt es auch bei uns nicht am Obstkorb, erfrischenden Getränken sowie Kaffee

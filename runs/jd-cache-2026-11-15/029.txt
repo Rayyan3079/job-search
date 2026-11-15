@@ -1,0 +1,51 @@
+URL: https://www.linkedin.com/jobs/view/4481901583
+TITLE: Working Student (f/m/d) - Signavio Next Full-Stack Development & Engineering Automation
+COMPANY: SAP
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-11-13
+title: Working Student (f/m/d) - Signavio Next Full-Stack Development & Engineering Automation
+company: SAP
+posted: 1 day ago
+applicants: 161 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-f-m-d-signavio-next-full-stack-development-engineering-automation-at-sap-4481901583&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+We help the world run better
+ At SAP, we keep it simple: you bring your best to us, and we'll bring out the best in you. We're builders touching over 20 industries and 80% of global commerce, and we need your unique talents to help shape what's next. The work is challenging – but it matters. You'll find a place where you can be yourself, prioritize your wellbeing, and truly belong. What's in it for you? Constant learning, skill growth, great benefits, and a team that wants you to grow and succeed.
+ What You Will Build
+ You will work as a hands-on engineer inside a senior team that ships product at speed and to a high standard.
+Your work spans two areas: building agentic workflows that automate real engineering tasks at scale (such as programmatically rolling out integrations across multiple repositories that would otherwise require tedious manual effort) and contributing to full-stack client-facing features when needed. You will also help design and improve the team's AI-powered developer tooling, making the engineering workflow smarter and more efficient over time.
+You are expected to take ownership of your tasks end-to-end: understand the problem, explore solutions independently, ask focused questions when blocked, and follow through to delivery. You will work closely with experienced engineers who provide context, feedback, and guidance when needed, but you are expected to drive your own progress rather than wait for step-by-step instructions.
+ Requirements
+ What you bring 
+ Solid proficiency in TypeScript and React; a back-end language (Python or Java), Git, and effective debugging skills. 
+ Hands-on experience building with LLMs, ideally including agentic workflows that use tools and perform multi-step tasks. You understand the fundamentals, have built things yourself, and can explain your technical decisions. 
+ A self-starter mindset: you investigate problems independently, take initiative, and communicate blockers early rather than waiting for instructions or letting issues stall your progress. 
+ Clear, fluent communication in English. 
+ Ability to share and defend non-trivial code you've personally written during the interview process. 
+ Nice To Have
+ Experience with agent frameworks or workflow automation tooling. 
+ Familiarity with product analytics / tracking SDKs and how they integrate into web applications. 
+ Experience with monorepo tooling, CI/CD pipelines, or developer experience improvements. 
+ Important! Please DO NOT apply if:
+ You haven't actively coded in the last 6 months. 
+ You cannot demonstrate your skills through code you've personally written. 
+ You need step-by-step instructions for every task and are unwilling to investigate problems independently. 
+ You struggle to recognize when you're blocked, communicate that clearly, or ask for help when needed. 
+ Where you belong
+ We are an engineering team with a high standard for producing quality work at a fast pace.
+We are looking to expand our team with a candidate that matches this standard.
+ Your set of application documents should contain a cover letter, a resume in table form, school leaving certificates, certificate of enrollment, current university transcript of records, copies of any academic degrees already earned, and if available, references from former employers (including internships). Please also describe your experience and skills in foreign languages and computer programs / programming languages.
+ This is a SAP global, strategic, paid working student position that provides students with opportunities to find purpose in their careers.
+ #Workingstudent #Werkstudent #Germany #Deutschland #Student #SAPGermanStudentsCareers #SAPNextGen
+ Bring out your best
+ SAP innovations help more than four hundred thousand customers worldwide work together more efficiently and use business insight more effectively. Originally known for leadership in enterprise resource planning (ERP) software, SAP has evolved to become a market leader in end-to-end business application software and related services for database, analytics, intelligent technologies, and experience management. As a cloud company with two hundred million users and more than one hundred thousand employees worldwide, we are purpose-driven and future-focused, with a highly collaborative team ethic and commitment to personal development. Whether connecting global industries, people, or platforms, we help ensure every challenge gets the solution it deserves. At SAP, you can bring out your best.
+ We win with inclusion
+ SAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.
+SAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team: Careers@sap.com.
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+Qualified applicants will receive consideration for employment without regard to their age, race, religion, national origin, ethnicity, gender (including pregnancy, childbirth, et al), sexual orientation, gender identity or expression, protected veteran status, or disability, in compliance with applicable federal, state, and local legal requirements.
+Successful candidates might be required to undergo a background verification with an external vendor.
+ AI Usage in the Recruitment Process
+ For information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.
+Please note that any violation of these guidelines may result in disqualification from the hiring process.
+Requisition ID: 456970 | Work Area: Software-Design and Development | Expected Travel: 0 - 10% | Career Status: Student | Employment Type: Limited Part Time | Additional Locations:

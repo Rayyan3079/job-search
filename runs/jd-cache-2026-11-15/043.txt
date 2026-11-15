@@ -1,0 +1,47 @@
+URL: https://www.linkedin.com/jobs/view/4489841646
+TITLE: Data Analyst / BI – Power BI & SQL (H/F)
+COMPANY: Klanik
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-14
+title: Data Analyst / BI – Power BI & SQL (H/F)
+company: Klanik
+posted: 23 hours ago
+applicants: 54 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fjobs%2Fview%2Fdata-analyst-bi-%25E2%2580%2593-power-bi-sql-h-f-at-klanik-4489841646&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Depuis sa création, KLANIK s'est donnée pour mission de conjuguer expertise technologique et authenticité.
+Ce pari audacieux, né à Marseille en 2011, en France, s'est transformé en une aventure internationale qui compte aujourd'hui plus de 800 collaborateurs, des implantations dans 10 pays et des filiales innovantes. Nous rejoignons en 2026 le groupe ALTEN, acteur mondial de l'ingénierie et des services numériques.
+Notre rôle : recruter les meilleurs talents & les connecter à nos clients pour les accompagner dans leurs projets digitaux. KLANIK est une société de conseil en informatique structurée autour de 5 pôles d'expertises : Data & IA, DevOps Cloud Infra, Cybersécurité, Software, Produit Agilité Pilotage.
+Nos 800 talents ont des profils variés : tech (nos pôles d'expertises), opérationnels (fonctions commerciales et recrutement) et support.
+Au‑delà des métiers, KLANIK cultive un modèle profondément humain, qui dépasse les frontières : de la Belgique à la Colombie, nos valeurs résonnent. Une culture fondée sur le partage, l'exigence et la bienveillance - un collectif où chacun peut trouver sa place. En témoignent nos filiales :
+ Klanik Esport : club Esport & agence de gamification;
+ Korner : incubateur de startups tech;
+ Kampus : organisme de formation certifié Qualiopi
+ l'Act'In Klanik, rôles qui permettent à nos collaborateurs de faire vivre leurs passions au-delà de leurs missions.
+ Notre culture est résumée par cette phrase, souvent apposée sous notre logo : Human-Made Technology. La tech oui, mais une tech humaine, qui diffuse un modèle où l'authenticité de chacun est la priorité.
+KLANIK, en tant que société à mission, croit en la force de la diversité et de l'inclusion. Nos recrutements sont fondés sur les compétences, sans distinction d'origine, d'âge ou de genre, et tous nos postes sont ouverts aux personnes en situation de handicap. Nous sommes convaincus que la diversité de nos équipes est une force qui contribue à notre succès.
+ Le Poste
+ Dans le cadre du renforcement de nos équipes, nous recherchons un Data Analyst / BI (H/F) pour intervenir sur la mise en place et l'exploitation d'une plateforme Data au sein d'un environnement industriel et technologique international.
+Vous contribuerez à la collecte, à la structuration et à la valorisation de données issues de différentes activités, notamment les données de test et les données financières. Votre objectif sera de faciliter leur exploitation à travers des tableaux de bord et de contribuer à l'automatisation de certaines activités de pilotage.
+En collaboration étroite avec un Architecte Data / Cloud et une équipe PMO, vous jouerez un rôle d'interface entre les données, les outils et les besoins opérationnels des équipes.
+🎯 Vos missions
+ Collecter et structurer les données : recueillir les données de test ainsi que les données financières issues des activités PMO.
+ Concevoir des tableaux de bord : mettre en forme et valoriser les données à travers des rapports et indicateurs sous Power BI.
+ Faciliter le pilotage des activités : rendre les données accessibles, lisibles et exploitables par les équipes opérationnelles.
+ Automatiser les processus : identifier les tâches récurrentes de l'équipe PMO et proposer des solutions pour automatiser certaines activités.
+ Collaborer avec les équipes Data : travailler en binôme avec l'Architecte Data / Cloud pour contribuer à la cohérence et à l'évolution de la plateforme.
+ Être force de proposition : identifier les outils et solutions adaptés aux besoins d'analyse et de reporting, puis formuler des recommandations auprès des équipes IS/IT.
+ Profil
+ ✅ Vous êtes Data Analyst / BI confirmé(e)
+ Vous justifiez d'au moins 2 à 3 ans d'expérience en Data Analyse et/ou Business Intelligence.
+ Vous maîtrisez Power BI pour la création de tableaux de bord et la visualisation de données.
+ Vous avez de solides compétences en SQL et êtes à l'aise avec l'exploitation de bases de données.
+ Vous avez une connaissance des environnements de bases de données SQL, NoSQL et séries temporelles.
+ Une connaissance de SAP, notamment pour l'exploitation de données financières, serait appréciée.
+ Vous êtes sensible aux enjeux d'automatisation et à l'amélioration des processus.
+ 🤝 Votre posture fait la différence
+ Esprit analytique : vous savez exploiter des données, identifier les informations pertinentes et les transformer en indicateurs utiles.
+ Pédagogie et communication : vous êtes à l'aise pour échanger avec des interlocuteurs non techniques et comprendre leurs besoins.
+ Autonomie et proactivité : vous savez proposer des améliorations et identifier des opportunités d'automatisation.
+ Esprit collaboratif : vous appréciez le travail en équipe et savez travailler en lien étroit avec des profils techniques et fonctionnels.
+ Sens du service : vous cherchez à produire des analyses et des outils réellement utiles aux équipe

@@ -17,10 +17,14 @@ fi
 # Point Playwright at whichever pre-installed headless shell exists, whatever revision it expects.
 WANT=$(python3 -c "import json,sys;b=json.load(open(sys.argv[1]))[\"browsers\"];print([x[\"revision\"] for x in b if x[\"name\"]==\"chromium-headless-shell\"][0])" "$CO_ROOT/node_modules/playwright-core/browsers.json" 2>/dev/null)
 HAVE=$(ls -d /opt/pw-browsers/chromium_headless_shell-* 2>/dev/null | grep -v "\-${WANT}$" | head -1)
-if [ -n "$WANT" ] && [ ! -e "/opt/pw-browsers/chromium_headless_shell-$WANT" ] && [ -n "$HAVE" ]; then
+if [ -n "$WANT" ] && [ ! -e "/opt/pw-browsers/chromium_headless_shell-$WANT/chrome-headless-shell-linux64/chrome-headless-shell" ] && [ -n "$HAVE" ]; then
   mkdir -p "/opt/pw-browsers/chromium_headless_shell-$WANT"
-  ln -sfn "$HAVE/chrome-linux" "/opt/pw-browsers/chromium_headless_shell-$WANT/chrome-headless-shell-linux64"
-  ln -sf headless_shell "$HAVE/chrome-linux/chrome-headless-shell"
+  if [ -d "$HAVE/chrome-headless-shell-linux64" ]; then   # newer image layout
+    ln -sfn "$HAVE/chrome-headless-shell-linux64" "/opt/pw-browsers/chromium_headless_shell-$WANT/chrome-headless-shell-linux64"
+  else                                                   # older layout: chrome-linux/headless_shell
+    ln -sfn "$HAVE/chrome-linux" "/opt/pw-browsers/chromium_headless_shell-$WANT/chrome-headless-shell-linux64"
+    ln -sf headless_shell "$HAVE/chrome-linux/chrome-headless-shell"
+  fi
   touch "/opt/pw-browsers/chromium_headless_shell-$WANT/INSTALLATION_COMPLETE"
 fi
 

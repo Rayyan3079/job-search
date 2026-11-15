@@ -1,0 +1,39 @@
+URL: https://www.linkedin.com/jobs/view/4488945300
+TITLE: Werkstudent:in Softwareentwicklung Node.js (m/w/d)
+COMPANY: refundrebel
+LOC: Germany
+POSTED: 2026-11-13
+title: Werkstudent:in Softwareentwicklung Node.js (m/w/d)
+company: refundrebel
+posted: 1 day ago
+applicants: 42 applicants
+apply_offsite: 
+---
+Wir sind refundrebel, ein aufstrebendes Mobility-Tech-KMU, das an Bahnreisen als die Zukunft unserer nachhaltigen Mobilität glaubt.
+ Durch digitale Technologien wollen wir nachhaltiges Reisen für Unternehmen und Geschäftsreisende attraktiver machen. Wir unterstützen namhafte Unternehmen wie adesso, KfW oder REWE dabei, ihr Bahnreise-Management zu optimieren, Aufwände zu minimieren, Kosten zu senken und Flug- auf Bahnreisen zu verlagern.
+ Dabei arbeiten wir nicht nur, um Geld zu verdienen. Wir arbeiten, weil wir daran glauben, die (Mobilitäts-) Welt ein Stück besser machen zu können. Wir arbeiten, weil wir Spaß am Miteinander haben. Und weil wir an eine neue Arbeitswelt mit dem Menschen im Fokus glauben.
+ Aufgaben 
+ Auf unserem modernen Cloud-Stack (AWS, Docker, MongoDB, Express, Node.js, TypeScript/JavaScript, React, Terraform) entwickelst du agil mit.
+ Echter Produktivcode statt Spielwiese: Was du baust, nutzen unsere internen und externen Stakeholder täglich. Dabei arbeitest du nach professionellen Standards und mit modernen Methoden wie KI-gestützter Entwicklung.
+ Du unterstützt uns bei der Weiterentwicklung unserer Systeme: von der Umsetzung neuer Features über die Wartung von bestehendem Code bis hin zur Übernahme eigener Projekte.
+ Dein Schwerpunkt liegt im Backend, Ausflüge ins Frontend sind aber auf jeden Fall möglich.
+ Unser Engineering-Team steht dir zur Seite. Gleichzeitig bringst du eigene Ideen ein und arbeitest selbstständig.
+ Qualifikation 
+ Eingeschrieben bist du in (Angewandter) Informatik, Wirtschaftsinformatik oder einem vergleichbaren Studiengang.
+ Du hast mindestens 10 Stunden wöchentlich Zeit, uns zu unterstützen. Es wäre toll, wenn du dir perspektivisch auch bis zu 20 Stunden vorstellen kannst.
+ Mindestens eine Programmiersprache beherrschst du sicher, und mit Datenbanken hast du schon erste Erfahrungen gesammelt.
+ Lernbereitschaft ist für dich selbstverständlich. Agentic Engineering, Serverless oder moderne Softwarearchitekturen? Da steigst du gern tief ein, auch wenn es anfangs Neuland ist.
+ Mit dem Handwerkszeug der Webentwicklung hast du schon gearbeitet, etwa mit Git, automatisiertem Testing, REST-APIs und Grundlagen der IT-Security. Erfahrung mit Cloud-Infrastruktur ist ein Plus.
+ Nachhaltigkeit, Mobilität und Digitalisierung liegen dir am Herzen.
+ Du sprichst und schreibst Deutsch mindestens auf C1-Niveau, Englisch ist von Vorteil.
+ Benefits 
+ Flexible Arbeitszeiten im Rahmen der gesetzlichen Möglichkeiten.
+ 100 % remote (unsere legendären halbjährliche Teamwochen mal ausgenommen).
+ Flache Hierarchien und eine herzliche Unternehmenskultur.
+ Hands-on-mentality: Du erhältst direkten Einblick in ein wachsendes Software as a Service-Unternehmen.
+ OpenUp-Zugang: Unbegrenzte 1:1 Sitzungen mit Psycholog:innen & Lifestyle Coaches.
+ Raum für eigene Ideen und persönliche Entwicklung.
+Klingt interessant? Dann schick’ uns gerne Deinen Lebenslauf und ein Motivationsschreiben mit ein paar Zeilen über Dich, der Info wie lange du voraussichtlich noch eingeschriebene:r Student:in sein wirst und warum du Teil unseres Teams werden möchtest.
+ Du setzt bereits eigene (Open Source) Projekte um und hast ein eigenes GitHub Repo? Na dann immer her damit – wir lieben Code und würden gerne mit Dir über Deine Werke fachsimpeln.
+ Wir freuen uns auf Deine Bewerbung!
+ Dein refundrebel-Team

@@ -1,0 +1,37 @@
+URL: https://www.linkedin.com/jobs/view/4489581912
+TITLE: Werkstudent (w/m/d) AI Automation
+COMPANY: Siemens
+LOC: Karlsruhe, Baden-Württemberg, Germany
+POSTED: 2026-11-13
+title: Werkstudent (w/m/d) AI Automation
+company: Siemens
+posted: 1 day ago
+applicants: 47 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-w-m-d-ai-automation-at-siemens-4489581912&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Art der Anstellung: Befristet / max. 20 Stunden/Woche
+Starte als Werkstudent AI Automation (w/m/d) in Karlsruhe durch und tauche ein in die faszinierende Welt von Computer Vision, Robotik und echten Labor-Setups – deine Ideen und Neugier sind bei uns gefragt! Werde Teil unseres Teams und gestalte die Zukunft der AI-Automatisierung aktiv mit.
+Werde Teil unseres Working Student Network – einer Community, die dir Austausch, Unterstützung und wertvolle Kontakte bei Siemens bietet.
+ Verändere die Welt von morgen:
+ Du validierst, bereinigst und labelst Computer-Vision-Datensätze, um die Grundlage für eine zuverlässige KI-Automatisierung zu schaffen
+ Anschließend testest und evaluierst du systematisch unsere AI-Automatisierungstools, wobei du Optimierungspotenziale identifizierst
+ Daraufhin unterstützt du das Team bei Frontend- und Backend-Verbesserungen unserer Tools, indem du deine technischen Kenntnisse einbringst
+ Im weiteren Verlauf führst du kleinere Forschungs- und Entwicklungsaufgaben im Bereich Computer Vision und Robotik durch
+ Abschließend erhältst du praxisnahe Einblicke in MLOps und agile Softwareentwicklung, indem du bei Laborinfrastruktur, Testnetzwerken und Hardware-Deployments für CV-Projekte mitwirkst
+ So überzeugst du uns:
+ Ausbildung: Du studierst derzeit erfolgreich Informatik, Robotik, Elektrotechnik oder einen vergleichbaren Studiengang
+ Erfahrungen und Kenntnisse:
+ Du hast Interesse und eventuell erste Kenntnisse in den Bereichen Computer Vision, Künstliche Intelligenz und Robotik
+ Du bist idealerweise vertraut mit gängigen Programmiersprachen wie Python oder C++
+ Du hast bestenfalls Erfahrung im Umgang mit Datenvalidierung, Labeling und Testing von Softwaretools
+ Arbeitsweise: Du überzeugst durch eine strukturierte, eigenständige und genaue Arbeitsweise
+ Sprachkenntnisse: Du verfügst über fließende Deutsch- und Englischkenntnisse (mindestens B2)
+ Du bist viel mehr als deine Qualifikationen und wir glauben an das Potential jeder einzelnen Person. Wir freuen uns darauf, dich kennenzulernen!
+Bei Siemens sind wir überzeugt: Wer sich wertgeschätzt und zugehörig fühlt, kann das eigene Potenzial voll entwickeln. Deshalb schaffen wir ein inklusives Arbeitsumfeld, in dem jede Person ein Gefühl der Zugehörigkeit erfährt und in dem individuelle Perspektiven und Erfahrungen geschätzt werden. Unser Engagement für Fairness und Respekt gilt für alle Bewerbenden.
+Wir legen Wert auf Chancengleichheit und freuen uns über Bewerbungen von Menschen mit unterschiedlichen Hintergründen, ausdrücklich auch von Menschen mit Behinderung. Bei gleicher Qualifikation werden schwerbehinderte und gleichgestellte Bewerberinnen und Bewerber bevorzugt berücksichtigt.
+ Über Uns
+ Wir entwickeln Netzwerke, die unsere Städte schlauer mit Licht und Wärme versorgen und kennen uns in Sachen Automatisierung und Digitalisierung in der Prozess- und Fertigungsindustrie bestens aus. Dafür und für viele weitere Zukunftsprojekte brauchen wir kluge Köpfe, die ihr Können und ihre Kreativität aktiv einbringen. Menschen wie dich! Hilf uns dabei, die spannendsten Herausforderungen gemeinsam anzugehen und umzusetzen, worauf es ankommt. Was wir dir bieten, ist die Chance, wirklich etwas zu bewegen. Also worauf warten? Mach mit uns den nächsten Schritt in deiner Karriere!
+www.siemens.de/karriere – wenn du mehr Informationen zu Jobs & Karriere bei Siemens erhalten möchtest.
+FAQ – wenn du eine Frage zum Thema Bewerbung bei Siemens hast.
+Wenn du darüber hinaus noch Fragen hast, wende dich gerne an uns: www.siemens.de/fragenzurbewerbung
+#sagworkingstudent

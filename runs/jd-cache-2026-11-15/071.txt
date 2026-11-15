@@ -1,0 +1,52 @@
+URL: https://www.linkedin.com/jobs/view/4490739175
+TITLE: Working Student - Operations (m/f/d)
+COMPANY: social sweethearts GmbH
+LOC: Bonn, North Rhine-Westphalia, Germany
+POSTED: 2026-11-13
+title: Working Student - Operations (m/f/d)
+company: social sweethearts GmbH
+posted: 1 day ago
+applicants: 42 applicants
+apply_offsite: 
+---
+We are a leading global digital publisher of individualized content and games. Through quizzes, articles, and Instant Games, we have reached more than 500 million people worldwide and built a community of over 120 million Facebook fans, with content available in more than 40 languages.
+Behind this success is a creative, international team that combines family-friendly feel-good content with self-developed technology and a data-driven publishing approach. Together, we create entertaining digital experiences with one clear mission: to make people smile :)
+Do you want to explore cutting-edge AI tools, automate workflows, and turn data into actionable insights — all within a dynamic, international team?
+ Join us as a Working Student - Operations (m/f/d) in Cologne!
+ We offer a flexible hybrid working setup and value in-person collaboration. We'd love for you to join us at our Cologne office once a week to connect and collaborate with the team.
+ Your Tasks
+ As our Working Student in Operations, you'll dive into data and AI-driven workflows, supporting our team in turning insights into action and driving automation across processes. Your key responsibilities will include:
+ Exploring and testing AI tools and LLM-based APIs (e.g., GPT-powered tools) for use cases such as data enrichment, report automation, and insight generation
+ Compiling and analyzing data from Google Analytics, Meta tools, and other sources; visualizing insights in Google Data Studio and improving reporting automation
+ Supporting and maintaining project monitoring and performance tracking through data cleaning, reporting, and dashboard maintenance
+ Preparing ad hoc analyses to support decision-making across teams
+ Documenting and sharing findings, workflows, and proofs of concept
+ Collaborating with senior analysts and product managers to identify opportunities where AI can improve workflows
+ Requirements
+ Must-have
+ ✔ Currently enrolled at a German university, with at least one year of studies remaining , ideally in business, economics, informatics, data science, computer science, or a related field.
+✔ Practical experience with AI , especially GPT-based tools .
+✔ Basic understanding of prompt engineering .
+✔ Experience with data visualization tools (e.g., Google Data Studio).
+✔ Familiarity with API development and integration (LLM-related).
+✔ Strong analytical and problem-solving skills .
+✔ Interest in software, hardware, and automation .
+✔ Fluent in English .
+ Nice-to-have
+ ✔ Experience with Google Analytics or Meta Insights .
+✔ Basic scripting knowledge.
+✔ Understanding of statistical methods and A/B testing .
+✔ Familiarity with collaboration tools (e.g., Confluence, Trello, Slack).
+✔ German language skills.
+ Benefits
+ Flexible working hours 
+ Cozy office spaces with relaxation and gaming areas, snacks, drinks, and ergonomic equipment 
+ An international team with colleagues from over 30 countries and English as our company language
+ Initiatives and resources to support your well-being and mental health 
+ Annual training budget for courses, seminars, and workshops
+ Regular team activities, including summer and Christmas parties as well as other team events
+ Option for monthly reimbursement of internet costs
+ Access to the Corporate Benefits platform for exclusive vouchers and discounts
+ Inclusion
+ At social sweethearts, we are committed to fostering a diverse, inclusive, and discrimination-free workplace. We welcome all applicants regardless of age, gender, background, religion, sexual orientation, gender identity, disability, or any other protected characteristic. What matters to us is how you contribute to our team!
+ If you have a disability, chronic condition, or are neurodivergent and require accommodations to support you during the application process (e.g., assistive tools, additional time, or other adjustments), please feel free to reach out to us. We want to ensure that every candidate has an equal opportunity to thrive.

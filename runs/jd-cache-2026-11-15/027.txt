@@ -1,0 +1,50 @@
+URL: https://www.linkedin.com/jobs/view/4488598702
+TITLE: AI & Full-Stack Engineer (m/w/d) - Praktikum/Werkstudium
+COMPANY: ImmoFynn AI
+LOC: Frankfurt, Hesse, Germany
+POSTED: 2026-11-11
+title: AI & Full-Stack Engineer (m/w/d) - Praktikum/Werkstudium
+company: ImmoFynn AI
+posted: 3 days ago
+applicants: 33 applicants
+apply_offsite: 
+---
+Über ImmoFynn 
+ Immobilien sind die größte Anlageklasse der Welt. Trotzdem laufen sie bis heute über Papier, Telefonate und Excel.
+ Das ändern wir. ImmoFynn entwickelt KI-Agenten, die Vermietern schon heute Stunden an Arbeit abnehmen. Unser Ziel: Immobilien so mühelos machen wie jedes andere Investment.
+ 2026 gegründet, Kunden von privaten Vermietern bis zu Family Offices, tausende Einheiten in der Pipeline.
+ Jetzt hast du die Chance, ImmoFynn von Anfang an mitzubauen.
+ Die Rolle 
+ Als Teil unseres ersten Engineering-Teams arbeitest du direkt mit uns, Samuel (CEO) und Jonas (CPO), zusammen. Du entwickelst unsere Software mit, von neuen Features über Integrationen bis zu unseren KI-Agenten, und übernimmst eigene Verantwortung für Teile des Produkts.
+ Deine Aufgaben 
+ Full-Stack-Entwicklung: Du baust Features eigenständig, vom Datenmodell bis zur Oberfläche.
+ KI-Agenten: Du entwickelst die Logik und Workflows unserer Agenten weiter, von Text bis Voice.
+ Integrationen & Sicherheit: Du bindest Banken, E-Mail und externe Systeme an, sicher und datenschutzkonform.
+ Produkt: Du entscheidest mit, was wir bauen und wie.
+ Was wir suchen 
+ Laufendes oder abgeschlossenes Studium in Informatik, Wirtschaftsinformatik oder einer verwandten Fachrichtung
+ Du hast schon echte Software gebaut und live gebracht, ob privat, im Job oder bei Hackathons
+ Du beherrschst Frontend und Backend und verstehst, wie Systeme zusammenhängen
+ Du baust mit KI-Coding-Tools wie Claude Code oder Cursor schnell, ohne dabei Qualität aufzugeben
+ Du arbeitest eigenständig, übernimmst Verantwortung und lieferst auch in intensiven Phasen ab
+ Gute Deutsch- und Englischkenntnisse
+ Tech Stack 
+ Sprache: TypeScript
+ Frontend: React, Tailwind CSS, shadcn/ui
+ Backend: PostgreSQL, Serverless, Durable Workflows
+ KI: LLMs (OpenAI, Claude, Gemini etc.), Voice Agents
+ Bonuspunkte 
+ Open-Source-Projekte oder ein Live-Projekt, das wir uns anschauen können
+ Erfahrung mit unserem Stack
+ Erfahrung im Aufbau von KI-Agenten oder RAG-Systemen
+ Startup- oder eigene Gründungserfahrung
+ Was wir bieten 
+ Die Möglichkeit, von Anfang an in einem schnell wachsenden Startup dabei zu sein
+ Direkte Zusammenarbeit mit uns Gründern und großer Einfluss auf Architektur und Produkt
+ Echte Verantwortung und eine extrem steile Lernkurve
+ Eigenes Büro in Frankfurt, optional Coworking im TechQuartier
+ Rahmenbedingungen 
+ Praktikum: 3 Monate in Vollzeit oder Pflichtpraktikum bis 6 Monate
+ Werkstudium: 16–20 Stunden pro Woche
+ Standort: Frankfurt am Main, hybrid; remote innerhalb Deutschlands möglich, mit regelmäßigen Treffen vor Ort
+ Start: ab sofort

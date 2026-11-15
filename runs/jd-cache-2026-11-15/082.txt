@@ -1,0 +1,41 @@
+URL: https://www.linkedin.com/jobs/view/4489367086
+TITLE: Trainee Data Engineer
+COMPANY: sikwel GmbH
+LOC: Oldenburg, Lower Saxony, Germany
+POSTED: 2026-11-14
+title: Trainee Data Engineer
+company: sikwel GmbH
+posted: 7 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+Deine Aufgaben 
+ Dein Herz schlägt für die IT, du bist dir aber noch nicht sicher, in welche Richtung du dich entwickeln möchtest? 
+ Wir hätten eine Lösung: In unserem Traineeprogramm zum Data Engineer durchläufst du alle Stufen vom Einsteiger bis zum Data Expert. Du lernst an der Seite erfahrener Kollegen, skalierbare, leistungsfähige und zugleich kosteneffiziente Datenplattformen aufzubauen, die es unseren Kunden ermöglichen, ihre Daten bestmöglich zu nutzen und so echte Mehrwerte zu stiften.
+ Als Data Engineer ist dein Job vielfältig und herausfordernd: Einerseits bist du Lösungsarchitekt und konzipierst in enger Zusammenarbeit mit unseren Kunden – vom Start-Up bis zum DAX-Konzern – moderne Datenplattformen nach aktuellen Best-Practices. Andererseits bist du Entwickler, indem du deine Ideen hands-on durch eigenen Code Wirklichkeit werden lässt. 
+ In unseren Projekten nutzen wir insbesondere Technologien des Modern Data Stack. Bedeutet für dich, dass du innerhalb kürzester Zeit verschiedenste Lösungen rund um Tools wie dbt, Snowflake, Databricks in allen Hyperscalern wie AWS, Azure oder GCP kennenlernen und in deiner täglichen Arbeit einsetzen wirst.
+ Ein Auszug aus deinem zukünftigen Alltag: 
+ Du arbeitest in funktionsübergreifenden Teams – gemeinsam mit Data Engineers, Data Analysts und Business People, von uns und unseren Kunden
+ Du entwirfst und entwickelst robuste und skalierende Datenlösungen entsprechend kundenseitiger Projekterfordernisse
+ Du erstellst, optimierst und orchestrierst ELT-Prozesse, um Daten aus unterschiedlichen Quellen in einem Data Warehouse zu konsolidieren
+ Du hältst mit uns gemeinsam Ausschau nach neuen Technologien und Trends
+ Du hast jeden Tag ein Team hinter dir, welches dich bei allen noch so komplexen Herausforderungen entlang deiner Projekte unterstützt
+ Dein Profil 
+ Für dieses Jobprofil, offenbar der “sexiest job of the 21st century", suchen wir nach einer Person, die bereits über erste Erfahrung in der Programmierung und/oder in der Arbeit mit der Cloud verfügt. Wir suchen nach einer aufgeschlossenen Persönlichkeit, die Lust darauf hat, das Wachstum unseres jungen Unternehmens aktiv mitzugestalten. Mit Neugier und Offenheit für neue Themen, Spaß an der Arbeit mit Daten und einem Coder-Mindset bist du die Person, die zu uns passt.
+ Perfekt wird es, wenn du auch folgende Punkte mitbringst…
+ Das Wichtigste: Du brennst für das Thema „Daten“ und möchtest Tag für Tag in einem hochmotivierten Team neue Dinge dazulernen
+ Du trägst das „Tüftler-Gen“ in dir und machst dich selbstständig auf die Suche nach der besten Lösung für deine aktuelle Herausforderung
+ Du hast idealerweise bereits erste Erfahrungen in SQL und relationalen Datenbanken und/oder Programmiersprachen wie Python, Java, R und Co. sammeln können
+ Du hast ggf. bereits erste Berührungspunkte mit einer Cloud wie AWS, Azure oder GCP gehabt
+ Möglicherweise hast du auch schon kleinere Projekte in deinem vorherigen Job gemanaged und fühlst dich bereit, auch Data Analytics-Projekte eigenverantwortlich zu leiten
+ Wenn du bereits erste Erfahrungen mit unserem Tech-Stack gesammelt hast - umso besser. Falls nicht helfen wir dir bei der Einarbeitung
+ Du hast fließende Deutschkenntnisse (mindestens C2-Niveau)
+ Warum wir? 
+ Aktuell sind wir 10 Mitarbeiter*innen. Bedeutet, dass du früh an Board bist und die Gelegenheit bekommst, aktiv an der Gestaltung unseres Wachstums teilzuhaben. Was wir dir noch bieten? 
+ Du wirst fester Bestandteil eines super motivierten Teams im Herzen von Oldenburg
+ Frisches Obst und Getränkeflat sind cool, besser sind ein attraktives Gehalt mit echten Aufstiegschancen. Wir bieten dir beides!
+ Flexible Arbeitszeiten und die Möglichkeit zum Homeoffice sind fester Bestandteil unserer Unternehmenskultur
+ Wir freuen uns darauf, dich bei unseren regelmäßigen Workations und vielen weiteren Unternehmungen dabei zu haben
+ Wir statten dich mit vollem Equipment aus - für Büro und zu Hause. Neues MacBook, moderne Monitore und alle Tools, die du benötigst
+ Wir lieben es, uns nach langen Bürotagen auszupowern. Du auch? Deine Mitgliedschaft im Fitnessstudio geht auf uns
+ Wir planen ein festes Budget für deine persönliche Weiterentwicklung ein. Du bestimmst, wo du dich verbessern möchtest - und wir unterstützen dich dabei

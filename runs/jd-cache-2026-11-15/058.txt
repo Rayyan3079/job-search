@@ -1,0 +1,30 @@
+URL: https://www.linkedin.com/jobs/view/4489361360
+TITLE: Praktikum (m/f/d) - Data & AI Engineering
+COMPANY: Scalefree
+LOC: Hannover, Lower Saxony, Germany
+POSTED: 2026-11-14
+title: Praktikum (m/f/d) - Data & AI Engineering
+company: Scalefree
+posted: 8 hours ago
+applicants: 26 applicants
+apply_offsite: 
+---
+Dein Weg zu Scalefree 
+ Du willst schon während oder direkt nach deinem Studium Berufserfahrungen sammeln? Bei Scalefree bist Du als Praktikant mittendrin, statt nur dabei. Du hast Lust auf Systemintegration im Cloud Bereich und der Weiterentwicklung von Informationssystemen? 
+ Dann unterstütze uns bei interessanten internen und externen Projekten und lerne von versierten Experten. Das Praktikum ist für eine Dauer von drei Monaten vorgesehen - Pflichtpraktika in benötigter Länge - und kann entweder vor Ort in Hannover oder Köln absolviert werden. Bitte gib in deiner Bewerbung an, ob du ein Pflichtpraktikum, oder ein freiwilliges Praktikum bei uns absolvieren möchtest. Zusätzliche bieten wir auch für Daten faszinierte ein Quereinsteiger Praktika an. 
+ Deine Aufgaben 
+ Unterstützung unseres Teams bei der Entwicklung und Umsetzung von internen Data & AI Engineering Projekten (Datenextraktion, Data Staging, Reporting)
+ Mithilfe bei der Anbindung und Analyse von Datenquellen an unser Data Platform (Data Vault 2)
+ Übernahme praktischer Aufgaben innerhalb unseres internen Data Platform Teams
+ Praktisches Implementation von Data Vault 2 mit Schwerpunkt auf Staging, Modellierung und Information Delivery
+ Das bringst Du mit 
+ Ein fortgeschrittenes Studium der Informatik, Wirtschaftsinformatik oder eines vergleichbaren Studiengangs
+ Datenbankkenntnisse und/oder SQL-Vorkenntnisse von Vorteil
+ Zuverlässigkeit und selbstständige Arbeitsweise
+ Teamfähigkeit wird vorausgesetzt
+ Gute Englisch- und Deutschkenntnisse erwünscht
+ Was Dich bei uns erwartet? 
+ Entwicklungsmöglichkeiten in einem mittelständischen Unternehmen mit der möglichen Option auf einen späteren Einstieg
+ Individuelle und kontinuierliche Weiterbildungsangebote
+ Einen Teamgeist, der von einem kollegialen Miteinander geprägt ist
+ Verantwortung für deine eigenen Projekte (nach einer strukturierter Einarbeitung, unterstützt durch unser BI-Team)

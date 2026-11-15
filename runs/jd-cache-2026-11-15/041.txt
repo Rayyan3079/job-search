@@ -1,0 +1,15 @@
+URL: https://www.linkedin.com/jobs/view/4489840243
+TITLE: GCP/Power BI Data Analyst (French Speaker)
+COMPANY: Dellent
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-13
+title: GCP/Power BI Data Analyst (French Speaker)
+company: Dellent
+posted: 2 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fpt.linkedin.com%2Fjobs%2Fview%2Fgcp-power-bi-data-analyst-french-speaker-at-dellent-4489840243&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Descrição da Função
+ Dellent is a consulting company focused in System Information and Telecommunications. Our goal is to help our candidates and consultants to take a step forward in their careers through projects that meet their needs and expectations. This project is part of the business investment banking and financial services area, and currently has its technological hub in Portugal and is working on the development of innovative solutions and support for all operations related to the business. We are looking for a GCP/Power BI Data Analyst (French Speaker) to work in this project in Porto or Lisbon (Hybrid). Requirements: - Between 3 and 6 years of professional experience; - Proficiency in Google Cloud Platform (GCP) with a strong understanding of data management and integration practices; - Expertise in Power BI and data integration tools such as SSIS; - Knowledge of programming languages, particularly Python and SQL, for data analysis and manipulation; - Experience working in Agile environments, including participation in daily stand-ups and iterative development practices; - French proficiency is mandatory (B2 level, minimum).; - Fluent in English. What can you expect from us? - Health insurance; - A personalized training plan, with a budget to spend on the training you find necessary; - Constant feedback so you can grow professionally; - Remote onboarding process; - Team events every semester so you can live new adventures; - Exclusive discounts and offers from our partners; - Culture of proximity and transparency. Your ideas and needs are heard and valued by us!
+ Localização
+ Lisboa, Porto, Portugal

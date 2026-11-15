@@ -1,0 +1,57 @@
+URL: https://www.arbeitsagentur.de/jobsuche/jobdetail/18706-9JKMKLB2Thrfnq-S
+TITLE: Werkstudent (m/w/d) Digitalisierung, KI & Automatisierung
+COMPANY: ZV Komm. Verkehrssicherheit
+LOC: Amberg, Oberpfalz
+POSTED: AA
+title: Werkstudent (m/w/d) Digitalisierung, KI & Automatisierung
+company: ZV Komm. Verkehrssicherheit
+posted: 2026-11-13
+location: Amberg | remote: 
+---
+Dein Studium steckt voller Ideen. Unsere Verwaltung voller Möglichkeiten.
+Du siehst einen umständlichen Ablauf und denkst: „Das müsste doch automatisch gehen“? Du probierst mit ChatGPT mehr aus als die nächste Hausarbeit und würdest mit n8n am liebsten gleich einen Workflow bauen? Dann haben wir ab sofort ein paar ziemlich spannende Aufgaben für Dich.
+Beim Zweckverband Kommunale Verkehrssicherheit Oberpfalz in Amberg unterstützt Du die Geschäftsführung dabei, Verwaltung neu zu denken: digitaler, einfacher und intelligenter. Mit echten Projekten, Raum zum Ausprobieren und Ergebnissen, die Deinen Kolleginnen und Kollegen den Arbeitsalltag erleichtern.
+Wer wir sind
+Wir kümmern uns für rund 170 Kommunen um die Verkehrssicherheit. Dahinter stecken viele wiederkehrende Abläufe, große Datenmengen und jede Menge Potenzial für clevere Lösungen. Genau dort setzen wir an: von der Bearbeitung von Ordnungswidrigkeiten bis zu unseren internen Prozessen.
+Unsere Anforderungen
+Du studierst beispielsweise Informatik, Wirtschaftsinformatik, Künstliche Intelligenz, Digital Business oder einen vergleichbaren Studiengang.
+Du kennst Dich mit Microsoft 365 aus und hast erste praktische Erfahrungen mit KI-Anwendungen und Large Language Models.
+RPA ist für Dich kein Fremdwort. Tools wie n8n oder Power Automate hast Du vielleicht schon ausprobiert – oder möchtest endlich ein echtes Projekt damit umsetzen.
+Du interessierst Dich für Cloud-Technologien, Schnittstellen und das Zusammenspiel verschiedener Anwendungen.
+Du denkst strukturiert, fragst nach und hast den Mut, etwas anzupacken. Dabei gehst Du sorgfältig mit Daten um und behältst im Blick, wer mit Deiner Lösung arbeiten soll.
+Du musst nicht unsere komplette Tool-Liste beherrschen. Uns interessieren Dein technisches Verständnis, Deine Neugier und Deine Lust, Dich in neue Themen einzuarbeiten. Ein eigenes kleines Projekt kann dabei genauso spannend sein wie eine gute Studienleistung.
+Ihre Aufgaben
+Aus „Das machen wir immer so“ wird „Das geht auch einfacher“.
+Digitalisierung mitgestalten: Du unterstützt die Geschäftsführung dabei, Abläufe zu hinterfragen, Verbesserungen zu entwickeln und praktisch umzusetzen.
+Automatisierungen bauen: Du verbindest Anwendungen, reduzierst manuelle Arbeitsschritte und erprobst Workflows – beispielsweise mit Power Automate, n8n oder RPA.
+KI sinnvoll einsetzen: Du testest, wie uns Large Language Models wie GPT und Anwendungen wie Microsoft Copilot bei konkreten Aufgaben unterstützen können.
+Microsoft 365 weiterdenken: Du hilfst uns, die Möglichkeiten von Microsoft 365, Cloud-Diensten und gegebenenfalls Microsoft Azure besser zu nutzen.
+Daten verständlich machen: Du entwickelst Auswertungen und Dashboards, etwa mit Power BI, die aus Zahlen hilfreiche Entscheidungsgrundlagen machen.
+Von der Idee in den Alltag kommen: Du baust Prototypen, testest sie gemeinsam mit den Beschäftigten und hilfst dabei, funktionierende Lösungen verständlich zu dokumentieren.
+Mögliche Projekte? Dienst- und Einsatzplanung, digitale Beschaffungsabläufe, Unterstützung bei Tages- und Jahresabschlüssen oder standardisierte Prozesse in der Ordnungswidrigkeitenbearbeitung. Gemeinsam wählen wir aus, wo Du mit Deinen Stärken am meisten bewegen kannst.
+Wir bieten
+Du möchtest neben dem Studium praktische Erfahrungen sammeln, eigene Ideen verwirklichen und dabei gutes Geld verdienen? Bei uns kannst du im Rahmen von 4 – 20 Stunden pro Woche austoben – und das für 18 Euro die Stunde!
+Praxis direkt vor der Tür: Dein Arbeitsplatz ist in Amberg – ideal, wenn Du hier studierst.
+Flexibilität fürs Studium: Wir stimmen Deine Arbeitszeiten auf Vorlesungen und Prüfungsphasen ab. Arbeiten ist im Büro und im Homeoffice möglich.
+Ausstattung, die zu Dir passt: Du kannst Deine technische Arbeitsausstattung mit auswählen.
+Direkten Austausch mit der Geschäftsführung: Deine Ideen kommen dort an, wo Entscheidungen getroffen werden.
+Platz zum Experimentieren: Du kannst Lösungen ausprobieren, dazulernen und eigene Vorschläge einbringen.
+Sichtbare Ergebnisse: Was Du entwickelst, soll genutzt werden und im Alltag etwas verbessern.
+Ein Team mit Fachwissen: Unsere Beschäftigten kennen die Praxis. Du bringst den frischen technischen Blick mit. Gemeinsam machen wir daraus gute Lösungen.
+Vergünstigungen & Mitarbeiterrabatte
+Vielfältige Firmenevents
+Bürohundetag
+Klingt nach Deinem nächsten Praxisprojekt?
+Dann bewirb Dich über unser Stellenportal. Zeig uns gerne, womit Du Dich schon beschäftigt hast: ein Studienprojekt, ein GitHub-Repository, einen selbst gebauten Workflow oder eine Idee, die Du bei uns ausprobieren möchtest.
+Mach aus Deinem Wissen etwas, das funktioniert. Und aus Verwaltung etwas, das weiterkommt.
+Bitte reiche Deine aussagekräftigen Bewerbungsunterlagen bis spätestens
+11. DEZEMBER 2026
+über das Online-Formular ein.
+Nähere Auskünfte erteilt Dir unsere Personalabteilung unter der Telefonnummer 09621 76916-11.
+Informationen zum Zweckverband findest Du unter www.zv-kvs.de.
+Kein Anschreiben nötig! Schick uns einfach deinen Lebenslauf und erzähl uns in drei Sätzen, warum du Lust auf Digitalisierung, KI & Automatisierung hast. Ferner benötigen wir noch deine Immatrikulationsbescheinigung.
+Bei Vorliegen einer Schwerbehinderung ist die Kopie des Schwerbehindertenausweises oder bei einem Grad der Behinderung von weniger als 50 v. H. der Gleichstellungsbescheid nach § 68 Abs. 2 Sozialgesetzbuch IX erforderlich. Schwerbehinderte Bewerber werden bei gleicher Eignung und Berücksichtigung aller Umstände des Einzelfalls bevorzugt berücksichtigt.
+Der Zweckverband fördert aktiv die Gleichstellung aller Mitarbeiter. Wir begrüßen deshalb Bewerber, unabhängig von deren kulturellen und sozialen Herkunft, Alter, Religion, Weltanschauung, Behinderung oder sexueller Identität.
+Wir sichern Dir zu, die von Dir übersandten Daten vertraulich zu behandeln. Im Übrigen dürfen wir auf die Datenschutzerklärung auf unserer Homepage verweisen.
+\*Grafik mit Hilfe von KI erstellt; Bild mit KI nachbearbeitet
+Bitte bewirb Dich ausschließlich über unser Stellenportal.

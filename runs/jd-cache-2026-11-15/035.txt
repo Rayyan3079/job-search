@@ -1,0 +1,38 @@
+URL: https://www.linkedin.com/jobs/view/4489079126
+TITLE: Business Intelligence Specialist
+COMPANY: CIMB Niaga
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-12
+title: Business Intelligence Specialist
+company: CIMB Niaga
+posted: 3 days ago
+applicants: Over 200 applicants
+apply_offsite: 
+---
+This role focuses on developing and delivering data-driven solutions to support strategic business decisions. It involves collaborating with stakeholders to turn raw data into actionable insights through dashboards, reports, and analytical models, while continuously exploring emerging BI tools and technologies to enhance data analytics capabilities.
+ Key Responsibilities: 
+ Analyze large datasets to identify trends, patterns, and insights.
+ Create and maintain dashboards and reports using Bl tools (e.g., Power BI, Tableau, Qlik).
+ Ensure reports are accurate, timely, and aligned with business needs.
+ Design and implement data models to support reporting and analytics.
+ Develop ETL (Extract, Transform, Load) processes to integrate data from various sources.
+ Optimize data pipelines for performance and scalability.
+ Work with business units to gather requirements and understand KPIs.
+ Translate business needs into technical specifications.
+ Present findings and recommendations to non-technical stakeholders.
+ Maintain and enhance Bl platforms and tools.
+ Ensure data security and compliance with governance policies.
+ Troubleshoot and resolve issues related to Bl systems.
+ Monitor Bl system performance and suggest improvements.
+ Stay updated on Bl trends, tools, and best practices.
+ Contribute to data literacy initiatives within the organization.
+ Qualifications: 
+ Bachelor's degree (S1) in Information Systems, Informatics Engineering, Statistics, Mathematics, or a related field.
+ Minimum 2 years of hands-on experience using Tableau for dashboard development and data visualization.
+ Minimum 3 years of experience in Business Intelligence, Data Analytics, or a related field .
+ Strong SQL skills for data processing and analysis.
+ Good understanding of data warehousing, data modeling, and ETL processes.
+ Experienced in working with large and complex datasets.
+ Ability to translate business requirements into informative dashboards and data visualizations.
+ Good communication and presentation skills.
+ Experience with Power BI, Python, Alteryx, or cloud data platforms is a plus.

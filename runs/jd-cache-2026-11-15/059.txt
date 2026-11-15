@@ -1,0 +1,69 @@
+URL: https://www.linkedin.com/jobs/view/4482473161
+TITLE: Internship: AI-based Test & Measurement Workflows
+COMPANY: Emerson
+LOC: Dresden, Saxony, Germany
+POSTED: 2026-11-13
+title: Internship: AI-based Test & Measurement Workflows
+company: Emerson
+posted: 1 day ago
+applicants: 86 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Finternship-ai-based-test-measurement-workflows-at-emerson-4482473161&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Description
+ Wireless communication, sensing technologies and RF components continue to increase in complexity with added functionality. At the same time, AI is transforming the way engineers design and test these systems and how we all use them. In this internship, you will be looking at ways to modify traditional workflows in test design and analyzing measurement results using AI technology to improve their outcome significantly.
+ In This Role, Your Responsibilities Will Be:
+ Literature research
+ Building proof-of-concept implementations of selected algorithms and functionality
+ Setting up and performing measurements
+ Assessing performance and quality of results of the implemented algorithms and functionality
+ Demonstrating your work to internal stakeholders
+ Documenting your work 
+ Who You Are:
+ You are passionate about wireless technology and like to learn and work with the latest test and measurement techniques and equipment. You take time to ask questions and define the problem and make learning a priority. You work effectively in a group environment, solve problems, diagnose technical issues and propose reasonable solutions. You prepare content for communication that is impactful and reach out to mentors with questions to help drive progress and completion of goals and tasks.
+ For This Role, You Will Need:
+ Ongoing academic studies in Electrical Engineering, Information System Technology, Computer Science, or comparable field of studies (from 4th semester)
+ Basic programming knowledge (e.g., Python or C/C++)
+ Interest in data science and/or AI with a solid understanding of basic statistical methods
+ Basic knowledge of RF engineering
+ Basic knowledge of measurement systems and how to take meaningful measurements
+ Good command of spoken and written English and/or German
+ Availability for 4 to 6 months starting in April 2027
+ This internship must be a mandatory part of your studies 
+ Preferred Qualifications That Set You Apart:
+ Experience in the practical use of data analysis tools or methods (in classification & regression, estimation & prediction, data correlation, principal component analysis, …)
+ Experience in the practical use of machine learning, deep learning, artificial intelligence tools or methods (AI APIs and toolchains, PyTorch, Tensorflow, …)
+ Experience in taking measurements in the field of electronics, ideally RF engineering, including knowledge about typical uses of instrumentation like signal & arbitrary waveform generators, as well as signal, spectrum, & network analyzers
+ Good knowledge of programming and RF engineering
+ Ability to work independently in a structured way 
+ Our Culture & Commitment to You:
+ We attach great importance to your development, so we want to make sure that you not only find a challenging job with us, but also a workplace that is supportive and rewarding. You'll receive structured onboarding as well as dedicated support from professional mentors.
+ Practical expertise imparted:
+ Opportunity to work with the latest measurement techniques and equipment 
+ Experience in improving technology day by day
+ Get insight into how day-to-day business looks like for an engineer 
+ Work in an international R&D team 
+ In addition, you can expect a variety of attractive employee benefits:
+ Fair compensation
+ Flexible working hours
+ Team events and free drinks, fruits, and veggies 
+ We are committed to providing an inclusive, open, and welcoming workplace environment for people, helping all to make the most of their professional potential.
+ Are you interested?
+ If so, we look forward to receiving your application via our application portal, including motivation letter, CV, compulsory internship certificate from your university internship or examination office, most recent certificates and grade transcripts.
+National Instruments Dresden GmbH
+Ms. Nataliia Verbylo
+Am Waldschloesschen 2
+01099 Dresden
+Germany
+ About Us
+ WHY EMERSON
+ Our Commitment to Our People
+ At Emerson, we are motivated by a spirit of collaboration that helps our diverse, multicultural teams across the world drive innovation that makes the world healthier, safer, smarter, and more sustainable. And we want you to join us in our bold aspiration.
+We have built an engaged community of inquisitive, dedicated people who thrive knowing they are welcomed, trusted, celebrated, and empowered to solve the world’s most complex problems — for our customers, our communities, and the planet. You’ll contribute to this vital work while further developing your skills through our award-winning employee development programs. We are a proud corporate citizen in every city where we operate and are committed to our people, our communities, and the world at large. We take this responsibility seriously and strive to make a positive impact through every endeavor.
+At Emerson, you’ll see firsthand that our people are at the center of everything we do. So, let’s go. Let’s think differently. Learn, collaborate, and grow. Seek opportunity. Push boundaries. Be empowered to make things better. Speed up to break through. Let’s go, together.
+ Accessibility Assistance or Accommodation
+ If you have a disability and are having difficulty accessing or using this website to apply for a position, please contact: idisability.administrator@emerson.com .
+ About Emerson
+ Emerson is a global leader in automation technology and software. Through our deep domain expertise and legacy of flawless execution, Emerson helps customers in critical industries like life sciences, energy, power and renewables, chemical and advanced factory automation operate more sustainably while improving productivity, energy security and reliability.
+With global operations and a comprehensive portfolio of software and technology, we are helping companies implement digital transformation to measurably improve their operations, conserve valuable resources and enhance their safety.
+We offer equitable opportunities, celebrate diversity, and embrace challenges with confidence that, together, we can make an impact across a broad spectrum of countries and industries. Whether you’re an established professional looking for a career change, an undergraduate student exploring possibilities, or a recent graduate with an advanced degree, you’ll find your chance to make a difference with Emerson. Join our team – let’s go!
+ No calls or agencies please.
