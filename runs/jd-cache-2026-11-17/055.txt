@@ -1,0 +1,39 @@
+URL: https://www.linkedin.com/jobs/view/4488539841
+TITLE: Studentische Hilfskraft (SHK) (gn*) Datenbanken und KI in der Intensivmedizin
+COMPANY: Universitätsklinikum Münster
+LOC: Münster, North Rhine-Westphalia, Germany
+POSTED: 2026-11-12
+title: Studentische Hilfskraft (SHK) (gn*) Datenbanken und KI in der Intensivmedizin
+company: Universitätsklinikum Münster
+posted: 4 days ago
+applicants: 35 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fstudentische-hilfskraft-shk-gn-datenbanken-und-ki-in-der-intensivmedizin-at-universit%25C3%25A4tsklinikum-m%25C3%25BCnster-4488539841&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Befristet bis zum 31.12.2027 | In Teilzeit mit 7 Wochenstunden | Vergütung nach Absprache | Klinik für Anästhesiologie, operative Intensivmedizin und Schmerztherapie
+ Wir sind das UKM. Wir haben einen klaren gesellschaftlichen Auftrag und mit der Verbindung von Krankenversorgung, Forschung und Lehre eine besondere Verantwortung.
+Während Deiner Tätigkeit neben dem Studium in der Klinik für Anästhesiologie profitierst Du von individueller Betreuung, attraktiven Rahmenbedingungen und vielen Möglichkeiten zu wachsen und Dich einzubringen. Gemeinsam wollen wir erfolgreich in die Zukunft starten – am besten mit Dir!
+ Im Rahmen des Forschungsprojekts „aICU Nephro IMF“ suchen wir Unterstützung bei der Entwicklung von Datenbank- und Infrastrukturlösungen. Ziel des Projekts ist die Entwicklung eines KI-gestützten klinischen Entscheidungssystems für nephroprotektive Maßnahmen auf Intensivstationen. Ein zentraler Bestandteil ist die Arbeit mit dem OpenICU-Projekt, das Daten aus verschiedenen intensivmedizinischen Datenbanken zusammenführt und für maschinelles Lernen aufbereitet.
+ Verantwortungsvolle Aufgaben
+ Unterstützung bei der Verwaltung, Pflege und Weiterentwicklung relationaler Datenbanken, insbesondere PostgreSQL
+ Mitarbeit an der OpenICU-Dateninfrastruktur zur Zusammenführung und Aufbereitung intensivmedizinischer Daten
+ Extraktion, Standardisierung und Verarbeitung von Daten aus unterschiedlichen Quellen
+ Entwicklung und Optimierung von Datenpipelines zur Bereitstellung von Daten für maschinelle Lernverfahren
+ Unterstützung bei der Entwicklung einer grafischen Benutzeroberfläche (GUI) zur Visualisierung von Ergebnissen und Interaktion mit KI-Modellen
+ Anforderungen
+ Gültige Immatrikulation in einem relevanten Studiengang, beispielsweise Informatik, Medizininformatik oder Data Science
+ Fundierte praktische Kenntnisse im Umgang mit relationalen Datenbanksystemen, insbesondere PostgreSQL
+ Grundkenntnisse in der Programmierung, vorzugsweise mit Python
+ Interesse an der Verarbeitung und Analyse medizinischer Daten sowie an maschinellem Lernen
+ Selbstständige, strukturierte und sorgfältige Arbeitsweise
+ Teamfähigkeit und Freude an der interdisziplinären Zusammenarbeit
+ Wir Bieten
+ Flexible Arbeitszeiten, die sich gut mit Deinem Studium vereinbaren lassen, sowie die Möglichkeit zum Homeoffice
+ Mitarbeit an einem aktuellen Forschungsprojekt mit direktem Bezug zur intensivmedizinischen Praxis
+ Einblicke in moderne Technologien der Medizininformatik und des maschinellen Lernens
+ Zusammenarbeit mit einem interdisziplinären Forschungsteam aus Intensivmedizin, Informatik und maschinellem Lernen
+ Vielfältige Fort- und Weiterbildungsmöglichkeiten für Deine Entwicklung
+ Respektvolles Miteinander und wertschätzende Zusammenarbeit in einem vielfältigen Team
+ Zahlreiche Unterstützungs- und Beratungsangebote
+ Viele weitere Vorteile wie Sportangebote, Jobticket, Betriebsfeste und Kantine
+ Rückfragen an: Dr. Christian Porschen, T 0251 83-47255
+ Jetzt bewerben über unser Karriereportal.

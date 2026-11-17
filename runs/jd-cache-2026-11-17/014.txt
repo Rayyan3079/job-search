@@ -1,0 +1,39 @@
+URL: https://www.linkedin.com/jobs/view/4490686740
+TITLE: Praktikant Software Engineering - AI Defect Analysis (m/w/d/x)
+COMPANY: Mercedes-Benz Tech Innovation
+LOC: Ulm, Baden-Württemberg, Germany
+POSTED: 2026-11-16
+title: Praktikant Software Engineering - AI Defect Analysis (m/w/d/x)
+company: Mercedes-Benz Tech Innovation
+posted: 12 hours ago
+applicants: 30 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikant-software-engineering-ai-defect-analysis-m-w-d-x-at-mercedes-benz-tech-innovation-4490686740&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Jetzt bewerben!
+ Wir sind Mercedes-Benz Tech Innovation - doch wir bauen keine Autos: Wir definieren die Zukunft mit Technologie.
+ Als größte Tech Company der Mercedes-Benz Group AG arbeiten rund 2.500 Mitarbeitende in Ulm, im Raum Stuttgart, in Berlin und in Karlsruhe sowie in internationalen Tech Hubs an den Techniktrends der Mobilität von morgen.
+Uns verbindet die Begeisterung für Innovation und neueste Technologien – kombiniert mit der Überzeugung, dass individuelle Freiheit und Eigenverantwortung für echten Fortschritt entscheidend sind. Wir sind #techinnovators.
+ Mehr über uns erfahren Über uns Mercedes-Benz Tech Innovation GmbH
+ Welche Aufgaben erwarten dich?
+ Als Praktikant Software Engineering – AI Defect Analysis (m/w/d/x) unterstützt du das Team bei der Entwicklung eines innovativen Softwareprodukts zur KI-gestützten Fehleranalyse.
+ Du wirkst bei der Entwicklung und Weiterentwicklung moderner Web-UIs und nutzerorientierter Funktionen mit.
+ Zudem unterstützt du bei der Entwicklung REST-basierter Backend-Komponenten und arbeitest mit containerisierten Softwarearchitekturen.
+ Du unterstützt beim Aufbau und der Weiterentwicklung der Cloud-Infrastruktur auf Microsoft Azure, beispielsweise mithilfe von Infrastructure-as-Code.
+ Du entwickelst und erprobst KI-, LLM- und AI-Agent-basierte Lösungen zur Analyse und Automatisierung.
+ Darüber hinaus arbeitest du aktiv am gesamten Entwicklungsprozess mit – von der Idee über die Implementierung und das Testing bis hin zur Integration – und bringst deine eigenen Ideen ein.
+ Wie passt du in unser Team?
+ Bereit, durchzustarten? Wenn du uns mit nachweislich hervorragenden Deutsch- und Englischkenntnissen überzeugst und deine vollständigen Bewerbungsunterlagen (Anschreiben, Lebenslauf, Notenübersicht, Immatrikulationsbescheinigung sowie ggf. Aufenthaltsgenehmigung/Arbeitserlaubnis) vorliegen, bist du nur noch einen Klick von deiner Chance entfernt.
+ Kleiner Tipp: Bei der Flut an Top-Bewerbungen, die wir bekommen, ist eine lückenlose Bewerbung dein einziges Ticket ins Spiel. Ohne das komplette Paket geht's für dich leider nicht weiter – no exceptions!
+ Du studierst Informatik, Software Engineering oder einen vergleichbaren Studiengang.
+ Du bringst Kenntnisse in Python, Java oder C++ sowie grundlegende Erfahrungen mit Git und Softwareentwicklungsprozessen mit.
+ Du interessierst dich für moderne Web- und UI-Entwicklung und hast idealerweise bereits erste praktische Erfahrungen in diesem Bereich gesammelt.
+ Du begeisterst dich für Cloud-Technologien wie Microsoft Azure, Infrastructure-as-Code oder REST-basierte Backend-Entwicklung.
+ Idealerweise bringst du erste Erfahrungen mit Generative AI, Large Language Models (LLMs) oder AI Agents mit.
+ Du arbeitest selbstständig, bist motiviert, Neues zu lernen, und bringst eine ausgeprägte Leidenschaft für Software und Technologie mit.
+ Benefits
+ Flexible Arbeitsgestaltung
+ Damit neben Studium und Arbeit noch genügend Freizeit bleibt, bekommst du bei uns anteilig 30 Urlaubstage sowie die Möglichkeit, deine Arbeitszeiten flexibel zu planen. In Abstimmung mit deinem Team und deinem Ansprechpartner hast du auch die Möglichkeit, remote zu arbeiten . Zudem sind nahezu alle unsere Stellen geeignet, um in Teilzeit ausgeführt zu werden.
+ Mittendrin statt nur dabei
+ Du begleitest innovative Projekte am Puls der Zeit und übernimmst verantwortungsvolle Aufgaben, so bist du von Beginn an ein vollwertiges Mitglied unseres Teams! Natürlich profitierst du hierbei von einem attraktiven Gehalt .
+ Begegnung auf Augenhöhe
+ Bei Mercedes-Benz Tech Innovation sind wir ein Team! Unsere Zusammenarbeit basiert auf gegenseitigem Vertrauen und Respekt. Flache Hierarchien , eine wertschätzende Atmosphäre , Offenheit und Aufgeschlossenheit gehören bei uns zum Arbeitsalltag. Damit dein Start bei uns gelingt, erhältst du eine individuelle Einarbeitung und einen direkten Ansprechpartner .

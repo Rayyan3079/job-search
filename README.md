@@ -20,6 +20,6 @@ Internships, thesis roles, full-time roles and German-required roles are listed 
 
 ## Latest run
 
-**2026-11-15**: 95 new jobs checked. 3 packages: [NexWafe – Working Student IT & AI Automation](output/2026-11-15/nexwafe-working-student-it-ai-automation/) (3.5), [Black Semiconductor – Working Student – Data & AI](output/2026-11-15/black-semiconductor-working-student-data-ai/) (3.5), [adjoe – Working Student – Data Science](output/2026-11-15/adjoe-working-student-data-science/) (3). Report: [digests/2026-11-15.md](digests/2026-11-15.md).
+**2026-11-17**: 78 new jobs checked. 4 packages: [SAP SE – Working Student – Cloud Developer for SAP Document AI](output/2026-11-17/sap-working-student-cloud-developer-document-ai/) (3), [greenventory – Student Data Science (working student / internship)](output/2026-11-17/greenventory-student-data-science/) (3.5), [The Mobility House – Working Student Partner Success – Data & Reporting](output/2026-11-17/mobility-house-working-student-partner-success-data-reporting/) (3.5), [Essity – Working Student Management Reporting](output/2026-11-17/essity-working-student-management-reporting/) (2.5). Report: [digests/2026-11-17.md](digests/2026-11-17.md).
 
 Applied and waiting: 15 applications (KWS, Munich Re x2, Atlas Copco, ZEISS, AgentixLake x2, IMMS, SAP x2, Airbus, BASF, Hilti, Carnival Maritime, Solactive). See [data/applications.md](data/applications.md).

@@ -1,0 +1,47 @@
+URL: https://www.linkedin.com/jobs/view/4490914149
+TITLE: Business Intelligence Analyst
+COMPANY: Talent Systems
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-16
+title: Business Intelligence Analyst
+company: Talent Systems
+posted: 12 hours ago
+applicants: 112 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fin.linkedin.com%2Fjobs%2Fview%2Fbusiness-intelligence-analyst-at-talent-systems-4490914149&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Company and Team Overview
+ Talent Systems, LLC is the leading technology solution provider for casting and auditioning in the entertainment industry. Casting directors and agents worldwide use Talent Systems’ portfolio of products to source and manage talent across film, television, commercials, theater, and digital projects, powering an unparalleled, global casting software ecosystem.
+ We are headquartered in Los Angeles and operate in the US, Canada, the UK, Australia, and India. Our portfolio brands include Casting Networks, Spotlight, Cast It Systems, Cast It Talent, Casting Frontier, Staff Me Up, Tagmin, and Cast It Reach.
+ Job Purpose
+ Talent Systems is looking for a highly motivated BI Analyst to join our team. You will play a key role in designing, developing, and maintaining BI dashboards, reports, and data models that cater to all of our platforms and provide actionable insights to support critical business decisions.
+ The ideal candidate has a strong foundation in SQL, Business Intelligence, Data Analytics and AI tools.This role requires someone with a solid understanding of data analysis and visualization, a strong ability to understand business models, and the capacity to collaborate seamlessly with internal stakeholders.
+ Additionally, you should possess hands-on experience with at least one of the industry leading BI tools (Power BI, Tableau or similar) and have the ability to quickly learn and adapt using modern AI-driven tools.
+ This role is located in Hyderabad, India, and you will be expected to work from the office as per the HR policies applicable to Talent System employees in Hyderabad.
+ ● Develop, maintain, and optimize dashboards and reports using BI tools in Power BI or similar
+ tools.
+ ● Champion cross-functional collaboration by speaking the business language fluently with internal
+ stakeholders to gather requirements and translate them into business models that form the
+ underlying foundation for analytics solutions.
+ ● Leverage data from all sources by writing well-optimized SQL queries in Snowflake to extract and
+ extend existing data models when required.
+ ● Identify the narrative in complex data sets and bring it to life through strong visual dashboarding
+ skills.
+ ● Consistently identify new data insights and work to extend existing data models in a continuous
+ improvement approach.
+ ● Continually learn and adapt to new technologies and tools as required to support business needs.
+ Requirements
+ ● Minimum of 4-5 years of overall experience, with 3-4 years of experience specifically as a BI
+ Analyst, Data Analyst, or a similar role.
+ ● Strong SQL fundamentals for data extraction and manipulation. Should have a strong
+ understanding of concepts like advanced joins, sub-queries, CTEs, window functions and be able
+ to manage data conversions in different formats like JSON.
+ ● Ability to work across multiple product platforms and build scalable BI capabilities across diverse
+ data structures.
+ ● Proficiency in reporting and scripting with BI tools (Power BI, Tableau, Qlik Sense, or equivalent)
+ ● Proficiency with Snowflake or other cloud-based data warehouses.
+ ● Familiarity with data analytic tools like Heap, Google Analytics, Braze etc. Basic understanding of
+ integrating data from such tools in BI reporting.
+ ● Excellent problem-solving and communication skills.
+ ● Nice-to-Have: Experience working with large datasets and performance optimization techniques.
+ ● Nice-to-Have: Knowledge of SaaS / subscription-based business models.
+ ● Nice-to-Have: Familiarity with Advanced Data Science and Predictive Analytics.

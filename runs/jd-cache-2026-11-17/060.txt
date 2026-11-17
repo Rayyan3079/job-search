@@ -1,0 +1,38 @@
+URL: https://www.linkedin.com/jobs/view/4489355007
+TITLE: Praktikant / Masterand - AI-Automation & Internal Operations (m/w/d)
+COMPANY: TOOLPLACE GmbH
+LOC: Leipzig, Saxony, Germany
+POSTED: 2026-11-14
+title: Praktikant / Masterand - AI-Automation & Internal Operations (m/w/d)
+company: TOOLPLACE GmbH
+posted: 2 days ago
+applicants: 43 applicants
+apply_offsite: 
+---
+Bei der TOOLPLACE GmbH digitalisieren wir Angebots-, Kalkulations- und Beschaffungsprozesse in der Kunststoffspritzguss- und Werkzeugbau-Branche. Unsere B2B-Plattform vernetzt OEMs, Tier‑1/Tier‑2-Zulieferer, Spritzgießer und Werkzeugmacher und macht die Zusammenarbeit transparenter und effizienter.
+ Damit wir intern genauso effizient arbeiten, wie unsere Kunden es von uns erwarten, suchen wir einen Praktikanten oder Masteranden, der unsere internen Unternehmensprozesse AI-first denkt und konsequent automatisiert – von wiederkehrenden Abläufen bis hin zu komplexeren Workflows rund um Administration, Finanzen, Vertrieb, Projekte und Daten.
+ Aufgaben 
+ Du analysierst bestehende interne Abläufe (zum Beispiel Sales-Funnel, Angebots- und Projektdaten, Reporting, Onboarding) und identifizierst Automatisierungspotenziale.
+ Du baust und optimierst Automationen mit No-/Low-Code-Tools (zum Beispiel Make, Zapier, n8n) sowie mit bestehenden Systemen (zum Beispiel CRM, Projektmanagement-Tools, Dokumentenablagen).
+ Du konzipierst und implementierst AI-/LLM-basierte Workflows – etwa zur strukturierten Aufbereitung von Kunden- und Projektdaten oder zur automatisierten Erstellung von Standarddokumenten und Zusammenfassungen.
+ Du entwickelst kleine interne Tools oder Skripte, um Datenflüsse zwischen Systemen zu automatisieren (zum Beispiel in Python).
+ Du dokumentierst Deine Lösungen verständlich und erstellst kurze Anleitungen, damit Kollegen die Automationen im Alltag nutzen können.
+ Du arbeitest eng mit den Gründern und dem Produktteam zusammen, um interne Prozesse konsequent AI-native zu gestalten.
+ Optional (für Masteranden): Du leitest aus Deiner Arbeit ein Thema für Deine Abschlussarbeit im Umfeld AI-Automation, Prozessdigitalisierung oder interner Plattform-Workflows ab.
+ Qualifikation 
+ Du bist eingeschriebener Student, zum Beispiel in (Wirtschafts-)Informatik, Data Science, Wirtschaftsingenieurwesen, BWL mit starkem Digital- oder Tech-Fokus oder einem vergleichbaren MINT-Studiengang – wichtiger als der genaue Titel ist Dein echtes Interesse an Automatisierung und KI.
+ Du hast bereits praktisch mit Automatisierungs- oder AI-Tools gearbeitet, zum Beispiel eigene Projekte mit Make, Zapier, n8n oder ähnlichen Tools oder die produktive Nutzung von LLMs (zum Beispiel ChatGPT, Claude und andere) zur Unterstützung oder Automatisierung von Aufgaben; erste Skripting-Erfahrung (zum Beispiel in Python) ist ein Plus.
+ Du verstehst grundlegende Konzepte von Datenflüssen, APIs und Webhooks – oder bist bereit, dich schnell und eigenständig einzuarbeiten.
+ Du arbeitest strukturiert, übernimmst Verantwortung für deine Themen und möchtest nicht nur Konzepte schreiben, sondern Lösungen live bringen.
+ Du hast Freude daran, komplexe Abläufe zu durchdringen und pragmatische, funktionierende Automationen zu bauen.
+ Du sprichst fließend Deutsch und kommst im beruflichen Kontext auch auf Englisch zurecht.
+ Benefits 
+ Die Möglichkeit, ein B2B-SaaS-Startup mit starkem Industriefokus (Kunststoffspritzguss, Werkzeugbau, OEMs, Tier‑1/Tier‑2) von innen kennenzulernen.
+ Eine zentrale Rolle dabei, TOOLPLACE intern AI-native aufzustellen – Deine Automationen werden im täglichen Arbeiten Direkt spürbar sein.
+ Direkten Austausch mit den Gründern und den Fachbereichen, kurze Entscheidungswege und schnelle Iterationen.
+ Praxisnahe Einblicke in Prozessdigitalisierung, Datenflüsse, Schnittstellen und KI-gestützte Workflows entlang von Angebots- und Beschaffungsprozessen.
+ Die Möglichkeit, eigene Ideen für AI- und Automationsprojekte einzubringen und eigenverantwortlich umzusetzen.
+ Option, deine Masterarbeit im Kontext von AI-Automation und Prozessdigitalisierung bei TOOLPLACE zu schreiben.
+ Rahmenbedingungen: Vollzeit-Praktikum oder Masterarbeit, Mindestdauer: 6 Monate, Arbeitsort: Leipzig, überwiegend vor Ort, mit Möglichkeit zu mobilem Arbeiten nach Absprache.
+ Klingt das passend für Dich, und Du möchtest AI-Automation nicht nur in der Theorie, sondern direkt in einem Industrie-SaaS-Umfeld umsetzen?
+ Dann schick uns Deinen Lebenslauf und ein paar Sätze zu Deinen bisherigen Erfahrungen mit Automatisierungs- oder AI-Tools.

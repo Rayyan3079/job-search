@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Working Student (d/f/m) Management Reporting",
+    "company": "Essity",
+    "city": "Munich",
+    "greeting": "Dear Essity hiring team,",
+    "opening": "I am applying for the Working Student position in Management Reporting. Preparing reliable management reports, working with SAP data and making reporting faster and less manual are things I did in my previous roles at a consumer goods company.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau, a German university, with four SAP Certified Associate certifications. I worked as a Business Analyst and earlier as an SAP Data Analyst Intern at Tapal Tea.",
+    "achievements": [
+      {
+        "lead": "Management reporting",
+        "impact": "I translated business requirements into KPI-based reporting and supported around 30 SAP Analytics Cloud dashboards across HR, finance, supply chain and procurement"
+      },
+      {
+        "lead": "Less manual work",
+        "impact": "I built a quality inspection dashboard that replaced opening an SAP report per material for thousands of materials and compiling results in Excel"
+      },
+      {
+        "lead": "SAP and SQL",
+        "impact": "I wrote SQL queries to integrate company data into SAP Analytics Cloud and validated reporting with ABAP CDS views"
+      }
+    ],
+    "problems_section": "I would prepare and improve management reports in Excel and Power BI, support data quality and help simplify recurring reporting steps. Power Query and VBA are new to me, and my Power BI is basic; I learn reporting tools quickly.",
+    "closing": "I am willing to relocate to Munich and can work up to 20 hours per week, starting immediately. I would be glad to discuss the role.",
+    "date": "2026-11-17",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-11-17/essity-working-student-management-reporting/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

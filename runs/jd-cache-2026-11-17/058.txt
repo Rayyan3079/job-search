@@ -1,0 +1,36 @@
+URL: https://www.linkedin.com/jobs/view/4488517667
+TITLE: AI / Data Engineering Praktikum (m/w/d)
+COMPANY: KnowWay
+LOC: Hamburg, Hamburg, Germany
+POSTED: 2026-11-12
+title: AI / Data Engineering Praktikum (m/w/d)
+company: KnowWay
+posted: 4 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+Über KnowWay 
+ KnowWay bringt Deutschlands kritische Infrastruktur ins KI-Zeitalter: Energieversorger, Telekommunikationsunternehmen und andere regulierte Player vertrauen uns bei ihrer KI-Transformation. Wir wachsen schnell mit Mitarbeitern in NRW, Mannheim, Hamburg und einem vollen Büro mitten in München.
+ Was wir suchen: jemanden, der mit uns Gründern an den Hebeln arbeitet, die das Unternehmen als Nächstes bewegen.
+ Standort: bevorzugt Hamburg (Möglichkeit Remote zu arbeiten) 
+ Startdatum: flexibel 
+ Deine Aufgaben 
+ Du entwickelst KI-Agenten mit und bringst sie vom Prototyp in den produktiven Einsatz beim Kunden
+ Du baust RAG-Pipelines: Chunking, Embeddings, Indexing, Retrieval und machst sie messbar besser
+ Du bereitest Kundendaten so auf, dass unsere Agenten wirklich damit arbeiten können
+ Du testest, wie gut Agenten in echten Anwendungsfällen funktionieren, und schlägst Verbesserungen vor
+ Du übernimmst eigene Themen end-to-end statt zuzuarbeiten
+ Das bringst du mit 
+ Du studierst Informatik, Wirtschaftsinformatik oder ein vergleichbares MINT-Fach, im Bachelor oder Master
+ Du weißt, was ein KI-Agent ist und wie Tools wie Claude Code oder Codex funktionieren
+ Du hast erste Erfahrung mit Python und RAG-Konzepten wie Embeddings, Chunking und Indexing
+ Begriffe wie Reverse Proxy oder Docker sind dir nicht fremd
+ Du kommunizierst klar und sicher auf Deutsch und Englisch
+ Praktika, Werkstudentenjobs, Hackathons oder eigene Projekte sind ein Plus. Wichtiger ist uns echte Begeisterung für KI
+ Deine Vorteile 
+ Direkten Draht zu unseren Engineers und Gründern: keine Genehmigungsschleifen, schnelle Entscheidungen
+ Echte Verantwortung ab Tag 1 und Einblick in alles, was ein Startup in dieser Phase ausmacht
+ Faire Vergütung: 1.200 € pro Monat
+ Kunden, die zur kritischsten Infrastruktur Deutschlands gehören und eigene KI-Produkte, die wir als Start-up an den Markt bringen
+ Dein Einstieg 
+ Schick uns deinen Lebenslauf mit aktuellen Notenangaben und falls vorhanden eigenen Projekten. Wer nicht alle Anforderungen zu hundert Prozent erfüllt, aber eine hohe Lernbereitschaft mitbringt, sollte sich ebenfalls bewerben. Wir freuen uns auf dich!

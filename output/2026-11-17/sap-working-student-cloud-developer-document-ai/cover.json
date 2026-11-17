@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Working Student (f/m/d) – Cloud Developer for SAP Document AI",
+    "company": "SAP SE",
+    "city": "Walldorf",
+    "greeting": "Dear SAP hiring team,",
+    "opening": "I am applying for the Working Student position as Cloud Developer for automated document processing. Automating work with documents using machine learning and large language models is close to my latest project: a Python service that reads PDF documents and answers questions about them with page-level citations.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence and four SAP Certified Associate certifications. I was one of 10 participants from Pakistan selected for the SAP Young Professionals Program.",
+    "achievements": [
+      {
+        "lead": "Working with documents",
+        "impact": "I built DocuMind (github.com/Rayyan3079/documind-rag): PDF ingestion and chunking, embeddings, hybrid retrieval and answers from the Claude API; 91% correct on a 22-question test set"
+      },
+      {
+        "lead": "Python services",
+        "impact": "it runs as a FastAPI REST API and a Streamlit UI, with 37 offline unit tests, GitHub Actions CI and Docker"
+      },
+      {
+        "lead": "SAP background",
+        "impact": "I worked hands-on with SAP Analytics Cloud, Datasphere and S/4HANA Cloud, and studied SAP Cloud Integration in the YPP"
+      }
+    ],
+    "problems_section": "I would help develop and test cloud services for document processing, integrate machine learning and LLM-based models and work on improving matching accuracy. I have not built TypeScript UIs yet; with my Python and API experience I would learn your UI stack quickly.",
+    "closing": "I am willing to relocate to the Walldorf area and can work up to 20 hours per week, starting immediately. I would be glad to discuss the role.",
+    "date": "2026-11-17",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-11-17/sap-working-student-cloud-developer-document-ai/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

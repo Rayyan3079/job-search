@@ -1,0 +1,53 @@
+URL: https://www.linkedin.com/jobs/view/4488900979
+TITLE: Abschlussarbeit Machine Learning/Computer Vision
+COMPANY: menio GmbH
+LOC: Hannover, Lower Saxony, Germany
+POSTED: 2026-11-13
+title: Abschlussarbeit Machine Learning/Computer Vision
+company: menio GmbH
+posted: 3 days ago
+applicants: 36 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fabschlussarbeit-machine-learning-computer-vision-at-menio-gmbh-4488900979&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Beschreibung
+ Wie kann ein System ein neues Gericht anhand weniger Fotos lernen und es anschließend zuverlässig wiedererkennen, auch wenn es vorher noch nie auf dem Speiseplan stand?
+Bei menio entwickeln wir Softwarelösungen für die Gemeinschaftsverpflegung und arbeiten aktuell an einer kamerabasierten Speisenerkennung. Neue Gerichte sollen anhand weniger Referenzbilder registriert und anschließend automatisch erkannt und dem richtigen Menüartikel zugeordnet werden.
+Genau hier setzt deine Bachelor- oder Masterarbeit im Bereich Machine Learning und Computer Vision an. Gemeinsam mit uns untersuchst du eine konkrete Forschungsfrage rund um Few-Shot Recognition, Open-Set Recognition oder verwandte Verfahren und entwickelst einen Ansatz, der nicht nur im Modell, sondern auch unter realen Kantinenbedingungen funktioniert.
+ Deine Aufgaben
+ Forschungsfrage entwickeln: Gemeinsam mit uns definierst du eine konkrete Fragestellung rund um die kamerabasierte Erkennung von Speisen.
+ Stand der Forschung analysieren: Du recherchierst und vergleichst aktuelle Ansätze aus den Bereichen Few-Shot-Learning, Metric Learning, Computer Vision und visueller Ähnlichkeitssuche.
+ Modelle entwickeln und vergleichen: Du arbeitest beispielsweise mit Ansätzen wie DINOv2, SigLIP oder leichtgewichtigen Modellen und untersuchst ihre Eignung für unseren Anwendungsfall.
+ Few-Shot-Recognition untersuchen: Du entwickelst ein Verfahren, mit dem neue Gerichte anhand weniger Referenzbilder erkannt werden können, ohne das gesamte Modell neu trainieren zu müssen.
+ Eigene Experimente durchführen: Du definierst geeignete Metriken und Testszenarien, führst Experimente durch und wertest deine Ergebnisse systematisch aus.
+ Reale Daten einbeziehen: Neben öffentlichen Food-Datensätzen arbeitest du mit Daten aus dem realen Kantinenumfeld und untersuchst Herausforderungen wie unterschiedliche Beleuchtung, Portionierung, Geschirr oder Standorte.
+ Ergebnisse in die Praxis übertragen: Gemeinsam mit unserer Entwicklung prüfst du, wie sich deine Erkenntnisse in einen funktionsfähigen Prototypen übertragen lassen. 
+ Mögliche Schwerpunkte sind zum Beispiel Open-Set-Few-Shot-Erkennung, Domain Shift zwischen unterschiedlichen Kantinen, die Unterscheidung optisch ähnlicher Gerichte, Multi-Dish-Erkennung oder die Nutzung des Speiseplans als zusätzliches Vorwissen.
+ Danach suchen wir
+ Du studierst Informatik, Data Science, Mathematik oder einen vergleichbaren Studiengang und möchtest deine Bachelor- oder Masterarbeit in einem praxisnahen KI-Thema schreiben.
+ Du verfügst über gute Grundlagen in Machine Learning, Deep Learning und Computer Vision.
+ Du hast bereits mit Python gearbeitet, idealerweise auch mit PyTorch.
+ Du hast Interesse daran, dich wissenschaftlich mit aktuellen Ansätzen aus dem Bereich Computer Vision auseinanderzusetzen.
+ Du arbeitest strukturiert und kannst Experimente nachvollziehbar planen, dokumentieren und auswerten.
+ Idealerweise hast du bereits erste Erfahrungen mit Bildklassifikation, Embeddings, Transfer Learning, Few-Shot Learning oder Objekterkennung gesammelt.
+ Vor allem hast du Lust, aus einer Forschungsfrage eine Lösung zu entwickeln, die anschließend in einer echten Kantine funktionieren kann.
+ Das bieten wir dir
+ Flexibilität: flexible Arbeitszeiten & Remote Work sind selbstverständlich
+ Teilzeit oder Vollzeit: Wir finden für Dich das richtige Arbeitsmodell
+ Kostenloses Mittagessen: dreimal pro Woche kostenloses Mittagessen
+ Teamspirit: Offene Arbeitskultur, kurze Entscheidungswege & agile Arbeitsmethoden
+ Raum für Ideen: Viel Gestaltungsspielraum
+ Workplace: Zentral gelegenes Office in Hannover oder Plauen mit moderner Ausstattung
+ Kaffee-Liebe: Frisches Obst, hervorragender Kaffee oder Tee und je Standort eine individuelle Getränkeauswahl
+ Gemeinsame Events: Regelmäßige Teamevents und Ausflüge 
+ Mobilität & Benefits: Bikeleasing, Corporate Benefits und viele Weitere
+ Zukunftssicherheit: Angebot und Bezuschussung zur betrieblichen Altersvorsorge – damit du langfristig gut aufgestellt bist.
+ Entwicklungsmöglichkeiten: zahlreiche Entwicklungs- & Fortbildungsmöglichkeiten sowie internationale Konferenzbesuche
+ Top-Team: Gut gelaunte & ambitionierte Kolleg:innen, die stolz auf das gemeinsame Werk sind
+ Hast du weitere Fragen?
+ Dann melde dich unter jobs@menio.com bei uns. Myriam Harrendorf beantwortet dir deine Fragen gerne. Bitte sende uns deine Bewerbungsunterlagen zusammengefügt in einem PDF, einschließlich Anschreiben, Lebenslauf und Zeugnisse, zu.
+ Über uns
+ Das ist menio
+ Wir sind ein innovatives und engagiertes Team aus über 75 Entwickler:innen, Projektmanager:innen und Kreativen, die Herausforderungen lieben.
+menio ist ein aufstrebendes Unternehmen mit einer modularen Softwarelösung für die Betriebsgastronomie auf dem europäischen und internationalen Markt. Wir sind dort, wo unsere Kund:innen uns brauchen – und entwickeln gemeinsam lösungsorientierte Konzepte. Wir suchen nach Menschen, die Herausforderungen lieben und genauso viel Freude an Innovation und lebenslangem Lernen haben wie wir. Bei uns findest du Raum für deine Ideen, Anregungen und Fähigkeiten. Wir nutzen stets eine breite Basis neuester Softwaretechnologie, haben Spaß an Innovationen und "lebenslanges Lernen" ist bei uns nicht bloß eine Worthülse, sondern wird gelebt. Durch unseren gemeinsamen Ehrgeiz und den Respekt füreinander erreichen wir Großes - sowohl im Team als auch mit unseren Kund:innen & Partner:innen.
+Wir schätzen eine Kommunikation, in der Integrität und Transparenz unser Handeln leiten. Unser modernes Office im Herzen der City schafft eine angenehme Arbeitsatmosphäre und unser Dachgeschoss mit Dachterrasse lädt zum Luftholen, Nachdenken, Auftanken & gemeinsamen Verweilen ein.
+Möchtest Du mehr über menio erfahren? Dann schau doch mal bei LinkedIn und Instagram vorbei!

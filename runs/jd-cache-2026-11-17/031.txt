@@ -1,0 +1,41 @@
+URL: https://www.linkedin.com/jobs/view/4490291743
+TITLE: Data Analyst
+COMPANY: pasiona
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-16
+title: Data Analyst
+company: pasiona
+posted: 17 hours ago
+applicants: 33 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fes.linkedin.com%2Fjobs%2Fview%2Fdata-analyst-at-pasiona-4490291743&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Descripción del puesto / Funciones
+ Desde Pasiona buscamos un/a Data Analyst para incorporarse al equipo de Central Data Management en un proyecto internacional, especializado en el desarrollo, mantenimiento y optimización de soluciones de reporting y análisis de datos en entorno Microsoft Azure y Power BI.
+La persona seleccionada será responsable de mantener y evolucionar el conjunto de informes y dashboards utilizados para monitorizar las diferentes actividades de Data Management, transformando las necesidades de negocio en soluciones analíticas eficientes, robustas y escalables.
+ Requisitos mínimos
+ Experiencia en entornos de Business Intelligence y gestión de informes y dashboards.
+ Conocimientos avanzados de Power BI, incluyendo desarrollo de dashboards, reporting y modelado semántico de datos.
+ Experiencia sólida con DAX y Power Query.
+ Experiencia en optimización del rendimiento, calidad, mantenibilidad y resolución de incidencias en soluciones Power BI.
+ Capacidad para analizar requisitos funcionales y transformarlos en soluciones técnicas y analíticas.
+ Familiaridad con conceptos de Data Management, especialmente Data Governance, Data Compliance y Data Quality.
+ Grado universitario en Data Science, Ingeniería Informática, Tecnologías de la Información o formación equivalente.
+ Experiencia previa en análisis de datos, Business Intelligence o Data Management.
+ Requisitos valorables
+ Conocimientos de entornos Azure Delta Lake.
+ Experiencia trabajando con Databricks.
+ Conocimientos de Azure DevOps.
+ Experiencia con cubos SSAS (SQL Server Analysis Services).
+ Idiomas
+ Nivel de inglés profesional, imprescindible para trabajar en un entorno internacional.
+ Ubicación
+ Barcelona
+ ¿Por qué nosotros?
+ Un día libre en tu cumpleaños para celebrar a lo grande!
+ Mejoras en los permisos retribuidos para que puedas disfrutar de tu tiempo libre al máximo.
+ Acceso a mutua médica para cuidar de tu bienestar y tranquilidad.
+ Días de vacaciones extras por año de antigüedad, porque creemos que tu tiempo es valioso y mereces descansar y recargar energías.
+ En Pasiona estamos comprometidos con la igualdad de oportunidades y la diversidad. Animamos a postularse a todas las personas, con independencia de su género, edad, discapacidad, orientación sexual, identidad de género, origen étnico, religión u otras circunstancias personales o sociales.
+Si estás interesado/a en unirte a un equipo dinámico y apasionado, ¡esperamos tu solicitud!
+ ¿Quiénes somos?
+ Pasiona Consulting es una consultora tecnológica, partner de Microsoft, dedicada al diseño, desarrollo e implementación de aplicaciones de software a medida para clientes de múltiples sectores.

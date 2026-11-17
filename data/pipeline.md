@@ -200,4 +200,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/18706-9JKMKLB2Thrfnq-S | ZV Komm. Verkehrssicherheit | Werkstudent (m/w/d) Digitalisierung, KI & Automatisierung | Amberg, Oberpfalz
 - [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/17402-44573136-1113-S | ENERCON GmbH | Working Student Service Product Management (m/f/d) | Aurich, Ostfriesland
 
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2379263-S | CHECK24 - InsurTech | Werkstudent (m/w/d) Softwareentwicklung - KI Fokus & Greenfield, InsurTech, CHECK24 Versicherung... | Hamburg
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004016557-S | EWR Aktiengesellschaft | Werkstudent (m/w/d) im Bereich Anmeldewesen | Alzey
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/19663-0068754260-S | Kelvion Holding GmbH | Werkstudent (m/w/d) Digital Facility Management | Herne, Westfalen
+
 ## Processed

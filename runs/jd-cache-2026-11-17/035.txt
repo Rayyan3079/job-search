@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4482065675
+TITLE: Werkstudent Qualitätssicherung & Softwaretesting (m/w/d)
+COMPANY: Materna
+LOC: Dortmund, North Rhine-Westphalia, Germany
+POSTED: 2026-11-11
+title: Werkstudent Qualitätssicherung & Softwaretesting (m/w/d)
+company: Materna
+posted: 5 days ago
+applicants: 66 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-qualit%25C3%25A4tssicherung-softwaretesting-m-w-d-at-materna-4482065675&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Die Materna Group ist mit mehr als 4.500 Mitarbeitenden weltweit und über 40 Jahren Erfahrung ein führender IT-Dienstleister. Als Familienunternehmen und eines der größten mittelständischen IT-Unternehmen Deutschlands gestalten wir die digitale Transformation von Unternehmen und Behörden aktiv mit. Studierenden bieten wir an unseren Standorten die Möglichkeit, frühzeitig praktische Erfahrungen in einem innovativen IT-Umfeld zu sammeln und an zukunftsweisenden Digitalisierungsprojekten mitzuwirken.
+Du willst Fehler finden, bevor es die Nutzer:innen tun? Und du willst verstehen, wo ihre Ursache liegt? Als Werkstudent Qualitätssicherung & Softwaretesting (m/w/d) unterstützt du unser Team dabei, Software für Behörden und öffentliche Organisationen bereitzustellen. Du erhältst spannende Einblicke in moderne Softwareprojekte, lernst professionelle Testmethoden kennen und trägst aktiv dazu bei, die Qualität digitaler Lösungen für den öffentlichen Sektor sicherzustellen.
+Als Werkstudent Qualitätssicherung & Softwaretesting (m/w/d)
+ analysierst du gemeinsam mit dem Team Anforderungen und leitest daraus Vorbedingungen, Eingabedaten, Aktionen und erwartete Ergebnisse ab.
+ führst du manuelle Softwaretests auf Grundlage bestehender Testkonzepte beziehungsweise vorhandener Regressionstestfälle durch.
+ wirkst du beim Defect-Management mit und prüfst behobene Fehler in Nachtests.
+ dokumentierst du Testergebnisse nachvollziehbar und hilfst dabei, Fehlerursachen einzugrenzen.
+ arbeitest du eng mit Entwickler:innen zusammen und trägst so zur kontinuierlichen Verbesserung der Softwarequalität bei.
+ Dein Profil
+ Das bringst du mit
+ Laufendes technisches Studium (z. B. Informatik, Wirtschaftsinformatik, Software Engineering) oder Studium einer anderen Fachrichtung mit hoher Affinität zu IT
+ Erste praktische Erfahrungen im Bereich Softwaretest oder der Qualitätssicherung sind von Vorteil
+ Erste Berührungspunkte mit Jira, Confluence oder vergleichbaren Tools sind wünschenswert
+ Interesse an digitalen Verwaltungs- und Softwareprojekten
+ Sehr gute Deutschkenntnisse (C1) sowie gute Englischkenntnisse (B2) in Wort und Schrift
+ Das zeichnet dich persönlich aus 
+ Du arbeitest äußerst gewissenhaft und hast ein ausgeprägtes Qualitätsbewusstsein. Auch bei wiederkehrenden Aufgaben behältst du den Blick fürs Detail und gibst dich erst zufrieden, wenn du eine Aufgabe sorgfältig abgeschlossen hast.
+ Du arbeitest teamorientiert und überzeugst durch eine proaktive, lösungsorientierte Kommunikation – sowohl im agilen Austausch mit deinem Team als auch in der Zusammenarbeit mit den Bedarfsträgern.
+ Du arbeitest engagiert und eigenverantwortlich. Außerdem bist du motiviert, dich zügig in komplexe Technologien und neue fachliche Themen einzuarbeiten sowie schrittweise mehr Verantwortung für deine Aufgaben zu übernehmen.
+ Benefits
+ Uni first, Job second – mit sinnvoller Flexibilität: Du arbeitest überwiegend vor Ort im Office, damit du nah am Team und am Geschehen bist. Wenn es dein Studium oder deine Aufgabenlage erfordern, kannst du in Abstimmung auch mal aus dem Homeoffice arbeiten.
+ Praxis statt grauer Theorie: Tauche in echte Unternehmensprozesse ein und sammle wertvolle Praxiserfahrung in unseren internen Services für die gesamte Materna‑Gruppe.
+ Buddy-Programm – dein perfekter Start: Ab Tag eins steht dir eine erfahrene Kollegin oder ein erfahrener Kollege zur Seite. Dein Buddy hilft dir beim Ankommen, zeigt dir die wichtigsten Wege und sorgt dafür, dass du dich direkt sicher und wohlfühlst.
+ Lerne von echten Experts: Arbeite eng mit Experten und Expertinnen zusammen, die ihr Wissen gerne teilen. So sammelst du Skills, die dich im Studium UND später im Job weiterbringen.
+ NETWORKING Deluxe – fachlich & entspannt: Ob Austausch-Sessions, interne Events oder gemeinsame Feiern – hier knüpfst du Kontakte, die bleiben.
+ Come as you are!: Wir stehen auf Authentizität. Bei uns ist Duz-Kultur Standard, flache Hierarchien sorgen für eine entspannte Atmosphäre und du kannst einfach du selbst sein.
+ Interessiert? Werde Teil der Materna-Story!
+Wir freuen uns auf deine Bewerbung! Unser Auswahlprozess besteht i.d.R. aus einem ersten virtuellen Vorstellungsgespräch und einem zweiten Gespräch vor Ort an unserem Standort in Dortmund.
+Wende dich bei Fragen gerne an mich.
+ Laura Eckstein
+ Talent Acquisition Managerin
+ laura.eckstein@materna.group

@@ -1,0 +1,37 @@
+URL: https://www.linkedin.com/jobs/view/4491500356
+TITLE: BI Analist (Power BI)
+COMPANY: Exact
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-16
+title: BI Analist (Power BI)
+company: Exact
+posted: 21 hours ago
+applicants: 31 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fnl.linkedin.com%2Fjobs%2Fview%2Fbi-analist-power-bi-at-exact-4491500356&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Vind jij het leuk om gestructureerde data om te zetten in heldere, impactvolle inzichten die besluitvorming binnen een hele organisatie ondersteunen? Bij Exact geloven we dat technologie vooruitgang mogelijk maakt, maar dat mensen inzichten omzetten en daardoor echt impact kunnen maken. Als BI Analist (Power BI) speel je een belangrijke rol in het vertalen van bedrijfsbehoeften naar krachtige dashboards en datamodellen die sturing geven aan onze organisatie onderdelen Product, Sales, Finance, Customer Success en Operations.
+ Dit = de functie die je zoekt 
+ Als BI Analist werk je bovenop ons centraal beheerde dataplatform (Microsoft Fabric) en maak je gebruik van zorgvuldig samengestelde datasets om waardevolle rapportages en inzichten te creëren. Je bent niet verantwoordelijk voor het bouwen van ETL-processen of bronkoppelingen; dit wordt verzorgd door ons Data Engineering-team. Jouw focus ligt op Power BI-modellering, businesslogica en stakeholdermanagement. Je houdt je bezig met:
+ Het vertalen van businessbehoeften naar duidelijke KPI’s en stuurinformatie
+ Het ontwerpen en ontwikkelen van Power BI-semantische modellen (ster-schema) en dashboards
+ Het toepassen van geavanceerde DAX- en datamodelleringstechnieken om betekenisvolle inzichten te leveren
+ Het nauw samenwerken met stakeholders (Sales, Marketing, Finance enz.) om processen en informatiebehoeften te begrijpen
+ Het adviseren van stakeholders over de interpretatie en toepassing van inzichten
+ Het samenwerken met Data Engineering om ervoor te zorgen dat de benodigde data beschikbaar is binnen Microsoft Fabric
+ Dit = wat jij met je meebrengt 
+ Minimaal 2 jaar ervaring in een BI- of Power BI-gerichte functie
+ Sterke expertise in:
+ Power BI-datamodellering (ster-schema)
+ DAX (geavanceerde berekeningen en performance-optimalisatie)
+ Power Query
+ Ervaring met het samenwerken met business stakeholders en het vertalen van requirements naar betekenisvolle dashboards
+ Een goed begrip van bedrijfsprocessen en KPI-ontwikkeling
+ Het vermogen om inzichten helder te communiceren naar niet-technische doelgroepen
+ Basiskennis van SQL (voor data-analyse en verkenning), zonder focus op ETL- of pipelineontwikkeling
+ Een passie voor data en de ambitie om impact te creëren binnen de gehele organisatie
+ Dit = wat je krijgt 
+ Een competitief bruto maandsalaris, afgestemd op je ervaring en kennis;
+ Ruimte voor persoonlijke ontwikkeling;
+ 27 vakantiedagen, plus 3 Giving Back Days om vrijwilligerswerk te doen tijdens werktijd, en loyaliteitsdagen (1 extra vrije dag per jaar in dienst, max. 5);
+ Regelmatig teamactiviteiten, events en gezelligheid met collega’s.
+ Hybride werken

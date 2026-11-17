@@ -1,0 +1,31 @@
+URL: https://www.linkedin.com/jobs/view/4490913324
+TITLE: Praktikant / Werkstudent (w/m/d) Audit Technology - Digital Audit Innovation
+COMPANY: KPMG Deutschland
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-11-16
+title: Praktikant / Werkstudent (w/m/d) Audit Technology - Digital Audit Innovation
+company: KPMG Deutschland
+posted: 11 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikant-werkstudent-w-m-d-audit-technology-digital-audit-innovation-at-kpmg-deutschland-4490913324&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Du möchtest praktische Erfahrung im Umgang mit großen Datenmengen sammeln und hinter die Kulissen moderner Datenplattformen blicken? Dann bist du bei uns genau richtig! Als Praktikant / Werkstudent (w/m/d) im Bereich Data Management, Data Acquisition, Data Processing & Data Analytics unterstützt du unser Team von Audit Technology – Digital Audit Innovation bei der Verarbeitung, Analyse und Transformation von Unternehmensdaten aus nationalen und internationalen Rechnungslegungssystemen. Dabei lernst du moderne Technologien, Datenmodelle und Automatisierungsprozesse kennen und arbeitest an spannenden Projekten mit direktem Bezug zur modernen Wirtschaftsprüfung.
+ Deine Aufgaben
+ Datenübernahme und Datenverarbeitung: Du unterstützt bei der Übernahme, Verarbeitung und Harmonisierung von Mandantendaten aus unterschiedlichen Unternehmens- und Rechnungslegungssystemen wie SAP, Oracle oder Microsoft Dynamics und schaffst damit die Grundlage für digitale Prüfungsprozesse.
+ Datenanalyse und Qualitätssicherung: Mandantendaten analysierst, validierst und prüfst Du hinsichtlich ihrer Qualität und Vollständigkeit, um eine verlässliche Datenbasis für die Jahresabschlussprüfung sicherzustellen.
+ Datenmodellierung: Rohdaten bereitest Du auf und transformierst diese in standardisierte Datenmodelle, damit komplexe Unternehmensinformationen effizient ausgewertet und genutzt werden können.
+ Prozessautomatisierung: Bei der Weiterentwicklung und Optimierung von Datenverarbeitungs-, Extraktions-, Transformations- und Ladeprozessen wirkst Du aktiv mit und unterstützt die Automatisierung von Datenaufbereitungs- und Prüfungsabläufen.
+ Data Analytics und Künstliche Intelligenz: Gemeinsam mit dem Team arbeitest Du an der Verarbeitung großer Datenmengen mithilfe moderner Technologien und unterstützt den Einsatz künstlicher Intelligenz gestützter Analysen zur Identifikation von Auffälligkeiten und prüfungsrelevanten Erkenntnissen.
+ Zusammenarbeit und Dokumentation: In enger Abstimmung mit Teams aus Data Engineering, Datenanalyse und Wirtschaftsprüfung dokumentierst Du Datenstrukturen, Datenflüsse und Verarbeitungsschritte und unterstützt die Weiterentwicklung digitaler Prüfungsverfahren.
+ Dein Profil
+ Bildungshintergrund: Du befindest Dich in einem Studium der Wirtschaftsinformatik, Informatik, Data Science, Mathematik, Wirtschaftswissenschaften oder eines vergleichbaren Studiengangs. 
+ Fachliches Interesse: Ein ausgeprägtes Interesse an Datenmanagement, Datenbanken, modernen Datenplattformen und datengetriebenen Geschäftsprozessen zeichnet Dich aus. 
+ Technologiekenntnisse: Erste Kenntnisse in SQL, Python oder vergleichbaren Technologien sind von Vorteil; idealerweise bringst Du zusätzlich Interesse an Cloud-Plattformen und automatisierten Datenverarbeitungsprozessen mit. 
+ Sprachkenntnisse: Du verfügst über Deutsch- und Englischkenntnisse auf C1-Niveau und kannst Dich in einem internationalen Umfeld sicher verständigen. 
+ Arbeitsweise: Analytisches Denkvermögen, eine strukturierte Herangehensweise sowie Freude am Lernen und an technischen Herausforderungen runden Dein Profil ab. 
+ Deine Benefits
+ Willkommen im Team Damit Du von Beginn an voll bei uns durchstarten kannst, begleiten wir Dich mit strukturierten Onboarding-Maßnahmen während der gesamten Orientierungsphase – fachliches und persönliches Mentoring über Deinen gesamten Einsatzzeitraum inklusive.
+ Faire Vergütung Wir sind eine Fair Company. Deshalb ist es für uns selbstverständlich, Dir während Deines Praktikums ein faires Gehalt zu zahlen.
+ Feedback & Entwicklung Vom ersten Tag an bist Du fester Bestandteil des Teams und übernimmst Verantwortung in herausfordernden (Teil-) Projekten. Somit gewinnst Du wertvolle Praxiserfahrung und stellst die Weichen für Deine berufliche Zukunft. Mit regelmäßigem Feedback fördern wir zudem Deine persönliche und fachliche Weiterentwicklung. 
+ Wertvolles Karrierenetzwerk Bei unseren YOUnior .Network-Aktivitäten stehen Vernetzung und der gemeinsame Austausch zwischen Auszubildenden, Dual Studierenden, Praktikanten und Werkstudenten im Fokus. Als Praktikant (m/w/d) profitierst Du darüber hinaus von Vorteilen aus unserem exklusiven highQ-Programm.
+ Die abgebildeten Leistungen können je nach Position und Standort leicht variieren.

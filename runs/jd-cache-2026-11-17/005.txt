@@ -1,0 +1,42 @@
+URL: https://www.linkedin.com/jobs/view/4490951780
+TITLE: Revenue Operations Analyst (m/w/d)
+COMPANY: Cosuno
+LOC: Germany
+POSTED: 2026-11-17
+title: Revenue Operations Analyst (m/w/d)
+company: Cosuno
+posted: 5 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Frevenue-operations-analyst-m-w-d-at-cosuno-4490951780&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Über Cosuno
+ Cosuno digitalisiert die Beschaffung in der Baubranche, einer der größten und zugleich am wenigsten digitalisierten Branchen weltweit. Als Berliner Startup unterstützen wir Bauunternehmen dabei, ihre Beschaffungsprozesse effizienter zu gestalten. Unser Team ist ambitioniert und verfolgt ein gemeinsames Ziel: die digitale Transformation der Baubranche voranzutreiben.
+ Deine Rolle
+ Als Revenue Operations Analyst entwickelst du dich Schritt für Schritt zum Architekten unseres Go-to-Market-Setups. Du arbeitest direkt mit dem Leadership Team zusammen und trägst maßgeblich dazu bei, unsere kommerzielle Effizienz weiter zu steigern. Dabei verwaltest du Prozesse nicht nur, sondern optimierst sie gezielt mithilfe moderner KI-Technologien und datengetriebener Analysen.
+ Prozessoptimierung & Skalierung: Du analysierst unsere Sales-Prozesse End-to-End, identifizierst Engpässe und automatisierst Workflows.
+ Reporting & Forecasting: Du verantwortest Teile unseres Reportings und Forecastings und lieferst datenbasierte Insights für die Entscheidungen des Leadership Teams.
+ KI-Automatisierung: Du evaluierst neue KI-Tools und überführst manuelle Prozesse in automatisierte, intelligente Abläufe.
+ Full Project Ownership: Du verantwortest eigene Projekte von der Konzeption bis zum Go-live und arbeitest dabei eng mit Sales, Customer Success und Finance zusammen.
+ Tool-Stack: Du arbeitest mit Salesforce, Salesloft, Avoma, Chargebee und BigQuery.
+ Projektbeispiele
+ Beispiele für Projekte, die unser RevOps-Team zuletzt umgesetzt hat:
+ Automatisierung der Kundendatenpflege: Konzeption, Umsetzung und unternehmensweite Einführung einer KI-gestützten Lösung, die Kontaktdaten aus eingehender E-Mail-Korrespondenz automatisch erfasst und im CRM-System aktualisiert, einschließlich Erfolgsmessung und laufender Überwachung
+ KI-gestütztes Forderungsmanagement: Auswahl, Aufbau und Optimierung eines KI-Telefonassistenten für automatisierte Zahlungserinnerungen sowie Wirtschaftlichkeitsanalyse im Vergleich zur manuellen Bearbeitung
+ Automatisierung von Recruiting-Prozessen: Erstellung standardisierter Kommunikationsvorlagen für Bewerbungsprozesse und Mitarbeit an einem einheitlichen Bewertungssystem für Vorstellungsgespräche
+ Vertriebsreporting: Pflege und Weiterentwicklung von Reports und Kennzahlenübersichten für Vertrieb und Management sowie Erstellung eines Leitfadens für neue Mitarbeitende
+ Dein Profil
+ Erfahrung: Du hast dein Studium erfolgreich abgeschlossen und erste Praxiserfahrung gesammelt, idealerweise in einem Startup, SaaS-Unternehmen oder in der Beratung.
+ KI-Affinität: Du bist Early Adopter neuer KI-Tools und setzt sie souverän im Arbeitsalltag ein.
+ Analytische Denkweise: Du übersetzt Daten in klare Handlungsempfehlungen und hinterfragst Zahlen kritisch.
+ Lösungsorientierung: Du gehst Herausforderungen eigenständig und strukturiert an.
+ Excel-Kenntnisse: Du verfügst über sehr gute Kenntnisse in Excel oder Google Sheets.
+ Growth Mindset: Du möchtest dich in einem schnell wachsenden Unternehmen weiterentwickeln und langfristig Verantwortung übernehmen.
+ Sprachkenntnisse: Du sprichst fließend Deutsch und Englisch.
+ Wünschenswert: Erfahrung mit einem CRM-System (idealerweise Salesforce), SQL oder Python.
+ Warum Cosuno?
+ Gestalte die Go-to-Market-Engine eines wachsenden B2B-SaaS-Unternehmens mit
+ Arbeite in einem aufgeschlossenen, kooperativen, dynamischen und internationalen Team
+ Du hast die Möglichkeit, in unserem neuen und modernen Office in Berlin-Kreuzberg oder auch komplett im Homeoffice (innerhalb Deutschlands) zu arbeiten
+ Firmenevents und regelmäßige Teamevents (offline und online)
+ Unbefristeter Vertrag und modernes Equipment
+ Offene Feedback-Kultur mit regelmäßigen 1:1-Meetings und Entwicklungsgesprächen

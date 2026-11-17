@@ -1,0 +1,53 @@
+URL: https://www.linkedin.com/jobs/view/4490978009
+TITLE: Werkstudent KI / LLM-Entwicklung (m/w/d) mit flexiblen Arbeitszeiten
+COMPANY: ZIRNGIBL Rechtsanwälte Partnerschaft mbB
+LOC: Frankfurt, Hesse, Germany
+POSTED: 2026-11-17
+title: Werkstudent KI / LLM-Entwicklung (m/w/d) mit flexiblen Arbeitszeiten
+company: ZIRNGIBL Rechtsanwälte Partnerschaft mbB
+posted: 5 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-ki-llm-entwicklung-m-w-d-mit-flexiblen-arbeitszeiten-at-zirngibl-rechtsanw%25C3%25A4lte-partnerschaft-mbb-4490978009&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Bruski Smeet & Lange Rechtsanwälte Partnerschaft mbB
+Wir bauen in unserer Kanzlei eine eigene, datenschutzkonforme KI-Umgebung auf – von der Architektur bis zum laufenden Betrieb. Dafür suchen wir eine:n technisch versierte:n Werkstudent:in, der/die dieses Projekt maßgeblich mitgestaltet und unsere KI-Landschaft mit uns aufbaut. Wir denken dabei nicht in einem befristeten Projekt, sondern suchen jemanden für eine langfristige Zusammenarbeit
+Deine Aufgaben
+ Entwicklung eines Zielbildes und einer Roadmap.
+ Aufbau und Betrieb einer KI-Umgebung (Infra, Datenpipelines, Interfaces für Kolleg:innen).
+ Konzeption und Umsetzung von RAG-Pipelines auf Basis kanzleieigener Dokumente.
+ Entwicklung von Ingestion-Pipelines (PDF-Parsing, OCR, Chunking, Embeddings).
+ Anbindung von LLMs über APIs und selbst gehostete Open-Source-Modelle.
+ Mitarbeit an einer DSGVO-konformen, vertraulichen Architektur („Datenschutz by Design“).
+ Evaluation, Monitoring, Logging sowie Dokumentation und Schulung der Kolleg:innen.
+ Dein Profil
+ Master-Studium in Informatik, Data Science, KI/ML, Wirtschaftsinformatik, Mathematik o. Ä.; guter Bachelorabschluss an einer deutschen Universität.
+ Sichere Python-Kenntnisse und erste praktische Erfahrung mit LLM-Projekten (z. B. LangChain/LlamaIndex/Haystack).
+ Verständnis von Embeddings, semantischer Suche und RAG.
+ Eigenverantwortliche, strukturierte Arbeitsweise und Freude an verständlicher Kommunikation mit Nicht-Techies.
+ Hohe Sensibilität für Datenschutz und Vertraulichkeit; sehr gutes Deutsch, gutes Englisch.
+ Relevante Frameworks & Konzepte
+Wichtig: Du musst nicht jedes genannte Tool kennen. Wenn du mit ähnlichen Technologien gearbeitet hast, ist das genauso gut – Hauptsache, du kannst dich schnell in neue Tools einarbeiten. Grundkenntnisse in mehreren der folgenden Bereiche wären optimal, den Rest lernst du bei uns:
+Vektordatenbanken: z. B. pgvector, Qdrant, Weaviate oder Chroma – inkl. Verständnis von semantischer Suche und Hybrid Search.
+Modelle & Bereitstellung: kommerzielle APIs (z. B. Anthropic Claude, OpenAI / Azure OpenAI) sowie selbst gehostete Open-Source-Modelle (z. B. Llama, Mistral) über Ollama oder vLLM; Verständnis der Abwägung RAG vs. Fine-Tuning.
+Infrastruktur & (LLM-)Ops: Docker (und idealerweise erste Berührung mit Kubernetes), Cloud- oder On-Premise-Betrieb (in der EU, z. B. Azure/AWS EU-Region oder eigene Server), Grundlagen von CI/CD.
+Evaluation & Monitoring: strukturierte Bewertung von LLM-Outputs (z. B. RAGAS, „LLM-as-a-judge“), Kosten- und Latenz-Tracking.
+Datenschutz & rechtlicher Rahmen: DSGVO, anwaltliche Verschwiegenheit (
+ 43a BRAO), Privacy by Design, Anonymisierung/Pseudonymisierung, Auftragsverarbeitung.
+ Deine Vorteile
+ Flexible Arbeitszeiten bei einem Umfang von etwa 15 bis 20 Stunden pro Woche
+ Attraktive Vergütung für Ihre Werkstudententätigkeit
+ Technische Mitgestaltung einer eigenen KI-Umgebung von der ersten Idee bis zum laufenden Betrieb
+ Viel Eigenverantwortung und Raum für eigene technische Lösungsansätze
+ Direkte Zusammenarbeit mit der Kanzleileitung und fachliches Sparring mit externen Spezialisten
+ Praxisnahe Erfahrung mit LLMs, RAG-Systemen, Sprachmodellen und moderner KI-Infrastruktur
+ Einblicke in die Entwicklung datenschutzkonformer Lösungen für den juristischen Bereich
+ Langfristig angelegte Zusammenarbeit über die Dauer des Studiums hinaus
+ Perspektive auf eine weitere berufliche Entwicklung nach dem Studium
+ Mitarbeit an einem anspruchsvollen Legal-Tech-Projekt mit direktem Praxisbezug
+ Deine Bewerbung
+Wenn du Lust hast, in einer Kanzlei eine KI-Umgebung von Grund auf mit aufzubauen und Verantwortung zu übernehmen, freuen wir uns auf deine Bewerbung.
+ Bitte Schick Uns
+ einen kurzen Lebenslauf,
+einen Hinweis auf relevante Projekte (z. B. GitHub-Link, Projektbeschreibung),
+dein aktuelles Transcript/Notenauszug (optional).
+An karriere@bruskismeetslange.com mit Betreff „Werkstudent:in KI-Umgebung“.

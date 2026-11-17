@@ -1,0 +1,42 @@
+URL: https://www.linkedin.com/jobs/view/4491531561
+TITLE: Data Analyst
+COMPANY: Sokin
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-16
+title: Data Analyst
+company: Sokin
+posted: 6 hours ago
+applicants: Over 200 applicants
+apply_offsite: 
+---
+Role 
+ As Sokin continues to expand its global payments platform, we're building a talent pipeline of experienced Data Analyst professionals to support future hiring needs. 
+ In this role, you will be responsible for transforming data into actionable insights that support strategic decision-making across the business. You will work closely with product tribes to understand data needs, develop reports and dashboards, and uncover trends that drive performance and growth.
+ The ideal candidate has a strong analytical mindset, excellent problem-solving skills, and the ability to communicate data clearly to both technical and non-technical stakeholders.
+ This is an exciting opportunity to play a key role in shaping how data is used within the organization and to contribute directly to the product roadmap and business outcomes.
+ About Us 
+ Sokin is a next-generation B2B financial services provider, enabling businesses to make and receive global payments with greater speed, lower cost, and total transparency.
+ Our mission is simple: we’re simplifying global business - so businesses thrive wherever they choose to grow. We deliver services across:
+ • Global payments and receivables
+ • Foreign Exchange (FX)
+ • Treasury management
+ • Finance reconciliations
+ We are rapidly expanding, with established presence in EMEA, APAC, and North America, backed by a strong global infrastructure and industry-leading partners, we are redefining how businesses move money worldwide.
+ Our clients span industries from sports and entertainment to logistics and travel, and our community is growing rapidly. As we continue to expand, we’re building a team of exceptional people who share our ambition to transform the future of global payments.
+ wide.
+ Role & Responsibilities 
+ Develop and maintain dashboards, reports (using Power BI or similar).
+ Develop a KPI performance tracking framework across product verticals.
+ Translate business requirements into analytical outputs to identify trends and support decision making.
+ Collaborate with engineering to ensure data availability and accessibility for new and existing feature.
+ Present findings clearly to stakeholders, turning insights into action.
+ Ensure data accuracy, consistency, and governance standards are maintained.
+ Requirements 
+ 3-5 years experience in an analytical role.
+ Experience with Snowflake or similar and the ability to query using SQL or Python.
+ Experience using BI reporting tools such as Power BI or Tableau.
+ Familiarity with analytic tools such as Mixpanel or Amplitude.
+ Experience managing priorities in fast paced and high growth environment.
+ Strong stakeholder management, from delivery teams to C-suite.
+ Experience in Fintech or B2B company is beneficial.
+ Sokin is an equal opportunities employer and committed to maintaining an inclusive work environment. As a growing global startup with bases across multiple countries, we were established on and continue to promote an agile, flexible working culture. Please reach out to discuss any accommodations you may require during the recruitment process.

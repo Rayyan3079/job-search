@@ -1,0 +1,80 @@
+URL: https://www.linkedin.com/jobs/view/4487485291
+TITLE: Data Analyst
+COMPANY: Puffy
+LOC: Berlin, Germany
+POSTED: 2026-11-10
+title: Data Analyst
+company: Puffy
+posted: 6 days ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fdata-analyst-at-puffy-4487485291&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Own the experimentation engine behind a $1Billion+ e-commerce brand's growth decisions. 
+ Total Annual Package: Up to USD $118,750 + comprehensive benefits (Base salary + monthly performance bonus of up to 25% of base)
+ Location: Remote (Global)
+ Growth path from here is: Senior Data Analyst → Analytics Engineer. Career progression that takes 4-5 years elsewhere can happen in 1-2 years here for high performers.
+ We've been AI-first since December 2023: You'll use agentic AI workflows to accelerate analysis and refine your analytical output. You remain accountable for validating the findings and turning them into clear business recommendations.
+ Role Overview: 
+ Puffy, a market-leading, nine-figure D2C brand and Top 5 US mattress brand with over $1Billion in sales, is hiring a Data Analyst to own its experimentation program, covering test design, statistical analysis, funnel diagnosis and data pipelines, reporting directly to the Analytics Manager.
+ This role exists to turn raw customer and acquisition data into clear recommendations that Marketing, UX and Development can act on the same week.
+ The Problems You'll Own: 
+ Primary: Turn test results into growth decisions: Experiment results need to explain what worked, what did not and why across devices, traffic sources and customer-journey steps. The challenge is separating meaningful findings from noise and turning them into recommendations that Marketing, UX and Development can act on.
+ Secondary: Connect the evidence without slowing decisions: The acquisition-to-conversion picture spans Shopify, GA4, Google Ads, Meta and BigQuery. Independent analysis depends on connected source data and validated outputs rather than pre-built dashboards alone. The challenge is keeping that evidence usable and reliable as analytical output scales.
+ The Career Accelerator: 
+ This is not a role where you manage dashboards and pass the analysis to someone else.
+ The scope is scarce : You'll work across test design, statistical analysis, funnel diagnosis and your own data pipelines, with direct access to the Analytics Manager. You pull the data yourself and remain accountable for the quality of your recommendations.
+ Your first 12 months: Analyze A/B tests end to end, explaining what worked, what did not and why. Prioritize hypotheses by impact and define test briefs, success criteria and sample sizes upfront. Turn findings into site changes, campaign adjustments and creative decisions with Marketing, UX and Development. Map journeys across devices and traffic sources to identify friction and conversion leaks. Connect Google Ads and Meta data to the acquisition-to-conversion funnel. Use SQL and Python against raw event data to investigate performance by segment, device, source and journey step. Build and maintain pipelines across Shopify, GA4, Google Ads and BigQuery without waiting on another team for your data. Direct and validate agentic AI workflows to scale your analytical output. Contribute early and deliver recommendations the business can act on the same week. Shape how experimentation informs growth decisions at Puffy.
+ What Is In It For You: 
+ This isn't just another data analysis role. This is your chance to become a true industry architect.
+ 1. Own the Experiment from Question to Recommendation: 
+ You design the test, pull the data and own the analytical recommendation.
+ • You map customer journeys, investigate performance in SQL and Python, and connect Google Ads and Meta data to on-site behavior. You build and maintain your own pipelines across Shopify, GA4, Google Ads and BigQuery without waiting on another team for the data you need.
+ • You design hypotheses, define success criteria and sample sizes, analyze A/B tests and translate findings into usable recommendations. You direct and validate agentic AI workflows, reporting directly to the Analytics Manager and collaborating with Marketing, UX and Development.
+ 2. Join a High-Performance Organization and Partner with the 1%: 
+ 🏆 Puffy: Top 5 Mattress Brand in US with Over $1Billion USD in Sales
+ 🌍 Great Place to Work Certified
+ 💡 Join an AI-first organization led by a Forbes Council Member CEO
+ Gain firsthand exposure to strategic decisions and high-velocity execution that drives a global brand
+ 3. Embrace Radical Flexibility 
+ Work from anywhere in the world with meaningful time zone overlap. Structure your environment around your best thinking, whether that's a home office, a co-working space, (OR) our Dubai headquarters (with full relocation, visa support, and 0% income tax if you choose). Your output is your credential, not your location.
+ 4. Become the Person Who Knows Why Things Convert 
+ In most companies, analysts report numbers. Here, you're the person who tells the business what to change and why. When a test wins or loses, your analysis is the reason leadership moves. You'll build the instinct to separate signal from noise across segments, devices, and traffic sources — and the communication skills to make non-technical stakeholders act on what you find. Puffy has been AI-First since December 2023, so you'll build that judgment with an AI-native toolbox behind you rather than a reporting queue in front of you.
+ What You'll Need: 
+ 3+ years in data analysis, experimentation, or CRO within e-commerce, D2C, or any high-traffic transactional website (fintech, marketplaces, SaaS, banking).
+ Strong SQL - complex joins, window functions, CTEs across large datasets without relying on pre-built dashboards.
+ Working Python (or R) for data manipulation, statistical analysis, and automation.
+ Proven A/B testing experience - hypothesis design through statistical analysis to business recommendation; solid grasp of sample sizing, significance thresholds, and common pitfalls.
+ Hands-on GA4 experience - event-based tracking, custom explorations, and the ability to tie GA4 data to other sources.
+ Experience integrating ad platform data (Google Ads, Meta) with site analytics to see the full acquisition-to-conversion funnel.
+ Ability to independently connect to and pull from multiple data sources (APIs, warehouses, flat files) without engineering support.
+ Sharp analytical communication - complex findings distilled into concise recommendations for non-technical stakeholders.
+ Proactive and curious - you spot testing opportunities and chase root causes before anyone asks.
+ Must be willing to work extended hours and weekends as needed
+ Good-to-Have: 
+ Experience with BigQuery or AWS data warehousing, including scheduled queries and data modeling.
+ Familiarity with session replay and heatmap tools (FullStory, Hotjar) for qualitative behavioral analysis.
+ Background in Looker, Tableau, or similar dashboarding tools.
+ Resources Provided: 
+ You’ll have access to our latest company-provided AI tools, including ChatGPT and Claude, multiple AI agents, bots, plugins, AI projects, and automations through platforms such as n8n. You’ll also receive the department tools, relevant data, assets and specialist support needed to deliver your work. We expect you to use these resources to automate routine work and deliver high-quality results quickly.
+ The Puffy DNA: 
+ We're restless, perpetually hungry, and fast-paced, driven by an unwavering belief that we can outperform any competitor, regardless of their size.
+ Be the Owner: We don't hire employees; we welcome owners. You're accountable for results, not activity.
+ Execute with Urgency: We thrive in high-stakes environments by making thoughtful decisions quickly and acting decisively.
+ Demand Excellence: We solve the hard problems that others can't, pushing the boundaries of our craft.
+ Be AI-First: Daily multi-turn AI conversations challenge your assumptions.
+ Go All-In: When the mission demands it, we rally as one team to cross the finish line.
+ ✨ Your Total Compensation & Benefits: 
+ 💰 Compensation: Total Annual Package: Up to USD $118,750 + comprehensive benefits (Base salary + monthly performance bonus of up to 25% of base)
+ Annual salary review every January
+ 🏥 Health & Protection: Comprehensive medical, dental, and vision insurance (based on country of hire)
+ 🌴 Time Off: Generous Paid Time Off (PTO) + Public holidays
+ 💼 Work Environment: 
+ AI-First organization with access to AI-native tool stack
+ Remote First: Work from the comfort of your home office
+ Learning & development opportunities
+ International team collaboration across 16+ nationalities. Your assumptions get challenged daily.
+ 🏆 Rewards & Recognition: 
+ Eligibility for selection to the Leaders Club, an elite recognition program featuring premium wellness memberships, exclusive networking with senior leadership, and annual leadership retreats
+ Eligibility for nomination as 'We Are' Champion of the Month, monthly recognition with gift vouchers and company-wide celebration for exceptional contributions
+ Ready to Shape Your Story? 
+ Click "Apply" and take the first step.

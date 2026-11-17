@@ -1,0 +1,31 @@
+URL: https://www.linkedin.com/jobs/view/4489742680
+TITLE: Associate SAP Consultant
+COMPANY: Thread & Logic
+LOC: Stuttgart, Baden-Württemberg, Germany
+POSTED: 2026-11-16
+title: Associate SAP Consultant
+company: Thread & Logic
+posted: 17 hours ago
+applicants: 49 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fassociate-sap-consultant-at-thread-logic-4489742680&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+A lot of what German companies ask us to build an application around starts or ends in SAP, whether it is a purchase order, a goods receipt or an invoice. Thread & Logic is hiring an Associate SAP Consultant in Germany for that side of our projects. The position is full-time and remote from anywhere in Germany, and our team in Dallas is seven hours behind you.
+ Projects you'd join Work out which SAP fields and transactions an application needs to read or update
+ Test interfaces between our applications and SAP S/4HANA or ECC in a test system
+ Configure small changes in SAP MM or SD together with a senior colleague
+ Write test cases and record the results for each release
+ Answer user questions about the SAP side of an application after go-live
+ To start, you need A degree in business informatics, business administration or computer science, or completed commercial training
+ First contact with SAP, in a job, an internship, a university course or SAP training
+ A basic understanding of purchasing, sales or accounting processes
+ Excel, including filters, pivot tables and XLOOKUP
+ Good extras An SAP S/4HANA certification or a course in MM, SD or FI
+ Basic SQL or ABAP
+ IDocs, OData or REST APIs
+ From Thread & Logic 30 days of holiday a year
+ Company pension plan with an employer contribution
+ Yearly training budget for courses and certifications
+ A laptop and home office equipment
+ Flexible hours, with a few hours of overlap with Dallas
+ Thread & Logic in short
+ Thread & Logic builds custom business applications in Dallas, Texas. We design internal tools, connect them to the systems a team already uses and add AI where it can prepare the next step, while the person using the application makes the decision and the application records it.

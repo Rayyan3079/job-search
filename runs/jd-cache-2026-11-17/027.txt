@@ -1,0 +1,38 @@
+URL: https://www.linkedin.com/jobs/view/4490935362
+TITLE: Ingeniero SQL - Trabajo Remoto
+COMPANY: BairesDev
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-16
+title: Ingeniero SQL - Trabajo Remoto
+company: BairesDev
+posted: 8 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fpe.linkedin.com%2Fjobs%2Fview%2Fingeniero-sql-trabajo-remoto-at-bairesdev-4490935362&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+En BairesDev® llevamos 15 años liderando proyectos de tecnología para clientes como Google, Rolls-Royce y las startups más innovadoras de Silicon Valley. Actualmente, contamos con un equipo de 4000 profesionales conformado por el top 1% de la industria trabajando de forma remota desde más de 50 países.
+ Al postularte a esta vacante, estarás dando el primer paso en un proceso que va más allá de lo convencional: Buscaremos conocer en profundidad tus habilidades, intereses y expectativas con el objetivo de realizar una búsqueda personalizada y encontrar el rol ideal para ti en BairesDev.
+ Ingeniero SQL en BairesDev
+ Buscamos Ingenieros SQL para unirse a nuestro equipo de Ingeniería Interna y participar en el desarrollo de nuestra plataforma de generación de leads, que genera millones de dólares en ingresos cada año. Nuestros equipos son multiculturales y están distribuidos por todo el mundo. Buscamos personas proactivas apasionadas por la tecnología, colaboradoras y creativas en equipo. ¡Esta es una excelente oportunidad para aquellos profesionales que buscan desarrollarse en una de las empresas de más rápido crecimiento en la industria!
+ Estos desarrolladores se enfrentarán a numerosos desafíos técnicos:
+ - Desarrollar, revisar y mejorar scripts SQL complejos.
+ - Solucione los problemas de rendimiento de la base de datos y asegurarse de que se sigan las mejores prácticas.
+ - Diagnosticar configuraciones de bases de datos complejas y comunicarse claramente a través de su resolución.
+ - Monitorear el estado de la base de datos.
+ - Identificar mejoras de procesos, proponer soluciones y coordinar esfuerzos con otros miembros clave del equipo.
+ - Identificar y clasificar los problemas del sistema y trabajar con nuestro equipo de desarrollo para impulsar la resolución.
+ - Facilitar la formación al equipo de desarrollo.
+ ¿Qué Buscamos?:
+ - 5+ años de experiencia en desarrollo de MS SQL.
+ - Eficiente en el análisis, mapeo del inconveniente, y resolución de problemas.
+ - Experiencia trabajando con bases de datos extra grandes.
+ - Experiencia práctica en la gestión de cargas y calidad de datos.
+ - Nivel de inglés avanzado.
+ Qué ofrecemos para que tu trabajo (y tu vida) seja mais fácil:
+ - Trabajo 100% remoto: trabaja desde tu casa o donde quieras.
+ - Compensación en USD o en tu moneda local, como prefieras, muy por encima de la media del mercado.
+ - Hardware y software.
+ - Horarios flexibles
+ - Licencias por mater/paternidad, vacaciones y días festivos nacionales pagos.
+ - Ambiente laboral multicultural e innovador, perfecto para hacer amigos, colaborar y aprender de las personas más talentosas del mundo.
+ - Oportunidades de crecimiento y desarrollo profesional a través de mentorías y entrenamientos.
+ ¡Únete a nuestro equipo global!

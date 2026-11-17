@@ -1,0 +1,46 @@
+URL: https://www.linkedin.com/jobs/view/4488925569
+TITLE: Working Student (f/m/d) Consulting Data & AI
+COMPANY: SAP
+LOC: Garching, Bavaria, Germany
+POSTED: 2026-11-13
+title: Working Student (f/m/d) Consulting Data & AI
+company: SAP
+posted: 3 days ago
+applicants: 76 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-f-m-d-consulting-data-ai-at-sap-4488925569&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Description
+ What you'll bring
+ You're studying business, information systems, or a related field — and you're drawn to where strategy, data, and execution meet.
+ First experience in any management or business operations student role is required — strategy, PMO, or strategy operations is a plus
+ A structured mindset — you simplify complexity and create clarity from ambiguity
+ Strong ownership: you take initiative and follow through on commitments
+ A customer-oriented perspective that shapes how you approach problems and stakeholders
+ Confidence communicating with diverse audiences, including senior leadership
+ The ability to manage multiple workstreams and stay focused as priorities shift
+ Fluency (minimum C1) in English and German is required for this role
+ You are currently enrolled and will remain a student for at least one more year
+ The role is based in Garching, near Munich, with office presence required some days per week. Alternatively, the location Walldorf would also be possible. We also look for people who communicate clearly, keep the customer in mind, and enjoy finding smart solutions to problems — whatever stage of your career you're at.
+In addition to the role-specific skills above, all student and early talent positions at SAP look for candidates who are open to working with AI tools — including agentic AI — to automate everyday tasks, prototype ideas, and build confidence in AI-assisted ways of working from day one.
+ What You'll Build
+ You'll work inside SAP's Data & AI unit on real priorities that connect directly to SAP's Autonomous Enterprise agenda.
+ Turn strategic priorities into clear plans, milestones, and deliverables
+ Build controlling dashboards that create a single source of truth for KPIs and progress
+ Set up governance cadences that provide transparency and keep execution on track
+ Craft executive-ready updates and presentations that make Data & AI topics clear
+ Coordinate stakeholder alignment: drive follow-ups and connect the right people at the right time
+ Develop internal communications — newsletters and key messages — to keep the team informed and inspired
+ Where you belong
+ This role puts you at the heart of Global Delivery MEE Data & AI — where strategy becomes execution. When you join SAP, you'll be a part of SAP Next Gen — a global community of students and early professionals with access to mentors, development programmes, and peers. This is a place to build real skills, take ownership from day one, and grow a network that lasts.
+Additional Information
+ About SAP
+ With a global network of customers, partners, employees, and thought leaders, SAP helps the world run better and improves people’s lives.
+As a leader in enterprise applications and business AI, SAP stands at the nexus of business and technology. For over 50 years, organizations have trusted SAP to bring out their best by uniting business-critical operations spanning finance, procurement, HR, supply chain, and customer experience.
+We win with inclusion
+SAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.
+SAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team: Careers@sap.com.
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+Qualified applicants will receive consideration for employment without regard to their age, race, religion, national origin, ethnicity, gender (including pregnancy, childbirth, et al), sexual orientation, gender identity or expression, protected veteran status, or disability, in compliance with applicable federal, state, and local legal requirements.
+AI Usage in the Recruitment Process
+For information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.
+Please note that any violation of these guidelines may result in disqualification from the hiring process.

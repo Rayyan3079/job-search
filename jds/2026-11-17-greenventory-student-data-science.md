@@ -1,0 +1,42 @@
+URL: https://www.linkedin.com/jobs/view/4489383754
+Company: greenventory
+Title: Student Data Science (working student / internship)
+Found: 2026-11-17
+Posted: 2026-11-15
+
+URL: https://www.linkedin.com/jobs/view/4489383754
+TITLE: Student Datascience
+COMPANY: greenventory
+LOC: Freiburg, Baden-Württemberg, Germany
+POSTED: 2026-11-15
+title: Student Datascience
+company: greenventory
+posted: 1 day ago
+applicants: 144 applicants
+apply_offsite: 
+---
+"We take the energy transition to the cities!" - With your help?
+ We believe that the energy transition doesn't have to be complicated. We offer municipalities, grid operators and energy suppliers the necessary decision-making and data basis for forward-looking planning of energy systems.
+ For the support in the field of Datascience we offer you a student position or an internship.
+ Aufgaben 
+ Read, pre-process and clean data sets.
+ Analyze data using statistical methods, energy models and machine learning techniques.
+ Create and validate energy models.
+ Support decision-making in energy based on data.
+ Qualifikation 
+ You love Python and aim for clean code.
+ You are passionate about datascience.
+ You work independently on challenging tasks.
+ You study something connected with energy or computer science.
+ You are a proactive team player who is not afraid to take initiative to improve things.
+ You look forward to bringing in your own ideas, implementing them and learning a lot.
+ Benefits 
+ Flexible working: Whether you are an early bird or a late starter, you can schedule your working hours flexibly.
+ Fair payment: We offer an attractive salary package.
+ Great workplace: We work in a state-of-the-art office with top equipment, located in Freiburg.
+ Team spirit: Both in your daily work as well as in regular after-work activities or company outings - you can look forward to a team of full-time employees and other working students in which you are fully integrated and enjoy your work from the very beginning.
+ Career perspectives: Work in a sustainable, socially relevant and absolutely promising field.
+ Personal training and development opportunities: We offer you the opportunity to quickly take on responsibility in projects as part of a strong team and to grow in new and exciting activities.
+ "But why exactly greenventory?"
+ Together with us, you have the opportunity to realise projects in an ambitious team that will help shape the future. Through your work, you'll make an important contribution to advancing the energy transition and paving the way towards climate neutrality.
+ Sounds good? Apply now!

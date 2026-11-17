@@ -1,0 +1,35 @@
+URL: https://www.linkedin.com/jobs/view/4454972854
+TITLE: Praktikant/in KI-gest. Analyse von App-Store-Feedback (m/w/d)
+COMPANY: BSH Home Appliances Group
+LOC: Regensburg, Bavaria, Germany
+POSTED: 2026-11-11
+title: Praktikant/in KI-gest. Analyse von App-Store-Feedback (m/w/d)
+company: BSH Home Appliances Group
+posted: 5 days ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikant-in-ki-gest-analyse-von-app-store-feedback-m-w-d-at-bsh-home-appliances-group-4454972854&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Tomorrow is our home.
+Steig ein und nutze deine Chance zu wachsen – mit der BSH Hausgeräte Gruppe: Als führender Hersteller von Hausgeräten und erstklassigen Lösungen bringen wir Dinge voran, um Menschen den Alltag zu erleichtern. Mit unseren Globalmarken Bosch, Siemens, Gaggenau und Neff, sowie unseren lokalen Marken steht dir die ganze Welt der Möglichkeiten offen. Wir bestärken Menschen darin, ihr Potenzial zu entwickeln und kontinuierlich zu lernen. Denn wir glauben, dass gute Arbeit dann entsteht, wenn man tut, was man liebt. Begleite uns auf diesem Weg und gib deiner Karriere ein Zuhause.
+BSH Hausgeräte GmbH | Job-ID: 76047083 | Vollzeit / Teilzeit | Arbeitsmodell: Hybrid (vor Ort/Homeoffice) | ab Oktober 2026
+Regensburg
+Deine Aufgabe
+Du Verfügst Bereits Über Theoretisches Fachwissen Und Möchtest Dieses Nun Gerne Durch Praktische Erfahrungen In Einem Dynamischen Unternehmen Ergänzen? Dann Unterstütze Uns Mit Deinem Talent Und Know-how Bei Folgenden Aufgaben
+ Sichtung und Strukturierung der vorhandenen Datenquellen (App-Store-Reviews und Kundentickets)
+ Evaluierung aktueller AI-Technologien (z. B. Large Language Models, Sentiment-Analyse-Tools, Topic Modeling)
+ Entwicklung eines Konzepts zur automatisierten Kategorisierung und Priorisierung von Feedback
+ Aufbau eines schlanken Proof-of-Concept (PoC) zur automatischen Extraktion von "Pain Points" und Feature-Wünschen
+ Bewertung der Qualität und Zuverlässigkeit der AI-generierten Insights im Vergleich zur manuellen Analyse
+ Dein Profil
+ Fortgeschrittenes Studium der Wirtschaftsinformatik, Data Science, Mathematik oder vergleichbar
+ Erste praktische Erfahrung mit Machine Learning, NLP (Natural Language Processing) oder LLMs
+ Grundkenntnisse in Programmiersprachen wie Python (von Vorteil für Datenanalyse/Prototyping)
+ Analytisches Denkvermögen, Eigeninitiative und die Fähigkeit, komplexe, unstrukturierte Textdaten strukturiert zu durchdringen
+ Deine Vorteile
+ Flexible Gestaltung der Arbeitszeit mittels Zeitkonto
+ 35h / Woche
+ Unterstützung bei der Einarbeitung und Integration ins Team
+ Zusammenarbeit auf Augenhöhe sowie wertschätzende Arbeitsatmosphäre 
+ Arbeiten in einem inspirierenden Team mit Hands-on-Mentalität
+ Weitere Informationen?
+Besuche uns hier bsh-group.com/de/de/karriere. Wir würden uns freuen, dich in unserem Team willkommen zu heißen!

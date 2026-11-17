@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Working Student (m/f/d) Partner Success – Data & Reporting",
+    "company": "The Mobility House",
+    "city": "Munich",
+    "greeting": "Dear The Mobility House team,",
+    "opening": "I am applying for the Working Student position in Partner Success – Data & Reporting. Defining KPIs with business teams, working out where data comes from and how reliable it is, and turning it into clear reports is exactly what I did in my previous roles.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with four SAP Certified Associate certifications. I worked as a Business Analyst at Tapal Tea and in SAP data and analytics at TallyMarks Consulting.",
+    "achievements": [
+      {
+        "lead": "KPIs and reporting",
+        "impact": "I translated business requirements into KPI-based reporting and documented data sources, calculations and results for every dashboard I built"
+      },
+      {
+        "lead": "Data sources and models",
+        "impact": "I investigated sources and dependencies and rebuilt datasets end to end during a 42-dashboard migration to SAP Datasphere"
+      },
+      {
+        "lead": "Data quality",
+        "impact": "I used SQL analysis, validation and reconciliation to make sure reported numbers were correct"
+      }
+    ],
+    "problems_section": "I would help define partner KPIs, build a common data model for OEM and utility partnerships, consolidate CRM and platform data and set up regular partner reports. My Power BI is basic, but I have built many dashboards in SAP Analytics Cloud and would get up to speed quickly.",
+    "closing": "I am willing to relocate to Munich and can work up to 20 hours per week, starting immediately. I would be glad to discuss the role.",
+    "date": "2026-11-17",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-11-17/mobility-house-working-student-partner-success-data-reporting/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}
