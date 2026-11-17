@@ -9,6 +9,9 @@ def text(h):
     h = re.sub(r"<(br|/p|/li|/h\d|/div)[^>]*>", "\n", h)
     t = html.unescape(re.sub(r"<[^>]+>", " ", h))
     return re.sub(r"[ \t]+", " ", re.sub(r"\n\s*\n+", "\n", t)).strip()
+if re.search(r"myworkdayjobs\.com|greenhouse\.io|smartrecruiters\.com", url):  # company career systems
+    import os
+    os.execvp("python3", ["python3", os.path.join(os.path.dirname(os.path.abspath(__file__)), "company-sites.py"), "--jd", url])
 m = re.search(r"linkedin\.com/jobs/view/(\d+)", url)
 if m:
     h = get(f"https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/{m.group(1)}")

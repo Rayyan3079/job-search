@@ -13,6 +13,7 @@ Internships, thesis roles, full-time roles and German-required roles are listed 
 | [modes/_profile.md](modes/_profile.md) | Two tracks (SAP/BI vs. Data Science) and the never-claim rules |
 | [modes/_custom.md](modes/_custom.md) | Tiers and package rules |
 | [portals.yml](portals.yml) | Search sources and keywords |
+| Company sites run | [RUNBOOK-company.md](RUNBOOK-company.md): ~40 multinationals' own career systems (Workday, Greenhouse, SmartRecruiters), daily ~20:40 |
 | Sources | LinkedIn, StepStone, XING, Arbeitsagentur, Fraunhofer/X-FAB/Jenoptik career sites, worldwide remote boards (Remotive, RemoteOK, Himalayas, Jobicy, Working Nomads) |
 | [digests/](digests/) | One report per run |
 | [output/](output/) | Tailored CV + cover letter per job, by date |

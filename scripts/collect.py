@@ -26,10 +26,13 @@ def add(L, p):
     if L in ('G', 'R') and not re.search(REL, t): return
     if L == 'G' and not re.search(STUDENT, t): return
     k.add(p[4]); out.append('\t'.join(p[:5]) + '\n'); lane[p[4]] = L
-for f, L in [('careers', 'L'), ('boards-local', 'L'), ('local', 'L'), ('aa', 'L'), ('remote', 'R'), ('boards-remote', 'R'),
+LOCAL = r'ilmenau|arnstadt|erfurt|jena|weimar|gotha|suhl|rudolstadt|saalfeld|zella-mehlis|schmalkalden|sonneberg|coburg'
+for f, L in [('company', 'G'), ('careers', 'L'), ('boards-local', 'L'), ('local', 'L'), ('aa', 'L'), ('remote', 'R'), ('boards-remote', 'R'),
              ('world', 'W'), ('linkedin', 'G'), ('boards-germany', 'G')]:
     try:
-        for l in open(f'runs/{T}-{f}.tsv'): add(L, l.rstrip('\n').split('\t'))
+        for l in open(f'runs/{T}-{f}.tsv'):
+            p = l.rstrip('\n').split('\t')
+            add('L' if f == 'company' and len(p) > 3 and re.search(LOCAL, p[3], re.I) else L, p)
     except FileNotFoundError: pass
 open(f'runs/{T}-candidates.tsv', 'w').writelines(out)
 open(f'runs/{T}-srclane.tsv', 'w').writelines(f"{u}\t{L}\n" for u, L in lane.items())
