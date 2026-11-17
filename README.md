@@ -1,7 +1,7 @@
 # Job search: Muhammad Rayyan Ahmed
 
 Automated job finder built on [career-ops](https://github.com/career-ops-hq/career-ops).
-Every 2 days a Claude session follows [RUNBOOK.md](RUNBOOK.md): it finds English-friendly student jobs anywhere in Germany posted in the last 7 days,
+Every evening (ready by 22:00 Berlin time) a Claude session follows [RUNBOOK.md](RUNBOOK.md): it finds English-friendly student jobs anywhere in Germany posted in the last 7 days,
 ranks them, and builds a tailored CV and cover letter for every good match. **Nothing is ever submitted: you review and apply.**
 
 **Priorities (since 2026-10-28):** near Ilmenau first, then anywhere in Germany (relocation OK) and fully remote, then worldwide remote part-time. Werkstudent, HiWi and internships all count.

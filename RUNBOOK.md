@@ -1,4 +1,4 @@
-# Job search run: instructions for the scheduled agent
+# Job search run: instructions for the scheduled agent (runs daily, ~21:30 Berlin)
 
 This repo holds everything about Muhammad Rayyan Ahmed's job search: the master CV, rules, found jobs,
 and the tailored application documents. The engine is [career-ops](https://github.com/career-ops-hq/career-ops),
