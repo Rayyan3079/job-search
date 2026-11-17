@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Internship in GenAI Knowledge Assistant for Engineering",
+    "company": "Bosch Home Comfort Group",
+    "city": "Wernau (Neckar)",
+    "date": "2026-11-17",
+    "greeting": "Dear Bosch Home Comfort team,",
+    "opening": "I am applying for the internship on a GenAI Knowledge Assistant for Engineering. Letting engineers ask questions about technical documents and get source-grounded answers with citations is exactly what I built in my latest project, DocuMind (github.com/Rayyan3079/documind-rag), a RAG assistant over technical PDF manuals.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence. Before my Master's I worked with structured business data on SAP platforms as a Business Analyst and in SAP data consulting.",
+    "achievements": [
+      {
+        "lead": "Source-grounded answers",
+        "impact": "DocuMind cites the file and page for every answer and says when information is not in the documents; it refused all 4 unanswerable questions in my test set"
+      },
+      {
+        "lead": "Evaluation and traceability",
+        "impact": "I built an evaluation harness with hit rate, MRR and an LLM judge: 91% correct on 22 questions, and hybrid BM25 plus vector search raised MRR from 0.748 to 0.898"
+      },
+      {
+        "lead": "Structured data and SQL",
+        "impact": "in industry I built data models from ABAP CDS view sources and joins and validated them with SQL, which is the basis for querying structured engineering data"
+      }
+    ],
+    "problems_section": "I would collect and preprocess engineering documents and datasets, compare RAG, Text-to-SQL and vector search options, build the natural-language workflows and measure answer quality with citations and evaluation sets. I have not used Databricks, Genie or MLflow yet, and I have no heat pump background, so I would learn the platform and domain from your engineers.",
+    "closing": "I am willing to relocate to the Stuttgart area for the 6-month internship and can start by agreement. As a non-EU student I will agree the weekly hours with you so they fit my permitted working days. I would be glad to discuss the role.",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-11-17/bosch-internship-genai-knowledge-assistant-engineering/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

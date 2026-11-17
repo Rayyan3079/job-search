@@ -1,0 +1,37 @@
+URL: https://jobs.smartrecruiters.com/BoschGroup/744000161817839
+TITLE: Praktikum in der Werkstatt-Digitalisierung und Prozessmodernisierung
+COMPANY: Bosch
+LOC: Stuttgart, Germany
+POSTED: 2026-11-16
+title: Praktikum in der Werkstatt-Digitalisierung und Prozessmodernisierung
+company: Bosch Group
+posted: 2026-11-16
+location: Stuttgart
+---
+Bei Bosch gestalten wir Zukunft mit hochwertigen Technologien und Dienstleistungen, die Begeisterung wecken und das Leben der Menschen verbessern. Unser Versprechen an unsere Mitarbeiterinnen und Mitarbeiter steht dabei felsenfest: Wir wachsen gemeinsam, haben Freude an unserer Arbeit und inspirieren uns gegenseitig. Willkommen bei Bosch. 
+ Die Robert Bosch Manufacturing Solutions GmbH freut sich auf deine Bewerbung!
+Während deines Praktikums analysierst du systematisch unsere bestehenden Abläufe, Prozesse und Tools, um Optimierungspotenziale zu identifizieren sowie eine fundierte Basis für die Digitalisierung zu schaffen.
+ Du entwirfst einen modernen „Fahrplan” (Workflow) für unser operatives Tagesgeschäft. Dazu konzipierst du eine neue Prozesslandschaft und strukturierst eine sichere, kollaborative Datenablage auf Basis von SharePoint Online, damit löst du die Excel-Silos ab.
+ Mithilfe von Low-Code-/No-Code-Ansätzen entwickelst du intuitive, werkstatttaugliche Umgebungen und automatisierst Workflows sowie Genehmigungsprozesse, z.B. für Materialanforderungen oder Freigaben, mit Power Automate.
+ Darüber hinaus etablierst du KI- und Agenten-Lösungen, indem du KI-Agenten in Copilot Studio konzipierst. Du erstellst sowie erprobst Automatisierungs-Agenten, die administrative Datenabfragen in natürlicher Sprache ermöglichen.
+ Nicht zuletzt begleitest du den Rollout aktiv, führst Mini-Schulungen durch und erstellst kurze Videoanleitungen oder Dokumentationen zur Nutzung der neuen Tools, um die Akzeptanz zu fördern.
+Ausbildung: Studium im Bereich Wirtschaftsinformatik, Wirtschaftsingenieurwesen, Technologiemanagement, Mechatronik, Informatik oder vergleichbar
+ Erfahrungen und Know-how: in Microsoft 365, Power Platform, Excel und VBA; Kenntnisse in Python von Vorteil
+ Persönlichkeit und Arbeitsweise: du bist eine kommunikative Person mit IT-Affinität und Macher-Mentalität, die selbstständig sowie strukturiert vorgeht
+ Arbeitsalltag: deine Präsenz vor Ort ist erforderlich
+ Sprachen: verhandlungssicheres Deutsch
+Beginn:  nach Absprache
+ Dauer:  6 Monate
+ Wir bieten dir
+ 35 Stunden/Woche mit Gleitzeit 
+ eine feste Ansprechperson, die dich während deines Praktikums begleitet
+ eine moderne Arbeitsplatzumgebung, sowie mobiles Arbeiten nach Absprache
+ die Möglichkeit Teil unseres studentischen Netzwerkes students@bosch Stuttgart zu werden
+ Vergünstigungen in unseren Betriebsrestaurants
+ Voraussetzung für das Praktikum ist die Immatrikulation an einer Hochschule. Bitte füge deiner Bewerbung deinen Lebenslauf, deinen aktuellen Notenspiegel, eine aktuelle Immatrikulationsbescheinigung, deine Prüfungsordnung sowie ggf. eine gültige Arbeits- und Aufenthaltserlaubnis bei.
+ Als global agierendes Unternehmen sind wir gesetzlich verpflichtet, die geltenden EU- und US-(Re-)Exportkontroll- und Sanktionsbestimmungen einzuhalten. Das bedeutet: Auf bestimmten, besonders sensiblen Stellen dürfen wir nur Personen beschäftigen, die eine zusätzliche gesetzliche Prüfung durchlaufen haben. Bei dieser Position handelt es sich um eine solche sensible Stelle. Wir werden dich daher im weiteren Verlauf des Prozesses um weitere, für diese zusätzliche Prüfung erforderliche Angaben bitten. Informationen zur Verarbeitung deiner Daten findest du in unseren Datenschutzhinweisen für den Bewerbungsprozess.
+ Vielfalt und Inklusion sind für uns keine Trends, sondern fest verankert in unserer Unternehmenskultur. Daher freuen wir uns über alle Bewerbungen: unabhängig von Geschlecht, Alter, Behinderung, Religion, ethnischer Herkunft oder sexueller Identität.
+ Du hast fachliche Fragen zum Job? 
+Johannes Zolynski (Fachabteilung)
++49 152 07531389
+ Work #LikeABosch beginnt hier: Jetzt bewerben!

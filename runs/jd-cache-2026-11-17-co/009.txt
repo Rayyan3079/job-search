@@ -1,0 +1,51 @@
+URL: https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923
+TITLE: Software Engineering Undergraduate Intern (f/m/d)
+COMPANY: Intel
+LOC: Germany, Munich
+POSTED: 2026-11-12
+title: Software Engineering Undergraduate Intern (f/m/d)
+company: intel
+posted: 2026-11-12
+location: Germany, Munich | remote: 
+---
+Job Details: 
+ Job Description: 
+ Shape the future of computing with Intel. 
+ Are you passionate about low-level software, compiler technologies, and high-performance computing? Join Intel's Data Center Group (DCG) as a System Software Engineering Undergraduate Intern and gain hands-on experience working on technologies that power the world's digital infrastructure.
+ In this role, you'll collaborate with experienced engineers on the development and optimization of system software, contributing directly to Intel's next-generation platforms and solutions. This is an excellent opportunity to apply your academic knowledge to real-world challenges while building valuable industry experience.
+ What You'll Do:
+ Support the design, development, and validation of the Intel Graphics Compiler 
+ Work with cross-functional teams to optimize software performance across Intel platforms
+ Contribute to system software and reference platform development
+ Participate in hands-on engineering projects involving firmware, drivers, operating systems, and middleware
+ Apply knowledge gained through coursework and personal projects to solve real technical challenges
+ Learn from industry experts while exploring future career opportunities within Intel
+ Qualifications: 
+ What We're Looking For:
+ Minimum Qualifications 
+ Bachelor's degree in Computer Science, Software Engineering, Computer Engineering, or a related field with 0-1 years of experience gained through internships, academic projects, coursework, or practical training, or 
+ Master's degree in a relevant technical field with no prior professional experience
+ Strong programming skills in C/C++ 
+ Basic understanding of Operating Systems , Computer Architecture , or related areas
+ Excellent analytical, mathematical, and problem-solving skills
+ Preferred Qualifications 
+ Experience with LLVM 
+ Knowledge of OpenCL , CUDA , or SYCL 
+ Interest in compiler technologies, performance optimization, or systems programming
+ Job Type:
+Student / Intern 
+ Shift:
+Shift 1 (Germany) 
+ Primary Location: 
+Germany, Munich 
+ Additional Locations:
+ Posting Statement:
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance. 
+ Position of Trust
+N/A  
+ EU Salary
+ We offer a total compensation package that ranks among the best in the industry. 
+The minimum Annual Salary for this job which could be performed in Germany is: 11 870,00 €&#xa;&#xa;The job posting reflects the minimum base compensation for this role. Our standard internship rates are aligned with the specific job role and degree level. As part of our total compensation approach, the final offer may also include additional pay components and benefits. Your recruiting team will provide the confirmed base salary along with any applicable total compensation elements upon employment offer delivery. 
+ Work Model for this Role 
+This role will be eligible for our hybrid work model which allows employees to split their time between working on-site at their assigned Intel site and off-site. * Job posting details (such as work model, location or time type) are subject to change. 
+ *

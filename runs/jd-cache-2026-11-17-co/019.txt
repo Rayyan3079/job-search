@@ -1,0 +1,36 @@
+URL: https://jobs.smartrecruiters.com/BoschGroup/744000162039594
+TITLE: Werkstudent Data Analytics & Business Intelligence (w/m/div.)
+COMPANY: Bosch
+LOC: Gunzenhausen, Germany
+POSTED: 2026-11-17
+title: Werkstudent Data Analytics & Business Intelligence (w/m/div.)
+company: Bosch Group
+posted: 2026-11-17
+location: Gunzenhausen
+---
+Bei Bosch gestalten wir Zukunft mit hochwertigen Technologien und Dienstleistungen, die Begeisterung wecken und das Leben der Menschen verbessern. Unser Versprechen an unsere Mitarbeiterinnen und Mitarbeiter steht dabei felsenfest: Wir wachsen gemeinsam, haben Freude an unserer Arbeit und inspirieren uns gegenseitig. Willkommen bei Bosch. 
+ Die Zukunft der industriellen Wärme mitgestalten – bei Bosch Industriekessel: Als Teil der globalen Bosch-Gruppe entwickeln und fertigen wir am Hauptsitz in Gunzenhausen maßgeschneiderte Kesselsysteme. Ob wegweisende Technologien wie die Elektrifizierung oder unser zukunftsorientierter Kundenservice: Wir schaffen echten Mehrwert für die nachhaltige Industrie von morgen. Bei uns triffst du auf spannende Projekte aus über 140 Ländern der Welt – von der Lebensmittelproduktion bis zur urbanen Fernwärme. Was dich noch erwartet? Über 160 Jahre Industriekompetenz, Freiraum für deine Ideen und ein Team mit Pioniergeist. Bewege Großes mit uns und werde Teil unserer Erfolgsgeschichte! 
+ Die Bosch Industriekessel GmbH freut sich auf deine Bewerbung!
+Du übernimmst die Konzeption, Entwicklung und Optimierung interaktiver Power-BI-Dashboards sowie aussagekräftiger Reports.
+ Komplexe Daten bereitest du strukturiert auf, verknüpfst sie und visualisierst die Ergebnisse für fundierte Geschäftsentscheidungen.
+ Du entwickelst relevante Kennzahlen weiter und nimmst präzise Performance- sowie Abweichungsanalysen vor.
+ Die Analyse historischer Daten zur Identifikation von Trends, Mustern und Auffälligkeiten führst du eigenständig durch.
+ Zukunftsweisende Prognosemodelle zur Vorhersage von Geschäftsentwicklungen gestaltest und wendest du zielgerichtet an.
+ Du automatisierst und optimierst effiziente Daten- sowie Reportingprozesse mithilfe von Microsoft Power Automate.
+Ausbildung: Studium im Bereich Betriebswirtschaft, Wirtschaftsingenieurwesen, Wirtschaftsinformatik oder vergleichbar
+ Erfahrungen und Know-how: sicherer Umgang mit Microsoft Office, Power BI, Microsoft Power Automate sowie erste Erfahrungen in der Datenmodellierung; gutes Verständnis für vertriebliche Kennzahlen und Prozesse im internationalen Umfeld
+ Persönlichkeit und Arbeitsweise: du überzeugst durch dein ausgeprägtes, analytisches und strukturiertes Denkvermögen sowie eine eigenständige, lösungsorientierte Vorgehensweise; deine Kommunikationsstärke und dein sicheres Auftreten runden dein Profil perfekt ab
+ Arbeitsalltag: wir bieten dir die Möglichkeit, hybrid zu arbeiten (zu Beginn vermehrte Anwesenheit im Büro, mit der Zeit ca. 40 % mobiles Arbeiten möglich)
+ Begeisterung: Freude daran, mit analytischer und vertriebsnaher Arbeit direkten Einfluss auf die Performance des Unternehmens und den Sales-Erfolg zu haben
+ Sprachen: verhandlungssicheres Deutsch und Englisch
+Beginn:  nach Absprache
+ Dauer: 12 Monate - 15h/Wochen (Verlängerung nach Absprache möglich) 
+ Voraussetzung für die Werkstudententätigkeit ist die Immatrikulation an einer Hochschule. Bitte füge deiner Bewerbung deinen Lebenslauf, deinen aktuellen Notenspiegel, eine aktuelle Immatrikulationsbescheinigung sowie ggf. eine gültige Arbeits- und Aufenthaltserlaubnis bei.
+ Als global agierendes Unternehmen sind wir gesetzlich verpflichtet, die geltenden EU- und US-(Re-)Exportkontroll- und Sanktionsbestimmungen einzuhalten. Das bedeutet: Auf bestimmten, besonders sensiblen Stellen dürfen wir nur Personen beschäftigen, die eine zusätzliche gesetzliche Prüfung durchlaufen haben. Bei dieser Position handelt es sich um eine solche sensible Stelle. Wir werden dich daher im weiteren Verlauf des Prozesses um weitere, für diese zusätzliche Prüfung erforderliche Angaben bitten. Informationen zur Verarbeitung deiner Daten findest du in unseren Datenschutzhinweisen für den Bewerbungsprozess.
+ Vielfalt und Inklusion sind für uns keine Trends, sondern fest verankert in unserer Unternehmenskultur. Daher freuen wir uns über alle Bewerbungen: unabhängig von Geschlecht, Alter, Behinderung, Religion, ethnischer Herkunft oder sexueller Identität.
+ Du hast fachliche Fragen zum Job? 
+Stephan Ziegler (Fachabteilung)
++49 9831 56 551
+Lena Binckebanck (Fachabteilung)
++49 162 3426590
+ Work #LikeABosch beginnt hier: Jetzt bewerben!

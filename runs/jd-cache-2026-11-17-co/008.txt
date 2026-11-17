@@ -1,0 +1,62 @@
+URL: https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Middleware-Software-Engineering-Intern--m-f-d-_JR0288635
+TITLE: Middleware Software Engineering Intern (m/f/d)
+COMPANY: Intel
+LOC: Germany, Munich
+POSTED: 2026-11-05
+title: Middleware Software Engineering Intern (m/f/d)
+company: intel
+posted: 2026-11-05
+location: Germany, Munich | remote: 
+---
+Job Details: 
+ Job Description: 
+ Are you passionate about systems software, performance optimization, and modern software development practices? Join Intel's Data Center Software Group as a Software Engineering Intern and contribute to the development of technologies that power the world's most demanding computing workloads.
+ As part of the Threading Runtimes Team , you will help design, develop, and maintain Continuous Integration (CI) infrastructure while contributing to the development and optimization of Intel's threading runtime technologies. This is an exciting opportunity to gain hands-on experience with high-performance system software, performance analysis, and modern development workflows used to deliver production-quality software to customers worldwide.
+ What You'll Do:
+ Develop and maintain Continuous Integration (CI) systems that support large-scale software development and testing.
+ Contribute to the design, implementation, and optimization of threading runtime software.
+ Diagnose, debug, and resolve software issues across Linux and Windows environments.
+ Create automation and tooling using scripting languages to improve development efficiency.
+ Collaborate with experienced engineers to improve software quality, reliability, and performance.
+ Analyze application and runtime performance, identify bottlenecks, and implement optimizations.
+ Work with modern development technologies including GitHub Actions, containers, and AI-assisted development tools.
+ Qualifications: 
+ Minimum Qualifications:
+ To be considered for this opportunity, you should be:
+ Pursuing a Bachelor's or Master's degree in Computer Science, Computer Engineering, Software Engineering, or a related technical discipline.
+ Proficient in C/C++ programming with strong problem-solving and debugging skills.
+ Familiar with software development on both Linux and Windows operating systems.
+ Comfortable using Git and GitHub-based development workflows.
+ Experienced with at least one scripting language, such as Python or Bash.
+ Preferred Qualifications:
+ The following qualifications are not required but will help you stand out:
+ Experience building, maintaining, or supporting Continuous Integration and Continuous Delivery (CI/CD) environments.
+ Familiarity with GitHub Actions and automated software testing frameworks.
+ Experience with container technologies such as Docker.
+ Knowledge of parallel programming concepts and performance analysis techniques.
+ Experience analyzing and optimizing performance of multi-threaded applications or runtimes.
+ Familiarity with CPU and GPU architecture concepts.
+ Understanding of system software components, including operating systems, libraries, compilers, and runtime environments.
+ Exposure to AI agents, developer productivity tools, or AI-assisted software development workflows.
+ What You'll Gain:
+ Hands-on experience working on cutting-edge system software used across Intel's data center products.
+ Exposure to large-scale software engineering, performance optimization, and modern DevOps practices.
+ Mentorship from experienced software engineers and architects.
+ Opportunities to work on impactful technologies that support high-performance and cloud computing workloads.
+ Job Type:
+Student / Intern 
+ Shift:
+Shift 1 (Germany) 
+ Primary Location: 
+Germany, Munich 
+ Additional Locations:
+ Posting Statement:
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance. 
+ Position of Trust
+N/A  
+ EU Salary
+ We offer a total compensation package that ranks among the best in the industry. 
+The minimum Annual Salary for this job which could be performed in Germany is: 11 870,00 €&#xa;&#xa;The job posting reflects the minimum base compensation for this role. Our standard internship rates are aligned with the specific job role and degree level. As part of our total compensation approach, the final offer may also include additional pay components and benefits. Your recruiting team will provide the confirmed base salary along with any applicable total compensation elements upon employment offer delivery. 
+ Work Model for this Role 
+This role will be eligible for our hybrid work model which allows employees to split their time between working on-site at their assigned Intel site and off-site. * Job posting details (such as work model, location or time type) are subject to change. 
+ *

@@ -1,0 +1,59 @@
+URL: https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Development-Tools-Software-Engineer-Intern--m-f-d-_JR0288205
+TITLE: Development Tools Software Engineer Intern (m/f/d)
+COMPANY: Intel
+LOC: Germany, Munich
+POSTED: 2026-10-19
+title: Development Tools Software Engineer Intern (m/f/d)
+company: intel
+posted: 2026-10-19
+location: Germany, Munich | remote: 
+---
+Job Details: 
+ Job Description: 
+ Are you passionate about software engineering, performance optimization, and developer tools? Join Intel as a Development Tools Software Engineering Graduate Intern and help build the next generation of technologies that empower developers worldwide.
+ In this role, you will work alongside experienced software engineers, architects, and product teams to develop and enhance cutting-edge software tools used across Intel's engineering ecosystem. You'll gain hands-on experience in toolchain integration, performance analysis, GPU optimization, and feature development while contributing to real projects that impact products used around the globe.
+ This internship offers a unique opportunity to strengthen your technical skills, learn from industry experts, and accelerate your career in software engineering.
+ About the Team
+ The Data Center Group (DCG) is driving innovation across cloud, enterprise, and data center computing. Our teams develop high-performance technologies that power critical workloads, enable digital transformation, and accelerate technological advancement worldwide.
+ As part of DCG, you'll have the opportunity to work on meaningful projects at the intersection of software, hardware, AI, and high-performance computing.
+ What You'll Do
+ As a Development Tools Software Engineering Graduate Intern, you will:
+ Contribute to the development and optimization of software engineering tools, including analyzers, compilers, debuggers, and performance profiling solutions.
+ Collaborate closely with software engineers, architects, and product teams to align tool capabilities with evolving platform and business requirements.
+ Learn and apply GPU optimization techniques through practical projects and real-world case studies.
+ Support toolchain integration efforts, conduct performance analysis, and implement feature enhancements that improve developer productivity and software quality.
+ Participate in software development, testing, debugging, and validation activities to ensure reliable and efficient tool functionality.
+ Gain hands-on experience with modern engineering practices while contributing to projects aligned with Intel's strategic goals.
+ Qualifications: 
+ Minimum Qualifications:
+ Completed Bachelor's degree and currently pursuing a Master's degree in Computer Science, Software Engineering, or a related field.
+ 0-1 years of programming experience gained through internships, academic projects, coursework, research, or hands-on training.
+ Programming proficiency in Python, C, and/or C++.
+ Basic understanding of GPU architecture and parallel computing concepts.
+ Strong analytical and problem-solving skills.
+ Familiarity with software development methodologies, workflows, and development tools.
+ Preferred Qualifications:
+ Exposure to AI programming concepts and experience with AI/ML frameworks.
+ Familiarity with Intel development tools such as oneAPI, VTune Profiler, or related performance analysis tools.
+ Ability to work both independently and within collaborative, cross-functional teams.
+ Strong attention to detail and a genuine interest in software quality, automation, and continuous improvement.
+ Why Join Intel?
+ At Intel, you'll do more than gain experience—you'll help create technologies that impact millions of people around the world. You'll work in a collaborative environment that encourages innovation, continuous learning, and professional growth while being mentored by industry-leading engineers.
+ Take the next step in your career and help build world-class software tools that enable the future of computing. Bring your curiosity, creativity, and technical passion to Intel, where your ideas can make a real impact. 
+ Job Type:
+Student / Intern 
+ Shift:
+Shift 1 (Germany) 
+ Primary Location: 
+Germany, Munich 
+ Additional Locations:
+ Posting Statement:
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance. 
+ Position of Trust
+N/A  
+ EU Salary
+ We offer a total compensation package that ranks among the best in the industry. 
+The minimum Annual Salary for this job which could be performed in Germany is: 28 920,00 €&#xa;&#xa;The job posting reflects the minimum base compensation for this role. Our standard internship rates are aligned with the specific job role and degree level. As part of our total compensation approach, the final offer may also include additional pay components and benefits. Your recruiting team will provide the confirmed base salary along with any applicable total compensation elements upon employment offer delivery. 
+ Work Model for this Role 
+This role will be eligible for our hybrid work model which allows employees to split their time between working on-site at their assigned Intel site and off-site. * Job posting details (such as work model, location or time type) are subject to change. 
+ *

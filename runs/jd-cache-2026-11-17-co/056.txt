@@ -1,0 +1,39 @@
+URL: https://jobs.smartrecruiters.com/DeliveryHero/744000161452755
+TITLE: Intern, Data Labeler (Arabic Speaker) - (Global Discovery, Consumer)
+COMPANY: Delivery Hero
+LOC: Berlin, Germany
+POSTED: 2026-11-13
+title: Intern, Data Labeler (Arabic Speaker) - (Global Discovery, Consumer)
+company: Delivery Hero
+posted: 2026-11-13
+location: Berlin
+---
+As the world’s pioneering local delivery platform, our mission is to deliver an amazing experience, fast, easy, and to your door. We operate in around 65 countries worldwide, powered by tech, designed by people. As one of Europe’s largest tech platforms, headquartered in Berlin, Germany, Delivery Hero has been listed on the Frankfurt Stock Exchange since 2017 and is part of the MDAX stock market index. We push hard, learn quickly and stay human along the way. It’s this wonderful mix of high performance and real community that makes Delivery Hero a place where ambition and belonging grow side by side. If you’re curious, collaborative and ready to dive deep into meaningful work, you’ll fit right in.
+Learning nonstop. Innovation on tap. As an Intern, Data Labeler , you’ll label and review the data behind the search and recommendation systems that power brands like foodpanda, Glovo, PedidosYa and talabat. Every accurate annotation helps millions of customers find what they’re looking for, faster.
+ At the center of our marketplace is the Discovery organization. This team is currently building Search, Recommendation, and intent collection systems to power our brands like Foodpanda, Glovo, Pedidos Ya, Talabat - serving millions of requests every day. The systems we build are critical for our online marketplaces with high availability and performance requirements and drive meaningful commercial value. They require crafting control loops through data, machine learning, and online serving systems to serve millions of consumers worldwide.
+ At Delivery Hero, you’ll shape the global consumer experience for millions of users. Your work will have a direct impact on how we attract and retain customers, creating data-driven, personalized interactions that keep them coming back. As part of our Consumer Team, you’ll enhance customer satisfaction and drive global growth and profitability through innovative projects.
+ Label and annotate images, text, audio and video accurately.
+ Keep data quality and consistency high by following established labeling guidelines, directly shaping users’ search experience.
+ Work with the team to identify and resolve labeling discrepancies.
+ Share feedback on labeling guidelines and suggest improvements.
+Currently enrolled in a Bachelor’s or Master’s degree in a related field (e.g. Business, Finance, Accounting or Engineering), or a recent graduate.
+ Comfortable working with large volumes of data and documents.
+ Fluency in written and spoken English and Arabic .
+ Availability of 20 hours per week for 6 months.
+ Nice to have 
+ Interest in machine learning concepts.
+ Experience with data labeling tools.
+Ensuring you and all our Heroes are looked after, happy, and healthy is always on the menu. Because if you’re in good shape, then we’re in good shape.
+ Make the most of our  hybrid working model  and join the team for face-to-face connection and collaboration in our beautiful Berlin campus 2 days a week
+ We offer 27 days holiday with an extra day on 2nd and 3rd year of service
+ We will support you in developing yourself and your career growth opportunities: 1.000 € Educational Budget, Language Courses, Parental Support and access to the Udemy Business platform to explore a variety of online courses.
+ Get moving and release those wonderful, mind-boosting endorphins: Health Checkups, Meditation & Gym. 
+ Cash. Dough. Cheddar. Whatever you call it, we’ll help you with it: Employee Share Purchase Plan, Sabbatical Bank,  Public Transportation Ticket Discount, Life & Accident Insurance, Corporate Pension Plan
+ The power of getting together over some food is unrivaled. Here are a few ways to help you do that. All the yum: Digital Meal Vouchers and Food Vouchers. 
+ Wondering what relocating to Berlin is like? In this article, we’ve put together  10 things you should know about moving to Berlin   and how Delivery Hero can support you. You can also visit our  relocation hub  and check out more information about moving to Berlin.
+ Ready to prepare for your interview? Check out the list of the  5 most common interview questions and answers  created in collaboration with our recruiters.
+ Heads up: exact benefits may look a little different for intern, working student, fixed-term, and part-time roles. 
+ Ready to join our team?  If you’re excited to grow, collaborate and be part of the world’s leading delivery platform, we’d love to hear from you. Apply today!
+ We believe diversity and inclusion are key to creating not only an exciting product, but also an amazing customer and employee experience. Fostering this starts with hiring - therefore we do not discriminate on the basis of racial identities, religious beliefs, color, national origin, gender identities or expressions, sexual orientations, age, marital or disability statuses, or any other aspect that makes you, you.
+ We encourage you to let us know if you need any accommodations or specific accessibility support to ensure a smooth interview experience—just let us know with an email to our Inclusion Officer at inclusion@deliveryhero.com .
+ You're welcome to share your pronouns (he/she/they) right from the start so we can address you respectfully from our first contact.

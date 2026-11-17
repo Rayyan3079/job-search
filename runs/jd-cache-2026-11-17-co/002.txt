@@ -1,0 +1,50 @@
+URL: https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Penzberg/Internship-in-LMR-Cell-Technologies-Penzberg--m-f-d-_202611-129390-1
+TITLE: Internship in LMR Cell Technologies Penzberg (m/f/d)
+COMPANY: Roche
+LOC: Penzberg
+POSTED: 2026-11-17
+title: Internship in LMR Cell Technologies Penzberg (m/f/d)
+company: roche
+posted: 2026-11-17
+location: Penzberg | remote: 
+---
+At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.
+ The Position
+ Have you ever wondered how therapeutic proteins or rAAV gene therapies are developed? And did you know that Roche covers the entire value chain of such medicines at Europe's largest biotech site in Penzberg?
+ The department Cell Technologies is part of Therapeutic modalities and pharma research and early development (pRED). This is where research and technical development of the most promising candidates for new drugs begins.
+ Specifically, we at the cell technologies department develop new cell lines for the production of antibody and recombinant adeno-associated virus (rAAV) products.  We also support gene therapy portfolio projects with rAAV gene therapy designs and supplies.
+ You can contribute to these topics through your tasks 
+ During your internship you will be part of a dynamic team of highly motivated scientists and will learn and apply cutting-edge technologies for drug and cell line development
+ You will design and build new genetic elements and vectors (promoters, gene switches) for the expression of therapeutic molecules and test them (by e.g. NGS) in a production setting
+ You will have the opportunity to implement new workflows and improve existing methods for production, purification and characterization of therapeutic molecules or rAAVs. You may work with and establish or improve automated cell culture systems
+ You will also contribute to the development and implementation of new technologies inspired by synthetic biology approaches. Get the opportunity to learn bioinformatics and data science approaches, from analyzing omics data to interpreting the results
+ You will take part in regular exchanges and will also have the opportunity to give presentations to colleagues from other Roche sites in Basel and the US
+ Your profile 
+ You are passionate about science and are currently studying biotechnology, molecular biology, cell biology, computational biology or any other relevant life-science subject at a university or similar
+ During your studies, you have already gained hands-on experience in molecular biology, cell culture work or computational biology and are confident to work independently. You may be a generalist looking to dive deep into one topic, or a specialist looking to broaden your expertise
+ Ideally, you bring knowledge in the field of data handling & analysis and can process & present them accordingly. Coding experience in python, R, mathlab, bash would be an advantage
+ Good skills in English, both spoken and in writing, alongside experience in working in multi-cultural, international teams complete your profile
+ German language skills are a plus, but not required
+ Team player: You are very interested in helping to build excellent teams. In your teams, everyone shares success, while setbacks offer an opportunity to learn something new
+ Courageous: You tackle issues with confidence and keep things together in difficult times. You are willing to take responsibility and ownership of your projects
+ Continuous learner: You are enthusiastic about the challenges of new tasks and are highly self-motivated to find innovative solutions
+ Your benefits 
+ Flexible working hours (37.5 hours/week)
+ Attractive recognition grant (2,382 Euro per month for a full-time internship for 6 months)
+ Discounted meal prices (- 50%) in our staff canteen
+ Sport Center on campus
+ Online/Offline student networking events  
+ The possibility of accommodation in the Roche Boarding House or convenient transport connections to Munich with the Roche shuttle
+ Your application 
+ Please submit your curriculum vitae.
+ Please remember that this internship is aimed at students (m/f/d) who are currently enrolled for the entire period of the internship or, alternatively, at people in a gap year of a maximum of one year (between Bachelor's and Master's studies), where it can be proven in writing at which university/college and exactly when (month/year) within a year the studies will be continued.
+ Please note that recommendations for all student activities (e.g. internships, theses, etc.) are excluded.
+ Period: from March 2027 for a period of 6 months.
+ We are looking forward to your application! 
+ Your contact to us! With people. For people.
+ Do you need further support?
+ Please have a look at our FAQs, you will find them via https://careers.roche.com/global/en/faq .
+ Who we are
+ A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.
+Let’s build a healthier future, together.
+ Roche is an Equal Opportunity Employer.
