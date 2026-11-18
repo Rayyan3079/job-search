@@ -61,6 +61,16 @@ constant/unconnected nodes, cycles (registers can create loops; `ancestors` stil
 - **"Hours / start / duration?"** Up to 20 h/week during semester, start immediately, as long as possible (whole Master's).
 - **German?** Work language here can be English; say you are learning German (A1) and attending classes.
 
+## 4b. Pay and contract (from IMMS's own FAQ)
+- **Student research assistant = paid contract**, max **40 hours/month** (~10 h/week), on site in Ilmenau or Erfurt; FAQ gives no rate
+  (expect at least minimum wage, €13.90/h in 2026 → ~€560/month at 40 h).
+- **Mandatory internships are unpaid**; voluntary internships are not offered at IMMS. Your M.Sc. has no mandatory internship (check your
+  Studienordnung) → make sure the offer is the student assistant contract.
+- FAQ: a student job at IMMS is "only possible if you are not working elsewhere during this period" → ask whether it can be combined
+  with another part-time job.
+- Remote work only rarely; most work is on site.
+- Source: https://www.imms.de/en/career/questions-and-answers/questions-on-internships-jobs-and-bsc/msc-subjects.html
+
 ## 5. Your questions for them (pick 3)
 1. Which parts of the viewer are most important to the team first – search, tracing or marking?
 2. Who uses the viewer day to day (researchers, external partners)? How large are typical circuits?
