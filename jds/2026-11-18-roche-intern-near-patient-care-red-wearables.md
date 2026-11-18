@@ -1,0 +1,52 @@
+URL: https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Mannheim/Intern-Near-Patient-Care-Research-and-Early-Development_202611-129317-1
+Company: Roche Diagnostics
+Title: Intern Near Patient Care Research and Early Development (wearables data)
+Found: 2026-11-18
+Source: company career site (Workday)
+
+URL: https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Mannheim/Intern-Near-Patient-Care-Research-and-Early-Development_202611-129317-1
+TITLE: Intern Near Patient Care Research and Early Development
+COMPANY: Roche
+LOC: Mannheim
+POSTED: 2026-11-18
+title: Intern Near Patient Care Research and Early Development
+company: roche
+posted: 2026-11-18
+location: Mannheim | remote: 
+---
+At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections,  where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.
+ The Position
+ Job facts 
+ Are you passionate about healthcare and interested in digital wearables? If you are eager to gain hands-on experience in clinical research and data analysis, we have the ideal internship opportunity for you.
+ As an intern in the NPC RED (Near Patient Care Research and Early Development) Chapter, you will join an innovative and global team. The NPC RED Chapter, based in Mannheim, develops cutting-edge diagnostic solutions for near-patient testing.
+ Your tasks 
+ Screening of patents, literature, and clinical studies relevant to the project.
+ Conduct analysis of the data from wearables using advanced regression frameworks.
+ Providing regular updates to cross-functional team of clinical scientists, biomarker experts, data scientists, and in-vitro diagnostics experts.
+ Who You Are 
+ We are looking for a candidate who is inspired by our mission and thrives in a collaborative, high-tech environment. To be successful in this role, you possess:
+ Academic Background: Currently enrolled in a Master’s program in Computer Science, Data Science, Physics, or Engineering, with a strong focus on Machine Learning.
+ Sensor Domain Expertise: A solid technical understanding of how digital wearables (e.g., smartwatches, smart rings, chest patches) detect, filter, and transmit physiological metrics.
+ Time-Series Proficiency: Hands-on experience handling large, time-stamped datasets. You excel at transforming noisy, raw sensor data into high-quality features for regression analysis.
+ Technical Stack: Proficiency in Python or R for predictive modeling, including experience with gradientboosting and deep learning frameworks. Prior experience in similar data-driven projects is a strong plus.
+ Scientific Rigor: Meticulous attention to detail in writing technical reports, and documentation.
+ Communication Skills: Fluent in English.
+  Your benefits 
+ Flexible working hours (37.5 hours/week)
+ Attractive recognition grant (2.382.- Euro per month for a full-time internship > 3 months)
+ Discounted meal prices (- 50%) in our staff canteen
+ Sport Center on campus
+ Online/Offline student networking events 
+ Your application 
+ Along with your CV/resume, please provide a cover letter (maximum 350 words) describing your suitability for the position.
+ Please remember that this internship is aimed at students (m/f/d) who are currently enrolled for the entire period of the internship.
+ Please note that recommendations for all student activities (e.g. internships, theses, etc.) are excluded.
+ Period : from February 2027 for a maximum period of 6 months.
+ We are looking forward to your application! 
+ Your contact to us! With people. For people.
+ Do you need further support?
+ Please have a look at our FAQs, you will find them via https://careers.roche.com/global/en/faq .
+ Who we are
+ A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.
+Let’s build a healthier future, together.
+ Roche is an Equal Opportunity Employer.

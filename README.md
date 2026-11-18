@@ -21,6 +21,8 @@ Internships, thesis roles, full-time roles and German-required roles are listed 
 
 ## Latest run
 
+**2026-11-18 company sites**: 5 new, 2 packages: [Raisin – Working Student Software Engineer (Corporate Services Revenue)](output/2026-11-18/raisin-working-student-software-engineer-revenue/) (3.5), [Roche Diagnostics – Intern Near Patient Care Research and Early Development (wearables data)](output/2026-11-18/roche-intern-near-patient-care-red-wearables/) (2.5). Report: [digests/2026-11-18-company.md](digests/2026-11-18-company.md).
+
 **2026-11-17 company sites (first run)**: 57 new jobs from ~40 career sites, 1 package: [Bosch – GenAI Knowledge Assistant internship](output/2026-11-17/bosch-internship-genai-knowledge-assistant-engineering/) (4). Report: [digests/2026-11-17-company.md](digests/2026-11-17-company.md).
 
 **2026-11-17**: 78 new jobs checked. 4 packages: [SAP SE – Working Student – Cloud Developer for SAP Document AI](output/2026-11-17/sap-working-student-cloud-developer-document-ai/) (3), [greenventory – Student Data Science (working student / internship)](output/2026-11-17/greenventory-student-data-science/) (3.5), [The Mobility House – Working Student Partner Success – Data & Reporting](output/2026-11-17/mobility-house-working-student-partner-success-data-reporting/) (3.5), [Essity – Working Student Management Reporting](output/2026-11-17/essity-working-student-management-reporting/) (2.5). Report: [digests/2026-11-17.md](digests/2026-11-17.md).

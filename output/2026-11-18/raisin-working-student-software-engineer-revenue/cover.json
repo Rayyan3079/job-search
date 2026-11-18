@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Working Student Software Engineer (m/f/d) – Corporate Services Revenue",
+    "company": "Raisin",
+    "city": "Berlin",
+    "greeting": "Dear Raisin Corporate Services Revenue team,",
+    "opening": "I am applying for the Working Student Software Engineer position in your Corporate Services Revenue team. Building pipelines and SQL transformations where every number must be correct and traceable is exactly the kind of work I did with SAP finance and business data.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence. I worked in SAP data and analytics at TallyMarks Consulting and as a Business Analyst at Tapal Tea, including finance reporting.",
+    "achievements": [
+      {
+        "lead": "Pipelines",
+        "impact": "I designed and implemented SAP Datasphere data pipelines and rebuilt datasets end to end during a 42-dashboard migration"
+      },
+      {
+        "lead": "Accurate, traceable numbers",
+        "impact": "I used SQL analysis, validation and reconciliation to keep reporting correct, and built an employee expense reimbursement dashboard"
+      },
+      {
+        "lead": "Python and AI tools",
+        "impact": "I built DocuMind, a Python application on the Claude API with 37 unit tests, CI, Docker and full documentation"
+      }
+    ],
+    "problems_section": "I would help maintain pipelines, write and optimise SQL, add validations and document systems clearly for the team. Airflow, Snowflake, cloud services and NetSuite are new to me, but moving from SAP BW to SAP Datasphere showed me I learn new data platforms quickly.",
+    "closing": "I am willing to relocate to Berlin and can work 20 hours per week, starting immediately. I would be glad to discuss the role.",
+    "date": "2026-11-18",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-11-18/raisin-working-student-software-engineer-revenue/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

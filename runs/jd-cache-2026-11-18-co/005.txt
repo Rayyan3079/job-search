@@ -1,0 +1,33 @@
+URL: https://jobs.smartrecruiters.com/BoschGroup/744000162278279
+TITLE: Praktikum in der Produktentwicklung im Bereich Zuverlässigkeitsanalyse
+COMPANY: Bosch
+LOC: Lollar, Germany
+POSTED: 2026-11-18
+title: Praktikum in der Produktentwicklung im Bereich Zuverlässigkeitsanalyse
+company: Bosch Group
+posted: 2026-11-18
+location: Lollar
+---
+Bei Bosch gestalten wir Zukunft mit hochwertigen Technologien und Dienstleistungen, die Begeisterung wecken und das Leben der Menschen verbessern. Unser Versprechen an unsere Mitarbeiterinnen und Mitarbeiter steht dabei felsenfest: Wir wachsen gemeinsam, haben Freude an unserer Arbeit und inspirieren uns gegenseitig. Willkommen bei Bosch. 
+ Die Bosch Home Comfort Group freut sich auf deine Bewerbung!
+Entdecke eine spannende Herausforderung, bei der du aktiv die Zuverlässigkeit unserer innovativen Produkte mitgestalten kannst. Bring deine Expertise ein, um in einem dynamischen Umfeld die Zukunft der Heiztechnologien und Wärmepumpen zu prägen.
+ Als wichtiger Teil unseres Teams bist du für die Zuverlässigkeitsabsicherung in der Produktentwicklung von unterschiedlichen Komponenten im Bereich Residential und Commercial Heating (inkl. H\sub{2}) sowie Wärmepumpen-Hybride verantwortlich . 
+ Du erhältst die Möglichkeit, anhand vorhandener Testbeschreibungen und individueller Lastprofile eigene Komponententests zu definieren und Verbesserungsvorschläge auszuarbeiten.
+ Des Weiteren führst du selbstständig Material-, Komponenten- und Geräteprüfungen im Rahmen von Entwicklungsprojekten durch.
+ Zu deinen Aufgaben wird die Analyse von großen Datenmengen mit modernen Tools wie Power BI, Python und Azure Databricks gehören.
+Ausbildung:  Studium im Bereich Mathematik, Informatik, Naturwissenschaften oder Technik
+ Erfahrungen und Know-how:   Erfahrung im Heizungs-/Anlagenbau und/oder Datenanalyse von Vorteil
+ Qualifikation:  abgeschlossene praktische Berufsausbildung von Vorteil
+ Persönlichkeit und Arbeitsweise: du bist ein eigeninitiativer und selbstständiger Teamplayer, der analytisch denkt sowie strukturiert und gewissenhaft vorgeht
+ Begeisterung:  interessiert an den Themen Zuverlässigkeit
+in der Entwicklung, Datenanalyse, Einsatz von KI in der Entwicklung undexperimentelles Arbeiten
+ Sprachen:  verhandlungssicheres Deutsch und gutes Englisch
+Beginn:  nach Absprache
+ Dauer:  6 Monate
+ Voraussetzung für das Praktikum ist die Immatrikulation an einer Hochschule. Bitte füge deiner Bewerbung deinen Lebenslauf, deinen aktuellen Notenspiegel, eine aktuelle Immatrikulationsbescheinigung, deine Prüfungsordnung sowie ggf. eine gültige Arbeits- und Aufenthaltserlaubnis bei.
+ Als global agierendes Unternehmen sind wir gesetzlich verpflichtet, die geltenden EU- und US-(Re-)Exportkontroll- und Sanktionsbestimmungen einzuhalten. Das bedeutet: Auf bestimmten, besonders sensiblen Stellen dürfen wir nur Personen beschäftigen, die eine zusätzliche gesetzliche Prüfung durchlaufen haben. Bei dieser Position handelt es sich um eine solche sensible Stelle. Wir werden dich daher im weiteren Verlauf des Prozesses um weitere, für diese zusätzliche Prüfung erforderliche Angaben bitten. Informationen zur Verarbeitung deiner Daten findest du in unseren Datenschutzhinweisen für den Bewerbungsprozess.
+ Vielfalt und Inklusion sind für uns keine Trends, sondern fest verankert in unserer Unternehmenskultur. Daher freuen wir uns über alle Bewerbungen: unabhängig von Geschlecht, Alter, Behinderung, Religion, ethnischer Herkunft oder sexueller Identität.
+ Du hast fachliche Fragen zum Job? 
+Tobias Müller (Fachabteilung)
++49 6441 418 2227
+ Work #LikeABosch beginnt hier: Jetzt bewerben!
