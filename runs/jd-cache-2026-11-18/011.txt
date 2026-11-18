@@ -1,0 +1,31 @@
+URL: https://www.stepstone.de/stellenangebote--IT-Architekt-Schwerpunkt-Enterprise-Architektur-und-Integration-m-w-d-Ilmenau-Jena-Muenchen-INVERSO-Gesellschaft-fuer-innovative-Versicherungssoftware-mbH--14764420-inline.html
+TITLE: IT-Architekt Schwerpunkt Enterprise Architektur und Integration (m/w/d)
+COMPANY: INVERSO Gesellschaft für innovative Versicherungssoftware mbH
+LOC: Ilmenau, Jena , München
+POSTED: stepstone
+title: IT-Architekt Schwerpunkt Enterprise Architektur und Integration (m/w/d)
+company: INVERSO Gesellschaft für innovative Versicherungssoftware mbH
+posted: 2026-11-18T08:56:15.077Z
+location: Ilmenau | remote: 
+---
+DAS IST INVERSO
+ Inverso steht für INnovative VERsicherungsSOftware. Gemeinsam gestalten wir wegweisende Softwarelösungen für vielfältige Projekte in der Sparkassen-Finanzgruppe. Als Tochter der beiden größten öffentlichen Versicherer Deutschlands bieten wir dir eine zukunftsweisende Karriere! Entdecke unsere Standorte Ilmenau, Jena und München und tauche ein in eine dynamische Arbeitswelt, die Raum für deine Entfaltung bietet. Egal, ob Frontend, Backend, Support oder innovative KI-Lösungen ‒ unser breites Portfolio bietet vielseitige Herausforderungen! Entdecke neue Horizonte und entwickle deine Fähigkeiten in verschiedenen Bereichen weiter. Bei uns steht Vielseitigkeit im Fokus und du gestaltest innovative Lösungen für anspruchsvolle Projekte.
+ Deine Aufgaben
+ Gestaltung und Weiterentwicklung der Anwendungs- und Integrationslandschaft eines Lebensversicherers unter Einbeziehung einer Standard-Suite
+ Entwicklung von Ziel-, Lösungs- und Integrationsarchitekturen für Querschnitts- und Umsysteme sowie Erstellung der erforderlichen Konzepte und Dokumentationen
+ Begleitung der Umsetzung mit Produktherstellern, internen Teams und externen Dienstleistern
+ Beratung von Projektpartnern und Fachbereichen bei Architektur- und Technologieentscheidungen
+ Sicherstellung der Einhaltung von Architektur-, Sicherheits-, Qualitäts- und Regulatorikvorgaben
+ Bearbeitung und Durchsetzung von Architekturentscheidungen sowie Weiterentwicklung von Architekturstandards und -governance
+ Dein Profil
+ Abgeschlossenes Studium der Informatik, Naturwissenschaften oder eine vergleichbare Qualifikation
+ 5-10 Jahre einschlägige Berufserfahrung, idealerweise in der Finanz- bzw. Versicherungsbranche
+ Mehrjährige Erfahrung in der Entwicklung und Gestaltung von Software- und IT-Architekturen, idealerweise mit vorheriger Tätigkeit als Softwareentwickler
+ Fundierte Kenntnisse in Unternehmens-, Anwendungs- und Integrationsarchitekturen sowie im Design von Schnittstellen und Integrationslösungen
+ Idealerweise Erfahrung mit Standardsoftware im Versicherungsumfeld, insbesondere in der Lebensversicherung
+ Kenntnisse in Architekturmethoden, insbesondere ARC42, sowie in aktuellen Themen der IT-Sicherheit, Resilienz und des Identity & Access Managements
+ Ausgeprägte analytische, konzeptionelle und kommunikative Fähigkeiten sowie Interesse an Kundenanforderungen und technisch anspruchsvollen Fragestellungen
+ Nachweislich sehr gute deutsche Sprachkenntnisse (mind. C1 Level)
+ Jetzt bewerben
+ Du hast dich hier wiedergefunden? Dann freuen wir uns sehr über deine Bewerbung über unser Online Formular!
+Bei Fragen kannst du dich gerne an unser HR Team unter der Telefonnummer 03677 2009111 wenden.

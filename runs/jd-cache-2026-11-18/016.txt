@@ -1,0 +1,52 @@
+URL: https://www.stepstone.de/stellenangebote--SAP-Consultant-gn-SD-MM-bundesweit-SoftwareOne-Deutschland-GmbH--14225442-inline.html
+TITLE: SAP Consultant (gn) SD/MM
+COMPANY: SoftwareOne Deutschland GmbH
+LOC: bundesweit
+POSTED: stepstone
+title: SAP Consultant (gn) SD/MM
+company: SoftwareOne Deutschland GmbH
+posted: 2026-11-18T16:01:12.367Z
+location: bundesweit | remote: 
+---
+SoftwareOne ist ein globaler Anbieter und Distributor von Software- und Cloud-Lösungen. Rund 12.000 Menschen in mehr als 70 Ländern sind Teil von SoftwareOne. Was uns wirklich ausmacht, sind jedoch unsere Mitarbeitenden: neugierige Köpfe, unterschiedliche Perspektiven und talentierte Teams, die gemeinsam Lösungen entwickeln und etwas bewegen. Bei uns hast du die Möglichkeit, dich weiterzuentwickeln, Neues zu entdecken und deinen eigenen Karriereweg zu gestalten. Gleichzeitig trägst du dazu bei, die technologische Zukunft voranzutreiben.
+ Deine Aufgaben
+ Du möchtest Unternehmen dabei unterstützen, das volle Potenzial von SAP S/4HANA Cloud zu entfalten? 
+ Du bringst Erfahrung in SD/MM mit und hast Freude daran, Prozesse neu zu denken, zu optimieren und nachhaltig zu gestalten? 
+ Du suchst spannende Transformationsprojekte, viel Flexibilität und die Möglichkeit, deine Ideen aktiv einzubringen? 
+ Praktische Informationen  
+ Standort:  Bundesweit |  Arbeitsmodell : Bundesweit / Hybrid / Remote |  Berichtet an : Senior Manager SAP Services |  Sprachanforderungen : Deutsch- und Englischkenntnisse |  Umfang : Vollzeit | Unbefristet |  Learn more : softwareone.com 
+ Deine Mission
+ Als SAP Consultant SD/MM (gn) unterstützt du unsere Kunden bei der Einführung, Weiterentwicklung und Optimierung von SAP S/4HANA Cloud Lösungen.
+ Dabei begleitest du Projekte von der ersten Analyse bis zum erfolgreichen Go-Live und sorgst dafür, dass Prozesse effizient, skalierbar und zukunftssicher gestaltet werden.
+ Deine Aufgaben  
+ Du analysierst bestehende Geschäftsprozesse und entwickelst gemeinsam mit unseren Kunden passende Lösungen in SAP S/4HANA Cloud.
+ Du führst Fit-to-Standard Workshops durch und berätst zu Best Practices und SAP-Standards.
+ Du konfigurierst und optimierst Prozesse in den Bereichen: Sales & Distribution (SD)
+ Materials Management (MM)
+ Du arbeitest eng mit Solution Architects sowie angrenzenden Teams zusammen und unterstützt bei Integrationsszenarien, insbesondere mit FI/CO.
+ Du begleitest alle Projektphasen von Design und Umsetzung über Testing bis hin zu Go-Live und Hypercare.
+ Du unterstützt unsere Kunden dabei, Clean-Core-Prinzipien umzusetzen und nachhaltige SAP-Landschaften aufzubauen.
+ Du bringst eigene Ideen ein und gestaltest moderne Transformations- und RISE-Projekte aktiv mit.
+ Dein Profil
+ Mehrjährige Erfahrung in der SAP-Beratung mit Schwerpunkt SD, MM oder beiden Modulen.
+ Erste praktische Erfahrung mit SAP S/4HANA Cloud (Public oder Private Edition).
+ Gute Kenntnisse in den End-to-End-Prozessen: Order-to-Cash (SD)
+ Procure-to-Pay (MM)
+ Erfahrung im SAP-Customizing und in der Zusammenarbeit mit Fachbereichen.
+ Verständnis für Integrationen zu angrenzenden Modulen, insbesondere FI/CO.
+ Erfahrung mit SAP Activate und Fit-to-Standard-Methoden ist von Vorteil.
+ Eine SAP S/4HANA-Zertifizierung ist ein Plus, aber kein Muss.
+ Du arbeitest eigenverantwortlich, denkst lösungsorientiert und behältst auch bei mehreren Projekten den Überblick.
+ Sehr gute Deutsch- und gute Englischkenntnisse.
+ Was wir bieten
+ Unsere Mitarbeitenden sind unser wichtigstes Kapital und wir setzen alles daran, dass du dich bei uns wohl fühlst:  
+ Flexible Arbeitszeiten und die Möglichkeit, im Homeoffice zu arbeiten  
+ 30 Urlaubstage sowie die Option auf ein Sabbatical  
+ Individuelle Weiterbildungs- und Entwicklungsmöglichkeiten sowie persönliches Coaching und Beratung  
+ Engagement für Vielfalt und Chancengleichheit durch unsere DEIB-Strategie und Initiativen  
+ Gesundheits- und Sportangebote sowie Zuschuss zur betrieblichen Altersvorsorge  
+ Attraktive Zusatzleistungen wie Mitarbeitendenaktien, Empfehlungsprogramm und Corporate Benefits  
+ Angenehme Arbeitskultur mit freiem Dresscode und strukturiertem Onboarding inklusive Buddy 
+ Alle weiteren Benefits unter:  https://www.softwareone.com/de-de/karriere/dach/benefits 
+ Interessiert?
+Dann klicke auf "Bewerben" und lade deine Unterlagen hoch, gern unter Angabe deines frühestmöglichen Eintrittstermins und deiner groben Gehaltsvorstellung.

@@ -1,0 +1,48 @@
+URL: https://www.linkedin.com/jobs/view/4490461255
+TITLE: Werkstudent*in Embedded Software
+COMPANY: TWK
+LOC: Wedel, Schleswig-Holstein, Germany
+POSTED: 2026-11-17
+title: Werkstudent*in Embedded Software
+company: TWK
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+Ein guter Sensor fällt im Alltag nicht auf, weil die Software dahinter einfach zuverlässig läuft. Genau daran arbeitest du bei uns in Wedel, neben deinem Studium. Dein Code landet nicht irgendwo in der Schublade, sondern in Maschinen, die jeden Tag funktionieren müssen. Wenn dir das mehr bedeutet als ein Vorzeigeprojekt, bist du hier richtig.
+ Wir bei TWK entwickeln und produzieren seit über 60 Jahren im Wachstumsmarkt der Mess- und Automatisierungstechnik kundenspezifische Sensoren für den Anlagen- und Maschinenbau. Funktionale Sicherheit für Mensch und Maschine ist unser Anspruch – und der lässt sich nicht mit halbgaren Lösungen oder endlosen Abstimmungsschleifen erfüllen.
+ Wenn du Lust hast, Software zu schreiben, die in echten Maschinen zuverlässig arbeitet, dann lass uns sprechen. Schick uns deine Unterlagen und ein paar Sätze dazu, was dich an Embedded Software reizt.
+ Aufgaben 
+ Von Beginn an arbeitest du an echten Aufgaben, die direkt in unsere Sensoren und Maschinen einfließen:
+ Mitarbeit an der Entwicklung von Embedded Software auf ARM-Cortex-Mikrocontrollern, vorrangig STM32
+ Weiterentwicklung bestehender Firmware und Sensor-Bibliotheken
+ Unterstützung bei der Anbindung von Schnittstellen wie CANopen, IO-Link, Profinet oder EtherCAT
+ Mitarbeit beim Testen von Software- und Hardwaremodulen
+ Dokumentation der Ergebnisse im Kontext funktionaler Sicherheit
+ Gemeinsame Code Reviews im Team, bei denen du mitlernst und mitgestaltest
+ Schrittweise Übernahme eigener Teilaufgaben mit Unterstützung aus dem Team
+ Mitarbeit in interdisziplinären Projektteams
+ Qualifikationen 
+ Du hast Lust, Dinge wirklich zu durchdenken, und bringst dafür folgende Grundlagen mit:
+ Eingeschriebene*r Student*in der Informatik, technischen Informatik, Elektrotechnik oder Systemtechnik
+ Erste Erfahrung in der Embedded-Software-Entwicklung, idealerweise aus Studium oder Projekten
+ Sicherer Umgang mit C; Kenntnisse in Python, .NET oder C# sind von Vorteil
+ Eigenständige, ergebnisorientierte Arbeitsweise mit Blick aufs Ganze
+ Ausgeprägte Teamfähigkeit und Freude am Austausch über Ergebnisse
+ Sehr gute Deutschkenntnisse sowie mindestens gute Englischkenntnisse in Wort und Schrift
+ Präzise und strukturierte Arbeitsweise
+ Kenntnisse in Buskommunikation oder Funksystemen sind von Vorteil
+ Erfahrung mit Echtzeitbetriebssystemen auf Mikrocontrollern ist von Vorteil
+ Vertrautheit mit Git als Versionsverwaltungssystem ist von Vorteil
+ Benefits 
+ Wir sind ein familiengeführtes Unternehmen, das Wert auf kurze Entscheidungswege und eine “Open-Door-Mentalität“ legt. Unser Team profitiert von einer wertschätzenden Unternehmenskultur, in der die Vereinbarkeit von Familie und Beruf großgeschrieben wird. Neben abwechslungsreichen Aufgaben mit hoher Eigenverantwortung bieten wir unseren Mitarbeitenden zahlreiche Benefits:
+ Persönliches Mentoring – schneller ankommen, schneller wachsen
+ Option auf Abschlussarbeit und Übernahme – wir denken über den Campus hinaus
+ Firmenevents – vernetzen, feiern, wachsen
+ Firmenfitness über Wellhub – Zugang zu Partner-Studios, Online-Classes und Wellness, flexibel nutzbar.
+ Flexible Arbeitszeiten und Remote-Optionen – damit Studium und Job entspannt zusammenpassen
+ Bewerbung und Ablauf 
+ Nach Eingang deiner Bewerbung bekommst du innerhalb einer Woche eine Antwort von Christine, Betül oder Alina. Das erste Kennenlerngespräch findet in der Regel online über MS-Teams statt. Im zweiten Schritt laden wir dich meist persönlich zu uns vor Ort ein. Ganz unkompliziert.
+ Dein Interesse ist geweckt? 
+ Dann freuen wir uns darauf, dich kennenzulernen! Bewirb dich jetzt und werde Teil unseres dynamischen Teams. Bei uns erwartet dich ein motiviertes Team, spannende Herausforderungen und die Möglichkeit, dich beruflich weiterzuentwickeln.
+ Du hast Fragen? Schreib uns direkt- wir melden uns.

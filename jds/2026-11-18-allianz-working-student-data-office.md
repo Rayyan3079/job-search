@@ -1,0 +1,56 @@
+URL: https://www.linkedin.com/jobs/view/4492079621
+Company: Allianz
+Title: Working student in Data Office
+Found: 2026-11-18
+
+URL: https://www.linkedin.com/jobs/view/4492079621
+TITLE: Working student in Data Office (m/f/d)
+COMPANY: Allianz
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-11-18
+title: Working student in Data Office (m/f/d)
+company: Allianz
+posted: 2 hours ago
+applicants: 29 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-in-data-office-m-f-d-at-allianz-4492079621&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Welcome at Allianz
+ The Allianz SE Reinsurance Data Office are looking for a Working Student (m/f/d) to support the Data Office team.
+Join us in shaping the global data and AI strategy at Allianz Re. You'll play an active role in a dynamic, cross-functional, and international environment — gaining deep exposure to the world of reinsurance while exploring cutting-edge data, advanced analytics, and AI capabilities.
+ What you will do as a Working student in Data Office (m/f/d)
+ In this position, you will collect reinsurance exposure and large loss data from Allianz entities worldwide to support a range of reporting needs — including portfolio analysis, credit risk assessment, and statutory reporting.
+ Your Key Responsibilities Will Include
+ Data operations — Supporting the end-to-end process of data collection, validation, and storage
+ Reporting applications — Maintaining and enhancing our reporting tools to ensure they meet evolving requirements
+ User support — Responding to user requests and helping adapt applications to new business needs
+ Data analysis & visualization — Querying databases and creating visualizations to support informed analysis and decision-making
+ AI development — Training and improving our AI agents to enhance efficiency and support smarter workflows
+ What you bring as a Working student in Data Office (m/f/d)
+ Enrollment in Information Technology or (financial) Mathematics/Statistics or similar
+ First programming experience (e.g. SQL/Python)
+ Ideally knowledge in database/data applications and reporting solutions
+ Expertise in Microsoft Office (PowerPoint, Excel and Word)
+ Fluent in written and spoken English
+ Interest in working in the insurance/reinsurance business
+ Ability to work well independently as well as in a team
+ You enjoy working in an international environment
+ Enthusiasm, commitment and positive attitude
+ Openness to creative and innovative solutions and enjoyment of working with future-oriented technologies such as artificial intelligence or internal ChatGPT.
+ Our Highlights For You
+ Health & well-being: Numerous sports and health offers as well as preventative measures lay the foundation for your physical and mental health. 
+ Remuneration: In addition to an attractive salary, you can expect a monthly travel allowance of 30,00 € and a daily lunch allowance in our excellent staff restaurants. 
+ Time & flexibility: With our "New Work" model, you can achieve an even better work-life balance. We work flexibly, hybrid, mobile and on site. 
+ Career development: Comprehensive educational opportunities in the form of training courses and access to LinkedIn Learning or Degreed enable continuous further development.
+ And there is much more: https://careers.allianz.com/global/en/allianzse-benefits
+ Start Date : as soon as possible
+ Are you interested? Then we look forward to receiving your complete application online on our careers page - careers.allianz.com.
+ Our colleagues at recruiting-operations@allianz.de will be happy to answer any technical or professional questions you may have.
+ Please submit your application exclusively through our online application portal. This ensures that your documents reach the right contacts quickly and directly. For process-related and security reasons, we unfortunately cannot consider applications sent via email or any attached files.
+ Note : Allianz in Germany has an internal recruitment team that focuses on the direct search for outstanding candidates. No unsolicited applications from recruitment agencies or recruitment firms will be accepted.
+ Allianz Group is one of the most trusted insurance and asset management companies in the world. Caring for our employees, their ambitions, dreams and challenges, is what makes us a unique employer. Together we can build an environment where everyone feels empowered and has the confidence to explore, to grow and to shape a better future for our customers and the world around us.
+ Who are we?
+ Are you keen on driving innovation? Do you thrive in a culture of equality, collaboration and trust? Then let's care for tomorrow. At Allianz SE, you can count on having a voice, driving innovation and change and making an impact – for us, yourself and the world.
+At Allianz, we stand for unity: we believe that a united world is a more prosperous world, and we are dedicated to consistently advocating for equal opportunities for all. And the foundation for this is our inclusive workplace, where people and performance both matter, and nurtures a culture grounded in integrity, fairness, inclusion and trust. Therefore, applicants with severe disabilities are welcome and will be given special consideration if equally qualified.
+We therefore welcome applications regardless of ethnicity or cultural background, age, gender, nationality, religion, social class, disability or sexual orientation, or any other characteristics protected under applicable local laws and regulations.
+ Join us. Let's care for tomorrow.
+Find out what makes us an attractive employer at https://careers.allianz.com

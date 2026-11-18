@@ -1,0 +1,41 @@
+URL: https://www.linkedin.com/jobs/view/4489929205
+TITLE: Internship (f/m/x) - AI in challenging execution environments
+COMPANY: German Aerospace Center (DLR)
+LOC: Ulm, Baden-Württemberg, Germany
+POSTED: 2026-11-12
+title: Internship (f/m/x) - AI in challenging execution environments
+company: German Aerospace Center (DLR)
+posted: 5 days ago
+applicants: 163 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Finternship-f-m-x-ai-in-challenging-execution-environments-at-german-aerospace-center-dlr-4489929205&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Vacancy-ID: 6931
+ Place of work: Ulm
+ Starting date: 01.02.2027
+ Career level: Internship
+ Type of employment: Part time; Full-time
+ Duration of contract: Up to 6 months
+ Remuneration: Remuneration is in accordance with the Collective Agreement for the Public Sector - Federal Government (TVöD-Bund).
+ Hint: Eligibility for security clearance and the willingness to undergo a security check pursuant to
+ 8 ff. of the Security Clearance Act (SÜG) are conditions for employment at DLR.
+ At the DLR Institute for AI Security, we research and develop AI-related methods, processes, algorithms, technologies and execution and system environments. Our focus is on secure and standard-compliant AI, cybersecurity in open data and service ecosystems and AI, as well as automation in mobility and logistics.
+ What To Expect
+ In the Execution Environments and Innovative Methods department, we bring together novel AI methods and challenging execution environments. In particular, we focus on the energy efficient implementation of AI for mobile systems, quantum AI and neuromorphic AI approaches. The department thus provides innovative AI approaches for use in safety-critical applications.
+ Your tasks
+ Supporting our research work on a pre-defined core topic
+ Depending on your background, working independently on literature reviews, the development of software, methods, demonstrators or concepts under the guidance of a specialist member of staff
+ Testing the developed methods on use cases
+ Your profile
+ Currently enrolled in a university degree programme (Bachelor’s / Master’s / University Diploma) in Computer Science, Engineering, Physics or other relevant fields
+ Initial experience in one or more of the following areas: machine learning methods, robotics, embedded systems, automation, neuromorphic computing, quantum computing, cryptography, cyber security
+ Ability to work as part of a team and experience of collaborative work in academia and/or software development
+ Good communication skills, including in English (spoken and written)
+ Proficiency in at least one relevant programming language (e.g. Python and/or C/C++)
+ We offer
+ DLR stands for diversity, appreciation and equality for all people. We promote independent work and the individual development of our employees both personally and professionally. To this end, we offer numerous training and development opportunities. Equal opportunities are of particular importance to us, which is why we want to increase the proportion of women in science and management in particular. Applicants with severe disabilities will be given preference if they are qualified.
+We look forward to getting to know you!
+If you have any questions about this position ( Vacancy-ID 6931 ) please contact:
+ Dr. Hans-Martin Rieser 
+ Tel.: +49 731 400198 306
+ Start Of Internal Publication
+ Internal job advertisement deadline:

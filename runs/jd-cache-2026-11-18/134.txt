@@ -1,0 +1,39 @@
+URL: https://www.linkedin.com/jobs/view/4491139839
+TITLE: Werkstudent AI & Data Processing Team Support (m/w/d/x)
+COMPANY: Mercedes-Benz Tech Innovation
+LOC: Ulm, Baden-Württemberg, Germany
+POSTED: 2026-11-17
+title: Werkstudent AI & Data Processing Team Support (m/w/d/x)
+company: Mercedes-Benz Tech Innovation
+posted: 1 day ago
+applicants: 81 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-ai-data-processing-team-support-m-w-d-x-at-mercedes-benz-tech-innovation-4491139839&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Jetzt bewerben!
+ Wir sind Mercedes-Benz Tech Innovation - doch wir bauen keine Autos: Wir definieren die Zukunft mit Technologie.
+ Als größte Tech Company der Mercedes-Benz Group AG arbeiten rund 2.500 Mitarbeitende in Ulm, im Raum Stuttgart, in Berlin und in Karlsruhe sowie in internationalen Tech Hubs an den Techniktrends der Mobilität von morgen.
+Uns verbindet die Begeisterung für Innovation und neueste Technologien – kombiniert mit der Überzeugung, dass individuelle Freiheit und Eigenverantwortung für echten Fortschritt entscheidend sind. Wir sind #techinnovators.
+ Mehr über uns erfahren Über uns Mercedes-Benz Tech Innovation GmbH
+ Welche Aufgaben erwarten dich?
+ Als Werkstudent AI & Data Processing Team Support (m/w/d/x) unterstützt du das Team beim Prompt Engineering für GenAI-Anwendungen und entwickelst strukturierte Prompts sowie wiederverwendbare Prompt-Templates.
+ Du arbeitest mit modernen GenAI-Tools wie Microsoft Copilot und Copilot Studio und unterstützt bei der Identifikation, Bewertung und prototypischen Umsetzung von AI Use Cases.
+ Zudem wirkst du beim Aufbau KI-gestützter Automatisierungen und Agentic Workflows mit, beispielsweise mit n8n oder Power Automate.
+ Du unterstützt bei der Datenaufbereitung und dem Data Processing für AI Use Cases, einschließlich der Strukturierung, Transformation und Anbindung unterschiedlicher Datenquellen.
+ Du hilfst bei der Optimierung von Team-Workflows und Prozessen durch KI- und Automatisierungslösungen und begleitest die Entwicklung von Proof of Concepts (PoCs) und Prototypen bis hin zu produktiv nutzbaren Lösungen.
+ Darüber hinaus arbeitest du eng mit verschiedenen Stakeholdern zusammen, unterstützt im Projektmanagement und dokumentierst Anforderungen, Ergebnisse sowie den Nutzen der entwickelten Lösungen.
+ Wie passt du in unser Team?
+ Bereit, durchzustarten? Wenn du uns mit nachweislich hervorragenden Deutsch- und Englischkenntnissen überzeugst und deine vollständigen Bewerbungsunterlagen (Anschreiben, Lebenslauf, Notenübersicht, Immatrikulationsbescheinigung sowie ggf. Aufenthaltsgenehmigung/Arbeitserlaubnis) vorliegen, bist du nur noch einen Klick von deiner Chance entfernt.
+ Kleiner Tipp: Bei der Flut an Top-Bewerbungen, die wir bekommen, ist eine lückenlose Bewerbung dein einziges Ticket ins Spiel. Ohne das komplette Paket geht's für dich leider nicht weiter – no exceptions!
+ Du studierst Informatik, Wirtschaftsinformatik, Data Science, Künstliche Intelligenz oder einen vergleichbaren Studiengang.
+ Du begeisterst dich für Generative AI, Large Language Models (LLMs) und AI Agents und bringst erste Erfahrungen im Prompt Engineering sowie mit GenAI-Tools wie Microsoft Copilot oder Copilot Studio mit.
+ Du interessierst dich für Automatisierung und Agentic Workflows, beispielsweise mit n8n oder Power Automate.
+ Idealerweise verfügst du über Grundkenntnisse in Python, APIs, JSON und Datenverarbeitung und gehst sicher mit Microsoft 365, insbesondere Teams, SharePoint und Excel um.
+ Du arbeitest strukturiert, selbstständig und lösungsorientiert und hast Freude am Prototyping, an neuen Technologien sowie an der Zusammenarbeit mit verschiedenen Stakeholdern.
+ Gute Deutsch- und Englischkenntnisse in Wort und Schrift runden dein Profil ab.
+ Benefits
+ Flexible Arbeitsgestaltung
+ Damit neben Studium und Arbeit noch genügend Freizeit bleibt, bekommst du bei uns anteilig 30 Urlaubstage sowie die Möglichkeit, deine Arbeitszeiten flexibel zu planen. In Abstimmung mit deinem Team und deinem Ansprechpartner hast du auch die Möglichkeit, remote zu arbeiten . Zudem sind nahezu alle unsere Stellen geeignet, um in Teilzeit ausgeführt zu werden.
+ Mittendrin statt nur dabei
+ Du begleitest innovative Projekte am Puls der Zeit und übernimmst verantwortungsvolle Aufgaben, so bist du von Beginn an ein vollwertiges Mitglied unseres Teams! Natürlich profitierst du hierbei von einem attraktiven Gehalt .
+ Begegnung auf Augenhöhe
+ Bei Mercedes-Benz Tech Innovation sind wir ein Team! Unsere Zusammenarbeit basiert auf gegenseitigem Vertrauen und Respekt. Flache Hierarchien , eine wertschätzende Atmosphäre , Offenheit und Aufgeschlossenheit gehören bei uns zum Arbeitsalltag. Damit dein Start bei uns gelingt, erhältst du eine individuelle Einarbeitung und einen direkten Ansprechpartner .

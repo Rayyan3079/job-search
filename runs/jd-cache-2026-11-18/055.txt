@@ -1,0 +1,55 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-m-w-d-Portfoliosteuerung-mit-Schwerpunkt-Data-Automation-Hamburg-SIGNAL-IDUNA-Gruppe--14758002-inline.html
+TITLE: Werkstudent (m/w/d) Portfoliosteuerung mit Schwerpunkt Data-Automation
+COMPANY: SIGNAL IDUNA Gruppe
+LOC: Hamburg
+POSTED: stepstone
+title: Werkstudent (m/w/d) Portfoliosteuerung mit Schwerpunkt Data-Automation
+company: SIGNAL IDUNA Gruppe
+posted: 2026-11-17T16:24:02.88Z
+location: Hamburg | remote: 
+---
+Das sind wir
+ Wir verändern die Versicherungswelt – und suchen dich, um die Zukunft mitzugestalten. Als einer der größten deutschen Versicherer und Finanzdienstleister mit Hauptsitz in Hamburg und Dortmund haben wir uns in den letzten Jahren grundlegend transformiert. Unsere moderne und agile Arbeitswelt, in der wir nutzenzentriert arbeiten, ist von Offenheit und Mut geprägt. Dabei legen wir viel Wert auf gegenseitige Wertschätzung und Vertrauen. Wir heißen Vielfalt in all ihren Facetten willkommen und glauben, dass unterschiedliche Perspektiven und Erfahrungen entscheidend für Innovation sind. Werde Teil unseres Teams, bring deine Ideen ein und verändere mit uns das Jetzt.
+ Dein Aufgabengebiet
+ Im Team Agile Steuerung entwickeln wir die Steuerung unseres Konzern-Portfolios kontinuierlich weiter. Dazu wollen wir Daten aus unterschiedlichen Quellen zusammenführen, Informationen automatisiert aufbereiten und neue Möglichkeiten durch Künstliche Intelligenz erschließen.
+ Als Werkstudent:in mit Schwerpunkt Data Automation unterstützt du uns dabei, gemeinsam eine integrierte Datenbasis für unsere Portfoliosteuerung aufzubauen und daraus Analyse-, Reporting- und KI-Lösungen zu entwickeln.
+ Du führst Daten aus unterschiedlichen Quellen zusammen, strukturierst sie und wirkst daran mit, sie in ein konsistentes Datenmodell zu überführen
+ Du unterstützt bei der Automatisierung von Datenflüssen und wiederkehrenden Auswertungen für die Portfoliosteuerung
+ Du entwickelst gemeinsam mit uns aussagekräftige Reports, Dashboards und automatisierte Management-Informationen
+ Du bereitest Kennzahlen so auf, dass transparente und nachvollziehbare Steuerungsinformationen für unterschiedliche Zielgruppen entstehen
+ Du entwickelst Ideen, wie Reports und Präsentationsinhalte auf Basis des Datenmodells automatisiert erzeugt und aktualisiert werden können
+ Du arbeitest mit uns an einem KI-basierten Auskunfts-Agenten, über den Portfolioinformationen abgefragt, analysiert und adressatengerecht zusammengefasst werden können
+ Du erprobst Data-, Automation- und AI-Technologien und bringst eigene Ideen ein, wie wir unsere Steuerungsprozesse einfacher, schneller und intelligenter gestalten können
+ Du arbeitest eng mit den Kolleg:innen der Agilen Steuerung und den CIO-Office sowie mit angrenzenden Teams und Stakeholdern zusammen
+ Du
+ bist immatrikulierte:r Student:in im Bereich (Wirtschafts-)Informatik, Data Science, Wirtschaftswissenschaften mit technischem Schwerpunkt oder einen vergleichbaren Studiengang
+ begeisterst dich für Daten, Automatisierung und Künstliche Intelligenz und möchtest dein Wissen an realen Anwendungsfällen einsetzen
+ bringst idealerweise erste Kenntnisse in SQL, Python, Cognos, Looker oder vergleichbaren Technologien zur Datenanalyse und -visualisierung mit
+ hast Interesse an Generativer KI, Large Language Models und AI Agents und möchtest verstehen, wie diese Technologien sinnvoll mit Unternehmensdaten verbunden werden können
+ hast ein gutes analytisches Verständnis und Freude daran, komplexe Daten und Zusammenhänge zu strukturieren
+ denkst nicht nur technisch, sondern interessierst dich auch dafür, wie aus Daten relevante Informationen für Entscheidungen entstehen
+ hast Freude an der gemeinsamen Teamarbeit und zeichnest dich durch Engagement, Eigeninitiative und Kommunikationsstärke aus
+ bist neugierig, probierst gerne neue Dinge aus und eignest dir schnell neues Wissen an
+ verfügst über fließende Deutsch- und gute Englischkenntnisse in Wort und Schrift
+ Bei uns
+ kannst du jeden Tag Veränderungen mitgestalten. #veränderedasjetzt
+ arbeitest du an konkreten Data- und AI-Anwendungsfällen mit direktem Bezug zu unserer Portfoliosteuerung
+ kannst du neue Technologien ausprobieren und eigene Ideen von der Konzeption bis zum Prototypen mitentwickeln
+ findest du moderne Räume und Flächen, die deine kreative Arbeit unterstützen
+ unterstützt das Betriebliche Gesundheitsmanagement deine Gesundheit
+ profitierst du von flexiblen Arbeitszeiten
+ gehörst du von Anfang an dazu und übernimmst Verantwortung
+ Bist du bereit, mit uns die Cloud zu gestalten?
+ Dienstsitz/Einsatzort 
+Der gewöhnliche Einsatzort ist in Hamburg. 
+ Hinweis zur Bewerbung 
+Bitte lade deine vollständigen Bewerbungsunterlagen (inkl. Immatrikulationsbescheinigung, Zeugnisse und Zertifikate) über unser Bewerbermanagementsystem hoch. 
+ Bewerbungen per E-Mail können leider nicht berücksichtigt werden.
+ Die gesetzlich vorgesehenen Informationen im Zusammenhang mit der Verarbeitung von personenbezogenen Daten sowie die daraus resultierenden Rechte können unter https://www.signal-iduna.de/datenschutzinfo eingesehen werden.
+ SIGNAL IDUNA Gruppe 
+Neue Rabenstraße 15-19, 20354 Hamburg
+ Ansprechpartnerin: Aylin Sari 
+ Wir freuen uns auf deine Bewerbung. 
+ Hinweis für Personalvermittler 
+Bitte beachten Sie, dass die SIGNAL IDUNA Gruppe keine unaufgefordert durch Personalvermittlerzugesandten Profile akzeptiert. Kommt es zur Berücksichtigung oder Einstellung von Kandidaten, deren Profiledurch Personalvermittler mit denen kein Vertragsverhältnis besteht, übersandt wurden, besteht daher kein Vergütungsanspruch.
+ Aus Gründen der leichteren Lesbarkeit wurde darauf verzichtet, die Formulierung jeweils geschlechtsspezifisch auszurichten. Die vollständige Gleichbehandlung aller Bewerber unabhängig von ihrer individuellen geschlechtlichen Zuordnung ist gewährleistet.

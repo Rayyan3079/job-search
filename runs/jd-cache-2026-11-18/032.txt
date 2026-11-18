@@ -1,0 +1,39 @@
+URL: https://www.linkedin.com/jobs/view/4492098379
+TITLE: Werkstudent (m/w/d) Automatisierung & Tool-Entwicklung
+COMPANY: Trocknerheld Wasserschadensanierung GmbH
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-11-18
+title: Werkstudent (m/w/d) Automatisierung & Tool-Entwicklung
+company: Trocknerheld Wasserschadensanierung GmbH
+posted: 25 minutes ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-m-w-d-automatisierung-tool-entwicklung-at-trocknerheld-wasserschadensanierung-gmbh-4492098379&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Trocknerheld ist Spezialist für Wasserschadensanierung und Bautrocknung. Wir sitzen in Berlin und sind bundesweit im Einsatz. Hinter jedem Einsatz steht viel Büroarbeit: Schadenaufnahme, Angebote, Einsatzplanung, Kundenkommunikation und Abrechnung.
+Genau hier setzen wir auf Automatisierung und KI. Wir bauen eigene Tools, die Routinearbeit abnehmen, und suchen jemanden wie dich als Werkstudenten (m/w/d), der uns dabei praktisch unterstützt.
+ Deine Aufgaben
+ Der Schwerpunkt liegt auf Umsetzung, nicht auf Konzepten: Du siehst am Ende der Woche, was du gebaut hast und wer es nutzt.
+ Neue Tools und Automatisierungen für den Büroalltag selbst bauen, zum Beispiel für E-Mail-Bearbeitung, Auftragsabwicklungen, Angebotserstellung oder Berichte
+ Neue und bestehende Tools im echten Arbeitsalltag testen, Fehler dokumentieren und Verbesserungen direkt umsetzen
+ Mit den Kolleg:innen im Büro sprechen, Routinearbeiten und Engpässe finden und daraus konkrete Lösungen ableiten
+ Neue Tools im Team einführen: kurze Anleitungen schreiben, Kolleg:innen einweisen, Feedback einsammeln
+ Neue KI-Tools und Methoden ausprobieren und bewerten, was uns wirklich Zeit spart
+ Dein Profil
+ Immatrikulation an einer Hochschule, am besten mit Technikbezug (zum Beispiel Informatik, Wirtschaftsinformatik, Ingenieurwesen oder Data Science)
+ Erste praktische Erfahrung im Bauen von Automatisierungen oder kleinen Tools, etwa mit Skripten, No-Code-/Low-Code-Plattformen oder Google Apps Script. Eigene Projekte zählen
+ Lust, KI-Assistenten wie Claude oder ChatGPT im Arbeitsalltag gezielt einzusetzen
+ Eine selbstständige, strukturierte Arbeitsweise und Freude daran, Probleme zu lösen
+ Sicheres Deutsch in Wort und Schrift, weil du eng mit den Kolleg:innen im Büro zusammenarbeitest
+ Von Vorteil, Aber Kein Muss
+ Erfahrung mit Google Workspace, SQL oder BigQuery und dem Anbinden von Schnittstellen (APIs)
+ Interesse an Handwerk, Bau oder Schadensanierung
+ Was Wir Bieten
+ Je nach Erfahrung/Qualifikation sind bis zu 20€/h möglich
+ Flexible Arbeitszeiten, die sich gut mit deinem Studium vereinbaren lassen
+ Kurze Entscheidungswege und ein direkter Draht zum Gründerteam
+ Echte Verantwortung: Was du baust, wird vom Team im Alltag genutzt und spart messbar Zeit
+ Moderne KI- und Cloud-Tools, mit denen du praktische Erfahrung sammelst, die im Studium selten vorkommt
+ Homeoffice ist nach Absprache möglich
+ Moderne Arbeitsumgebung mit hochwertiger Ausstattung
+ Kollegiales Team, das dich unterstützt und fördert
+ Werde Teil von Trocknerheld und erlebe ein familiäres Umfeld, in dem Handwerk, Teamgeist und Leidenschaft an erster Stelle stehen. Bewirb dich jetzt und gestalte mit uns die Zukunft!

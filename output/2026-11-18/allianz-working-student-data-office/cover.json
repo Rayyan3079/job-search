@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Working student in Data Office (m/f/d)",
+    "company": "Allianz",
+    "city": "Munich",
+    "greeting": "Dear Allianz Data Office team,",
+    "opening": "I am applying for the Working Student position in your Data Office. Data validation, maintaining reporting applications, supporting their users and working with AI is a combination I have built up in SAP analytics and in my own projects.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence. I worked as a Business Analyst at Tapal Tea and in SAP data and analytics at TallyMarks Consulting.",
+    "achievements": [
+      {
+        "lead": "Data validation",
+        "impact": "I used SQL analysis, ABAP CDS view validation and data reconciliation to keep reporting accurate"
+      },
+      {
+        "lead": "Reporting tools and users",
+        "impact": "I handled daily support tickets and user queries for around 30 SAP Analytics Cloud dashboards and adapted them to new requirements"
+      },
+      {
+        "lead": "AI",
+        "impact": "I built DocuMind, an LLM application with the Claude API, evaluated on a 22-question test set (91% correct)"
+      }
+    ],
+    "problems_section": "I would support data collection and validation, maintain reporting tools, answer user requests, query databases for analyses and help improve your AI agents. I have not built AI agents yet, and I would learn from your team.",
+    "closing": "I am willing to relocate to Munich and can work up to 20 hours per week, starting immediately. I would be glad to discuss the role.",
+    "date": "2026-11-18",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-11-18/allianz-working-student-data-office/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

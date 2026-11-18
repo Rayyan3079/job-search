@@ -1,0 +1,48 @@
+URL: https://www.linkedin.com/jobs/view/4491444069
+TITLE: Analista de Datos / Power BI
+COMPANY: Sener
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-17
+title: Analista de Datos / Power BI
+company: Sener
+posted: 22 hours ago
+applicants: 73 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fes.linkedin.com%2Fjobs%2Fview%2Fanalista-de-datos-power-bi-at-sener-4491444069&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+En Sener , ante el incremento de proyectos en nuestras diferentes Unidades de Negocio, queremos incorporar, dentro del equipo de IT un/a Analista de Datos con experiencia en Microsoft Power BI al equipo de Sistemas de Información , para participar en el desarrollo y evolución de nuestras soluciones de análisis y reporting, dando servicio a las distintas áreas y negocios del Grupo.
+ ¿Cuál será tu misión?
+ Tu principal responsabilidad será entender las necesidades de información de las distintas áreas y convertirlas en cuadros de mando y soluciones de análisis que faciliten la toma de decisiones.
+ ¿Qué harás en tu día a día?
+ Trabajar con las distintas áreas para entender sus necesidades de información y reporting.
+ Analizar los datos disponibles e identificar la mejor forma de utilizarlos para responder a las necesidades planteadas.
+ Definir indicadores y métricas junto con las áreas y negocios.
+ Trabajar en la preparación, transformación y modelado de los datos necesarios para los cuadros de mando.
+ Diseñar, desarrollar y mantener cuadros de mando e informes en Microsoft Power BI.
+ Participar en la evolución y mejora de las soluciones de reporting existentes.
+ Gestionar y colaborar con proveedores cuando sea necesario.
+ Una parte importante del puesto será actuar como nexo entre los datos y el negocio , entendiendo qué información necesita cada área y ayudando a convertirla en herramientas de análisis.
+ ¿Qué esperamos de ti?
+ Buscamos una persona con titulación universitaria en Ingeniería Informática, o equivalente , con experiencia trabajando con datos y desarrollando soluciones de reporting.
+Es importante contar con:
+ Experiencia en el desarrollo de cuadros de mando e informes con Microsoft Power BI.
+ Conocimientos de modelado y transformación de datos.
+ Conocimientos de SQL, DAX y Power Query.
+ Capacidad para entender las necesidades de negocio y trasladarlas a indicadores, métricas y soluciones de reporting.
+ Facilidad para trabajar con usuarios de distintas áreas y perfiles.
+ Autonomía, iniciativa y capacidad para hacer seguimiento de los temas bajo tu responsabilidad.
+Se valorará positivamente la experiencia con otras tecnologías del ecosistema de datos de Microsoft, especialmente Microsoft Fabric , así como certificaciones relacionadas con Power BI y analítica de datos , aunque no serán un requisito imprescindible.
+ ¿Qué ofrecemos?
+ Participar en proyectos estratégicos de transformación digital, modernización de plataformas y evolución del ecosistema Microsoft en una compañía internacional de ingeniería y tecnología.
+ Autonomía técnica y capacidad de decisión, liderando proyectos y proponiendo mejoras en arquitectura, gobierno y eficiencia de servicios.
+ Integrarse en un equipo profesional, colaborativo y multidisciplinar, donde se valoran la iniciativa, la mejora continua y el pensamiento crítico.
+ Como miembro de la plantilla de Sener :
+ Contarás con políticas de flexibilidad horaria y un modelo híbrido de teletrabajo.
+ Tendrás acceso a un plan de compensación flexible.
+ Te damos la oportunidad de disfrutar de un programa de bienestar físico y emocional.
+ A través de las herramientas y un amplio abanico formativo podrás avanzar en tu desarrollo profesional.
+ Trabajarás en un ambiente colaborativo, donde la estrecha relación dentro de las diferentes disciplinas facilita el intercambio de ideas, la proactividad y la autonomía para desenvolverse en equipos de proyectos complejos.
+ Promovemos la igualdad de oportunidades, diversidad e inclusión de todas las personas y estamos certificados como Entidad Familiarmente Responsable (efr).
+ ¿Por qué trabajar con Nosotros? En Sener , te ofrecemos la oportunidad de desarrollar y utilizar tus habilidades técnicas en una Ingeniería internacional puntera y disfrutar de múltiples experiencias profesionales.
+ ¿Quieres conocernos? https://www.group.sener/es
+Sener: tecnología innovadora para un futuro sostenible
+Desarrollamos soluciones de ingeniería y tecnología en Aeroespacial y Defensa, Movilidad e Infraestructuras, Energía, Naval, Digital y Salud.

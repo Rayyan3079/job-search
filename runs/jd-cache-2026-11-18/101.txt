@@ -1,0 +1,44 @@
+URL: https://www.linkedin.com/jobs/view/4491198643
+TITLE: Working Student, Revenue Engineering (m/f/d)
+COMPANY: Statista
+LOC: Hamburg, Hamburg, Germany
+POSTED: 2026-11-17
+title: Working Student, Revenue Engineering (m/f/d)
+company: Statista
+posted: 1 day ago
+applicants: 59 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-revenue-engineering-m-f-d-at-statista-4491198643&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+At Statista , we’re all about facts and data, for we are the world's leading business data platform. By providing reliable and easy-to-use data as well as various data analytics products and services, we empower people worldwide to make fact-based decisions.
+Founded in Hamburg in 2007, we have quickly grown into a global company with offices in major cities such as London, New York, Berlin and Tokyo. And we still have a lot of plans. Our constant growth does not only prove our success, but also keeps creating new development and career opportunities for our employees.
+We value and celebrate our diverse culture. You are welcome here for who you are, no matter where you come from, what you look like, or whether you prefer bar graphs to pie charts. Your story matters – keep writing it as part of our team.
+Are you ready to join us?
+ About The Team
+ Revenue Engineering sits within Data & Insights Operations and exists to close the gap between our Data Production & Insights teams and our Revenue teams. We do this in two ways: by bringing product expertise directly into client conversations (for example through strategic pitch support), and by bringing our data and insights teams closer to the customer through programs like Voice of Customer (VoC), where we analyze signals such as customer feedback forms and support tickets submitted by our CSMs. Alongside both, we run a tool that automates our competitor research and content, and the team keeps that tool sharp and its outputs trustworthy.
+As a Working Student on this team, you'll get a front-row seat to how a data company turns customer signal and market knowledge into commercial impact, working across all three areas rather than being boxed into just one.
+ YOUR JOB
+ As Working Student in Revenue Engineering, you help turn customer signals and market knowledge into commercial impact and keep our Data & Insights teams closely connected to our customers.
+ Analyze customer feedback forms and support tickets from our Customer Success Managers (CSMs) to find recurring themes, then turn them into structured summaries our Data Production and Insights teams can act on
+ Maintain and improve how we track and report on Voice of Customer signals over time
+ Support strategic Salesforce case requests by researching market and product angles and turning our data capabilities into clear talking points and visuals for clients
+ Review pitch materials for quality before they go to our Sales and Account teams
+ Keep our automated competitor research tool accurate by fact-checking its outputs against internal standards, flagging gaps and covering missing topics through targeted manual research
+ Build reports, presentations and data visualizations in PowerPoint and Excel, and support data cleaning and quality checks across team deliverables
+ Your Skills
+ Enrolled student in business administration, economics, data science, communications, social sciences or a related field
+ Genuine interest in how customer insights, market research and data drive business decisions
+ Confident with Microsoft Office, especially Excel and PowerPoint; experience with Think-Cell is a plus
+ Strong written and spoken English; other languages are a plus
+ Curious and detail-oriented, able to work independently and reliably, and a team player who enjoys both analytical and client-facing tasks
+ Available 15 to 20 hours per week, with a flexible schedule that fits around your studies
+ What We Offer
+ In addition to our great team, culture, and our shared goal of empowering people with data, there are many other things that make Statista a great place to work! Join us and benefit from:
+ Work from abroad up to 30 calendar days a year
+ Hybrid work and flex-time
+ International team and social events
+ Subsidized urban mobility and access to fitness and wellness options
+ Free access to Langdock and all its amazing functionalities
+ Career & training opportunities
+ Attractive locations and modern offices
+ Mental health support with OpenUp
+ Some of the benefits listed here apply only to the German entity and to Junior-level roles or above.

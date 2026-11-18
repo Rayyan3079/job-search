@@ -1,0 +1,51 @@
+URL: https://www.linkedin.com/jobs/view/4377607523
+TITLE: Engenheiro de Dados Júnior, Pleno e Sênior (SQL e PySpark)
+COMPANY: Accenture Brasil
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-18
+title: Engenheiro de Dados Júnior, Pleno e Sênior (SQL e PySpark)
+company: Accenture Brasil
+posted: 9 hours ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fbr.linkedin.com%2Fjobs%2Fview%2Fengenheiro-de-dados-j%25C3%25BAnior-pleno-e-s%25C3%25AAnior-sql-e-pyspark-at-accenture-brasil-4377607523&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+A Accenture ajuda as principais empresas do mundo a se reinventar, construindo seu núcleo digital e liberando o poder da IA para gerar valor rapidamente para organizações de todos os setores. Nossa estratégia é ser a parceira de reinvenção preferida de nossos clientes, liderar a adoção segura e ampla da IA e ser a empresa mais focada no cliente, habilitada por IA e um excelente lugar para trabalhar em todo o mundo.
+Reunimos o talento de aproximadamente 814 mil pessoas com ativos e plataformas proprietários, profundo conhecimento de processos e setores e relacionamentos líderes no ecossistema para oferecer soluções de ponta a ponta e resultados mensuráveis em escala. Por meio de nossos Serviços de Reinvenção, oferecemos ampla experiência em Cibersegurança, Núcleo Digital, Finanças, Indústria e Empresa, Song, Cadeia de Suprimentos e Engenharia e Talentos, com capacidades avançadas em IA e Dados, Indústria e Processos e Tecnologia.
+Atendemos aproximadamente 9 mil clientes e geramos cerca de US$ 74 bilhões em receita no ano fiscal de 2026.
+Visite a Accenture em accenture.com
+O que você vai fazer no seu dia a dia:
+ Desenvolver, manter e otimizar pipelines de dados em ambientes cloud, como GCP, AWS ou Azure, considerando o nível de experiência da posição;
+ Construir soluções de ETL/ELT e processamento de dados utilizando Python e PySpark;
+ Criar, analisar e otimizar queries SQL, joins e rotinas de processamento de dados;
+ Trabalhar com tecnologias como BigQuery, Dataflow, Apache Beam, Airflow e DBT na transformação, integração e orquestração de dados;
+ Apoiar iniciativas de modelagem de dados, contribuindo para qualidade, integridade e governança das informações;
+ Integrar diferentes sistemas, bancos relacionais e bases de dados, incluindo Oracle, SQL Server e MySQL;
+ Contribuir para a evolução das soluções e da arquitetura de dados, incluindo práticas de DataOps e CI/CD.
+O que estamos procurando na pessoa que vai fazer parte do time:
+ Experiência ou conhecimento prático em Engenharia de Dados, compatível com posições Júnior, Pleno ou Sênior;
+ Conhecimento de SQL, com atuação prática em queries, joins e otimização, considerando a senioridade da posição;
+ Conhecimento e/ou experiência com Python aplicado a dados;
+ Conhecimento e/ou experiência na construção e manutenção de pipelines de dados em ambientes cloud;
+ Perfil colaborativo, analítico e hands-on, com interesse em trabalhar com dados em escala e evoluir continuamente as soluções.
+Além disso, é desejável conhecimento:
+ Práticas de DataOps e CI/CD;
+ Arquitetura de dados, incluindo conceitos de lakehouse e processamento batch/stream;
+ PySpark, BigQuery, Dataflow, Apache Beam, Airflow e DBT;
+ Processamento de grandes volumes de dados e tuning de performance;
+ Ferramentas como DataStage.
+Benefícios:
+🏥 Assistência Médica – 100% subsidiada pela empresa (titular e dependentes);
+🦷 Assistência Odontológica;
+🍽️ Vale Refeição ou Alimentação sem desconto;
+🛡️ Seguro de vida;
+📈 Previdência Privada;
+🏋️ Wellhub;
+💪 TotalPass;
+📉 Opção de compra de ações da empresa com desconto;
+💊 Desconto Farmácia;
+👶 Auxílio Creche;
+📚 Parceria com escola de idiomas;
+👨‍👩‍👧 Licença Maternidade e Paternidade Estendida;
+💰 PPR;
+ Conforme política vigente
+#WCO #TECHNOLOGY

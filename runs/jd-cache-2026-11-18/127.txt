@@ -1,0 +1,44 @@
+URL: https://www.linkedin.com/jobs/view/4491303993
+TITLE: Working Student (f/m/d) - Multimodal AI Interaction Alignment Research
+COMPANY: SAP
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-11-18
+title: Working Student (f/m/d) - Multimodal AI Interaction Alignment Research
+company: SAP
+posted: 3 hours ago
+applicants: 28 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-f-m-d-multimodal-ai-interaction-alignment-research-at-sap-4491303993&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Description
+ What you'll bring
+ You're studying Computer Science, Artificial Intelligence, Data Science, or a related field. You're drawn to the frontiers of human-AI interaction and want to work on real research problems.
+ Solid Python skills, including Jupyter Notebooks, Pandas, NumPy, and Matplotlib
+ Practical experience with LLM APIs and modern AI/ML frameworks
+ A foundational understanding of speech-to-text, text-to-speech, or real-time speech systems
+ Genuine curiosity about how people interact with AI and what makes those experiences work well for them
+ A collaborative, detail-oriented approach to research and experimentation
+ Fluency in English is required for this role.
+ We also look for people who communicate clearly, keep the customer in mind, and enjoy finding smart solutions to problems - whatever stage of your career you're at.
+In addition to the role-specific skills above, all student and early talent positions at SAP look for candidates who are open to working with AI tools - including agentic AI - to automate everyday tasks, prototype ideas, and build confidence in AI-assisted ways of working from day one.
+ What You'll Build
+ You'll work at the intersection of applied AI research and real-world product development - contributing to projects that shape next-generation enterprise software.
+ Build and test voice-enabled AI applications and real-time conversational systems
+ Develop dynamically generated user interfaces for AI-driven interactions
+ Generate, collect, and curate multimodal datasets and evaluation scenarios
+ Design and run experiments to benchmark speech models and interaction architectures
+ Analyse results and document findings with academic and industry researchers
+ Contribute to a joint research initiative between SAP and the Technical University of Munich (TUM)
+ Where you belong
+ SAP Research & Innovation partners with leading universities to explore technologies before they reach the market. This role sits within a joint initiative with the Technical University of Munich (TUM), focused on human-AI alignment in multimodal interactions. Day-to-day work centres on experimentation, prototype-building, and systematic evaluation. When you join SAP, you'll be a part of SAP Next Gen - a global community of students and early professionals with access to mentors, development programmes, and peers.
+Additional Information
+ About SAP
+ With a global network of customers, partners, employees, and thought leaders, SAP helps the world run better and improves people’s lives.
+As a leader in enterprise applications and business AI, SAP stands at the nexus of business and technology. For over 50 years, organizations have trusted SAP to bring out their best by uniting business-critical operations spanning finance, procurement, HR, supply chain, and customer experience.
+We win with inclusion
+SAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.
+SAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team: Careers@sap.com.
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+Qualified applicants will receive consideration for employment without regard to their age, race, religion, national origin, ethnicity, gender (including pregnancy, childbirth, et al), sexual orientation, gender identity or expression, protected veteran status, or disability, in compliance with applicable federal, state, and local legal requirements.
+AI Usage in the Recruitment Process
+For information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.
+Please note that any violation of these guidelines may result in disqualification from the hiring process.

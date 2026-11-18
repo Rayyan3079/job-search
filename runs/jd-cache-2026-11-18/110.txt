@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4491589124
+TITLE: Hiwi_029/2026 studentische/wissenschaftliche Hilfskraft – Unity/VR
+COMPANY: Otto-von-Guericke University Magdeburg
+LOC: Magdeburg, Saxony-Anhalt, Germany
+POSTED: 2026-11-17
+title: Hiwi_029/2026 studentische/wissenschaftliche Hilfskraft – Unity/VR
+company: Otto-von-Guericke University Magdeburg
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fhiwi-029-2026-studentische-wissenschaftliche-hilfskraft-%25E2%2580%2593-unity-vr-at-otto-von-guericke-university-magdeburg-4491589124&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+STELLEN­AUSSCHREI­BUNG Hiwi_029/2026
+ Die Otto-von-Guericke- Universität Magdeburg (OVGU) ist eine forschungsstarke, regional vernetzte und international orientierte Profiluniversität.
+ An der Fakultät für Informatik ist am Institut für Intelligente Kooperierende Systeme (IKS) eine Stelle als
+studentische Hilfskraft (m/w/d) – Unity/VR
+zu besetzen.
+Besetzung zum/ab::
+ 01.01.2027
+ Befristung:
+ 1 Jahr
+ Arbeitszeit:
+ 38 Stunden/Monat
+ Die Arbeitsgruppe Communication and Networked Systems (ComSys) sucht für das Forschungsprojekt „Digital Twin OVGU Campus“ (DTOC) Unterstützung bei der Weiterentwicklung eines bestehenden Unity-Campusmodells zu einem interaktiven, datenangebundenen Digital Twin. Ein Arbeitsbeginn im Januar 2027 wird angestrebt; ein späterer Einstieg ist möglich.
+Ihre Aufgaben:
+ Weiterentwicklung des bestehenden Unity-Projekts mit einer konsistenten Struktur für Gebäude, Geschosse, Räume und technische Anlagen. 
+ Erstellung und Integration von 3D-Gebäude- und Innenraummodellen aus 2D-Grundrissen sowie verfügbaren CAD-/BIM-Unterlagen; Optimierung für die Echtzeitdarstellung. 
+ Einrichtung und Entwicklung einer interaktiven VR-Anwendung für Meta Quest 3 mit OpenXR, Navigation, Interaktion und Performanceoptimierung. 
+ Anbindung an das IoT-Backend über REST-/WebSocket-Schnittstellen bzw. MQTT-Gateways; Umsetzung räumlicher Dashboards für Messwerte, Anlagenzustände und Alarme. 
+ Entwicklung wiederverwendbarer C#-Komponenten, Tests und Git-Dokumentation; bei freien Kapazitäten KI-gestützte Literaturarbeit mit Quellenprüfung. 
+ Ihr Profil:
+ Immatrikuliertes Studium der Informatik, Medieninformatik, Ingenieurwissenschaften oder eines verwandten Fachs; praktische Erfahrung mit Unity, C# und 3D-Workflows. 
+ Erfahrung mit VR-Anwendungen und der Einrichtung bzw. Erprobung von Meta Quest 3; Kenntnisse in OpenXR und mobilen XR-Builds. 
+ Fähigkeit zur 3D-Modellierung auf Basis von 2D-Grundrissen; Kenntnisse in Blender, CAD/BIM sowie IFC-, FBX- oder glTF-Workflows von Vorteil. 
+ Kenntnisse in REST-APIs, JSON und dynamischer Datenvisualisierung; erste Erfahrungen mit IoT, MQTT oder Sensorintegration von Vorteil. 
+ Kompetenter, kritischer Einsatz KI-gestützter Werkzeuge einschließlich LLMs für Programmierung, Modellierung, Tests und wissenschaftliche Recherche; gute Englischkenntnisse, Deutschkenntnisse von Vorteil. 
+ Fachliche Fragen und weitere technische Informationen: Dr. MohammadAmin Hosseinifard, mohammadamin.hosseinifard@ovgu.de
+Die Otto-von-Guericke-Universität Magdeburg ist Unterzeichnerin der Charta der Vielfalt. Ihre Bewerbung ist bei uns willkommen, unabhängig von Geschlecht, kultureller und sozialer Herkunft, Alter oder sexueller Orientierung. Bewerbungen von schwerbehinderten Menschen und ihnen Gleichgestellten werden bei gleicher Eignung, Befähigung und fachlicher Qualifikation bevorzugt berücksichtigt. Die Otto-von-Guericke-Universität Magdeburg setzt sich für die berufliche Gleichstellung von Frauen und Männern ein.
+Bitte beachten Sie die Informationen zur Erhebung personenbezogener Daten unter:
+https://www.uni-magdeburg.de/Datenschutz_Bewerber.html
+Ihre vollständige Bewerbung (Motivationsschreiben, Lebenslauf, Zeugnisse) senden Sie bitte bis zum 08. Dezember 2026 über das Online-Bewerbungsportal.
+www.ovgu.de
+ Otto-von-Guericke-Universität Magdeburg
+Dezernat Personalwesen

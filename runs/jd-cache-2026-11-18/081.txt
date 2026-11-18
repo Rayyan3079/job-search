@@ -1,0 +1,30 @@
+URL: https://www.linkedin.com/jobs/view/4491409476
+TITLE: Junior SQL Developer
+COMPANY: Grainset Data
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-17
+title: Junior SQL Developer
+company: Grainset Data
+posted: 1 day ago
+applicants: 129 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fjunior-sql-developer-at-grainset-data-4491409476&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Some of the data we work with in Germany sits in on-premise SQL Server and Oracle databases that are staying where they are, and changes to them have to happen during the client's working day. Grainset Data is hiring a Junior SQL Developer in Germany for this work. The job is full-time and can be done from anywhere in Germany; the team is in Boston, six hours behind.
+ Main tasks Write and tune SQL queries, views and stored procedures
+ Prepare extracts from SQL Server, PostgreSQL or Oracle for loading into the warehouse
+ Check row counts and totals after each load
+ Investigate slow queries with execution plans
+ Keep database scripts in Git with a short change note
+ What we check for in your CV A degree in computer science, business informatics or a related field, or completed Fachinformatiker training
+ SQL including joins, subqueries and aggregate functions
+ One relational database: SQL Server, PostgreSQL, MySQL or Oracle
+ Git basics
+ Not required, but useful T-SQL or PL/SQL
+ Python
+ SSIS or another ETL tool
+ Working at Grainset 30 vacation days
+ Employer-funded company pension
+ Training budget for courses and certifications
+ Laptop and home office setup
+ Flexible hours with a daily overlap with Boston
+ Grainset Data, in Boston, builds data pipelines, analytical models and metric definitions, and traces a reported figure back to the source records behind it.

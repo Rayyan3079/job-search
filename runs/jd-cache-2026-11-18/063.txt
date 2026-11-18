@@ -1,0 +1,53 @@
+URL: https://www.stepstone.de/stellenangebote--Business-Analystin-im-Datenmanagement-Frankfurt-am-Main-Union-Investment--14763833-inline.html
+TITLE: Business Analyst*in im Datenmanagement
+COMPANY: Union Investment
+LOC: Frankfurt am Main
+POSTED: stepstone
+title: Business Analyst*in im Datenmanagement
+company: Union Investment
+posted: 2026-11-18T05:56:12.683Z
+location: Frankfurt am Main | remote: 
+---
+Über uns
+ Union Investment ist bekannt für eine herausragende Expertise im Asset Management und damit eine der führenden Investmentfondsgesellschaften. Als Teil der Genossenschaftlichen FinanzGruppe bieten wir Privatpersonen sowie institutionellen Kunden seit 1956 zukunftssichere Anlagelösungen mit dem Ziel, das Vermögen unserer mehr als fünf Millionen Anleger*innen zu vermehren. 
+Unsere Kultur ist geprägt von einem hohen Leistungsanspruch und partnerschaftlichen Miteinander. Bei uns bringen alle Mitarbeitenden ihre eigene Geschichte mit. Es ist für uns selbstverständlich, ein Arbeitsumfeld zu schaffen, in dem Menschen mit unterschiedlichen Geschlechtern, aus verschiedenen Altersgruppen, mit körperlichen Beeinträchtigungen, unterschiedlichen sexuellen Orientierungen, sozialen und kulturellen Hintergründen, ethnischen Zugehörigkeiten und Religionen ganz sie selbst sein können. Wir schätzen diese Vielfalt und lassen daraus eine Gemeinschaft entstehen, zu der alle einen wertvollen Beitrag leisten.
+ Was wir bieten
+ Du möchtest Finanzmarkt-Know-how mit Daten und Technologie verbinden? In dieser Rolle gestaltest Du die Weiterentwicklung unserer Kursversorgung und Fondsadministration aktiv mit. Gemeinsam mit Kolleginnen und Kollegen sowie unseren IT-Partnern optimierst Du Prozesse, entwickelst daten- und KI-getriebene Lösungen und sorgst dafür, dass aus guten Ideen umsetzbare Verbesserungen werden. Freu Dich auf eine vielseitige Aufgabe an der Schnittstelle von Finanzmärkten, Daten und IT. 
+ Unterstützung der täglichen Kursdatenversorgung und Marktgerechtigkeitsprüfung sowie Bewertung verschiedener Finanzinstrumente, beispielsweise Aktien, Anleihen, Optionen und weiterer Derivate
+ Aktive Mitgestaltung der datengetriebenen Transformation der Gruppe als Schnittstelle zur IT
+ Analyse, Gestaltung und Optimierung von End-to-End-Prozessen in der Kursversorgung und Fondsadministration sowie Identifikation von Potenzialen für Digitalisierung, Automatisierung und Effizienzsteigerung
+ Entwicklung und Bewertung daten- und KI-getriebener Use Cases sowie Begleitung ihrer Umsetzung – von der Konzeption über die Abstimmung mit IT-Partnern bis zur fachlichen Abnahme und Unterstützung bei Tests
+ Aufnahme und Strukturierung fachlicher und technischer Anforderungen sowie Übersetzung in klare, umsetzbare Spezifikationen
+ Was du bietest
+ Du verbindest ein gutes Verständnis für Finanzmärkte mit Interesse an Daten und Technologie. Mit Deiner analytischen und offenen Art hinterfragst Du bestehende Abläufe, erkennst Verbesserungspotenziale und entwickelst gemeinsam mit anderen praktikable Lösungen. Was Du fachlich und persönlich außerdem mitbringst: 
+ Gutes Finanzmarktverständnis, hohe Technologie- und Datenaffinität sowie Freude daran, bestehende Prozesse kritisch zu hinterfragen und weiterzuentwickeln
+ Erfolgreich abgeschlossenes Studium, idealerweise in Wirtschaftsinformatik oder Wirtschaftsmathematik, oder eine vergleichbare Ausbildung mit einschlägiger Berufserfahrung
+ Kenntnisse in der Bewertung und Funktionsweise von Finanzinstrumenten
+ Praktische Erfahrung im Umgang mit Python, Excel/VBA, Power BI und/oder Power Automate für Datenanalyse, Visualisierung und Prozessautomatisierung
+ Idealerweise erste Erfahrung mit dem Bloomberg Terminal, der Bloomberg API und/oder der Bloomberg Query Language (BQL) zur Recherche, Abfrage und Verarbeitung von Finanz- und Marktdaten
+ Partnerschaftliche und wertschätzende Arbeitsweise, Begeisterung und Teamgeist
+ Mobiles Arbeiten ist bei uns ganz selbstverständlich, genauso wie die mehrheitliche Anwesenheit vor Ort in unseren modernen Büros in Frankfurt am Main.
+ Auch vielfältige Bildungshintergründe und Arbeitserfahrungen sind bei uns willkommen. Wir sind aufgeschlossen gegenüber Talenten, deren Lebenslauf auf den ersten Blick nicht hundertprozentig zu den Anforderungen in unserer Stellenanzeige passt. Wir bieten die passenden Rahmenbedingungen, ihre individuellen Potenziale vollumfänglich zu entfalten.
+ Unsere Benefits
+ Neben unserem attraktiven Arbeitsumfeld gibt es außerdem zahlreiche weitere Benefits und Sozialleistungen wie u.a.
+ Mobiles und flexibles Arbeiten
+ Kostenfreies Deutschlandticket als Jobticket
+ Attraktive Betriebsrestaurants und Kaffeebars an den Standorten Frankfurt und Luxemburg
+ Bezuschusstes Mittagessen
+ Freie Getränke am Arbeitsplatz
+ Betriebliche Altersvorsorge
+ Vermögenswirksame Leistungen
+ Mitarbeiterkonditionen im Rahmen des Genossenschaftlichen Finanzverbundes
+ Kinderbetreuungszuschuss
+ Vielfältige Angebote rund um die Themen Fitness und Gesundheit (z.B. Wellpass, Interne Sportangebote und Gesundheitsvorsorge)
+ Diverse Leasing-Angebote (z.B. Fahrrad- oder Tech-Leasing)
+ Weiterbildungsangebote
+ Moderne Arbeitswelten, inkl. einer erstklassigen IT-Ausstattung
+ .. und Vieles mehr!
+ Die Leistungen können je nach Gesellschaft und Standort variieren.
+ Kontakt
+Stephanie Henkes
+Personalreferentin
+Telefon: +49 69 2567-1704
+ Schneller bewerben – schneller zum Ziel.
+Nutze unser Onlineformular und bewirb dich in wenigen Minuten online. Wir benötigen lediglich deine Kontaktdaten und deinen Lebenslauf.

@@ -1,0 +1,51 @@
+URL: https://www.stepstone.de/stellenangebote--SAP-Anwendungsbetreuer-m-w-d-bundesweit-dental-bauer-GmbH--14738922-inline.html
+TITLE: SAP-Anwendungsbetreuer (m/w/d)
+COMPANY: dental bauer GmbH
+LOC: bundesweit
+POSTED: stepstone
+title: SAP-Anwendungsbetreuer (m/w/d)
+company: dental bauer GmbH
+posted: 2026-11-10T14:14:12.33Z
+location: bundesweit  | remote: 
+---
+SAP-Anwendungsbetreuer (m/w/d)
+ Als Fachhändler für dentale Produkte mit abgestimmten Dienstleistungen beraten wir unsere Kunden nicht nur bei der Auswahl von Produkten namhafter Hersteller, sondern gewährleisten darüber hinaus ein fundiertes Know-how in allen Fragen rund um den Dentalbedarf. Unser Augenmerk liegt auf dem bewussten und nachhaltigen Einsatz von Energie, Roh- und Hilfsstoffen sowie von Fachhandelsprodukten. Das gilt für den Bereich Entwicklung ebenso wie für die Einrichtung und technische Umsetzung in Praxis und Labor. An 43 Standorten in fünf Ländern sind über 500 Mitarbeiter*innen täglich im Einsatz.
+ Zur Verstärkung unseres engagierten IT-Teams suchen wir an einem unserer deutschlandweiten Standorte zum nächstmöglichen Zeitpunkt einen 
+SAP-Anwendungsbetreuer (m⁠/⁠w⁠/⁠d)
+ In Vollzeit 
+ Ihr Aufgaben – Ihr Arbeitsalltag
+ Als SAP-Anwendungsbetreuer (m⁠/⁠w⁠/⁠d) sind Sie die zentrale Anlaufstelle für unsere internen SAP-Nutzer. Sie koordinieren technische und fachliche Anforderungen, analysieren Prozesse und sorgen für eine reibungslose Kommunikation zwischen Systemhaus, Fachabteilungen und Anwendern. Gleichzeitig verstehen Sie sich als Change Manager, der neue Prozesse in der Organisation verankert, Endanwender befähigt und die Akzeptanz für SAP nachhaltig steigert.
+ Analyse, Modellierung und Optimierung von Geschäftsprozessen, inklusive Dokumentation und Priorisierung im Backlog sowie Umsetzung von Fachkonzepten in enger Abstimmung mit den Fachabteilungen
+ Übersetzung und Spezifizierung von Geschäftsanforderungen in technische Anforderungen, Kommunikationsschnittstelle zwischen Stakeholdern (Business, IT, End-User) sowie Moderation von Abstimmungen der Zieldefinition
+ Eigenständige Umsetzung kleiner, technischer Anforderungen in SAP R3
+ Steuerung und Management externer Implementierungspartner im SAP-Umfeld
+ Betreuung verschiedenere SAP-Module (SD, FI, MM) sowie technische Verantwortung für Schnittstellen zu CRM-Systemen und zentralen Data Lakes.
+ Erstellung technischer und fachlicher Spezifikationen
+ 1st und 2nd Level Support für SAP-Anwendungen in Team-Rotation
+ Beratung und Coaching von Fachbereichen in Bezug auf Best Practices und Prozessautomatisierung, Schulung von Endanwendern, Aufbau von Adoption-Strategien, Kommunikation bei Rollouts
+ Ihr Profil – das sollten Sie mitbringen
+ Abgeschlossenes Studium der Wirtschaftsinformatik oder vergleichbare Qualifikation mit Berufserfahrung – idealerweise im Handelsumfeld
+ Fundierte Kenntnisse im SAP-Umfeld, inkl. Customizing und Verständnis für Vertriebsprozesse
+ Kenntnisse in ABAP / ABAP OO von Vorteil
+ Analytische, modulübergreifende und eigenverantwortliche Arbeitsweise in Verbindung mit einer ausgeprägten Lösungskompetenz und schneller Auffassungsgabe
+ Kommunikationsstärke, Teamfähigkeit und Bereitschaft zur Übernahme von Verantwortung
+ Technisches Verständnis für Datenmodelle, Schnittstellen und Systemanbindungen in enger Kooperation mit Implementierungspartnern
+ Ganzheitliches strategisches Verständnis für Geschäftsprozesse in Finance, Vertrieb, und Logistik
+ Kommunikationsstärke, Moderationsfähigkeit und Fähigkeit, zwischen Business und IT zu vermitteln
+ Analytisches Denken und Fähigkeit, aus KPIs konkrete Maßnahmen abzuleiten
+ Sehr gute Deutsch- und Englischkenntnisse
+ Wir bieten – unsere Unternehmenskultur
+ Einen sicheren, zukunftsorientierten und langfristigen Arbeitsplatz
+ Flexible Arbeitszeiten, teilweise die Möglichkeit für mobiles Arbeiten
+ Ein attraktives und modernes Arbeitsumfeld
+ Spannende Projekte in einem dynamischen Unternehmen
+ Weiterbildungsmöglichkeiten und Raum für persönliche Entwicklung
+ Vertrauensvolle und wertschätzende Zusammenarbeit in einem engagierten Team
+ Verantwortungsvolle Rolle mit idealer Mischung aus technischer Verantwortung und hohem Gestaltungsspielraum im Change-Management
+ Vorteile einer Mittelstandskultur mit flachen Hierarchien und schnellen Entscheidungswegen
+ Kontakt
+ Besonderen Wert legen wir auf die Individualität und Persönlichkeit eines jeden Einzelnen. Eigenverantwortung, Flexibilität und Kreativität sind Eigenschaften, welche Sie bei uns voranbringen.
+ Wir freuen uns auf Ihre Online-Bewerbung mit der Angabe Ihres möglichen Eintrittstermins und Ihrer Gehaltsvorstellung.
+ dental bauer GmbH
+ Ernst-Simon-Straße 12
+D-72072 Tübingen

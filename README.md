@@ -21,6 +21,8 @@ Internships, thesis roles, full-time roles and German-required roles are listed 
 
 ## Latest run
 
+**2026-11-18 daily**: 165 new, 4 packages: [Tesla – Data Science Internship – Gigafactory Berlin-Brandenburg](output/2026-11-18/tesla-data-science-internship-gigafactory-berlin/) (3.5), [Allianz – Working student in Data Office](output/2026-11-18/allianz-working-student-data-office/) (3.5), [JD.COM – JD Young Marketing Analytics & AI Internship](output/2026-11-18/jd-com-jd-young-marketing-analytics-ai-intern/) (3), [Allego – Network Development Analyst (Werkstudent)](output/2026-11-18/allego-werkstudent-network-development-analyst/) (3). Report: [digests/2026-11-18.md](digests/2026-11-18.md).
+
 **2026-11-18 company sites**: 5 new, 2 packages: [Raisin – Working Student Software Engineer (Corporate Services Revenue)](output/2026-11-18/raisin-working-student-software-engineer-revenue/) (3.5), [Roche Diagnostics – Intern Near Patient Care Research and Early Development (wearables data)](output/2026-11-18/roche-intern-near-patient-care-red-wearables/) (2.5). Report: [digests/2026-11-18-company.md](digests/2026-11-18-company.md).
 
 **2026-11-17 company sites (first run)**: 57 new jobs from ~40 career sites, 1 package: [Bosch – GenAI Knowledge Assistant internship](output/2026-11-17/bosch-internship-genai-knowledge-assistant-engineering/) (4). Report: [digests/2026-11-17-company.md](digests/2026-11-17-company.md).

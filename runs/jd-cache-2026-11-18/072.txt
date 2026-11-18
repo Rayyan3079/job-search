@@ -1,0 +1,52 @@
+URL: https://www.linkedin.com/jobs/view/4490819985
+TITLE: Data Analyst
+COMPANY: FOMO Pay
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-18
+title: Data Analyst
+company: FOMO Pay
+posted: 16 hours ago
+applicants: 95 applicants
+apply_offsite: 
+---
+About FOMO Pay! 
+ Founded in 2015, FOMO Pay is a payment institution licensed in Singapore, Hong Kong and the Middle East. The firm has become a leading one-stop digital payment, digital banking, and digital asset solution provider. It is currently building Asia's fully licensed financial platform, helping institutions and businesses connect between traditional and next-generation financial services. The firm offers its three flagship products:
+ FOMO Payment – One-stop digital payment solution for merchants, corporates and financial institutions
+ FOMO iBiz – Facilitate businesses' everyday requirements for transactional banking needs
+ FOMO Treasury – One-stop digital asset services provider bridging Web 2.0 & Web 3.0
+ For more information, please visit www.fomopay.com.
+ For recruitment inquiries, contact recruitment@fomopay.com.
+ Join and Grow with us! 
+ At FOMO Group, we are dedicated to redefining what is possible in digital payments, global banking, investment solutions, and tokenized assets. We seek forward-thinking individuals who share our passion for innovation and are eager to lead industry disruption. As part of our transformation journey, you will work alongside visionary leaders with a proven track record of shaping the future of finance.
+ We believe in unlocking the potential of every individual. We offer an inclusive, supportive, and continuous learning culture where everyone can grow to their full potential and achieve their personal and professional goals. Join our team and be part of an exciting evolution in the industry.
+ For more information, please visit www.fomogroup.com.
+ About the Role! 
+ FOMO is looking for a Data Analyst to own the reporting data layer behind its payments and cross-border business. Working with Payments, Cross-border, Finance, Compliance and BD, the role turns broad questions such as “how are corridors performing?” into precise, testable metric definitions, and builds the Kimball-style data marts, specs and business glossary behind them. It also validates each mart against source and finance figures, prototypes the first Holistic dashboards, and owns data quality and metric consistency, starting with the Finance Dashboard for Product and Finance.
+ Key Responsibilities: 
+ Capture reporting needs from business owners and convert them into metric definitions, dimensions, filters and refresh requirements.
+ Map each need to its source systems: ledgers, merchant onboarding, KYC/KYT, settlement and CRM.
+ Write data mart specs and star-schema models, including facts, dimensions, keys and SCD handling.
+ Write source-to-target mappings with column-level logic and sample SQL, plus ERDs and lineage diagrams kept alongside the dbt models.
+ Maintain the business glossary (GMV, net revenue, take rate, FX margin, active merchants, settlement TAT) and keep metrics consistent across reports.
+ Profile source data in SQL, write acceptance and reconciliation tests (mart vs. ledger and finance reports), and run UAT and sign-off before release.
+ Prototype first dashboards and datasets in Holistics.
+ Flag data quality issues to source owners and track them to resolution.
+ Enable self-service through documentation, training and office hours.
+ Requirements: 
+ Bachelor’s degree in a relevant or equivalent field.
+ 3–5 years of experience in data analysis, BI or analytics engineering, including at least one role that involved designing reporting or data mart models.
+ Strong SQL skills: window functions, CTEs, complex joins and aggregation at mixed grains. You are comfortable profiling large tables.
+ Solid grasp of dimensional modelling (Kimball): facts vs. dimensions, grain, conformed dimensions, SCD Type 1/2, and snapshot vs. transaction facts.
+ A track record of writing clear specs, such as mapping documents, metric definitions and data dictionaries, that engineers could build from without rework.
+ Able to work with business stakeholders, push back on ambiguous requests, and turn them into testable definitions.
+ Experience with at least one BI tool (Holistics, Looker, Tableau, Power BI or Metabase).
+ Fluent written and spoken English and Mandarin.
+ Experience in payments, fintech or cross-border businesses.
+ Hands-on experience with dbt and version-controlled documentation.
+ Our Perks and Benefits: 
+ Competitive Compensation and Benefit Package
+ Group Hospitalisation and Medical Insurance
+ Fun and Dynamic Environment with plenty of learning and growth opportunities
+ Career Advancement
+ Professional Development Training Workshops
+ Team Building Sessions

@@ -1,0 +1,33 @@
+URL: https://www.linkedin.com/jobs/view/4470692963
+TITLE: Application Consultant Trainee
+COMPANY: Lime Technologies
+LOC: Cologne, North Rhine-Westphalia, Germany
+POSTED: 2026-11-18
+title: Application Consultant Trainee
+company: Lime Technologies
+posted: 13 hours ago
+applicants: 111 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fapplication-consultant-trainee-at-lime-technologies-4470692963&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Über die Stelle 
+ Bei Lime machst du aus den Herausforderungen unserer Kunden Lösungen, die im Alltag funktionieren. Code ist dabei eines deiner wichtigsten Werkzeuge. Als Application Consultant installierst du Lime CRM, passt es an die Arbeitsweise des Kunden an und entwickelst zusätzliche Services rund um das System. Unsere Kunden kommen aus den unterschiedlichsten Branchen, kein Projekt gleicht dem anderen.
+ Zwischen Workshop und Code 
+ Lime CRM lässt sich sehr flexibel an die Bedürfnisse unserer Anwender anpassen. Wie das im Einzelfall aussieht, findest du gemeinsam mit dem Kunden heraus. An einem Tag baust du mit SQL, Python oder TypeScript eine Lösung für einen Kunden. Am nächsten sitzt du mit einem anderen zusammen und legst den Umfang eines neuen Projekts fest. Und am Tag darauf begleitest du einen Workshop, in dem ihr gemeinsam den besten Weg für eine geschäftliche Herausforderung sucht.
+ Du entwickelst gern. Am meisten treibt dich aber an, wenn deine Lösung beim Kunden echten Mehrwert schafft. Im Workshop fühlst du dich ebenso wohl wie im Code und lernst dabei jeden Tag dazu.
+ Deine Aufgaben 
+ Du berätst Kunden, wie sie ihre Herausforderungen lösen und wie Lime CRM ihre Arbeitsweise unterstützt.
+ Gemeinsam mit dem Kunden legst du den Projektumfang fest und sorgst für klare Rahmenbedingungen und Erwartungen.
+ Frontend-Komponenten, automatisierte Trigger und Integrationen mit Drittsystemen entwickelst du unter anderem mit Python, SQL und TypeScript.
+ Code prüfst und testest du, deinen eigenen ebenso wie den deines Teams. Für die Qualität unserer Lösungen übernimmst du Verantwortung.
+ Das bringst du mit 
+ Du hast einen Bachelor- oder Masterabschluss in Informatik, Wirtschaftsinformatik, Ingenieurwesen oder einem vergleichbaren Fach.
+ Technisches Know-how verbindest du mit einem guten Draht zu Menschen. Im Projekt übernimmst du gern die Führung.
+ KI setzt du schon in deiner eigenen Arbeit ein oder möchtest es lernen. Kunden zu zeigen, wie sie damit echten Mehrwert schaffen, reizt dich.
+ Englisch sprichst du sehr gut, die Landessprache deines Wunschstandorts fließend.
+ Das European Trainee Program 
+ Das Programm dauert ein Jahr. Vom ersten Tag an arbeitest du als vollwertiges Teammitglied an echten Kundenprojekten mit. Eine erfahrene Kollegin oder ein erfahrener Kollege begleitet dich dabei als Mentor*in.
+ Los geht es mit zwei intensiven Wochen an unserem Hauptsitz im schwedischen Lund. Dort triffst du die Trainees aus all unseren Niederlassungen und lernst unsere Produkte und Arbeitsweisen kennen. Daneben bleibt genug Zeit, als Team zusammenzuwachsen und gemeinsam Spaß zu haben. Danach setzt du das Gelernte an deinem Standort direkt in der Praxis um. Über das Jahr verteilt folgen weitere Schulungen.
+ Das Programm startet jedes Jahr im Januar und im August. Bewirb dich am besten gleich!
+ So geht es nach deiner Bewerbung weiter 
+ Zuerst laden wir dich zu einem kurzen Chat-Interview mit unserem KI-Assistenten Hubert.ai ein. Diesen Schritt durchlaufen alle, die sich bewerben. Zusätzlich schaut sich unser Recruiting-Team jede Bewerbung persönlich an.
+ Willkommen bei Lime!

@@ -1,0 +1,36 @@
+URL: https://www.linkedin.com/jobs/view/4438674690
+TITLE: Praktikum als Applied AI Engineer (m/w/d)
+COMPANY: SIXT
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-11-17
+title: Praktikum als Applied AI Engineer (m/w/d)
+company: SIXT
+posted: 1 day ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikum-als-applied-ai-engineer-m-w-d-at-sixt-4438674690&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Du begeisterst Dich für intelligente Systeme, die im großen Maßstab echten Mehrwert schaffen? Als Applied AI Engineer Praktikant (m/w/d) bei SIXT entwickelst Du KI-gestützte Lösungen, die die Arbeitsweise eines der führenden Mobilitätsunternehmen Europas nachhaltig verändern. Von intelligenter Automatisierung über agentenbasierte Workflows bis hin zu prädiktiven Systemen. Gemeinsam mit erfahrenen Engineers in unserem Headquarter setzt Du anspruchsvolle Herausforderungen in funktionierende Prototypen um und erlebst, wie Deine Lösungen in einer echten Umgebung zum Einsatz kommen. Das Praktikum hat eine Mindestdauer von sechs Monaten und richtet sich ausschließlich an Masterstudierende in einem technischen Studiengang. Du möchtest die nächste Generation KI-gestützter Innovation mitgestalten? Dann bewirb Dich jetzt und werde Teil von Team Orange in Pullach bei München!
+YOURS TO OWN
+ Du unterstützt die Konzeption und Entwicklung skalierbarer, produktionsreifer KI Automatisierungsframeworks sowie agentenbasierter Workflows, die in die Technologieplattform von SIXT integriert werden
+ Du hilfst dabei, komplexe fachliche Anforderungen in technische Lösungen zu übersetzen und beschäftigst Dich dabei mit agentenbasierten Architekturen, MCP Integrationen, prädiktiven Modellen und neuronalen Netzen
+ Du arbeitest entlang des gesamten Produktlebenszyklus mit. Von der Entwicklung erster Prototypen über die API Entwicklung bis hin zum Deployment in enger Zusammenarbeit mit unseren Software Engineering Teams
+ Du testest und vergleichst moderne GenAI Frameworks, bewertest die passende Lösung für unterschiedliche Anwendungsfälle und teilst Deine Erkenntnisse mit dem Team
+ Du entwickelst sauberen, gut strukturierten Python Code und trägst aktiv zur Weiterentwicklung unseres Tech Stacks bei
+ Du arbeitest eng mit Engineers und Fachbereichen zusammen und entwickelst aus Anforderungen leistungsfähige datenbasierte Produkte
+DEINE FÄHIGKEITEN ZÄHLEN
+ Studium Du bist aktuell in einem Masterstudium im MINT Bereich eingeschrieben, zum Beispiel Informatik, Data Science, Mathematik, Physik oder Ingenieurwissenschaften. Du verfügst über ein starkes technisches Fundament und überzeugst durch sehr gute Studienleistungen
+ Programmieren Du schreibst sauberen Python Code und verfügst über fundierte Kenntnisse in Informatik und Machine Learning, die Du bereits in Projekten, im Studium oder in eigenen Arbeiten unter Beweis gestellt hast
+ KI Know-how Du kennst moderne GenAI Frameworks und agentenbasierte Konzepte wie LangChain oder MCP und hast praktische Erfahrung mit Deep Learning Frameworks sowie klassischen Machine Learning Bibliotheken wie scikit learn oder XGBoost
+ Technisches Verständnis Du arbeitest sicher mit Git, hast erste Erfahrung in der API Entwicklung, beispielsweise mit FastAPI, sowie mit Containerisierungstools wie Docker; Erfahrungen mit Cloud Plattformen sind von Vorteil
+ Produktverständnis und Umsetzungsstärke Du möchtest Lösungen entwickeln, die echten Mehrwert schaffen. Dabei kombinierst Du technisches Verständnis mit einer pragmatischen Hands-on Mentalität und wählst je nach Anwendungsfall die sinnvollste Lösung. Ob einfache Heuristik, klassisches Machine Learning Modell oder komplexes neuronales Netz. In einem dynamischen Umfeld mit viel Eigenverantwortung fühlst Du Dich wohl
+ Kommunikation Du kannst komplexe KI Konzepte und Black Box Modelle verständlich für technische und nicht technische Zielgruppen erklären und kommunizierst verhandlungssicher auf Deutsch
+WAS WIR DIR BIETEN
+ Extra-Vorteile Profitiere von Rabatten auf SIXT rent, share, ride und SIXT+, attraktiven Fahrzeugleasing-Angeboten sowie exklusiven Deals bei Partnern für Reisen, Technik, Fashion und mehr
+ AI Excellence Mit Claude by Anthropic und SIXTgpt, unserer eigenen AI Plattform, arbeitest Du vom ersten Tag an mit modernsten AI Tools. Wir geben Dir den Freiraum, neue Technologien auszuprobieren, Dein Know-how kontinuierlich auszubauen und AI gezielt einzusetzen, um schneller, smarter und mit mehr Impact zu arbeiten
+ Mobilitätspower Wir unterstützen Dich mit einem monatlichen Mobilitätszuschuss von 20 € pro Monat für noch mehr Freiheit
+ Zukunftsplus Wir fördern Deine Altersvorsorge und unterstützen Dich bei kapitalbildenden Leistungen, damit Du optimal abgesichert bist
+ Feel-Good-Atmosphäre Bleib aktiv mit unserem modernen SIXT Fitnessstudio, vielfältigen Freizeitangeboten wie dem Gaming-Bereich oder dem SIXT-Chor und genieße unser hochwertiges Mitarbeiterrestaurant
+ Flexibilität Genieße 20 Tage Urlaub und ein hybrides Arbeitsmodell mit flexiblen Zeiten
+ Herzenssache Nimm Dir jedes Jahr einen Tag Zeit, um Dich ehrenamtlich in einer karitativen Einrichtung einzubringen, die sich für das Wohl von Kindern engagiert
+Über uns:
+ Wir sind ein weltweit führender Mobilitätsdienstleister mit einem Umsatz von 4,3 Milliarden Euro und rund 9.000 Mitarbeitern weltweit. Unsere Mobilitätsplattform ONE vereint unsere Produkte SIXT rent (Autovermietung), SIXT share (Carsharing), SIXT ride (Taxi-, Fahr- und Chauffeurservices), SIXT+ (Auto Abo) und gibt unseren Kunden Zugang zu unserer Flotte von 360.000 Fahrzeugen, den Services von 4.000 Kooperationspartnern und rund 5 Millionen Fahrern weltweit. Zusammen mit unseren Franchise-Partnern sind wir in mehr als 100 Ländern an 2.000 Vermietstationen präsent. Bei SIXT stehen ein erstklassiges Kundenerlebnis sowie ein herausragender Kundenservice an erster Stelle. Wir setzen auf echtes Unternehmertum und langfristige Stabilität und richten unsere Unternehmensstrategie mit Weitsicht aus. Starte mit uns durch und bewirb Dich jetzt!

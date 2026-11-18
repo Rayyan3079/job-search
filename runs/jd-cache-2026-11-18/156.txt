@@ -1,0 +1,35 @@
+URL: https://www.stepstone.de/stellenangebote--Studentischen-Mitarbeiter-m-w-d-AI-Engineering-Koeln-Institut-der-deutschen-Wirtschaft--14757414-inline.html
+TITLE: Studentischen Mitarbeiter (m/w/d) AI Engineering
+COMPANY: Institut der deutschen Wirtschaft
+LOC: Köln
+POSTED: stepstone
+title: Studentischen Mitarbeiter (m/w/d) AI Engineering
+company: Institut der deutschen Wirtschaft
+posted: 2026-11-16T11:11:07.29Z
+location: Köln | remote: 
+---
+Über uns:
+ Das Institut der deutschen Wirtschaft (IW) ist das private Wirtschaftsforschungsinstitut in Deutschland. Seit 1951 forschen, beraten und publizieren wir zu Arbeitsmarkt- und Bildungspolitik sowie Wirtschafts- und Sozialpolitik. Unsere Forschungsergebnisse richten sich an Politik, Wirtschaft, Wissenschaft und Öffentlichkeit gleichermaßen.
+ In unserem Cluster Big Data Analytics generieren und analysieren wir große Datenmengen, um aktuelle wirtschaftspolitische Forschungsfragen beantworten zu können. Zum nächstmöglichen Zeitpunkt suchen wir einen Studentischen Mitarbeiter (m/w/d) AI Engineering.  
+ Das Aufgabengebiet bei uns:
+ Dein Arbeitsalltag wird von unserem Team begleitet. Die direkte Mitwirkung am Tagesgeschäft ist somit schnell möglich.
+ Du entwickelst Integrationen, die unsere KI-Plattform Langdock mit externen Datenquellen und Fachsystemen verbindet.
+ Du konzipierst und baust Agenten und Skills, die Arbeitsprozesse in den Fachbereichen unterstützen.
+ Du testest KI-Anwendungen systematisch (Testfälle, Prompt-Varianten, Fehleranalyse) und dokumentierst die Ergebnisse.
+ Das wünschen wir uns von Dir:
+ Du studierst (Wirtschafts-)Informatik, Mathematik oder einen vergleichbaren Studiengang.
+ Du bist mit Programmiersprachen vertraut (Javascript) und arbeitest mit Git.
+ Du kennst die Grundlagen von APIs (HTTP, JSON, Authentifizierung).
+ Du hast Interesse an großen Sprachmodellen (LLMs).
+ Dieser Technologie-Stack erwartet dich bei uns: Langdock, Python, LLMs, REST/OAuth, Git/GitHub, Docker, CI/CD
+ Wir bieten:
+ Interessante und anspruchsvolle Arbeitsinhalte.
+ Eine wöchentliche Arbeitszeit von 16 Stunden bei flexibler Arbeitszeit nach Absprache. 
+ Eine marktgerechte Vergütung.
+ Einen modernen Arbeitsplatz in zentraler Lage.
+ Eine wertschätzende Arbeitsatmosphäre mit offener Feedbackkultur.
+ Sportangebote und einen Fitnessraum im Rahmen eines umfangreichen Gesundheitsmanagements.
+ Einen Einblick in die wissenschaftliche und publizistische Arbeit des IW Köln.
+ Kontakt:
+ Klingt das gut?  Dann bewirb Dich jetzt über das Bewerbungsformular!  Klicke direkt unten auf den Button. 
+ Wir freuen uns auf Dich!

@@ -1,0 +1,32 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-m-w-d-Computer-Vision-Machine-Learning-Hanover-Sightwise-GmbH--14769158-inline.html
+TITLE: Werkstudent (m/w/d) Computer Vision & Machine Learning
+COMPANY: Sightwise GmbH
+LOC: Hanover
+POSTED: stepstone
+title: Werkstudent (m/w/d) Computer Vision & Machine Learning
+company: Sightwise GmbH
+posted: 2026-11-18T19:40:42.23Z
+location: Hanover | remote: 
+---
+Über uns
+ Wir sind ein Startup aus Hannover und entwickeln eine KI-gestützte Computer-Vision-Plattform für die industrielle Qualitätsprüfung. Unsere Full-Stack-Anwendungen laufen produktiv bei Industriekunden und decken alles ab, von Datenmanagement und Annotation bis zu Modelltraining und Deployment. Dich erwartet ein Engineering-Team von rund 20 Personen mit modernen Arbeitsstrukturen und kurzen Entscheidungswegen.
+ Deine Aufgaben
+ Erstellen und Kuratieren von Trainingsdaten: reale Aufnahmen und synthetisch generierte Daten aus unserer Plattform
+ Trainieren, Evaluieren und Verbessern von Klassifikations- und Detektionsmodellen
+ Mitarbeit beim Aufbau und der Inbetriebnahme unserer Versuchsaufbauten
+ Unterstützung bei Tests, Deployment und Monitoring der Modelle auf den Edge-Geräten der Anlagen
+ Dein Profil
+ Eingeschriebenes Studium in Informatik, Elektrotechnik, Mechatronik, Data Science oder einem vergleichbaren Fach
+ Programmierkenntnisse in Python
+ Erste Erfahrungen mit Computer Vision oder Machine Learning, z. B. OpenCV, PyTorch oder Ultralytics
+ Grundkenntnisse in Git und Linux
+ Strukturierte und selbstständige Arbeitsweise
+ Sehr gute Deutschkenntnisse (mind. C1), da unsere Teamsprache Deutsch ist; Englisch für Fachliteratur und Dokumentation
+ Wünschenswert 
+ Erfahrung mit synthetischen Daten, 3D/CAD oder Kamerakalibrierung
+ Interesse an Hardware wie Kameras, Optik und Beleuchtung
+ Wir bieten
+ Arbeitsort: Hannover. Die Tätigkeit findet ausschließlich vor Ort statt (kein Homeoffice, Remote oder Hybrid).
+ Einblick in den gesamten Weg vom Prototyp in die fertige Industrieanlage
+ Flexible Arbeitszeiten, die sich nach deinem Semesterplan richten
+ Ein kollegiales Team, in dem man sich gegenseitig unterstützt

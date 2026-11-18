@@ -1,0 +1,55 @@
+URL: https://www.linkedin.com/jobs/view/4490873202
+TITLE: Werkstudent Wirtschaftsinformatik (m/w/d)
+COMPANY: Kanzlei Kaufmann
+LOC: Biberach an der Riß, Baden-Württemberg, Germany
+POSTED: 2026-11-18
+title: Werkstudent Wirtschaftsinformatik (m/w/d)
+company: Kanzlei Kaufmann
+posted: 12 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+Wir stellen uns dir vor. 
+ Eine Kanzlei, vielschichtige Leistungsbereiche und über 45 Teammitglieder. Was wie eine klassische mittelständische Steuerberatungs- und Rechtsanwaltsgesellschaft klingen mag, ist bei genauerem Betrachten vielleicht doch etwas mehr. Wir sehen den Menschen vor den Zahlen, denken und handeln fortschrittlich und arbeiten kontinuierlich daran, uns als Kanzlei und Arbeitgeber sinnvoll weiterzuentwickeln. 
+ Dass wir dafür auch einen Wirtschaftsinformatiker (m/w/d) suchen, mag für eine Steuerkanzlei zunächst ungewöhnlich erscheinen. Für uns ist es allerdings der nächste logische Schritt. Schließlich möchten wir die Digitalisierung unserer Kanzlei aktiv vorantreiben, bestehende Prozesse verbessern und neue technische Möglichkeiten im Bereich KI sinnvoll in unseren Arbeitsalltag integrieren. 
+ Wenn du Freude daran hast, technische Herausforderungen zu lösen, digitale Anwendungen weiterzuentwickeln und eigene Ideen in die Praxis umzusetzen, freuen wir uns darauf, dich kennenzulernen. 
+ Natürlich sind auch wir nicht perfekt. Wir geben jedoch jeden Tag unser Bestes, um für dich einen optimalen Arbeitsort zu schaffen. 
+ Dein individuelles Tätigkeitsprofil. 
+ Du interessierst dich für IT und möchtest mit deiner Arbeit tatsächlich etwas bewegen? Bei uns kannst du die technische Weiterentwicklung einer modernen Kanzlei aktiv mitgestalten und dafür sorgen, dass digitale Anwendungen im Arbeitsalltag reibungslos funktionieren. Dabei kümmerst du dich sowohl um unsere bestehende IT-Landschaft als auch um die Entwicklung neuer Lösungen, mit denen wir wiederkehrende Abläufe automatisieren und unsere Prozesse effizienter gestalten. 
+ Konkret erwarten dich folgende Tätigkeitsbereiche: 
+ Technischer Ansprechpartner für interne IT-Themen und Unterstützung unserer Mitarbeiter bei Anwendungsfragen 
+ Koordination und Zusammenarbeit mit unserem externen IT-Dienstleister 
+ Analyse, Bearbeitung und Nachverfolgung technischer Probleme 
+ Betreuung und Weiterentwicklung unserer Microsoft-365-Umgebung, insbesondere Teams, SharePoint und OneDrive 
+ Einführung neuer Anwendungen sowie Dokumentation unserer IT-Systeme und Prozesse 
+ Analyse und Optimierung manueller sowie wiederkehrender Geschäftsprozesse 
+ Entwicklung und Betreuung automatisierter Workflows mit Power Automate 
+ Erstellung kleiner interner Anwendungen mit Power Apps 
+ Anbindung von Fachanwendungen über Schnittstellen wie REST-APIs, HTTP, JSON und Connectoren 
+ Datenverarbeitung und -aufbereitung mit Excel und Power Query 
+ Unsere Wünsche an dich. 
+ Wir erwarten nicht, dass du bereits jedes Programm beherrschst oder mit sämtlichen Technologien gearbeitet hast. Viel wichtiger ist uns, dass du ein gutes technisches Grundverständnis mitbringst, dich gerne in neue Themen einarbeitest und Freude daran hast, eigenständig Lösungen zu entwickeln. Schließlich verändert sich die IT-Welt ständig und wir möchten uns gemeinsam mit dir weiterentwickeln. 
+ Von den folgenden Punkten solltest du dich ebenfalls angesprochen fühlen: 
+ Du absolvierst aktuell ein Studium der Wirtschaftsinformatik, Informatik oder bist in einem vergleichbaren Studiengang immatrikuliert 
+ Du verfügst über ein gutes Verständnis für IT-Systeme, digitale Prozesse und technische Zusammenhänge 
+ Microsoft 365 ist dir vertraut und idealerweise hast du dich bereits mit Power Automate, Power Apps oder vergleichbaren Anwendungen beschäftigt 
+ Begriffe wie APIs, JSON oder Power Query sind dir bekannt und du hast Interesse daran, dein Wissen in diesen Bereichen zu vertiefen 
+ Du arbeitest lösungsorientiert, strukturiert und übernimmst gerne Verantwortung 
+ Teamzusammenhalt ist dir wichtig und du hast Freude daran, andere Mitarbeiter bei technischen Fragen zu unterstützen 
+ Das passende Umfeld für deine Karriere. 
+ Ein Arbeitsverhältnis ist ein Geben und Nehmen. Deshalb kannst du dich bei uns auf weit mehr als ein sicheres Arbeitsverhältnis freuen: 
+ Gelebte Flexibilität mit Home-Office und flexiblen Arbeitszeiten 
+ Mentale Gesundheitsförderung mit vielschichtigen Unterstützungsangeboten und zusätzlich bis zu 12 Coaching- oder Therapiestunden pro Jahr 
+ Strukturierte Einarbeitung durch einen engagierten Ansprechpartner 
+ Regelmäßiges Feedback zur fachlichen und persönlichen Entwicklung 
+ Klare Strukturen gepaart mit digitalen und standardisierten Prozessen 
+ Vertrauen und Freiraum für ein eigenständiges Arbeiten 
+ Weiterbildungsflatrate 
+ Nettolohnoptimierung mit 50 Euro Sachbezugsgutscheinen, betrieblicher Altersvorsorge, Kindergartenzuschuss, Bike-Leasing etc. 
+ Business-Englisch und einmal pro Woche ein Fitnessangebot 
+ Höhenverstellbare Tische und klimatisierte Räumlichkeiten 
+ Beste technische Hard- und Software-Ausstattung (Notebook, Geschäftshandy etc.) 
+ Support durch einen kompetenten externen IT-Systempartner 
+ Regelmäßige Teamevents und vieles mehr 
+ Mit wenigen Klicks zum neuen Job. 
+ Wir gehen auch beim Bewerbungsprozess neue Wege. Bewirb dich mit nur wenigen Klicks über unser digitales Bewerbungsformular bei uns. Wir freuen uns darauf, dich kennenzulernen.

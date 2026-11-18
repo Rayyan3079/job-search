@@ -1,0 +1,49 @@
+URL: https://www.linkedin.com/jobs/view/4489760484
+TITLE: Praktikum IT Softwareentwickler_in und Datenanalyst_in
+COMPANY: Audi Revolut F1 Team
+LOC: Neuburg an der Donau, Bavaria, Germany
+POSTED: 2026-11-16
+title: Praktikum IT Softwareentwickler_in und Datenanalyst_in
+company: Audi Revolut F1 Team
+posted: 2 days ago
+applicants: 55 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikum-it-softwareentwickler-in-und-datenanalyst-in-at-audi-revolut-f1-team-4489760484&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Join Our Team
+Seit der Saison 2026 tritt Audi in der FIA Formel 1 Weltmeisterschaft an.
+Das neue Team hat drei Standorte. Das Audi Kompetenz-Center Motorsport in Neuburg (Deutschland) gilt als eines der modernsten seiner Art in Europa. Die Formula 1 Factory der Audi Motorsport AG in Hinwil (Schweiz) ist bekannt für ihre innovativen Technologien und ihre Leidenschaft für den Rennsport. Das Audi Motorsport Technology Center im Vereinigten Königreich ist in der Startphase und wächst stetig. Unsere Power Unit kommt aus Neuburg, während Hinwil für die Entwicklung des Chassis und den Rennbetrieb verantwortlich ist.
+Was brauchst Du? Das Mindset eines Athleten. Wenn Du jemand bist, für den Aufgeben keine Option ist und Grenzen nur etwas sind, die es zu überwinden gilt, kannst Du mit uns Vorsprung durch Technik in die Formel 1 bringen. Werde Teil dieses einzigartigen Projekts und schreibe Motorsportgeschichte.
+In der Audi Formula Racing GmbH IT arbeitest Du an der Konzeption und Umsetzung von innovativen Data Analytics und Software Lösungen für die Formel 1 Motorenentwicklung. Damit gestaltest Du die zukünftige IT-Landschaft des Audi Formel 1 Projekts aktiv mit und schreibst die erforderliche Software selbst. Unser Fokus im Team liegt auf innovativen IT-Lösungen für einen hoch performanten F1 Motor.
+ Diese Position ist bei der Audi Formula Racing GmbH am Standort Neuburg (Deutschland) zu besetzen.
+ Your Mission
+ Du unterstützt bei der Analyse, Konzeption und Entwicklung unterschiedlicher Softwarelösungen für die Audi Formula Racing GmbH mit dem Schwerpunkt Data Analytics
+ Du entwickelst Ingest-Strecken und ETL-Prozesse, um Daten aus verschiedenen Quellen zu erfassen, zu transformieren und bereitzustellen
+ Du verarbeitest und analysierst große Datenmengen performant und skalierbar
+ Du erstellst Auswertungen, Reports, Dashboards und KPIs
+ Du arbeitest dabei innerhalb einer Datenplattform und entwickelst diese gemeinsam mit den Fachbereichen weiter
+ Du setzt auch außerhalb der Datenplattform eigenständige Softwarelösungen um und unterstützt bei der Digitalisierung von Abläufen
+ Your Profile
+ Studium der Fachrichtung Informatik, Wirtschaftsinformatik oder ggf. anderer Richtungen mit fundierten Kenntnissen entsprechend Aufgabenbeschreibung
+ Du arbeitest selbstverständlich und aktiv mit KI-Tools (z.B. Claude Code, Microsoft Copilot) und nutzt sie gezielt, um schneller und besser zu entwickeln und zu analysieren
+ Du hinterfragst KI-generierte Ergebnisse kritisch – wir suchen keinen reinen „Vibe Coder“, sondern jemanden, der versteht, was der Code tut
+ Solides Verständnis der Grundprinzipien der Softwareentwicklung: Programmieren, Datenbanken, Versionskontrolle und Architekturkonzepte
+ Grundkenntnisse von relationalen Datenbanken, bevorzugt Microsoft SQL
+ Kenntnisse von Atlassian Tools (Jira, Confluence) von Vorteil
+ Freude an der Arbeit im Team und eine ausgeprägte Hands-on-Mentalität
+ Verhandlungssichere Deutsch- und Englischkenntnisse in Wort und Schrift runden Dein Profil ab
+ Apply now
+ Zulassungskriterien
+ Bewerbungen Sind Für Kandidatinnen Und Kandidaten Offen, Die Nachweisen Und Belegen Können, Dass Sie Die Folgenden Zulassungskriterien Erfüllen
+ Bewerberinnen und Bewerber aus der EU benötigen einen gültigen Personalausweis oder Reisepass; Bewerberinnen und Bewerber aus Nicht-EU-Ländern benötigen eine Aufenthaltserlaubnis und gegebenenfalls eine Arbeitserlaubnis
+ Du stehst für die gesamte Dauer des Programms vor Ort in Neuburg a. d. Donau, Deutschland, zur Verfügung
+ Du kannst das Praktikum am 01.03.2027 beginnen
+ Du musst in einem Studiengang eingeschrieben sein und für die gesamte Dauer des Praktikums immatrikuliert bleiben
+ Bitte beachte, dass alle Abschlussarbeiten einer Geheimhaltungsklausel unterliegen und gegebenenfalls eine zusätzliche Geheimhaltungsvereinbarung mit der Betreuungsperson der Hochschule erforderlich sein kann
+ Bewerbungskriterien
+ Um ein faires Auswahlverfahren zu gewährleisten, reiche bitte nur eine Bewerbung ein. Gehen mehrere Bewerbungen ein, wird nur die zuerst eingereichte berücksichtigt. Falls Du nach der Bewerbung Änderungen vornehmen möchtest, antworte bitte auf Deine Bestätigungs-E-Mail, und unser Recruiting-Team unterstützt Dich gerne.
+ Bewerbungsprozess
+ Für Deine Bewerbung benötigen wir einen aktuellen Lebenslauf, relevante Zeugnisse, eine Immatrikulationsbescheinigung und gegebenenfalls die Prüfungsordnung Deiner Hochschule sowie einen aktuellen, offiziellen Notenspiegel. Gerne kannst Du uns in einem Motivationsschreiben mehr über Dich erzählen.
+Wir schätzen die Zeit und den Aufwand, die in jede Bewerbung investiert werden. Aufgrund der Vielzahl eingehender Bewerbungen können wir jedoch leider kein individuelles Feedback geben.
+ About Us
+ We are an equal opportunity employer.
+We celebrate diversity and are committed to creating an inclusive environment for all employees and expressly welcome applications from people with disabilities. We look forward to reviewing your application and having you join the team as part/or full-time employee in our pursuit of excellence in Formula 1.

@@ -1,0 +1,30 @@
+URL: https://www.stepstone.de/stellenangebote--IT-Architekt-Schwerpunkt-Digital-Workplace-und-Basisinfrastruktur-m-w-d-Ilmenau-Jena-Muenchen-INVERSO-Gesellschaft-fuer-innovative-Versicherungssoftware-mbH--14764417-inline.html
+TITLE: IT-Architekt Schwerpunkt Digital Workplace und Basisinfrastruktur (m/w/d)
+COMPANY: INVERSO Gesellschaft für innovative Versicherungssoftware mbH
+LOC: Ilmenau, Jena , München
+POSTED: stepstone
+title: IT-Architekt Schwerpunkt Digital Workplace und Basisinfrastruktur (m/w/d)
+company: INVERSO Gesellschaft für innovative Versicherungssoftware mbH
+posted: 2026-11-18T08:56:07.527Z
+location: Ilmenau | remote: 
+---
+DAS IST INVERSO
+ Inverso steht für INnovative VERsicherungsSOftware. Gemeinsam gestalten wir wegweisende Softwarelösungen für vielfältige Projekte in der Sparkassen-Finanzgruppe. Als Tochter der beiden größten öffentlichen Versicherer Deutschlands bieten wir dir eine zukunftsweisende Karriere! Entdecke unsere Standorte Ilmenau, Jena und München und tauche ein in eine dynamische Arbeitswelt, die Raum für deine Entfaltung bietet. Egal, ob Frontend, Backend, Support oder innovative KI-Lösungen ‒ unser breites Portfolio bietet vielseitige Herausforderungen! Entdecke neue Horizonte und entwickle deine Fähigkeiten in verschiedenen Bereichen weiter. Bei uns steht Vielseitigkeit im Fokus und du gestaltest innovative Lösungen für anspruchsvolle Projekte.
+ Deine Aufgaben
+ Aufbau und Weiterentwicklung der Digital-Workplace- und IT-Infrastrukturarchitektur eines Lebensversicherers, insbesondere für moderne Client-, Microsoft-, Telefonie-, Kollaborations- und virtuelle Desktop-Lösungen
+ Erstellung technischer Konzepte, Architekturdiagramme und Dokumentationen sowie Planung der Integration neuer Systeme und Dienste
+ Auswahl und Einführung von Arbeitsplatzservices in Zusammenarbeit mit internen Teams, Produktherstellern und externen Dienstleistern
+ Begleitung von Changes, Releases, Tests und Überführungen in den Betrieb sowie Automatisierung von Betriebs- und Supportprozessen
+ Beratung bei Technologieentscheidungen und Sicherstellung der Einhaltung von Architektur-, Sicherheits-, Qualitäts-, IT-Service- und Regulatorikvorgaben
+ Unterstützung des Regulatorik-Teams bei Zertifizierungsmaßnahmen und der Umsetzung von Sicherheitsstandards
+ Dein Profil
+ Abgeschlossenes Studium der Informatik, Wirtschaftsinformatik oder eine vergleichbare Qualifikation mit mehrjähriger Berufserfahrung
+ 5 Jahre einschlägige Berufserfahrung, idealerweise in der Finanz- bzw. Versicherungsbranche
+ Fundierte Kenntnisse in Digital-Workplace-Architekturen und im Identity & Access Management sowie idealerweise Erfahrung mit Microsoft 365, Teams-Telefonie, Kollaborationsdiensten und virtuellen Desktop-Infrastrukturen
+ Kenntnisse im Betrieb und in der Integration von IT-Infrastrukturen und Applikationen, idealerweise im regulierten Versicherungs- oder Finanzumfeld
+ Kenntnisse in Architekturmethoden sowie in aktuellen Themen der IT-Sicherheit, Resilienz und Regulatorik
+ Ausgeprägte analytische, konzeptionelle und kommunikative Fähigkeiten sowie Interesse an Kundenanforderungen und technisch anspruchsvollen Fragestellungen
+ Nachweislich sehr gute deutsche Sprachkenntnisse (mind. C1 Level)
+ Jetzt bewerben
+ Du hast dich hier wiedergefunden? Dann freuen wir uns sehr über deine Bewerbung über unser Online Formular!
+Bei Fragen kannst du dich gerne an unser HR Team unter der Telefonnummer 03677 2009111 wenden.

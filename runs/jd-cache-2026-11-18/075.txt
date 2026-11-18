@@ -1,0 +1,49 @@
+URL: https://www.linkedin.com/jobs/view/4490418161
+TITLE: BI-asiantuntija, Power BI Analyst Specialist
+COMPANY: Laattapiste-Pukkila
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-17
+title: BI-asiantuntija, Power BI Analyst Specialist
+company: Laattapiste-Pukkila
+posted: 1 day ago
+applicants: 26 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Ffi.linkedin.com%2Fjobs%2Fview%2Fbi-asiantuntija-power-bi-analyst-specialist-at-laattapiste-pukkila-4490418161&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Haluatko päästä rakentamaan modernia BI- ja analytiikkaympäristöä ja vaikuttamaan siihen, miten data tukee liiketoiminnan päätöksentekoa?
+ Haemme Laattapiste-Pukkilalle kokenutta ja käytännönläheistä BI-asiantuntijaa / Power BI & Analytics Specialistia kehittämään raportointia, analytiikkaa ja tiedolla johtamisen ratkaisuja.
+ Kyseessä on uusi rooli, jossa pääset rakentamaan uutta valmiin ympäristön ylläpitämisen sijaan. Ensimmäinen merkittävä kokonaisuutesi on nykyisen BI-ympäristön modernisointi ja siirtyminen kohti Microsoft Power BI- ja Fabric-pohjaista analytiikka-alustaa.
+ Tavoitteena ei ole siirtää nykyisiä raportteja sellaisenaan uuteen ympäristöön. Pääset yhdessä liiketoiminnan kanssa arvioimaan, mitä tietoa aidosti tarvitaan ja miten raportoinnista voidaan rakentaa entistä käyttäjälähtöisempää, joustavampaa ja paremmin päätöksentekoa tukevaa.
+ Tulevaisuudessa rakennettavan kokonaisuuden on tarkoitus palvella myös Ruotsin Höganäs Kakelin liiketoimintaa, joten pääset vaikuttamaan analytiikan kehittämiseen myös konsernitasolla.
+ Mitä tehtävässäsi teet?
+ Vastaat Power BI -raportoinnin ja analytiikan kehittämisestä ja toimit tärkeässä roolissa datan, teknologian ja liiketoiminnan välissä.
+ Käytännössä:
+ suunnittelet ja rakennat Power BI -raportteja, dashboardeja, DAX-mittareita ja semanttisia malleja
+ modernisoit nykyistä raportointia ja viet sitä hallitusti Power BI -ympäristöön
+ suunnittelet analytiikan datamalleja ja jalostat lähdejärjestelmien dataa raportoinnin tarpeisiin
+ kehität Microsoft Fabric -ympäristöä yhdessä IT:n ja ulkoisten asiantuntijoiden kanssa
+ hyödynnät SQL:ää datan analysoinnissa ja mallinnuksessa
+ kartoitat raportointi- ja analytiikkatarpeita yhdessä myynnin, talouden, logistiikan, oston ja asiakaspalvelun kanssa
+ yhtenäistät KPI-määrittelyjä ja kehität raportointikäytäntöjä
+ tuet avainkäyttäjiä ja edistät itsepalveluanalytiikan hyödyntämistä
+ Työskentelet tiiviisti liiketoiminnan, johdon, oman IT-tiimin ja kumppaneiden kanssa. Osaat tuoda keskusteluun oman asiantuntijanäkemyksesi, haastaa tarvittaessa nykyisiä toimintatapoja ja perustella ymmärrettävästi, miksi jokin ratkaisu kannattaa toteuttaa uudella tavalla.
+ Roolisi on aluksi vahvasti hands-on-asiantuntijatehtävä, mutta kokonaisuuden kehittyessä myös oma vastuusi voi kasvaa.
+ Mitä toivomme sinulta?
+ Sinulla on käytännön kokemusta BI-ratkaisujen kehittämisestä ja vahvaa osaamista Microsoft Power BI:stä, DAXista, SQL:stä, Power Querystä, tietomallinnuksesta ja liiketoimintaraportoinnista.
+ Teknisen osaamisen rinnalla ymmärrät liiketoiminnan tarpeita ja osaat toimia sujuvasti erilaisten sidosryhmien kanssa. Pystyt kuuntelemaan, kysymään olennaisia kysymyksiä ja tarvittaessa haastamaan toiveita sekä muuttamaan liiketoiminnan tarpeet toimiviksi data- ja raportointiratkaisuiksi.
+ Olet analyyttinen, itsenäinen ja utelias kehittäjä, joka ottaa mielellään vastuuta omasta kokonaisuudestaan ja vie asioita aktiivisesti eteenpäin.
+ Soveltuva korkeakoulututkinto antaa tehtävään hyvän pohjan. Arvostamme kuitenkin myös muulla tavoin hankittua vahvaa käytännön osaamista ja kokemusta BI-ratkaisujen kehittämisestä.
+ Näistä on sinulle hyötyä tehtävässä
+ Kokemus Microsoft Fabricista sekä Lakehouse- tai Warehouse-arkkitehtuureista tukee tehtävässä onnistumista. Hyötyä on myös OneLaken, Fabric Data Factoryn, Dataflows Gen2:n, Direct Laken, Azure SQL:n, Power BI Deployment Pipelines -mallin tai Git-pohjaisen BI-kehityksen tuntemuksesta.
+ Kokemus ERP-, myynti-, talous- tai supply chain -datan parissa työskentelystä auttaa sinua pääsemään nopeasti sisälle kokonaisuuteen.
+ Kaikkea tätä sinun ei tarvitse hallita valmiiksi. Tärkeintä on vahva Power BI:n, datamallinnuksen ja raportoinnin osaaminen sekä halu kehittää osaamistasi kohti laajempaa Microsoft Fabric -ympäristöä. Tulevaisuudessa pääset mukaan kehittämään myös AI-avusteisen analytiikan hyödyntämistä.
+ Millainen työyhteisö sinua odottaa?
+ Pääset osaksi itseohjautuvaa, asiantuntijapainotteista ja lämminhenkistä IT-tiimiä, jossa jokaisella on oma vahva osaamisalueensa ja yhteinen tavoite: tuottaa teknologian ja datan avulla lisäarvoa liiketoiminnalle.
+ Laattapiste-Pukkilassa toimintatapa on matalahierarkkinen ja käytännönläheinen. Asioita viedään eteenpäin suoraan oikeiden ihmisten kanssa, joten pääset työskentelemään lähellä liiketoimintaa, johtoa ja teknisiä kumppaneita.
+ Työssä on joustavuutta ja mahdollisuus hybridityöhön. Erityisesti tehtävän alussa arvostamme läsnäoloa ja tiivistä yhteistyötä liiketoiminnan kanssa.
+ Haluatko olla mukana rakentamassa seuraavan sukupolven analytiikkaa?
+ Tässä tehtävässä et saa eteesi valmista mallia, jota vain ylläpidät. Pääset aidosti vaikuttamaan siihen, miltä tulevaisuuden raportointi ja analytiikka näyttävät ja miten niitä hyödynnetään liiketoiminnan johtamisessa.
+ Jos innostut mahdollisuudesta kehittää uutta, yhdistää dataa ja liiketoimintaa sekä nähdä työsi vaikutukset käytännössä, tämä voi olla sinun paikkasi.
+ Kiinnostuitko? Hae mukaan ja tule rakentamaan kanssamme fiksumpaa tapaa hyödyntää dataa. 
+ Lähetä hakemuksesi ansioluetteloineen ja palkkatoiveineen mahdollisimman pian. Käsittelemme hakemuksia jo hakuaikana.
+ Lisätietoja tehtävästä ja hakuprosessista antaa Eilakaislan palvelupäällikkö Anu Grekula, puh. 0400 270 940 / anu.grekula@eilakaisla.fi.
+ Haku alkaa 10. marraskuuta 2026 ja päättyy 23. marraskuuta 2026, klo 23.59 (Europe/Helsinki)

@@ -1,0 +1,33 @@
+URL: https://www.linkedin.com/jobs/view/4488523782
+TITLE: WERKSTUDENT (M/W/D) KI-Entwicklung & Open Source
+COMPANY: sera Group
+LOC: Immenhausen, Hesse, Germany
+POSTED: 2026-11-12
+title: WERKSTUDENT (M/W/D) KI-Entwicklung & Open Source
+company: sera Group
+posted: 6 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+Über die sera Gruppe 
+ Bei sera bewegen wir mehr – gemeinsam. Als international tätige, mittelständische Unternehmensgruppe mit über 300 Kolleginnen und Kollegen an sieben Gesellschaften entwickeln wir technische Lösungen für anspruchsvolle Anwendungen. Dabei verbinden wir mittelständische Stärke mit der Dynamik eines internationalen Umfelds. Du kannst dich aktiv einbringen, Verantwortung übernehmen und mitgestalten. Ein modernes Arbeitsumfeld, kurze Entscheidungswege und Zusammenarbeit auf Augenhöhe prägen dabei unseren Arbeitsalltag.
+ Deine Aufgaben 
+ Unterstütze sera bei der spannenden Aufgabe, eine interne Open-Source-KI-Lösung weiterzuentwickeln und für den praktischen Einsatz im Unternehmen auszubauen.
+ Du beschäftigst dich damit, wie moderne KI-Modelle und -Werkzeuge sicher und sinnvoll mit unseren internen Daten und Systemen verbunden werden können.
+ Du setzt neue Funktionen und Anwendungsmöglichkeiten um und unterstützt dabei, bestehende Komponenten technisch weiterzuentwickeln.
+ Gemeinsam testen wir unterschiedliche Ansätze, Modelle und Technologien und bewerten, welche davon sich für konkrete Anforderungen bei sera eignen.
+ Du arbeitest an prototypischen KI-Anwendungen und hilfst dabei, erfolgreiche Ansätze schrittweise in eine produktiv nutzbare Lösung zu überführen.
+ Dabei erhältst du Einblicke in Themen wie Large Language Models, RAG, APIs, lokale KI-Modelle und Open-Source-KI-Technologien.
+ Bei allen Tätigkeiten leitet dich ein erfahrener Supervisor. Hürden, die auf dem Weg aufkommen, lösen wir sera -typisch im Team.
+ Dein Profil 
+ Als Student der Informatik oder eines IT-nahen Studiengangs (Bachelor oder Master) hast du die Möglichkeit, dein theoretisches Wissen praxisnah einzusetzen und zu erweitern. Am Standort Immenhausen unterstützt du sera bei spannenden Aufgaben rund um die Entwicklung und den Einsatz von KI im Unternehmenskontext.
+ Du musst kein KI-Experte sein. Grundlegende Programmierkenntnisse und Interesse an Softwareentwicklung solltest du jedoch mitbringen. Erste Berührungspunkte mit Python, APIs, Large Language Models oder Open-Source-Projekten sind von Vorteil.
+ Vor allem besitzt du die Motivation und Neugier, dich in dieses spannende Feld einzuarbeiten und gemeinsam mit uns eine echte KI-Lösung weiterzuentwickeln. Alles, was du über unsere Produkte, Systeme und Abläufe wissen musst, bekommst du in deiner Einarbeitung von unseren erfahrenen Kolleginnen und Kollegen gezeigt.
+ Ab sofort kannst du bei uns im Rahmen einer Werkstudententätigkeit mit 20 Stunden pro Woche Praxiserfahrung sammeln und gemeinsam mit uns Erfolge schaffen.
+ Die Position wird mit einem Stundenlohn von EUR 15,50 brutto für Bachelorstudenten und EUR 17,50 brutto für Masterstudenten vergütet.
+ WIR BIETEN DIR 
+ Eine abwechslungsreiche, verantwortungsvolle Position in einem dynamischen, zukunfts- und werteorientierten, internationalen Unternehmen
+ Technische Produkte, mit denen du Kunden begeistern und helfen kannst
+ Regelmäßige Teamevents – denn wer Erfolge schafft, sollte diese auch gemeinsam feier
+ Freiraum, um eigene Ideen zu entwickeln und umzusetzen
+ Wir freuen uns auf Deine aussagekräftige Bewerbung mit Angabe Deines frühestmöglichen Eintrittsdatums.

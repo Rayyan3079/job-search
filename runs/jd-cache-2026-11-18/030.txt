@@ -1,0 +1,36 @@
+URL: https://www.linkedin.com/jobs/view/4490893618
+TITLE: Werkstudent (m/w/d) Operations & Automation – No-Code, Low-Code, Prozesse
+COMPANY: ProviPanda GmbH
+LOC: Germany
+POSTED: 2026-11-18
+title: Werkstudent (m/w/d) Operations & Automation – No-Code, Low-Code, Prozesse
+company: ProviPanda GmbH
+posted: 6 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+Deine Aufgaben 
+ Automatisierung: Du baust Workflows mit Tools wie Make, Zapier oder n8n, die uns manuelle Arbeit abnehmen, und hältst sie am Laufen.
+ Technisches Onboarding & Offboarding: Du richtest Kundenaccounts, Zugänge und Integrationen ein und sorgst dafür, dass Neukunden reibungslos starten und Kündigungen sauber abgewickelt werden.
+ CRM & Datenflüsse: Du pflegst und erweiterst unser CRM, baust Pipelines, Felder und Automationen und verbindest es mit unseren anderen Tools.
+ WhatsApp & Kommunikation: Du automatisierst Nachrichtenstrecken für Kunden und Kandidat:innen, von Erinnerungen bis zu Follow-ups.
+ Rechnungen & Zahlungen: Du automatisierst Rechnungsstellung, Zahlungsabgleich und die Übergabe an die Buchhaltung.
+ Produkt-Schnittstelle: Du bist Ansprechpartner fürs Produktteam bei Integrationen, testest neue Features und schreibst Tickets, wenn etwas hakt.
+ Selbst anpacken: Wo noch nichts automatisiert ist, erledigst du es erst mal selbst und baust danach die Lösung, damit es nie wieder jemand von Hand machen muss.
+ Was du mitbringst 
+ Du studierst idealerweise Wirtschaftsinformatik, Informatik, Wirtschaftsingenieurwesen oder etwas Vergleichbares und bleibst noch mindestens 12 Monate eingeschrieben.
+ Du baust auch in deiner Freizeit ständig Dinge, egal ob Automationen, Bots, Smart Home oder Side Projects.
+ Du hast schon mit No-Code- oder Low-Code-Tools gearbeitet (z. B. Make, Zapier, n8n, Airtable, Notion). APIs, Webhooks und JSON schrecken dich nicht ab.
+ Code ist kein Muss. Wenn du aber ein bisschen JavaScript, Python oder SQL kannst, ist das ein starkes Plus.
+ Google Sheets ist für dich ein Werkzeug und kein Feind, auch mit Formeln und Verknüpfungen.
+ Du arbeitest strukturiert, denkst in Prozessen und hast keine Lust, dieselbe Aufgabe zweimal von Hand zu machen.
+ Du bist hands-on und packst auch an, wenn mal nichts zu automatisieren ist.
+ Was wir bieten 
+ Echte Verantwortung ab Tag 1: Deine Automationen laufen live und sparen dem Team jede Woche Stunden.
+ Freie Hand bei Tools und Lösungen statt starrer IT-Vorgaben
+ Direkter Draht zur Geschäftsführung und Einblick in alle operativen Bereiche eines wachsenden Startups
+ Flexible Arbeitszeiten, die zu deinem Studium passen
+ Überdurchschnittlicher Stundenlohn
+ Realistische Chance auf Übernahme nach dem Studium
+ Bewerbung 
+ Ein Lebenslauf reicht. Noch besser: Zeig uns eine Automation oder ein Projekt, das du gebaut hast, als Screenshot, Loom-Video oder Link. Wir freuen uns auf deine Bewerbung.

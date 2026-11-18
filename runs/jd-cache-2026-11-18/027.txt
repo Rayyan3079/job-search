@@ -1,0 +1,36 @@
+URL: https://www.linkedin.com/jobs/view/4484649308
+TITLE: Korean AI Training Specialist
+COMPANY: Rise Data Labs
+LOC: Germany
+POSTED: 2026-11-03
+title: Korean AI Training Specialist
+company: Rise Data Labs
+posted: 2 weeks ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fkorean-ai-training-specialist-at-rise-data-labs-4484649308&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+About Rise Data Labs
+ Rise Data Labs is a leading AI training and data annotation company that specializes in creating high-quality training data for artificial intelligence systems. We work with top AI companies and research institutions to improve machine learning models through expert human annotation and validation.
+Our team of domain specialists, subject matter experts, and quality assurance professionals work across various fields including economics, finance, psychology, computer science, business, mathematics, chemistry, physics, and engineering. We pride ourselves on our attention to detail, domain expertise, and commitment to delivering accurate, high-quality training data.
+At Rise Data Labs, we believe in the power of human expertise to enhance AI capabilities. We offer our team members the opportunity to work on cutting-edge AI projects while contributing their specialized knowledge to advance the field of artificial intelligence. Our flexible, remote-first approach allows experts from around the world to participate in shaping the future of AI.
+ Job Overview
+ As a Korean AI Training Specialist at Rise Data Labs, you will play a pivotal role in enhancing the performance of AI models through meticulous data annotation and validation. Your expertise in the Korean language will ensure that our AI systems are accurately trained and capable of understanding nuanced language patterns.
+Key Responsibilities
+ Train and improve AI models through precise data annotation and labeling.
+ Review and validate AI-generated content for accuracy and relevance.
+ Provide domain expertise in the Korean language to enhance AI model performance.
+ Collaborate on various AI training projects across different fields, ensuring high-quality data for machine learning applications.
+ Conduct thorough quality assurance checks to maintain the integrity of data used in AI training.
+ Required Skills And Qualifications
+ Fluent in Korean, with strong command of grammar and syntax.
+ Proven experience in data annotation or AI training roles.
+ Attention to detail and strong analytical skills.
+ Ability to work independently and manage multiple projects simultaneously.
+ Familiarity with machine learning concepts and AI technologies.
+ Preferred Qualifications
+ Experience in linguistics, translation, or a related field.
+ Knowledge of data management tools and software.
+ Strong communication skills in both Korean and English.
+ Previous experience in quality assurance or content review.
+ What We Offer
+At Rise Data Labs, we provide a dynamic work environment that promotes creativity and innovation. We offer competitive compensation, opportunities for professional development, and the chance to work with cutting-edge AI technologies. Join us in making a difference in the world of AI training!

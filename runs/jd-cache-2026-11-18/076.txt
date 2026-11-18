@@ -1,0 +1,48 @@
+URL: https://www.linkedin.com/jobs/view/4490455243
+TITLE: Data Scientist – AI & Machine Learning (m/f/diverse)
+COMPANY: Lufthansa Group Business Services
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-17
+title: Data Scientist – AI & Machine Learning (m/f/diverse)
+company: Lufthansa Group Business Services
+posted: 1 day ago
+applicants: 44 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fpl.linkedin.com%2Fjobs%2Fview%2Fdata-scientist-%25E2%2580%2593-ai-machine-learning-m-f-diverse-at-lufthansa-group-business-services-4490455243&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Join the Data Analytics & AI team at Lufthansa Group Business Services (LGBS) and help us build AI-driven solutions that support real business processes across Lufthansa Group.
+Interested? Apply and help us shape the future of AI at Lufthansa Group.
+ Tasks
+ We are looking for a Junior Data Scientist, Data Scientist or Senior Data Scientist who wants to combine data science with practical software engineering and work with modern AI technologies.
+Responsibilities:
+ Design, build and evaluate ML models and AI agent solutions for real business use cases
+ Work with LLMs, prompting, RAG and agent orchestration
+ Develop production-quality Python code using testing, Git and code review practices
+ Explore and work with data from SAP, Azure and Databricks
+ Use MLflow for experiment tracking and model lifecycle management
+ Work with technologies such as Azure AI Foundry and Airflow
+ Collaborate with platform engineers to bring AI solutions into production
+ Work directly with business stakeholders to understand problems, challenge assumptions and identify the right solution
+ Perform all other duties assigned or delegated by supervisors
+ Benefits
+ Flight privileges
+ Hybrid working possible
+ Flexible working hours
+ Relocation support
+ Lockers for cyclists / sportsmen
+ Employee events
+ Development programs / Training options
+ Health Plan
+ Free parking
+ Requirements
+ What we’re looking for:
+ 2+ years of experience for Junior/Data Scientist level or 5+ years for Senior level in applied data science or a related area.
+ Solid knowledge of statistics, machine learning and model evaluation.
+ Strong Python skills and an understanding of software engineering best practices.
+ Experience with LLM-based solutions such as prompting, RAG or AI agents.
+ Analytical mindset and ability to turn business problems into practical data-driven solutions.
+ Strong communication and collaboration skills in an international environment.
+ Nice to have:
+Experience with Azure AI Foundry, Databricks, SAP Datasphere/BW, MLflow, Airflow, Copilot Studio, Unity Catalog or MLOps.
+ CV/Resume required
+ Must possess permit to work in Poland
+ The salary offer for this position will be presented after the interview stage, at the time of extending an employment offer, allowing sufficient time to review and discuss the proposed terms of employment and compensation.

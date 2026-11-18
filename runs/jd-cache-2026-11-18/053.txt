@@ -1,0 +1,41 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-Produktdatenmanagement-m-w-d-Holzgerlingen-RUKO-GmbH-Praezisionswerkzeuge--14757107-inline.html
+TITLE: Werkstudent Produktdatenmanagement (m/w/d)
+COMPANY: RUKO GmbH Präzisionswerkzeuge
+LOC: Holzgerlingen
+POSTED: stepstone
+title: Werkstudent Produktdatenmanagement (m/w/d)
+company: RUKO GmbH Präzisionswerkzeuge
+posted: 2026-11-16T10:11:42.393Z
+location: Holzgerlingen | remote: 
+---
+Einleitung
+ Die RUKO GmbH Präzisionswerkzeuge ist ein dynamisches und innovatives Unternehmen, das auf die Her­stel­lung und den Ver­trieb von Bohr-, Senk- und Schneid­werk­zeugen für die Metall­zer­spanung spe­zia­li­siert ist. Mit ihrem Sitz in Deutschland und einer beeindruckenden Geschichte, die über 50 Jahre zurückreicht, hat sich RUKO zu einem führenden Anbieter in der Werkzeugindustrie entwickelt. RUKO zeichnet sich durch ständige Innovation, eigene Fertigung und erstklassige Qualität aus. Das moderne Fertigungszentrum mit starkem Fokus auf die Entwicklung garantiert exzellente Produkte und macht RUKO zur ersten Wahl für Profis mit Anspruch.
+ Ihre Aufgaben
+ Unterstützung bei der Ermittlung, Prüfung und Überarbeitung technischer Attribute sowie Attributswerte
+ Erfassung, Pflege und Strukturierung von Produkt- und Stammdaten
+ Durchführung von Datenimporten und -exporten im PIM-System Contentserv
+ Bearbeitung und Qualitätssicherung von Textattributen, beispielsweise Produktbeschreibungen, technische Texte und Merkmale
+ Prüfung automatisch generierter Übersetzungen auf Vollständigkeit und Konsistenz
+ Identifikation von Datenlücken, Dubletten und inkonsistenten Angaben sowie Unterstützung bei deren Korrektur
+ Abstimmung mit Fachbereichen bei Rückfragen zu technischen Daten und Produktinformationen 
+ Ihr Profil
+ Studium, vorzugsweise in einer technischen oder wirtschaftlichen Fachrichtung, beispielsweise Wirtschaftsinformatik, Digital Business Management, Medieninformatik   oder vergleichbar
+ Sorgfältige, strukturierte und zuverlässige Arbeitsweise mit einem ausgeprägten Qualitätsbewusstsein und Affinität zu technischen Produkten.
+ Grundkenntnisse in der Datenverarbeitung, insbesondere im Umgang mit strukturierten Daten und Tabellen
+ Sicherer Umgang mit Microsoft Excel oder vergleichbaren Tabellenkalkulationsprogrammen; Kenntnisse in CSV-Dateien sowie Datenimporten und -exporten sind von Vorteil
+ Idealerweise erste Kenntnisse in PIM-, DAM-, ERP- oder Content-Management-Systemen, vorzugsweise Contentserv oder vergleichbare PIM-Systeme
+ Technisches Verständnis sowie die Fähigkeit, technische Informationen nachvollziehbar und konsistent aufzubereiten
+ Gute Deutschkenntnisse in Wort und Schrift sowie Englischkenntnisse als Basis für die Prüfung und Bearbeitung internationaler Inhalte. 
+ Wir bieten
+ Eine interessante und abwechslungsreiche Tätigkeit in einem mittelständisch-familiären Umfeld mit Gestaltungsspielraum für eigene Ideen
+ Moderne Systeme und Standards einer international ausgerichteten Unternehmensgruppe
+ Schnelle Verantwortungsübernahme in einem innovativen und stetig wachsenden Unternehmen
+ Flexible Arbeitszeiten
+ Zuschuss zur Fitnesskarte und Gesundheitsaktionen
+ Bahnhaltestelle der Schönbuchbahn direkt vor der Haustür
+ Die Position erfordert ein hohes Maß an Präsenz vor Ort, aber auch die Möglichkeit zu einzelnen Tagen im Mobile Office 
+ Weitere Informationen
+ RUKO GmbH Präzisionswerkzeuge 
+ Robert-Bosch-Str. 7-11
+71088 Holzgerlingen
+ http://www.ruko.de

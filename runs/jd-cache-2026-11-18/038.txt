@@ -1,0 +1,37 @@
+URL: https://www.linkedin.com/jobs/view/4489758533
+TITLE: Business Analyst (m/w/d)
+COMPANY: SThree
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-11-16
+title: Business Analyst (m/w/d)
+company: SThree
+posted: 2 days ago
+applicants: 67 applicants
+apply_offsite: 
+---
+Business Analyst (m/w/d) SAP CO S/4 Transformation
+ Parameter
+ Start: zum nächstmöglichen Zeitpunkt
+ Auslastung: Vollzeit
+ Standort: remote (Unternehmensstandort: München), vsl. quartalsweise Termine vor Ort
+ Vertragsart: Arbeitnehmerüberlassung
+ Laufzeit: vsl. 18 Monate
+ Vorstellung des Arbeitsplatzes
+ Der Bereich Digitale Services stellt mit seinen dezidierten Teams den Betrieb und die Weiterentwicklung der kaufmännischen IT-Landschaft sicher. Diese Systemlandschaft umfasst neben dem Hauptbuchsystem und entsprechenden kaufmännischen SAP Modulen Reportingsysteme und -anwendungen von SAP und IBM.
+ Für die Umsetzung der aktuell laufenden S/4 Transformation suchen wir eine in S/4HANA-Projekten erfahrene Person mit fundierten Kenntnissen in SAP CO und SAP FI sowie im End-to-End-Prozess Record-to-Report (R2R).
+ Im Projekt übernehmen Sie operative Umsetzungsaufgaben der S/4HANA-Transformation mit Schwerpunkt Controlling und dessen Integration in das Finanzwesen.
+ Tätigkeitsprofil
+ Fachliche Klärungen im R2R-Prozess - Schwerpunkt CO: Anforderungen und offene Fragestellungen, z.B. zu internen Verrechnungen, Kostenstellenplanung sowie Umlagen, Zyklen und Läufen mit den Fachbereichen klären und in umsetzbare fachliche Vorgaben überführen.
+ Testing und Fehlerbehebung: Fachliche Testfälle und Testdaten erstellen, Funktions- und Integrationstests entlang des R2R-Prozesses durchführen sowie Fehler analysieren, deren Behebung abstimmen und Ergebnisse nachvollziehbar dokumentieren.
+ Migration und Datenbereinigung: Relevante FI-/CO-Stamm- und Bewegungsdaten fachlich prüfen und bereinigen, Datenzuordnungen abstimmen sowie Testmigrationen und die produktive Migration durch Datenvalidierung und Ergebnisabstimmung unterstützen.
+ Customizing und Fiori-Umsetzung: Fachliche Anforderungen in SAP CO und durch abgestimmtes Customizing umsetzen und die prozessgerechte Nutzung relevanter SAP-Fiori-Apps ausgestalten und validieren. Mitarbeit an der Ausgestaltung von Berechtigungen und Rollen.
+ Integrierte Umsetzung und Übergabe: Die Umsetzung der R2R-Anforderungen mit Fachbereichen, IT und weiteren Projektbeteiligten abstimmen, übergreifende Abhängigkeiten zwischen FI und CO klären sowie Lösungen und Fiori-Anwendungen für die Übergabe an die Anwender dokumentieren.
+ Anforderungsprofil
+ Fachliche Anforderungen
+ S/4HANA-Projekterfahrung und Umsetzungskompetenz: Umfassende Erfahrung in der Umsetzung von SAP-S/4HANA-Transformationen, insbesondere in Customizing, fachlichem Testing, Migration und der Nutzung von SAP Fiori.
+ Fundierte SAP-CO- und SAP-FI-Kenntnisse: Ausgeprägte fachliche und systemseitige Kompetenz mit Schwerpunkt SAP CO, insbesondere bei internen Verrechnungen, Kostenstellenplanung, Umlagen, Zyklen und Läufen, sowie sicheres Verständnis der Integration mit SAP FI.
+ End-to-End-Verständnis für R2R: Erfahrung im Record-to-Report-Prozess sowie die Fähigkeit, Auswirkungen von Anforderungen und Systemänderungen auf Buchungen, Verrechnungen, Abschlussprozesse und Datenqualität zu beurteilen.
+ Analytische und eigenverantwortliche Arbeitsweise: Komplexe fachliche Sachverhalte und Fehler strukturiert analysieren, tragfähige Lösungen entwickeln und vereinbarte Aufgaben sorgfältig, qualitätsbewusst und zuverlässig umsetzen.
+ Persönliche Anforderungen
+ Kommunikations- und Teamfähigkeit: Fachliche und technische Inhalte verständlich vermitteln, unterschiedliche Anforderungen konstruktiv zusammenführen und lösungsorientiert mit Fachbereichen, IT und Projektpartnern zusammenarbeiten.
+ SThree_Germany is acting as an Employment Business in relation to this vacancy.

@@ -1,0 +1,45 @@
+URL: https://www.linkedin.com/jobs/view/4490887148
+Company: Allego
+Title: Network Development Analyst (Werkstudent)
+Found: 2026-11-18
+
+URL: https://www.linkedin.com/jobs/view/4490887148
+TITLE: Network Development Analyst (Werkstudent m/w/d)
+COMPANY: Allego
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-11-18
+title: Network Development Analyst (Werkstudent m/w/d)
+company: Allego
+posted: 9 hours ago
+applicants: 43 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fnetwork-development-analyst-werkstudent-m-w-d-at-allego-4490887148&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Description
+ This is Allego
+ Allego provides reliable charging solutions to cities, companies, and consumers. We deliver charging facilities that can be used by all electric cars and every EV driver, providing a seamless charging experience. Our goal is to contribute to zero emission mobility and see to it that EV drivers can charge at the right location with the right solution. The EV market is growing and changing rapidly. The road is exciting and with confidence we stay ahead.
+ A Bit More About The Job
+ We are looking for a new team member to join our Network Planning team, which is located in Berlin (DE). The Network Planning team is responsible for determining the right location for the right type of charger to support investment decisions for infrastructure expansion and to reach our goal of clean mobility. In other words: as a Network Development Analyst you help us spot locations where people with EVs are, or potentially would like to charge, based on lots of data. You also support with development of our proprietary Network planning tools. With your analyses you play a pivot role in the investment decisions for expansion of our network.
+Of course you won’t do this alone. You will be a part of a dynamic international team. They will help you to get up to speed within Allego, but hopefully you can teach them a thing or two yourself, because a fresh pair of eyes always sees new things. The Network Planning team collaborates closely with related departments within Allego like Sales, Finance and Product Development. So you will operate in an international environment with colleagues from all over Europe.
+Since Allego is one of the main players in this new and growing industry, you will be able to shape the future of transport and build the charging infrastructure of the future!
+ Job Requirements
+ This is you
+ With your excellent analytical skills, you recognize patters in big loads of data, so you can pinpoint ideal locations for EV chargers. You enjoy working with numbers and are always looking for ways to use data to improve results. Your flexibility, optimism and “can-do” attitude fits our fast-paced environment. You are eager to learn, highly self-motivated, and excited to work in the highly innovative and international sector of sustainable mobility!
+As our ideal candidate:
+ Currently enrolled in an e-mobility, data science, business informatics, economics, or related Master study. 
+ You are proficient in Excel (advanced formulas, macros, modelling structures) and are comfortable working with large and complex datasets, including structuring, validating, and translating them into actionable insights. 
+ You have experience or interest in market and location analysis, including:
+ Assessing demand drivers (traffic flows, EV adoption, user behaviour)
+ Analyzing competitive landscape and network coverage
+ Translating macro market insights into clear conclusions
+ You have experience working with data using Python. 
+ You have affinity towards the EV and charging industry. 
+ You are able to independently manage multiple projects simultaneously. 
+ Your excellent communication skills enable you to connect and collaborate with multiple internal stakeholders. 
+ You are fluent in English, and as we are Pan-EU, you are not afraid of fellow-Europeans. 
+ Nice to have:
+ Financial modelling capabilities, including building and maintaining business cases (e.g. cash flow modelling, scenario analysis)
+ Experience with Geodata processing, BI tools and ML techniques. 
+ However, don’t worry, hiring is more than just ticking boxes for us!
+ This is our offer
+ Still with us and interested and curious what we offer? First and foremost, we give you: salary! Rent needs to be paid after all. But more interestingly is what we cannot express in money: we offer you a challenging job with responsibilities and real influence, in a fast-paced, goal-oriented environment. At Allego you choose your own challenges, we will make education and training available if necessary, to keep driving forward.
+Having read all of this and still thinking that this is a great opportunity (then you are probably right), just apply via the link. Hopefully we meet soon.

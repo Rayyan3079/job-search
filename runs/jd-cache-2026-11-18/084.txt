@@ -1,0 +1,38 @@
+URL: https://www.linkedin.com/jobs/view/4490418076
+TITLE: Microsoft BI & Analytics Specialist
+COMPANY: Méthode Srl
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-17
+title: Microsoft BI & Analytics Specialist
+company: Méthode Srl
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fit.linkedin.com%2Fjobs%2Fview%2Fmicrosoft-bi-analytics-specialist-at-m%25C3%25A9thode-srl-4490418076&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Lavorare in Méthode significa essere innovativi, propositivi e affrontare con entusiasmo ogni sfida. Cerchiamo persone che condividano la nostra visione, con la voglia di apprendere e la capacità di comunicare la propria esperienza, con l'entusiasmo per crescere insieme.
+Siamo specialisti di Business Intelligence e offriamo gli strumenti per trarre valore dalla Data Analysis. Forniamo alle aziende consulenza strategica all'innovazione e le migliori tecnologie disponibili sul mercato, attraverso team multi-disciplinari.
+Dal 2004, supportiamo le aziende di tutti i settori nell'utilizzare le informazioni in modo consapevole per guardare al futuro.
+ Cosa Aspettarsi In Méthode
+ Percorsi di crescita professionale, strutturati semestralmente, per uno sviluppo continuo delle competenze tecniche e trasversali.
+ Orario flessibile e smart working.
+ Ambiente di lavoro certificato dal 2018 Great Place to Work e dal 2024, per Parità di Genere UNI/PdR 125/2022, Best Workplaces for Gen Z. 2025 e Best Workplaces 2026. 
+ Buoni pasto per ogni giornata lavorata del mese, sia in sede che in smart working.
+ Retribuzione: RAL compresa tra 29.000 e 39.000 Euro (in base all'esperienza).
+ Premio variabile legato agli obiettivi (circa 12% della RAL), convertibile in flexible-benefits tramite piano welfare.
+ Chi Cerchiamo
+ Persone che abbiano avviato un percorso di carriera nel settore della BI e possiedano i seguenti requisiti:
+ Laurea, Master o Diploma Tecnico Superiore (ITS) in discipline tecnico/scientifiche.
+ Conoscenza del linguaggio SQL.
+ Esperienza lavorativa diretta degli strumenti di Analisi: Power BI Desktop, Power BI Service.
+ Esperienza lavorativa maturata nell'utilizzo di almeno uno dei seguenti strumenti di ETL: SSIS, Azure Data Factory.
+ Conoscenza di Microsoft SQL Server.
+ Consideriamo un plus la familiarità con i servizi di Data Management dell'ecosistema Azure: Synapse, Azure SQL Database
+ Completano Il Profilo, In Relazione Al Grado Di Seniority
+ Familiarità con i concetti di Data Visualization.
+ Capacità di comprendere problemi di business e proporre possibili soluzioni analitico/funzionali.
+ Capacità di interpretazione dei requisiti e di comunicazione dei risultati agli stakeholder.
+ Propensione al lavoro di gruppo.
+ Il Nostro Iter Di Selezione è Semplice e Diretto
+ primo contatto telefonico a scopo conoscitivo;
+ colloquio conoscitivo-attitudinale;
+ colloquio di approfondimento tecnico.

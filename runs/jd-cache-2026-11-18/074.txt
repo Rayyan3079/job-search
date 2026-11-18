@@ -1,0 +1,35 @@
+URL: https://www.linkedin.com/jobs/view/4490851875
+TITLE: Data Analyst
+COMPANY: Ambition
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-18
+title: Data Analyst
+company: Ambition
+posted: 13 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+Data Analyst | Kuala Lumpur | Hybrid Working | Permanent 
+ Our client is a leading global logistics and supply chain organisation that leverages data, analytics, and digital transformation to drive operational excellence across its international operations. They are seeking a Data Analyst & Business Intelligence Specialist to transform complex business data into meaningful insights, develop impactful reporting solutions, and drive automation initiatives that enhance efficiency, quality, and decision-making across the organisation.
+Why Apply?
+ This is an exciting opportunity to join a data-driven organisation where analytics and automation are at the heart of business transformation. You'll work with modern technologies including Power BI, Power Automate, Python, SAP, and Microsoft Fabric, while partnering with stakeholders across supply chain and logistics functions to deliver measurable business impact. The role offers strong exposure to digitalisation initiatives, process improvement projects, and advanced analytics in a global environment.
+ Here's what you'll be doing: 
+ Conduct exploratory, descriptive, and diagnostic data analysis to uncover trends, identify opportunities, and support business decision-making.
+ Translate analytical findings into actionable recommendations and develop KPI frameworks to measure operational performance.
+ Design, develop, and maintain Power BI dashboards, including data models, DAX measures, and Power Query transformations.
+ Manage reporting datasets, data pipelines, and governance processes to ensure data quality, accuracy, and compliance standards are maintained.
+ Identify automation opportunities and implement digital solutions using Power Automate, Power Apps, Python, VBA, RPA, and related technologies to improve operational efficiency. 
+ Collaborate with business stakeholders to gather requirements, develop reporting solutions, and drive continuous process improvement initiatives. 
+ Here's what you'll need: 
+ Bachelor's Degree in Data Analytics, Computer Science, Supply Chain, Logistics, Engineering, Statistics, or a related discipline.
+ 3-5 years of experience in Data Analytics, Business Intelligence, Supply Chain Analytics, or a related field. 
+ Advanced hands-on experience with Power BI, including data modelling, DAX, and Power Query. 
+ Strong SQL skills with experience managing and analysing large datasets.
+ Practical experience with Python (Pandas), process automation, and digital transformation initiatives. 
+ Knowledge of SAP supply chain data structures and Transportation Management (TM) would be highly advantageous.
+ Exposure to Microsoft Fabric, Azure Analytics services, Power Automate, and Power Apps would be a strong advantage.
+ Strong analytical thinking, problem-solving capabilities, and experience developing KPI-driven business insights. 
+ Excellent communication and stakeholder management skills, with the ability to collaborate effectively across multiple business functions.
+ A self-driven, adaptable, and innovative mindset with a passion for continuous improvement and operational excellence. 
+ Ready to turn data into business value and drive digital transformation at scale? Apply now.
+ JTK Number: JTKSM 995 | Company Registration Number: 201301019088 (1048918-T)

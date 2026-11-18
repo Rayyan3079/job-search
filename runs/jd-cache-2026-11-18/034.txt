@@ -1,0 +1,26 @@
+URL: https://www.linkedin.com/jobs/view/4491868750
+TITLE: Reporting Analyst
+COMPANY: Phare Consulting Group
+LOC: Frankfurt, Hesse, Germany
+POSTED: 2026-11-18
+title: Reporting Analyst
+company: Phare Consulting Group
+posted: 2 hours ago
+applicants: 31 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Freporting-analyst-at-phare-consulting-group-4491868750&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Several German clients have handed us years of sales and pricing data so we can test their next price changes. Before anyone can trust a model built on it, someone close to those clients has to clean it, check it and say what is missing.
+That's the Reporting Analyst we're hiring in Germany.
+Full-time, remote from anywhere in Germany. Our leadership is in Miami, six hours behind, so a few calls land in your afternoon.
+ Your first months
+ First month: You load a client's sales, price and customer data into our analysis database and list every gap and error you find.
+ By month three: You agree fixes with the client, build price, volume and margin analyses in SQL and Python, and put the results into Power BI dashboards the project team actually uses. Every source and every step is documented.
+ By month six: You present findings to the project team yourself.
+ What you bring A degree in economics, statistics, computer science or a related field
+ SQL
+ Excel, including pivot tables
+ Some experience analysing business data, from a job, an internship or a thesis
+ Also useful: Python or R, Power BI or Tableau, and pricing, sales or customer data.
+ What Phare offers
+ You get a permanent, full-time contract; work from home anywhere in Germany; 30 days of holiday plus public holidays; an employer contribution to a company pension (bAV); a yearly budget for courses, certifications and books; your laptop and home desk setup; and flexible hours around a few shared core hours.
+Phare Consulting Group is a consulting firm in Miami. Companies come to us before a big decision, such as a price change, a new market or an investment, and we check whether the numbers behind it hold up. Our team in Germany works with clients there.

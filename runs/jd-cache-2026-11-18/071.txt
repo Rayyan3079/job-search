@@ -1,0 +1,33 @@
+URL: https://www.linkedin.com/jobs/view/4491554558
+TITLE: Databricks Data Engineer
+COMPANY: Deloitte
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-17
+title: Databricks Data Engineer
+company: Deloitte
+posted: 1 day ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fdatabricks-data-engineer-at-deloitte-4491554558&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+As a Data Engineer II on the AI & Data team, you will be responsible for:
+ Design, build, and maintain data pipelines and data engineering solutions using Databricks, Apache Spark, Python, and Structured Query Language (SQL) 
+ Support the modernization of enterprise data platforms by implementing cloud-based ingestion, transformation, and storage patterns 
+ Develop and maintain batch and streaming data workflows that support reporting, analytics, and artificial intelligence use cases 
+ Apply data architecture, integration, and data modeling practices to improve data quality, scalability, and platform performance 
+ Collaborate with client and Deloitte teams to troubleshoot issues, implement enhancements, and support delivery of large-scale data transformation programs 
+ "Recruiting for this role ends on 31 - May - 2027 
+ Required: 
+ 3+ years of experience in data engineering, extract, transform, load (ETL) development, or data platform engineering 
+ 2+ years of experience building data pipelines in Databricks using Apache Spark, Python, and Structured Query Language (SQL) 
+ Experience implementing data models, data integration patterns, and cloud-based data processing workflows 
+ Experience working with at least one cloud platform: Amazon Web Services (AWS), Microsoft Azure, or Google Cloud Platform (GCP) 
+ Bachelor's degree in Computer Science, Engineering, Information Systems, Data Science, Mathematics, or Statistics 
+ Preferred: 
+ Experience with Delta Lake, Databricks Workflows, and Unity Catalog 
+ Experience using Git-based version control and continuous integration/continuous deployment pipelines 
+ Experience supporting batch and streaming data workloads 
+ Experience with data warehousing, lakehouse architecture, and performance optimization 
+ Experience supporting analytics or machine learning data pipelines 
+ Experience working in consulting or client service delivery environments 
+ The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. The disclosed range estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled. At Deloitte, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is $ 86700 to $ 170900.
+You may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance.

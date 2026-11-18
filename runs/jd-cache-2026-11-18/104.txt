@@ -1,0 +1,42 @@
+URL: https://www.linkedin.com/jobs/view/4491842339
+TITLE: Werkstudent (w/m/d) Business Intelligence & Data Analytics
+COMPANY: Siemens Energy
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-11-18
+title: Werkstudent (w/m/d) Business Intelligence & Data Analytics
+company: Siemens Energy
+posted: 8 hours ago
+applicants: 34 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-w-m-d-business-intelligence-data-analytics-at-siemens-energy-4491842339&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Standort: BLN P 26
+ Art der Anstellung: Fixed Term / Part-time
+ Momentaufnahme von deinem Tag 
+ Du unterstützt das Switch Gear Component Business dabei, relevante Geschäftsdaten strukturiert aufzubereiten, aussagekräftige KPIs zu entwickeln und diese in übersichtlichen Dashboards zu visualisieren. Damit schaffst du Transparenz über die Geschäftsentwicklung und stellst dem Management verlässliche Grundlagen für fundierte Entscheidungen zur Verfügung.
+Dabei arbeitest du eng mit den Fachbereichen zusammen und entwickelst Auswertungen, die sowohl im operativen Alltag als auch auf Managementebene genutzt werden. So erhältst du einen direkten Einblick in die Zusammenhänge eines internationalen Component Business und kannst eigene Ideen einbringen.
+ Wie du etwas bewirken kannst 
+ Aufbereitung und Qualitätssicherung von Daten aus SAP, Excel und weiteren Quellen sowie Entwicklung relevanter KPIs für das Component Business
+ Erstellung und Weiterentwicklung von Dashboards und Management-Reports, vorzugsweise mit Tableau, sowie anschauliche Darstellung von Trends, Abweichungen und Risiken
+ Analyse von Geschäftsentwicklungen und Aufbereitung wesentlicher Erkenntnisse als fundierte Entscheidungsgrundlage für das Management
+ Einbringung eigener Ideen zur Nutzung von KI und smarten Standards zur Vereinfachung und Effizienzsteigerung der Datenaufbereitung, Analyse und des Reportings
+ Was du mitbringst
+ Derzeitiges Studium im Bereich Wirtschaftsinformatik, Wirtschaftsingenieurwesen, Betriebswirtschaftslehre, Data Analytics oder eines vergleichbaren Studiengangs
+ Ausgeprägte Affinität zu Zahlen, Daten, KPIs und Geschäftsprozessen sowie analytisches Denkvermögen
+ Fähigkeit, komplexe Informationen verständlich und adressatengerecht aufzubereiten
+ Sehr gute Kenntnisse in Microsoft Excel; Kenntnisse in SAP sowie erste Erfahrungen mit Tableau oder vergleichbaren Business-Intelligence- und Visualisierungstools sind von Vorteil
+ Erste praktische Erfahrungen mit KI-Anwendungen, z. B. für Recherche, Datenaufbereitung, Analyse oder die Erstellung von Management-Unterlagen
+ Interesse an den Zusammenhängen eines internationalen Component Business sowie an operativen und strategischen Fragestellungen; selbstständige, strukturierte und sorgfältige Arbeitsweise sowie gute Deutsch- und Englischkenntnisse in Wort und Schrift
+ Über das Team 
+ Unser Geschäftsbereich Grid Technologies ermöglicht ein zuverlässiges, nachhaltiges und digitales Netz. Das Stromnetz bildet das Rückgrat der Energiewende. Siemens Energy bietet ein führendes Portfolio und Lösungen in den Bereichen HGÜ-Technik, Netzstabilisierung und Stromspeicherung, Hochspannungsschaltgeräte und Transformatoren sowie digitale Netztechnologie.
+ Wer ist Siemens Energy?
+ Wir bei Siemens Energy sind mehr als nur ein Energietechnologieunternehmen. Mit ~100,000 engagierten Mitarbeitern in mehr als 90 Ländern entwickeln wir die Energiesysteme der Zukunft und stellen sicher, dass der wachsende Energiebedarf der Weltgemeinschaft zuverlässig und nachhaltig gedeckt wird. Die in unseren Forschungsabteilungen und Fabriken entstehenden Technologien treiben die Energiewende voran und bilden die Grundlage für ein Sechstel der weltweiten Stromerzeugung.
+Unser globales Team setzt sich dafür ein, nachhaltige, zuverlässige und bezahlbare Energie Wirklichkeit werden zu lassen, indem es die Grenzen des Möglichen immer weiter hinausschiebt. Wir blicken zurück auf eine 150-jährige Tradition der Innovation, die unsere Suche nach Mitarbeitern bestärkt, die unseren Fokus auf Dekarbonisierung, neue Technologien und Energiewandel unterstützen.
+Erfahre mehr darüber, wie du bei Siemens Energy etwas bewegen kannst: https://www.siemens-energy.com/employeevideo
+ Unser Engagement für Vielfalt 
+ Gut, dass wir nicht alle gleich sind. Vielfalt macht uns leistungsstark. Wir leben von Inklusion und unsere gemeinsame kreative Energie wird von über 130 Nationalitäten gespeist. Siemens Energy setzt auf den Charakter - unabhängig von ethnischem Hintergrund, Geschlecht, Alter, Religion, Identität oder Behinderung. Wir versorgen die Gesellschaft mit Energie - die ganze Gesellschaft - und wir diskriminieren nicht aufgrund von Unterschieden, die zwischen uns bestehen.
+ Benefits
+ Spannende Einblicke in ein internationales Unternehmen 
+ Lege mit uns den Grundstein für deine Karriere 
+ Wir legen Wert auf Chancengleichheit und freuen uns über Bewerbungen von Menschen mit Behinderung.
+https://jobs.siemens-energy.com/jobs
+#RPO

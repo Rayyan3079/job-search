@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "JD Young Marketing Analytics & AI Internship",
+    "company": "JD.COM",
+    "city": "Berlin",
+    "greeting": "Dear JD Young team,",
+    "opening": "I am applying for the JD Young Marketing Analytics & AI Internship. Finding what drives the numbers and explaining it simply, and building AI tools that produce reports, is exactly where my analytics experience and my recent LLM project meet.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence. I worked as a Business Analyst at Tapal Tea, a consumer goods company, and in SAP analytics consulting.",
+    "achievements": [
+      {
+        "lead": "Analysis to recommendation",
+        "impact": "I translated business requirements into KPI reporting and analysed company purchase data to support procurement decisions"
+      },
+      {
+        "lead": "AI",
+        "impact": "I built DocuMind, an LLM application on the Claude API with an evaluation harness: 91% correct on a 22-question test set"
+      },
+      {
+        "lead": "Explaining clearly",
+        "impact": "I documented every dashboard I built and presented results to business users and a client"
+      }
+    ],
+    "problems_section": "I would analyse marketing performance across your EU businesses, turn findings into clear recommendations and help build and test AI tools for reporting. E-commerce marketing is new to me, and I do not read Chinese.",
+    "closing": "I am willing to relocate to Berlin and can start immediately. As a non-EU student I will agree the internship hours with you so they fit my permitted working days. I would be glad to discuss the role.",
+    "date": "2026-11-18",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-11-18/jd-com-jd-young-marketing-analytics-ai-intern/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

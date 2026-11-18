@@ -1,0 +1,65 @@
+URL: https://www.linkedin.com/jobs/view/4483140196
+TITLE: SAP Business Intelligence Consultant – BW, Datasphere & SAC
+COMPANY: Volkswagen Group Digital Solutions [Portugal]
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-14
+title: SAP Business Intelligence Consultant – BW, Datasphere & SAC
+company: Volkswagen Group Digital Solutions [Portugal]
+posted: 4 days ago
+applicants: 37 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fpt.linkedin.com%2Fjobs%2Fview%2Fsap-business-intelligence-consultant-%25E2%2580%2593-bw-datasphere-sac-at-volkswagen-group-digital-solutions-portugal-4483140196&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+You'll be focused in
+ Designing, developing, and maintaining Business Intelligence solutions within the SAP data and analytics landscape.
+ Understanding business requirements and translating them into reliable, scalable, and maintainable BI solutions.
+ Designing and developing data models, data flows, transformations, and routines in SAP BW.
+ Contributing to the evolution of the current SAP BW landscape toward modern cloud-based solutions, particularly SAP Datasphere.
+ Supporting the migration and redesign of existing BW applications, identifying suitable approaches for the future data platform.
+ Contributing to reporting, dashboarding, and planning solutions using SAP Analytics Cloud.
+ Ensuring data quality and supporting the analysis and resolution of issues across data integration and reporting processes.
+ Collaborating with business stakeholders, functional experts, and technical teams in an international environment.
+ Providing effort estimations and contributing to technical solution design and continuous improvement.
+ Taking ownership of assigned topics while actively building knowledge in emerging SAP data and analytics technologies.
+ In order to succeed, you'll need
+ Bachelor’s degree in computer science, software engineering, information systems, or comparable professional experience.
+ Around 3–6 years of professional experience working with SAP BW, preferably SAP BW on HANA or BW/4HANA.
+ Hands-on experience designing and implementing data models, data flows, transformations, and ETL processes in SAP BW.
+ Experience integrating SAP source systems, such as SAP ERP or SAP S/4HANA, into BI solutions.
+ The ability to understand business needs and translate them into appropriate technical solutions.
+ Working knowledge of ABAP, SQL, or other relevant technologies used in data modeling and transformation.
+ Strong analytical and problem-solving skills, with the ability to investigate issues independently.
+ Good communication skills and professional proficiency in English.
+ A proactive and collaborative mindset, with the willingness to take initiative, share knowledge, and continuously learn.
+ Genuine motivation to develop toward SAP Datasphere, SAP Analytics Cloud, and the future SAP data landscape.
+ Nice to have
+ Practical exposure to SAP Datasphere, even though initial implementations, migration activities, training, or proof-of-concept work.
+ Experience creating reports, dashboards, or planning solutions in SAP Analytics Cloud.
+ Familiarity with SAP BW/4HANA concepts and migration or modernization initiatives.
+ Exposure to SAP Integrated Planning, BPC, or other planning solutions.
+ Understanding of roles and authorizations within SAP BW, Datasphere, or SAC.
+ Experience working in cross-functional, agile, or international teams.
+ About The Product
+ This team works with Business intelligence tools and focus on offering the technical solution to gain information and insights from company data. They offer the data platform to provide the corporate planning as well as the financial closing of the MAN Truck & Bus companies in a consolidated reporting view.
+ Company Benefits
+ 1200€ to equip your home office
+ Flex allowance: 720€/year (60€ per month x12)
+ Performance bonus
+ Health insurance extendable to your household
+ Wellbeing program extendable to your household
+ Life insurance
+ Pension fund
+ Smartphone & phone data plan
+ Discounts on VW Group cars and special financing conditions
+ Cool Things You’ll Experience In Our Work Environment
+ Tailored remote-friendly setup for every team's vibe!
+ Flexible working hours
+ Multicultural reality with + 30 different nationalities
+ Pet friendly environment
+ Boost your career with our internal mobility program, focused on your personal & professional growth
+ Mix and mingle across teams for idea-sharing and bonding
+ About VW Group Digital Solutions [Portugal]
+ Technology-driven trends such as diverse mobility, electrification and connectivity will revolutionize the mobility industry in the next decade. Volkswagen Group, as world leader in the automotive industry, is setting the pace for this revolution.
+At Volkswagen Group Digital Solutions [Portugal] we are the go-to team to tackle complex systems and programming challenges. We make sure that our products flow smoothly in all stages of the digital value chain.
+ Our main areas of focus: vehicle software & operations, mobile online services, IT security, fleet management, sales & after sales, purchasing & logistics and product portfolio management.
+Ready to #ExploreNewRoads ? Join us! 🚗
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.

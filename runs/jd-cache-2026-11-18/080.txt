@@ -1,0 +1,30 @@
+URL: https://www.linkedin.com/jobs/view/4492009078
+TITLE: BI utvecklare - Stockholm
+COMPANY: Softronic
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-18
+title: BI utvecklare - Stockholm
+company: Softronic
+posted: 11 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fse.linkedin.com%2Fjobs%2Fview%2Fbi-utvecklare-stockholm-at-softronic-4492009078&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+På Softronic har vi en väletablerad verksamhet inom Business Intelligence där vi hjälper kunder i olika branscher att få ut mer värde av sin data. Nu vill vi stärka vår BI-kompetens i Stockholm och söker en erfaren BI-utvecklare som vill arbeta med modern teknik och spännande kunduppdrag.
+ Vad du kommer att göra hos oss
+ Utveckla moderna BI-lösningar med Microsoft Fabric och Power BI, ofta hela vägen från behov till färdig lösning.
+ Arbeta med datalager, datamodellering, rapporter och dashboards som skapar verkligt värde för våra kunder.
+ Förstå kundernas behov och omsätta dem till smarta och hållbara lösningar.
+ Samarbeta med andra Softronic-konsulter och bidra med din BI-kompetens i våra kunduppdrag.
+ Vi tror att du har
+ Minst 5 års erfarenhet inom Business Intelligence, gärna som konsult.
+ God förståelse för datamodellering, ETL-processer och BI-verktyg som Power BI och Microsoft Fabric.
+ Förmåga att förstå affärsbehov och trivs med att arbeta nära kunder.
+ Goda kunskaper i svenska, både i tal och skrift.
+ Extra meriterande: Erfarenhet av Microsofts dataplattformar med fokus på backend, exempelvis SQL och dataintegration.
+ Därför kommer du trivas hos oss
+ Hos Softronic får du arbeta med spännande kunduppdrag tillsammans med kompetenta kollegor i en miljö där samarbete och kunskapsdelning är en självklar del av vardagen. Vi erbjuder en trygg anställning, flexibilitet och schysta villkor, med goda möjligheter att utvecklas både tekniskt och personligt.
+ Om Softronic
+ Vi är ett ledande nordiskt IT-bolag som stärker våra kunders IT-förmåga i en allt mer komplex digital värld. Med bred och djup kompetens hjälper vi organisationer att skapa stabila, säkra och moderna lösningar från applikationsutveckling och integration till infrastruktur, drift och säkerhet.
+Vi tar ett helhetsansvar för IT och arbetar långsiktigt, både med våra kunder och med varandra. Hos oss är gemenskap, engagemang och utveckling en självklar del av vardagen. När vi trivs och växer tillsammans skapar vi också större värde.
+ Låter det här som något för dig?
+ Välkommen med din ansökan! Har du några frågor är du varmt välkommen att höra av dig till Anders Wannfors på anders.wannfors@softronic.se.

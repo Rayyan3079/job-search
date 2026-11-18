@@ -1,0 +1,31 @@
+URL: https://www.linkedin.com/jobs/view/4491148375
+TITLE: Data Analyst H/F
+COMPANY: SCC France
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-17
+title: Data Analyst H/F
+company: SCC France
+posted: 1 day ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Ffr.linkedin.com%2Fjobs%2Fview%2Fdata-analyst-h-f-at-scc-france-4491148375&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Data Analyst H/F 
+ 📍 Poste basé à Nanterre (92) 
+ Dans le cadre du renforcement de notre équipe Data Management, SCC France recherche un(e) Data Analyst pour accompagner le développement de nos activités de reporting et de valorisation de la donnée.
+ Vos missions : 
+ Concevoir et développer des reportings et tableaux de bord Power BI.
+ Analyser, structurer et valoriser les données pour répondre aux besoins métiers.
+ Participer aux projets de transformation Data autour de Microsoft Fabric.
+ Contribuer aux travaux de reporting liés à Dynamics 365.
+ Accompagner les équipes métiers dans l'exploitation et l'analyse des données.
+ Profil recherché : 
+ Expérience en analyse de données et développement de reportings Power BI.
+ Bonne connaissance de Microsoft Fabric et de l'écosystème Microsoft Data.
+ Une expérience de Dynamics 365, notamment dans un contexte de reporting Power BI connecté à Dynamics, est fortement appréciée.
+ Capacité à travailler de manière autonome dans un environnement dynamique et évolutif.
+ 💡 Pourquoi nous rejoindre ? 
+ Intégrer une société où chaque collaborateur a de réelles perspectives d’évolution
+ Travailler avec des partenaires technologiques incontournables
+ Bénéficier jusqu’à deux jours de télétravail
+ 👉 Prêt(e) à faire la différence ? Postulez et rejoignez l’aventure SCC ! 
+ 👉 SCC, acteur engagé pour la diversité et l'égalité des chances, ouvre ses postes à tous les profils.

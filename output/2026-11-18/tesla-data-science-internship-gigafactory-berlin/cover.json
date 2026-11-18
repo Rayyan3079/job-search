@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Data Science Internship (m/f/d) – Gigafactory Berlin-Brandenburg",
+    "company": "Tesla",
+    "city": "Grünheide",
+    "greeting": "Dear Tesla hiring team,",
+    "opening": "I am applying for the Data Science Internship at Gigafactory Berlin-Brandenburg. Turning manufacturing data into clear dashboards that help people decide what to fix is what I did for a manufacturer in my previous role, and I would love to do it at the scale of a Gigafactory.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence. I worked in SAP data and analytics at TallyMarks Consulting and as a Business Analyst at Tapal Tea.",
+    "achievements": [
+      {
+        "lead": "Production data",
+        "impact": "I rebuilt a manufacturer's dashboard end to end covering OEE, machine efficiency, downtime and yield"
+      },
+      {
+        "lead": "Dashboards and SQL",
+        "impact": "I built SAP Analytics Cloud dashboards on ABAP CDS view data models, including one that replaced a manual per-material check across thousands of materials, and validated data with SQL"
+      },
+      {
+        "lead": "Documented Python work",
+        "impact": "I built DocuMind (github.com/Rayyan3079/documind-rag), a Python LLM application with a Streamlit dashboard, 37 unit tests, CI and a README written for other users"
+      }
+    ],
+    "problems_section": "I would refine problem statements with engineers, query and analyse production data in Python and SQL, build dashboards and document everything clearly. I have not used Dash or Plotly in a project yet, but I build dashboards quickly, most recently in Streamlit.",
+    "closing": "I am willing to relocate to the Berlin area and can start immediately. As a non-EU student I will agree the internship length and hours with you so they fit my permitted working days. I would be glad to discuss the role.",
+    "date": "2026-11-18",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-11-18/tesla-data-science-internship-gigafactory-berlin/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

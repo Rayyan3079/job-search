@@ -1,0 +1,13 @@
+URL: https://www.xing.com/jobs/karlsruhe-werkstudent-data-science-157084703
+TITLE: Werkstudent*in Data Science (m/w/d)
+COMPANY: Klangio GmbH
+LOC: Karlsruhe
+POSTED: 2026-11-18
+title: Werkstudent*in Data Science (m/w/d)
+company: Klangio GmbH
+posted: 2026-11-18T02:38:12Z
+location: Karlsruhe | remote: 
+---
+Werkstudent*in Data Science (m/w/d)
+ Klangio GmbH sucht in Karlsruhe eine Werkstudentin oder einen Werkstudenten (m/w/d) für KI, Musiktranskription und mobiles Arbeiten.
+ www.klangio.com Wir suchen Dich, um unsere Vision zu verwirklichen: das Klangio-Universum – ein Universum verschiedenster Apps, um Musizierenden mehr Freiheit in ihrem kreativen Schaffen zu ermöglichen. Klangio und das Ziel Klangio will durch den Einsatz von künstlicher Intelligenz eines der größten Probleme von Musizierenden lösen: das Notenblatt des Lieblingsstücks zu erhalten. Dies ermöglichen die Musizierenden durch eine vollautomatische Transkription von Audiodateien in ein fertiges Notenblatt. Die Arbeitsstelle ist in Karlsruhe angesiedelt und wird als Werkstudent*in-Stelle ausgeschrieben. Mobiles Arbeiten ist möglich. Aufgaben Optimiere die Algorithmen im Transkriptionssystem von Klangio. Trainiere neue Architekturen und KI-Modelle zur Analyse von Musik. Programmiere Heuristiken zum Postprocessing der Ausgaben der neuronalen Netze. Arbeite mit den Experten von Klangio im MIR-Bereich zusammen und lerne, Musik aus einem neuen Blickwinkel zu betrachten. Profil und Anforderungen Du spielst mindestens ein Musikinstrument und hast eine Leidenschaft für Musik. Du hast bereits erste Erfahrung mit python und den Bibliotheken librosa, pretty_midi, music21 oder pytorch. Du interessierst Dich für die Mathematik hinter der Musik und für das Thema künstliche Intelligenz. Du arbeitest gewissenhaft und strukturiert im Team. Das bietet Klangio Flexible Arbeitszeiten und die Möglichkeit, mobil von überall aus zu arbeiten. Ein hoch motiviertes und kreatives Team. Freiraum für Deine Ideen. Die Möglichkeit, ab der ersten Stunde das Unternehmen, seine Kultur und seine Produkte aktiv mitzugestalten. Bewerbung und Kontakt Schreib Sebastian Murgul einfach eine E-Mail und erzähl ihm von Dir und Deinen Ideen für das Klangio-Universum. Die Bewerbungsadresse lautet sebastian.murgul@klangio.com. Kontakt für die Bewerbung: Sebastian Murgul +49 (0)721 / 2766 0421 sebastian.murgul@klangio.com Klangio GmbH Alter Schlachthof 39 76131 Karlsruhe Allgemeiner Kontakt: +49 (0) 721 276604 20 hello@klangio.com www.klangio.com

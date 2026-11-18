@@ -1,0 +1,41 @@
+URL: https://www.linkedin.com/jobs/view/4491836559
+TITLE: Werkstudent (w/m/d) - Digitalisierung
+COMPANY: Siemens Energy
+LOC: Nuremberg, Bavaria, Germany
+POSTED: 2026-11-18
+title: Werkstudent (w/m/d) - Digitalisierung
+company: Siemens Energy
+posted: 8 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-w-m-d-digitalisierung-at-siemens-energy-4491836559&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Standort: NBG K
+ Art der Anstellung: Fixed Term / Part-time
+ Wie du etwas bewirken kannst 
+ Datenaufbereitung und -integration mittels ETL-Tools (z. B. Alteryx, KNIME, ProcessMiner)
+ Modernisierung und Migration lokaler Datenbanken auf moderne Architekturplattformen
+ Datenanalyse sowie Datenvisualisierung
+ Entwicklung und Anbindung von SOAP- und REST-APIs
+ Unterstützung bei der Planung und Umsetzung von Digitalisierungsprojekten
+ Proaktive Mitgestaltung der Digitalisierung sowie Optimierung von Prozessen und Abläufen
+ Was du mitbringst
+ Derzeitiges Studium der Informatik, Wirtschaftsinformatik oder einer vergleichbaren Fachrichtung
+ IT-Affinität sowie Begeisterung für Digitalisierung und moderne Technologien
+ Kenntnisse in Datenbanken (SQL, Oracle, Access) sowie idealerweise in ETL-Tools (Alteryx, KNIME, ProcessMiner)
+ Erfahrung mit Programmierung (z. B. Python, C#, Java) sowie vorzugsweise mit SOAP- und REST-APIs
+ Grundkenntnisse in Business-Intelligence-Tools (z. B. Power BI, Fabric, Tableau) von Vorteil
+ Sehr gute Deutsch- und gute Englischkenntnisse, ausgeprägte Analysefähigkeit sowie teamorientierte und eigenständige Arbeitsweise 
+ Über das Team 
+ Unser Geschäftsbereich Grid Technologies ermöglicht ein zuverlässiges, nachhaltiges und digitales Netz. Das Stromnetz bildet das Rückgrat der Energiewende. Siemens Energy bietet ein führendes Portfolio und Lösungen in den Bereichen HGÜ-Technik, Netzstabilisierung und Stromspeicherung, Hochspannungsschaltgeräte und Transformatoren sowie digitale Netztechnologie.
+ Wer ist Siemens Energy?
+ Wir bei Siemens Energy sind mehr als nur ein Energietechnologieunternehmen. Mit ~100,000 engagierten Mitarbeitern in mehr als 90 Ländern entwickeln wir die Energiesysteme der Zukunft und stellen sicher, dass der wachsende Energiebedarf der Weltgemeinschaft zuverlässig und nachhaltig gedeckt wird. Die in unseren Forschungsabteilungen und Fabriken entstehenden Technologien treiben die Energiewende voran und bilden die Grundlage für ein Sechstel der weltweiten Stromerzeugung.
+Unser globales Team setzt sich dafür ein, nachhaltige, zuverlässige und bezahlbare Energie Wirklichkeit werden zu lassen, indem es die Grenzen des Möglichen immer weiter hinausschiebt. Wir blicken zurück auf eine 150-jährige Tradition der Innovation, die unsere Suche nach Mitarbeitern bestärkt, die unseren Fokus auf Dekarbonisierung, neue Technologien und Energiewandel unterstützen.
+Erfahre mehr darüber, wie du bei Siemens Energy etwas bewegen kannst: https://www.siemens-energy.com/employeevideo
+ Unser Engagement für Vielfalt 
+ Gut, dass wir nicht alle gleich sind. Vielfalt macht uns leistungsstark. Wir leben von Inklusion und unsere gemeinsame kreative Energie wird von über 130 Nationalitäten gespeist. Siemens Energy setzt auf den Charakter - unabhängig von ethnischem Hintergrund, Geschlecht, Alter, Religion, Identität oder Behinderung. Wir versorgen die Gesellschaft mit Energie - die ganze Gesellschaft - und wir diskriminieren nicht aufgrund von Unterschieden, die zwischen uns bestehen.
+ Benefits
+ Spannende Einblicke in ein internationales Unternehmen 
+ Lege mit uns den Grundstein für deine Karriere 
+ Wir legen Wert auf Chancengleichheit und freuen uns über Bewerbungen von Menschen mit Behinderung.
+https://jobs.siemens-energy.com/jobs
+#RPO

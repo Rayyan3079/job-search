@@ -1,0 +1,49 @@
+URL: https://www.arbeitsagentur.de/jobsuche/jobdetail/12745-984230596-S
+TITLE: Werkstudent - Testmethodenentwicklung für Materialprüfung (m/w/d) - REF100582R
+COMPANY: Continental AG
+LOC: Hannover
+POSTED: AA
+title: Werkstudent  - Testmethodenentwicklung für Materialprüfung (m/w/d) - REF100582R
+company: Continental AG
+posted: 2026-11-17
+location: Hannover | remote: 
+---
+Unternehmensbeschreibung
+Continental ist ein führender Reifenhersteller und Industriespezialist. Das 1871 gegründete Unternehmen erzielte 2025 einen Umsatz von 19,7 Milliarden Euro und beschäftigt aktuell rund 76.000 Mitarbeiterinnen und Mitarbeiter in 54 Ländern und Märkten.
+Reifenlösungen des Unternehmensbereichs Tires machen Mobilität sicherer und intelligenter. Sein Premium-Portfolio umfasst Pkw-, Lkw-, Bus-, Zweirad- und Spezialreifen sowie smarte Lösungen und Dienstleistungen für Flotten und den Reifenfachhandel. Continental steht seit mehr als 150 Jahren für innovative Spitzenleistungen und ist einer der größten Reifenhersteller weltweit. Im Geschäftsjahr 2025 erzielte der Unternehmensbereich Tires einen Umsatz von 13,8 Milliarden Euro. Weltweit beschäftigt Continental aktuell in ihrem Reifenbereich rund 53.000 Mitarbeiterinnen und Mitarbeiter und verfügt über 19 Produktions- und 16 Entwicklungsstandorte.
+Stellenbeschreibung
+Die Abteilung Test Method Development - Physikalischer Materialtest an unserem Standort Hannover-Stöcken ist verantwortlich für die Entwicklung neuer Prüfmethoden im Materialtestbereich. Dies beinhaltet neben der Planung, Durchführung und Optimierung neuer Prüfkonzepte ebenfalls die Entwicklung innovativer Lösungen für die Datenverarbeitung und das Reporting.
+In diesem spannenden Umfeld bieten wir zum nächstmöglichen Starttermin (Februar 2027) eine Werkstudententätigkeit (m/w/d) im Rahmen von 20 Wochenstunden an. Für die bestmögliche Lernerfahrung sollte eine Dauer mindestens 12 Monaten umfassen. Die Tätigkeit findet überwiegend vor Ort in Hannover-Stöcken statt, um eine enge Zusammenarbeit mit dem Team und einen optimalen Wissenstransfer zu ermöglichen. Nach Absprache ist auch mobiles Arbeiten möglich.
+Zu den Aufgaben gehören:
+Herstellung und Bearbeitung von Materialproben für verschiedene Prüfmethoden
+Unterstützung bei der Durchführung von physikalischen Materialtests
+Unterstützung bei der Programmierung von Lösungen für die Datenverarbeitung
+Auswertung großer Datensätze unter Einsatz von KI
+Qualifikationen
+Studierende (m/w/divers) der Studienrichtungen Wirtschaftsinformatik, Data Science, Maschinenbau, Physik, Chemie oder vergleichbare Studiengänge
+Kenntnisse in Themen wie Messtechnik oder Werkstoffkunde
+Erste Praxis in Labor-Testverfahren von Vorteil
+Gute Programmierkenntnisse in Python, C#, MATLAB oder vergleichbaren Tools
+Sicherer Umgang mit MS Excel zur Datenauswertung größerer Datenmengen, gerne auch schon Erfahrungen mit Power BI, Tableau, Mendix oder ähnlichen IT-Tools
+Sehr gute Deutschkenntnisse und gute Englischkenntnisse (in Wort und Schrift)
+Strukturierte Arbeitsweise
+Gute Problemlösefähigkeiten
+Bitte lade die folgenden Unterlagen hoch (erforderlich für die weitere Bearbeitung deiner Bewerbung):
+Beim Pflichtpraktikum die Studienordnung und die vorgeschriebene Dauer farbig hervorgehoben
+Aktuelle Immatrikulationsbescheinigung
+Aktueller Notenspiegel
+ggf. gültiger Aufenthaltstitel
+ggf. Arbeitsgenehmigung inkl. Zusatzblatt
+Die Bewerbungen von schwerbehinderten Menschen sind willkommen.
+Zusätzliche Informationen
+Dein Einsatz bei uns wird fair vergütet: Wir wissen, dass deine Arbeit wertvoll ist und möchten sicherstellen, dass du angemessen entlohnt wirst.
+Flexibilität, die zu deinem Leben passt: Wir bieten dir flexible Arbeitszeiten mit hybriden Arbeitsmodellen, bei denen du die Möglichkeit hast, gelegentlich auch von zu Hause zu arbeiten, denn wir wissen, wie wichtig das Zusammenspiel von Privat- und Berufsleben ist.
+Wissensvermittlung mit Substanz: Du wirst von unseren erfahrenen Fachkräften qualifiziert betreut, um dein fachliches Wissen und deine praktischen Fähigkeiten zu verbessern.
+Sparen leicht gemacht: Profitiere von einer Vielzahl an Rabatten und Ermäßigungen über unsere Corporate Benefits für verschiedene Marken, von Mode bis hin zu Freizeitaktivitäten oder Technikprodukten.
+Fit & gesund bleiben: Wir unterstützen dich mit Angeboten rund um Gesundheit und Wohlbefinden, wie zum Beispiel ausgewählte Sport- und Vorsorgeprogramme.
+Mehr Geschmack, weniger Kosten: In der Kantine erhältst du als Studierende\*r einen zusätzlichen Rabatt.
+Ein Arbeitsumfeld, das Vielfalt lebt: Freuen Sie sich auf ein diverses und internationales Umfeld bei der Zusammenarbeit mit unseren weltweiten Standorten.
+Weitere Informationen zu den Mitarbeiter-Benefits, die Du bei Continental erwartest, findest Du hier. Wenn Du mehr über unseren Standort erfahren willst, besuch gerne unsere Standortseite: Continental / Hannover Stöcken / Hannover Unternehmenszentrale
+Vielfalt, Inklusion und Zugehörigkeit sind uns wichtig und machen uns als Unternehmen stark und erfolgreich. Wir bieten allen Chancengleichheit – unabhängig von Alter, Geschlecht, Nationalität, kultureller Herkunft, Behinderung, Religion, Weltanschauung oder sexueller Orientierung.
+Wenn dies perfekt Dir passt und Du Dich mit unseren Grundwerten (Vertrauen, Verbundenheit, Freiheit und Gewinnermentalität) identifizierst, freuen wir uns auf Deine Bewerbung.
+Sie wollen mit uns Gas geben? Starten Sie durch und bewerben Sie sich jetzt!

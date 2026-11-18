@@ -1,0 +1,38 @@
+URL: https://www.linkedin.com/jobs/view/4491502241
+TITLE: Backend Utvecklare PL/SQL
+COMPANY: AB Trav och Galopp
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-16
+title: Backend Utvecklare PL/SQL
+company: AB Trav och Galopp
+posted: 2 days ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fse.linkedin.com%2Fjobs%2Fview%2Fbackend-utvecklare-pl-sql-at-ab-trav-och-galopp-4491502241&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Vill du arbeta med ett av systemen som ligger allra närmast kärnan i ATG:s hästaffär? Här får du en central roll inom databasutveckling där du arbetar hands-on med Oracle och PL/SQL i en komplex och verksamhetskritisk miljö, samtidigt som du får vara med på en långsiktig resa mot en modernare teknisk lösning. 
+ I rollen får du: 
+ Utveckla och vidareutveckla ett centralt system för information om hästar, lopp och tävlingar
+ Arbeta hands-on med Oracle och PL/SQL i en stor och verksamhetskritisk miljö
+ Arbeta med integrationer och informationsflöden mellan flera interna system och externa partners
+ Ta ansvar för kvalitet, problemlösning och stabilitet i lösningar med många beroenden
+ Vara med och påverka en långsiktig moderniseringsresa och på sikt bredda dig mot bland annat Java och Kotlin
+ Info-systemet är en central del av ATG:s hästspel och hanterar information som är avgörande för både våra kunder och tävlingsverksamheten, från hästar, kuskar och oddsuppdateringar till tävlingskalender, lopp, deltagare och strykningar. Informationen kommer från flera olika källor och används vidare av både interna system och externa partners.
+ Du blir en del av ett team med djup kompetens inom både teknik och hästaffären, där du får möjlighet att lära känna en unik verksamhetsdomän och samtidigt ta stort eget ansvar. Systemmiljön står inför en långsiktig moderniseringsresa, vilket ger dig möjlighet att både bidra med din erfarenhet och vara med och utveckla lösningarna och tekniken framåt.
+ Är det här du? 
+ Vi tror att du trivs i komplexa tekniska miljöer där kvalitet och noggrannhet verkligen spelar roll. Du är trygg inom databasutveckling och van att ta ansvar för dina lösningar, samtidigt som du gärna samarbetar, delar kunskap och ber om hjälp när det behövs. Du är också nyfiken och tycker om att förstå verksamheten bakom systemen du utvecklar.
+ Vi ser att du har:
+ Flera års erfarenhet av utveckling i Oracle och PL/SQL
+ Erfarenhet av stora och verksamhetskritiska databassystem
+ Erfarenhet av systemintegrationer och/eller API-utveckling
+ Goda kunskaper i Git
+ God förmåga att samarbeta och kommunicera i ett team
+ Meriterande:
+ Erfarenhet av Oracle APEX
+ Erfarenhet av backendutveckling i Java eller Kotlin
+ Intresse för eller erfarenhet av AI i utvecklingsarbete
+ Intresse för trav, hästsport eller nyfikenhet på domänen
+ We are the game 
+ I mer än 50 år har vi på ATG levererat spänning och underhållning till svenska folket. Vi drivs av att trygga den svenska hästnäringen och att fortsatt vara ett ansvarsfullt spelbolag i framkant. Vår vision är att leverera världens bästa spelupplevelse. Vi gillar att samarbeta och uppmuntrar varandra att tänka och testa nytt. Självledarskap och kompetensutveckling är viktiga delar för oss. Vi bryr oss om varandra och våra kunder och vi vill så klart också att alla tävlingshästar ska må bra. Hela vårt överskott går till hästnäringen – något som både känns och gör gott.
+ Join the game! 
+ Varmt välkommen med din ansökan via vår rekryteringsportal antingen med ditt cv eller din LinkedIn-profil – det som är enklast och smidigast för dig. Läs gärna mer om oss på vår karriärsida och tveka inte att höra av dig om du har frågor om tjänsten.
+ Vi tillämpar 6 månaders provanställning och kommer att göra en bakgrundskontroll för denna roll. Tjänsten är på heltid och utgår från vårt kontor vid Solvalla, alldeles intill travbanan. Vi har ett flexibelt arbetssätt vilket innebär att du har möjlighet att kombinera distansarbete med arbete från kontoret. Var med och bygg världens bästa spelupplevelse tillsammans med oss!

@@ -1,0 +1,39 @@
+URL: https://www.linkedin.com/jobs/view/4491301491
+TITLE: Werkstudent Python & KI (LLMs / Machine Learning) (w/m/d)
+COMPANY: HUK-COBURG
+LOC: Coburg, Bavaria, Germany
+POSTED: 2026-11-18
+title: Werkstudent Python & KI (LLMs / Machine Learning) (w/m/d)
+company: HUK-COBURG
+posted: 5 hours ago
+applicants: 30 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-python-ki-llms-machine-learning-w-m-d-at-huk-coburg-4491301491&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Im Data Analytics Team der HUK-COBURG transformieren wir Daten in echte Mehrwerte für über 13 Mio. Kund:innen. Als Deutschlands führende Kfz-Versicherung sind wir ein traditionsreiches und stabiles Unternehmen, welches zielgerichtet in Innovation und seine datengetriebene Zukunft investiert. Unsere agilen Data Analytics Teams setzen modernste Machine Learning und KI-Methoden ein, um Prozesse zu optimieren, faire Preise zu berechnen, Schäden digital und intelligent zu steuern und um neue, innovative Versicherungsprodukte zu entwickeln.
+ Werde Teil unserer großen Data-Community, entwickle gemeinsam mit vielen weiteren, erfahrenen Datenspezialist:innen praxisnahe Machine Learning-Anwendungen und gestalte so den durch Daten, Machine Learning und KI getriebenen Wandel bei einem der größten Versicherer Deutschlands mit.
+ Darauf kannst du dich freuen: 
+ Unterstützung des Data Analytics-Teams im Bereich Python-Entwicklung und Retrieval-Augmented Generation (RAG)
+ Mitwirkung in spannenden Projekten an der Schnittstelle von Softwareentwicklung und Künstlicher Intelligenz
+ Unterstützung bei der Implementierung von Features sowie bei der Evaluation bestehender Systeme und Automatisierung von Prozessen
+ Dein Profil: 
+ Laufendes Studium in Data Science, Machine Learning, Mathematik, Physik, VWL, Informatik oder einem verwandten Fachgebiet
+ Sichere Python-Kenntnisse
+ Verständnis für LLMs und RAG-Systeme vorteilhaft
+ Eigeninitiative und Lernbereitschaft
+ Strukturierte Arbeitsweise sowie Kommunikations- und Teamfähigkeit
+ Hybrides Arbeitsmodell: Bereitschaft zur Präsenz in Coburg
+ Gute Deutschkenntnisse (C1-Niveau)
+ Unsere Benefits: 
+ Arbeitgeberzuschüsse: Dein Plus zum Gehalt – 13,3 Monatsgehälter, leistungsorientierte Vergütung, Mobilitätszuschüsse, vermögenswirksame Leistungen
+ Weiterentwicklung: Erreiche deine Ziele – Qualifizierungsmaßnahmen, Zuschüsse zu Selbstbildungsmaßnahmen, eigenes Schulungszentrum
+ Flexibilität: Gute Arbeit und ein gutes Leben gehen Hand in Hand - Möglichkeit bis zur Hälfte der monatlichen Arbeitszeit von Zuhause oder unterwegs zu arbeiten
+ Work-Life-Balance: Arbeite dann, wann es für dich am besten ist – flexible Arbeitszeitmodelle in Gleitzeit, 31,5 Tage Urlaubstage, Weihnachten und Silvester frei
+ Beruf & Familie: Damit du dich bei uns wohlfühlst, schaffen wir die passenden Rahmenbedingungen - Unterstützung bei Kinder- und Ferienbetreuung sowie Angehörigenpflege und Teilzeit- Führungspositionen
+ Gesundheit & Wohlbefinden: Geht´s dir gut, geht`s uns gut – Angebote zu Bewegung, Ernährung und mentaler Gesundheit, Bezuschussung Mitgliedschaft in Fitnessstudios und von Präventionskursen
+ Altersvorsorge: Heute schon an morgen denken – betriebliche Altersvorsorge
+ Mitarbeitendenberatung: Manchmal ist es einfach gut, jemanden von außen mitdenken zu lassen - Mitarbeitendenberatung zur Unterstützung in sämtlichen Lebensphasen
+ Dienstfahrrad: Radeln statt rollen - Bezuschussung deines Dienstfahrrads
+ Wir freuen uns auf Deine Bewerbung! 
+ Mehr Informationen zu unserem Data Analytics Programm findest Du hier: https://www.huk.de/karriere/einstieg/jobwelten/mathe-data/data-analytics.html
+ Informationen zur Verarbeitung von Bewerber:innen-Daten:
+ https://static.c.huk.de/content/dam/hukde/dokumente/datenschutz/informationen-verarbeitung-bewerberdaten-hc.pdf

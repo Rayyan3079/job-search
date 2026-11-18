@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Network Development Analyst (Werkstudent m/w/d)",
+    "company": "Allego",
+    "city": "Berlin",
+    "greeting": "Dear Allego Network Planning team,",
+    "opening": "I am applying for the working student position as Network Development Analyst. Finding patterns in large data sets to support investment decisions is the kind of analysis I enjoy, and helping decide where EV chargers should go is a goal I care about.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence. I worked in SAP data and analytics at TallyMarks Consulting and as a Business Analyst at Tapal Tea.",
+    "achievements": [
+      {
+        "lead": "Data analysis",
+        "impact": "I analyse data in Python and SQL, and in industry analysed purchase and production data to support decisions"
+      },
+      {
+        "lead": "Production data",
+        "impact": "I rebuilt a manufacturer's dashboard end to end covering OEE, machine efficiency, downtime and yield"
+      },
+      {
+        "lead": "Documented Python work",
+        "impact": "I built DocuMind (github.com/Rayyan3079/documind-rag), a Python LLM application with a Streamlit dashboard, 37 unit tests, CI and a README written for other users"
+      }
+    ],
+    "problems_section": "I would analyse location and charging data, help find promising sites and support the development of your network planning tool. Geospatial analysis is new to me, and I would learn it quickly with your team.",
+    "closing": "I am willing to relocate to Berlin and can work up to 20 hours per week, starting immediately. I would be glad to discuss the role.",
+    "date": "2026-11-18",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-11-18/allego-werkstudent-network-development-analyst/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

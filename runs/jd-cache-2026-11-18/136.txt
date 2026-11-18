@@ -1,0 +1,32 @@
+URL: https://www.linkedin.com/jobs/view/4492089251
+TITLE: Werkstudent:in Data Engineering & Claims Analytics
+COMPANY: HDI Group
+LOC: Hannover, Lower Saxony, Germany
+POSTED: 2026-11-18
+title: Werkstudent:in Data Engineering & Claims Analytics
+company: HDI Group
+posted: 2 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-in-data-engineering-claims-analytics-at-hdi-group-4492089251&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Deine Aufgaben
+ Aufbereitung, Modellierung und Analyse von Claims-Daten
+ Mitwirkung bei der Entwicklung von Datenpipelines und Datenmodellen
+ Erstellung und Optimierung von SQL-Abfragen für Analytics und Reporting
+ Arbeit mit Python, dbt, Git und Cloud-Datenplattformen
+ Unterstützung bei Datenqualität, Dokumentation und Data Products
+ Dein Profil
+ Laufendes Studium der (Wirtschafts-)Informatik, Data Science oder eines vergleichbaren Studiengangs
+ Erste Kenntnisse in SQL, idealerweise auch Python
+ Interesse an Data Engineering, Cloud-Technologien und Datenplattformen
+ Analytische, strukturierte und lösungsorientierte Arbeitsweise
+ Freude an der Zusammenarbeit im Team
+ Sehr gute Deutsch- und Englischkenntnisse
+ Flexible Arbeitszeiten
+ Gleitzeitregelungen und flexible Arbeitszeitmodelle ermöglichen eine perfekte Work-Life-Balance – ganz wie es zu Dir passt.
+ Gesundheitsmanagement
+ Mit uns bleibst Du gesund – dank Präventionsmaßnahmen, einem breiten Sportangebot und verschiedenen Kooperationen.
+ Mobiles Arbeiten
+ Ob von zu Hause oder unterwegs – unser mobiles Arbeitsmodell (bis zu 60 % mobil) bietet Dir mehr Freiheit und Selbstständigkeit.
+ Weiterbildung
+ Wir stillen Deinen Wissensdurst – zum Beispiel mit Fortbildungen, fachspezifischen Seminaren oder einem berufsbegleitenden Studium.

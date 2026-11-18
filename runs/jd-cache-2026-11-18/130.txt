@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4491135529
+TITLE: Werkstudent*in VIT-IMC / Computer Vision / 3D-semantische Analyse / Deep Learning
+COMPANY: Fraunhofer Heinrich Hertz Institute HHI
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-11-17
+title: Werkstudent*in VIT-IMC / Computer Vision / 3D-semantische Analyse / Deep Learning
+company: Fraunhofer Heinrich Hertz Institute HHI
+posted: 1 day ago
+applicants: 48 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-in-vit-imc-computer-vision-3d-semantische-analyse-deep-learning-at-fraunhofer-heinrich-hertz-institute-hhi-4491135529&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Zukunft. Gemeinsam. Entwickeln.
+ Innovationen für die digitale Gesellschaft von morgen stehen im Mittelpunkt der Forschungsarbeit des Fraunhofer-Instituts für Nachrichtentechnik, HHI. Dabei sind wir weltweit führend in der Erforschung von mobilen und optischen Kommunikationsnetzen und -systemen sowie der Kodierung von Videosignalen und Datenverarbeitung. Wir suchen studentische Mitarbeiter für die Forschungsgruppe „Immersive Media & Communication in der Abteilung „Vision & Imaging Technologies (VIT)“. In unseren nationalen und europäischen Forschungsprojekten entwickeln wir neue Computer Vision Verfahren zur 3D-Videoverarbeitung, 3D-semantische Szenenanalyse und 3D Rekonstruktion für digitale und immersive Medien sowie Medizintechnik und industrielle Anwendungen. Werden Sie Teil unseres Teams und gehen Sie mit uns auf Forschungs- und Innovationsreise!
+ Was Sie bei uns tun
+ Forschung und Entwicklung innovativer Algorithmen und Methoden im Bereich 3D-Datenverarbeitung und Computer Vision mit Anwendung in AR/VR und Robotik
+ Erforschung neuer Deep-Learning-Methoden zur 3D Rekonstruktion und semantischen Analyse realer Szenen
+ Beitrag zu nationalen und europäischen Forschungsprojekten
+ Was Sie mitbringen
+ Überdurchschnittliche akademische Qualifikation (z. B. als Masterstudent*in) in Computer Vision, Computergrafik, Informatik oder einem verwandten Bereich 
+ Kreativität und Interesse an neuen Technologien und wissenschaftlicher Arbeit 
+ Teamfähigkeit in Kombination mit analytischen Fähigkeiten und dem Willen, in einem interdisziplinären Arbeitsumfeld Verantwortung zu übernehmen 
+ Sehr gute Programmierkenntnisse (Python, C++, CUDA, PyTorch) 
+ Gute Kenntnisse in den Bereichen Computer Vision und Deep Learning sind von Vorteil 
+ Ausgeprägte Englischkenntnisse in Wort und Schrift 
+ Präsenz in Berlin, da eine Tätigkeit vor Ort erwartet wird 
+ Was Sie erwarten können
+ Extrem interessante Herausforderungen in einem wissenschaftlich und zugleich unternehmerisch geprägten Umfeld 
+ Attraktives Gehalt 
+ Moderner und gut ausgestatteter Arbeitsplatz in zentraler Lage 
+ Gute und sehr kooperative Arbeitsatmosphäre in einem internationalen Team 
+ Unterstützung beim Anfertigen von Master- oder Bachelorarbeiten 
+ Flexible Arbeitszeiten 
+ Die Stelle ist zunächst 1 Jahr befristet. Eine Verlängerung ist explizit erwünscht.
+Wir wertschätzen und fördern die Vielfalt der Kompetenzen unserer Mitarbeitenden und begrüßen daher alle Bewerbungen – unabhängig von Alter, Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion, Weltanschauung, Behinderung sowie sexueller Orientierung und Identität. Schwerbehinderte Menschen werden bei gleicher Eignung bevorzugt eingestellt.
+Die monatliche Arbeitszeit beträgt 80 Stunden. Die Stelle kann auch in Teilzeit besetzt werden. Anstellung, Vergütung und Sozialleistungen basieren auf dem Tarifvertrag für den öffentlichen Dienst (TVöD). Zusätzlich kann Fraunhofer leistungs- und erfolgsabhängige variable Vergütungsbestandteile gewähren.
+Mit ihrer Fokussierung auf zukunftsrelevante Schlüsseltechnologien sowie auf die Verwertung der Ergebnisse in Wirtschaft und Industrie spielt die Fraunhofer-Gesellschaft eine zentrale Rolle im Innovationsprozess. Als Wegweiser und Impulsgeber für innovative Entwicklungen und wissenschaftliche Exzellenz wirkt sie mit an der Gestaltung unserer Gesellschaft und unserer Zukunft.
+ Haben wir Ihr Interesse geweckt? Dann bewerben Sie sich jetzt online mit Ihren aussagekräftigen Bewerbungsunterlagen. Wir freuen uns darauf, Sie kennenzulernen!
+ Herr Dr.-Ing. Oliver Schreer
+Tel.: 030 31002-620
+E-Mail: oliver.schreer@hhi.fraunhofer.de
+Fraunhofer-Institut für Nachrichtentechnik, Heinrich-Hertz-Institut HHI
+www.hhi.fraunhofer.de
+Kennziffer: 86065 Bewerbungsfrist: 15.12.2026

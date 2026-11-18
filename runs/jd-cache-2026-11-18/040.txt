@@ -1,0 +1,38 @@
+URL: https://www.linkedin.com/jobs/view/4492086556
+TITLE: Venture Development | AI Engineering - Internship
+COMPANY: Enpal
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-11-18
+title: Venture Development | AI Engineering - Internship
+company: Enpal
+posted: 1 hour ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fventure-development-ai-engineering-internship-at-enpal-4492086556&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Our goal is to have a solar system on every roof, a storage unit in every house, and an electric car in every garage. Enpal makes this possible with an integrated total solution for decentralized energy—from solar systems and battery storage to wall boxes, smart meters, and heat pumps. At the heart of it all is our AI-powered platform Enpal.One+, which intelligently connects thousands of systems and efficiently optimizes electricity procurement and feed-in on the energy market.
+Omniwatt Energy is Enpal’s electricity division, making clean energy accessible to every household—from Germany’s most affordable electricity rates to smart energy solutions that optimally integrate generation, storage, and consumption.
+With ambitious growth targets and a rapidly expanding customer base, we are building a team that is actively shaping the German energy market. In doing so, we combine startup agility with the scale of a market leader—across all areas, from operations and technology to finance, customer support, and product development.
+ What you’ll do
+ You build AI solutions that streamline our customer ticket inflow, from automated resolution to smart routing and agent assistance
+ You work with Customer Service and other teams to identify high-impact use cases and translate them into working solutions
+ You take ownership end-to-end, from scoping the business case and aligning with stakeholders to hands-on implementation and measuring impact
+ You use a modern agentic stack to iterate rapidly, going from first prototype to deployment in a few days
+ What you’ll bring
+ You are enrolled in or have completed a technical university program such as engineering, mathematics, computer science, or related
+ You think in business impact and want ownership of the full problem, not just the technical part
+ You have hands-on experience building and evaluating agentic tools; experience with classical ML and statistical modeling is also valuable
+ You understand the fundamentals behind modern AI (e.g. attention mechanism) and can weigh technical trade-offs
+ You think in systems and understand how components like APIs and databases fit together; you can reason about code, perfect syntax is not required
+ You communicate clearly with non-technical colleagues and enjoy working in a business-driven team
+ Are you interested even if you don't meet all the requirements? Apply anyway! We look forward to discovering your potential—regardless of whether your experience meets every single requirement. ☀️
+ What we offer
+ Work at Germany's first green unicorn - Play an active role in shaping the solar energy transition.
+ The sun shines all over the world - At Enpal, you'll work with a highly motivated, diverse team of over 65 nationalities.
+ The ideal setup for your focus - We are convinced that excellent results are achieved when the conditions are right. That's why we rely on a hybrid working concept that gives you the freedom to always work in the way that best suits your tasks.
+ Grown-up business & startup spirit - In our modern office in Berlin-Friedrichshain, you'll find everything your heart desires, from height-adjustable desks and table tennis to stocked beverage fridges and barista coffee.
+ Your kick-start at Enpal - Onboarding day with a welcome bag, buddy program, and a team that really supports you.
+ Stay up to date & help shape the future - Transparent all-hands meetings, short decision-making processes, and an open feedback culture - without mistakes, there is no progress.
+ The energy transition can only be achieved together - At Enpal, you can expect legendary team spirit and unforgettable team events.
+ Make your home smart – Sustainability starts at your doorstep. As part of our team, you’ll benefit from a permanent 25% discount on the entire Bosch Smart Home product range – for an even more efficient and connected home.
+ Your extra boost - 20 vacation days + one additional day off on Christmas Eve and New Year's Eve, discounted membership at Wellhub, and corporate benefits. Everything you need to help you achieve a good work-life balance.
+ At Enpal, we are proud of the diversity of our team. No decisions are made on the basis of skin colour, religion or religious belief, ethnic or national origin, nationality, gender identity, sexual orientation, disability or age, either during recruitment or employment. Enpal stands for a safe workplace and takes action against discrimination and harassment of any kind.

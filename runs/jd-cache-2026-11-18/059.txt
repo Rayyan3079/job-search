@@ -1,0 +1,43 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-w-m-d-Softwareentwicklung-fuer-Hochfrequenz-Messsysteme-Bewerbung-Ismaning-Bayerischer-Rundfunk--14762307-inline.html
+TITLE: Werkstudent (w/m/d) Softwareentwicklung für Hochfrequenz–Messsysteme – Bewerbung
+COMPANY: Bayerischer Rundfunk
+LOC: Ismaning
+POSTED: stepstone
+title: Werkstudent (w/m/d) Softwareentwicklung für Hochfrequenz–Messsysteme – Bewerbung
+company: Bayerischer Rundfunk
+posted: 2026-11-17T13:47:38.447Z
+location: Ismaning | remote: 
+---
+Du unterstützt die Fachgruppe Terrestrik Technologien bei der Weiterentwicklung softwaregestützter Mess- und Auswertelösungen für UKW-, DAB- und DVB-T2-Sendeanlagen. Dabei erhältst du praxisnahe Einblicke in das Zusammenspiel von Softwareentwicklung, Hochfrequenzmesstechnik, Datenhaltung und Visualisierung. 
+ Das erwartet dich
+ Unterstützung bei der Weiterentwicklung bestehender softwarebasierter Messroutinen für Hochfrequenzmessungen an UKW-, DAB- und DVB-T2-Sendeanlagen mit Python und C#
+ Mitwirkung bei der Zusammenführung bestehender Programme sowie bei der Anbindung verschiedener Hochfrequenzmessgeräte, zum Beispiel von Rohde & Schwarz
+ Unterstützung bei der Anbindung der Anwendungen an eine On-Premise-Datenbank zur Speicherung und Weiterverarbeitung von Messwerten
+ Mitarbeit bei der Anpassung und Erweiterung von Messroutinen sowie bei der Visualisierung von Messergebnissen in Grafana zur Qualitätskontrolle
+ Einblicke und Mitarbeit im Bereich KI-gestützter Auswertungen, Observability-Reports und bei der Gestaltung benutzerfreundlicher Oberflächen für Messroutinen und Qualitätskontrollen
+ Das bringst du mit
+ Ein laufendes Studium an einer Hochschule oder Universität, im Bereich Informatik, Elektrotechnik, Nachrichtentechnik oder vergleichbar
+ Erste Kenntnisse in der Softwareentwicklung, idealerweise mit Python und/oder C#
+ Interesse an Hochfrequenztechnik, Messtechnik und der Arbeit mit technischen Daten
+ Neugier auf Themen wie Datenvisualisierung, Monitoring und KI
+ Eine strukturierte und zuverlässige Arbeitsweise sowie Freude an der Zusammenarbeit im Team
+ Das bieten wir dir
+ Verfügbarkeit und Ausgestaltung der Benefits können je nach Standort und Tätigkeitsbereich variieren. 
+ Faire tarifliche Bezahlung
+ Attraktive Arbeitszeit- und Homeoffice-Regelungen
+ Entwicklungs- und Weiterbildungsmöglichkeiten
+ Kantine
+ Kinderbetreuungsangebote
+ Betriebliches Gesundheitsmanagement
+ Weitere Informationen
+ Beginn: 15.01.2027
+ Befristung:  befristet 1 Jahr mit Option auf Verlängerung
+ Arbeitszeit: 15 bis 18 Stunden/Woche
+ Uns ist eine offene und wertschätzende Unternehmenskultur wichtig, in der Vielfalt gelebt wird. Darum heißen wir alle Bewerbungen willkommen – unabhängig von Geschlecht, Alter, Herkunft, sexueller Orientierung, Religion oder Behinderung.
+ Unser Recruiting Team hilft gerne weiter: 
+ Julia Englbrecht
+ recruiting@br.de 
+ Informationen zum Fachgebiet gibt es bei: 
+ Roland Janik
+ Roland.Janik@br.de 
+ www.br.de
