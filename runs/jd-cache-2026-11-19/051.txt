@@ -1,0 +1,24 @@
+URL: https://www.linkedin.com/jobs/view/4491617890
+TITLE: Consultor SAP Analytics Cloud (SAC)
+COMPANY: SEREM Consultoría Empresarial
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-19
+title: Consultor SAP Analytics Cloud (SAC)
+company: SEREM Consultoría Empresarial
+posted: 4 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fes.linkedin.com%2Fjobs%2Fview%2Fconsultor-sap-analytics-cloud-sac-at-serem-consultor%25C3%25ADa-empresarial-4491617890&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Buscamos un consultor SAP Analytics Cloud (SAC) con experiencia en proyectos de Business Intelligence, reporting, analítica y planificación. El puesto se centra en el desarrollo de informes y cuadros de mando en SAC a partir de fuentes de datos SAP.
+Funciones
+ Diseñar y desarrollar Stories, informes y dashboards en SAP Analytics Cloud.
+ Crear y mantener modelos de datos en SAC para reporting, análisis y planificación.
+ Configurar cálculos, medidas, dimensiones, filtros y variables.
+ Trabajar con distintas fuentes de datos SAP y participar en la integración de SAC con SAP S/4HANA.
+ Requisitos
+ Experiencia práctica con SAP Analytics Cloud y en la creación de Stories y dashboards.
+ Conocimientos de modelado de datos en SAC y manejo de cálculos, medidas, dimensiones, filtros y variables.
+ Conocimientos de Business Intelligence y análisis de datos.
+ Experiencia con distintas fuentes de datos SAP y conocimientos de integración de SAC con SAP S/4HANA.
+ Ubicación y modalidad Madrid, modelo híbrido.
+SAP Analytics Cloud, SAC, Hana

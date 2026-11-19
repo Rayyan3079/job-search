@@ -1,0 +1,34 @@
+URL: https://www.xing.com/jobs/kassel-werkstudent-data-analyst-all-genders-100-home-office-158293835
+TITLE: Werkstudent Data Analyst (all genders) - 100% Home Office
+COMPANY: fino digital GmbH
+LOC: Kassel
+POSTED: 2026-11-19
+title: Werkstudent Data Analyst (all genders) - 100% Home Office
+company: fino digital GmbH
+posted: 2026-11-19T14:25:17Z
+location: Kassel | remote: TELECOMMUTE
+---
+Gestalte die datengetriebene Zukunft mit fino analytics! 
+Wir bei fino analytics sind davon überzeugt, dass datengetriebenen Geschäftsmodellen die Zukunft gehört. Als eigenständige GmbH der fino Unternehmensgruppe bündeln wir die Data-Analytics-Kompetenz der Gruppe. Unsere erklärte Mission ist es, Daten einen Wert zu geben und Kontodaten durch intelligente und zukunftsweisende Analytics-Lösungen in hochwertige Insights zu verwandeln. Unsere Kunden treffen damit fundierte Entscheidungen, verschlanken ihre Prozesse und erschließen neue Geschäftsmodelle im B2B- und B2B2C-Bereich.
+Mehr als 275 Millionen durchgeführte Transaktionsanalysen sowie die Kooperationen mit über 1.000 Banken und Partnern im Versicherungs-, Fintech-, Immobilienbereich sowie Kreditvermittlung und Leasing zeigen eindrucksvoll das Vertrauen zahlreicher Unternehmen und Institutionen in die fino Unternehmensgruppe. Auf diesem starken Fundament bauen wir unseren Kundenstamm weiter aus und dafür brauchen wir dich.
+Möchtest du die fino analytics GmbH weiterhin mitprägen und unseren Erfolg sowie den unserer Kunden aktiv vorantreiben? Dann bewirb dich jetzt bei uns und komm ins Team!
+ So kannst du dich austoben 
+ Du analysierst umfangreiche Konto- und Transaktionsdaten und erkennst darin Charakteristiken, Muster und Regelmäßigkeiten
+ Du entwickelst neue Logiken zur Erkennung und Kategorisierung von Transaktionen und begleitest ihre Umsetzung aktiv mit
+ Du prüfst bestehende Analyselogiken auf Qualität und Trefferquote und bringst eigene Ideen zur Optimierung ein
+ Du bist Ansprechpartner bei allen Themen rund um die Kontoanalyse und übersetzt Anforderungen in konkrete Analysen
+ Du bereitest Ergebnisse verständlich auf und lieferst wertvolle Insights
+ Das bringst du mit 
+ Du bist an einer Hochschule eingeschrieben - idealerweise in Informatik, Wirtschaftsinformatik, Data Science, Statistik oder einem vergleichbaren Studiengang
+ Du bringst erste Erfahrung mit SQL mit und arbeitest gerne mit großen Datenmengen
+ Du hast Grundkenntnisse in Python und baust diese sukzessive weiter aus
+ Du gehst sicher mit Excel um und erste Berührungspunkte mit Google BigQuery runden dein Profil ab
+ Du denkst analytisch, hast ein Auge für Details und Freude daran, in Daten echte Zusammenhänge aufzudecken
+ Du kommunizierst sicher auf Deutsch
+ Unsere Benefits 
+ Gestaltungsspielraum: Viel Eigenverantwortung, offene Kommunikation, aktive Mitgestaltung und ein motiviertes, erfolgsorientiertes Team
+ Flexibles Arbeiten: Remote-first mit hybriden Optionen, flexible Arbeitszeiten, modernes Equipment, Workation – und am 24. sowie 31.12. hast du frei
+ Tech & Innovation: Moderner Tech-Stack und KI-Kultur
+ Attraktive Zusatzleistungen: Jahresbonus, Geschenke zu Jubiläen und runden Geburtstagen, Corporate Benefits, vergünstigte Handytarife, übergesetzliche Zuschüsse zur betrieblichen Altersvorsorge, Vermögenswirksame Leistungen, automatische Gehaltsanpassung in festen Abständen
+ Gesundheit & Mobilität: Jobticket, Bikeleasing, vergünstigte Fitness- & Wellnessangebote in deiner Stadt (egym)
+ Team & Office-Life: Sommer- & Weihnachtsfeiern, regelmäßige Teamtreffen, Office in Kassel mit hundefreundlichen Arbeitsplätzen

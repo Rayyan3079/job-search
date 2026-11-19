@@ -1,0 +1,29 @@
+URL: https://www.xing.com/jobs/potsdam-working-student-ai-research-159275686
+TITLE: Working Student AI Research (m/f/d)
+COMPANY: Nulegal GmbH
+LOC: Potsdam
+POSTED: 2026-11-19
+title: Working Student AI Research (m/f/d)
+company: Nulegal GmbH
+posted: 2026-11-19T12:46:55Z
+location: Potsdam | remote: 
+---
+New paper on Monday, prototype by Tuesday?
+ We're looking for a Working Student AI Research.
+ You'll read the new papers
+ You'll test the promising ones in experiments
+ You'll bring what works onto our platform
+ You'll share what you found with the team, and we decide together what to build next
+ Working with us
+ You'll work directly with Ismail, our CTO
+ You'll decide a lot on your own, so you'll have real room to shape what we build
+ What you bring
+ You're enrolled in data science, AI, computer science or something close at a German university
+ You enjoy reading papers
+ You can code your way from an idea to something that runs
+ Where and when
+ Berlin/Potsdam
+ Hybrid
+ 20 hours a week
+ How to apply
+ What's the last paper you read that made you want to build something right away? Tell us in your application.

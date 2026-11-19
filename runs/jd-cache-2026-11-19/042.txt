@@ -1,0 +1,44 @@
+URL: https://www.xing.com/jobs/stuttgart-gtm-engineer-sales-automation-daten-ki-werkstudent-teilzeit-100-remote-159275853
+TITLE: GTM Engineer (m/w/d) – Sales-Automation, Daten & KI | Werkstudent:in / Teilzeit | 100 % remote
+COMPANY: Institut für Zukunftsbildung
+LOC: Stuttgart
+POSTED: 2026-11-19
+title: GTM Engineer (m/w/d) – Sales-Automation, Daten & KI | Werkstudent:in / Teilzeit | 100 % remote
+company: Institut für Zukunftsbildung
+posted: 2026-11-19T13:03:03Z
+location: Stuttgart | remote: TELECOMMUTE
+---
+Was passiert eigentlich mit uns Menschen, wenn Maschinen immer smarter werden? Diese Frage hat unseren Gründer dazu gebracht, das Institut für Zukunftsbildung (IZB) ins Leben zu rufen.
+ Mit unserer AZAV-zertifizierten Weiterbildung „KI Leader“ begleiten wir Beschäftigte, Arbeitsuchende und Geschäftsführer:innen dabei, KI für sich zu nutzen, statt sie zu fürchten. Dabei gilt eine klare Arbeitsteilung: Maschinen verarbeiten Daten, erkennen Muster und liefern Prognosen. Fragen, fühlen, führen bleibt menschlich.
+ So arbeitet auch unser Vertrieb. Unser Vertriebsteam führt die Gespräche. Du baust die Maschine dahinter: Datenflüsse, Automationen und KI-Workflows, die ihnen die richtigen Impulse zur richtigen Zeit liefern, mit dem richtigen Kontext.
+ Wer wir sind, erzählt unser Gründer in zwei Minuten: youtube.com/shorts/9KnSv1V_vzY
+ Worum es wirklich geht: Du denkst Vertrieb von Ende zu Ende, vom ersten Datensatz bis zu der Person, die tatsächlich in unserer Weiterbildung startet. 
+ Deine ersten Projekte 
+ Leadgenerierung automatisieren: Du baust ein System, das laufend neue passende Unternehmen findet und vorqualifiziert, anhand von Signalen, die von außen erkennbar sind, zum Beispiel Unternehmensgröße, Wachstum oder offene Stellen. Dafür nutzt du aktuelle KI-Modelle und Datenquellen, damit unsere Opener jeden Tag mit den vielversprechendsten Kontakten starten.
+ Datenqualität im CRM verbessern: Wo Unternehmensdaten fehlen oder veraltet sind, baust du einen Recherche-Workflow, der öffentlich verfügbare Unternehmensinformationen automatisiert prüft und aktualisiert, zum Beispiel von Firmenwebsites und aus öffentlichen Registern. Datenschutz denkst du dabei von Anfang an mit.
+ Die Strecke für Arbeitsuchende automatisieren: Interessent:innen aus unseren Kampagnen sollen zur richtigen Zeit die richtigen Infos bekommen und den Weg bis zum Bildungsgutschein schaffen.
+ Danach gehört dir 
+ Daten erschließen und pflegen: Workflows, die Daten aus Web-Quellen und APIs zusammenführen, prüfen und aktuell halten, mit eigenem Code und den passenden Tools.
+ Close weiterentwickeln: Pipelines, Smart Views und Workflows, damit unser Team weniger klickt und mehr im Kontakt ist.
+ KI-Assistenten bauen: Mit Langdock entstehen Helfer für Recherche, Gesprächsvorbereitung und Call-Zusammenfassungen.
+ Systeme verbinden: Über APIs, Webhooks und eigene Skripte fließen die Daten sauber zwischen unseren Tools.
+ Uns ist wichtiger, dass du die Technik beherrschst, als welche Tools du schon kennst. Tools lernst du schnell, wenn das Fundament steht.
+ Das bringst du mit 
+ Code: Du programmierst, idealerweise in Python oder JavaScript, und arbeitest sicher mit APIs, Webhooks und JSON.
+ Eine Automation, die wirklich läuft: gebaut im Job, im Studium oder in einem eigenen Projekt. Genau die zeigst du uns in deiner Bewerbung.
+ Gespür für Zahlen: Du denkst in Conversion Rates und willst wissen, was am Ende herauskommt.
+ Sprache: Deutsch auf Muttersprachniveau und gutes Englisch. Als Werkstudent:in bist du an einer Hochschule eingeschrieben.
+ Ein Plus, aber kein Muss 
+ Erfahrung mit CRM-Systemen wie Close oder KI-Plattformen wie Langdock
+ Automatisierte Datenerfassung aus Web-Quellen und APIs, zum Beispiel mit eigenem Python-Code
+ Erfahrung als GTM Engineer, in RevOps, Growth oder Sales Ops
+ Wissen, was DSGVO und UWG im Vertrieb erlauben und was nicht
+ Benefits
+ Vergütung mit Upside: Fester Stundensatz plus Erfolgsbeteiligung für jede Person, die am Ende tatsächlich in unserer Weiterbildung startet. Nicht alles davon liegt in deiner Hand, aber genug, dass sich End-to-End-Denken für dich lohnt.
+ Steile Lernkurve: Unsere Vertriebsleitung arbeitet dich persönlich ein, und ihr arbeitet eng zusammen. Dabei lernst du Outbound auf dem neuesten Stand, von der Datenbasis bis zum Gespräch, das zum Abschluss führt.
+ Echte Gestaltungsfreiheit: Du baust unseren GTM-Stack maßgeblich mit auf und triffst echte Entscheidungen, mit kurzen Wegen bis in die Geschäftsführung.
+ Flexibel und remote: 100 % remote mit freier Zeiteinteilung. Ob Werkstudent:in, Teilzeit oder Minijob, finden wir gemeinsam heraus.
+ Perspektive mit Sinn: Die Weiterbildungsstarts für 2027 sind bereits geplant, und jede Automation, die du baust, hilft mehr Menschen, ganzheitliche KI-Kompetenz aufzubauen.
+ Statt eines Anschreibens freuen wir uns über ein Kurzvideo (max. 3 Minuten) oder einen Screenshot mit ein paar Sätzen dazu: Zeig uns einen Workflow, eine Integration oder ein Skript, auf das du stolz bist, und erklär kurz, welches Problem es löst. Schick uns einfach den Link.
+ So geht es danach weiter: Kurzes Kennenlernen per Video, dann ein Mini-Case aus unserem Vertriebsalltag, den du vorab bekommst und im Case-Gespräch (45 Minuten) vorstellst. Danach entscheiden wir.
+ Werde Teil des IZB und hilf uns, Menschen und Unternehmen in Deutschland fit für die Zukunft mit KI zu machen.

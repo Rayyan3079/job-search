@@ -1,0 +1,33 @@
+URL: https://www.linkedin.com/jobs/view/4491627085
+TITLE: Werkstudent Automatisierung und Daten (m/w/d)
+COMPANY: Vimerox Real Estate Management GmbH
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-11-19
+title: Werkstudent Automatisierung und Daten (m/w/d)
+company: Vimerox Real Estate Management GmbH
+posted: 7 hours ago
+applicants: 27 applicants
+apply_offsite: 
+---
+Über Vimerox Real Estate Management GmbH 
+ Wir verwalten, vermieten und entwickeln über 18.500 Wohn- und Gewerbeeinheiten in ganz Deutschland. Dabei ist es unser oberstes Ziel, die Objekte langfristig im Bestand zu halten und die Wohnqualität zur Zufriedenheit unserer Mieter zu optimieren. Unser Kompetenzteam von rd. 110 Mitarbeitern deckt dazu sämtliche Bereiche des zentralen, kaufmännischen und technischen Property Managements ab.
+ Deine Aufgaben 
+ Du nimmst mit den Key-Usern Prozesse und Berichtsbedarfe auf und beschreibst den Ist- und Sollablauf,
+ Kleine Vorhaben führst du selbst, mit Plan und Statusbericht. Größere setzt du gemeinsam mit uns um,
+ Mit Hilfe von Flows baust du Prozessautomatisierungen,
+ Du baust Dashboards in Power BI und schreibst kleine SQL-Abfragen und Views dafür,
+ Du prüfst die Stammdaten von Vimerox auf Lücken und Fehler und bereitest Bereinigungslisten für den Fachbereich vor,
+ Du schulst Key User, sammelst ihre Rückmeldungen und prüfst die Fehlerprotokolle laufender Flows.
+ Das bringst Du mit 
+ Du studierst Wirtschaftsinformatik, Informatik, Data Science, Immobilienwirtschaft oder etwas Vergleichbares und bist eingeschrieben,
+ Du kennst die Grundlagen von SQL,
+ Dich interessiert, wie man Prozesse automatisiert und Daten auswertet,
+ Du kannst im Gespräch mit Fachanwendern herausfinden, wie ein Ablauf funktioniert, und ihn verständlich aufschreiben,
+ Von Vorteil sind erste Erfahrungen mit Power BI, Low-Code-Werkzeugen oder JavaScript bzw. Python sowie Grundwissen zu APIs und JSON.
+ Was wir dir bieten 
+ Deine Arbeitszeiten richten sich nach deinem Stundenplan. In der Prüfungsphase kannst du deine Stunden reduzieren,
+ Mobiles Arbeiten ist nach Absprache möglich. Laptop und Zugänge sind am ersten Tag eingerichtet,
+ Du wirst in Modulen eingearbeitet und hast von Anfang an eine feste Ansprechperson,
+ Du verantwortest eigene Vorhaben, deren Ergebnis im Fachbereich sichtbar wird,
+ Du lernst mit Werkzeugen, die wir täglich einsetzen: Fluks, Power BI und SQL-Server zu arbeiten,
+ Wenn du ein Thema für eine Praxis- oder Abschlussarbeit suchst, finden wir es gemeinsam und betreuen dich dabei.

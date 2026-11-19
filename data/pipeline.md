@@ -207,4 +207,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12745-984230596-S | Continental AG | Werkstudent - Testmethodenentwicklung für Materialprüfung (m/w/d) - REF100582R | Hannover
 - [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004034326-S | Hunkemöller Deutschland B.V. & Co. KG | Werkstudentin im Verkauf Waiblingen EBZ | Waiblingen, Rems
 
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/15939-BB-636093-7878-7190-S | Rheinmetall AG | Werkstudent Einkauf (m/w/d) | Aschau am Inn
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/12706-44582607-1118-S | Amprion GmbH | Werkstudent KI (m/w/d) | Dortmund
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/17172-98D6A1CF9BC77E52AE7-S | Vereinigte Hagelvers. VVaG | Werkstudent im Dokumentenmanagement (m/w/d)
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004041227-S | IONOS SE | Werkstudent (w/m/d) - Frontend Development & UI/UX / 1706 | Regensburg
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/15588-109225X356358-S | Indaver Deutschland GmbH | Werkstudent Controlling (m/w/d) | Biebesheim am Rhein
+
 ## Processed

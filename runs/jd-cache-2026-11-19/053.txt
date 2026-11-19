@@ -1,0 +1,56 @@
+URL: https://www.linkedin.com/jobs/view/4492465217
+TITLE: SQL Server Database Engineer with SSIS
+COMPANY: Free-Work UK
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-19
+title: SQL Server Database Engineer with SSIS
+company: Free-Work UK
+posted: 3 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fuk.linkedin.com%2Fjobs%2Fview%2Fsql-server-database-engineer-with-ssis-at-free-work-uk-4492465217&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Our Client is bank based in Central London – who are looking to recruit Database Engineer with at least 5 to 7 years sold expertise of working SQL Server SSIS and SSRS.
+Responsible for the development and delivery of pipelines (collect, validate and prepare high quality data) to automate and streamline processes required by different departments.
+Support existing SSIS ETLs (overnight and intraday), proactively fine-tune and enhance existing codes to increase robustness and error monitoring.
+Support the internal IT department with changes and upgrades to software platforms.
+Convert legacy Hyperion reports to SSRS.
+ Software Development
+ Analysis of issues pertaining to problems or errors raised by in-house systems, i.e. CORE, SharePoint interface, Equation end of day cycle.
+Understanding business requirements in order to develop and deliver appropriate solutions based on system definition documents.
+Proficiency in advanced 4GL programming languages and able to apply to the fully development life-cycle.
+ Database Support
+ To build data pipelines within the SQL environment in SSIS packages, where required, introduce new field and data types for new information to be collated in the CORE environment.
+To build tabular models (SSAS) for different business units.
+To build reports based on business requirements using SQL SSRS.
+To integrate with all the Bank’s sub-systems using data abstraction and connectivity layers, i.e. ODBC, ADO.net.
+Ensure that the environment is running optimally and with high standard house-keeping procedures.
+ Sharepoint Integration
+ To integrate the SharePoint environment and Forms with Equation system to introduce automation of processes thereby eliminating the need for duplicate entry.
+To utilise web services to integrate from cutting edge technology into legacy systems such as Equation.
+ End Of Day Cycle
+ To provide second and third level support for in-house programmes during the end of day cycle.
+To be able to analyse and rectify any problems raised in an independent and team scenario.
+To take ownership of a problem and deliver a solution in a timely manner.
+Provide out of office hours support.
+ Risk & Regulatory Duties
+ Maintain knowledge of all applicable regulatory requirements including the Bank’s Risk and Compliance policies and procedures and adhere to these to avoid exposing the Bank to undue risk.
+Report policy/procedure breaches and areas of potential non-compliance and suspicions promptly upon identification in accordance with the Bank's Risk and Compliance policies.
+Accurately execute all controls within own area to minimise risk of policy, procedure, and/or regulatory breaches.
+Identify new risks/control gaps within own area and escalate accordingly to your Line Manager and/or Head of Department.
+ Training & Competence
+ Complete all annual mandatory regulatory refresher training as per the Bank's training plans and deadlines.
+Proactively seek to complete recommended technical and behavioural competencies training required for your role.
+Act in accordance with the FCA/PRA Code of Conduct.
+Fulfil all prescribed business continuity requirements as set out in the organisational or departmental specific plans or as instructed by the Line Manager/Head of Department.
+ Qualifications/Experience
+ Degree level qualified or equivalent.
+MS SQL stack (SSIS, SSAS, SSRS) to high level of proficiency - Essential
+C# Programming / JavaScript programming - Desirable
+ Knowledge And Skills
+ Software analysis and design good practice
+Dimensional modelling, Entity Relationship modelling, Normalised modelling.
+Data warehouse design concepts, (Inmon, Kimball)
+The position is based in Central and you will be required to be in the office for 3 days a week.
+Please note the Client does NOT provide sponsorship.
+The salary for this position is in the range £65K – £75K.
+Please do send your CV to us in Word format along with your salary and availability.

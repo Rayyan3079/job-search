@@ -1,0 +1,38 @@
+URL: https://www.linkedin.com/jobs/view/4492451808
+TITLE: Werkstudent Datenanalyse (m/w/d)
+COMPANY: SEFE Energy GmbH
+LOC: Kassel, Hesse, Germany
+POSTED: 2026-11-19
+title: Werkstudent Datenanalyse (m/w/d)
+company: SEFE Energy GmbH
+posted: 4 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-datenanalyse-m-w-d-at-sefe-energy-gmbh-4492451808&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+IN KÜRZE
+ Für unser Team Common Solutions suchen wir ab Januar 2027 einen Werkstudenten (m/w/d) Data Analytics & Reporting in Teilzeit (bis zu 20 Stunden pro Woche).
+ IHR AUFGABENBEREICH
+ Unterstützung des Teams Data, Analytics & Reporting (CIS-CD) bei der Umsetzung datengetriebener Lösungen.
+ Mitarbeit mit erfahrenen Data Engineers und Analytics-Experten an Projekten zur digitalen Transformation.
+ Unterstützung bei der Erhebung von Fachbereichsanforderungen und deren Übersetzung in technische Daten- und Analysekonzepte.
+ Praktische Mitarbeit im Umgang mit modernen Datenplattformen, Cloud-Technologien und Tools zur Datenintegration.
+ Unterstützung bei der Überwachung, Optimierung und Fehleranalyse von Datenpipelines sowie Systemschnittstellen.
+ Erstellung von Dokumentationen und Projektunterlagen sowie Mitarbeit in bereichsübergreifenden Projekten zur Förderung datenbasierter Entscheidungen innerhalb von SEFE.
+ IHR PROFIL
+ Immatrikuliert in Informatik, Wirtschaftsinformatik oder einem vergleichbaren Studiengang.
+ Großes Interesse an Daten, Analytics und digitalen Technologien sowie eine proaktive und neugierige Arbeitsweise.
+ Gute Programmierkenntnisse in Python und SQL sowie Erfahrung im Umgang mit relationalen Datenbanken.
+ Interesse an modernen Datenplattformen und Tools wie Databricks, Microsoft Fabric oder Informatica.
+ Erste Erfahrungen mit Azure DevOps, Jira, Confluence sowie agilen Methoden (z. B. Scrum oder Kanban) sind von Vorteil.
+ Ausgeprägtes analytisches Denkvermögen, Kommunikationsstärke und Teamfähigkeit.
+ Sehr gute Deutsch- und Englischkenntnisse sowie gute Kenntnisse in Microsoft Excel und PowerPoint.
+ ÜBER UNS
+ SEFE ist ein international tätiges, in Europa verankertes Energieunternehmen, das mit seinen Energielösungen eine verlässliche und bezahlbare Versorgung sicherstellt. SEFE ist entlang der gesamten Energie-Wertschöpfungskette aktiv – von Beschaffung und Handel bis hin zu Vertrieb, Transport und Speicherung. Dank jahrzehntelanger Handelserfahrung und dem kontinuierlichen Ausbau des LNG-Angebots zählt SEFE mit einem jährlichen Vertriebsvolumen von mehr als 200 TWh Gas und Strom zu den wichtigsten Lieferanten für Industriekunden in Europa. Wir beliefern über 50.000 Unternehmen, von kleinen Betrieben bis hin zu Stadtwerken und multinationalen Konzernen. Durch Investitionen in saubere Energien unterstützen wir unsere Kunden bei der Dekarbonisierung und tragen aktiv zur Energiewende bei. SEFE beschäftigt weltweit über 2.000 Mitarbeitende und ist ein Unternehmen des Bundes.
+Energie sichern – jetzt und für die Zukunft.
+ UNSERE LEISTUNGEN
+ Spannender und abwechslungsreicher Studentenjob, der eine ideale Basis für Ihren späteren Berufseinstieg darstellt
+ Möglichkeit, Theorie und Praxis zu vereinen
+ Faire Vergütung
+ Betriebseigene Kantine mit saisonalen und regionalen Gerichten
+ Flexible Arbeitszeiten
+ Ansprechende Arbeitsumgebung in zentraler Lage

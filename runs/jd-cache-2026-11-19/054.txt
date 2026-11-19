@@ -1,0 +1,64 @@
+URL: https://www.linkedin.com/jobs/view/4492463261
+TITLE: Data Analyst with SQL Server SSIS
+COMPANY: Free-Work UK
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-19
+title: Data Analyst with SQL Server SSIS
+company: Free-Work UK
+posted: 3 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fuk.linkedin.com%2Fjobs%2Fview%2Fdata-analyst-with-sql-server-ssis-at-free-work-uk-4492463261&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Data Analyst with SQL Server and SSIS
+ Our Client a bank based in Central London is seeking a highly motivated Data Analyst to play a key role in building and maintaining a robust digital data infrastructure.
+This position supports data users across the business, ensuring high-quality data extraction, reporting, and analytics capabilities.
+Working closely with the IT Manager and various business units, you will help strengthen compliance and regulatory risk management through effective management information (MI) reporting and analytical insights.
+ Responsibilities
+ Develop, maintain, and enhance the Branch’s digital data infrastructure to ensure reliability and accessibility.
+Deliver accurate and timely data extraction, MI analysis, and reporting to support operational, compliance, and regulatory needs.
+Work collaboratively with IT and business departments to understand data requirements and provide analytical support.
+Explore, evaluate, and propose new technologies/tools to improve data management, governance, and reporting efficiency.
+Ensure data integrity and support the implementation of best practices in data governance.
+Assist in identifying and managing data-related risks, supporting the Branch’s compliance and regulatory frameworks.
+ Must Have
+ Strong analytical skills with experience in data extraction, transformation, and reporting.
+Proficiency in SQL Server, data visualisation tools (e.g., Power BI, Tableau), and data management technologies.
+Understanding of data governance, regulatory reporting, and compliance requirements (banking/financial sector experience a plus).
+Excellent problem-solving skills and attention to detail.
+Ability to collaborate effectively with cross-functional teams and communicate complex information clearly.
+Coming from an IT support function is a bonus
+ Data Analysis and Management
+  Maintain and develop SSIS packages
+ Perform ad-hoc data extraction and analytics based on requirements from business
+ Develop data visualisation for business
+ Work with business to enhance the data available to the data warehouse
+ Assist in testing reporting solutions developed by external vendors
+ Support and maintain the generation of internal MI reports
+ Support and advise the business on data related matters and automation possibilities
+ Any other responsibilities / tasks as assigned by the Head of IT from time to time
+ Business Performance
+  Support the department’s operations as and when needed and any other tasks assigned by the business stakeholders.
+ Work with the Managers to ensure the business is in compliant with applicable rules and regulations that falls within the department’s remit.
+ Work with the business to ensure timely submission of relevant department’s reports
+ To adhere and follow all Bank/Group applicable policies and procedures.
+ Data accuracy and ownership duties
+  To ensure all data worked on and or/shared with internal/external clients are accurate.
+ Escalate any data issue to the business promptly and without delays.
+ Ensuring any data sharing requests are discussed with business/DPO so that prior authorisation is given and follows GDPR / department’s SOPs.
+ Regulatory Compliance duties
+ Comply with all applicable individual conduct rules (especially the FCA Conduct Rules, Regulations, Bank policies and procedures and the banking Compliance.
+ Technical/Functional Skills
+ Knowledge in SQL query is essential - Working experience in administration and development with SQL (experience with SQL Server and SQL Server Integration Service is preferred)
+ Experience in working with data visualisation tools such as Power BI
+ Experience in working with scripting language such as VBA and Python
+ Experience in working with Power Automate is a plus
+ Required understanding of the business and business units Personal skills (Soft Competencies [Core/Leadership])
+ Personal integrity and ethics
+ Good judgement in enabling the provision of sound advice on regulation and practice, proactive management of compliance and regulatory risk
+ You will have at least 3 to 5 years’ relevant experience working in the data field, preferably in an established bank or financial institution.
+ Qualifications (Basic Degree/Diploma)
+ Bachelor's Degree or Professional Qualification in the relevant discipline (Degrees in Statistic, Information Systems, or similar)
+This is an exciting position within a bank with interesting projects based in Central London.
+This is a hybrid role – you will be required to be in the office 3 days every week.
+The salary for this position is in the range £40K- £45K.
+Please do send your CV to us in Word format along with you salary and availability.

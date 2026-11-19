@@ -1,0 +1,50 @@
+URL: https://www.linkedin.com/jobs/view/4491309560
+TITLE: Werkstudent (m/w/d) KI-Entwicklung
+COMPANY: Swiss Life Deutschland
+LOC: Hannover, Lower Saxony, Germany
+POSTED: 2026-11-18
+title: Werkstudent (m/w/d) KI-Entwicklung
+company: Swiss Life Deutschland
+posted: 1 day ago
+applicants: 64 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-m-w-d-ki-entwicklung-at-swiss-life-deutschland-4491309560&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Wir in der IT-Anwendungsentwicklung stellen unseren Projektorganisationen und Teams in einem agilen Softwareentwicklungsumfeld KI-gestützte Tools zur Verfügung. Diese unterstützen dabei, Anforderungen und weitere Tickettypen zu erstellen und qualitativ zu verbessern sowie projektrelevantes Wissen zugänglich zu machen. Damit möchten wir die Effizienz und Qualität im gesamten Softwareentwicklungsprozess steigern.
+Mit KIRA (KI in Jira) und AKIRA (Agentic KIRA als Chatagent) entwickeln wir KI-gestützte und agentische Anwendungen, die unsere Projektteams bei ihrer täglichen Arbeit unterstützen, Dein Verantwortungsbereich,
+ Du entwickelst neue Use Cases und Features für unsere KI-Tools KIRA und AKIRA
+ Du setzt Anforderungen unter Berücksichtigung unserer internen Software- und Entwicklungsstandards um
+ Du erstellst technische Tests und stellst damit die Qualität deiner Entwicklungen sicher
+ Du testest neue und bestehende Use Cases funktional
+ Du analysierst Fehler in unseren Anwendungen und unterstützt bei deren Behebung
+ Du bringst dich aktiv in die Projektarbeit ein, z. B. durch die Teilnahme an Sync-Terminen, Innovationscamps und weiteren agilen Formaten
+ , Deine Stärken,
+ Du studierst Informatik, Wirtschaftsinformatik, Data Science oder einen vergleichbaren technischen Studiengang
+ Du hast erste praktische Erfahrungen in der Softwareentwicklung, vorzugsweise mit Python
+ Du hast Erfahrung im Umgang mit Git bzw. Versionsverwaltung
+ Idealerweise hast du bereits erste Berührungspunkte mit AWS oder anderen Cloud-Technologien
+ Du interessierst dich für generative KI, Large Language Models (LLMs) und agentische Systeme
+ Du arbeitest dich gerne selbstständig in neue Technologien, Tools und Themen ein
+ Du bringst eigene Ideen ein und wirkst aktiv an der Entwicklung neuer Features und Use Cases mit
+ Gute Kommunikationsfähigkeiten und Teamgeist runden dein Profil ab 
+ , Kultur
+ Stärkung des Wir-Gefühls, u.a. mit Mittagsroulette, Walk and Talks, Studierenden-Teamskanal
+ Förderung einer diversen Arbeitswelt, z.B. mit dem Frauennetzwerk Female Careers
+ Studierende können nach Absprache ihre Abschlussarbeiten bei uns schreiben
+ Entwicklungsmöglichkeiten
+ Großes internes "Lernbar"-Angebot mit vielfältigen Themen zur persönlichen und fachlichen Weiterbildung
+ Digitale Lernplattform
+ Buddy
+ New Work
+ Flexible Arbeitszeiten
+ Mobile Working Quote von 60%
+ Bürokonzept Flex-Office
+ Gesundheit
+ Veranstaltungen und Kurse zum Thema Gesundheit, wie z.B. Gesundheitstage, Rückencheck-ups, Grippeschutzimpfungen und vieles mehr
+ Ergonomische Büroausstattung
+ 30 Urlaubstage 
+ Betriebsrestaurant
+ Nachhaltigkeit
+ Swiss Life Stiftung für Chancenreichtum und Zukunft
+ 100% Strom aus erneuerbaren Energie
+ Förderung des Jugend- und Behindertensports
+ , Über Swiss Life, Swiss Life Deutschland ist ein führender Anbieter von Finanz- und Vorsorgelösungen und gehört zur Swiss Life Gruppe mit Sitz in Zürich. Auf dem deutschen Markt ist Swiss Life mit mehreren Marken präsent und bietet Privat- und Firmenkunden individuell zugeschnittene Lösungen rund um die Themen Versicherung, Vorsorge und Vermögen an. Du suchst eine Karriere mit Zukunft? Dann heißen wir dich herzlich willkommen bei Swiss Life!

@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4488337738
+TITLE: Data Analytics Consultant (m/w/d)
+COMPANY: CINTELLIC Consulting Group
+LOC: Germany
+POSTED: 2026-11-10
+title: Data Analytics Consultant (m/w/d)
+company: CINTELLIC Consulting Group
+posted: 1 week ago
+applicants: 69 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fdata-analytics-consultant-m-w-d-at-cintellic-consulting-group-4488337738&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Die CINTELLIC Consulting Group ist eine der führenden Unternehmensberatungen für das digitale Kundenmanagement. Wir treiben bei DAX-Konzernen und renommierten Mittelständlern die Digitalisierung voran und helfen Umsätze und Erträge zu steigern. Wir arbeiten ergebnisfokussiert und setzen unser exzellentes Know-how im Zusammenspiel von Business, Data und Technology ein.
+ Du findest bei uns karrierestarke Jobs im Consulting in einem Team ohne Ellenbogen. Ausgezeichnet als Great Place to Work® und kununu-Top-Company. Mehr zu unserer Wertekultur erfährst Du hier.
+ Werde Teil unseres Teams, begleite aktiv digitale Zukunftsthemen und schreibe CINTELLIC-Erfolgsgeschichte mit! 
+ Diese Stelle ist als unbefristete Vollzeitstelle ausgeschrieben. 
+ DEINE AUFGABEN SIND 
+ Du berätst unsere Kunden ganzheitlich bei datengetriebenen Fragestellungen – von der Datenaufbereitung über Analyse und Modellierung bis hin zur Visualisierung
+ Du entwickelst datenbasierte Lösungen , die fundierte Entscheidungen ermöglichen und echten Mehrwert schaffen – in Analytics- und Reporting-Projekten, auch in der Finanzbranche
+ Du erstellst aussagekräftige Reportings und Dashboards , die Management und Fachbereiche mit relevanten Insights versorgen
+ Du unterstützt bei Ad-hoc-Analysen und komplexen Analytics-Anforderungen mit Google BigQuery, SQL und Python sowie weiteren modernen Analytics-Technologien wie R oder PySpark
+ Du konzipierst Fach- und technische Designs für innovative Datenprodukte und -lösungen
+ Du arbeitest in agilen Projektstrukturen (Scrum, Kanban) und bringst dich aktiv in interdisziplinäre Teams ein
+ Du überzeugst durch deine analytische und technische Kompetenz und begeisterst unsere Kunden mit durchdachten, praxisnahen Lösungen
+ Du arbeitest flexibel und eigenverantwortlich , sowohl remote innerhalb Deutschlands als auch vor Ort beim Kunden
+ DAS BRINGST DU MIT 
+ Ein abgeschlossenes Studium in (Wirtschafts-)Informatik, Mathematik, Statistik, Data Science oder einem vergleichbaren Fachgebiet
+ Mindestens 3–5 Jahre relevante Berufserfahrung , davon mindestens 1 Jahr im Beratungsumfeld – idealerweise im Bereich Data Analytics, Business Intelligence oder datengetriebener Projekte
+ Praktische nachgewiesene Kenntnisse in Google BigQuery, SQL und Python sowie Erfahrung in der Analyse, Aufbereitung und Auswertung von Daten
+ Erfahrungen mit Microsoft Fabric, PySpark oder vergleichbaren Analytics-Technologien sind von Vorteil
+ Erste Erfahrungen in KI-/datengetriebenen Projekten sowie ein gutes Verständnis für moderne Datenarchitekturen
+ Sicherer Umgang mit Visualisierungstools wie Tableau oder Power BI – du kannst komplexe Sachverhalte klar und verständlich darstellen
+ Erfahrungen mit relationalen Datenbanken , sowohl on-premise als auch cloudbasiert, sind von Vorteil
+ Idealerweise erste Projekterfahrung in der Finanzbranche (Banken, Versicherungen, Finanzdienstleister)
+ Strukturierte und lösungsorientierte Arbeitsweise , gepaart mit Eigeninitiative und Teamgeist
+ Sehr gute Kommunikationsfähigkeiten in Deutsch und Englisch sowie ein souveränes Auftreten im Kundenkontakt
+ Flexibilität in der Projektarbeit – du bist offen für hybride Arbeitsmodelle und Einsätze vor Ort beim Kunden
+ DEINE VORTEILE - DAS BIETEN WIR 
+ Individuelle Karriereentwicklung, Trainings und Coachings zu Persönlichkeit und Fachthemen
+ Faires Gehalts- und Versorgungspaket (u.a. Betriebliche Altersvorsorge, diverse vermögenswirksame Leistungen)
+ Gutes und gesundes Arbeitsumfeld: Job-Rad-Leasing und eine vergünstigte Mitgliedschaft im Urban Sports Club
+ Mitarbeit in der führenden Business Beratung für CRM und digitales Kundenmanagement. In der Champions-League der Digitalisierung mitspielen!
+ Außergewöhnliches Miteinander: Team ohne Ellenbogen. Spaß und fantastischer Support
+ Freiräume: 30 Tage Jahresurlaub, flexible Arbeitszeiten, Möglichkeit für Sabbaticals und Home-Office

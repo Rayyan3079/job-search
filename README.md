@@ -21,6 +21,8 @@ Internships, thesis roles, full-time roles and German-required roles are listed 
 
 ## Latest run
 
+**2026-11-19 daily**: 110 new, 3 packages: [BMW Group – Working Student for Agentic AI & Engineering Automation](output/2026-11-19/bmw-working-student-agentic-ai-engineering-automation/) (3.5), [Nulegal GmbH – Working Student AI Research](output/2026-11-19/nulegal-working-student-ai-research/) (3.5), [BMW Group – Working Student Digital Customer Self-Service, Analytics & AI](output/2026-11-19/bmw-working-student-digital-customer-self-service-analytics-ai/) (3). Report: [digests/2026-11-19.md](digests/2026-11-19.md).
+
 **2026-11-19 company sites**: 2 new (both German-only), no packages. Report: [digests/2026-11-19-company.md](digests/2026-11-19-company.md).
 
 **2026-11-18 daily**: 165 new, 4 packages: [Tesla – Data Science Internship – Gigafactory Berlin-Brandenburg](output/2026-11-18/tesla-data-science-internship-gigafactory-berlin/) (3.5), [Allianz – Working student in Data Office](output/2026-11-18/allianz-working-student-data-office/) (3.5), [JD.COM – JD Young Marketing Analytics & AI Internship](output/2026-11-18/jd-com-jd-young-marketing-analytics-ai-intern/) (3), [Allego – Network Development Analyst (Werkstudent)](output/2026-11-18/allego-werkstudent-network-development-analyst/) (3). Report: [digests/2026-11-18.md](digests/2026-11-18.md).

@@ -1,0 +1,60 @@
+URL: https://www.linkedin.com/jobs/view/4492207202
+TITLE: Intermediate Data Engineer
+COMPANY: BEES Brasil
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-18
+title: Intermediate Data Engineer
+company: BEES Brasil
+posted: 23 hours ago
+applicants: 57 applicants
+apply_offsite: 
+---
+About BEES
+ Join us to build the future of B2B commerce!
+BEES is AB InBev’s B2B platform. Through our ecosystem, merchants and retailers across 29 countries can stock their businesses quickly, easily, and securely. At BEES, we dream big, lead with purpose, and develop technology that transforms the way retailers and sellers grow.
+Every line of code and every partnership is built in service of a single mission: to make commerce better for retailers and sellers around the world. Here, your work is not just important. It makes a difference!
+ What You'll Do
+ Implement ETL/ELT solutions and data integration between multiple systems and data sources.
+ Design, implement, and maintain data pipelines to ingest, store, and process large volumes of data.
+ Collaborate with other teams to ensure data security and compliance.
+ Design, develop, and implement solutions to optimize the performance and scalability of data processing systems.
+ What You'll Need
+ Bachelor's degree in Computer Science, Computer Engineering, Information Systems, Systems Analysis and Development, or similar;
+ Intermediate English;
+ Apply knowledge of data pipeline concepts and tools to implement data transformation, cleaning, and aggregation tasks.
+ Use data pipeline frameworks and libraries to automate data processing tasks and optimize workflows.
+ Follow best practices for developing data pipelines, including version control, testing, and thorough documentation.
+ Apply programming skills in Python, PySpark, Scala, and SQL to effectively manipulate and transform data.
+ Understand and utilize cloud computing platforms and services offered by providers such as AWS, Azure, and Google Cloud.
+ Develop data pipelines using orchestration frameworks (e.g., Apache Airflow, Luigi, Mage, Databricks Workflows), integrating with PySpark and/or Scala as needed.
+ Understand and apply software design principles to data engineering projects.
+ Apply data modeling techniques to design efficient and scalable data models.
+ Optimize PySpark and SQL query performance, considering data volume, query complexity, and system resources.
+ Use data tools for ingestion, transformation, analysis, and visualization.
+ More About You
+ Logical reasoning and analytical skills;
+ Meeting deadlines and delivering quality work;
+ Effective and transparent communication with other teams and coworkers;
+ Communication and interpersonal skills to present and discuss cases with other involved areas;
+ Autonomy in performing tasks;
+ Develop and maintain APIs for data exchange between applications.
+ Experience with cloud computing platforms (AWS, Azure, Google Cloud) and their services.
+ Use automation frameworks and tools such as Azure DevOps, Terraform, and GitHub Actions.
+ What We Offer
+ Performance-based bonus*
+ Attendance bonus*
+ Private pension plan
+ Meal allowance
+ Casual office and dress code
+ Days off*
+ Health, dental, and life insurance plans
+ Discounts on medications
+ Partnership with WellHub
+ Childcare assistance
+ Discounts on Ambev products*
+ Clube Ben partnership
+ Scholarship program*
+ School supplies support
+ Language learning platforms and training
+ Transportation allowance
+ Rules applied*

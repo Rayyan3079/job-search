@@ -1,0 +1,39 @@
+URL: https://www.linkedin.com/jobs/view/4491621446
+TITLE: Intern Operatives Controlling & Data (m/w/d)
+COMPANY: Vantis
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-11-19
+title: Intern Operatives Controlling & Data (m/w/d)
+company: Vantis
+posted: 5 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fintern-operatives-controlling-data-m-w-d-at-vantis-4491621446&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+How You Will Make An Impact At Vantis
+ Vantis baut einen deutschlandweiten Gesundheitsversorger, um die hausärztliche Versorgung auch bei wachsendem Ärztemangel verlässlich zu machen. Mit digitalisierten Prozessen, eigener KI-Technologie und zentralen Services schaffen wir einen modernen Arbeitsplatz, entlasten Praxisteams und schaffen mehr Zeit für Patient:innen. So schaffen wir die Basis für bessere medizinische Ergebnisse und wirtschaftliche Tragfähigkeit.
+Unsere Praxen steuern wir datenbasiert, über ein eigenes Cockpit mit Kennzahlen zu Leistung, Personal und Wirtschaftlichkeit. In deinem Praktikum sorgst du dafür, dass diese Datenbasis von Beginn an korrekt ist und dauerhaft korrekt bleibt. Du bereinigst die Daten, setzt Standards für ihre Erfassung und entwickelst Dashboard und Kennzahlen weiter. Du arbeitest eng mit der Leitung Finance zusammen und setzt Impulse von CEO und CFO direkt um.
+ Responsibilities
+ Datenbasis bereinigen: Plausibilisiere die Personaldaten aus Personio auf Mitarbeiterebene. Gleiche sie mit Leistungs- und Abrechnungsdaten aus Praxisverwaltungssystem und KV-Abrechnung ab. Kläre Abweichungen mit Praxen und Fachbereichen und korrigiere sie an der Quelle.
+ Erfassungsstandards setzen: Definiere verbindliche Guidelines, wie Daten in Personio und den Praxissystemen zu erfassen sind. Erstelle Checklisten und kurze Schulungsunterlagen für die Kolleginnen und Kollegen.
+ Datenqualität messbar machen: Baue automatisierte Prüfroutinen mit SQL, Python und AI-Tools auf, die Lücken und Unplausibilitäten erkennen. Mache die Datenqualität je Praxis in einer eigenen Übersicht sichtbar.
+ Cockpit weiterentwickeln: Setze Änderungen an Dashboard und Kennzahlenlogik um, etwa neue KPIs, Erweiterungen im Treiberbaum oder neue Auswertungen, auf Basis von Impulsen von CEO, CFO und Leitung Finance. Die Änderungen laufen über das Repository mit Review.
+ Neue Praxen anbinden und analysieren: Unterstütze die Anbindung neuer Praxen an die Datenbasis und erstelle Ad-hoc-Analysen zur Performance einzelner Standorte.
+ What You Need To Succeed
+ Laufendes Studium der Wirtschaftsinformatik, Data Science, des Wirtschaftsingenieurwesens oder vergleichbar
+ Sicherer Umgang mit SQL und/oder Python, erste Erfahrung mit Git oder Dashboards ist ein Plus
+ Hohe Sorgfalt und ein Blick dafür, wann eine Zahl nicht plausibel ist
+ Interesse am Geschäftsmodell dahinter: Du willst verstehen, wie eine Hausarztpraxis funktioniert, nicht nur Daten verarbeiten
+ Klare Kommunikation, auch mit Praxisteams, sowie fließendes Deutsch
+ Why Vantis
+ Purpose & Impact: Als Teil eines jungen Unternehmens gestaltest du die Gesundheitsversorgung von morgen aktiv mit und verbesserst damit die Versorgung von zehntausenden Patient:innen.
+ Inklusive Teamkultur: Bei Vantis zählt der Beitrag jeder einzelnen Person, wir kommunizieren offen und transparent und feiern kleine wie große Erfolge gemeinsam - sei es beim After-Work oder auf dem Oktoberfest.
+ Gesunde Balance: Mit Mittagszuschuss, ermäßigter Wellpass-Mitgliedschaft, flexiblen Homeoffice-Möglichkeiten und frischen Snacks im Büro bleibt dein Alltag ausgewogen und energiegeladen.
+ Moderne Arbeitsweisen: Wir arbeiten effizient und setzen KI konsequent im Arbeitsalltag ein, damit mehr Zeit für die Themen bleibt, die wirklich zählen.
+ Persönliche Weiterentwicklung: In einem schnell wachsenden Unternehmen erwarten dich beste Weiterentwicklungsmöglichkeiten, von einer steilen Lernkurve über den Wissensaustausch zwischen unseren Teams bis hin zu einem personalisierten Weiterbildungsangebot.
+ Partizipation am Unternehmenserfolg: Über unser Genussrechteprogramm partizipierst du direkt am Erfolg und Wachstum von Vantis.
+ Dein Weg zu uns
+ Bewerbe dich direkt über “Apply for this Job”.
+ Über uns
+ Bei Vantis stehen wir an vorderster Front der medizinischen Innovation. Mit einem starken Fokus auf Technologie und chronischen Krankheiten arbeiten wir daran, die traditionelle Gesundheitsversorgung radikal zu verbessern.
+Wie machen wir das? Durch die Kombination digitaler Behandlungswege und einer maßgeschneiderten, patientenzentrierten Versorgung vor Ort.
+Wenn du Lust hast, die Zukunft der Medizin mitzugestalten und Teil eines dynamischen und zukunftsorientierten Teams zu werden, bist du bei uns genau richtig!

@@ -1,0 +1,48 @@
+URL: https://www.linkedin.com/jobs/view/4492157446
+TITLE: Werkstudent Softwareentwicklung (m/w/d)
+COMPANY: rola Security Solutions GmbH
+LOC: Oberhausen, North Rhine-Westphalia, Germany
+POSTED: 2026-11-19
+title: Werkstudent Softwareentwicklung (m/w/d)
+company: rola Security Solutions GmbH
+posted: 7 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-softwareentwicklung-m-w-d-at-rola-security-solutions-gmbh-4492157446&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Zur Verstärkung unseres Teams am Standort Oberhausen suchen wir zum nächstmöglichen Zeitpunkt eine/n
+ Werkstudent Softwareentwicklung (m/w/d)
+ Was Dich Bei Uns Erwartet
+ Du unterstützt unsere Entwicklerteams bei ihrer täglichen Arbeit
+ Hierbei liegt der Fokus initial bei der gemeinsamen Weiter- und Neuentwicklung unserer internen Werkzeuge und deren Dokumentation
+ Du wirst entsprechend deiner Neigung und Interessen zunehmend an fachliche oder technische Domänen herangeführt
+ Was Uns Überzeugt
+ Du bist immatrikuliert und hast mindestens zwei Semester Studium der (Wirtschafts-)Informatik oder eines vergleichbaren technischen bzw. naturwissenschaftlichen Studiengangs (Physik, Mathematik) hinter dir
+ Du bringst Begeisterung für die Softwareentwicklung mit
+ Du hast gute Programmierfähigkeiten in Java oder einer ähnlichen OOP-Sprache
+ Du bringst idealerweise Kenntnisse in einem oder mehreren der folgenden Bereiche mit:
+ Design Patterns
+ Design-Prinzipien (z.B. SOLID)
+ Issue-Management
+ Unit-Testing
+ Versionsverwaltung
+ GUI-Entwicklung im Web oder mit Java (Swing / JavaFX)
+ erste Erfahrung bei der Spezifikation und Umsetzung von Integrationstests
+ Du bringst sehr gute Deutschkenntnisse (min. C1) und gute Englischkenntnisse (min. B2) mit
+ Was Wir Dir Bieten
+ Bei uns sind flache Hierarchien und gelebte Wertschätzung nicht nur inhaltslose Floskeln: Als Mitarbeiter erwartet dich ein respektvolles und partnerschaftliches Betriebsklima, ein innovatives und motiviertes Team sowie ein hohes Maß an Freiraum und selbstständigem Arbeiten. Nach einer intensiven Einarbeitung hast du bei uns in einem interessanten und dynamischen Marktsegment gute Entwicklungsmöglichkeiten.
+Darüber hinaus haben wir noch weitere attraktive Leistungen für dich im Angebot:
+ 100% Fixgehalt
+ Reisezeit = Arbeitszeit
+ Gleitzeit (zum Abbau sind Auszahlung oder Urlaub möglich)
+ Flexible Arbeitszeiten
+ Mobiles Arbeiten Gute ÖPNV- und Autobahnanbindung
+ Kantine, Bäckerei und Schnellrestaurants in unmittelbarer Nähe
+ Deutsche Telekom und Partner Mitarbeiterrabatte
+ Veranstaltungen (rola-Stammtisch, Firmenfeiern, jährliche Teamevents)
+ Du hast Interesse bei uns mitzuarbeiten?
+ Dann freuen wir uns über deine vollständige Bewerbung (als PDF) inklusive Gehaltsvorstellung und Verfügbarkeit.
+Es handelt sich um eine unbefristete Vollzeit-Stelle mit der Option auf Teilzeit. Schwerbehinderte Menschen werden bei gleicher Eignung vorrangig berücksichtigt.
+ Wer Wir Sind
+ rola Security Solutions steht für Informationsmanagement im Sicherheitsbereich und ist Partner Nr. 1 für deutsche Behörden und Organisationen mit Sicherheitsaufgaben sowie Lieferant für zahlreiche internationale Kunden im Sicherheitsbereich. Das Unternehmen mit Sitz in Oberhausen wurde 1983 gegründet und ist Marktführer in Deutschland. rola zählt mit über 350 Mitarbeiterinnen und Mitarbeitern zu den verlässlichsten Anbietern von IT-Lösungen im Bereich der Inneren und Äußeren Sicherheit. Seit 2014 ist rola eine 100-Prozent-Tochter der T-Systems International GmbH, die zum Konzern der Deutschen Telekom AG gehört.
+ Was passiert mit deinen Daten?
+ Mit dem Zusenden deiner Bewerbung erteilst du uns dein Einverständnis, dass wir die in deiner Bewerbung enthaltenen Daten im Rahmen des Bewerberverfahrens verarbeiten dürfen. Weitere Informationen zur Verarbeitung deiner Daten im Rahmen des Bewerberverfahrens findest du hier.

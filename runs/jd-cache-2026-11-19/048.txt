@@ -1,0 +1,34 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-DevOps-Software-Engineering-wmd-Muenchen-ADAC--14033431-inline.html
+TITLE: Werkstudent DevOps & Software Engineering (w|m|d)
+COMPANY: ADAC
+LOC: München
+POSTED: stepstone
+title: Werkstudent DevOps & Software Engineering (w|m|d)
+company: ADAC
+posted: 2026-11-16T17:15:22.18Z
+location: München | remote: 
+---
+Der ADAC ist immer in Bewegung und da, um zu helfen - dabei decken wir die unterschiedlichsten Bereiche ab, wie z.B.: Versicherungen, Reisen und medizinische Unterstützung, rechtliche Beratung, Digitalisierung, klassische Pannenhilfe oder die Luftrettung. Wir sind da. In Deinem Studium naht das Praxissemester oder Du möchtest praktische Erfahrungen in einem vielfältigen Unternehmen sammeln? Mit dem ADAC hast Du einen Praxispartner, der Dir ein solches Arbeitsumfeld bietet und in verschiedenen Bereichen Einblicke in die Praxis erlaubt. Du kannst dein Wissen aus dem Studium direkt anwenden und trägst damit dazu bei, dass anderen Menschen geholfen werden kann.
+ Deine Aufgaben
+ Du unterstützt aktiv bei der Migration von Quellcode-Repositories von Azure TFS nach Azure DevOps.
+ Du erstellst, konfigurierst und betreibst Build- und Release-Pipelines in Azure DevOps und entwickelst diese kontinuierlich weiter.
+ Du automatisierst Prozesse durch die Entwicklung von Skripten (z. B. PowerShell, YAML oder Bash) und optimierst die Integration von Umgebungsvariablen.
+ Du wirkst an der Konzeption und Umsetzung von Automatisierungslösungen im DevOps-Umfeld mit und bringst eigene Ideen ein.
+ Du unterstützt bei der Weiterentwicklung, Analyse und Behebung von Fehlern in Unit-Tests innerhalb bestehender .NET-Anwendungen.
+ Du sammelst praktische Erfahrungen in der Softwareentwicklung mit C#, Angular und Python sowie im Bereich Unit Testing.
+ Du arbeitest in einem agilen Scrum-Team mit aktuell sieben Entwicklern und unterstützt aktiv laufende Projekte im Umfeld der ADAC Versicherungen.
+ Dein Profil
+ Du befindest Dich in einem laufenden Studium der Informatik, Softwaretechnik oder eines vergleichbaren Studiengangs.
+ Du verfügst über erste Grundkenntnisse in Azure DevOps, CI/CD und Git.
+ Idealerweise konntest Du bereits erste Erfahrung im Scripting (PowerShell, YAML oder Bash) sammeln.
+ Du arbeitest strukturiert, eigenständig und zuverlässig und hast Spaß daran, technische Zusammenhänge zu verstehen.
+ Dein Interesse an Cloud-Technologien, Automatisierung und Softwarequalität rundet Dein Profil ab.
+ Wir bieten
+ Verkehrsgünstige Lage
+ Kantine & Cafeteria
+ Hybrides Arbeiten
+ Moderne Arbeitsplatzausstattung
+ Mitarbeiterrabatte
+ Unser Kontakt
+Wir freuen uns auf Deine aussagekräftige Onlinebewerbung unter Angabe der Kennziffer 16434. Bei Fragen hilft Dir das Bewerbermanagement unter der Nummer 089 7676 4111 gerne weiter.
+Wir möchten Dich darauf hinweisen, dass die Stelle befristet ist und in Teilzeit mit 20 Std./Woche besetzt wird.

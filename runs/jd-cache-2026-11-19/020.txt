@@ -1,0 +1,38 @@
+URL: https://www.linkedin.com/jobs/view/4476153418
+TITLE: Germany-Based English & German AI Generalist Trainer 2026 May
+COMPANY: RemoExperts
+LOC: Germany
+POSTED: 2026-11-17
+title: Germany-Based English & German AI Generalist Trainer 2026 May
+company: RemoExperts
+posted: 2 days ago
+applicants: 35 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fgermany-based-english-german-ai-generalist-trainer-2026-may-at-remoexperts-4476153418&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+About The Role
+ As an AI Generalist Trainer at Rex.zone, you will evaluate and improve AI systems by reviewing model-generated responses in English and German. You will perform RLHF-style ranking, prompt evaluation, QA evaluation, and validation against policy and annotation guidelines to improve training data quality and model performance.
+ Responsibilities
+ Review prompts and model outputs in English and German
+ Rank and compare multiple model responses using RLHF-aligned criteria
+ Write concise, evidence-based rationales that justify evaluation decisions
+ Execute QA evaluation for annotation accuracy, consistency, and guidelines compliance
+ Label and categorize data, including content safety labeling when required
+ Validate edge cases, detect policy violations, and escalate ambiguous items with clear notes
+ Track common failure modes and propose rubric improvements
+ Maintain throughput while meeting accuracy targets and quality benchmarks
+ Basic Qualifications
+ Must be based in Germany and able to work remotely from Germany
+ Fluent in German and English (reading, writing, comprehension)
+ Strong analytical skills and attention to detail
+ Comfortable with structured tasks, feedback loops, and quality audits
+ Able to explain reasoning clearly and objectively in written rationales
+ Preferred Qualifications
+ Experience with AI data labeling, LLM evaluation, prompt evaluation, or QA evaluation
+ Familiarity with RLHF concepts and ranking tasks
+ Knowledge of content safety labeling (toxicity, policy compliance, sensitive content)
+ Self-driven and reliable in a remote environment
+ FAQ
+ Is this role remote?
+ Yes. This is a fully remote, full-time role, and you must be based in Germany.
+ Do I need AI experience?
+ AI experience is helpful but not required; strong analytical skills and consistent guideline-following matter most.

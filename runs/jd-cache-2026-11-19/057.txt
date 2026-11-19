@@ -1,0 +1,51 @@
+URL: https://www.linkedin.com/jobs/view/4492192168
+TITLE: SAP SAC (Planning) Consultant
+COMPANY: EPAM Systems
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-19
+title: SAP SAC (Planning) Consultant
+company: EPAM Systems
+posted: 3 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fhu.linkedin.com%2Fjobs%2Fview%2Fsap-sac-planning-consultant-at-epam-systems-4492192168&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+We are establishing SAP Analytics Cloud (SAC) as the planning solution within our system landscape and are searching for someone who can take on the responsibilities below.
+ Responsibilities
+ Analyze, structure, and align business planning requirements (e.g., financial, sales, or workforce planning) in close collaboration with internal business departments
+ Design the technical and functional implementation concept for the planning landscape, ensuring integration with the existing SAP system landscape (SAP S/4HANA, SAP Datasphere)
+ Design and implement data security, role-specific access, and authorization structures within SAP SAC and its interfaces to SAP S/4HANA
+ Build and implement planning layouts and data models, including dimension and key figure modeling and version management for Actuals, Plan, and Forecast scenarios
+ Establish and configure data connections between SAP SAC and source systems (SAP S/4HANA via CDS views, SAP Datasphere) to ensure seamless data exchange
+ Set up and validate the write-back (retraction) of SAC planning data into SAP S/4HANA, specifically for Plan Data Line Items and Activity Cost Rates, to ensure data consistency
+ Connect and harmonize actual financial data from SAP S/4HANA via CDS views for ongoing actual-vs-plan comparisons and rolling forecasts
+ Develop intuitive, input-ready stories, tables, and dashboards for business planners and key users
+ Create automated planning functions, such as allocation rules, Data Actions, currency translations, and calculations using Advanced Formulas
+ Execute and document functional, integration, and performance tests for the planning functionalities
+ Resolve bugs systematically through issue and defect tracking during hypercare and deployment
+ Create comprehensive technical system documentation, process flows, and user manuals for key users and administrators
+ Conduct enablement workshops to empower internal key users to independently manage and administer SAC models
+ Requirements
+ 3-5 years of proven hands-on experience designing, modeling, and implementing planning solutions using SAP Analytics Cloud (SAC)
+ Deep functional understanding of corporate finance processes, including Integrated Financial Planning, P&L, Balance Sheet, Cash Flow planning, and Cost Center budgeting
+ Proficiency in building SAC planning models, such as dimension and key figure modeling and version management
+ Expertise in developing complex business and calculation logics using Data Actions and Advanced Formulas
+ Proven experience connecting SAP S/4HANA, including data import via CDS views and configuring data retraction (Write-Back / Retraction) to S/4HANA
+ Strong communication and moderation skills to translate Finance/Controlling business requirements into precise technical specifications
+ Structured, self-driven work ethic with the ability to resolve complex data structure and performance issues
+ Fluent English skills (written and spoken) for project documentation and stakeholder alignment
+ Nice to have
+ Practical experience with the SAP standard package "Integrated Financial Planning for SAP S/4HANA" (specifically Scope Items 1HB / 4RC)
+ Experience in data harmonization and provisioning via SAP Datasphere to support complex planning structures
+ Initial experience designing or connecting Sales & Operations (S&OP) or demand planning models as a bridge between sales and financial planning
+ We offer
+ International projects with top brands
+ Work with global teams of highly skilled, diverse peers
+ Healthcare benefits
+ Employee financial programs
+ Paid time off and sick leave
+ Upskilling, reskilling and certification courses
+ Unlimited access to the LinkedIn Learning library and 22,000+ courses
+ Global career opportunities
+ Volunteer and community involvement opportunities
+ EPAM Employee Groups
+ Award-winning culture recognized by Glassdoor, Newsweek and LinkedIn

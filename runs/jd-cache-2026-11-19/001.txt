@@ -1,0 +1,48 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-Python-KI-LLMs-Machine-Learning-w-m-d-Coburg-HUK-COBURG-Versicherungsgruppe--14773978-inline.html
+TITLE: Werkstudent Python & KI (LLMs / Machine Learning) (w/m/d)
+COMPANY: HUK-COBURG Versicherungsgruppe
+LOC: Coburg
+POSTED: stepstone
+title: Werkstudent Python & KI (LLMs / Machine Learning) (w/m/d)
+company: HUK-COBURG Versicherungsgruppe
+posted: 2026-11-19T12:29:06.547Z
+location: Coburg | remote: 
+---
+Einleitung
+ Hallo, lass uns WIR sagen! 
+ Im Data Analytics Team der HUK-COBURG transformieren wir Daten in echte Mehrwerte für über 13 Mio. Kund:innen. Als Deutschlands führende Kfz-Versicherung sind wir ein traditionsreiches und stabiles Unternehmen, welches zielgerichtet in Innovation und seine datengetriebene Zukunft investiert. Unsere agilen Data Analytics Teams setzen modernste Machine Learning und KI-Methoden ein, um Prozesse zu optimieren, faire Preise zu berechnen, Schäden digital und intelligent zu steuern und um neue, innovative Versicherungsprodukte zu entwickeln. 
+Werde Teil unserer großen Data-Community, entwickle gemeinsam mit vielen weiteren, erfahrenen Datenspezialist:innen praxisnahe Machine Learning-Anwendungen und gestalte so den durch Daten, Machine Learning und KI getriebenen Wandel bei einem der größten Versicherer Deutschlands mit.
+ Werkstudent Python & KI (LLMs / Machine Learning) (w/m/d) 
+Coburg, Bayern, Deutschland
+ Beschäftigungsart Teilzeit
+ Wochenarbeitszeit 20 Stunden
+ Befristungsart Befristet
+ Befristung 6 Monate
+ Besetzungsstart 01.01.2027
+ Aufgaben
+ Unterstützung des Data Analytics-Teams im Bereich Python-Entwicklung und Retrieval-Augmented Generation (RAG)
+ Mitwirkung in spannenden Projekten an der Schnittstelle von Softwareentwicklung und Künstlicher Intelligenz
+ Unterstützung bei der Implementierung von Features sowie bei der Evaluation bestehender Systeme und Automatisierung von Prozessen
+ Profil
+ Laufendes Studium in Data Science, Machine Learning, Mathematik, Physik, VWL, Informatik oder einem verwandten Fachgebiet
+ Sichere Python-Kenntnisse
+ Verständnis für LLMs und RAG-Systeme vorteilhaft
+ Eigeninitiative und Lernbereitschaft
+ Strukturierte Arbeitsweise sowie Kommunikations- und Teamfähigkeit
+ Hybrides Arbeitsmodell: Bereitschaft zur Präsenz in Coburg
+ Wir bieten
+ Arbeitgeberzuschüsse: Dein Plus zum Gehalt – 13,3 Monatsgehälter, leistungsorientierte Vergütung, Mobilitätszuschüsse, vermögenswirksame Leistungen
+ Weiterentwicklung: Erreiche deine Ziele – Qualifizierungsmaßnahmen, Zuschüsse zu Selbstbildungsmaßnahmen, eigenes Schulungszentrum
+ Beruf & Familie: Damit du dich bei uns wohlfühlst, schaffen wir die passenden Rahmenbedingungen - Unterstützung bei Kinder- und Ferienbetreuung sowie Angehörigenpflege und Teilzeit- Führungspositionen
+ Gesundheit & Wohlbefinden: Geht´s dir gut, geht`s uns gut – Angebote zu Bewegung, Ernährung und mentaler Gesundheit, Bezuschussung Mitgliedschaft in Fitnessstudios und von Präventionskursen
+ Altersvorsorge: Heute schon an morgen denken – betriebliche Altersvorsorge
+ Mitarbeitendenberatung: Manchmal ist es einfach gut, jemanden von außen mitdenken zu lassen - Mitarbeitendenberatung zur Unterstützung in sämtlichen Lebensphasen
+ Dienstfahrrad: Radeln statt rollen - Bezuschussung deines Dienstfahrrads
+ Weitere Informationen
+ Haben wir dein Interesse geweckt? 
+ Dann bewirb dich jetzt!
+ HIER BEWERBEN 
+ HUK-COBURG 
+ Haftpflicht-Unterstützungs-Kasse kraftfahrender Beamter Deutschlands auf Gegenseitigkeit in Coburg
+Willi-Hussong-Straße 2 | 96444 Coburg
+ www.huk.de

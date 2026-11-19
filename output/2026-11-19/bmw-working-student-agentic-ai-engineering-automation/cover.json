@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Working Student for Agentic AI & Engineering Automation (f/m/x)",
+    "company": "BMW Group",
+    "city": "Ulm",
+    "greeting": "Dear BMW Group team,",
+    "opening": "I am applying for the Working Student position for Agentic AI & Engineering Automation. Building LLM prototypes that work with knowledge sources and evaluating them for reliability and traceability is exactly what my latest project is about.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence. Before my Master's I worked with business data on SAP platforms as a Business Analyst and in SAP data consulting.",
+    "achievements": [
+      {
+        "lead": "DocuMind",
+        "impact": "I built a RAG system over technical PDF manuals with the Claude API that answered 91% of a 22-question test set correctly and refused all 4 unanswerable questions; hybrid BM25 and semantic retrieval raised MRR from 0.748 to 0.898"
+      },
+      {
+        "lead": "Traceability",
+        "impact": "DocuMind cites the file and page for every answer, and its evaluation harness traced both wrong answers to chunk boundaries rather than the model"
+      },
+      {
+        "lead": "Python, REST and GitHub",
+        "impact": "it runs as a FastAPI REST API with 37 offline unit tests, GitHub Actions CI and Docker"
+      }
+    ],
+    "problems_section": "I would help identify engineering workflows that suit AI support, build prototypes that connect LLMs to tools, APIs and documents, and evaluate them for reliability and practical value. I have not built agents with tool calling yet; with my RAG and API experience I can learn agent frameworks quickly.",
+    "closing": "I am willing to relocate to Ulm and can work up to 20 hours per week, starting immediately. I would be glad to discuss the role.",
+    "date": "2026-11-19",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-11-19/bmw-working-student-agentic-ai-engineering-automation/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

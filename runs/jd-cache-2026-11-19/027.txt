@@ -1,0 +1,41 @@
+URL: https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004041227-S
+TITLE: Werkstudent (w/m/d) - Frontend Development & UI/UX / 1706
+COMPANY: IONOS SE
+LOC: Regensburg
+POSTED: AA
+title: Werkstudent (w/m/d) - Frontend Development & UI/UX / 1706
+company: IONOS SE
+posted: 2026-11-19
+location: Regensburg | remote: 
+---
+Über IONOS
+Bei IONOS verwalten wir nicht nur Server, wir prägen mit unseren Lösungen die digitale Zukunft für über 6,2 Millionen Kundinnen und Kunden weltweit. Als Europas führender Hosting-Anbieter und Pionier für unabhängige Cloud-Lösungen bauen wir eine Infrastruktur der nächsten Generation: von souveränen Cloud-Architekturen und hochperformanten GPU-Clustern bis hin zu integrierten KI-Automatisierungstools. 
+Was uns antreibt: Digitale Entscheidungsfreiheit für Europa und echter Impact für kleine und mittlere Unternehmen (KMU) sowie Großunternehmen. Wir arbeiten in agilen Teams, setzen auf transparente Strukturen und glauben daran, dass Exzellenz und Innovation nur mit echtem Teamgeist entstehen. 
+Bereit für Deinen nächsten Schritt? Werde ein Teil von IONOS und wachse mit uns.
+Für unser Entwicklungsteam am Standort Regensburg suchen wir Verstärkung durch eine engagierte Persönlichkeit, die gestalterisches Denken mit praktischer Webentwicklung verbinden und aktiv an AutoDNS im Bereich Frontend mitarbeiten möchte.
+Aufgabenbereich
+UI/UX-Konzeption und Prototyping: Visuell ansprechende Gestaltung bestehender und neuer Oberflächenmodule in Figma unter Einhaltung aktueller Standards zur Barrierefreiheit.
+Frontend-Entwicklung: Übersetzung der Entwürfe in modernen, responsiven Code mit VueJS (JavaScript), Laravel (PHP) und HTML/CSS sowie Weiterentwicklung der AutoDNS-UI-Plattform und unserer Microservices.
+Testing und Optimierung: Durchführung von Usability-Checks, Analyse und Behebung von Darstellungs- sowie Logikfehlern und kontinuierliche Verbesserung der Performance.
+KI-Nutzung: Aktive Verwendung und Mitgestaltung moderner KI-Werkzeuge im täglichen Workflow (z. B. KI-Coding-Assistenten für Refactoring, Tests, Code-Reviews und eigene KI-Agenten).
+Teamarbeit: Enge Zusammenarbeit mit Senior-Entwicklern, Designern und dem Produktmanagement.
+Qualifikationen
+Eingeschriebenes Studium im Bereich Informatik, Wirtschaftsinformatik, Medieninformatik oder einem vergleichbaren Studiengang mit der Möglichkeit einer studienbegleitenden Tätigkeit.
+Ausgeprägtes Gespür für Ästhetik, Typografie und Usability sowie erste praktische Erfahrung mit Prototyping-Tools wie Figma.
+Fundierte Kenntnisse in HTML/CSS und JavaScript sowie idealerweise erste Erfahrung mit modernen Web-Frameworks (z. B. Vue.js, React, Laravel).
+Sicherer Umgang mit Git und Interesse an Technologien wie GitLab, Docker, Kubernetes und CI/CD.
+Freude am Experimentieren mit KI-Tools im Design- und Coding-Alltag, um Ideen effizient in Prototypen oder Code umzusetzen.
+Strukturierte Arbeitsweise, Begeisterung für neue Technologien und idealerweise erste eigene Projekte oder ein Portfolio (z. B. auf GitHub).
+Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift.
+Von Vorteil: Kenntnisse in Go, Python, Java, Elasticsearch, Microservice-Architekturen oder Datenbank-Optimierung.
+Benefits
+Hybrides Arbeitsmodell.
+Flexible Arbeitszeiten durch Vertrauensarbeitszeit.
+Ab einigen Standorten eine bezuschusste Kantine und verschiedene kostenfreie Getränke.
+Moderne Büroflächen mit sehr guter Verkehrsanbindung.
+Diverse Mitarbeiterrabatte für Aktivitäten und Produkte.
+Mitarbeiterevents wie Sommer- und Winterfeiern, sowie Workshops.
+Zahlreiche Weiterbildungs- und Entwicklungsmöglichkeiten.
+Verschiedene Gesundheitsangebote, wie Sport- und Gesundheitskurse.
+Hinweis zur Bewerbung
+Wir wertschätzen Vielfalt und begrüßen alle Bewerbungen – unabhängig von z. B. Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion, Behinderung, Alter sowie sexueller Orientierung und Identität, körperlichen Merkmalen, Familienstand oder einem anderen sachfremden Kriterium nach geltendem Recht.
