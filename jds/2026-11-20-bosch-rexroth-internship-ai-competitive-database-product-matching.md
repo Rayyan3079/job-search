@@ -1,0 +1,43 @@
+URL: https://jobs.smartrecruiters.com/BoschGroup/744000162723219
+Company: Bosch Rexroth
+Title: Internship – AI-Based Competitive Database and Product Matching Tool
+Found: 2026-11-20
+Source: company career site (SmartRecruiters)
+
+URL: https://jobs.smartrecruiters.com/BoschGroup/744000162723219
+TITLE: Internship in Development of an AI-Based Competitive Database and Product Matching Tool
+COMPANY: Bosch
+LOC: Ulm, Germany
+POSTED: 2026-11-20
+title: Internship in Development of an AI-Based Competitive Database and Product Matching Tool
+company: Bosch Group
+posted: 2026-11-20
+location: Ulm
+---
+At Bosch Rexroth, everything revolves around movement and the success of our customers. With our networked drive and control technologies as well as digital solutions, their machines and systems work efficiently, safely and powerfully. We offer components, system solutions and services for mobile and industrial applications as well as for factory automation. In all areas, we value the know-how and commitment of our employees and enable dynamic careers in an international environment. 
+ Around 33,800 people in over 80 countries - and one corporate purpose: "We move industries to make our planet a better place." 
+ Do you want to make a difference? Then we look forward to receiving your application to Bosch Rexroth AG.
+Are you passionate about Artificial Intelligence and interested in turning complex technical product data into smart, user-friendly solutions? We are looking for a motivated student to support us in developing a new AI-based competitive product intelligence solution for Bosch Rexroth Mobile Hydraulics. The goal of the internship is to build a structured database for competitor products, as well as develop an intelligent tool that analyzes competitor product specifications and identifies suitable Bosch Rexroth product alternatives.
+ During your internship, you will work at the intersection of Artificial Intelligence, software development, data engineering, product management and competitive intelligence, with the opportunity to develop a working solution with direct business relevance.
+ You will design and develop a scalable, competitive product database, as well as structure technical data from product catalogues, datasheets and other documentation.
+ In addition, you will develop AI-supported methods for extracting technical product information and build an intelligent product-matching algorithm.
+ Furthermore, you will apply technologies such as LLMs, RAG, embeddings and semantic search. You will also combine AI-based matching with technical engineering rules.
+ Your task will include developing an intuitive prototype user interface, creating side-by-side competitive product comparisons and devising a transparent scoring, as well as recommendation methodology.
+ Last but not least, you will validate AI recommendations together with product experts, document the solution and recommend a roadmap for future industrialization.
+Education: studies in the field of Computer Science, Artificial Intelligence, Data Science, Software Engineering or comparable
+ Experience and Knowledge: of tools for AI engineering; experience in Python, SQL or relational databases, API development, AI / Machine Learning, LLMs and Generative AI, RAG architectures, embeddings, as well as semantic search, Git/GitHub, web application development
+ Personality and Working Practice: you are a motivated individual
+ Work Routine: your on-site presence is required
+ Enthusiasm: for AI-powered competitive intelligence and product mapping
+ Languages: business fluent in English and basic German
+Start:  according to prior agreement
+ Duration: 3 months
+ Requirement for this internship is the enrollment at university. Please attach your CV, transcript of records, enrollment certificate, examination regulations and if indicated a valid work and residence permit.
+ As a global company, we are legally required to comply with applicable EU and U.S. (re-)export control and sanctions regulations. This means that for certain, particularly sensitive positions, we may only hire individuals who have undergone an additional legal screening. This position is one such sensitive role. We will therefore ask you for additional information required for this screening as the application process continues. You can find information about the processing of your data in our Privacy Notice for the application process.
+ Diversity and inclusion are not just trends for us but are firmly anchored in our corporate culture. Therefore, we welcome all applications, regardless of gender, age, disability, religion, ethnic origin or sexual identity.
+ Need further information about the job? 
+Edgar Köpplin (Functional Department)
++49 173 7497942
+ #LI-DNI 
+ You can also find more information about us at  www.boschrexroth.de/karriere  and on our social media channels, for example Instagram. 
+ Move with us. Win together.

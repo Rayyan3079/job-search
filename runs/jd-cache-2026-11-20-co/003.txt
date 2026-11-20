@@ -1,0 +1,30 @@
+URL: https://jobs.smartrecruiters.com/BoschGroup/744000162723399
+TITLE: Praktikum in der Entwicklung einer KI-basierten Wettbewerbsdatenbank und eines Tools für Produktabgleich (w/m/div.)
+COMPANY: Bosch
+LOC: Ulm, Germany
+POSTED: 2026-11-20
+title: Praktikum in der Entwicklung einer KI-basierten Wettbewerbsdatenbank und eines Tools für Produktabgleich (w/m/div.)
+company: Bosch Group
+posted: 2026-11-20
+location: Ulm
+---
+Bei Bosch Rexroth dreht sich alles um Bewegung und den Erfolg unserer Kunden. Mit unseren vernetzbaren Antriebs- und Steuerungstechnologien sowie digitalen Lösungen arbeiten Maschinen und Anlagen effizient, sicher und leistungsstark. Wir bieten unseren Kunden Komponenten, Systemlösungen und Services für mobile und industrielle Anwendungen ebenso wie für die Fabrikautomation. In allen Bereichen schätzen wir das Know-how und das Engagement unserer Mitarbeitenden und ermöglichen dynamische Karrieren in einem internationalen Umfeld. 
+ Rund 32.000 Menschen in über 80 Ländern - und ein Unternehmenszweck: „We move industries to make our planet a better place.” 
+ Wollen auch Sie etwas bewegen? Dann freuen wir uns auf Ihre Bewerbung bei der Bosch Rexroth AG.
+Begeistern Sie sich für Künstliche Intelligenz und möchten komplexe technische Produktdaten in intelligente, benutzerfreundliche Lösungen überführen? Wir suchen eine:n motivierte:n Studierende:n zur Unterstützung bei der Entwicklung einer neuen KI-basierten Lösung für Competitive Product Intelligence für Bosch Rexroth Mobile Hydraulics. Ziel des Praktikums ist es, eine strukturierte Datenbank für Wettbewerbsprodukte aufzubauen sowie ein intelligentes Tool zu entwickeln, das Produktspezifikationen von Wettbewerbern analysiert und passende Bosch Rexroth Produktalternativen identifiziert.
+ Während Ihres Praktikums arbeiten Sie an der Schnittstelle von Künstlicher Intelligenz, Softwareentwicklung, Data Engineering, Produktmanagement und Competitive Intelligence – mit der Möglichkeit, eine funktionsfähige Lösung mit direkter Business-Relevanz zu entwickeln.
+ Sie konzipieren und entwickeln eine skalierbare Wettbewerbsprodukt-Datenbank und strukturieren technische Daten aus Produktkatalogen, Datenblättern und weiterer Dokumentation.
+ Darüber hinaus entwickeln Sie KI-gestützte Methoden zur Extraktion technischer Produktinformationen und bauen einen intelligenten Produkt-Matching-Algorithmus.
+ Außerdem wenden Sie Technologien wie LLMs, RAG, Embeddings und semantische Suche an. Zusätzlich kombinieren Sie KI-basiertes Matching mit technischen Engineering-Regeln.
+ Zu Ihren Aufgaben gehört die Entwicklung eines intuitiven Prototypen-User-Interfaces, die Erstellung von Side-by-Side-Vergleichen von Wettbewerbsprodukten sowie die Ausarbeitung einer transparenten Scoring- und Empfehlungsmethodik.
+ Nicht zuletzt validieren Sie KI-Empfehlungen gemeinsam mit Produktexpert:innen, dokumentieren die Lösung und empfehlen eine Roadmap für die zukünftige Industrialisierung.
+Ausbildung: Studium im Bereich Informatik, Künstliche Intelligenz, Data Science, Software Engineering oder vergleichbar
+ Erfahrungen und Kenntnisse: in Tools für AI Engineering; Erfahrung in Python, SQL oder relationalen Datenbanken, API-Entwicklung, AI Machine Learning, LLMs und Generative AI, RAG-Architekturen, Embeddings sowie semantischer Suche, Git GitHub, Webanwendungsentwicklung
+ Persönlichkeit und Arbeitsweise: Sie sind eine motivierte Person
+ Arbeitsroutine: Ihre Anwesenheit vor Ort ist erforderlich
+ Begeisterung: für KI-gestützte Competitive Intelligence und Produkt-Mapping
+ Sprachen: verhandlungssicheres Englisch und grundlegende Deutschkenntnisse
+Start: nach vorheriger Absprache Dauer: 3 Monate Voraussetzung für dieses Praktikum ist die Immatrikulation an einer Hochschule. Bitte fügen Sie Ihren Lebenslauf, Ihre Leistungsübersicht (Transcript of Records), Ihre Immatrikulationsbescheinigung, Ihre Prüfungsordnung sowie – falls erforderlich – eine gültige Arbeits- und Aufenthaltserlaubnis bei. Als globales Unternehmen sind wir gesetzlich verpflichtet, die geltenden EU- und US-(Re-)Exportkontroll- und Sanktionsvorschriften einzuhalten. Das bedeutet, dass wir für bestimmte, besonders sensible Positionen nur Personen einstellen dürfen, die eine zusätzliche rechtliche Überprüfung durchlaufen haben. Bei dieser Position handelt es sich um eine solche sensible Tätigkeit. Wir werden Sie daher im weiteren Verlauf des Bewerbungsprozesses um zusätzliche Informationen bitten, die für diese Überprüfung erforderlich sind. Informationen zur Verarbeitung Ihrer Daten finden Sie in unserem Datenschutzhinweis für den Bewerbungsprozess. Vielfalt und Inklusion sind für uns nicht nur Trends, sondern fest in unserer Unternehmenskultur verankert. Daher begrüßen wir alle Bewerbungen – unabhängig von Geschlecht, Alter, Behinderung, Religion, ethnischer Herkunft oder sexueller Identität.
+ Benötigen Sie weitere Informationen zur Stelle? 
+Edgar Köpplin (Fachbereich) +49 173 7497942
+ #LI-DNI Weitere Informationen über uns finden Sie auch unter www.boschrexroth.de/karriere sowie auf unseren Social-Media-Kanälen, zum Beispiel Instagram. Bewegen Sie mit uns etwas. Gewinnen wir gemeinsam.

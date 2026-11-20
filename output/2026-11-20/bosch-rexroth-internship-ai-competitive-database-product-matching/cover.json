@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Internship in Development of an AI-Based Competitive Database and Product Matching Tool",
+    "company": "Bosch Rexroth AG",
+    "city": "Ulm",
+    "greeting": "Dear Bosch Rexroth Mobile Hydraulics team,",
+    "opening": "I am applying for the internship on an AI-based competitive database and product matching tool. Extracting structured information from technical documents with LLMs, embeddings and semantic search, and presenting it in a usable prototype, is very close to what I built in my latest project.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence. Before my Master's I built relational data models and SQL validations on SAP platforms.",
+    "achievements": [
+      {
+        "lead": "Technical documents",
+        "impact": "I built DocuMind (github.com/Rayyan3079/documind-rag), which ingests PDF manuals, embeds them and answers questions with page-level citations; 91% correct on a 22-question test set"
+      },
+      {
+        "lead": "Matching quality",
+        "impact": "I combined semantic search with BM25 keyword search, raising MRR from 0.748 to 0.898, which matters for exact technical terms like part numbers"
+      },
+      {
+        "lead": "Databases and UI",
+        "impact": "I built data models with SQL validation in industry, and DocuMind has a FastAPI backend and a Streamlit UI with transparent sources"
+      }
+    ],
+    "problems_section": "I would structure competitor data from catalogues and datasheets into a database, build AI-supported extraction and a matching method that combines semantic similarity with engineering rules, and validate recommendations with product experts. Hydraulics is new to me, and my German is basic (A1), which I am improving in classes.",
+    "closing": "I am willing to relocate to Ulm for the 3-month on-site internship and can start by agreement. As a non-EU student I will agree the weekly hours with you so they fit my permitted working days. I would be glad to discuss the role.",
+    "date": "2026-11-20",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-11-20/bosch-rexroth-internship-ai-competitive-database-product-matching/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}
