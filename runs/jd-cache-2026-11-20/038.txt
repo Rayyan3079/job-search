@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4463491042
+TITLE: Machine Learning Engineer
+COMPANY: Superhuman
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-14
+title: Machine Learning Engineer
+company: Superhuman
+posted: 6 days ago
+applicants: Over 200 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fpt.linkedin.com%2Fjobs%2Fview%2Fmachine-learning-engineer-at-superhuman-4463491042&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Superhuman offers a dynamic hybrid working model for this role. This flexible approach gives team members the best of both worlds: plenty of focus time along with in-person collaboration that helps foster trust, innovation, and a strong team culture.
+ About Superhuman
+ Superhuman is an AI productivity suite that makes AI work for everyone. Over 40 million people rely on it daily to get work done. A recognized leader in productivity tools, Superhuman is the maker of popular products including Docs, Fathom, Go, GPTZero, Grammarly, and Mail. The newest product, Superhuman Go, builds on Grammarly’s ability to deliver help everywhere people work. It lets anyone build proactive agents that act as teammates across more than 1 million apps and websites, without changing how they work. Learn more at superhuman.com.
+The Opportunity
+We’re looking for a foundational Machine Learning Engineer to join our team in Porto and build the evaluation foundation behind the next generation of AI-native productivity at Superhuman, specifically our agent platform, where multiple AI agents collaborate to solve complex user problems. You’ll own how we define, measure, and improve quality. You’ll build the eval datasets, the infrastructure around them, and the metrics that tell us whether our models and agents are actually getting better for users.
+This is a high-autonomy, high-impact role on a foundational team that moves fast from idea to production. As Superhuman Docs’ collaborative workspaces evolve so users can solve arbitrarily complex tasks with agents, rigorous measurement will be what lets us ship with confidence.
+ In this role, you will:
+ Build high-quality evaluation datasets: Design, source, and curate golden sets, labeled data, and synthetic data for agent behaviors, search ranking, and proactive suggestions. Define annotation guidelines, manage labeling workflows, and ensure datasets are representative, versioned, and trustworthy.
+ Build the eval infrastructure: Create scalable, reproducible pipelines for running offline evaluations, regression testing, and benchmarking across models, prompts, and agent configurations. Make it easy for every team to run evals and trust the results.
+ Measure and improve quality: Define metrics that reflect real user value, from classic ML metrics (precision/recall, NDCG, calibration) to LLM-as-judge and human-eval approaches. Validate that automated metrics correlate with user outcomes, and use the results to drive model and product decisions.
+ Own classic ML systems: Develop and deploy ML models for core product experiences, including search ranking and proactive suggestions that anticipate user needs, with evaluation built in from day one.
+ Support the agent platform: Partner with the team building orchestration, routing, and planning to define success criteria and quality gates for multi-agent workflows.
+ Close the loop with production: Connect offline evals to online experiments and real-world signals, so we catch regressions early and learn from what users actually experience.
+ Ship fast: Move quickly from idea to impact, with no red tape or endless approvals, on a platform used by millions.
+ Qualifications
+ 5+ years of industry experience as a machine learning engineer or applied research scientist.
+ Strong foundation in classic ML and NLP, including experimental design, statistics, and metric design, plus working knowledge of modern LLM approaches.
+ Hands-on experience building evaluation datasets and the tooling and infrastructure to run evals at scale (data pipelines, labeling workflows, benchmarking frameworks).
+ Experience using evaluation results to measure and improve model or product quality, whether for ranking, classification, or LLM-based systems.
+ Strong Python and data engineering skills, with experience in reproducible, production-grade ML pipelines.
+ Deep care about the end-user experience and a drive to ensure high quality.
+ Ability to work independently with minimal guidance, manage priorities across multiple projects, and collaborate effectively with cross-functional teams in a fast-paced, results-driven environment.
+ Nice to have: experience with LLM-as-judge, agent or workflow evaluation, or search/ranking systems; MS/PhD in Computer Science or a related field.
+ Compensation And Benefits
+ Professional Growth: We believe that autonomy and trust are key to empowering our team members to do their best, most innovative work in a way that aligns with their interests, talents, and well-being
+ A connected team: Superhuman builds a product that helps people connect, and we apply this mindset to our own team. Our remote-first, hybrid model enables a highly collaborative culture rooted in our values. We work to foster belonging among team members in a variety of ways. This includes our team member resource groups, Superhuman Circles, which promote connection among those with shared identities including BIPOC and LGBTQIA+ team members, women, and parents. We also celebrate our colleagues and accomplishments with global, local, and team-specific programs.
+ Comprehensive benefits for candidates based in Portugal: Superhuman offers all team members competitive pay along with a benefits package encompassing life care (including mental health care and risk benefits) and ample and defined time off. We also offer support to set up a home office, wellness and pet care stipends, learning and development opportunities, and more.
+ Relocation Support: Superhuman provides relocation support to make your move to Porto seamless. Our package includes visa assistance, destination services to help you and your family settle in comfortably, and a relocation bonus to cover additional expenses, such as temporary housing.
+ We encourage you to apply
+At Superhuman, we value our differences, and we encourage all—especially those whose identities are traditionally underrepresented in tech organizations—to apply. Superhuman is an equal opportunity company. We do not discriminate on the basis of race or ethnic origin, religion or belief, color, gender expression or identity, sexual orientation, sexual identity, national origin, citizenship, age, marital status, veteran status, disability status, criminal prosecution, judgment in a criminal case, or any other characteristic protected by law.
+For more details about the personal data Superhuman collects during the recruitment process, for what purposes, and how you can address your rights, please see the Superhuman Data Privacy Notice for Candidates here.
+Compensation Range: €90K - €115K

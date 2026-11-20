@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4491935512
+TITLE: BI Developer / Consultant
+COMPANY: Panel Sistemas Informaticos
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-20
+title: BI Developer / Consultant
+company: Panel Sistemas Informaticos
+posted: 4 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fes.linkedin.com%2Fjobs%2Fview%2Fbi-developer-consultant-at-panel-sistemas-informaticos-4491935512&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Publicación
+Buscamos BI Developer / Consultant para incorporarse a un proyecto enfocado en analítica, reporting e inteligencia de negocio.
+Ubicación: España
+Modalidad: Remota
+Salario: Hasta 35.000 brutos anuales
+Contrato: Indefinido
+Funciones
+Desarrollo y mantenimiento de soluciones de Business Intelligence.
+Creación de dashboards, informes y KPIs para la toma de decisiones.
+Diseño, optimización y mantenimiento de modelos de datos.
+Integración y análisis de información procedente de distintas fuentes.
+Garantizar la calidad y consistencia de los datos utilizados en reporting.
+Gestión y monitorización de procesos mediante Control-M.
+Soporte, troubleshooting y resolución de incidencias en entornos productivos.
+Aplicación de herramientas de IA para el desarrollo y análisis de datos.
+Requisitos
+Al menos 2 años de experiencia como BI Developer / Consultant.
+Experiencia con Power BI y/o Qlik Sense.
+Nivel avanzado de SQL.
+Experiencia en dashboards, KPIs, reporting y modelos de datos.
+Conocimientos de data quality y validación de datos.
+Experiencia con Control-M.
+Se valora
+Experiencia utilizando herramientas de IA aplicadas al desarrollo, SQL, documentación o análisis de incidencias.
+Ofrecemos
+Contrato indefinido.
+Trabajo 100 remoto desde España.
+Salario de hasta 35.000 brutos anuales.
+Proyecto estable en entorno tecnológico y de análisis de datos.
+Aplica tu perfil y ¡hablamos!
+#BIDeveloper #PowerBI #QlikSense #SQL #BusinessIntelligence #EmpleoIT #Remoto #DataAnalytics
+Power BI, Qlik Sense, SQL, Control M, Data Modeling, Data Quality, Reporting, KPI Reporting, Business Intelligence, Artificial Intelligence,

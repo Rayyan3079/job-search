@@ -1,0 +1,46 @@
+URL: https://www.linkedin.com/jobs/view/4490463899
+TITLE: Werkstudent Datenanalyse und Testing von Hochvoltspeichern (w/m/x)
+COMPANY: BMW Group
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-11-17
+title: Werkstudent Datenanalyse und Testing von Hochvoltspeichern (w/m/x)
+company: BMW Group
+posted: 3 days ago
+applicants: 48 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-datenanalyse-und-testing-von-hochvoltspeichern-w-m-x-at-bmw-group-4490463899&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+THEORETISCH DIE BESTE ENTSCHEIDUNG. PRAKTISCH AUCH.
+ TEILE DEINE LEIDENSCHAFT.
+ Nur hochprofessionelle Abläufe in dynamischen Teams produzieren innovative Spitzentechnologie. Aber Fahrfreude wird bei uns von der Entwicklung bis zur Fertigung vor allem auch mit Spaß an der Arbeit und Begeisterung für das gemeinsame Projekt realisiert. Deshalb geben wir Studierenden bei uns nicht nur die Gelegenheit zum Zuhören, sondern auch zum Mitreden und Weiterdenken.
+Unser Team verantwortet die Systemabsicherung von Hochvoltspeichern der aktuellen und kommenden Fahrzeuggenerationen. Gemeinsam analysieren und validieren wir innovative Methoden und Tools und entwickeln diese weiter, um die Absicherung dieser Schlüsselkomponente des elektrischen Antriebs kontinuierlich zu verbessern.
+ Was erwartet dich?
+ Du unterstützt bei der Weiterentwicklung von Python-Skripten zur Bereinigung, Analyse, Visualisierung und automatisierten Auswertung von Messdaten aus Hochvoltspeichern und erhältst Einblicke in den Einsatz KI-gestützter Coding-Tools.
+ Außerdem wirkst du bei der Validierung von Skripten und Algorithmen mit, um die Reproduzierbarkeit und Nachvollziehbarkeit der Ergebnisse sicherzustellen.
+ Darüber hinaus unterstützt du bei der Dokumentation des Codes und der Erstellung verständlicher Verwendungsanleitungen.
+ Du wirkst bei der Vorbereitung und Durchführung von Versuchen mit, beispielsweise bei der Bereitstellung von Beistellteilen und der Erstellung von Testdokumenten.
+ Zudem unterstützt du beim Software-Troubleshooting und erhältst Einblicke in die systematische Fehleranalyse und -eingrenzung.
+ Abgerundet wird deine Tätigkeit durch die Unterstützung beim Flashen von Steuergeräten (BMS) des Hochvoltspeichers.
+ Was bringst du mit?
+ Studium der Ingenieurwissenschaften, Elektrotechnik, Informatik oder eines vergleichbaren Studiengangs.
+ Interesse an Hochvoltspeichern und elektrochemischen Systemen.
+ Erste Erfahrungen in der Datenanalyse und -visualisierung sowie gute Kenntnisse in Python.
+ Offenheit für den Einsatz von KI-Assistenztools, beispielsweise GitHub Copilot, in der Softwareentwicklung von Vorteil.
+ Erste Erfahrungen mit CAN-Kommunikationsprotokollen sowie Tools wie CANalyzer oder CANoe von Vorteil.
+ Teamfähigkeit, strukturierte Arbeitsweise und gute Kommunikationsfähigkeiten.
+ Gute Deutsch- und Englischkenntnisse.
+ Du begeisterst dich für Hochvoltspeicher, Datenanalyse und innovative Technologien rund um die Elektromobilität? Bewirb dich jetzt!
+ Was bieten wir dir?
+ Umfassendes Mentoring & Onboarding.
+ Persönliche & fachliche Weiterentwicklung.
+ Flexible Arbeitszeiten.
+ Mobilarbeit.
+ Attraktive & faire Vergütung.
+ Apartments für Studierende (nach Verfügbarkeit & nur am Standort München).
+ Und vieles mehr siehe jobs/waswirbieten
+ Startdatum: frühestens ab 11.01.2027
+ Dauer: 12 Monate
+ Arbeitszeit: Teilzeit
+Hilfreiche Tipps zu deiner Bewerbung und dem Bewerbungsprozess findest du hier.
+Wir bei der BMW Group legen großen Wert auf Gleichbehandlung und Chancengleichheit. Unsere Recruiting-Entscheidungen basieren auf der Persönlichkeit, den Erfahrungen und Fähigkeiten der Bewerber:innen.
+Mehr dazu hier
+Werkstudent Datenanalyse und Testing von Hochvoltspeichern (w/m/x)

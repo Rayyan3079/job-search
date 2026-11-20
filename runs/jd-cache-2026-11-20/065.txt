@@ -1,0 +1,30 @@
+URL: https://www.linkedin.com/jobs/view/4491909928
+TITLE: Working Student – Robot Teleoperation & Data Collection for Robot Foundation Models (m/w/d)
+COMPANY: Anton Robotics
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-11-20
+title: Working Student – Robot Teleoperation & Data Collection for Robot Foundation Models (m/w/d)
+company: Anton Robotics
+posted: 8 hours ago
+applicants: 70 applicants
+apply_offsite: 
+---
+About Anton Robotics 
+ Anton Robotics is an early-stage robotics startup founded out of TUM MIRMI and backed by over €1 million in pre-seed funding from a leading European VC. Based in Munich, the team builds scalable industrial robotics solutions to bridge the gap between frontier research and production-ready automation. The mission focuses on building the leading integration company for the autonomous manufacturing revolution in a fast-paced environment driven by a hands-on, high-ownership culture.
+ What you will do 
+ Operate robots via teleoperation systems to gather high-quality training data for robot foundation models.
+ Process, structure, and manage large datasets to support data engineering pipelines.
+ Collaborate closely with the robotics and engineering team to optimize data collection workflows.
+ Requirements 
+ Enrolled as a student in robotics, computer science, engineering, or a related technical field.
+ Strong interest in robotics, automation, and machine learning data pipelines.
+ Hands-on mindset with acute attention to detail during data collection and processing tasks.
+ Availability for 15 hours per week on-site in Munich.
+ Benefits 
+ State-of-the-Art Hardware: Work hands-on with the latest robotics platforms, hardware, GPUs, lab equipment, and AI tools.
+ Accelerate Your Growth: Take on challenging problems, learn quickly, and grow faster than in almost any other environment.
+ Grow With Us: Excellent interns and working students have the opportunity to join full-time and help build the company from its earliest days.
+ Great Perks: Free snacks, free beverages, sport membership benefits, team events, and an on-site cafeteria.
+ Team & Culture: Join a team of ambitious builders who enjoy solving hard problems and have fun playing with the latest technologies.
+ Your first months at Anton Robotics 
+ During your initial months, you will take on active teleoperation duties and integrate directly into our data processing workflows, building familiarity with our robotics infrastructure. You will work alongside our core team in Munich, contributing immediately to the data foundation required for our universal manipulators. If you match most of these requirements and are eager to shape the future of autonomous manufacturing, we encourage you to apply.

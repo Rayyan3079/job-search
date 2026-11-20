@@ -1,0 +1,39 @@
+URL: https://www.linkedin.com/jobs/view/4491936341
+TITLE: BI Developer
+COMPANY: Arktic
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-20
+title: BI Developer
+company: Arktic
+posted: 5 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+Arktic es una expedición. Una aventura construida por un grupo de profesionales que cree en el oficio de consultor, una exploración constante del negocio, la tecnología y la transformación de organizaciones. Nuestro objetivo va siguiendo un mapa, pero es tan importante llegar como descubrir nuevas rutas, superar retos y dejar un legado.
+ Aquí, nuestra gente es lo más importante. Cada profesional ocupa el lugar que le corresponde, permitiendo que el talento y la experiencia brillen por sí solas. La construcción de relaciones sólidas y la excelencia en el delivery son parte de los cimientos ya que la confianza con nuestros clientes es tan vital como la calidad de los resultados que entregamos.
+ Somos una empresa joven, dinámica y 100 % española, que une consultoría de negocio, tecnología y experiencia digital (DX) para acompañar a nuestros clientes en cada paso de su evolución, siempre desde el conocimiento, la pasión y la colaboración
+ Buscamos un BI Developer para el equipo de Finance & BSPM, garantizando la entrega, el mantenimiento, la evolución y la estabilidad operativa de las aplicaciones y procesos incluidos en el ámbito de responsabilidad de ACPM.
+ Principales responsabilidades: 
+ Diseñar, desarrollar y mantener informes, cuadros de mando (dashboards) y visualizaciones de datos utilizando Power BI y/o Qlik Sense.
+ Analizar los requisitos funcionales y de reporting, y traducirlos en modelos de datos, indicadores clave de rendimiento (KPIs) y visualizaciones eficaces.
+ Desarrollar y optimizar consultas SQL para la extracción, transformación, validación y generación de informes de datos.
+ Trabajar con diferentes fuentes de datos y garantizar la calidad, coherencia y fiabilidad de la información utilizada en los informes.
+ Desarrollar y mantener procesos de reporting, conjuntos de datos (datasets) y actualizaciones programadas de datos.
+ Dar soporte y supervisar procesos batch y cargas de trabajo programadas mediante Control-M.
+ Investigar y resolver incidencias relacionadas con el reporting, la calidad de los datos y los entornos de producción.
+ Aplicar los estándares de calidad del software, seguridad y desarrollo que correspondan.
+ Utilizar eficazmente herramientas de asistencia basadas en inteligencia artificial (IA) para tareas de desarrollo, análisis SQL, documentación, resolución de problemas y mejora de la productividad.
+ Requisitos del perfil: 
+ Experiencia profesional en Business Intelligence, reporting y analítica de datos.
+ Más de 2 años de experiencia profesional práctica con Power BI y/o Qlik Sense.
+ Sólidos conocimientos de SQL, incluyendo consultas complejas, joins, agregaciones, validación de datos y optimización del rendimiento.
+ Experiencia en el diseño y mantenimiento de cuadros de mando, informes, KPIs y modelos de datos.
+ Experiencia trabajando con Control-M para la programación, supervisión o soporte de procesos batch.
+ Experiencia en el análisis y resolución de problemas relacionados con los datos y los informes.
+ Experiencia práctica utilizando herramientas de asistencia basadas en IA para desarrollo, análisis de datos, SQL, documentación o resolución de incidencias.
+ ¿Qué ofrecemos? 
+ Incorporación estable.
+ Excelente ambiente de trabajo.
+ Plan de carrera.
+ Formación continua.
+ En Arktic garantizamos la igualdad de oportunidades con independencia del género, origen nacional, orientación sexual, religión o discapacidad, trabajamos juntos para crear un ambiente inclusivo donde todos puedan alcanzar su máximo potencial.

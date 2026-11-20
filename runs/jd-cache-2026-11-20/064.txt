@@ -1,0 +1,49 @@
+URL: https://www.linkedin.com/jobs/view/4492751151
+TITLE: Studentische/wissenschaftliche Hilfskraft oder Praktikant*in für die Entwicklung von KI-Assistenzsystemen und -Plattformen
+COMPANY: FZI Research Center for Information Technology
+LOC: Karlsruhe, Baden-Württemberg, Germany
+POSTED: 2026-11-19
+title: Studentische/wissenschaftliche Hilfskraft oder Praktikant*in für die Entwicklung von KI-Assistenzsystemen und -Plattformen
+company: FZI Research Center for Information Technology
+posted: 21 hours ago
+applicants: 26 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fstudentische-wissenschaftliche-hilfskraft-oder-praktikant-in-f%25C3%25BCr-die-entwicklung-von-ki-assistenzsystemen-und-plattformen-at-fzi-research-center-for-information-technology-4492751151&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+— Gestalte die Zukunft mit uns
+als Studentische/wissenschaftliche Hilfskraft oder Praktikant*in für die Entwicklung von KI-Assistenzsystemen und -Plattformen
+ Stundenbasis | Befristet | Karlsruhe | ab sofort
+Künstliche Intelligenz, LLMs, Machine Learning, Deep Learning, Produktion
+ Du hast Lust, in einem innovativen Forschungsumfeld zu arbeiten? Du suchst ein tolles Team, in dem Du Dich weiterentwickeln und einbringen kannst? Und vor allem: Du willst die Zukunft aktiv mitgestalten? Dann bist Du bei uns am FZI genau richtig!
+Wir sind eine gemeinnützige Forschungseinrichtung und beschäftigen uns mit spannenden und abwechslungsreichen Aufgaben der Informatik-Anwendungsforschung. Unsere Aufgabe ist neben dem Transfer unserer Forschungsergebnisse in Wirtschaft, Verwaltung und Gesellschaft auch die Aus- und Weiterbildung von zukünftigen Fach- und Führungskräften für den digitalen Wandel.
+Das erwartet Dich bei uns
+Unser Bereich Intelligent Systems & Production Engineering – Process- and Data Management in Engineering (ISPE-PDE) entwickelt u.a. KI-Assistenzsysteme für die Produktion. Unser Anspruch dabei ist es Menschen in ihrer Arbeit konkret zu unterstützen, weshalb wir vom Modell bis zum Interface denken.
+Neben resilienten LLM-Agenten liegt ein Schwerpunkt auf der Konzeption und Umsetzung geeigneter Tools unter Anwendung von Machine-Learning-Methoden, um die jeweilige Ziel-Domäne gezielt zu bedienen. Dabei decken wir ein breites Methodenspektrum von NLP bis zur Bildverarbeitung ab und beschäftigen uns intensiv mit der Schnittstelle von Mensch und KI-System. Die Arbeitsergebnisse werden in Form von Forschungsdemonstratoren aufgearbeitet und im FZI House of Living Labs sowie auf Messen ausgestellt.
+ Du unterstützt uns bei nationalen und internationalen Forschungsprojekten.
+ Du unterstützt uns bei der Konzeption, Implementierung und dem Testen von KI-Assistenzsystemen und geeigneten Machine Learning Ansätzen.
+ Du unterstützt uns bei der Entwicklung von Anwendungen vom Backend bis zum Interface.
+ Du recherchierst den aktuellen Stand der Technik und Wissenschaft.
+ Das bringst Du mit
+ Du studierst Informatik, Maschinenbau, Wirtschafsingenieurwesen oder einen verwandten Studiengang im Bachelor oder Master.
+ Du hast praktische Erfahrungen im Bereich des Maschinellen Lernens, der Optimierung und Anwendungsentwicklung.
+ Du hast Erfahrungen in PyTorch, Scikit-Learn und in der Anwendung lokaler LLMs, z.B. via Ollama.
+ Du hast sehr gute Kenntnisse in Python, aber auch Erfahrung in der Entwicklung von Web-Anwendungen, z.B. in Vue.js.
+ Du bringst die Bereitschaft mit, gut lesbaren und dokumentierten Code zu schreiben.
+ Du besitzt Grundkenntnisse in der Arbeit auf Linux-Systemen und der Containerisierung von Anwendungen via Docker.
+ Du besitzt ein überdurchschnittliches Maß an Eigeninitiative sowie eine sorgfältige und gewissenhafte Arbeitsweise.
+ Du besitzt sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift.
+ Was wir Dir bieten
+ Du hast die Möglichkeit, Dich bei diversen internen Formaten zu wissenschaftlichen Themen fachbereichsübergreifend auszutauschen.
+ Du bekommst spannende Einblicke in unsere Forschung und kannst wertvolle Praxiserfahrung für den Einstieg ins Berufsleben sammeln.
+ Wir nutzen die neueste Hard- und Software am FZI. Gemeinsam mit unseren wissenschaftlichen Mitarbeitenden arbeitest Du vor Ort in erstklassig ausgestatteten Forschungslaboren.
+ Unser Miteinander ist geprägt von der Begeisterung für unsere Themen und gemeinsamen Werte. Wir sind alle per „Du“ und helfen uns gegenseitig. Bei uns kannst Du Dich einbringen und Themen vorantreiben.
+ Eine motivierte und kompetente Betreuung ist uns wichtig. Dazu zählt für uns: sich ausreichend Zeit für Dich nehmen und Dich mit hilfreichem Feedback unterstützen.
+ Mit unseren flexiblen Arbeitsformen hinsichtlich Arbeitszeit und Stundenumfang sowie unserer Regelung zum mobilen Arbeiten geben wir Dir die Freiheit, die Du benötigst, um Dein Privat- und Berufsleben zu vereinbaren.
+ Bei der Vergütung von Hilfskräften und Praktikant*innen orientieren wir uns an den Vorgaben für Hochschulen des Landes. Die Höhe ist abhängig davon, ob Du bereits einen (Studien-)Abschluss und/oder erste Berufserfahrung hast. Abschlussarbeiten können entsprechend der Vorgaben leider nicht vergütet werden.
+ Deine Arbeitszeit und Vertragsdauer legen wir in gemeinsamer Absprache mit Dir fest.
+ Lerne hier Deinen zukünftigen Bereich und das Team kennen
+Erhalte hier Einblicke zum Arbeiten am FZI
+Hier erfährst Du mehr über unsere Benefits
+Haben wir Dein Interesse geweckt? Dann bewirb Dich bei uns.
+Wir freuen uns darauf, Dich kennenzulernen!
+Fachliche Fragen zur Stelle beantwortet Dir gerne Timo Lizak , Telefon: +49 721 9654-262 .
+Jetzt bewerben Zurück

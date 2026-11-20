@@ -213,4 +213,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004041227-S | IONOS SE | Werkstudent (w/m/d) - Frontend Development & UI/UX / 1706 | Regensburg
 - [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/15588-109225X356358-S | Indaver Deutschland GmbH | Werkstudent Controlling (m/w/d) | Biebesheim am Rhein
 
+- [ ] https://www.arbeitsagentur.de/jobsuche/jobdetail/18406-0068875490-S | WBS TRAINING SE Berlin | Werkstudent:in Teamassistenz (m/w/d) | Aschaffenburg
+
 ## Processed

@@ -1,0 +1,48 @@
+URL: https://www.linkedin.com/jobs/view/4491922086
+TITLE: Working Student (f/m/d) - Distributed Energy Resources - Energy Data Management
+COMPANY: SAP
+LOC: Walldorf, Baden-Württemberg, Germany
+POSTED: 2026-11-20
+title: Working Student (f/m/d) - Distributed Energy Resources - Energy Data Management
+company: SAP
+posted: 9 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fworking-student-f-m-d-distributed-energy-resources-energy-data-management-at-sap-4491922086&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Job Description
+ What you'll bring
+ You're a Master's student in a data or engineering field, with strong Java foundations and a curiosity for large-scale data systems.
+ Enrolment as a Master's student in Computer Science, Data Science, Data Engineering, Applied Mathematics, or a related field
+ Strong Java skills and solid working knowledge of SQL
+ Familiarity with Apache Parquet, Arrow, or Iceberg is a genuine plus; Python is welcome
+ Experience with data pipeline tools such as DuckDB, Spark, or dbt is an advantage
+ A customer-oriented mindset - you consider how your technical decisions affect the teams and systems that depend on your work
+ German at C1 or above (written and spoken) is required for this role; English at B2 or above is also needed
+ A hybrid working model applies, with some time on-site at our Walldorf or Markdorf office
+ We also look for people who communicate clearly, keep the customer in mind, and enjoy finding smart solutions to problems - whatever stage of your career you're at.
+In addition to the role-specific skills above, all student and early talent positions at SAP look for candidates who are open to working with AI tools - including agentic AI - to automate everyday tasks, prototype ideas, and build confidence in AI-assisted ways of working from day one.
+ What You'll Build
+ Your first contribution is a technical Proof of Concept evaluating Dremio within SAP's Distributed Energy Resources platform - a system handling high-volume time series data from millions of smart meters. Your findings will shape real architecture decisions.
+ Design and run benchmarks for Apache Arrow-based read and compute performance
+ Compare locally stored data against federated external sources using Dremio
+ Implement write pipelines using Apache Iceberg as the target table format
+ Evaluate results and document findings for the architecture review
+ Present conclusions to the DER team and contribute to technology stack decisions
+ Where you belong
+ You'll join the Distributed Energy Resources (DER) team - part of the Industry AI Unit for Energy and Natural Resources - based in Walldorf and Markdorf. The team helps utilities navigate the energy transition, connecting smart meter data, prosumer devices, and commercial agreements at scale. The Energy Data Management component you'll contribute to sits at the core of this - where data reliability, throughput, and consistency that the rest of the product depends on are built and maintained.
+When you join SAP, you'll be a part of SAP Next Gen - a global community of students and early professionals with access to mentors, development programmes, and peers. If you enjoy working close to real data problems — and want your work to matter beyond the PoC itself — this is a good place to learn.
+Additional Information
+Please apply initially with your resume in table form. In a later stage we will ask you to upload also school leaving certificates, certificate of enrollment, current university transcript of records, copies of any academic degrees already earned, and if available, references from former employers (including internships).
+This is a SAP global, strategic, paid working student position that provides students with opportunities to find purpose in their careers.
+#Workingstudent #Werkstudent #Germany #Deutschland #Student #SAPGermanStudentsCareers #SAPNextGen
+ About SAP
+ With a global network of customers, partners, employees, and thought leaders, SAP helps the world run better and improves people’s lives.
+As a leader in enterprise applications and business AI, SAP stands at the nexus of business and technology. For over 50 years, organizations have trusted SAP to bring out their best by uniting business-critical operations spanning finance, procurement, HR, supply chain, and customer experience.
+We win with inclusion
+SAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.
+SAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team: Careers@sap.com.
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+Qualified applicants will receive consideration for employment without regard to their age, race, religion, national origin, ethnicity, gender (including pregnancy, childbirth, et al), sexual orientation, gender identity or expression, protected veteran status, or disability, in compliance with applicable federal, state, and local legal requirements.
+AI Usage in the Recruitment Process
+For information on the responsible use of AI in our recruitment process, please refer to our Guidelines for Ethical Usage of AI in the Recruiting Process.
+Please note that any violation of these guidelines may result in disqualification from the hiring process.

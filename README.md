@@ -21,6 +21,8 @@ Internships, thesis roles, full-time roles and German-required roles are listed 
 
 ## Latest run
 
+**2026-11-20 daily**: 79 new, 3 packages: [BMW Group (Rolls-Royce Motor Cars) – Intern AI and Machine Learning](output/2026-11-20/bmw-rolls-royce-intern-ai-machine-learning/) (3.5), [Siemens – Working Student Generative AI & Software Modernization](output/2026-11-20/siemens-working-student-genai-software-modernization/) (3), [Hapag-Lloyd – Intern Network Controlling Data Engineer](output/2026-11-20/hapag-lloyd-intern-network-controlling-data-engineer/) (3). Report: [digests/2026-11-20.md](digests/2026-11-20.md).
+
 **2026-11-20 company sites**: 3 new, 2 packages: [Bosch Rexroth – Internship – AI-Based Competitive Database and Product Matching Tool](output/2026-11-20/bosch-rexroth-internship-ai-competitive-database-product-matching/) (4), [Celonis – Strategy & Operations Working Student](output/2026-11-20/celonis-strategy-operations-working-student/) (2.5). Report: [digests/2026-11-20-company.md](digests/2026-11-20-company.md).
 
 **2026-11-19 daily**: 110 new, 3 packages: [BMW Group – Working Student for Agentic AI & Engineering Automation](output/2026-11-19/bmw-working-student-agentic-ai-engineering-automation/) (3.5), [Nulegal GmbH – Working Student AI Research](output/2026-11-19/nulegal-working-student-ai-research/) (3.5), [BMW Group – Working Student Digital Customer Self-Service, Analytics & AI](output/2026-11-19/bmw-working-student-digital-customer-self-service-analytics-ai/) (3). Report: [digests/2026-11-19.md](digests/2026-11-19.md).

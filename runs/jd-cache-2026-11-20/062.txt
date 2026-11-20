@@ -1,0 +1,33 @@
+URL: https://www.linkedin.com/jobs/view/4491948140
+TITLE: Praktikum – Data Analytics Fleet Data in der Betriebsfestigkeit (w/m/d)
+COMPANY: AUDI AG
+LOC: Ingolstadt, Bavaria, Germany
+POSTED: 2026-11-20
+title: Praktikum – Data Analytics Fleet Data in der Betriebsfestigkeit (w/m/d)
+company: AUDI AG
+posted: 4 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikum-%25E2%2580%2593-data-analytics-fleet-data-in-der-betriebsfestigkeit-w-m-d-at-audi-ag-4491948140&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Arbeitsumfeld
+ Bei uns in der Abteilung Festigkeit Gesamtfahrzeug, Lastannahmen dreht sich alles um die Sicherstellung der Festigkeit und Langzeitqualität aller Audi-Fahrzeuge. Um die Auslegungskriterien und Lastannahmen präzise definieren zu können, nutzen wir wertvolle Daten aus Kundenfahrzeugen. Hierfür betreiben wir einen dedizierten Datensammler in der Kundenflotte, der uns relevante Informationen über das tatsächliche Nutzungsverhalten unserer Fahrzeuge liefert und dir spannende Einblicke in die Entwicklung der Audi-Mobilität von morgen ermöglicht.
+ Aufgaben
+ Du wirkst aktiv bei allen Schritten der Datenkette mit: von der Spezifikation über das Deployment bis zur Prozessierung und Analyse von Kundenflottendaten
+ Du gestaltest den Methodik-Baukasten für den Datensammler weiter, indem du Lösungen in Python und Spark sowohl lokal als auch in Cloud-Umgebungen wie Azure und Databricks implementierst
+ Du übernimmst die Validierung und Plausibilisierung der gewonnenen Datenanalysen
+ Du begleitest die Portierung des Datensammlers auf den SDV, die zukünftige Elektronik-Architektur von Audi
+ Du berätst Kollegen aus der technischen Entwicklung bei der tiefgehenden Analyse und Interpretation von Kundendaten
+ Du konzipierst und entwickelst Machine Learning-Modelle zur Beantwortung komplexer Fragestellungen auf Basis der vorhandenen Messdaten
+ Qualifikation
+ Du studierst Informatik, Mathematik, Physik oder eine Ingenieurwissenschaft wie Maschinenbau, Luft- und Raumfahrttechnik oder einen vergleichbaren Studiengang
+ Du verfügst über methodische Kenntnisse im Software-Engineering sowie in CI/CD/CT-Prozessen
+ Du bringst praktische Programmierkenntnisse in Python mit und hast idealerweise erste Erfahrungen mit Spark
+ Du beherrschst die Entwicklung in Cloud-Umgebungen wie Azure und Databricks
+ Du besitzt Grundkenntnisse in den Bereichen Data Engineering, Data Analytics und/oder Data Science
+ Den finalen Praktikumszeitraum vereinbarst du im Gespräch mit der Fachabteilung.
+ Weitere Informationen
+ Diese Stelle ist bei der AUDI AG in Ingolstadt zu besetzen.
+Wir verankern Nachhaltigkeit im unternehmerischen Handeln, in Produkten und Dienstleistungen. Wir leben Begeisterung, Vertrauen, Mut und Verantwortung, setzen uns aktiv für Inklusion ein und schaffen dadurch ein Umfeld, das die Individualität jedes Menschen im Unternehmensinteresse fördert.
+Referenzcode: I-P-113997
+Bei Fragen können Sie sich gerne an
+den Chat auf den Audi Karriere Webseiten wenden.

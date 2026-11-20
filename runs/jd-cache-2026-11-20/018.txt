@@ -1,0 +1,43 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-Data-Quality-Sales-Navigator-m-w-d-Duesseldorf-The-Stepstone-Group-GmbH--14674455-inline.html
+TITLE: Werkstudent Data Quality Sales Navigator (m/w/d)
+COMPANY: The Stepstone Group GmbH
+LOC: Düsseldorf
+POSTED: stepstone
+title: Werkstudent Data Quality Sales Navigator (m/w/d)
+company: The Stepstone Group GmbH
+posted: 2026-11-20T15:03:08.903Z
+location: Düsseldorf | remote: 
+---
+Unser Unternehmen
+ Stepstone ist eine führende Online-Jobplattform in Deutschland, die Jobsuchenden hilft, den richtigen Job zu finden. Als einer der größten Anbieter auf dem Jobmarkt in Deutschland haben wir bereits Millionen von Einstellungen in den unterschiedlichsten Branchen und Bereichen ermöglicht. 
+Wir sind stolz darauf, Teil der Stepstone Group zu sein - mit ihrer weltweiten Expertise für Tech-Job-Plattformen. Als Teil dieses globalen Teams können wir die neuesten Technologien, Daten und Branchenexpertise nutzen, um unseren Service weiter zu verbessern und unsere Technologie durch kontinuierliche Innovation an die Bedürfnisse des Stellenmarktes anzupassen. 
+ Dein neuer Job auf einen Blick
+ Um unsere Mission zu erreichen, suchen wir aktuell einen Student Data Quality (m/w/d) für unser Salary Navigator Team in Düsseldorf. Mit unserem Online-Tool erweitert Stepstone seine Produktpalette und unterstützt Unternehmen dabei, die richtige, faire und marktgerechte Vergütung für ihre jeweilige Unternehmensstruktur zu finden. Das Tool wird unseren Kunden im Abo-Modell angeboten. Wir sind überzeugt: Je transparenter Gehälter sind, desto fairer gestaltet sich unsere Arbeitswelt.
+ In dieser Rolle unterstützt du ein kleines Team in einer spannenden Aufbau- und Veränderungsphase. Du arbeitest eigenständig an der Aufbereitung und Qualitätssicherung von Daten und wirkst an der Migration aus dem bisherigen CRM-System nach Salesforce sowie an der Weiterentwicklung der Salesforce-Datenstruktur mit.
+ Pflege, Aktualisierung und Qualitätssicherung von Firmen- und Kundendaten in Salesforce
+ Unterstützung bei der Datenmigration vom bisherigen CRM-System in Salesforce
+ Aufbereitung, Strukturierung, Generierung und Verwaltung umfangreicher Datenmengen
+ Selbstständige, abteilungsübergreifende Kommunikation in einem internationalen Team
+ Bearbeitung von Ad-hoc-Projektaufgaben rund um Data Quality und Salary Navigator
+ Diese Fähigkeiten und Qualifikationen bringst du mit
+ Du bist als Vollzeitstudent*in eingeschrieben und wirst voraussichtlich noch mindestens ein Jahr studieren
+ Du verfügst über eine ausgeprägte Datenaffinität und arbeitest gerne mit großen Datenmengen. Erste praktische Erfahrung in der Datenpflege oder Datenanalyse ist von Vorteil
+ Du arbeitest sorgfältig, zuverlässig, eigenständig und lösungsorientiert
+ Du bringst eine Hands-on-Mentalität, Eigeninitiative und die nötige Resilienz für ein dynamisches Arbeitsumfeld mit
+ Du hast Freude an Teamarbeit und bringst gerne eigene Ideen und Lösungsansätze ein
+ Erfahrung mit Salesforce oder einem anderen CRM-System ist ein Plus
+ Du verfügst über sehr gute Deutsch- und gute Englischkenntnisse
+ Du bist 20 Stunden pro Woche für mindestens ein Jahr verfügbar
+ Deine Vorteile
+ Wir bieten dir attraktive Benefits, die deinen Arbeitsalltag bereichern und dich in verschiedenen Lebensbereichen unterstützen. Dazu gehören unter anderem:
+ Einblicke in ein innovatives SaaS-Produkt und eine Business Line im Aufbau
+ Mitarbeit an einem spannenden Salesforce-Migrationsprojekt mit Raum für eigene Ideen
+ Kostenloses Inhouse-Fitnessstudio
+ Kostenlose Barista-Bar direkt im Büro
+ Regelmäßige Teamaktivitäten
+ Volunteer days
+ Bring your dog to the office
+ Kontakt
+ StepStone GmbH | Völklinger Straße 1 | 40219 Düsseldorf 
+ Das klingt nach Dir? Wir sind immer daran interessiert, mit großartigen Menschen zusammenzuarbeiten. Bewirb Dich über den Button und erhalte innerhalb von 5 Tagen eine Rückmeldung, ob wir Dich für den nächsten Prozessschritt berücksichtigen können! Wir freuen uns auf Dich!
+ Unsere Datenschutzerklärung zu Deiner Bewerbung findest Du hier .

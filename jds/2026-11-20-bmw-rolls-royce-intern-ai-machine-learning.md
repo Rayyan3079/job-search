@@ -1,0 +1,50 @@
+URL: https://www.linkedin.com/jobs/view/4491940727
+Company: BMW Group (Rolls-Royce Motor Cars)
+Title: Intern AI and Machine Learning
+Found: 2026-11-20
+
+URL: https://www.linkedin.com/jobs/view/4491940727
+TITLE: Intern AI and Machine Learning at Rolls-Royce Motor Cars (f/m/x)
+COMPANY: BMW Group
+LOC: Munich, Bavaria, Germany
+POSTED: 2026-11-20
+title: Intern AI and Machine Learning at Rolls-Royce Motor Cars (f/m/x)
+company: BMW Group
+posted: 3 hours ago
+applicants: 26 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fintern-ai-and-machine-learning-at-rolls-royce-motor-cars-f-m-x-at-bmw-group-4491940727&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Some It Works. Some Changes What's Possible.
+ SHARE YOUR PASSION.
+ More than 90% of automotive innovations are based on electronics and software. That's why creative freedom and lateral thinking are so important in the pursuit of truly novel solutions. That’s why our experts will treat you as part of the team from day one, encourage you to bring your own ideas to the table – and give you the opportunity to really show what you can do.
+Our team at Rolls-Royce Motor Cars places clients at the centre of everything we do. We strive to be an innovative and impactful Analytics and AI team in luxury retail, using data, machine learning and intelligent automation to create highly personalised, predictive and seamless client experiences. During your internship, you will gain insights into intelligent solutions that connect data, business context and automation, including Agentic AI and advanced analytics.
+ What awaits you?
+ You will support the design, training and evaluation of AI and machine learning models, including emerging Agentic AI use cases.
+ Furthermore, you will help identify opportunities where data, automation and AI can create measurable business value.
+ In addition, you will contribute to end-to-end AI solutions, from data exploration and prototyping to evaluation and deployment support.
+ Moreover, you will assist in visualising insights and communicating findings clearly to stakeholders across different business areas.
+ Additionally, you will support collaboration with colleagues across AI, IT, Sales, Aftersales and Brand.
+ You will also contribute to innovative projects combining luxury client experiences, commercial impact and cutting-edge AI technology.
+ What should you bring along?
+ Studies in a Master's programme with a strong focus on artificial intelligence, computer science, business analytics, engineering, technology management or a comparable field.
+ Strong programming skills in Python, ideally with experience in developing end-to-end AI or machine learning solutions.
+ Solid understanding of machine learning concepts, model evaluation and practical AI applications.
+ Interest in Agentic AI, Large Language Models, automation frameworks or AI-assisted decision-making.
+ Passion for working with data, solving complex problems and translating insights into business impact.
+ Proactive, curious and structured mindset with an interest in challenging assumptions and exploring new ideas.
+ Fluency in English, both spoken and written.
+ Would you like to help shape the future of AI in luxury retail while gaining hands-on experience with cutting-edge technologies? Then apply now!
+ What do we offer?
+ Comprehensive mentoring & onboarding.
+ Personal & professional development.
+ Flexible working hours.
+ Digital offers & mobile working.
+ Attractive & fair remuneration.
+ Apartment offers for students (subject to availability & only Munich).
+ And many other benefits - see jobs/benefits
+ Starting date : at the earliest from 01/11/2027
+ Duration: 6 months
+ Working hours: Full-time
+You can find helpful tips on your application and the application process here.
+At the BMW Group, we place great importance on equal treatment and equal opportunities. Our recruiting decisions are based on the personality, experience, and skills of the applicants. Learn more here.
+Intern AI and Machine Learning at Rolls-Royce Motor Cars (f/m/x)

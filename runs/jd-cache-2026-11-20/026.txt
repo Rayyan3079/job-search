@@ -1,0 +1,34 @@
+URL: https://www.stepstone.de/stellenangebote--Junior-HR-Data-Analyst-m-w-d-Hamburg-EOS-Deutscher-Inkasso-Dienst--14768012-inline.html
+TITLE: (Junior) HR Data Analyst (m/w/d)
+COMPANY: EOS Deutscher Inkasso-Dienst
+LOC: Hamburg
+POSTED: stepstone
+title: (Junior) HR Data Analyst (m/w/d)
+company: EOS Deutscher Inkasso-Dienst
+posted: 2026-11-18T16:22:54.37Z
+location: Hamburg | remote: 
+---
+Einleitung
+ Du liebst es, aus Daten echte Erkenntnisse zu gewinnen, und hast Spaß daran, Dich in komplexe Systeme hineinzudenken? Dann könnte das Dein nächster Job sein! Bei EOS verbindest Du HR, Datenanalyse und moderne Technologien miteinander. Du sorgst dafür, dass aus Zahlen verständliche Insights werden, entwickelst unser HR-Reporting weiter und gestaltest den Aufbau unseres Data Warehouse aktiv mit. Dabei bekommst Du jede Menge Raum für eigene Ideen und die Möglichkeit, wirklich etwas zu bewegen.
+ Das ist der Job:
+ Du machst aus HR-Daten wertvolle Insights: Mit SAP SuccessFactors erstellst Du aussagekräftige Reports, analysierst Personaldaten und bereitest Deine Ergebnisse so auf, dass unsere Führungskräfte fundierte Entscheidungen treffen können.
+ Unser Data Warehouse wächst und Du gestaltest mit: Gemeinsam im Team baust Du unsere Dateninfrastruktur auf Basis der SAP Business Data Cloud weiter aus und entwickelst automatisierte Reports sowie Self-Service-Dashboards für unser Führungskräfteportal.
+ Wenn es technisch knifflig wird, bist Du gefragt: Du analysierst Probleme in SAP SuccessFactors, gehst Datenfeldern, Schnittstellen und Systemzusammenhängen auf den Grund und entwickelst passende Lösungsansätze.
+ Du behältst Veränderungen im Blick: Zweimal jährlich prüfst Du neue SAP SuccessFactors Updates, bewertest deren Auswirkungen auf bestehende Prozesse und Daten und stimmst sinnvolle Anpassungen mit unseren Modul-Admins ab.
+ Du bringst Daten auf den Punkt: Ob spontane Auswertung für die Geschäftsführung, übersichtliches Excel-Reporting oder anschauliche PowerPoint-Präsentation – Du bereitest auch komplexe Informationen verständlich und zielgruppengerecht auf und arbeitest dabei eng mit internen und externen Schnittstellen zusammen.
+ Das bringst Du mit:
+ Dein Fundament stimmt: Du hast ein abgeschlossenes Bachelorstudium, beispielsweise in Wirtschaftsinformatik, Data Analytics, BWL, Mathematik oder einem technischen bzw. naturwissenschaftlichen Bereich. Viel wichtiger als die genaue Fachrichtung ist uns aber Deine Begeisterung für Daten und Technologien.
+ Excel ist für Dich mehr als eine Tabelle: Du arbeitest sicher mit komplexeren Formeln, Pivot-Tabellen und Datenaufbereitungen und weißt, wie Du aus großen Datenmengen verständliche Auswertungen erstellst.
+ Auch technisch denkst Du gerne mit: Erste praktische Erfahrungen mit Python und SQL bringst Du bereits mit. Du verstehst grundlegende Datenbankstrukturen und technische Schnittstellen und hast Lust, Dich tiefer in die SAP-Systemwelt einzuarbeiten.
+ Du erkennst Zusammenhänge und findest Lösungen: Komplexe Fragestellungen gehst Du strukturiert an, arbeitest Dich selbstständig in neue Themen ein und bringst eigene Ideen ein, statt nur auf die nächste Aufgabe zu warten.
+ Gemeinsam geht mehr: Du arbeitest gerne im Team, kannst technische Inhalte auch für Nicht-Techies verständlich erklären und überzeugst mit Deiner offenen, kooperativen Art. Dabei kommunizierst Du sicher auf Deutsch (C1) und gut auf Englisch (B2).
+ Benefits:
+ Flexible Arbeitszeit - mit Gleitzeit und Freizeitausgleich
+ Urlaubs- und Weihnachtsgeld - Sonderzahlung zu Weihnachten und 1000€ Urlaubsprämie
+ Corporate Benefits und Personalrabatt - 15% Rabatt bei Otto und weitere Vergünstigungen im Benefitportal
+ Hybrides Arbeiten - arbeite teilweise remote
+ Workation - arbeite bis zu 30 Tage im europäischen Ausland
+ Zuschuss zum Deutschlandticket - vergünstigte Mobilität für Dich
+ Gemeinsam erfolgreich
+ Die EOS Gruppe ist ein Unternehmen der OTTO Group mit mehr als 6.000 Mitarbeitenden weltweit. Als einer der führenden technologiebasierten Finanzinvestoren und Experten bei der Bearbeitung offener Forderungen verfolgen wir ein Ziel: Finanzen zum Besseren verändern.
+ Unsere Wertschätzung gilt allen Menschen gleichermaßen - unabhängig von Geschlecht, Nationalität, ethnischer Herkunft, Religion, Behinderung oder sexueller Orientierung. Wir möchten damit alle Personen motivieren, sich bei uns zu bewerben.

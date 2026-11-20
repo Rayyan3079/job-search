@@ -1,0 +1,56 @@
+URL: https://www.linkedin.com/jobs/view/4491655447
+TITLE: BI Developer – Power BI & Qlik
+COMPANY: UST
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-19
+title: BI Developer – Power BI & Qlik
+company: UST
+posted: 21 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fes.linkedin.com%2Fjobs%2Fview%2Fbi-developer-%25E2%2580%2593-power-bi-qlik-at-ust-4491655447&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Role Description
+ We are still looking for the very Top Talent…and we would be delighted if you were to join our team!
+ More in detail, UST is a multinational company based in North America, certified as a Top Employer and Great Place to Work company, with over 35,000 employees worldwide and presence in more than 35 countries. We are leaders in digital technology services, providing large-scale technological solutions to major companies.
+ What we look for?
+ We are looking for an experienced BI Developer with 3–5 years of experience working with Power BI, QlikView and Qlik Sense to join a team focused on dashboard support and reporting within a CIB environment .
+The role combines hands-on BI development with application support, maintenance, data modelling and quality control , working primarily with existing dashboards and reporting solutions while also contributing to their evolution.
+ Key Responsibilities
+ Provide technical support for Power BI, QlikView and Qlik Sense dashboards and reporting solutions.
+ Support key users and troubleshoot issues related to existing BI applications.
+ Maintain and enhance existing dashboards, reports and data models.
+ Participate in new developments and evolutionary changes to BI solutions.
+ Work with data structures and data loading logic.
+ Analyse and optimize existing data models to improve performance and maintainability.
+ Perform quality control and functional validation of BI developments.
+ Ensure the reliability and consistency of dashboards and reporting solutions.
+ Collaborate with technical and business teams within the CIB environment. Mandatory requirements:
+ 3–5 years of professional experience in Business Intelligence / BI development.
+ Strong hands-on experience with Power BI.
+ Strong hands-on experience with QlikView.
+ Strong hands-on experience with Qlik Sense.
+ Experience in Data Modeling.
+ Good understanding of Data Structures.
+ Experience with Data Loading Logic.
+ Knowledge of Model Optimization and performance improvement.
+ Experience developing and maintaining dashboards and reporting solutions.
+ Experience in Application Support & Maintenance.
+ Experience performing Quality Control of BI developments.
+ Nice To Have
+ Previous experience in CIB / Corporate & Investment Banking.
+ Experience within the banking sector.
+ Previous exposure to regulated environments.
+ What can we offer?
+ 23 days of Annual Leave plus the 24th and 31st of December as discretionary days!
+ Numerous benefits (Health Care Plan, Internet Connectivity, Life and Accident Insurances).
+ Retribution Flexible Program: Meals, Kindergarten, Transport, online English lessons, Health Care Plan…
+ Free access to several training platforms.
+ Professional stability and career plans.
+ UST also compensates referrals from which you could benefit when you refer professionals.
+ The option to choose between 12 or 14 payments throughout the year.
+ Real Work-Life Balance measures: flexibility, WFH or remote work policy, compacted hours during summertime…
+ UST Club Platform discounts and gym access discounts.
+ If you would like to know more, do not hesitate to apply and we’ll get in touch to fill you in on the details. UST is waiting for you!
+ At UST, we are committed to equal opportunities in our selection processes and do not discriminate based on race, gender, disability, age, religion, sexual orientation or nationality. We have a special commitment to Disability & Inclusion , so we are particularly interested in hiring professionals with a disability certificate.
+ Skills
+ Qlik, Power BI, ETL, Data Modeling, Dashboard Development, Machine Learning, Data Structures and Algorithms, Production Support, Functional Testing, Reporting and Analytics

@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Intern AI and Machine Learning at Rolls-Royce Motor Cars (f/m/x)",
+    "company": "BMW Group – Rolls-Royce Motor Cars",
+    "city": "Munich",
+    "greeting": "Dear Rolls-Royce Motor Cars Analytics & AI team,",
+    "opening": "I am applying for the internship in AI and Machine Learning. Designing, training and evaluating models end to end, and explaining the results clearly to business teams, is the combination I have worked on in my projects and in analytics roles.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence. Before my Master's I worked as a Business Analyst at Tapal Tea and in SAP analytics consulting.",
+    "achievements": [
+      {
+        "lead": "Model training and evaluation",
+        "impact": "I fine-tuned a pretrained EfficientNet-B0 in PyTorch to 94.11% accuracy on a 968-image test set"
+      },
+      {
+        "lead": "DocuMind",
+        "impact": "I built a RAG application with the Claude API, evaluated on a 22-question test set: 91% correct, all 4 unanswerable questions refused, and hybrid retrieval raised MRR from 0.748 to 0.898"
+      },
+      {
+        "lead": "Communicating to stakeholders",
+        "impact": "I translated business requirements into KPI dashboards and presented to a client, who subsequently purchased SAP Analytics Cloud"
+      }
+    ],
+    "problems_section": "I would help explore data, prototype and evaluate models including agentic AI use cases, and visualise findings for Sales, Aftersales and Brand. I have not built agents or deployed models to production yet, and I would learn both from your team.",
+    "closing": "I am willing to relocate to Munich and can start immediately. As a non-EU student I will agree the internship length and hours with you so they fit my permitted working days. I would be glad to discuss the role.",
+    "date": "2026-11-20",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-11-20/bmw-rolls-royce-intern-ai-machine-learning/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4492573891
+TITLE: Werkstudent (w/m/d) Data Analytics & AI im Procurement
+COMPANY: Siemens Energy
+LOC: Berlin, Berlin, Germany
+POSTED: 2026-11-20
+title: Werkstudent (w/m/d) Data Analytics & AI im Procurement
+company: Siemens Energy
+posted: 8 hours ago
+applicants: 38 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fwerkstudent-w-m-d-data-analytics-ai-im-procurement-at-siemens-energy-4492573891&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Standort: BLN P 26
+ Art der Anstellung: Fixed Term / Part-time
+ Momentaufnahme von deinem Tag 
+ Als Werkstudent (w/m/d) unterstützt du die Weiterentwicklung datengetriebener Einkaufsprozesse durch den Einsatz von Data Analytics und KI. Dabei wirkst du am Ausbau von Dateninfrastrukturen, der Implementierung digitaler Lösungen sowie der Optimierung von Procurement-Prozessen in einem europäischen Umfeld mit. Du trägst aktiv zur digitalen Transformation bei und sammelst praxisnahe Erfahrungen in den Bereichen Data Engineering, Prozessoptimierung und künstliche Intelligenz.
+ Wie du etwas bewirken kannst 
+ Entwicklung und Skalierung von Data-Analytics- und KI-Lösungen zur Optimierung von Beschaffungsentscheidungen
+ Aufbau und Pflege von Datenpipelines sowie Dateninfrastrukturen für Reporting und Prognosemodelle
+ Analyse und Optimierung europäischer Procurement-Prozesse hinsichtlich Effizienz, Standardisierung und Digitalisierung
+ Zusammenarbeit mit bereichsübergreifenden Teams zur Implementierung effizienter Einkaufsprozesse
+ Einführung und Förderung nachhaltiger digitaler Lösungen und Best Practices innerhalb der Einkaufsorganisation
+ Erstellung von Dashboards und Handlungsempfehlungen sowie Schulung der Fachbereiche im Umgang mit digitalen Tools, Analytics-Plattformen und KI-Anwendungen
+ Was du mitbringst
+ Derzeitiges Studium im Bereich Data Science, Wirtschaftsinformatik, Wirtschaftsingenieurwesen oder einer vergleichbaren quantitativen Fachrichtung
+ Interesse an Data Analytics, künstlicher Intelligenz und Prozessoptimierung, idealerweise im Einkaufs- oder Supply-Chain-Umfeld
+ Sehr gute Deutsch- und Englischkenntnisse für die Zusammenarbeit mit internationalen Stakeholdern
+ Kenntnisse in Machine Learning, KI-Modellierung, Datenpipelines (ETL) sowie Python und SQL
+ Erfahrung in Datenanalyse, Datenvisualisierung, Dashboard-Entwicklung und Datenbankmanagement (z. B. Snowflake)
+ Verständnis von Beschaffungsprozessen, Supply-Chain-Analysen und agilem Projektmanagement 
+ Über das Team 
+ Unser Geschäftsbereich Grid Technologies ermöglicht ein zuverlässiges, nachhaltiges und digitales Netz. Das Stromnetz bildet das Rückgrat der Energiewende. Siemens Energy bietet ein führendes Portfolio und Lösungen in den Bereichen HGÜ-Technik, Netzstabilisierung und Stromspeicherung, Hochspannungsschaltgeräte und Transformatoren sowie digitale Netztechnologie.
+ Wer ist Siemens Energy?
+ Wir bei Siemens Energy sind mehr als nur ein Energietechnologieunternehmen. Mit ~100,000 engagierten Mitarbeitern in mehr als 90 Ländern entwickeln wir die Energiesysteme der Zukunft und stellen sicher, dass der wachsende Energiebedarf der Weltgemeinschaft zuverlässig und nachhaltig gedeckt wird. Die in unseren Forschungsabteilungen und Fabriken entstehenden Technologien treiben die Energiewende voran und bilden die Grundlage für ein Sechstel der weltweiten Stromerzeugung.
+Unser globales Team setzt sich dafür ein, nachhaltige, zuverlässige und bezahlbare Energie Wirklichkeit werden zu lassen, indem es die Grenzen des Möglichen immer weiter hinausschiebt. Wir blicken zurück auf eine 150-jährige Tradition der Innovation, die unsere Suche nach Mitarbeitern bestärkt, die unseren Fokus auf Dekarbonisierung, neue Technologien und Energiewandel unterstützen.
+Erfahre mehr darüber, wie du bei Siemens Energy etwas bewegen kannst: https://www.siemens-energy.com/employeevideo
+ Unser Engagement für Vielfalt 
+ Gut, dass wir nicht alle gleich sind. Vielfalt macht uns leistungsstark. Wir leben von Inklusion und unsere gemeinsame kreative Energie wird von über 130 Nationalitäten gespeist. Siemens Energy setzt auf den Charakter - unabhängig von ethnischem Hintergrund, Geschlecht, Alter, Religion, Identität oder Behinderung. Wir versorgen die Gesellschaft mit Energie - die ganze Gesellschaft - und wir diskriminieren nicht aufgrund von Unterschieden, die zwischen uns bestehen.
+ Benefits
+ Spannende Einblicke in ein internationales Unternehmen 
+ Lege mit uns den Grundstein für deine Karriere 
+ Wir legen Wert auf Chancengleichheit und freuen uns über Bewerbungen von Menschen mit Behinderung.
+https://jobs.siemens-energy.com/jobs
+#RPO

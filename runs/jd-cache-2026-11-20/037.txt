@@ -1,0 +1,49 @@
+URL: https://www.linkedin.com/jobs/view/4483065354
+TITLE: Data Analyst
+COMPANY: AKD
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-20
+title: Data Analyst
+company: AKD
+posted: 7 hours ago
+applicants: 145 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fnl.linkedin.com%2Fjobs%2Fview%2Fdata-analyst-at-akd-4483065354&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Functieomschrijving
+ Maak jij het als onze nieuwe Data Analyst mogelijk om data vanuit verschillende bronnen zodanig te combineren en te visualiseren zodat deze kunnen worden gebruikt om betere operationele en strategische beslissingen te nemen? Lees dan snel verder!
+Het team bestaat uit 3 personen en is volop in ontwikkeling. Dat betekent korte lijnen met de business, veel afwisseling en vooral ruimte om zelf richting te geven. Of je nu aan het begin van je carrière staat en breed wilt leren, of als medior je stempel wilt drukken op de tech stack, architectuur en prioriteiten: jouw ideeën maken bij ons direct verschil. Je krijgt de vrijheid om niet alleen oplossingen te bouwen, maar ook mee te bepalen hóé we werken en wat we als team als eerste oppakken.
+In deze positie sta je in nauw contact met onze legal en supportafdelingen. Jij stemt met de afdelingsmanagers en het bestuur af welke behoefte de business heeft, en bekijkt ook wat de mogelijkheden zijn op het gebied van data. In samenwerking met verschillende interne specialisten en je collega’s binnen de afdeling Clients & Markets bouw je aan datamodellen, een rapport of dashboard. Je levert zo inzichten aan de business en bestuur om beter te kunnen sturen.
+Je verantwoordelijkheid omvat de gehele dataketen: Je operationaliseert (nieuwe) dataproducten en prototypes naar stabiele en gebruiksvriendelijke oplossingen. Je helpt de business vervolgens ook in de interpretatie van de resultaten.
+AKD is een full-service Benelux-kantoor met ruim 550 advocaten, fiscalisten, notarissen en supportmedewerkers in Amsterdam, Breda, Brussel, Eindhoven, Rotterdam en Luxemburg. Hoewel AKD een groot kantoor is, kenmerkt het zich door betrokkenheid en ondernemerschap.
+ Wat ga je doen?
+ Het zwaartepunt van je werk ligt voornamelijk in het inzichtelijk maken van data door deze op een visuele en begrijpelijke wijze te vertalen naar de business, te presenteren in heldere dashboards en te helpen interpreteren.
+ Je gaat samen met de afdelingsmanagers afstemmen waar hun vragen liggen met betrekking tot data, informatie en het helpen formuleren van KPI’s;
+ Je werkt met behulp van datavisualisatie aan een beter begrip en interpretatie van data;
+ Je helpt de business met de resultaten interpreteren en doet concrete aanbevelingen ter verbetering van de resultaten;
+ Uitwerken van prototypes/ideeën naar productieklare dashboards, datasets en datamodellen;
+ Bouwen en onderhouden van Power BI rapportages (incl. aansluiten van verschillende bronnen, datamodellering, DAX, visualisering, performance, RLS);
+ Ontsluiten en combineren van data uit bronsystemen via het datawarehouse (SQL, basiskennis api’s);
+ Beheren van bestaande rapportagepropositie: incidenten oplossen, wijzigingen doorvoeren, releases afstemmen;
+ Beantwoorden van ad-hoc datavragen vanuit legal en support;
+ Signaleren van verbeterkansen (inhoudelijk/technisch) en voorstellen doen.
+ Vereisten
+ Wat neem je mee?
+ HBO/WO werk- en denkniveau (bijv. een studie in de richting van Data/BI, (Bedrijfs)informatica, Analytics, Business IT);
+ Ervaring met reporting en het uitvoeren van analyses is een pre;
+ Ervaring met datamodellering;
+ Sterk in het creëren van inzicht en met het interpreteren van data en maken van visualisaties;
+ Kennis van SQL;
+ Je spreekt vloeiend Nederlands en Engels.
+ Wat bieden wij jou?
+ Een afwisselende rol binnen een ambitieus en collegiaal team met een salaris dat past bij jouw ervaring (bandbreedte: € 4.041 - € 6.065 bruto per maand op basis van een fulltime dienstverband (40 uur per week), aangevuld met goede secundaire arbeidsvoorwaarden, zoals:
+ 27 vakantiedagen en een uitgebreid mobiliteitsplan
+ iPhone, laptop en thuiswerkvoorzieningen
+ Een goede pensioenregeling
+ Een eventuele bonus op basis van prestatieafspraken
+ Hybride werken: deels thuis en deels op ons kantoor in Rotterdam met uitzicht op de Maas.
+ Je standplaats is Rotterdam. Een keer een dagje in een andere omgeving werken? Afhankelijk van je werk bezoek je soms ook andere vestigingen.
+Een uitgebreide pre-employmentscreening maakt onderdeel uit van onze (selectie)procedure.
+ Interesse?
+ Spreekt deze vacature je aan, dan zien we jouw sollicitatie heel graag tegemoet. Heb je nog vragen naar aanleiding van deze vacature?
+ Diversiteit en inclusiviteit
+ AKD is een kantoor dat veel waarde hecht aan diversiteit en inclusie en vinden het belangrijk om onze talenten te laten groeien.

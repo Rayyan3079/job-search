@@ -1,0 +1,48 @@
+URL: https://www.linkedin.com/jobs/view/4492930977
+TITLE: Data Engineer for the Data Solutions Unit
+COMPANY: Baltic Amadeus
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (Worldwide)
+POSTED: 2026-11-20
+title: Data Engineer for the Data Solutions Unit
+company: Baltic Amadeus
+posted: 4 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Flt.linkedin.com%2Fjobs%2Fview%2Fdata-engineer-for-the-data-solutions-unit-at-baltic-amadeus-4492930977&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Baltic Amadeus is a technology partner helping organisations build and scale their IT solutions. With a team of 250+ IT professionals, we turn complexity into systems that actually work.
+Our expertise spans the full IT lifecycle, from IT consulting and custom software development to mobile app development, mobile banking, cyber security, including penetration testing, and web portal development. We create internal systems and customer-facing platforms, including mobile applications, self-service, eCommerce, and banking solutions.
+Our team has proven experience in industries where reliability and compliance are critical, such as banking and finance, public sector, telecommunications, logistics, and insurance.
+With 38+ years in the industry, we partner with clients across the globe, including Fortune 500 and Forbes Global 2000 companies, helping them achieve measurable business results.
+Ready to take your Data Engineering skills to the next level?
+At Baltic Amadeus , we're growing our Data & Analytics team and looking for a Data Engineer who enjoys working with data, solving technical challenges, and building reliable data solutions.
+You'll contribute to real-world projects across finance, insurance, telecom, and other industries, working with technologies such as Microsoft Fabric, Azure, and Databricks.
+ Why join us? 
+ Diverse projects – Work on different data engineering challenges, from modernizing existing Data Warehouses to building new cloud-based Lakehouse solutions. 
+ Modern technologies – Gain hands-on experience with Microsoft Fabric, Azure Data Factory, Databricks, Spark, and other tools used in modern data platforms. 
+ Learn from experienced engineers – Collaborate with skilled Data Engineers, BI Developers, and Architects who share knowledge and support your technical growth. 
+ Your ideas matter – Contribute to technical discussions, suggest improvements, and gradually take on more responsibility as your expertise grows. 
+ What You Will Do
+ Develop and maintain data pipelines using SQL, Python/PySpark, and cloud-based data engineering tools. 
+ Build and modernize Lakehouse and Data Warehouse solutions using Microsoft Fabric, Azure, and Databricks. 
+ Integrate data from different source systems, including databases, APIs, and files. 
+ Implement data transformations, quality checks, and performance optimizations. 
+ Collaborate with other Data Engineers, BI Developers, Architects, and business stakeholders to deliver reliable data solutions. 
+ What We Expect From You
+ 2+ years of experience in Data Engineering, ETL/ELT development, or a similar role. 
+ Hands-on experience with SQL and developing ETL/ELT pipelines. Familiarity with Python would be an advantage. 
+ Understanding of Data Warehouse and Lakehouse concepts, including data modeling. 
+ Familiarity with Spark/PySpark or cloud data platforms such as Microsoft Fabric, Azure Data Factory, or Databricks would be an advantage. 
+ Willingness to learn, solve problems, and develop your technical skills. 
+ Proficiency in Lithuanian and English (B2+). 
+ What You Will Get
+ Hybrid work. Prefer working remotely? Want to hop into our Vilnius (HQ) or Kaunas (Hub) offices? The choice is yours! Your pet is also welcome.
+ Learning budget. We invest in your growth – whether it is a local or international course, training or conference.
+ Expertise Culture. We foster continuous learning, collaboration, and expertise to ensure knowledge sharing, skill development, and staying up to date with industry trends. 
+ Well-being. Access a variety of internal and external events that promote emotional, physical, financial, and personal wellness. We also offer private health insurance and the benefit of 3rd pillar pension funds, helping you plan for your future.
+ Referral program. Have talented friends? Refer them to us and earn a bonus for every successful referral you bring aboard. 
+ Paid higher education leave. Take paid time off for your exams or thesis writing. We know it can be challenging to combine your studies with your career. 
+ Fun. Join our team-building activities or mingle at traditional BA parties. We challenge ourselves with various activities, from trivia to wall climbing, from badminton to paddleboarding, and more. 
+ Monthly salary 2300-3900 Euros (Gross). Have different expectations? We are open to considering your compensation based on your skills and experience. 
+ A Workplace for Everyone - We Value Diversity
+ At Baltic Amadeus, we respect differences and are building a team where everyone feels like they truly belong. We know that unique backgrounds and fresh perspectives fuel creativity, spark innovation, and make our culture even richer. We ensure that all applicants are evaluated equally regardless of their race, nationality, ethnicity, religion or belief, age, sex, gender identity, sexual orientation, disability, or any other protected characteristic. We are committed to building an environment where everyone feels respected, valued, and empowered to bring their true selves.
+ Ready to make an impact? Let’s do it together at BA!

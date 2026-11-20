@@ -1,0 +1,41 @@
+URL: https://www.stepstone.de/stellenangebote--Werkstudent-m-w-d-Generative-KI-und-Automatisierung-Hamburg-DER-SPIEGEL-GmbH-Co-KG--14774928-inline.html
+TITLE: Werkstudent (m/w/d) Generative KI und Automatisierung
+COMPANY: DER SPIEGEL GmbH & Co. KG
+LOC: Hamburg
+POSTED: stepstone
+title: Werkstudent (m/w/d) Generative KI und Automatisierung
+company: DER SPIEGEL GmbH & Co. KG
+posted: 2026-11-20T11:18:48.117Z
+location: Hamburg | remote: 
+---
+Du bist Teil der zentralen IT-Abteilung der SPIEGEL Gruppe und bearbeitest von dort aus mit dem redaktionellen KI-Team des manager magazins die KI-Use-Cases der Redaktion.
+Du unterstützt uns dabei, generative KI sicher, sinnvoll und praktisch in den Medienalltag zu bringen – sichtbar, nutzbar und mit Blick auf Qualität und Verantwortung.
+ Deine Aufgaben
+ Konzeptionieren:  Du unterstützt bei der Konzeptionierung von KI-gestützten Prototypen und Showcases, die redaktionelle Workflows verbessern.
+ Umsetzen:  Du wirkst bei der Umsetzung kleiner Prototypen und Use-Cases mit. Sowohl Frontend- als auch Backend-seitig (z. B. visuelles Storytelling, kleine Web-UIs, API-Services, einfache Pipelines)
+ Experimentieren:  Du hilfst dabei, strukturierte Experimente durchzuführen: Du vergleichst Modelle, Tools und Frameworks und dokumentierst Ergebnisse zur Technologieauswahl
+ Testen:  Du testest systematisch bestehende Systeme (Funktionalität, Qualität, UX, Robustheit) und hältst Erkenntnisse nachvollziehbar fest
+ Betreiben:  Du unterstützt beim Betrieb unserer bestehenden Lösungen (Monitoring, Fehlersuche, kleinere Fixes) in Abstimmung mit dem Team
+ Vernetzen:  Du arbeitest im Austausch mit Redaktion, Dokumentation, IT, Produkt und Innovation, um Anforderungen zu verstehen und Lösungen iterativ zu verfeinern
+ Dein Profil
+ Du studierst etwas Passendes : z. B. Informatik, Wirtschaftsinformatik, Data Science, Medientechnik oder ein vergleichbares Studienfach – idealerweise mit Interesse an Daten, Systemen und KI
+ Du magst Logik : Du hast Spaß am analytischen Denken, arbeitest gerne strukturiert und probierst Dinge pragmatisch aus – lieber kleine Schritte als große Versprechen
+ Du bringst erste Erfahrungen mit? Super!  Vielleicht hast Du schon mal eine kleine Web-Oberfläche gebaut, ein Skript geschrieben, eine API angebunden oder mit einem KI/LLM-Service experimentiert – wenn nicht, zeigen wir Dir, wie es geht
+ Du wirkst gerne im Team mit:  Du kannst Dich auf andere einstellen, arbeitest gerne mit verschiedenen Menschen zusammen und schätzt interdisziplinäre Projekte (Redaktion, Dokumentation, IT, Produkt, Innovation)
+ Du kommunizierst klar:  Ob schriftlich oder mündlich – Du bringst Inhalte verständlich auf den Punkt und hast keine Scheu, Ergebnisse kurz zu zeigen
+ Du verfügst über sehr gute Deutschkenntnisse  (in Wort und Schrift); Englisch ist von Vorteil (z. B. für Dokus und Fehlermeldungen)
+ Wir bieten
+ Individuelle Förderungs-, Entwicklungs- und Weiterbildungsangebote
+ Attraktive Zusatzleistungen (z.B. kostenfreies,  hauseigenes Fitnessstudio , Bezuschussung eines Deutschlandtickets und einer Urban Sports Mitgliedschaft, täglich frische Speisen im SPIEGEL-Restaurant)
+ Ein modern ausgestatteter Arbeitsplatz sowie die Möglichkeit, auch mobil zu arbeiten
+ Freier Zugriff auf die komplette Produktwelt der SPIEGEL-Gruppe
+ Tiefgaragenstellplätze, auch für Fahrräder, und Lademöglichkeiten für E-Mobile
+ Beteiligung am wirtschaftlichen Erfolg der manager-Gruppe
+ Weitere Informationen
+ Die SPIEGEL-Gruppe als Arbeitgeber 
+ Die SPIEGEL-Gruppe ist eines der angesehensten deutschen Medienhäuser. Mit unseren 1400 qualifizierten und hoch motivierten Mitarbeiterinnen und Mitarbeitern stehen wir für Qualitätsjournalismus in allen Medienbereichen. Unsere Print-Magazine, TV-Produktionen und Online-Angebote nehmen eine herausragende Stellung in der deutschen Medienlandschaft ein.
+manager magazin ist das führende deutschsprachige Medium für Menschen, die in und mit der Wirtschaft etwas erreichen wollen. Investigative Recherchen zu deutschen und internationalen Unternehmen decken Missmanagement auf und identifizieren frühzeitig die wichtigsten Trends und relevanten Entscheidungsträger. Die Recherchen veröffentlichen wir täglich und digital sowie einmal monatlich als Magazin.
+ In den Unternehmen der SPIEGEL-Gruppe erscheinen außerdem: DER SPIEGEL – das ist sowohl die führende Nachrichten-Site im deutschsprachigen Internet als auch – in gedruckter Form – Deutschlands bedeutendstes und Europas auflagenstärkstes Nachrichten-Magazin, das renommierte Wirtschaftsmagazin Harvard Business manager sowie unter der Marke SPIEGEL TV eine Vielzahl anspruchsvoller Fernsehformate.
+ Wir fördern eine Kultur, die sich durch Respekt, Offenheit und Chancengleichheit auszeichnet und sind überzeugt, dass Vielfalt unsere tägliche Arbeit und unsere journalistischen Angebote bereichert. Deshalb begrüßen wir ausdrücklich alle Bewerbungen - unabhängig von ethnischer oder sozialer Herkunft, Geschlecht, Behinderung, Religion, Weltanschauung, Alter oder sexueller Identität.
+ Deine Ansprechpartnerin 
+ Mareile Assel

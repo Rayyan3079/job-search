@@ -1,0 +1,43 @@
+URL: https://www.linkedin.com/jobs/view/4491913396
+TITLE: Intern (m/f/d) Network Controlling Data Engineer
+COMPANY: Hapag-Lloyd AG
+LOC: Hamburg, Germany
+POSTED: 2026-11-20
+title: Intern (m/f/d) Network Controlling Data Engineer
+company: Hapag-Lloyd AG
+posted: 9 hours ago
+applicants: 33 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fintern-m-f-d-network-controlling-data-engineer-at-hapag-lloyd-ag-4491913396&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+As part of the Network Performance and Controlling team in the heart of Hamburg you will work closely with the controlling and operations units to analyse, automate and improve data‑driven processes that underpin the global liner service network and partnership settlements, enabling sound business decisions for multi‑billion‑USD ship deployment.
+ What You'll Do 
+ Analyse business processes, data flows and system requirements related to network operations and partnership settlements
+ Identify and implement improvements for data quality, processing efficiency and automation
+ Support cross‑functional initiatives to integrate and enhance data‑process elements for accurate settlement
+ Design, test and optimise data interfaces, workflows and transformation logic across Controlling and Operations
+ Develop reusable Python scripts for data extraction, consolidation, validation and analysis of complex datasets
+ Create and maintain data sets for reconciliation, data‑flow documentation and process visualisations
+ Contribute to the digital transformation and automation of Network & Cooperations processes and systems
+ Participate in ad‑hoc projects, including training and system implementation support
+ What Makes You A Fit 
+ Enrolled in a Master’s program (business studies, business informatics, mathematics, engineering, natural sciences or comparable)
+ Strong analytical skills with a high affinity for numbers and IT
+ Proficiency in Python; experience with Qlik, Alteryx or similar data‑visualisation/ETL tools
+ Ability to develop and implement new concepts and automation solutions
+ Proactive, solution‑oriented work style with a strong analytical mindset
+ Excellent communication skills; able to present complex issues in a recipient‑oriented manner
+ Empathic, reliable and motivated team player
+ Fluent in written and spoken English
+ What We Offer You 
+ Be a part of our Student community: meet other students and exchange ideas during our Student Lunch & Coffee Breaks
+ If flexibility is important to you: choose the working hours that best fit your college schedule
+ Work with us directly in the heart of Hamburg at the Binnenalster or mobile at home
+ Of course, we also take care of your physical well-being: in our company restaurant we offer yummy dishes for small and large appetites
+ Take part in our company sports activities such as table tennis, dragon boat racing and yoga. And if you're in the mood for music, why not join our band?
+ Attractive training programs and excellent career opportunities complete your experience
+ About Us 
+ Hapag-Lloyd is one of the world’s leading liner shipping companies, connecting businesses and people across more than 600 ports worldwide . With a fleet of over 300 modern container ships and a vessel capacity of 2.5 million TEU , we keep global trade moving reliably every day.
+ Our global network spans 139 countries, 396 offices and a growing portfolio of terminal and infrastructure investments. This scale enables us to deliver consistent, high-quality service across continents and to support our customers in even the most complex supply chains.
+ When you join us, you become part of more than 19,600 colleagues working across borders, functions and cultures, to not only deliver quality for our customers, but to create innovation and opportunities across roles, regions and perspectives.
+ We believe that every exploration is a chance to grow, and every port is a place to belong. 
+ Your journey, our horizon.

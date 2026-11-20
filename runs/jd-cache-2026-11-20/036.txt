@@ -1,0 +1,42 @@
+URL: https://www.linkedin.com/jobs/view/4492967314
+TITLE: Azure Data Engineer
+COMPANY: IRIUM Portugal
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-20
+title: Azure Data Engineer
+company: IRIUM Portugal
+posted: 3 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: 
+---
+At IRIUM, we want you to always pursue your dreams! Here, get ready to achieve your goals while enjoying the journey.
+We are currently looking for an Azure Data Engineer to join our team!
+ Required Competencies:
+ Professional experience in data engineering within Microsoft Azure environments
+ Hands-on experience with Azure Databricks and Apache Spark
+ Strong programming skills in Python, PySpark and SQL
+ Experience designing and developing scalable ETL/ELT data pipelines
+ Knowledge of Azure Data Lake Storage and Delta Lake architectures
+ Experience implementing enterprise data governance, access controls and data security policies
+ Knowledge of data quality, data lineage and metadata management
+ Experience monitoring, troubleshooting and optimizing data processing workflows
+ English proficiency at C1 level (mandatory)
+ Preferred Competencies:
+ Experience with Cloud Code and Agent Engineering
+ Experience with Microsoft Purview, Azure Data Factory and Databricks Unity Catalog
+ Knowledge of Azure Synapse Analytics and Infrastructure as Code
+ Experience with automated data pipeline testing and CI/CD
+ Work Model: 100% Remote – European Union
+ Gross Monthly Salary: €2,800–€3,100
+ Compensation may include fixed and variable remuneration, meal allowance, remote work allowance and benefits.
+ What do we offer?
+ An innovative and growing company with excellent professional development opportunities
+ Competitive compensation according to your experience and performance, flexible benefits and medical insurance
+ Unlimited access to self-paced technology training
+ IRIUM is a company made up of dynamic and proactive professionals. Our values are responsibility and commitment to quality. We promote equal opportunities and an inclusive working environment.
+If you identify with these values, this is the company for you!
+ Let's build the future together. Shall we talk?
+ Send your application to: recrutamento@irium.pt
+ At IRIUM, we advocate for a world without stereotypes or limitations and believe in equality for everyone, ensuring equal treatment and opportunities regardless of personal, physical or social circumstances.
+Powered by JazzHR
+Elh3DNLDJK

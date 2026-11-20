@@ -1,0 +1,85 @@
+URL: https://www.stepstone.de/stellenangebote--Praktikantin-AI-assisted-Workflow-Engineering-Vertriebsautomatisierung-Pflicht-Praktikum-Stuttgart-Mercedes-Benz-AG--14779808-inline.html
+TITLE: Praktikant*in AI-assisted Workflow Engineering & Vertriebsautomatisierung (Pflicht-Praktikum)
+COMPANY: Mercedes-Benz AG
+LOC: Stuttgart
+POSTED: stepstone
+title: Praktikant*in AI-assisted Workflow Engineering & Vertriebsautomatisierung (Pflicht-Praktikum)
+company: Mercedes-Benz AG
+posted: 2026-11-20T14:54:59.227Z
+location: Stuttgart | remote: 
+---
+Life is always about becoming… Im Leben geht es darum, sich auf eine Reise zu begeben, um die beste Version unseres zukünftigen Selbst zu werden. Während wir Neues entdecken, stellen wir uns Herausforderungen, meistern sie und wachsen über uns hinaus.
+Bewerben Sie sich bei Mercedes-Benz und finden Sie den Aufgabenbereich, in dem Sie Ihre Talente individuell entfalten können. Dabei werden Sie von visionären Kolleginnen und Kollegen unterstützt, die Ihren Pioniergeist teilen. Bei uns einzusteigen bedeutet, Teil eines globalen Teams zu werden, dessen Ziel es ist, die begehrenswertesten Automobile der Welt zu bauen. Together for excellence.
+Stellennummer: MER0004ATV
+ Aufgaben
+ Gestalte mit uns die digitale Zukunft des Mercedes-Benz Vertriebs!
+ Du möchtest nicht nur über Künstliche Intelligenz sprechen, sondern sie in der Softwareentwicklung praktisch einsetzen? Du hast Lust, Geschäftsprozesse zu verstehen, Systeme miteinander zu verbinden und aus einer Idee eine funktionierende Automatisierung zu entwickeln?
+ Dann freuen wir uns auf Deine Bewerbung!
+ In unserem Umfeld entwickeln wir digitale Lösungen für den Mercedes-Benz Fahrzeugvertrieb. Dabei verbinden wir fachliche Prozesse mit modernen IT-Systemen, beispielsweise rund um Bestellung, Vertragsdaten und Zahlungsbedingungen.
+ Als Pflichtpraktikant*in unterstützt Du uns dabei, mit der Automatisierungsplattform n8n, Python und KI-gestützten Entwicklungswerkzeugen wiederverwendbare Integrationen aufzubauen. Du arbeitest zunächst in einer lokalen Entwicklungsumgebung und begleitest die Vorbereitung für den Einsatz in einer gehosteten Unternehmensumgebung. Dabei erhältst Du Einblicke in das Zusammenspiel von Fachbereich, Softwareentwicklung und IT-Plattformen.
+ Deine Aufgaben im Einzelnen:
+ Konzeption und Umsetzung von n8n-Workflows zur Entgegennahme, Prüfung und Übertragung von Daten zwischen Vertriebssystemen
+ Integration von REST-APIs und Webhooks sowie Mitarbeit an der ereignisbasierten Kommunikation über Apache Kafka
+ Nutzung von GitHub Copilot und weiteren KI-gestützten Entwicklungswerkzeugen zur Unterstützung beim Programmieren, Testen und Analysieren sowie kritische Bewertung der erzeugten Ergebnisse
+ Entwicklung und Optimierung von Python-Code für Datenverarbeitung, Validierung und technische Integrationen
+ Erstellung von Tests für erfolgreiche Abläufe und Fehlerfälle sowie Prüfung von Payloads, Event-Headern und Schnittstellenverhalten
+ Unterstützung bei der Umsetzung von Authentifizierung und verschlüsselter Kommunikation, beispielsweise mit OAuth2 und TLS
+ Einrichtung von Fehlerbehandlung und Monitoring sowie Unterstützung bei der transparenten Darstellung des Nutzens von Workflows anhand geeigneter Kennzahlen
+ Dokumentation von Lösungen, Versionierung mit Git sowie Vorbereitung der Übergabe und Übertragung zwischen Entwicklungs- und Testumgebungen
+ Analyse fachlicher Anforderungen und Übersetzung von Anforderungen aus dem Fahrzeugvertrieb in überschaubare technische Arbeitspakete gemeinsam mit dem Team
+ Darüber freuen wir uns zusätzlich
+ Erste Erfahrungen mit einem oder mehreren der folgenden Themen sind hilfreich, aber keine Voraussetzung:
+ n8n oder vergleichbaren Workflow-Automatisierungsplattformen
+ Docker, Git und lokaler Softwareentwicklung
+ Apache Kafka oder anderen Messaging-Systemen
+ OAuth2, OpenID Connect und TLS
+ GitHub Copilot oder vergleichbaren KI-gestützten Entwicklungswerkzeugen
+ Automatisierten Tests, Logging und Monitoring
+ Agilen Arbeitsweisen sowie Jira und Confluence
+ Du musst nicht bereits alles beherrschen. Wichtiger sind uns solide Grundlagen, Lernbereitschaft und die Motivation, technische Zusammenhänge wirklich zu verstehen.
+ Was Dich erwartet:
+ Ein praxisnahes Projekt mit konkreten Anwendungsfällen im Mercedes-Benz Vertrieb
+ Die Möglichkeit, eigene Ideen einzubringen und schrittweise Verantwortung für überschaubare Aufgaben zu übernehmen
+ Fachliche Begleitung und regelmäßiges Feedback durch erfahrene Kolleg*innen
+ Einblicke in moderne Integrationsarchitekturen und den verantwortungsvollen Einsatz von KI in der Entwicklung
+ Zusammenarbeit an der Schnittstelle zwischen Geschäftsprozessen und Technologie
+ Eine Tätigkeit, die sich im Rahmen der vereinbarten Arbeitszeiten mit Deinem Studium verbinden lässt
+ Die Tätigkeit kann ab Januar 2027 beginnen. 
+ Qualifikationen
+ Studiengang im Bereich Informatik, Wirtschaftsinformatik, des Software Engineerings oder eines vergleichbaren Studiengangs
+ Gute Kommunikationsfähigkeit in deutscher und englischer Sprache
+ Erste praktische Programmiererfahrung, idealerweise mit Python; Kenntnisse in JavaScript oder TypeScript von Vorteil
+ Grundlegende Kenntnisse in HTTP, REST und JSON oder die Bereitschaft, sich gezielt in diese Themen einzuarbeiten
+ Interesse an Automatisierung, Systemintegration und KI-gestützter Softwareentwicklung
+ Strukturierte und selbstständige Arbeitsweise sowie die Fähigkeit, Ergebnisse verständlich zu kommunizieren
+ Neugier, analytische Denkweise und Freude an der Zusammenarbeit im Team
+ Bitte beachte, dass Dein Praktikum an diesem Standort einen vorgeschriebenen Pflichtanteil aufweisen muss. 
+ Zusätzliche Informationen: 
+ Wir freuen uns auf Deine Online-Bewerbung mit Lebenslauf, Zeugnissen, aktueller Immatrikulationsbescheinigung mit Angabe des Fachsemesters, ggf. Pflichtpraktikumsnachweis und Nachweis über die Regelstudienzeit. Ein Anschreiben ist optional. Bitte vergiss nicht im Online-Formular Deine Dokumente als "relevant für diese Bewerbung" zu markieren und beachte die maximale Dateigröße von 5 MB. 
+ Weiterführende Informationen zu den Einstellkriterien findest Du hier .  
+ Schwerbehinderte und gleichgestellte Bewerbende sind herzlich willkommen! Die Schwerbehindertenvertretung ( sbv-zentrale@mercedes-benz.com ) unterstützt Dich gerne im Bewerbungsprozess. 
+ People Solutions hilft Dir bei Fragen zum Bewerbungsprozess gerne weiter. Du erreichst uns per E-Mail über myhrservice@mercedes-benz.com oder telefonisch unter 0711/17-99000 (Mo-Fr 10-12 Uhr & 13-15 Uhr). 
+ Benefits
+ Essens­zulagen 
+ Mit­arbeiter­handy möglich 
+ Mit­arbeiter­rabatte möglich 
+ Mit­arbeiter­beteili­gung möglich 
+ Mit­arbeiter Events 
+ Coaching 
+ Flexible Arbeits­zeit möglich 
+ Hybrides Arbeiten möglich 
+ Gesund­heits­maß­nahmen 
+ Betrieb­liche Alters­ver­sorgung 
+ Mobilitäts­angebote 
+ Park­platz 
+ Betriebs­arzt 
+ Gute An­bindung 
+ Barriere­frei­heit 
+ Kinder­betreuung 
+ Kantine, Café 
+ Kontakt
+Carolin Monja Löffler
+Email: carolin_monja.loeffler@mercedes-benz.com 
+Mercedes-Benz AG, Stuttgart
+Am Wallgraben 114 Haus B
+70565 Stuttgart

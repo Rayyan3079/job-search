@@ -1,0 +1,37 @@
+URL: https://www.linkedin.com/jobs/view/4491929888
+TITLE: Praktikum - KI-gestützte Datenanalyse und Visualisierung in der Entwicklung der Fahrzeugvernetzung / Fahrzeugnetzwerkarchitektur (w/m/d)
+COMPANY: AUDI AG
+LOC: Ingolstadt, Bavaria, Germany
+POSTED: 2026-11-20
+title: Praktikum - KI-gestützte Datenanalyse und Visualisierung in der Entwicklung der Fahrzeugvernetzung / Fahrzeugnetzwerkarchitektur (w/m/d)
+company: AUDI AG
+posted: 4 hours ago
+applicants: Be among the first 25 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fde.linkedin.com%2Fjobs%2Fview%2Fpraktikum-ki-gest%25C3%25BCtzte-datenanalyse-und-visualisierung-in-der-entwicklung-der-fahrzeugvernetzung-fahrzeugnetzwerkarchitektur-w-m-d-at-audi-ag-4491929888&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Arbeitsumfeld
+ Die Technische Entwicklung bei Audi verantwortet die Elektrik/Elektronik-Architektur aktueller und zukünftiger Fahrzeuggenerationen. Unser Fachbereich Fahrzeugvernetzung entwickelt die Netzwerkarchitektur, über die alle Steuergeräte im Fahrzeug miteinander kommunizieren – von klassischen Bussystemen wie CAN, LIN und FlexRay bis hin zu Automotive Ethernet für das softwaredefinierte Fahrzeug. Dabei arbeiten wir eng mit der Steuergeräteentwicklung, der Software-Integration und der Fahrzeugerprobung zusammen.
+Ein Schwerpunkt liegt auf der datengetriebenen Absicherung der Fahrzeugnetzwerke: Aus Erprobungsfahrten entstehen große Mengen an Kommunikationsdaten, Steuergeräte-Logs und Fehlerspeichereinträgen, die wir auf einer modernen Cloud-Datenplattform auswerten. Zunehmend setzen wir dabei auf KI-gestützte Methoden, um Fehlerbilder automatisch zu erkennen und Ursachen schneller einzugrenzen.
+In deinem Praktikum erhältst du Einblicke in die Entwicklung moderner Fahrzeugnetzwerke und in die Analyse großer Fahrzeugdatenmengen. Du unterstützt uns dabei, Auffälligkeiten frühzeitig zu erkennen und die Ergebnisse für Fachbereich und Management verständlich aufzubereiten. Dabei arbeitest du an der Schnittstelle zwischen Entwicklung, Erprobung und Projektsteuerung und kannst deine Ideen aktiv einbringen. Eine persönlich formulierte Bewerbung stellt dein Engagement zur Sache dar.
+ Aufgaben
+ Du analysierst und interpretierst umfassende Fahrzeugnetzwerkdaten, darunter Kommunikationsmitschnitte, Fehlerspeicher und Steuergeräte-Logs, mithilfe von SQL und Python auf modernen Cloud-Datenplattformen wie Databricks
+ Du konzipierst und entwickelst eigenverantwortlich eine innovative Web-App zur interaktiven Datenvisualisierung und trägst damit zur effizienten Aufbereitung komplexer Analysen bei
+ Du erstellst aussagekräftige Dashboards und automatisierte Managementberichte, die den Reifegrad, Fehlerstatus und Projektfortschritt transparent abbilden
+ Du wendest fortschrittliche KI-Methoden an, beispielsweise zur automatischen Klassifizierung von Fehlerbildern, Anomalieerkennung und Datenabfragen in natürlicher Sprache, und evaluierst deren Mehrwert für die Fahrzeugentwicklung
+ Du gestaltest und implementierst automatisierte Datenpipelines, um Rohdaten aus Fahrzeugerprobungen in strukturierte und analysefähige Formate zu überführen
+ Du vertiefst deine Kompetenzen in der zielgruppengerechten Aufbereitung und Präsentation komplexer technischer Analysen für verschiedene Stakeholder
+ Qualifikation
+ Du studierst Data Science, Informatik, Digital Business, Wirtschaftsinformatik, Elektrotechnik oder eine vergleichbare Fachrichtung
+ Du verfügst über sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
+ Du besitzt erste praktische Kenntnisse in Python und SQL
+ Du bringst idealerweise erste Erfahrungen mit Cloud-Datenplattformen (z.B. Databricks), Machine Learning, generativer KI oder Visualisierungstools mit
+ Du zeigst großes Interesse an der Automobilindustrie, Fahrzeugelektronik und Datenanalyse
+ Du überzeugst durch eine analytische, strukturierte und selbstständige Arbeitsweise
+ Du agierst mit Organisationstalent und ausgeprägter Kommunikationsfähigkeit
+ Den finalen Praktikumszeitraum vereinbarst du im Gespräch mit der Fachabteilung.
+ Weitere Informationen
+ Diese Stelle ist bei der AUDI AG in Ingolstadt zu besetzen.
+Wir verankern Nachhaltigkeit im unternehmerischen Handeln, in Produkten und Dienstleistungen. Wir leben Begeisterung, Vertrauen, Mut und Verantwortung, setzen uns aktiv für Inklusion ein und schaffen dadurch ein Umfeld, das die Individualität jedes Menschen im Unternehmensinteresse fördert.
+Referenzcode: I-P-114188
+Bei Fragen können Sie sich gerne an
+den Chat auf den Audi Karriere Webseiten wenden.

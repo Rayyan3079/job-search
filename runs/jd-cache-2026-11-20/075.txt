@@ -1,0 +1,36 @@
+URL: https://www.xing.com/jobs/hamburg-werkstudent-tech-product-development-bi-onboarding-159290892
+TITLE: Werkstudent:in in Tech – Product Development, BI & Onboarding (m/w/d)
+COMPANY: nu estate GmbH
+LOC: Hamburg
+POSTED: 2026-11-20
+title: Werkstudent:in in Tech – Product Development, BI & Onboarding (m/w/d)
+company: nu estate GmbH
+posted: 2026-11-20T12:04:55Z
+location: Hamburg | remote: 
+---
+Über nu estate
+ nu estate ist die digitale Hausverwaltung für Eigentümer mit hohem Anspruch an Transparenz, Qualität und Effizienz in Hamburg und Umgebung. Das Ziel ist der Aufbau eines KI-nativen Betriebssystems für die Immobilienverwaltung, das Technologie und operative Bewirtschaftung direkt verknüpft. Durch eine belastbare Datenbasis sollen Immobilien langfristig besser bewirtschaftet und fundierte Entscheidungen ermöglicht werden.
+ Das sind deine Aufgaben
+ In dieser Rolle unterstützen Sie die Produktentwicklung, den Bereich Business Intelligence und das Onboarding bei nu estate in Hamburg.
+ Produktentwicklung: Anforderungen aus der Verwaltung und Bewirtschaftung von Immobilien verstehen, strukturieren und gemeinsam mit dem Team in Prototypen und Produktverbesserungen übersetzen.
+ Datenanalyse & Business Intelligence (BI): Immobilienbezogene Daten aufbereiten und auswerten sowie Berichte und Dashboards entwickeln – beispielsweise zu Objekten, Mietverhältnissen, Leerstand oder operativen Abläufen.
+ Daten-Onboarding & LLM-Verarbeitungspipelines: Pipelines mitentwickeln, die unstrukturierte Bestandsdaten – etwa aus Mietverträgen, Objektunterlagen, PDFs oder gescannten Dokumenten – erschließen. Relevante Informationen extrahieren, auf das Zieldatenmodell abbilden, validieren und in unser System überführen. Quellen nachvollziehbar halten und unsichere Ergebnisse zur manuellen Prüfung kennzeichnen.
+ KI-gestütztes Arbeiten: Wiederkehrende Aufgaben erkennen, geeignete KI-Werkzeuge einsetzen und einfache Automatisierungen erproben. Ergebnisse auf Richtigkeit, Nutzen und Datenschutz prüfen.
+ Das bringst du mit
+ Du bist eingeschriebene:r Student:in, beispielsweise in Informatik, Wirtschaftsinformatik, Data Science oder einem vergleichbaren Studiengang.
+ Du arbeitest KI-nativ: Du nutzt KI bereits regelmäßig zum Programmieren, Analysieren oder Erarbeiten von Lösungen. Du kannst erklären, was dein eigener Beitrag war und wie du die Ergebnisse überprüft hast.
+ Du hast erste praktische Erfahrung mit Code, Daten oder Automatisierungen gesammelt – im Studium, in einem Nebenjob oder durch eigene Projekte.
+ Du denkst strukturiert und wirst neugierig, wenn Informationen noch in unübersichtlichen Dokumenten oder manuellen Abläufen stecken.
+ Du übernimmst Verantwortung für vereinbarte Aufgaben, sprichst Hindernisse früh an und gehst offen mit Feedback um.
+ Du interessierst dich für Immobilien und möchtest die fachlichen Zusammenhänge hinter den Daten verstehen. Vorkenntnisse in der Immobilienwirtschaft sind kein Muss.
+ Zusätzliche Pluspunkte: Erste Kenntnisse in Python, SQL, APIs, BI-Werkzeugen oder LLM-gestützter Dokumentenverarbeitung. Wir erwarten nicht, dass du bereits einen vollständigen Daten- und Automatisierungsstack beherrschst.
+ Was die Arbeit bei uns ausmacht
+ Konkreter Nutzen: Du arbeitest an Problemen aus der Immobilienpraxis. Eine bessere Datenübernahme, eine hilfreiche Auswertung oder ein automatisierter Arbeitsschritt soll den Alltag für die Menschen dahinter verbessern.
+ Verantwortung mit Rückhalt: Du übernimmst überschaubare Arbeitspakete und stimmst Ziele, Qualitätsmaßstäbe und offene Fragen mit dem Team ab.
+ Tempo mit Qualitätsanspruch: Wir wollen Lösungen früh ausprobieren und aus Ergebnissen lernen. Verlässliche Daten und nachvollziehbare Resultate sind dabei kein nachträgliches Extra.
+ Offenheit und Verbindlichkeit: Wir kommunizieren klar, geben ehrliches Feedback und sprechen an, wenn etwas nicht funktioniert. Respekt und Zusammenarbeit auf Augenhöhe gehören dazu.
+ Neugier statt Besserwisserei: Gute Argumente und Daten zählen mehr als die eigene Lieblingslösung. Wir wollen fachlich und menschlich dazulernen.
+ Vergütung
+ Die Vergütung für diese Werkstudentenstelle liegt bei EUR 15–20 pro Stunde.
+ Interesse?
+ Wir freuen uns auf eine kurze Vorstellung, deinen Lebenslauf und – falls vorhanden – ein Projektbeispiel. Besonders spannend: Wie hast du KI bisher eingesetzt, was war dein eigener Beitrag und wie hast du das Ergebnis überprüft?

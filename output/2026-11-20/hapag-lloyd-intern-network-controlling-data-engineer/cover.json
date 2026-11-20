@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "Muhammad Rayyan Ahmed",
+    "email": "muhammad-rayyan.ahmed@tu-ilmenau.de",
+    "phone": "+49 179 6991596",
+    "location": "Ilmenau, Germany",
+    "linkedin": "linkedin.com/in/rayyan--ahmed",
+    "credentials": [
+      "M.Sc. Data Science (in progress), TU Ilmenau",
+      "B.S. Artificial Intelligence",
+      "Four SAP Certified Associate certifications"
+    ]
+  },
+  "letter": {
+    "role_title": "Intern (m/f/d) Network Controlling Data Engineer",
+    "company": "Hapag-Lloyd AG",
+    "city": "Hamburg",
+    "greeting": "Dear Hapag-Lloyd Network Performance and Controlling team,",
+    "opening": "I am applying for the internship as Network Controlling Data Engineer. Building data flows, validating and reconciling data so that settlements are accurate, and documenting how everything fits together is what I did with SAP data in my previous roles.",
+    "profile_intro": "I am an M.Sc. Data Science student at TU Ilmenau with a B.S. in Artificial Intelligence. I worked in SAP data and analytics at TallyMarks Consulting and as a Business Analyst at Tapal Tea.",
+    "achievements": [
+      {
+        "lead": "Reconciliation",
+        "impact": "I used SQL analysis, ABAP CDS view validation and data reconciliation to keep reporting accurate"
+      },
+      {
+        "lead": "Data flows",
+        "impact": "I designed SAP Datasphere data pipelines and investigated sources and dependencies during a 42-dashboard migration"
+      },
+      {
+        "lead": "Python",
+        "impact": "I write Python for data work and built DocuMind, a Python application with 37 unit tests and full documentation"
+      }
+    ],
+    "problems_section": "I would analyse data flows, write reusable Python scripts for extraction, consolidation and validation, maintain reconciliation datasets and document processes. The team's visualisation and ETL tools and liner network operations are new to me, and I learn new tools quickly.",
+    "closing": "I am willing to relocate to Hamburg and can start immediately. As a non-EU student I will agree the internship hours with you so they fit my permitted working days. I would be glad to discuss the role.",
+    "date": "2026-11-20",
+    "language_closing": "I work in English (IELTS 8.0) and am currently learning German (A1)."
+  },
+  "output_path": "output/2026-11-20/hapag-lloyd-intern-network-controlling-data-engineer/Cover-Letter-Muhammad-Rayyan-Ahmed.pdf"
+}

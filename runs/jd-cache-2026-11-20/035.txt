@@ -1,0 +1,53 @@
+URL: https://www.linkedin.com/jobs/view/4491646101
+TITLE: BI-utvecklare inom Finance Data & Analytics
+COMPANY: Handelsbanken
+LOC: Worldwide | LinkedIn remote part-time/contract/intern (European Union)
+POSTED: 2026-11-19
+title: BI-utvecklare inom Finance Data & Analytics
+company: Handelsbanken
+posted: 1 day ago
+applicants: 29 applicants
+apply_offsite: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fse.linkedin.com%2Fjobs%2Fview%2Fbi-utvecklare-inom-finance-data-analytics-at-handelsbanken-4491646101&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
+---
+Vill du vara med och utveckla datalösningarna som ligger till grund för Handelsbankens analys, rapportering och ekonomiska uppföljning? Vi söker en BI-utvecklare som vill arbeta med stora datamängder, moderna Microsoft-teknologier och affärskritiska lösningar i en verksamhetsnära miljö.
+ Ditt team
+ Du blir en del av ett erfaret och engagerat team som ansvarar för utveckling och förvaltning av data- och analyslösningar inom ekonomiområdet. Teamet består av Agile Product Owner, Team Coach, Tech Lead, arkitekt och utvecklare som tillsammans arbetar för att skapa enhetlig, tillförlitlig och aktuell data för bankens ekonomifunktion.
+Funktionen hanterar stora datamängder från bankens olika affärsområden och möjliggör analys, rapportering och ekonomisk uppföljning för hela banken. Vi arbetar nära verksamheten och användarna för att förstå behov, identifiera förbättringsmöjligheter och skapa lösningar som ger verkligt värde.
+Arbetet bedrivs enligt agila principer och sker i nära samarbete med ekonomifunktionen, Markets-verksamheten och andra närliggande team inom banken.
+ Din roll
+ Som BI-utvecklare arbetar du med att utveckla, förvalta och vidareutveckla vårt datalager och våra analyslösningar. Rollen omfattar hela kedjan från behovsinsamling och analys till implementation, leverans och förvaltning.
+Du kommer att arbeta i en modern Microsoft-miljö med teknologier som SQL Server, SSAS Tabular, Azure DevOps, Git och Power BI Service. Samtidigt får du möjlighet att vara med och forma framtidens dataplattform där tekniker som Databricks och Microsoft Fabric blir en allt viktigare del av utvecklingen.
+Dina arbetsuppgifter omfattar bland annat att:
+ Utveckla och optimera ETL-processer och dataintegrationer
+ Arbeta med datamodellering, databasutveckling och datalagerlösningar
+ Utveckla rapporter, kuber och analyslösningar
+ Samarbeta med verksamheten för att omsätta behov till hållbara datalösningar
+ Bidra till utveckling av teknikval, arbetssätt och framtida dataplattformar
+ Rollen ger dig stora möjligheter att påverka både tekniska lösningar och arbetssätt samtidigt som du bygger specialistkompetens inom data, analys och finansiell informationsförsörjning.
+ Din profil
+ Vi söker dig som har ett starkt intresse för data och analys och som drivs av att skapa lösningar som gör det enklare att fatta välgrundade beslut. Du trivs i en roll där du får kombinera tekniskt djup med verksamhetsförståelse och ser värdet i att följa en leverans från behov till färdig lösning.
+Vi ser gärna att du har erfarenhet av:
+ BI- eller backendutveckling med fokus på data och analys
+ SQL-programmering och databasutveckling
+ Datalager, datamodellering och ETL-processer
+ SSAS Tabular och DAX
+ Azure DevOps och Git
+ Svenska och engelska i tal och skrift
+ Det är ett plus om du även har erfarenhet av:
+ Databricks
+ Microsoft Fabric
+ Power BI Service
+ Stora datamängder och komplexa datamiljöer
+ Finans-, ekonomi- eller rapporteringslösningar
+ AI-verktyg inom BI-området
+ För att lyckas i rollen tror vi att du är analytisk och ser möjligheter i data. Du motiveras av att skapa bättre analyser, rapportering och uppföljning samt har förmåga att omsätta verksamhetsbehov till lösningar som skapar värde.
+Du är strukturerad i ditt arbetssätt och tar ansvar för både kvalitet och leverans. Samtidigt är du lösningsorienterad och pragmatisk, med förmåga att hitta hållbara vägar framåt även i komplexa miljöer.
+Vi tror också att du är en samarbetsorienterad person som trivs med att arbeta tillsammans med andra. Du bygger relationer, kommunicerar tydligt och delar gärna med dig av kunskap för att bidra till teamets gemensamma utveckling.
+ Välkommen med din ansökan!
+ Som ett steg i Handelsbankens rekryteringsprocess krävs en godkänd bakgrundskontroll på slutkandidat, utförd av en extern part, innan anställning kan ske.
+Handelsbanken är en del av Sveriges totalförsvar och som bank fyller vi en samhällsviktig funktion tillsammans med den finansiella sektorn. Rollen kan därför komma att omfattas av krigsplacering inom Handelsbanken.
+ Kontaktuppgifter
+ Rekryterande chef: Peter Blumenthal, peter.blumenthal@handelsbanken.se
+ Talent Acquisition Partner: Julia Beard, julia.beard@handelsbanken.se
+ Facklig representant Finansförbundet: Per Almshult, per.almshult@handelsbanken.se
+ Facklig representant Akademikerföreningen: Bjarne Nilsson, bjarne.nilsson@handelsbanken.se
